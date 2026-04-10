@@ -188,6 +188,6 @@ Chapter 22+ represents the Passion narrative. Special attention to:
 
 ## Contact & Attribution
 
-Repository: https://github.com/marconian/proto-luke-reconstruction.git
+Repository: https://github.com/kayna-of-light/proto-luke-reconstruction.git
 
 This reconstruction is a scholarly exercise in textual criticism and should be cited appropriately in academic work.
