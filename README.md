@@ -56,6 +56,17 @@ These layers were added in the second century to anchor the primitive narrative 
 - **feature/** — New features or chapters
 - **hotfix/** — Urgent fixes to main
 
+## Companion Repositories
+
+This project is part of a multi-repository research framework:
+
+| Repository | Purpose |
+|---|---|
+| **[literary-compilation](https://github.com/kayna-of-light/literary-compilation)** | The Divine Bricolage — research collection and synthesis across multiple channels, documenting what the data shows and how it connects |
+| **[structured-data-analysis](https://github.com/kayna-of-light/structured-data-analysis)** | Empirical data analysis — NDE phenomenology, past-life memory, MallWorld dream data |
+| **[nag-hammadi-analysis](https://github.com/kayna-of-light/NagHammadiLibrary)** | Correspondential reading of the complete Nag Hammadi Library |
+| **[manichaean-analysis](https://github.com/kayna-of-light/manichaean-analysis)** | Extraction of the correspondential substrate from the Kephalaia and Manichaean corpus — recovering the Ancient Word |
+
 ## Output
 
 The reconstruction is available as a formatted PDF: `output/Proto-Luke_Jamesian_Protograph.pdf`
