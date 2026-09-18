@@ -99,8 +99,7 @@ The primary data file is `data/proto_luke.json`. Structure:
 
 ```
 ProtoLuke/
-├── .github/
-│   └── copilot-instructions.md    # This file
+├── CLAUDE.md                      # This file
 ├── data/
 │   └── proto_luke.json            # Primary reconstruction data
 ├── docs/
