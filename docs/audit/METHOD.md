@@ -14,7 +14,7 @@ A second premise is stated so that it can be tested, not assumed: that this text
 
 | Rank | Witness | Edition used | What it can establish |
 |---|---|---|---|
-| 1 | Tertullian, *Adversus Marcionem* IV (with V where relevant) | Evans, Oxford 1972 (Latin with apparatus; tertullian.org) | Presence or absence of a verse, and its sense. It gives wording only in Latin: a Greek wording drawn from it is a retroversion and is marked as one. |
+| 1 | Tertullian, *Adversus Marcionem* IV (with V where relevant) | Evans, Oxford 1972 (Latin with apparatus; tertullian.org) | Presence or absence of a verse, and its sense. It gives wording only in Latin: a Greek wording drawn from it is a retroversion and is marked as one. Section numbers in the evidence follow the tertullian.org division of Evans' text; in the `roth` field they are Roth's (Moreschini's), which sometimes differ by one section. |
 | 1 | Epiphanius, *Panarion* 42.11.6 (78 scholia) and 42.11.17 (refutations) | Holl, GCS 31 (1922), archive.org `epiphanius02epip` | Greek wording when quoted. Explicit statements that something is "not there" (οὐκ ἔχει, παρέκοψε, περιέκοψε). |
 | 2 | *Dialogue of Adamantius* | van de Sande Bakhuyzen, GCS 4 (1901), archive.org `derdialogdesadam00origuoft` | Greek wording, but only where a Marcionite speaker quotes the gospel or where the context ties the quotation to Marcion's text. Otherwise the passage is not evidence for Marcion's text. |
 | 3 | Other Fathers (Irenaeus, Hippolytus, Origen, Ephrem, Eznik, Jerome) | via Roth 2015 loci, read in the cited context where available | Presence of a verse, and the Marcionites' own reading of it. |
@@ -59,6 +59,7 @@ Roth's classification is recorded beside ours. His "unattested" covers both `U�
 4. **Retroversion.** Where only Tertullian attests a reading, the Greek printed is NA27 unless his Latin cannot render the NA27 Greek. Example: *putabamus* at 24:21. A retroversion is marked in the notes.
 5. **Spelling** follows NA27 (Ναζαρά at 4:16, Καφαρναούμ), unless a witness attests otherwise.
 6. **Differences between NA27 and SBLGNT** are checked against the NA27 page image. NA27 prevails.
+7. **Words NA27 prints in square brackets** are printed, without the brackets, unless a witness to this text lacks them (applied from batch 2 on: 9:2, 10:1).
 
 ## 6. Translation
 
