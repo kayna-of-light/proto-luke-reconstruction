@@ -1,0 +1,461 @@
+{
+  "luke_chapter": 21,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "21:1–4",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The widow's two coins: a separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 20:44 (4.38.10) to 21:8 (4.39.1)."
+    },
+    {
+      "ref": "21:5–6",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The temple's stones that will be thrown down: a separate NA27 paragraph with no attested verse. Tertullian's survey of the discourse begins \"from the disciples' question\" (21:7; 4.39.13)."
+    },
+    {
+      "ref": "21:7",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.13)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.13",
+          "evidence": "\"Ipsum decursum scripturae evangelicae ab interrogatione discipulorum usque ad parabolam fici…\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests the disciples' question, not its wording; Roth rates \"the disciples\" as subject possible only (NA27: οἱ μαθηταί added by D). In this text \"these things\" has no antecedent, since 21:5–6, the prediction about the temple stones, are not printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 1"
+    },
+    {
+      "ref": "21:8",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.1–2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.1",
+          "evidence": "\"…qui multos dicat venturos in nomine ipsius… amplius et prohibeat eos recipi…\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.39.2",
+          "evidence": "\"Venient denique illi dicentes, Ego sum Christus.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"I am the Christ\" is Matthew's wording (Matt 24:5); Roth: possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 2"
+    },
+    {
+      "ref": "21:9",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.3",
+          "evidence": "\"Videamus et quae signa temporibus imponat. Bella, opinor, et regnum super regnum, et gentem super gentem, et pestem, et fames terraeque motus, et formidines, et prodigia de caelo… Haec cum adicit etiam oportere fieri…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 3"
+    },
+    {
+      "ref": "21:10",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.3",
+          "evidence": "\"Videamus et quae signa temporibus imponat. Bella, opinor, et regnum super regnum, et gentem super gentem, et pestem, et fames terraeque motus, et formidines, et prodigia de caelo… Haec cum adicit etiam oportere fieri…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 4"
+    },
+    {
+      "ref": "21:11",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.3",
+          "evidence": "\"Videamus et quae signa temporibus imponat. Bella, opinor, et regnum super regnum, et gentem super gentem, et pestem, et fames terraeque motus, et formidines, et prodigia de caelo… Haec cum adicit etiam oportere fieri…\""
+        }
+      ],
+      "wording": "NA27 (ἀπ' οὐρανοῦ σημεῖα; SBLGNT σημεῖα ἀπ' οὐρανοῦ — checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 5"
+    },
+    {
+      "ref": "21:12",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.4",
+          "evidence": "\"Ante haec autem persecutiones eis praedicat et passiones venturas, in martyrium utique et in salutem.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 6"
+    },
+    {
+      "ref": "21:13",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.4",
+          "evidence": "\"in martyrium\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 7"
+    },
+    {
+      "ref": "21:14",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.6–7)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.6",
+          "evidence": "\"Et hic igitur ipse vetat cogitari quid responderi oporteat apud tribunalia\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 8"
+    },
+    {
+      "ref": "21:15",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.6–7)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.6",
+          "evidence": "\"Et sapientiam ipsam, cui nemo resisteret…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 9"
+    },
+    {
+      "ref": "21:16",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.8",
+          "evidence": "\"A proximis quoque persecutiones…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 10"
+    },
+    {
+      "ref": "21:17",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.8",
+          "evidence": "\"et nominis ex odio utique blasphemiam praedicatam\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 11"
+    },
+    {
+      "ref": "21:18",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 58",
+          "evidence": "πάλιν παρέκοψε τὸ »θρὶξ ἐκ τῆς κεφαλῆς ὑμῶν οὐ μὴ ἀπόληται«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text lacked \"not a hair of your head will perish\"; NA27 cites the omission for Marcion (McionE), with syc. Tertullian goes from 21:17 to 21:19 (4.39.8)."
+    },
+    {
+      "ref": "21:19",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.8",
+          "evidence": "\"Sed per tolerantiam, inquit, salvos facietis vosmetipsos\"."
+        }
+      ],
+      "wording": "NA27. Tertullian's \"you will save yourselves\" (NA27 apparatus: σώσετε McionT) is rated possible only by Roth; not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 12"
+    },
+    {
+      "ref": "21:20",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.9",
+          "evidence": "\"Sed monstrato dehinc tempore excidii, cum coepisset vallari exercitibus Hierusalem…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 13"
+    },
+    {
+      "ref": "21:21–22",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 59",
+          "evidence": "πάλιν παρέκοψε ταῦτα »τότε οἱ ἐν τῇ Ἰουδαίᾳ φευγέτωσαν εἰς τὰ ὄρη« καὶ τὰ ἑξῆς, διὰ τὰ ἐπιφερόμενα ἐν τῷ ῥητῷ »ἕως πληρωθῇ πάντα τὰ γεγραμμένα«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text lacked \"then those in Judea must flee to the mountains\" and what follows, including \"that all that is written may be fulfilled\". Tertullian passes from 21:20 to 21:25 (4.39.9)."
+    },
+    {
+      "ref": "21:23",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 21:20–24.",
+      "reconstruction": "chapter 19, verse 14"
+    },
+    {
+      "ref": "21:24",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 21:20–24.",
+      "reconstruction": "chapter 19, verse 15"
+    },
+    {
+      "ref": "21:25",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.9",
+          "evidence": "\"signa iam ultimi finis enarrat, solis et lunae siderumque prodigia, et in terra angustias nationum obstupescentium velut a sonitu maris fluctuantis, pro expectatione imminentium orbi malorum. Quod et ipsae vires caelorum concuti habeant…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 16"
+    },
+    {
+      "ref": "21:26",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.9",
+          "evidence": "\"signa iam ultimi finis enarrat, solis et lunae siderumque prodigia, et in terra angustias nationum obstupescentium velut a sonitu maris fluctuantis, pro expectatione imminentium orbi malorum. Quod et ipsae vires caelorum concuti habeant…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 17"
+    },
+    {
+      "ref": "21:27",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.10–11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.10",
+          "evidence": "\"Post haec quid dominus? Et tunc videbunt filium hominis venientem de caelis cum plurima virtute.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.39.11",
+          "evidence": "\"Hic erit dies magnus domini et illustris, venientis de caelis filii hominis, secundum Danielem: Ecce cum caeli nubibus tanquam filius hominis adveniens…\""
+        }
+      ],
+      "wording": "Marcionite reading adopted (retroversion): \"coming from the heavens with great power\" for NA27 \"coming in a cloud with power and great glory\". Tertullian quotes the verse as the Lord's words (\"Post haec quid dominus?\", 4.39.10) and repeats \"coming from the heavens\" (4.39.11); Roth: \"from the heavens\" very likely, \"with power… great\" secure, \"and glory likely not present\". His Latin \"cum plurima virtute\" cannot render NA27's two nouns. The cloud he brings in himself, from Daniel 7:13, as a separate text. NA27 apparatus: καὶ δυνάμει πολλῇ καὶ δόξῃ D e (sys.c).",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 18"
+    },
+    {
+      "ref": "21:28",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.10, 12)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.10",
+          "evidence": "\"Cum autem haec fient, erigetis vos, et levabitis capita, quoniam appropinquavit redemptio vestra\"."
+        }
+      ],
+      "wording": "NA27. Tertullian lacks \"your\" with \"heads\"; Roth: likely not present, because Tertullian has \"capita vestra\" when he cites the verse in Res. 22.6, and D d omit the pronoun (Roth n. 434; not in the NA27 apparatus). Latin can leave the possessive unexpressed, so his \"capita\" can render NA27 (METHOD §5.4). Printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 19"
+    },
+    {
+      "ref": "21:29",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.10, 13, 16)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.16",
+          "evidence": "\"In summa ipsius parabolae considera exemplum. Aspice ficum et arbores omnes\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 20"
+    },
+    {
+      "ref": "21:30",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.16)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.16",
+          "evidence": "\"cum fructum protulerint, intellegunt homines aestatem appropinquasse\"."
+        }
+      ],
+      "wording": "NA27. Tertullian's \"when they bear fruit, people know\" is rated possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 21"
+    },
+    {
+      "ref": "21:31",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.10, 16)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.11",
+          "evidence": "\"Sic et vos cum videritis omnia haec fieri, scitote appropinquasse regnum dei.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.39.16",
+          "evidence": "\"sic et vos cum videritis haec fieri, scitote in proximo esse regnum dei\"."
+        }
+      ],
+      "wording": "NA27. Tertullian cites the verse twice; 4.39.16 renders NA27 exactly, while 4.39.11 has Matthew's \"all\" (Matt 24:33). Roth: secure, as NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 22"
+    },
+    {
+      "ref": "21:32",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.18)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.18",
+          "evidence": "\"Adhuc ingerit non transiturum caelum ac terram, nisi omnia peragantur.\""
+        }
+      ],
+      "wording": "NA27. Tertullian has \"heaven and earth will not pass away until all is accomplished\" (cf. Matt 5:18); Roth: possible only. Not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 23"
+    },
+    {
+      "ref": "21:33",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.18)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.18",
+          "evidence": "\"Transeat age nunc terra et caelum… dum verbum eius maneat in aevum; sic enim et Esaias praenuntiavit.\""
+        }
+      ],
+      "wording": "NA27. Tertullian joins Isa 40:8 (\"the word… abides for ever\"); Roth rates \"my word abides\" possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 24"
+    },
+    {
+      "ref": "21:34",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.18)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.18",
+          "evidence": "\"Admoneantur et discipuli, ne quando graventur corda eorum crapula et ebrietate et saecularibus curis, et insistat eis repentinus dies ille velut laqueus\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 25"
+    },
+    {
+      "ref": "21:35",
+      "class": "A+",
+      "roth": "present for 21:35a (Marc. 4.39.18); 21:35b unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.18",
+          "evidence": "\"velut laqueus\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 26"
+    },
+    {
+      "ref": "21:36",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 21:34–36.",
+      "reconstruction": "chapter 19, verse 27"
+    },
+    {
+      "ref": "21:37",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.19)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.19",
+          "evidence": "\"Sed enim per diem in templo docebat… Ad noctem vero in elaeonem secedebat.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 28"
+    },
+    {
+      "ref": "21:38",
+      "class": "A+",
+      "roth": "present (Marc. 4.39.19)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.39.19",
+          "evidence": "\"Diluculo conveniendum erat…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 19, verse 29"
+    }
+  ]
+}

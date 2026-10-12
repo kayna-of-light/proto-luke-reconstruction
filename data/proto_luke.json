@@ -3949,1048 +3949,935 @@
     {
       "chapter": 16,
       "title": "Proto-Luke Chapter 16",
-      "preamble": "Two parables of prayer and humility. A widow persists before an unjust judge until he grants her vindication—how much more will God vindicate those who cry to him? A Pharisee and a tax-collector go up to the Temple to pray. The Pharisee thanks God that he is not like other men; the tax-collector, standing far off, will not even lift his eyes to heaven: 'God, be merciful to me, a sinner.' It is the tax-collector who goes home justified. Then a ruler asks: 'Good Teacher, what must I do to inherit eternal life?' Jesus tells him to sell everything and give to the poor. The man goes away sorrowful, for he is very rich. A camel will pass through the eye of a needle before a rich man enters the kingdom of God.",
+      "preamble": "Prayer, the commandments and the son of David. Jesus tells of a widow who wore down an unjust judge, and says that God will give justice to his chosen ones who cry to him day and night. He tells of a Pharisee and a tax collector praying in the temple, and of the one who went home justified. A ruler asks what he must do to inherit eternal life. In this text Jesus answers, \"No one is good except one, God the Father,\" and lists the commandments in the order \"do not kill, do not commit adultery\". He then tells the man: \"One thing you lack: sell all that you have and give to the poor… and come, follow me.\" Near Jericho a blind man calls him \"Jesus, son of David\" and is healed. The third prediction of the passion, with its appeal to \"everything written by the prophets\" (18:31–33), is not in the text (Epiphanius, sch. 52).",
       "verses": [
         {
           "verse": 1,
           "canonical_ref": "Luke 18:1",
-          "english": "And he spoke also a parable to them, for the necessity to pray always and not to give up.",
-          "greek": "Ἔλεγεν δὲ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι καὶ μὴ ἐγκακεῖν."
+          "english": "He told them a parable to show that they ought always to pray and not lose heart.",
+          "greek": "Ἔλεγεν δὲ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι αὐτοὺς καὶ μὴ ἐγκακεῖν,"
         },
         {
           "verse": 2,
           "canonical_ref": "Luke 18:2",
-          "english": "\"There was a certain judge in a certain city, not fearing God and not respecting man.\"",
+          "english": "He said, \"In a certain town there was a judge who neither feared God nor respected people.",
           "greek": "λέγων· Κριτής τις ἦν ἔν τινι πόλει τὸν θεὸν μὴ φοβούμενος καὶ ἄνθρωπον μὴ ἐντρεπόμενος."
         },
         {
           "verse": 3,
           "canonical_ref": "Luke 18:3",
-          "english": "\"And a widow was in that city, and she came to him saying: 'Avenge me of my adversary.'\"",
+          "english": "And there was a widow in that town who kept coming to him and saying, 'Give me justice against my adversary.'",
           "greek": "χήρα δὲ ἦν ἐν τῇ πόλει ἐκείνῃ καὶ ἤρχετο πρὸς αὐτὸν λέγουσα· Ἐκδίκησόν με ἀπὸ τοῦ ἀντιδίκου μου."
         },
         {
           "verse": 4,
-          "canonical_ref": "Luke 18:5",
-          "english": "\"...because this widow causes me trouble, I will avenge her, that she might not in the end, coming, wear me out.\"",
-          "greek": "διά γε τὸ παρέχειν μοι κόπον τὴν χήραν ταύτην, ἐκδικήσω αὐτήν."
+          "canonical_ref": "Luke 18:4",
+          "english": "For a while he refused, but afterwards he said to himself, 'Though I neither fear God nor respect people,",
+          "greek": "καὶ οὐκ ἤθελεν ἐπὶ χρόνον, μετὰ ταῦτα δὲ εἶπεν ἐν ἑαυτῷ· Εἰ καὶ τὸν θεὸν οὐ φοβοῦμαι οὐδὲ ἄνθρωπον ἐντρέπομαι,",
+          "attestation": "unattested"
         },
         {
           "verse": 5,
-          "canonical_ref": "Luke 18:8",
-          "english": "\"I say to you that he will do the vindication of them speedily.\"",
-          "greek": "λέγω ὑμῖν ὅτι ποιήσει τὴν ἐκδίκησιν αὐτῶν ἐν τάχει."
+          "canonical_ref": "Luke 18:5",
+          "english": "yet because this widow keeps bothering me, I will give her justice, so that she does not wear me out by her continual coming.'\"",
+          "greek": "διά γε τὸ παρέχειν μοι κόπον τὴν χήραν ταύτην ἐκδικήσω αὐτήν ἵνα μὴ εἰς τέλος ἐρχομένη ὑπωπιάζῃ με."
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 18:9",
-          "english": "And he spoke also toward certain ones having trusted in themselves that they are righteous and treating the rest with contempt, this parable.",
-          "greek": "Ἔλεγεν δὲ καὶ πρός τινας τοὺς πεποιθότας ἐφ᾽ ἑαυτοῖς ὅτι εἰσὶν δίκαιοι καὶ ἐξουθενοῦντας τοὺς λοιποὺς τὴν παραβολὴν ταύτην."
+          "canonical_ref": "Luke 18:6",
+          "english": "And the Lord said, \"Hear what the unjust judge says.",
+          "greek": "εἶπεν δὲ ὁ κύριος· Ἀκούσατε τί ὁ κριτὴς τῆς ἀδικίας λέγει·",
+          "attestation": "unattested"
         },
         {
           "verse": 7,
-          "canonical_ref": "Luke 18:10",
-          "english": "\"Two men went up into the Temple to pray; one a Pharisee and the other a tax-collector.\"",
-          "greek": "Ἄνθρωποι δύο ἀνέβησαν εἰς τὸ ἱερὸν προσεύξασθαι, ὁ εἷς Φαρισαῖος καὶ ὁ ἕτερος τελώνης."
+          "canonical_ref": "Luke 18:7",
+          "english": "And will not God give justice to his chosen ones, who cry to him day and night? Will he delay long over them?",
+          "greek": "ὁ δὲ θεὸς οὐ μὴ ποιήσῃ τὴν ἐκδίκησιν τῶν ἐκλεκτῶν αὐτοῦ τῶν βοώντων αὐτῷ ἡμέρας καὶ νυκτός, καὶ μακροθυμεῖ ἐπ’ αὐτοῖς;"
         },
         {
           "verse": 8,
-          "canonical_ref": "Luke 18:11",
-          "english": "\"The Pharisee, having been stationed, prayed these things toward himself: 'God, I thank you that I am not as the rest of men...'\"",
-          "greek": "ὁ Φαρισαῖος σταθεὶς ταῦτα πρὸς ἑαυτὸν προσηύχετο· Ὁ θεός, εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων."
+          "canonical_ref": "Luke 18:8",
+          "english": "I tell you, he will give them justice quickly. Nevertheless, when the son of man comes, will he find faith on earth?\"",
+          "greek": "λέγω ὑμῖν ὅτι ποιήσει τὴν ἐκδίκησιν αὐτῶν ἐν τάχει. πλὴν ὁ υἱὸς τοῦ ἀνθρώπου ἐλθὼν ἆρα εὑρήσει τὴν πίστιν ἐπὶ τῆς γῆς;",
+          "attestation": "unattested"
         },
         {
           "verse": 9,
-          "canonical_ref": "Luke 18:13",
-          "english": "\"And the tax-collector, having been stationed from a distance, would not even lift his eyes into the heaven... but struck his chest saying: 'God, be merciful to me, the sinner.'\"",
-          "greek": "ὁ δὲ τελώνης μακρόθεν ἑστὼς οὐκ ἤθελεν οὐδὲ τοὺς ὀφθαλμοὺς εἰς τὸν οὐρανὸν ἐπᾶραι, ἀλλ' ἔτυπτεν τὸ στῆθος ἑαυτοῦ λέγων· Ὁ θεός, ἱλάσθητί μοι τῷ ἁμαρτωλῷ."
+          "canonical_ref": "Luke 18:9",
+          "english": "He also told this parable to some who trusted in themselves that they were righteous, and treated others with contempt:",
+          "greek": "Εἶπεν δὲ καὶ πρός τινας τοὺς πεποιθότας ἐφ’ ἑαυτοῖς ὅτι εἰσὶν δίκαιοι καὶ ἐξουθενοῦντας τοὺς λοιποὺς τὴν παραβολὴν ταύτην·",
+          "attestation": "unattested"
         },
         {
           "verse": 10,
-          "canonical_ref": "Luke 18:14",
-          "english": "\"I say to you, this man went down into his house having been justified rather than that man; for everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.\"",
-          "greek": "λέγω ὑμῖν, κατέβη οὗτος δεδικαιωμένος εἰς τὸν οἶκον αὐτοῦ παρ' ἐκεῖνον· ὅτι πᾶς ὁ ὑψῶν ἑαυτὸν ταπεινωθήσεται, ὁ δὲ ταπεινῶν ἑαυτὸν ὑψωθήσεται."
+          "canonical_ref": "Luke 18:10",
+          "english": "\"Two men went up into the temple to pray, one a Pharisee and the other a tax collector.",
+          "greek": "Ἄνθρωποι δύο ἀνέβησαν εἰς τὸ ἱερὸν προσεύξασθαι, ὁ εἷς Φαρισαῖος καὶ ὁ ἕτερος τελώνης."
         },
         {
           "verse": 11,
-          "canonical_ref": "Luke 18:18",
-          "english": "And a certain ruler questioned him, saying: \"Good Teacher, what doing shall I inherit life?\"",
-          "greek": "Καὶ ἐπηρώτησέν τις αὐτὸν ἄρχων λέγων· Διδάσκαλε ἀγαθέ, τί ποιήσας ζωὴν αἰώνιον κληρονομήσω;"
+          "canonical_ref": "Luke 18:11",
+          "english": "The Pharisee, standing by himself, prayed thus: 'God, I thank you that I am not like other people, robbers, unjust, adulterers, or even like this tax collector.",
+          "greek": "ὁ Φαρισαῖος σταθεὶς πρὸς ἑαυτὸν ταῦτα προσηύχετο· Ὁ θεός, εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων, ἅρπαγες, ἄδικοι, μοιχοί, ἢ καὶ ὡς οὗτος ὁ τελώνης·"
         },
         {
           "verse": 12,
-          "canonical_ref": "Luke 18:19",
-          "english": "And Jesus said to him: \"Why do you call me good? No one is good except one, God.\"",
-          "greek": "εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς· Τί με λέγεις ἀγαθόν; οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ θεός."
+          "canonical_ref": "Luke 18:12",
+          "english": "I fast twice a week; I give tithes of all that I get.'",
+          "greek": "νηστεύω δὶς τοῦ σαββάτου, ἀποδεκατῶ πάντα ὅσα κτῶμαι."
         },
         {
           "verse": 13,
-          "canonical_ref": "Luke 18:20",
-          "english": "The Ruler said: \"I know the commandments: You should not commit adultery, you should not kill, you should not steal, you should not bear false witness, honour father and mother.\"",
-          "greek": "ὁ δὲ ἄρχων εἶπεν· Τὰς ἐντολὰς οἶδα· μὴ μοιχεύσῃς, μὴ φονεύσῃς, μὴ κλέψῃς, μὴ ψευδομαρτυρήσῃς, τίμα τὸν πατέρα καὶ τὴν μητέρα."
+          "canonical_ref": "Luke 18:13",
+          "english": "But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, 'God, be merciful to me, a sinner!'",
+          "greek": "ὁ δὲ τελώνης μακρόθεν ἑστὼς οὐκ ἤθελεν οὐδὲ τοὺς ὀφθαλμοὺς ἐπᾶραι εἰς τὸν οὐρανόν, ἀλλ’ ἔτυπτεν τὸ στῆθος αὐτοῦ λέγων· Ὁ θεός, ἱλάσθητί μοι τῷ ἁμαρτωλῷ."
         },
         {
           "verse": 14,
-          "canonical_ref": "Luke 18:21",
-          "english": "And he said: \"All these things I have guarded from my youth.\"",
-          "greek": "ὁ δὲ εἶπεν· ταῦτα πάντα ἐφύλαξα ἐκ νεότητος."
+          "canonical_ref": "Luke 18:14",
+          "english": "I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, but the one who humbles himself will be exalted.\"",
+          "greek": "λέγω ὑμῖν, κατέβη οὗτος δεδικαιωμένος εἰς τὸν οἶκον αὐτοῦ παρ’ ἐκεῖνον· ὅτι πᾶς ὁ ὑψῶν ἑαυτὸν ταπεινωθήσεται, ὁ δὲ ταπεινῶν ἑαυτὸν ὑψωθήσεται."
         },
         {
           "verse": 15,
-          "canonical_ref": "Luke 18:22",
-          "english": "And hearing this, Jesus said to him: \"Yet one thing is lacking to you: Sell all, as much as you have, and distribute to the poor, and you shall have treasure in heaven; and come, follow me.\"",
-          "greek": "ἀκούσας δὲ ὁ Ἰησοῦς εἶπεν αὐτῷ· Ἔτι ἕν σοι λείπει· πάντα ὅσα ἔχεις πώλησον καὶ διάδος πτωχοῖς, καὶ ἕξεις θησαυρὸν ἐν οὐρανῷ, καὶ δεῦρο ἀκολούθει μοι."
+          "canonical_ref": "Luke 18:15",
+          "english": "Now they were bringing even infants to him that he might touch them; and when the disciples saw it, they rebuked them.",
+          "greek": "Προσέφερον δὲ αὐτῷ καὶ τὰ βρέφη ἵνα αὐτῶν ἅπτηται· ἰδόντες δὲ οἱ μαθηταὶ ἐπετίμων αὐτοῖς.",
+          "attestation": "unattested"
         },
         {
           "verse": 16,
-          "canonical_ref": "Luke 18:23",
-          "english": "But hearing these things, he became very sorrowful, for he was rich exceedingly.",
-          "greek": "ὁ δὲ ἀκούσας ταῦτα περίλυπος ἐγενήθη· ἦν γὰρ πλούσιος σφόδρα."
+          "canonical_ref": "Luke 18:16",
+          "english": "But Jesus called them to him, saying, \"Let the children come to me, and do not hinder them; for to such belongs the kingdom of God.",
+          "greek": "ὁ δὲ Ἰησοῦς προσεκαλέσατο αὐτὰ λέγων· Ἄφετε τὰ παιδία ἔρχεσθαι πρός με καὶ μὴ κωλύετε αὐτά, τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τοῦ θεοῦ."
         },
         {
           "verse": 17,
-          "canonical_ref": "Luke 18:24",
-          "english": "And Jesus, seeing him, said: \"How difficult it is for those having the riches to enter into the kingdom of God.\"",
-          "greek": "ἰδὼν δὲ αὐτὸν ὁ Ἰησοῦς εἶπεν· Πῶς δυσκόλως οἱ τὰ χρήματα ἔχοντες εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσπορεύονται."
+          "canonical_ref": "Luke 18:17",
+          "english": "Truly I tell you, whoever does not receive the kingdom of God like a child will never enter it.\"",
+          "greek": "ἀμὴν λέγω ὑμῖν, ὃς ἂν μὴ δέξηται τὴν βασιλείαν τοῦ θεοῦ ὡς παιδίον, οὐ μὴ εἰσέλθῃ εἰς αὐτήν.",
+          "attestation": "unattested"
         },
         {
           "verse": 18,
-          "canonical_ref": "Luke 18:25",
-          "english": "\"For it is easier for a camel to enter through a needle's eye than for a rich man to enter into the kingdom of God.\"",
-          "greek": "εὐκοπώτερον γάρ ἐστιν κάμηλον διὰ τρυπήματος ῥαφίδος εἰσελθεῖν ἢ πλούσιον εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσελθεῖν."
+          "canonical_ref": "Luke 18:18",
+          "english": "And a ruler asked him, \"Good teacher, what must I do to inherit eternal life?\"",
+          "greek": "Καὶ ἐπηρώτησέν τις αὐτὸν ἄρχων λέγων· Διδάσκαλε ἀγαθέ, τί ποιήσας ζωὴν αἰώνιον κληρονομήσω;"
         },
         {
           "verse": 19,
-          "canonical_ref": "Luke 18:35",
-          "english": "And it happened in his drawing near to Jericho, a certain blind man sat by the road begging.",
-          "greek": "Ἐγένετο δὲ ἐν τῷ ἐγγίζειν αὐτὸν εἰς Ἰεριχὼ τυφλός τις ἐκάθητο παρὰ τὴν ὁδὸν ἐπαιτῶν."
+          "canonical_ref": "Luke 18:19",
+          "english": "And Jesus said to him, \"Why do you call me good? No one is good except one, God the Father.",
+          "greek": "εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς· Τί με λέγεις ἀγαθόν; οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ θεὸς ὁ πατήρ."
         },
         {
           "verse": 20,
-          "canonical_ref": "Luke 18:37",
-          "english": "And they reported to him that Jesus is passing by.",
-          "greek": "ἀπήγγειλαν δὲ αὐτῷ ὅτι Ἰησοῦς παρέρχεται."
+          "canonical_ref": "Luke 18:20",
+          "english": "You know the commandments: Do not kill, do not commit adultery, do not steal, do not bear false witness, honour your father and mother.\"",
+          "greek": "τὰς ἐντολὰς οἶδας· Μὴ φονεύσῃς, Μὴ μοιχεύσῃς, Μὴ κλέψῃς, Μηδὲ ψευδομαρτυρήσῃς, Τίμα τὸν πατέρα σου καὶ τὴν μητέρα."
         },
         {
           "verse": 21,
-          "canonical_ref": "Luke 18:38",
-          "english": "And he cried out saying: \"Jesus, Son of David, have mercy on me!\"",
-          "greek": "καὶ ἐβόησεν λέγων· Ἰησοῦ υἱὲ Δαυίδ, ἐλέησόν με."
+          "canonical_ref": "Luke 18:21",
+          "english": "And he said, \"All these I have kept from my youth.\"",
+          "greek": "ὁ δὲ εἶπεν· Ταῦτα πάντα ἐφύλαξα ἐκ νεότητος."
         },
         {
           "verse": 22,
-          "canonical_ref": "Luke 18:42",
-          "english": "And Jesus said to him: \"See! Your faith has saved you.\"",
-          "greek": "καὶ ὁ Ἰησοῦς εἶπεν αὐτῷ· Ἀνάβλεψον· ἡ πίστις σου σέσωκέν σε."
+          "canonical_ref": "Luke 18:22",
+          "english": "When Jesus heard this, he said to him, \"One thing you lack: sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me.\"",
+          "greek": "ἀκούσας δὲ ὁ Ἰησοῦς εἶπεν αὐτῷ· Ἕν σοι λείπει· πάντα ὅσα ἔχεις πώλησον καὶ δὸς πτωχοῖς, καὶ ἕξεις θησαυρὸν ἐν οὐρανῷ, καὶ δεῦρο ἀκολούθει μοι."
         },
         {
           "verse": 23,
+          "canonical_ref": "Luke 18:23",
+          "english": "But when he heard these things, he became very sad, for he was very rich.",
+          "greek": "ὁ δὲ ἀκούσας ταῦτα περίλυπος ἐγενήθη, ἦν γὰρ πλούσιος σφόδρα."
+        },
+        {
+          "verse": 24,
+          "canonical_ref": "Luke 18:35",
+          "english": "As he drew near to Jericho, a blind man was sitting by the roadside begging.",
+          "greek": "Ἐγένετο δὲ ἐν τῷ ἐγγίζειν αὐτὸν εἰς Ἰεριχὼ τυφλός τις ἐκάθητο παρὰ τὴν ὁδὸν ἐπαιτῶν."
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 18:36",
+          "english": "Hearing a crowd going by, he asked what this meant.",
+          "greek": "ἀκούσας δὲ ὄχλου διαπορευομένου ἐπυνθάνετο τί εἴη τοῦτο·"
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 18:37",
+          "english": "They told him, \"Jesus of Nazareth is passing by.\"",
+          "greek": "ἀπήγγειλαν δὲ αὐτῷ ὅτι Ἰησοῦς ὁ Ναζωραῖος παρέρχεται."
+        },
+        {
+          "verse": 27,
+          "canonical_ref": "Luke 18:38",
+          "english": "And he cried out, \"Jesus, son of David, have mercy on me!\"",
+          "greek": "καὶ ἐβόησεν λέγων· Ἰησοῦ υἱὲ Δαυίδ, ἐλέησόν με."
+        },
+        {
+          "verse": 28,
+          "canonical_ref": "Luke 18:39",
+          "english": "And those who were in front rebuked him, telling him to be silent; but he cried out all the more, \"Son of David, have mercy on me!\"",
+          "greek": "καὶ οἱ προάγοντες ἐπετίμων αὐτῷ ἵνα σιγήσῃ· αὐτὸς δὲ πολλῷ μᾶλλον ἔκραζεν· Υἱὲ Δαυίδ, ἐλέησόν με."
+        },
+        {
+          "verse": 29,
+          "canonical_ref": "Luke 18:40",
+          "english": "Jesus stopped and commanded him to be brought to him. When he came near, he asked him,",
+          "greek": "σταθεὶς δὲ ὁ Ἰησοῦς ἐκέλευσεν αὐτὸν ἀχθῆναι πρὸς αὐτόν. ἐγγίσαντος δὲ αὐτοῦ ἐπηρώτησεν αὐτόν·"
+        },
+        {
+          "verse": 30,
+          "canonical_ref": "Luke 18:41",
+          "english": "\"What do you want me to do for you?\" He said, \"Lord, let me see again.\"",
+          "greek": "Τί σοι θέλεις ποιήσω; ὁ δὲ εἶπεν· Κύριε, ἵνα ἀναβλέψω."
+        },
+        {
+          "verse": 31,
+          "canonical_ref": "Luke 18:42",
+          "english": "And Jesus said to him, \"See again; your faith has saved you.\"",
+          "greek": "καὶ ὁ Ἰησοῦς εἶπεν αὐτῷ· Ἀνάβλεψον· ἡ πίστις σου σέσωκέν σε."
+        },
+        {
+          "verse": 32,
           "canonical_ref": "Luke 18:43",
-          "english": "And immediately he saw, and he followed him, glorifying God.",
-          "greek": "καὶ παραχρῆμα ἀνέβλεψεν καὶ ἠκολούθει αὐτῷ δοξάζων τὸν θεόν."
+          "english": "And immediately he saw again and followed him, glorifying God. And all the people, when they saw it, gave praise to God.",
+          "greek": "καὶ παραχρῆμα ἀνέβλεψεν, καὶ ἠκολούθει αὐτῷ δοξάζων τὸν θεόν. καὶ πᾶς ὁ λαὸς ἰδὼν ἔδωκεν αἶνον τῷ θεῷ."
         }
       ],
       "notes": [
         {
           "id": 1,
-          "term": "Give up (ἐγκακεῖν - enkakein)",
-          "explanation": "A dry forensic term for failing or losing heart in the face of the material age's resistance.",
-          "verse_refs": [1],
-          "category": "translation"
+          "term": "The widow and the judge (18:1–8)",
+          "verse_refs": [1, 2, 3, 5, 7],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.36.1: Christ \"set the parable of the judge forced to hear the widow by her persistence\" and \"added that God would avenge his chosen ones who cry to him day and night\". So the God to be prayed to is a judge and avenger, the Creator. 18:4, 18:6 and 18:8 are not cited and are printed in grey."
         },
         {
           "id": 2,
-          "term": "Avenge/Vindicate (ἐκδίκησόν - ekdikēson)",
-          "explanation": "To vindicate or provide justice. In this stratum, it identifies the legal demand of the Poor (Ebionim) against the institutional creditors of the old order.",
-          "verse_refs": [3, 4, 5],
-          "category": "translation"
+          "term": "The Pharisee and the tax collector (18:9–14)",
+          "verse_refs": [9, 10, 11, 13, 14],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.36.1–2: two men praying in the temple \"with different minds\", the Pharisee in pride and the tax collector in humility, \"one rejected and the other went down justified\". He notes that the temple is the Creator's temple. 18:9 is not cited and is printed in grey."
         },
         {
           "id": 3,
-          "term": "Judge (κριτής - kritēs)",
-          "explanation": "The judge is presented forensically as an agent of the material age (the \"World\") who eventually yields to the persistence of the marginalized.",
-          "verse_refs": [2],
-          "category": "translation"
+          "term": "\"God the Father\" and the commandments (18:18–23)",
+          "verse_refs": [18, 19, 20, 22, 23],
+          "category": "textual",
+          "explanation": "Epiphanius, sch. 50 quotes the exchange: \"Good teacher, what must I do to inherit eternal life?\" \"Do not call me good; one is good, God\", to which, he says, Marcion \"added 'the Father'\". The Marcionite speaker in the Dialogue of Adamantius has the same \"except one, the Father\", and Origen reports the heretics' use of it. Tertullian (4.36.3–7) has \"one God\" and lists the commandments in the order \"not to kill, not to commit adultery, not to steal, not to bear false witness, to love father and mother\". He quotes the command to sell all and give to the poor, \"and you will have treasure in heaven, and come, follow me\", and says Christ \"kept the earlier commandments and added what was lacking\", as in Micah 6:8. The readings \"God the Father\", the order of the commandments, and \"give… treasure in heaven\" are printed."
         },
         {
           "id": 4,
-          "term": "Contempt (ἐξουθενοῦντας - exouthenountas)",
-          "explanation": "This term denotes the total nullification of another's worth. In the Jamesian context, the \"righteousness\" of the institutional elite is worthless compared to the humility of the tax-collector.",
-          "verse_refs": [6],
-          "category": "translation"
+          "term": "Not printed: 18:24–34",
+          "verse_refs": [23, 24],
+          "category": "excision",
+          "explanation": "18:24–30 (the camel and the needle; the reward for leaving home and family) are not cited by any witness and form a paragraph without an attested verse. 18:31–33, the third prediction of the passion with \"everything written by the prophets about the son of man will be fulfilled\", is stated by Epiphanius to have been absent (sch. 52). 18:34, the disciples not understanding \"these things\", depends on it."
         },
         {
           "id": 5,
-          "term": "Temple (ἱερὸν - hieron)",
-          "explanation": "Strictly the Temple complex. This identifies the setting of the \"Opposition Priesthood\" within the physical center of Judean authority.",
-          "verse_refs": [7],
-          "category": "translation"
+          "term": "The blind man at Jericho (18:35–43)",
+          "verse_refs": [24, 26, 27, 28, 31, 32],
+          "category": "textual",
+          "explanation": "Three witnesses attest the healing. Epiphanius, sch. 51: \"as he drew near to Jericho a blind man cried, Jesus, son of David, have mercy on me… your faith has saved you\". Tertullian (4.36.8–14) dwells on the title: the blind man called him \"son of David\", and Jesus, far from correcting him, healed him and praised his faith. Tertullian takes this as proof that Jesus was known to be of David's family. The Dialogue (200) quotes the whole story; 18:36 and 18:40–41 rest on it alone."
         },
         {
           "id": 6,
-          "term": "Be merciful (ἱλάσθητί - hilasthēti)",
-          "explanation": "Literally \"be propitiated\" or \"be merciful.\" It describes a clinical request for the removal of a forensic debt or stain.",
-          "verse_refs": [9],
-          "category": "translation"
-        },
-        {
-          "id": 7,
-          "term": "Toward himself (ταῦτα πρὸς ἑαυτὸν - tauta pros heauton)",
-          "explanation": "\"These things toward himself.\" This reading, supported by the primitive layer, emphasizes the internal, self-justifying nature of the Pharisee's religion.",
-          "verse_refs": [8],
-          "category": "textual"
-        },
-        {
-          "id": 8,
-          "term": "I know the commandments (Τὰς ἐντολὰς οἶδα - Tas entolas oida)",
-          "explanation": "This is the definitive Jamesian variant where the Ruler asserts personal mastery over the Law. The Adamantius Dialogue (92,29) explicitly introduces a speaker shift with 'ὁ δὲ ἔφη' (but he said), indicating the ruler begins his recitation at this point. Epiphanius (Pan. 42.11.6, scholion 50) records the reading 'I know (οἶδα)' rather than the canonical 'You know (οἶδας).' Scholars (Zahn, Lieu) argue that placing the Law in the mouth of the ruler serves to relieve Jesus of any direct appeal to the law. Tertullian (Marc. 4.36.4, 7) contradicts this variant, recording Jesus as the speaker with 'nostis/scis' (you know), suggesting variation between Greek and Latin copies. Tertullian (4.36.5) also omits the possessive 'your' (σου) after 'father,' a reading reflected in this reconstruction.",
-          "verse_refs": [13],
-          "category": "textual"
-        },
-        {
-          "id": 9,
-          "term": "Guarded (ἐφύλαξα - ephylaxa) in 18:21",
-          "explanation": "\"Guarded\" reflects the clinical sense of observing or keeping a legal deposit. In the Jamesian layer, the Law is treated as a baseline of knowledge rather than the climax of Jesus's teaching.",
-          "verse_refs": [14],
-          "category": "translation"
-        },
-        {
-          "id": 10,
-          "term": "Omission of 'My' (μου) in 18:21",
-          "explanation": "The reconstruction follows the primitive variant which often omits the personal possessive pronoun in this stratum, focusing on the act of guarding the Law as a dry fact.",
-          "verse_refs": [14],
-          "category": "textual"
-        },
-        {
-          "id": 11,
-          "term": "Very sorrowful (περίλυπος - perilypos) in 18:23",
-          "explanation": "This denotes an intense, encompassing sorrow. In the Ebionite (Poor) context, wealth is identified as a definitive consolidation of the corrupt current age, creating a clinical barrier to the Kingdom.",
-          "verse_refs": [16],
-          "category": "translation"
-        },
-        {
-          "id": 12,
-          "term": "Rich exceedingly (πλούσιος σφόδρα) in 18:23",
-          "explanation": "The term σφόδρα emphasizes the extreme nature of the material 'ultimate' that obstructed the ruler's pneumatic transition.",
-          "verse_refs": [16],
-          "category": "translation"
-        },
-        {
-          "id": 13,
-          "term": "Immediately (παραχρῆμα - parachrēma) in 18:43",
-          "explanation": "A clinical marker of the sudden manifestation of power in the Jamesian Protograph. Faith in this stratum is viewed as a functional stability or loyalty to the Word that triggers immediate restoration.",
-          "verse_refs": [23],
-          "category": "translation"
-        },
-        {
-          "id": 14,
-          "term": "He saw (ἀνέβλεψεν - aneblepsen) in 18:43",
-          "explanation": "Literally 'looked up' or 'saw again.' The restoration of sight serves as forensic proof of Jesus's authority within the material realm.",
-          "verse_refs": [22, 23],
-          "category": "translation"
-        },
-        {
-          "id": 15,
-          "term": "Sell all (πάντα ὅσα ἔχεις πώλησον - panta hosa echeis pōlēson)",
-          "explanation": "The command is forensic: \"Sell all, as much as you have.\" This is the absolute economic requirement of the Ebionite community.",
-          "verse_refs": [15],
-          "category": "theological"
-        },
-        {
-          "id": 16,
-          "term": "Camel (κάμηλον - kamēlon)",
-          "explanation": "Retained as the literal animal over the late \"rope\" conjecture (kamilos), keeping the dry forensic hyperbole of the source.",
-          "verse_refs": [18],
-          "category": "translation"
-        },
-        {
-          "id": 17,
-          "term": "Omission of 18:31-33 (Third Passion Prediction)",
-          "explanation": "The prediction of the passion and the \"rising on the third day\" is not present in this stratum, preventing harmonization of the ethical encounter with a later suffering-messiah narrative.",
-          "verse_refs": [19],
-          "category": "excision"
-        },
-        {
-          "id": 18,
-          "term": "Excision of \"of Nazareth\" (ὁ Ναζωραῖος)",
-          "explanation": "In verse 37, the reconstruction follows the primitive variant that omits the geographical/biological marker. This presents Jesus as a clinical fact of spiritual power rather than a localized human entity.",
-          "verse_refs": [20],
-          "category": "excision"
-        },
-        {
-          "id": 19,
-          "term": "Son of David (υἱὲ Δαυίδ - huiē Dauid)",
-          "explanation": "While later layers used this for biological pedigree, in the Jamesian stratum it serves as a forensic title for the restorer of the Poor.",
-          "verse_refs": [21],
-          "category": "translation"
-        },
-        {
-          "id": 20,
-          "term": "Begging (ἐπαιτῶν - epaitōn)",
-          "explanation": "This detail reinforces Jesus's association with the marginalized Ebionim.",
-          "verse_refs": [19],
-          "category": "translation"
+          "term": "Son of David",
+          "verse_refs": [27, 31],
+          "category": "theological",
+          "explanation": "Interpretation. The attested text has a blind man twice call Jesus \"son of David\", and Jesus answer with healing and \"your faith has saved you\". Tertullian's argument from this is that a Christ with no birth could not have been publicly known as David's descendant (4.36.8). The text does not say how the title was known. The library connects the Davidic descent of Jesus' family with the desposyni, the relatives who led the Jerusalem community (Carriers of Living Water). The verse shows only that the title was used of him and accepted."
         }
-      ],
-      "additional_explanation": {
-        "title": "The Absence of Harmonization",
-        "content": "The textual analysis of this chapter confirms the absence of the third passion prediction (18:31-33).",
-        "points": [
-          {
-            "title": "The Persistent Widow",
-            "explanation": "The parable of the widow and the unjust judge establishes the efficacy of persistent prayer by the marginalized against the institutions of the material age."
-          },
-          {
-            "title": "The Pharisee and Tax-Collector",
-            "explanation": "This parable inverts religious expectations. The self-justifying Pharisee is rejected while the humble tax-collector is justified, consistent with the Jamesian reversal theology."
-          },
-          {
-            "title": "The Rich Ruler Encounter",
-            "explanation": "The \"I know\" variant where the Ruler speaks the commandments is a hallmark of the earliest strata. The Law is a baseline of knowledge, but the Ruler lacks the internal Spirit. The solution is total economic liquidation for the community of the Poor."
-          },
-          {
-            "title": "The Blind Man at Jericho",
-            "explanation": "The healing narrative, without the third passion prediction, maintains focus on the power of the Spirit over physical lack. Jesus moves from the ethical encounter with the rich ruler directly to the restoration of the marginalized."
-          }
-        ]
-      }
+      ]
     },
     {
       "chapter": 17,
       "title": "Proto-Luke Chapter 17",
-      "preamble": "Passing through Jericho, Jesus encounters Zacchaeus—a chief tax-collector, wealthy, and too short to see over the crowd. He climbs a sycamore tree, and Jesus calls him down: 'Today I must stay at your house.' The crowds murmur that he has gone to be the guest of a sinner, but Zacchaeus stands and declares: 'Half of my possessions I give to the poor, and if I have defrauded anyone, I restore it fourfold.' Salvation has come to this house. A parable follows: a nobleman goes to receive a kingdom and entrusts his servants with minas to trade in his absence. Those who are faithful with little will be given much; from those who have nothing, even what they seem to have will be taken.",
+      "preamble": "Zacchaeus and the money entrusted to the servants. In Jericho, Zacchaeus, a rich chief tax collector, receives Jesus into his house, gives half his goods to the poor and restores fourfold what he has taken by fraud. \"Today salvation has come to this house… for the son of man came to seek and to save the lost.\" Jesus then tells of a nobleman who gives his servants money to trade with and, on his return, judges them by what they have done with it. In this text the parable ends with \"from the one who has not, even what he has will be taken away\". The slaughter of the master's enemies (19:27) is not cited. The entry into Jerusalem, the lament over the city and the cleansing of the temple (19:29–46) are absent: Epiphanius states that the text lacked them.",
       "verses": [
         {
           "verse": 1,
           "canonical_ref": "Luke 19:1",
-          "english": "And having entered he was passing through Jericho.",
-          "greek": "Καὶ εἰσελθὼν διήρχετο τὴν Ἰεριχώ."
+          "english": "He entered Jericho and was passing through.",
+          "greek": "Καὶ εἰσελθὼν διήρχετο τὴν Ἰεριχώ.",
+          "attestation": "unattested"
         },
         {
           "verse": 2,
           "canonical_ref": "Luke 19:2",
-          "english": "And behold, a man named Zacchaeus, and this man was a chief tax-collector and he was rich.",
-          "greek": "καὶ ἰδοὺ ἀνὴρ ὀνόματι Ζακχαῖος, καὶ οὗτος ἦν ἀρχιτελώνης καὶ οὗτος πλούσιος."
+          "english": "And there was a man named Zacchaeus; he was a chief tax collector and was rich.",
+          "greek": "καὶ ἰδοὺ ἀνὴρ ὀνόματι καλούμενος Ζακχαῖος, καὶ αὐτὸς ἦν ἀρχιτελώνης καὶ αὐτὸς πλούσιος·"
         },
         {
           "verse": 3,
-          "canonical_ref": "Luke 19:4",
-          "english": "And running ahead to the front he climbed up into a sycamore tree that he might see him, for he was about to pass that way.",
-          "greek": "καὶ προδραμὼν εἰς τὸ ἔμπροσθεν ἀνέβη ἐπὶ συκομορέαν ἵνα ἴδῃ αὐτόν, ὅτι ἐκείνης ἤμελλεν διέρχεσθαι."
+          "canonical_ref": "Luke 19:3",
+          "english": "He was trying to see who Jesus was, but on account of the crowd he could not, because he was small in stature.",
+          "greek": "καὶ ἐζήτει ἰδεῖν τὸν Ἰησοῦν τίς ἐστιν, καὶ οὐκ ἠδύνατο ἀπὸ τοῦ ὄχλου ὅτι τῇ ἡλικίᾳ μικρὸς ἦν.",
+          "attestation": "unattested"
         },
         {
           "verse": 4,
-          "canonical_ref": "Luke 19:5",
-          "english": "And when he came to the place, looking up he said to him: \"Zacchaeus, hurry and come down, for today I must stay at your house.\"",
-          "greek": "καὶ ὡς ἦλθεν ἐπὶ τὸν τόπον, ἀναβλέψας εἶπεν πρὸς αὐτόν· Ζακχαῖε, σπεύσας κατάβηθι, σήμερον γὰρ ἐν τῷ οἴκῳ σου δεῖ με μεῖναι."
+          "canonical_ref": "Luke 19:4",
+          "english": "So he ran ahead and climbed up into a sycamore tree to see him, for he was about to pass that way.",
+          "greek": "καὶ προδραμὼν εἰς τὸ ἔμπροσθεν ἀνέβη ἐπὶ συκομορέαν ἵνα ἴδῃ αὐτόν, ὅτι ἐκείνης ἤμελλεν διέρχεσθαι.",
+          "attestation": "unattested"
         },
         {
           "verse": 5,
-          "canonical_ref": "Luke 19:6",
-          "english": "And he hurried and came down and received him rejoicing.",
-          "greek": "καὶ σπεύσας κατέβη καὶ ὑπεδέξατο αὐτὸν χαίρων."
+          "canonical_ref": "Luke 19:5",
+          "english": "And when Jesus came to the place, he looked up and said to him, \"Zacchaeus, hurry and come down, for I must stay at your house today.\"",
+          "greek": "καὶ ὡς ἦλθεν ἐπὶ τὸν τόπον, ἀναβλέψας ὁ Ἰησοῦς εἶπεν πρὸς αὐτόν· Ζακχαῖε, σπεύσας κατάβηθι, σήμερον γὰρ ἐν τῷ οἴκῳ σου δεῖ με μεῖναι.",
+          "attestation": "unattested"
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 19:8",
-          "english": "And Zacchaeus said: \"Behold, the half of my possessions, Lord, I give to the poor, and if I have taken anything from anyone by false accusation, fourfold I return it.\"",
-          "greek": "σταθεὶς δὲ Ζακχαῖος εἶπεν πρὸς τὸν κύριον· ἰδοὺ τὰ ἡμίσιά μου τῶν ὑπαρχόντων, κύριε, τοῖς πτωχοῖς δίδωμι, καὶ εἴ τινός τι ἐσυκοφάντησα ἀποδίδωμι τετραπλοῦν."
+          "canonical_ref": "Luke 19:6",
+          "english": "So he hurried and came down and received him joyfully.",
+          "greek": "καὶ σπεύσας κατέβη, καὶ ὑπεδέξατο αὐτὸν χαίρων."
         },
         {
           "verse": 7,
-          "canonical_ref": "Luke 19:9",
-          "english": "And Jesus said to him: \"Today salvation has come to this house, because he also is a son of Abraham.\"",
-          "greek": "εἶπεν δὲ πρὸς αὐτὸν ὅτι σήμερον σωτηρία τῷ οἴκῳ τούτῳ ἐγένετο, καθότι καὶ αὐτὸς υἱὸς Ἀβραάμ ἐστιν."
+          "canonical_ref": "Luke 19:7",
+          "english": "And when they saw it, they all grumbled, \"He has gone in to be the guest of a man who is a sinner.\"",
+          "greek": "καὶ ἰδόντες πάντες διεγόγγυζον λέγοντες ὅτι Παρὰ ἁμαρτωλῷ ἀνδρὶ εἰσῆλθεν καταλῦσαι.",
+          "attestation": "unattested"
         },
         {
           "verse": 8,
-          "canonical_ref": "Luke 19:10",
-          "english": "\"For the son of man came to seek and to save the lost.\"",
-          "greek": "ἦλθεν γὰρ ὁ υἱὸς τοῦ ἀνθρώπου ζητῆσαι καὶ σῶσαι τὸ ἀπολωλός."
+          "canonical_ref": "Luke 19:8",
+          "english": "Zacchaeus stood and said to the Lord, \"Look, Lord, half of my possessions I give to the poor, and if I have defrauded anyone of anything, I restore it fourfold.\"",
+          "greek": "σταθεὶς δὲ Ζακχαῖος εἶπεν πρὸς τὸν κύριον· Ἰδοὺ τὰ ἡμίσιά μου τῶν ὑπαρχόντων, κύριε, τοῖς πτωχοῖς δίδωμι, καὶ εἴ τινός τι ἐσυκοφάντησα ἀποδίδωμι τετραπλοῦν."
         },
         {
           "verse": 9,
-          "canonical_ref": "Luke 19:11",
-          "english": "And as they were hearing these things, adding he spoke a parable because he was near Jerusalem and they thought that the kingdom of God was about to appear immediately.",
-          "greek": "Ἀκουόντων δὲ αὐτῶν ταῦτα προσθεὶς εἶπεν παραβολὴν διὰ τὸ ἐγγὺς εἶναι Ἰερουσαλήμ αὐτὸν καὶ δοκεῖν αὐτοὺς ὅτι παραχρῆμα μέλλει ἡ βασιλεία τοῦ θεοῦ ἀναφαίνεσθαι."
+          "canonical_ref": "Luke 19:9",
+          "english": "And Jesus said to him, \"Today salvation has come to this house, since he also is a son of Abraham.",
+          "greek": "εἶπεν δὲ πρὸς αὐτὸν ὁ Ἰησοῦς ὅτι Σήμερον σωτηρία τῷ οἴκῳ τούτῳ ἐγένετο, καθότι καὶ αὐτὸς υἱὸς Ἀβραάμ ἐστιν·"
         },
         {
           "verse": 10,
-          "canonical_ref": "Luke 19:12",
-          "english": "Therefore he said: \"A certain nobleman went into a far country to receive for himself a kingdom and to return.\"",
-          "greek": "εἶπεν οὖν· Ἄνθρωπός τις εὐγενὴς ἐπορεύθη εἰς χώραν μακρὰν λαβεῖν ἑαυτῷ βασιλείαν καὶ ὑποστρέψαι."
+          "canonical_ref": "Luke 19:10",
+          "english": "For the son of man came to seek and to save the lost.\"",
+          "greek": "ἦλθεν γὰρ ὁ υἱὸς τοῦ ἀνθρώπου ζητῆσαι καὶ σῶσαι τὸ ἀπολωλός."
         },
         {
           "verse": 11,
-          "canonical_ref": "Luke 19:13",
-          "english": "And calling ten of his slaves, he gave them ten minas and said to them: \"Trade with these until I come.\"",
-          "greek": "καλέσας δὲ δέκα δούλους ἑαυτοῦ ἔδωκεν αὐτοῖς δέκα μνᾶς καὶ εἶπεν πρὸς αὐτούς· Πραγματεύσασθε ἐν ᾧ ἔρχομαι."
+          "canonical_ref": "Luke 19:11",
+          "english": "As they heard these things, he went on to tell a parable, because he was near Jerusalem and because they supposed that the kingdom of God was to appear immediately.",
+          "greek": "Ἀκουόντων δὲ αὐτῶν ταῦτα προσθεὶς εἶπεν παραβολὴν διὰ τὸ ἐγγὺς εἶναι Ἰερουσαλὴμ αὐτὸν καὶ δοκεῖν αὐτοὺς ὅτι παραχρῆμα μέλλει ἡ βασιλεία τοῦ θεοῦ ἀναφαίνεσθαι·"
         },
         {
           "verse": 12,
-          "canonical_ref": "Luke 19:15",
-          "english": "And it happened when he returned having received the kingdom, he ordered these slaves to whom he had given the money to be called to him.",
-          "greek": "καὶ εγένετο ἐν τῷ επανελθεῖν αὐτὸν λαβόντα τὴν βασιλείαν καὶ εἶπεν φωνηθῆναι αὐτῷ τοὺς δούλους τούτους οἷς δεδωκει τὸ ἀργύριον."
+          "canonical_ref": "Luke 19:12",
+          "english": "He said therefore, \"A nobleman went into a far country to receive for himself a kingdom and then return.",
+          "greek": "εἶπεν οὖν· Ἄνθρωπός τις εὐγενὴς ἐπορεύθη εἰς χώραν μακρὰν λαβεῖν ἑαυτῷ βασιλείαν καὶ ὑποστρέψαι.",
+          "attestation": "unattested"
         },
         {
           "verse": 13,
-          "canonical_ref": "Luke 19:22",
-          "english": "And he says to him: \"Out of your own mouth I will judge you, you wicked slave. You knew that I am an austere man, taking what I did not lay down and reaping what I did not sow.\"",
-          "greek": "λέγει αὐτῷ· ἐκ τοῦ στόματός σου κρινῶ σε, πονηρὲ δοῦλε. ᾔδεις ὅτι ἐγὼ ἄνθρωπος αὐστηρός εἰμι, αἴρων ὃ οὐκ ἔθηκα καὶ θερίζων ὃ οὐκ ἔσπειρα;"
+          "canonical_ref": "Luke 19:13",
+          "english": "Calling ten of his servants, he gave them ten minas, and said to them, 'Engage in business until I come.'",
+          "greek": "καλέσας δὲ δέκα δούλους ἑαυτοῦ ἔδωκεν αὐτοῖς δέκα μνᾶς καὶ εἶπεν πρὸς αὐτούς· Πραγματεύσασθε ἐν ᾧ ἔρχομαι."
         },
         {
           "verse": 14,
-          "canonical_ref": "Luke 19:23",
-          "english": "\"Why then did you not give my money to the bank, that coming I might have required it with interest?\"",
-          "greek": "καὶ διὰ τί οὐκ ἔδωκάς μου τὸ ἀργύριον ἐπὶ τράπεζαν; κἀγὼ ἐλθὼν σὺν τόκῳ ἂν αὐτὸ ἔπραξα."
+          "canonical_ref": "Luke 19:14",
+          "english": "But his citizens hated him and sent a delegation after him, saying, 'We do not want this man to reign over us.'",
+          "greek": "οἱ δὲ πολῖται αὐτοῦ ἐμίσουν αὐτόν, καὶ ἀπέστειλαν πρεσβείαν ὀπίσω αὐτοῦ λέγοντες· Οὐ θέλομεν τοῦτον βασιλεῦσαι ἐφ’ ἡμᾶς.",
+          "attestation": "unattested"
         },
         {
           "verse": 15,
-          "canonical_ref": "Luke 19:26",
-          "english": "\"For I say to you, that to everyone who has it shall be given; but from him who has not, even what he seems to have shall be taken from him.\"",
-          "greek": "λέγω ὑμῖν ὅτι παντὶ τῷ ἔχοντι δοθήσεται, ἀπὸ δὲ τοῦ μὴ ἔχοντος καὶ ὃ δοκεῖ ἔχειν ἀρθήσεται ἀπ᾿ αὐτοῦ."
+          "canonical_ref": "Luke 19:15",
+          "english": "When he returned, having received the kingdom, he ordered these servants to whom he had given the money to be called to him, that he might know what they had gained by doing business.",
+          "greek": "καὶ ἐγένετο ἐν τῷ ἐπανελθεῖν αὐτὸν λαβόντα τὴν βασιλείαν καὶ εἶπεν φωνηθῆναι αὐτῷ τοὺς δούλους τούτους οἷς δεδώκει τὸ ἀργύριον, ἵνα γνοῖ τί διεπραγματεύσαντο.",
+          "attestation": "unattested"
         },
         {
           "verse": 16,
-          "canonical_ref": "Luke 19:37",
-          "english": "The whole multitude of the disciples began rejoicing to praise God with a loud voice for all the powers they had seen.",
-          "greek": "ἤρξαντο ἅπαν τὸ πλῆθος τῶν μαθητῶν χαίροντες αἰνεῖν τὸν θεὸν φωνῇ μεγάλῃ περὶ πασῶν ὧν εἶδον δυνάμεων."
+          "canonical_ref": "Luke 19:16",
+          "english": "The first came before him, saying, 'Lord, your mina has made ten minas more.'",
+          "greek": "παρεγένετο δὲ ὁ πρῶτος λέγων· Κύριε, ἡ μνᾶ σου δέκα προσηργάσατο μνᾶς.",
+          "attestation": "unattested"
         },
         {
           "verse": 17,
-          "canonical_ref": "Luke 19:38",
-          "english": "Saying: \"Blessed is the king in the name of the Lord; peace in heavens and glory in the highest.\"",
-          "greek": "λέγοντες· Εὐλογημένος ὁ βασιλεύς ἐν ὀνόματι κυρίου· εἰρήνη ἐν οὐρανοῖς καὶ δόξα ἐν ὑψίστοις."
+          "canonical_ref": "Luke 19:17",
+          "english": "And he said to him, 'Well done, good servant! Because you have been faithful in a very little, you shall have authority over ten cities.'",
+          "greek": "καὶ εἶπεν αὐτῷ· Εὖγε, ἀγαθὲ δοῦλε, ὅτι ἐν ἐλαχίστῳ πιστὸς ἐγένου, ἴσθι ἐξουσίαν ἔχων ἐπάνω δέκα πόλεων.",
+          "attestation": "unattested"
         },
         {
           "verse": 18,
-          "canonical_ref": "Luke 19:43-44",
-          "english": "\"For the days shall come upon you and your enemies shall cast up a rampart against you and surround you and hem you in from every side, and they will level you to the ground and your children within you, and they will not leave stone upon stone in you, because you did not know the time of your visitation.\"",
-          "greek": "ὅτι ἥξουσιν ἡμέραι ἐπὶ σέ καὶ περιβαλοῦσιν οἱ ἐχθροί σου χάρακά σοι καὶ περικυκλώσουσιν σε καὶ συνέξουσιν σε πάντοθεν, καὶ ἐδαφιοῦσίν σε καὶ τὰ τέκνα σου ἐν σοί, καὶ οὐκ ἀφήσουσιν λίθον ἐπὶ λίθον ἐν σοί, ἀνθ᾽ ὧν οὐκ ἔγνως τὸν καιρὸν τῆς ἐπισκοπῆς σου."
+          "canonical_ref": "Luke 19:18",
+          "english": "And the second came, saying, 'Lord, your mina has made five minas.'",
+          "greek": "καὶ ἦλθεν ὁ δεύτερος λέγων· Ἡ μνᾶ σου, κύριε, ἐποίησεν πέντε μνᾶς.",
+          "attestation": "unattested"
         },
         {
           "verse": 19,
-          "canonical_ref": "Luke 19:45-46",
-          "english": "And entering into the Temple he began to cast out those selling, saying to them: \"It is written: 'And my house shall be a house of prayer,' but you have made it a den of robbers.\"",
-          "greek": "Καὶ εἰσελθὼν εἰς τὸ ἱερὸν ἤρξατο ἐκβάλλειν τοὺς πωλοῦντας λέγων αὐτοῖς· Γέγραπται· Καὶ ἔσται ὁ οἶκός μου οἶκος προσευχῆς, ὑμεῖς δὲ αὐτὸν ἐποιήσατε σπήλαιον ληστῶν."
+          "canonical_ref": "Luke 19:19",
+          "english": "And he said to him, 'And you are to be over five cities.'",
+          "greek": "εἶπεν δὲ καὶ τούτῳ· Καὶ σὺ ἐπάνω γίνου πέντε πόλεων.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 20,
+          "canonical_ref": "Luke 19:20",
+          "english": "Then another came, saying, 'Lord, here is your mina, which I kept laid away in a handkerchief;",
+          "greek": "καὶ ὁ ἕτερος ἦλθεν λέγων· Κύριε, ἰδοὺ ἡ μνᾶ σου ἣν εἶχον ἀποκειμένην ἐν σουδαρίῳ·",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 21,
+          "canonical_ref": "Luke 19:21",
+          "english": "for I was afraid of you, because you are a severe man. You take what you did not deposit, and reap what you did not sow.'",
+          "greek": "ἐφοβούμην γάρ σε ὅτι ἄνθρωπος αὐστηρὸς εἶ, αἴρεις ὃ οὐκ ἔθηκας καὶ θερίζεις ὃ οὐκ ἔσπειρας.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 22,
+          "canonical_ref": "Luke 19:22",
+          "english": "He said to him, 'I will condemn you with your own words, you wicked servant! You knew that I was a severe man, taking what I did not deposit and reaping what I did not sow?",
+          "greek": "λέγει αὐτῷ· Ἐκ τοῦ στόματός σου κρίνω σε, πονηρὲ δοῦλε· ᾔδεις ὅτι ἐγὼ ἄνθρωπος αὐστηρός εἰμι, αἴρων ὃ οὐκ ἔθηκα καὶ θερίζων ὃ οὐκ ἔσπειρα;"
+        },
+        {
+          "verse": 23,
+          "canonical_ref": "Luke 19:23",
+          "english": "Why then did you not put my money in the bank, and at my coming I might have collected it with interest?'",
+          "greek": "καὶ διὰ τί οὐκ ἔδωκάς μου τὸ ἀργύριον ἐπὶ τράπεζαν; κἀγὼ ἐλθὼν σὺν τόκῳ ἂν αὐτὸ ἔπραξα."
+        },
+        {
+          "verse": 24,
+          "canonical_ref": "Luke 19:24",
+          "english": "And he said to those who stood by, 'Take the mina from him, and give it to the one who has the ten minas.'",
+          "greek": "καὶ τοῖς παρεστῶσιν εἶπεν· Ἄρατε ἀπ’ αὐτοῦ τὴν μνᾶν καὶ δότε τῷ τὰς δέκα μνᾶς ἔχοντι—",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 19:25",
+          "english": "And they said to him, 'Lord, he has ten minas!'",
+          "greek": "καὶ εἶπαν αὐτῷ· Κύριε, ἔχει δέκα μνᾶς—",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 19:26",
+          "english": "'I tell you that to everyone who has, more will be given; but from the one who has not, even what he has will be taken away.",
+          "greek": "λέγω ὑμῖν ὅτι παντὶ τῷ ἔχοντι δοθήσεται, ἀπὸ δὲ τοῦ μὴ ἔχοντος καὶ ὃ ἔχει ἀρθήσεται."
         }
       ],
       "notes": [
         {
           "id": 1,
-          "term": "Zacchaeus (Ζακχαῖος)",
-          "explanation": "Tertullian identifies Zacchaeus as a foreigner (allophylus), yet his presence is retained as a dry fact of Jesus's interaction with those outside the elite.",
-          "verse_refs": [1, 2, 3, 4, 5],
-          "category": "theological"
+          "term": "Zacchaeus (19:1–10)",
+          "verse_refs": [2, 6, 8, 9, 10],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.37.1–3: \"the house of Zacchaeus also attains salvation\". Zacchaeus received the Lord and fed him, offered half his goods for works of mercy and said \"if I have taken anything from anyone by false accusation, I restore it fourfold\"; \"Today, he said, salvation to this house.\" Tertullian reads this as Isaiah 58:7 fulfilled, and \"the son of man came to save what was lost\" as the salvation of the whole person, body and soul. 19:1, 19:3–5 and 19:7 are not cited and are printed in grey."
         },
         {
           "id": 2,
-          "term": "Possessions (ὑπαρχόντων - hyparchontōn)",
-          "explanation": "The term denotes material possessions or property; Zacchaeus's act is the clinical liquidation of capital for communal use.",
-          "verse_refs": [6],
-          "category": "translation"
+          "term": "The money entrusted to the servants (19:11–26)",
+          "verse_refs": [11, 13, 22, 23, 26],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.37.4: \"the parable of the servants who are judged according to the account of their master's money lent at interest shows God as judge, even on the side of severity\". He has the \"austere\" master \"taking what he did not deposit and reaping what he did not sow\", and taking away \"what one seemed to have\". He mentions the parable again at 4.39.11 (\"leaving money with his servants to trade with\"). The unattested verses of the parable are printed in grey."
         },
         {
           "id": 3,
-          "term": "Fourfold (τετραπλοῦν - tetraploun)",
-          "explanation": "The order of \"fourfold I return\" is specific to the earlier witnesses, matching the Latin translations used by Tertullian.",
-          "verse_refs": [6],
-          "category": "textual"
+          "term": "Not printed: 19:27–48",
+          "verse_refs": [26],
+          "category": "excision",
+          "explanation": "19:27, the slaughter of the enemies who did not want the nobleman to reign, is not cited by Tertullian, though his point was the master's severity; it is classed probably absent. 19:29–46 are absent by Epiphanius' statement (sch. 53): the colt and Bethphage, the city, and the temple with \"my house shall be called a house of prayer\". 19:28 and 19:47–48, the verses that frame them, form paragraphs with no attested verse. In this text Jesus goes from the parable to the question about his authority (20:1–8) without a royal entry into Jerusalem or the cleansing of the temple."
         },
         {
           "id": 4,
-          "term": "Son of Abraham (υἱὸς Ἀβραάμ - huios Abraam)",
-          "explanation": "While Abraham is removed from eschatological lists (13:28) to de-emphasize biological right, the name is retained here to signify a communal/ethical return to the heritage of the Poor.",
-          "verse_refs": [7],
-          "category": "theological"
-        },
-        {
-          "id": 5,
-          "term": "Save the lost (σῶσαι τὸ ἀπολωλός - sōsai to apolōlos)",
-          "explanation": "The primitive stratum notably omits \"seek\" (ζητῆσαι) in some variants. Jesus's function is defined as the final recovery of the human form from its lost state.",
-          "verse_refs": [8],
-          "category": "textual"
-        },
-        {
-          "id": 6,
-          "term": "Slaves (δούλους - doulous)",
-          "explanation": "Strictly rendered as \"slaves\" to denote the absolute domestic authority of the Master (the Spirit) over his agents.",
-          "verse_refs": [11, 12],
-          "category": "translation"
-        },
-        {
-          "id": 7,
-          "term": "Minas (μνᾶς - mnas)",
-          "explanation": "Retained as the specific unit of currency, denoting the pneumatic resources entrusted to the community members.",
-          "verse_refs": [11],
-          "category": "translation"
-        },
-        {
-          "id": 8,
-          "term": "Trade (Πραγματεύσασθε - Pragmateysasthe)",
-          "explanation": "This is the constitutional imperative for the community to actively utilize the Spirit's gifts rather than remain passive.",
-          "verse_refs": [11],
-          "category": "translation"
-        },
-        {
-          "id": 9,
-          "term": "Austere (αὐστηρός - austēros)",
-          "explanation": "The term describes a clinical, rigorous nature, used by the Master to expose the slave's internal lack of productivity.",
-          "verse_refs": [13],
-          "category": "translation"
-        },
-        {
-          "id": 10,
-          "term": "What he seems to have (ὃ δοκεῖ ἔχειν - ho dokei echein)",
-          "explanation": "This variant, found in Marcion and several early Greek witnesses, suggests that the \"unprofitable slave\" only possessed an appearance of wealth/knowledge, which is exposed as worthless upon judgment.",
-          "verse_refs": [15],
-          "category": "textual"
-        },
-        {
-          "id": 11,
-          "term": "Omission of Triumphal Entry (19:29-46)",
-          "explanation": "Epiphanius and other witnesses explicitly state that Marcion's text \"jumped over\" this section. This omission removes the Messianic political theater of entering Jerusalem, keeping the focus on the internal teaching of the Travel Narrative.",
-          "verse_refs": [],
-          "category": "excision"
-        },
-        {
-          "id": 12,
-          "term": "Peace in heavens (εἰρήνη ἐν οὐρανοῖς - eirēnē en ouranois)",
-          "explanation": "This variant (A, etc.) is restored over the canonical \"peace on earth.\" It reflects the pneumatic priority of the Jamesian stratum, where order is first restored in the celestial sphere before descending.",
-          "verse_refs": [17],
-          "category": "textual"
-        },
-        {
-          "id": 13,
-          "term": "Visitation (ἐπισκοπῆς - episkopēs)",
-          "explanation": "A forensic term for the moment of divine scrutiny.",
-          "verse_refs": [18],
-          "category": "translation"
-        },
-        {
-          "id": 14,
-          "term": "Immediately (παραχρῆμα - parachrēma)",
-          "explanation": "This reflects the urgent eschatological expectation of the early community before the transition into a stabilized institution.",
-          "verse_refs": [9],
-          "category": "translation"
-        },
-        {
-          "id": 15,
-          "term": "Rampart (χάρακα - charaka)",
-          "explanation": "A clinical military term for a siege wall. In the Jamesian Protograph, this serves as the 'Pella Oracle,' a cryptic warning that allowed the Jerusalem community to flee before the city was locked.",
-          "verse_refs": [18],
-          "category": "translation"
-        },
-        {
-          "id": 16,
-          "term": "Children within you (τὰ τέκνα σου ἐν σοί)",
-          "explanation": "Refers to the biological and cultural offspring of the old order that will be purged in the collapse of the material world.",
-          "verse_refs": [18],
-          "category": "theological"
-        },
-        {
-          "id": 17,
-          "term": "Temple (ἱερὸν - hieron)",
-          "explanation": "Strictly the Temple complex, identified as the clinical site where the \"Opposition Priesthood\" challenged the institutional elite.",
-          "verse_refs": [19],
-          "category": "translation"
-        },
-        {
-          "id": 18,
-          "term": "Excision of \"and buying\"",
-          "explanation": "The reconstruction omits \"and those buying,\" following the shorter reading which focuses Jesus's action on the removal of commercial activity from the sacred space.",
-          "verse_refs": [19],
-          "category": "excision"
+          "term": "No triumphal entry",
+          "verse_refs": [26],
+          "category": "theological",
+          "explanation": "Interpretation. Without 19:29–46, the text has no royal entry on a colt and no action against the traders in the temple, the scenes in which canonical Luke presents Jesus as king and judge of the temple. In the attested text Jesus is in the temple teaching (20:1; 21:37), and the authorities question his authority there. Epiphanius' charge is that Marcion cut these scenes out. On the Marcionite-priority view, canonical Luke added them. The witnesses establish only that they were absent from the text."
         }
-      ],
-      "additional_explanation": {
-        "title": "The Stewardship of the Word",
-        "content": "Chapter 17 of the Protograph defines the Economics of Judgment.",
-        "points": [
-          {
-            "title": "The Case of Zacchaeus",
-            "explanation": "The story is a forensic demonstration of the \"Ebionite\" ethic. Zacchaeus is not saved by faith in an abstract sense, but by the clinical act of returning stolen capital and liquidating his property. This serves as the ultimate realization of the \"Law of Liberty\" within the community of the poor."
-          },
-          {
-            "title": "The Rejection of the Temple Entry",
-            "explanation": "By omitting the Triumphal Entry (19:29-46), the Protograph avoids portraying Jesus as a Davidic king claiming the physical Temple. Instead, the narrative transitions directly from the stewardship of the minas to the internal reality of Jesus's authority."
-          },
-          {
-            "title": "The Austere Master",
-            "explanation": "The parable of the minas functions as a warning against the \"unprofitable\" state. The judgment is based strictly on the \"use\" of what was given; the slave who treats the Word as inert is stripped of even his \"appearance\" of possession."
-          }
-        ]
-      }
+      ]
     },
     {
       "chapter": 18,
       "title": "Proto-Luke Chapter 18",
-      "preamble": "In Jerusalem, the confrontation intensifies. The chief priests and scribes challenge Jesus: 'By what authority do you do these things?' He answers with a question about John's baptism that silences them. Spies are sent to trap him with a question about paying taxes to Caesar. 'Show me a denarius. Whose image is this?' Caesar's. 'Then give to Caesar what is Caesar's, and to God what is God's.' The Sadducees pose a riddle about resurrection and marriage; Jesus dismisses the premise—those worthy of the resurrection neither marry nor are given in marriage, for they are equal to angels. Then he asks his own question: How can the Christ be David's son if David himself calls him Lord?",
+      "preamble": "Questions in the temple. Asked by what authority he acts, Jesus asks in return whether John's baptism was from heaven or from men, and when the leaders will not answer, he will not tell them either. The leaders seek to seize him but fear the people. To the question about tribute he answers, \"Give back to Caesar what is Caesar's, and to God what is God's.\" To the Sadducees' question about the woman with seven husbands he answers that the sons of this age marry, \"but those whom God has deemed worthy to attain to that age and to the resurrection from the dead neither marry nor are given in marriage… they are equal to angels and are sons of God\". He asks how the Christ can be David's son when David calls him Lord. The parable of the tenants with the rejected stone (20:9–18) and the proof of the resurrection from Moses at the bush (20:37–38) are absent: Epiphanius states that the text lacked them.",
       "verses": [
         {
           "verse": 1,
           "canonical_ref": "Luke 20:1",
-          "english": "And it happened on one of the days, as he was teaching the people in the Temple and announcing the good news...",
-          "greek": "Ἐγένετο ἐν μιᾷ τῶν ἡμερῶν διδάσκοντος αὐτοῦ τὸν λαὸν ἐν τῷ ἱερῷ καὶ εὐαγγελιζομένου, ἐπέστησαν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς σὺν τοῖς πρεσβυτέροις,"
+          "english": "One day, as he was teaching the people in the temple and proclaiming the good news, the chief priests and the scribes with the elders came up",
+          "greek": "Καὶ ἐγένετο ἐν μιᾷ τῶν ἡμερῶν διδάσκοντος αὐτοῦ τὸν λαὸν ἐν τῷ ἱερῷ καὶ εὐαγγελιζομένου ἐπέστησαν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς σὺν τοῖς πρεσβυτέροις,"
         },
         {
           "verse": 2,
-          "canonical_ref": "Luke 20:2-3",
-          "english": "And they said, saying to him: 'Tell us by what authority you do these things, or who is the one who gave you this authority?' And answering he said to them: 'I will ask you also a word, and tell me:'",
-          "greek": "καὶ εἶπαν λέγοντες πρὸς αὐτόν· Εἰπὸν ἡμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς, ἢ τίς ἐστιν ὁ δούς σοι τὴν ἐξουσίαν ταύτην; Ἀποκριθεὶς δὲ εἶπεν πρὸς αὐτούς· Ἐρωτήσω ὑμᾶς κἀγὼ λόγον, καὶ εἴπατέ μοι·"
+          "canonical_ref": "Luke 20:2",
+          "english": "and said to him, \"Tell us by what authority you do these things, or who it is that gave you this authority.\"",
+          "greek": "καὶ εἶπαν λέγοντες πρὸς αὐτόν· Εἰπὸν ἡμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς, ἢ τίς ἐστιν ὁ δούς σοι τὴν ἐξουσίαν ταύτην;",
+          "attestation": "unattested"
         },
         {
           "verse": 3,
-          "canonical_ref": "Luke 20:4",
-          "english": "The baptism of John, was it from heaven or from men?",
-          "greek": "Τὸ βάπτισμα Ἰωάννου ἐξ οὐρανοῦ ἦν ἢ ἐξ ἀνθρώπων;"
+          "canonical_ref": "Luke 20:3",
+          "english": "He answered them, \"I also will ask you a question. Now tell me:",
+          "greek": "ἀποκριθεὶς δὲ εἶπεν πρὸς αὐτούς· Ἐρωτήσω ὑμᾶς κἀγὼ λόγον, καὶ εἴπατέ μοι·",
+          "attestation": "unattested"
         },
         {
           "verse": 4,
-          "canonical_ref": "Luke 20:5-6",
-          "english": "And they reasoned among themselves, saying: 'If we say, From heaven, he will say, Why did you not believe him? But if we say, From men, all the people will stone us...'",
-          "greek": "οἱ δὲ συνελογίσαντο πρὸς ἑαυτοὺς λέγοντες ὅτι ἐὰν εἴπωμεν· Ἐξ οὐρανοῦ, ἐρεῖ· Διὰ τί οὐκ ἐπιστεύσατε αὐτῷ; ἐὰν δὲ εἴπωμεν· Ἐξ ἀνθρώπων, ὁ λαὸς ἅπας καταλιθάσει ἡμᾶς·"
+          "canonical_ref": "Luke 20:4",
+          "english": "was the baptism of John from heaven or from men?\"",
+          "greek": "Τὸ βάπτισμα Ἰωάννου ἐξ οὐρανοῦ ἦν ἢ ἐξ ἀνθρώπων;"
         },
         {
           "verse": 5,
-          "canonical_ref": "Luke 20:8",
-          "english": "And he said to them, 'Neither do I tell you by what authority I do these things.'",
-          "greek": "καὶ ὁ Ἰησοῦς εἶπεν αὐτοῖς· Οὐδὲ ἐγὼ λέγω ὑμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ."
+          "canonical_ref": "Luke 20:5",
+          "english": "And they discussed it with one another, saying, \"If we say, 'From heaven', he will say, 'Why did you not believe him?'",
+          "greek": "οἱ δὲ συνελογίσαντο πρὸς ἑαυτοὺς λέγοντες ὅτι Ἐὰν εἴπωμεν· Ἐξ οὐρανοῦ, ἐρεῖ· Διὰ τί οὐκ ἐπιστεύσατε αὐτῷ;"
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 20:19",
-          "english": "And the scribes and the chief priests sought to lay hands on him in that very hour, and they feared the people.",
-          "greek": "Καὶ ἐζήτησαν οἱ γραμματεῖς καὶ οἱ ἀρχιερεῖς ἐπιβαλεῖν ἐπ᾿ αὐτὸν τὰς χεῖρας ἐν αὐτῇ τῇ ὥρᾳ, καὶ ἐφοβήθησαν τὸν λαόν."
+          "canonical_ref": "Luke 20:6",
+          "english": "But if we say, 'From men', all the people will stone us, for they are convinced that John was a prophet.\"",
+          "greek": "ἐὰν δὲ εἴπωμεν· Ἐξ ἀνθρώπων, ὁ λαὸς ἅπας καταλιθάσει ἡμᾶς, πεπεισμένος γάρ ἐστιν Ἰωάννην προφήτην εἶναι·"
         },
         {
           "verse": 7,
-          "canonical_ref": "Luke 20:24",
-          "english": "Show me a denarius. Whose image and inscription does it have? And they said, 'Caesar's.'",
-          "greek": "Δείξατέ μοι δηνάριον· τίνος ἔχει εἰκόνα καὶ ἐπιγραφήν; οἱ δὲ εἶπαν· Καίσαρος."
+          "canonical_ref": "Luke 20:7",
+          "english": "So they answered that they did not know where it came from.",
+          "greek": "καὶ ἀπεκρίθησαν μὴ εἰδέναι πόθεν."
         },
         {
           "verse": 8,
-          "canonical_ref": "Luke 20:25",
-          "english": "And he said to them: 'Give back therefore the things of Caesar to Caesar, and the things of God to God.'",
-          "greek": "ὁ δὲ εἶπεν αὐτοῖς· Τοίνυν ἀπόδοτε τὰ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ."
+          "canonical_ref": "Luke 20:8",
+          "english": "And Jesus said to them, \"Neither will I tell you by what authority I do these things.\"",
+          "greek": "καὶ ὁ Ἰησοῦς εἶπεν αὐτοῖς· Οὐδὲ ἐγὼ λέγω ὑμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ."
         },
         {
           "verse": 9,
-          "canonical_ref": "Luke 20:27",
-          "english": "And certain of the Sadducees came to him, those saying against there being a resurrection, and questioned him.",
-          "greek": "Προσελθόντες δέ τινες τῶν Σαδδουκαίων, οἱ ἀντιλέγοντες ἀνάστασιν μὴ εἶναι, ἐπηρώτησαν αὐτόν."
+          "canonical_ref": "Luke 20:19",
+          "english": "The scribes and the chief priests sought to lay hands on him at that very hour, but they feared the people.",
+          "greek": "καὶ ἐζήτησαν οἱ γραμματεῖς καὶ οἱ ἀρχιερεῖς ἐπιβαλεῖν ἐπ’ αὐτὸν τὰς χεῖρας ἐν αὐτῇ τῇ ὥρᾳ, καὶ ἐφοβήθησαν τὸν λαόν."
         },
         {
           "verse": 10,
-          "canonical_ref": "Luke 20:34-35",
-          "english": "And Jesus said to them: 'The sons of this age marry and are given in marriage, but those considered worthy to attain that age and the resurrection from the dead neither marry nor are given in marriage.'",
-          "greek": "καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Οἱ υἱοὶ τοῦ αἰῶνος τούτου γαμοῦσιν καὶ γαμίσκονται, οἱ δὲ καταξιωθέντες τοῦ αἰῶνος ἐκείνου τυχεῖν καὶ τῆς ἀναστάσεως τῆς ἐκ νεκρῶν οὔτε γαμοῦσιν οὔτε γαμίζονται·"
+          "canonical_ref": "Luke 20:20",
+          "english": "So they watched him, and sent spies, who pretended to be sincere, that they might catch him in something he said, so as to deliver him up to the authority and jurisdiction of the governor.",
+          "greek": "Καὶ παρατηρήσαντες ἀπέστειλαν ἐγκαθέτους ὑποκρινομένους ἑαυτοὺς δικαίους εἶναι, ἵνα ἐπιλάβωνται αὐτοῦ λόγου, ὥστε παραδοῦναι αὐτὸν τῇ ἀρχῇ καὶ τῇ ἐξουσίᾳ τοῦ ἡγεμόνος.",
+          "attestation": "unattested"
         },
         {
           "verse": 11,
-          "canonical_ref": "Luke 20:36",
-          "english": "For they cannot die anymore, for they are equal to messengers and are sons of God, being sons of the resurrection.",
-          "greek": "οὐδὲ γὰρ ἀποθανεῖν ἔτι δύνανται, ἰσάγγελοι γάρ εἰσιν καὶ υἱοί εἰσιν θεοῦ τῆς ἀναστάσεως υἱοὶ ὄντες."
+          "canonical_ref": "Luke 20:21",
+          "english": "So they asked him, \"Teacher, we know that you speak and teach rightly, and show no partiality, but truly teach the way of God.",
+          "greek": "καὶ ἐπηρώτησαν αὐτὸν λέγοντες· Διδάσκαλε, οἴδαμεν ὅτι ὀρθῶς λέγεις καὶ διδάσκεις καὶ οὐ λαμβάνεις πρόσωπον, ἀλλ’ ἐπ’ ἀληθείας τὴν ὁδὸν τοῦ θεοῦ διδάσκεις·",
+          "attestation": "unattested"
         },
         {
           "verse": 12,
-          "canonical_ref": "Luke 20:41",
-          "english": "And he said to them: 'How do they say that the Christ is the son of David?'",
-          "greek": "Εἶπεν δὲ πρὸς αὐτούς· Πῶς λέγουσιν τὸν χριστὸν εἶναι υἱὸν Δαυίδ;"
+          "canonical_ref": "Luke 20:22",
+          "english": "Is it lawful for us to give tribute to Caesar, or not?\"",
+          "greek": "ἔξεστιν ἡμᾶς Καίσαρι φόρον δοῦναι ἢ οὔ;",
+          "attestation": "unattested"
         },
         {
           "verse": 13,
-          "canonical_ref": "Luke 20:44",
-          "english": "David therefore calls him 'Lord,' and how is he his son?",
-          "greek": "Δαυὶδ οὖν κύριον αὐτὸν καλεῖ, καὶ πῶς αὐτοῦ υἱός ἐστιν;"
+          "canonical_ref": "Luke 20:23",
+          "english": "But he perceived their craftiness, and said to them,",
+          "greek": "κατανοήσας δὲ αὐτῶν τὴν πανουργίαν εἶπεν πρὸς αὐτούς·",
+          "attestation": "unattested"
         },
         {
           "verse": 14,
-          "canonical_ref": "Luke 20:45-46",
-          "english": "And while all the people were listening, he said to the disciples: 'Beware of the scribes who desire to walk around in robes and love greetings in the marketplaces and chief seats in the assemblies and chief places at the suppers.'",
-          "greek": "Ἀκούοντος δὲ παντὸς τοῦ λαοῦ εἶπεν τοῖς μαθηταῖς· Προσέχετε ἀπὸ τῶν γραμματέων τῶν θελόντων περιπατεῖν ἐν στολαῖς καὶ φιλούντων ἀσπασμοὺς ἐν ταῖς ἀγοραῖς καὶ πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς καὶ πρωτοκλισίας ἐν τοῖς δείπνοις."
+          "canonical_ref": "Luke 20:24",
+          "english": "\"Show me a denarius. Whose image and inscription does it have?\" They said, \"Caesar's.\"",
+          "greek": "Δείξατέ μοι δηνάριον· τίνος ἔχει εἰκόνα καὶ ἐπιγραφήν; οἱ δὲ εἶπαν· Καίσαρος."
+        },
+        {
+          "verse": 15,
+          "canonical_ref": "Luke 20:25",
+          "english": "He said to them, \"Then give back to Caesar the things that are Caesar's, and to God the things that are God's.\"",
+          "greek": "ὁ δὲ εἶπεν πρὸς αὐτούς· Τοίνυν ἀπόδοτε τὰ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ."
+        },
+        {
+          "verse": 16,
+          "canonical_ref": "Luke 20:26",
+          "english": "And they were not able in the presence of the people to catch him in what he said, but marvelling at his answer they became silent.",
+          "greek": "καὶ οὐκ ἴσχυσαν ἐπιλαβέσθαι αὐτοῦ ῥήματος ἐναντίον τοῦ λαοῦ, καὶ θαυμάσαντες ἐπὶ τῇ ἀποκρίσει αὐτοῦ ἐσίγησαν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 17,
+          "canonical_ref": "Luke 20:27",
+          "english": "There came to him some Sadducees, those who deny that there is a resurrection, and they asked him,",
+          "greek": "Προσελθόντες δέ τινες τῶν Σαδδουκαίων, οἱ ἀντιλέγοντες ἀνάστασιν μὴ εἶναι, ἐπηρώτησαν αὐτὸν"
+        },
+        {
+          "verse": 18,
+          "canonical_ref": "Luke 20:28",
+          "english": "saying, \"Teacher, Moses wrote for us that if a man's brother dies, having a wife but no children, the man must take the widow and raise up offspring for his brother.",
+          "greek": "λέγοντες· Διδάσκαλε, Μωϋσῆς ἔγραψεν ἡμῖν, ἐάν τινος ἀδελφὸς ἀποθάνῃ ἔχων γυναῖκα, καὶ οὗτος ἄτεκνος ᾖ, ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ."
+        },
+        {
+          "verse": 19,
+          "canonical_ref": "Luke 20:29",
+          "english": "Now there were seven brothers. The first took a wife, and died without children.",
+          "greek": "ἑπτὰ οὖν ἀδελφοὶ ἦσαν· καὶ ὁ πρῶτος λαβὼν γυναῖκα ἀπέθανεν ἄτεκνος·"
+        },
+        {
+          "verse": 20,
+          "canonical_ref": "Luke 20:30",
+          "english": "And the second",
+          "greek": "καὶ ὁ δεύτερος"
+        },
+        {
+          "verse": 21,
+          "canonical_ref": "Luke 20:31",
+          "english": "and the third took her, and likewise all seven left no children and died.",
+          "greek": "καὶ ὁ τρίτος ἔλαβεν αὐτήν, ὡσαύτως δὲ καὶ οἱ ἑπτὰ οὐ κατέλιπον τέκνα καὶ ἀπέθανον·"
+        },
+        {
+          "verse": 22,
+          "canonical_ref": "Luke 20:32",
+          "english": "Afterwards the woman also died.",
+          "greek": "ὕστερον καὶ ἡ γυνὴ ἀπέθανεν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 23,
+          "canonical_ref": "Luke 20:33",
+          "english": "In the resurrection, therefore, whose wife will the woman be? For the seven had her as wife.\"",
+          "greek": "ἡ γυνὴ οὖν ἐν τῇ ἀναστάσει τίνος αὐτῶν γίνεται γυνή; οἱ γὰρ ἑπτὰ ἔσχον αὐτὴν γυναῖκα."
+        },
+        {
+          "verse": 24,
+          "canonical_ref": "Luke 20:34",
+          "english": "And Jesus said to them, \"The sons of this age marry and are given in marriage,",
+          "greek": "Καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Οἱ υἱοὶ τοῦ αἰῶνος τούτου γαμοῦσιν καὶ γαμίσκονται,"
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 20:35",
+          "english": "but those whom God has deemed worthy to attain to that age and to the resurrection from the dead neither marry nor are given in marriage;",
+          "greek": "οὓς δὲ κατηξίωσεν ὁ θεὸς τοῦ αἰῶνος ἐκείνου τυχεῖν καὶ τῆς ἀναστάσεως τῆς ἐκ νεκρῶν οὔτε γαμοῦσιν οὔτε γαμίζονται·"
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 20:36",
+          "english": "for they cannot die any more, because they are equal to angels and are sons of God, being sons of the resurrection.",
+          "greek": "οὐδὲ γὰρ ἀποθανεῖν ἔτι δύνανται, ἰσάγγελοι γάρ εἰσιν καὶ υἱοί εἰσιν θεοῦ τῆς ἀναστάσεως υἱοὶ ὄντες."
+        },
+        {
+          "verse": 27,
+          "canonical_ref": "Luke 20:39",
+          "english": "Then some of the scribes answered, \"Teacher, you have spoken well.\"",
+          "greek": "ἀποκριθέντες δέ τινες τῶν γραμματέων εἶπαν· Διδάσκαλε, καλῶς εἶπας·"
+        },
+        {
+          "verse": 28,
+          "canonical_ref": "Luke 20:40",
+          "english": "For they no longer dared to ask him any question.",
+          "greek": "οὐκέτι γὰρ ἐτόλμων ἐπερωτᾶν αὐτὸν οὐδέν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 29,
+          "canonical_ref": "Luke 20:41",
+          "english": "But he said to them, \"How can they say that the Christ is David's son?",
+          "greek": "Εἶπεν δὲ πρὸς αὐτούς· Πῶς λέγουσιν τὸν χριστὸν εἶναι Δαυὶδ υἱόν;"
+        },
+        {
+          "verse": 30,
+          "canonical_ref": "Luke 20:42",
+          "english": "For David himself says in the Book of Psalms, 'The Lord said to my Lord, Sit at my right hand,",
+          "greek": "αὐτὸς γὰρ Δαυὶδ λέγει ἐν βίβλῳ ψαλμῶν· Εἶπεν κύριος τῷ κυρίῳ μου· Κάθου ἐκ δεξιῶν μου",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 31,
+          "canonical_ref": "Luke 20:43",
+          "english": "until I make your enemies your footstool.'",
+          "greek": "ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 32,
+          "canonical_ref": "Luke 20:44",
+          "english": "David thus calls him Lord, so how is he his son?\"",
+          "greek": "Δαυὶδ οὖν κύριον αὐτὸν καλεῖ, καὶ πῶς αὐτοῦ υἱός ἐστιν;"
         }
       ],
       "notes": [
         {
           "id": 1,
-          "term": "Temple (ἱερῷ - hierō)",
-          "explanation": "The term refers specifically to the physical complex where the Jamesian 'Opposition Priesthood' confronted the Sadducean establishment.",
-          "verse_refs": [1],
-          "category": "translation"
+          "term": "John's baptism (20:1–8)",
+          "verse_refs": [1, 4, 5, 6, 8],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.38.1–2: Christ knew where John's baptism came from, and asked so that the Pharisees would judge themselves. \"Why did you not believe him?\" shows that he wanted John to be believed, and so that John's baptism was the Creator's. The leaders' fear of being stoned and Jesus' \"Neither do I tell you by what power I do these things\" are both cited. 20:2–3 are not cited and are printed in grey."
         },
         {
           "id": 2,
-          "term": "Announcing the good news (εὐαγγελιζομένου - euangelizomenou)",
-          "explanation": "This implies the performance of heraldic duty, a definitive Jamesian marker.",
-          "verse_refs": [1],
-          "category": "translation"
+          "term": "Not printed: the tenants (20:9–18)",
+          "verse_refs": [8, 9],
+          "category": "excision",
+          "explanation": "Epiphanius, sch. 55: Marcion \"again cut out what concerns the vineyard let out to tenants, and 'What then is this: the stone which the builders rejected?'\". 20:18, on falling on that stone, goes with it. Epiphanius does quote 20:19 (sch. 54), the leaders seeking to seize Jesus and fearing the people. It is printed without its last clause, \"for they knew that he had told this parable against them\", which refers to the absent parable. In this text the leaders' hostility follows the exchange about John."
         },
         {
           "id": 3,
-          "term": "Reasoned together (συνελογίσαντο - synelogisanto)",
-          "explanation": "Reconstructed as the primitive technical term for the internal legal deliberation of the elite.",
-          "verse_refs": [4],
-          "category": "translation"
+          "term": "Caesar and God (20:20–26)",
+          "verse_refs": [10, 14, 15, 16],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.38.3 quotes \"Render to Caesar the things that are Caesar's, and to God the things that are God's\". He explains that what is God's is what bears his image and likeness, the human being, so the saying gives man back to his maker. 20:20–23 and 20:26 are not cited and are printed in grey."
         },
         {
           "id": 4,
-          "term": "Stone down (καταλιθάσει - katalithasei)",
-          "explanation": "A specific forensic threat of execution from the marginalized crowds.",
-          "verse_refs": [4],
-          "category": "translation"
+          "term": "\"Those whom God has deemed worthy\" (20:27–40)",
+          "verse_refs": [17, 23, 24, 25, 26, 27],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.38.4–9 follows the Sadducees' question and the reply closely. He quotes the reply three times as \"those whom God has deemed worthy of that age and of the resurrection from the dead\". He reports that the Marcionites read \"the God of that age\" together, a second God who grants the resurrection, and he argues for a different punctuation, not a different text. The active \"whom God has deemed worthy\" is printed; canonical Luke has the passive \"those who are deemed worthy\". Epiphanius states twice (sch. 56–57) that the text lacked the proof from Moses at the bush, \"he is God not of the dead but of the living\" (20:37–38). It is not printed. The scribes' \"Teacher, you have spoken well\" (20:39) follows directly on the sayings about the resurrection."
         },
         {
           "id": 5,
-          "term": "Omission of the Wicked Tenants (20:9-18)",
-          "explanation": "Epiphanius confirms this section was absent. The parable anchors Jesus in a biological 'inheritance' (klēronomia) from the previous 'prophets,' a concept the Protograph rejects in favor of a pneumatic descent.",
-          "verse_refs": [],
-          "category": "excision"
+          "term": "Resurrection without the patriarchs",
+          "verse_refs": [25, 26],
+          "category": "theological",
+          "explanation": "Interpretation. In this text the answer about the resurrection is that the worthy \"neither marry nor are given in marriage, for they cannot die any more, because they are equal to angels and are sons of God, being sons of the resurrection\". There is no argument from the God of Abraham, Isaac and Jacob, as there are no patriarchs in the kingdom at 13:28. The resurrection is described as a state God grants to the worthy, \"equal to angels\" and \"sons of God\". It is not described as the return of the body that was buried. The witnesses do not say how the community behind the text pictured it."
         },
         {
           "id": 6,
-          "term": "Denarius (δηνάριον - dēnarion)",
-          "explanation": "A dry forensic fact—the Roman silver coin representing the 'Mammon of unrighteousness' within the imperial economy.",
-          "verse_refs": [7],
-          "category": "translation"
-        },
-        {
-          "id": 7,
-          "term": "Give back (ἀπόδοτε - apodote)",
-          "explanation": "Reflects the Greek sense of rendering a debt or returning what is already owed to the worldly power, separating it entirely from the things of the Spirit.",
-          "verse_refs": [8],
-          "category": "translation"
-        },
-        {
-          "id": 8,
-          "term": "Attain (τυχεῖν - tychein)",
-          "explanation": "The reconstruction confirms that entry into the 'age to come' is a pneumatic achievement rather than a biological right.",
-          "verse_refs": [10],
-          "category": "translation"
-        },
-        {
-          "id": 9,
-          "term": "Neither marry nor are given in marriage",
-          "explanation": "This highlights the Jamesian/Ebionite focus on asceticism and the dissolution of self-interest through the abolition of biological family structures.",
-          "verse_refs": [10],
-          "category": "theological"
-        },
-        {
-          "id": 10,
-          "term": "Equal to messengers (ἰσάγγελοι - isangeloi)",
-          "explanation": "Per the philosophy, 'angeloi' is translated as messengers, identifying the state of the risen as entities of the pneumatic order.",
-          "verse_refs": [11],
-          "category": "translation"
-        },
-        {
-          "id": 11,
-          "term": "Omission of the Bush (20:37-38a)",
-          "explanation": "Epiphanius explicitly states this section was absent. Its removal excises the canonical attempt to anchor the resurrection in the 'God of the Fathers' (Abraham, Isaac, and Jacob), maintaining the Protograph's focus on the Spirit over historical biology.",
-          "verse_refs": [],
-          "category": "excision"
-        },
-        {
-          "id": 12,
-          "term": "Christ not David's son (20:41-44)",
-          "explanation": "Jesus uses the internal logic of the Spirit to decouple the Anointed One from biological Davidic ancestry, consistent with the Adoptionist stratum of the Jamesian source.",
-          "verse_refs": [12, 13],
-          "category": "theological"
-        },
-        {
-          "id": 13,
-          "term": "Robes (στολαῖς - stolais)",
-          "explanation": "Denotes the formal, status-heavy attire of the institutional elite, which the Protograph identifies as materialism.",
-          "verse_refs": [14],
-          "category": "translation"
+          "term": "David's Lord (20:41–44)",
+          "verse_refs": [29, 32],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.38.10: the scribes thought the Christ was David's son; David calls him Lord. Tertullian connects this with the blind man's \"son of David\" (18:38): Jesus accepted that title then and now shows he is also David's Lord. 20:42–43, the quotation of Psalm 110:1, are not cited and are printed in grey. 20:45–47, the warning against the scribes, form a paragraph with no attested verse and are not printed."
         }
-      ],
-      "additional_explanation": {
-        "title": "The Rejection of Biological Authority",
-        "content": "Chapter 18 of the Protograph systematically dismantles the theological foundations of the Jerusalem elite.",
-        "points": [
-          {
-            "title": "The Decoupling from the Prophets",
-            "explanation": "By omitting the Parable of the Wicked Tenants (20:9-18), the Protograph rejects the notion that Jesus is the 'heir' of the prophetic tradition in a biological or institutional sense. The authority of Jesus comes directly from the Spirit, not through inheritance."
-          },
-          {
-            "title": "The Abolition of Marriage",
-            "explanation": "The teaching on resurrection (20:35) declares that the biological family structure is abolished in the age to come. This aligns with the Ebionite asceticism and rejection of self-interest that defines the community of the Poor."
-          },
-          {
-            "title": "Christ Not David's Son",
-            "explanation": "The riddle about David calling the Christ 'Lord' (20:41-44) is the climax of the chapter. It uses scriptural logic to sever the Christ from the Davidic bloodline, reinforcing the Adoptionist Christology of the Protograph."
-          }
-        ]
-      }
+      ]
     },
     {
       "chapter": 19,
       "title": "Proto-Luke Chapter 19",
-      "preamble": "The end of the age is foretold. A poor widow puts two small coins into the treasury—all she has to live on—and Jesus declares she has given more than all the wealthy donors combined. Then, looking at the Temple, he speaks of what is to come. Nation will rise against nation, kingdom against kingdom. There will be earthquakes, famines, and terrors. His followers will be arrested and brought before rulers, but they are not to prepare their defense in advance—Jesus himself will give them words that no adversary can withstand. When you see the abomination of desolation standing where it ought not, know that the desolation is near. Heaven and earth will pass away, but my words will not pass away.",
+      "preamble": "The signs of the end. The disciples ask when these things will be. Jesus warns them against those who will come in his name, and speaks of wars, earthquakes, famines, terrors and signs from heaven, and of persecution before kings and governors, \"for my name's sake\". He tells them not to prepare their defence, for he will give them wisdom, and that by endurance they will gain their lives. He speaks of Jerusalem surrounded by armies, of signs in sun, moon and stars, and of the son of man \"coming from the heavens with great power\" (Tertullian, Marc. 4.39.10). When these things begin, they are to lift up their heads, for their redemption is near; the fig tree shows that the kingdom of God is near. He warns them against dissipation and the cares of life. By day he teaches in the temple and by night he lodges on the Mount of Olives. Two sayings are absent, by Epiphanius' statement: \"not a hair of your head will perish\" (21:18) and the flight from Judea \"that all that is written may be fulfilled\" (21:21–22).",
       "verses": [
         {
           "verse": 1,
-          "canonical_ref": "Luke 21:1-2",
-          "english": "And looking up, he saw the rich casting their gifts into the treasury. And he saw a certain poor widow casting in there two lepta.",
-          "greek": "Καὶ ἀναβλέψας εἶδεν τοὺς βάλλοντας εἰς τὸ γαζοφυλάκιον τὰ δῶρα αὐτῶν πλουσίους. εἶδεν δέ τινα χήραν πενιχρὰν βάλλουσαν ἐκεῖ λεπτὰ δύο."
+          "canonical_ref": "Luke 21:7",
+          "english": "And they asked him, \"Teacher, when will these things be, and what will be the sign when these things are about to take place?\"",
+          "greek": "Ἐπηρώτησαν δὲ αὐτὸν λέγοντες· Διδάσκαλε, πότε οὖν ταῦτα ἔσται, καὶ τί τὸ σημεῖον ὅταν μέλλῃ ταῦτα γίνεσθαι;"
         },
         {
           "verse": 2,
-          "canonical_ref": "Luke 21:3-4",
-          "english": "And he said, 'Truly I say to you, that this poor widow has cast in more than all. For all these out of their abundance cast into the gifts, but she out of her lack cast in all the living that she had.'",
-          "greek": "καὶ εἶπεν· ἀληθῶς λέγω ὑμῖν ὅτι ἡ χήρα ἡ πτωχὴ αὕτη πλεῖον πάντων ἔβαλεν· πάντες γὰρ οὗτοι ἐκ τοῦ περισσεύοντος αὐτοῖς ἔβαλον εἰς τὰ δῶρα, αὕτη δὲ ἐκ τοῦ ὑστερήματος αὐτῆς πάντα τὸν βίον ὃν εἶχεν ἔβαλεν."
+          "canonical_ref": "Luke 21:8",
+          "english": "And he said, \"See that you are not led astray. For many will come in my name, saying, 'I am he!' and, 'The time is at hand!' Do not go after them.",
+          "greek": "ὁ δὲ εἶπεν· Βλέπετε μὴ πλανηθῆτε· πολλοὶ γὰρ ἐλεύσονται ἐπὶ τῷ ὀνόματί μου λέγοντες· Ἐγώ εἰμι καί· Ὁ καιρὸς ἤγγικεν· μὴ πορευθῆτε ὀπίσω αὐτῶν."
         },
         {
           "verse": 3,
-          "canonical_ref": "Luke 21:8",
-          "english": "And he said, 'Take heed that you be not led astray; for many shall come in my name, saying, I am the Christ, and the time has come near; do not go after them.'",
-          "greek": "ὁ δὲ εἶπεν· βλέπετε μὴ πλανηθῆτε· πολλοὶ γὰρ ἐλεύσονται ἐπὶ τῷ ὀνόματί μου λέγοντες· ἐγώ εἰμι ὁ Χριστός, καὶ· ὁ καιρὸς ἤγγικεν· μὴ πορευθῆτε ὀπίσω αὐτῶν."
+          "canonical_ref": "Luke 21:9",
+          "english": "And when you hear of wars and tumults, do not be terrified, for these things must first take place, but the end will not be at once.\"",
+          "greek": "ὅταν δὲ ἀκούσητε πολέμους καὶ ἀκαταστασίας, μὴ πτοηθῆτε· δεῖ γὰρ ταῦτα γενέσθαι πρῶτον, ἀλλ’ οὐκ εὐθέως τὸ τέλος."
         },
         {
           "verse": 4,
-          "canonical_ref": "Luke 21:9-10",
-          "english": "And when you hear of wars and disturbances, do not be terrified; for these things must first happen, but the end is not immediately. Then he said to them, 'Nation shall rise against nation, and kingdom against kingdom.'",
-          "greek": "ὅταν δὲ ἀκούσητε πολέμους καὶ ἀκαταστασίας, μὴ πτοηθῆτε· δεῖ γὰρ ταῦτα γενέσθαι πρῶτον, ἀλλ᾽ οὐκ εὐθέως τὸ τέλος. Τότε ἔλεγεν αὐτοῖς· ἐγερθήσεται ἔθνος ἐπ᾽ ἔθνος καὶ βασιλεία ἐπὶ βασιλείαν."
+          "canonical_ref": "Luke 21:10",
+          "english": "Then he said to them, \"Nation will rise against nation, and kingdom against kingdom.",
+          "greek": "τότε ἔλεγεν αὐτοῖς· Ἐγερθήσεται ἔθνος ἐπ’ ἔθνος καὶ βασιλεία ἐπὶ βασιλείαν,"
         },
         {
           "verse": 5,
           "canonical_ref": "Luke 21:11",
-          "english": "And there shall be great earthquakes, and in various places pestilences and famines; and there shall be terrors and great signs from heaven.",
-          "greek": "σεισμοί τε μεγάλοι καὶ κατὰ τόπους λοιμοὶ καὶ λιμοὶ ἔσονται, φόβητρά τε καὶ ἀπ᾿ οὐρανοῦ σημεῖα μεγάλα ἔσται."
+          "english": "There will be great earthquakes, and in various places famines and pestilences; and there will be terrors and great signs from heaven.",
+          "greek": "σεισμοί τε μεγάλοι καὶ κατὰ τόπους λιμοὶ καὶ λοιμοὶ ἔσονται, φόβητρά τε καὶ ἀπ’ οὐρανοῦ σημεῖα μεγάλα ἔσται."
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 21:12-13",
-          "english": "But before all these things they will lay their hands upon you and persecute you, delivering you up to the assemblies and prisons, being led before kings and governors for my name's sake; it will result in testimony for you.",
-          "greek": "πρὸ δὲ τούτων ἐπιβαλοῦσιν ἐφ᾽ ὑμᾶς τὰς χεῖρας αὐτῶν καὶ διώξουσιν, παραδιδόντες εἰς τὰς συναγωγὰς καὶ φυλακάς, ἀπαγομένους ἐπὶ βασιλεῖς καὶ ἡγεμόνας ἕνεκεν τοῦ ὀνόματός μου· ἀποβήσεται ὑμῖν εἰς μαρτύριον."
+          "canonical_ref": "Luke 21:12",
+          "english": "But before all this they will lay their hands on you and persecute you, delivering you up to the synagogues and prisons, and you will be brought before kings and governors for my name's sake.",
+          "greek": "Πρὸ δὲ τούτων πάντων ἐπιβαλοῦσιν ἐφ’ ὑμᾶς τὰς χεῖρας αὐτῶν καὶ διώξουσιν, παραδιδόντες εἰς τὰς συναγωγὰς καὶ φυλακάς, ἀπαγομένους ἐπὶ βασιλεῖς καὶ ἡγεμόνας ἕνεκεν τοῦ ὀνόματός μου·"
         },
         {
           "verse": 7,
-          "canonical_ref": "Luke 21:15",
-          "english": "For I will give you a mouth and wisdom which all those opposing you will not be able to resist or contradict.",
-          "greek": "ἐγὼ γὰρ δώσω ὑμῖν στόμα καὶ σοφίαν ᾗ οὐ δυνήσονται ἀντιστῆναι ἢ ἀντειπεῖν πάντες οἱ ἀντικείμενοι ὑμῖν."
+          "canonical_ref": "Luke 21:13",
+          "english": "This will be your opportunity to bear witness.",
+          "greek": "ἀποβήσεται ὑμῖν εἰς μαρτύριον."
         },
         {
           "verse": 8,
-          "canonical_ref": "Luke 21:17",
-          "english": "And you will be hated by all because of my name.",
-          "greek": "καὶ ἔσεσθε μισούμενοι ὑπὸ πάντων διὰ τὸ ὄνομά μου."
+          "canonical_ref": "Luke 21:14",
+          "english": "Settle it therefore in your minds not to prepare your defence beforehand,",
+          "greek": "θέτε οὖν ἐν ταῖς καρδίαις ὑμῶν μὴ προμελετᾶν ἀπολογηθῆναι,"
         },
         {
           "verse": 9,
-          "canonical_ref": "Luke 21:19",
-          "english": "In your patience you will save yourselves.",
-          "greek": "ἐν τῇ ὑπομονῇ σώσετε ἑαυτούς."
+          "canonical_ref": "Luke 21:15",
+          "english": "for I will give you a mouth and wisdom, which none of your adversaries will be able to withstand or contradict.",
+          "greek": "ἐγὼ γὰρ δώσω ὑμῖν στόμα καὶ σοφίαν ᾗ οὐ δυνήσονται ἀντιστῆναι ἢ ἀντειπεῖν ἅπαντες οἱ ἀντικείμενοι ὑμῖν."
         },
         {
           "verse": 10,
-          "canonical_ref": "Luke 21:20",
-          "english": "But when you see the abomination of desolation standing where it ought not, then know that its desolation has come near.",
-          "greek": "Ὅταν δὲ ἴδητε τὸ βδέλυγμα τῆς ἐρημώσεως ἑστὼς ὅπου οὐ δεῖ, τότε γνῶτε ὅτι ἤγγικεν ἡ ἐρήμωσις αὐτῆς."
+          "canonical_ref": "Luke 21:16",
+          "english": "You will be delivered up even by parents and brothers and relatives and friends, and some of you they will put to death.",
+          "greek": "παραδοθήσεσθε δὲ καὶ ὑπὸ γονέων καὶ ἀδελφῶν καὶ συγγενῶν καὶ φίλων, καὶ θανατώσουσιν ἐξ ὑμῶν,"
         },
         {
           "verse": 11,
-          "canonical_ref": "Luke 21:25-26",
-          "english": "And there shall be signs in sun and moon and stars, and on the earth distress of nations in perplexity at the roar of the sea and the surging. Men fainting from fear and expectation of the things coming on the world; for the powers of the heavens shall be shaken.",
-          "greek": "Καὶ ἔσονται σημεῖα ἐν ἡλίῳ καὶ σελήνῃ καὶ ἄστροις, καὶ ἐπὶ τῆς γῆς συνοχὴ ἐθνῶν ἐν ἀπορίᾳ ἤχους θαλάσσης καὶ σάλου, ἀποψυχόντων ἀνθρώπων ἀπὸ φόβου καὶ προσδοκίας τῶν ἐπερχομένων τῇ οἰκουμένῃ, αἱ γὰρ δυνάμεις τῶν οὐρανῶν σαλευθήσονται."
+          "canonical_ref": "Luke 21:17",
+          "english": "You will be hated by all for my name's sake.",
+          "greek": "καὶ ἔσεσθε μισούμενοι ὑπὸ πάντων διὰ τὸ ὄνομά μου."
         },
         {
           "verse": 12,
-          "canonical_ref": "Luke 21:27",
-          "english": "And then they shall see the son of man coming from the heavens with much power and glory.",
-          "greek": "καὶ τότε ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν νεφέλῃ μετὰ δυνάμεως καὶ δόξης πολλῆς."
+          "canonical_ref": "Luke 21:19",
+          "english": "By your endurance you will gain your lives.",
+          "greek": "ἐν τῇ ὑπομονῇ ὑμῶν κτήσασθε τὰς ψυχὰς ὑμῶν."
         },
         {
           "verse": 13,
-          "canonical_ref": "Luke 21:28",
-          "english": "But when these things begin to happen, stand up and lift up your heads, because your redemption draws near.",
-          "greek": "ἀρχομένων δὲ τούτων γίνεσθαι ἀνακύψατε καὶ ἐπάρατε τὰς κεφαλὰς ὑμῶν, διότι ἐγγίζει ἡ ἀπολύτρωσις ὑμῶν."
+          "canonical_ref": "Luke 21:20",
+          "english": "But when you see Jerusalem surrounded by armies, then know that its desolation has come near.",
+          "greek": "Ὅταν δὲ ἴδητε κυκλουμένην ὑπὸ στρατοπέδων Ἰερουσαλήμ, τότε γνῶτε ὅτι ἤγγικεν ἡ ἐρήμωσις αὐτῆς."
         },
         {
           "verse": 14,
-          "canonical_ref": "Luke 21:29-30",
-          "english": "And he spoke a parable to them: 'Look at the fig tree and all the trees. When they already bring forth fruit, looking at them you know for yourselves that the summer is already near.'",
-          "greek": "Καὶ εἶπεν παραβολὴν αὐτοῖς· ἴδετε τὴν συκῆν καὶ πάντα τὰ δένδρα· ὅταν προβάλωσιν ἤδη καρπόν, βλέποντες ἀφ᾿ ἑαυτῶν γινώσκετε ὅτι ἤδη ἐγγὺς τὸ θέρος ἐστίν·"
+          "canonical_ref": "Luke 21:23",
+          "english": "Alas for women who are pregnant and for those who are nursing infants in those days! For there will be great distress upon the earth and wrath against this people.",
+          "greek": "οὐαὶ ταῖς ἐν γαστρὶ ἐχούσαις καὶ ταῖς θηλαζούσαις ἐν ἐκείναις ταῖς ἡμέραις· ἔσται γὰρ ἀνάγκη μεγάλη ἐπὶ τῆς γῆς καὶ ὀργὴ τῷ λαῷ τούτῳ,",
+          "attestation": "unattested"
         },
         {
           "verse": 15,
-          "canonical_ref": "Luke 21:31",
-          "english": "So also you, when you see these things happening, know that the kingdom of God is near.",
-          "greek": "οὕτως καὶ ὑμεῖς, ὅταν ἴδητε ταῦτα γινόμενα, γινώσκετε ὅτι ἐγγὺς ἐστιν ἡ βασιλεία τοῦ θεοῦ."
+          "canonical_ref": "Luke 21:24",
+          "english": "They will fall by the edge of the sword and be led captive among all nations, and Jerusalem will be trampled underfoot by the Gentiles, until the times of the Gentiles are fulfilled.",
+          "greek": "καὶ πεσοῦνται στόματι μαχαίρης καὶ αἰχμαλωτισθήσονται εἰς τὰ ἔθνη πάντα, καὶ Ἰερουσαλὴμ ἔσται πατουμένη ὑπὸ ἐθνῶν, ἄχρι οὗ πληρωθῶσιν καιροὶ ἐθνῶν.",
+          "attestation": "unattested"
         },
         {
           "verse": 16,
-          "canonical_ref": "Luke 21:33",
-          "english": "The heaven and the earth shall pass away, but my words shall not pass away.",
-          "greek": "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρελεύσονται."
+          "canonical_ref": "Luke 21:25",
+          "english": "And there will be signs in sun and moon and stars, and on the earth distress of nations in perplexity because of the roaring of the sea and the waves,",
+          "greek": "Καὶ ἔσονται σημεῖα ἐν ἡλίῳ καὶ σελήνῃ καὶ ἄστροις, καὶ ἐπὶ τῆς γῆς συνοχὴ ἐθνῶν ἐν ἀπορίᾳ ἤχους θαλάσσης καὶ σάλου,"
         },
         {
           "verse": 17,
-          "canonical_ref": "Luke 21:34",
-          "english": "But take heed to yourselves, lest your hearts be weighed down with debauchery and drunkenness and the anxieties of this life, and that day come upon you suddenly as a snare.",
-          "greek": "Προσέχετε δὲ ἑαυτοῖς μήποτε βαρηθῶσιν ὑμῶν αἱ καρδίαι ἐν κραιπάλῃ καὶ μέθῃ καὶ μερίμναις βιωτικαῖς καὶ ἐπιστῇ ἐφ᾽ ὑμᾶς αἰφνίδιος ἡ ἡμέρα ἐκείνη."
+          "canonical_ref": "Luke 21:26",
+          "english": "people fainting with fear and with foreboding of what is coming on the world. For the powers of the heavens will be shaken.",
+          "greek": "ἀποψυχόντων ἀνθρώπων ἀπὸ φόβου καὶ προσδοκίας τῶν ἐπερχομένων τῇ οἰκουμένῃ, αἱ γὰρ δυνάμεις τῶν οὐρανῶν σαλευθήσονται."
         },
         {
           "verse": 18,
-          "canonical_ref": "Luke 21:37-38",
-          "english": "And during the days he was teaching in the Temple, and during the nights he went out and lodged on the mountain called Olives. And all the people came early in the morning to him in the Temple to listen to him.",
-          "greek": "ὧν δὲ τὰς ἡμέρας ἐν τῷ ἱερῷ διδάσκων, τὰς δὲ νύκτας ἐξερχόμενος ηὐλίζετο εἰς τὸ ὄρος τὸ καλούμενον Ἐλαιῶν."
+          "canonical_ref": "Luke 21:27",
+          "english": "And then they will see the son of man coming from the heavens with great power.",
+          "greek": "καὶ τότε ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἀπὸ τῶν οὐρανῶν μετὰ δυνάμεως πολλῆς."
+        },
+        {
+          "verse": 19,
+          "canonical_ref": "Luke 21:28",
+          "english": "Now when these things begin to take place, straighten up and raise your heads, because your redemption is drawing near.\"",
+          "greek": "ἀρχομένων δὲ τούτων γίνεσθαι ἀνακύψατε καὶ ἐπάρατε τὰς κεφαλὰς ὑμῶν, διότι ἐγγίζει ἡ ἀπολύτρωσις ὑμῶν."
+        },
+        {
+          "verse": 20,
+          "canonical_ref": "Luke 21:29",
+          "english": "And he told them a parable: \"Look at the fig tree, and all the trees.",
+          "greek": "Καὶ εἶπεν παραβολὴν αὐτοῖς· Ἴδετε τὴν συκῆν καὶ πάντα τὰ δένδρα·"
+        },
+        {
+          "verse": 21,
+          "canonical_ref": "Luke 21:30",
+          "english": "As soon as they come into leaf, you see for yourselves and know that the summer is already near.",
+          "greek": "ὅταν προβάλωσιν ἤδη, βλέποντες ἀφ’ ἑαυτῶν γινώσκετε ὅτι ἤδη ἐγγὺς τὸ θέρος ἐστίν·"
+        },
+        {
+          "verse": 22,
+          "canonical_ref": "Luke 21:31",
+          "english": "So also, when you see these things taking place, you know that the kingdom of God is near.",
+          "greek": "οὕτως καὶ ὑμεῖς, ὅταν ἴδητε ταῦτα γινόμενα, γινώσκετε ὅτι ἐγγύς ἐστιν ἡ βασιλεία τοῦ θεοῦ."
+        },
+        {
+          "verse": 23,
+          "canonical_ref": "Luke 21:32",
+          "english": "Truly I tell you, this generation will not pass away until all has taken place.",
+          "greek": "ἀμὴν λέγω ὑμῖν ὅτι οὐ μὴ παρέλθῃ ἡ γενεὰ αὕτη ἕως ἂν πάντα γένηται."
+        },
+        {
+          "verse": 24,
+          "canonical_ref": "Luke 21:33",
+          "english": "Heaven and earth will pass away, but my words will not pass away.",
+          "greek": "ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρελεύσονται."
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 21:34",
+          "english": "But watch yourselves lest your hearts be weighed down with dissipation and drunkenness and cares of this life, and that day come upon you suddenly",
+          "greek": "Προσέχετε δὲ ἑαυτοῖς μήποτε βαρηθῶσιν ὑμῶν αἱ καρδίαι ἐν κραιπάλῃ καὶ μέθῃ καὶ μερίμναις βιωτικαῖς, καὶ ἐπιστῇ ἐφ’ ὑμᾶς αἰφνίδιος ἡ ἡμέρα ἐκείνη"
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 21:35",
+          "english": "like a trap. For it will come upon all who dwell on the face of the whole earth.",
+          "greek": "ὡς παγίς· ἐπεισελεύσεται γὰρ ἐπὶ πάντας τοὺς καθημένους ἐπὶ πρόσωπον πάσης τῆς γῆς."
+        },
+        {
+          "verse": 27,
+          "canonical_ref": "Luke 21:36",
+          "english": "But stay awake at all times, praying that you may have strength to escape all these things that are going to take place, and to stand before the son of man.\"",
+          "greek": "ἀγρυπνεῖτε δὲ ἐν παντὶ καιρῷ δεόμενοι ἵνα κατισχύσητε ἐκφυγεῖν ταῦτα πάντα τὰ μέλλοντα γίνεσθαι, καὶ σταθῆναι ἔμπροσθεν τοῦ υἱοῦ τοῦ ἀνθρώπου.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 28,
+          "canonical_ref": "Luke 21:37",
+          "english": "Every day he was teaching in the temple, but at night he went out and lodged on the mount called Olivet.",
+          "greek": "Ἦν δὲ τὰς ἡμέρας ἐν τῷ ἱερῷ διδάσκων, τὰς δὲ νύκτας ἐξερχόμενος ηὐλίζετο εἰς τὸ ὄρος τὸ καλούμενον Ἐλαιῶν·"
+        },
+        {
+          "verse": 29,
+          "canonical_ref": "Luke 21:38",
+          "english": "And all the people came early in the morning to hear him in the temple.",
+          "greek": "καὶ πᾶς ὁ λαὸς ὤρθριζεν πρὸς αὐτὸν ἐν τῷ ἱερῷ ἀκούειν αὐτοῦ."
         }
       ],
       "notes": [
         {
           "id": 1,
-          "term": "Treasury (γαζοφυλάκιον - gazophylakion)",
-          "explanation": "The term identifies the economic heart of the Temple establishment, which the Jamesian community viewed as the center of 'Mammon.'",
+          "term": "Not printed: 21:1–6",
           "verse_refs": [1],
-          "category": "translation"
+          "category": "excision",
+          "explanation": "The widow's two coins (21:1–4) and the prediction that not one stone of the temple will be left on another (21:5–6) are not cited by any witness. Each is a separate NA27 paragraph, and they are not printed. Tertullian describes the discourse as running \"from the disciples' question to the parable of the fig tree\" (4.39.13), so his account begins at 21:7."
         },
         {
           "id": 2,
-          "term": "Lepta (λεπτά)",
-          "explanation": "The smallest Greek copper coin; retained to emphasize the clinical economic reality of the 'Poor' (Ebionim).",
-          "verse_refs": [1],
-          "category": "translation"
+          "term": "Signs and persecutions (21:7–19)",
+          "verse_refs": [2, 3, 4, 5, 6, 8, 9, 11, 12],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.39.1–8 goes through the discourse in order. Those who \"come in my name\" use a name that belongs to the Creator's Christ. The wars, famines, earthquakes and portents \"must take place\". The persecutions come \"before these things\". The disciples are not to think beforehand what to answer before tribunals: for Tertullian, the one who forbids it is the one who gave Balaam words he had not thought of and promised Moses a mouth. \"By endurance you will save yourselves.\" Epiphanius states that the text lacked 21:18, \"not a hair of your head will perish\" (sch. 58)."
         },
         {
           "id": 3,
-          "term": "Led astray (πλανηθῆτε - planēthēte)",
-          "explanation": "A forensic warning against the corruption of the pneumatic path by false claimants.",
-          "verse_refs": [3],
-          "category": "translation"
+          "term": "Jerusalem and the end (21:20–28)",
+          "verse_refs": [13, 14, 16, 17, 18, 19],
+          "category": "textual",
+          "explanation": "Tertullian (4.39.9–12): when Jerusalem begins to be surrounded by armies (\"vallari exercitibus Hierusalem\"), the signs of the end follow, in sun, moon and stars, nations in anguish \"as at the roar of the sea\", the powers of heaven shaken. \"And then they will see the son of man coming from the heavens with great power\". Then come \"lift up your heads, for your redemption has drawn near\". The reading \"from the heavens with great power\" is printed for canonical Luke's \"in a cloud with power and great glory\". Epiphanius states that the text lacked the flight of those in Judea to the mountains and \"until all that is written is fulfilled\" (21:21–22; sch. 59). No witness to this text has the \"abomination of desolation\" of Mark 13:14 and Matthew 24:15. 21:23–24 are not cited and are printed in grey."
         },
         {
           "id": 4,
-          "term": "I am the Christ (ἐγώ εἰμι ὁ Χριστός)",
-          "explanation": "This specific phrasing is found in the Marcionite layer, distancing Jesus from those claiming localized, material messiahship.",
-          "verse_refs": [3],
-          "category": "textual"
+          "term": "The fig tree and watchfulness (21:29–38)",
+          "verse_refs": [20, 22, 23, 24, 25, 26, 28],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.39.16–19: the fig tree that bears fruit is a sign of summer, as the troubles of the world are a sign of the kingdom. \"Heaven and earth will pass away\" and the Lord's word remains (he cites Isa 40:8). The disciples are warned against heaviness of heart \"with dissipation, drunkenness and worldly cares\", lest the day come on them \"like a trap\". Jesus taught by day in the temple and withdrew at night to the Mount of Olives. 21:36 is not cited and is printed in grey."
         },
         {
           "id": 5,
-          "term": "Pestilences and famines (λοιμοὶ καὶ λιμοὶ)",
-          "explanation": "The reconstruction follows the order found in the earliest witnesses (B, OL, sys), which was often inverted in later Byzantine manuscripts.",
-          "verse_refs": [5],
-          "category": "textual"
-        },
-        {
-          "id": 6,
-          "term": "Testimony (μαρτύριον - martyrion)",
-          "explanation": "Not a legal defense, but a spiritual manifestation of the Truth against the 'Rulers of this Age.' In this context, the suffering of the community is viewed as a legal exhibit within the trial of the old aeon.",
-          "verse_refs": [6],
-          "category": "translation"
-        },
-        {
-          "id": 7,
-          "term": "Assemblies (συναγωγάς - synagōgas)",
-          "explanation": "Per the translation philosophy, 'assemblies' is used to denote the local Judean administrative and gathering centers where the Jamesian community faced forensic inquiry.",
-          "verse_refs": [6],
-          "category": "translation"
-        },
-        {
-          "id": 8,
-          "term": "Governors (ἡγεμόνας - hēgemonas)",
-          "explanation": "A dry clinical term for Roman administrative officials, consistent with the historical timeframe of the early Jerusalem mission.",
-          "verse_refs": [6],
-          "category": "translation"
-        },
-        {
-          "id": 9,
-          "term": "Hated (μισούμενοι - misoumenoi)",
-          "explanation": "This term reflects the social and economic exclusion (Ebionite context) experienced by the community of the Poor in Jerusalem.",
-          "verse_refs": [8],
-          "category": "translation"
-        },
-        {
-          "id": 10,
-          "term": "Excision of 21:18",
-          "explanation": "The promise that 'not a hair of your head shall perish' is omitted in this stratum, as it is a later harmonizing gloss that contradicts the forensic reality of martyrdom mentioned in verse 16.",
-          "verse_refs": [],
-          "category": "excision"
-        },
-        {
-          "id": 11,
-          "term": "Patience (ὑπομονῇ - hypomonē)",
-          "explanation": "Better rendered as 'patient endurance.' The singular reading 'save yourselves' is attested in the Marcionite layer, focusing on the preservation of the pneumatic self.",
-          "verse_refs": [9],
-          "category": "translation"
-        },
-        {
-          "id": 12,
-          "term": "Abomination of Desolation (βδέλυγμα τῆς ἐρημώσεως)",
-          "explanation": "CRITICAL FORENSIC RESTORATION. The term βδέλυγμα (bdelygma) refers to something ritually detestable, while ἐρήμωσις (erēmōseōs) denotes a clinical laying-waste. Tertullian (Adv. Marc. 4.39.9) actually attests the canonical reading 'surrounded by armies' (vallari exercitibus), indicating his Latin copy had already been updated to conform to historical events. However, forensic stratigraphy identifies the 'armies' detail as a vaticinium ex eventu—a prophecy written after the fact to match the Roman siege of Titus. The 'Abomination' warning (matching Mark 13:14, Matthew 24:15) provided the pre-emptive signal required for the Jerusalem Church to flee to Pella, as mentioned by Eusebius. A warning of 'armies surrounding the city' is clinically useless for flight since the city would already be sealed. This restoration identifies the Jamesian Protograph as a document drafted before 70 CE.",
-          "verse_refs": [10],
-          "category": "textual"
-        },
-        {
-          "id": 13,
-          "term": "Distress (συνοχή - synochē)",
-          "explanation": "Denotes a 'constriction' or being hemmed in by the collapse of the old order.",
-          "verse_refs": [11],
-          "category": "translation"
-        },
-        {
-          "id": 14,
-          "term": "Powers (δυνάμεις)",
-          "explanation": "Refers to the pneumatic structures of the celestial realm.",
-          "verse_refs": [11],
-          "category": "translation"
-        },
-        {
-          "id": 15,
-          "term": "Heavens (οὐρανῶν)",
-          "explanation": "Tertullian attests the plural 'heavens,' a variant that emphasizes the cosmic origin of the Son of Man.",
-          "verse_refs": [12],
-          "category": "textual"
-        },
-        {
-          "id": 16,
-          "term": "Redemption (ἀπολύτρωσις - apolytrōsis)",
-          "explanation": "The clinical 'loosing' or 'releasing' of the community from the material concerns of the age.",
-          "verse_refs": [13],
-          "category": "translation"
-        },
-        {
-          "id": 17,
-          "term": "Fruit (καρπόν - karpon)",
-          "explanation": "The inclusion of 'fruit' (rather than just 'leaves') is a characteristic of the Western and Marcionite text, signifying the maturation of the work.",
-          "verse_refs": [14],
-          "category": "textual"
-        },
-        {
-          "id": 18,
-          "term": "My words (οἱ λόγοι μου)",
-          "explanation": "In the Jamesian Protograph, the permanence of Jesus's specific words replaces the canonical emphasis on the 'Law' (nomos), reflecting the transition to the new covenant of the Spirit.",
-          "verse_refs": [16],
-          "category": "theological"
-        },
-        {
-          "id": 19,
-          "term": "Debauchery (κραιπάλῃ - kraipalē)",
-          "explanation": "Specifically refers to the nausea or 'hangover' of material indulgence; the text treats sensory excess as a weight on the heart.",
-          "verse_refs": [17],
-          "category": "translation"
+          "term": "The coming from the heavens",
+          "verse_refs": [18, 19, 22],
+          "category": "theological",
+          "explanation": "Interpretation. In this text the son of man comes \"from the heavens with great power\", without the cloud and the \"glory\" of canonical Luke. The redemption drawing near is set beside \"the kingdom of God is near\" (21:31), and the warning is against the heaviness of a heart taken up with drink and worldly cares. Tertullian's argument is that the terrors and the promises belong to one son of man and cannot be separated (4.39.13–15). The text keeps the coming and the call to watchfulness in one discourse."
         }
-      ],
-      "additional_explanation": {
-        "title": "The Abomination and the Pella Oracle",
-        "content": "Chapter 19 of the Protograph is the Manual of the Great Transition.",
-        "points": [
-          {
-            "title": "The Chronometer of Flight",
-            "explanation": "The most significant forensic detail is the restoration of v. 20. Canonical Luke was edited after 70 CE to make the prophecy conform to the Roman circumvallation ('surrounded by armies'). The Protograph, however, contains the 'Abomination of Desolation'—the cryptic signal that allowed the Jerusalem community to flee to Pella BEFORE the city was locked. A prophecy given while the city is already surrounded would be clinically useless for flight."
-          },
-          {
-            "title": "The Supersession of Matter",
-            "explanation": "In v. 33, Jesus asserts that his 'words' are more permanent than the physical universe. This reflects a High Pneumatic Christology where the Spirit (the Word) is the only objective reality, and the material 'heaven and earth' are merely temporary vessels."
-          },
-          {
-            "title": "The Law of Sobriety",
-            "explanation": "The warning against 'kraipalē' (debauchery) and 'anxieties of life' is a typical Jamesian exhortation. Discipleship in the Protograph requires an 'unweighted' heart, free from worldly concerns, to perceive the coming redemption."
-          }
-        ]
-      }
+      ]
     },
     {
       "chapter": 20,

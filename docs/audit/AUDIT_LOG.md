@@ -390,3 +390,100 @@ METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 alrea
   - 14:14, without "of the righteous";
   - 14:16, without "great";
   - 15:7–10, without "the angels".
+
+## Batch 5: Luke 18:1–21:38 → chapters 16–19 (2026-10-12)
+
+### What was checked
+
+- Every verse of Luke 18–21 (176 verses) has a record in `data/apparatus/luke_18.json` to `luke_21.json`.
+- **Tertullian, *Marc.* 4.36–4.39:** read in full, as were the Epiphanius scholia 50–59 and the Dialogue of Adamantius at 32,26–27, 92,26–32 and 200,24–30.
+- **Roth:** classes, and his chapter 9 grade (bold, bold italic, regular, italic) for every reading used or rejected.
+- **NA27:** checked on the page images (pp. 218–232), apparatus included, and the paragraph breaks used for METHOD §4.3.
+
+### Structure
+
+| Chapter | Contents | Printed | Grey (unattested) |
+|---|---|---|---|
+| 16 | Luke 18:1–23, 18:35–43 | 32 | 6 |
+| 17 | Luke 19:1–26 | 26 | 16 |
+| 18 | Luke 20:1–8, 20:19 (without its last clause), 20:20–36, 20:39–44 | 32 | 11 |
+| 19 | Luke 21:7–17, 21:19–20, 21:23–38 | 29 | 3 |
+
+### Not printed
+
+| Verses | Class | Reason |
+|---|---|---|
+| 18:24–30 | U? | A paragraph with no attested verse. The Dialogue's reference is not to Marcion's text. |
+| 18:31–33 | A− | Epiph. sch. 52 (the third passion prediction, "all that is written by the prophets"). |
+| 18:34 | U− | Refers to 18:31–33 and closes their paragraph. |
+| 19:27 | U− | The slaughter of the enemies; Tertullian argues the master's severity from 19:26 and does not cite it. |
+| 19:28 | U? | A one-verse paragraph introducing the absent entry. |
+| 19:29–46 | A− | Epiph. sch. 53 (colt and Bethphage, the city, the temple and "house of prayer"). |
+| 19:47–48 | U? | A paragraph with no attested verse. |
+| 20:9–17 | A− | Epiph. sch. 55 (the vineyard; "the stone that the builders rejected"). |
+| 20:18 | U− | Refers to the stone of 20:17. |
+| 20:19c | probably absent | "For they perceived that he had told this parable against them": refers to the absent parable. Epiphanius quotes the rest of the verse (sch. 54). |
+| 20:37–38 | A− (20:38b unattested) | Epiph. sch. 56–57 (Moses at the bush; "God of the living"). 20:38b completes the sentence. |
+| 20:45–47 | U? | A paragraph with no attested verse. |
+| 21:1–4, 21:5–6 | U? | Two paragraphs with no attested verse. Tertullian's survey runs "from the disciples' question" (21:7). |
+| 21:18 | A− | Epiph. sch. 58 ("not a hair of your head"); NA27: McionE. |
+| 21:21–22 | A− | Epiph. sch. 59 (the flight from Judea, "that all that is written may be fulfilled"). |
+
+### Marcionite readings printed
+
+| Verse | Reading | Witnesses | Agreement |
+|---|---|---|---|
+| 18:19 | εἷς ὁ θεὸς ὁ πατήρ | Epiph. sch. 50; Adamantius; Origen, *Princ.* 2.5.1, 4; Hippolytus | — |
+| 18:20 | order kill–adultery; μηδὲ ψευδομαρτυρήσῃς | Tert. 4.36.4; Adamantius | Old Latin; Matt 19:18 |
+| 18:22 | Ἕν σοι λείπει (no ἔτι); δός; ἐν οὐρανῷ | Tert. 4.36.4–7; Adamantius | δός ℵ A D L; ἐν οὐρανῷ W Θ Ψ f1.13 𝔐 |
+| 20:35 | οὓς δὲ κατηξίωσεν ὁ θεός | Tert. 4.38.5, 7–8 (three times) | — |
+| 21:27 | ἐρχόμενον ἀπὸ τῶν οὐρανῶν μετὰ δυνάμεως πολλῆς (retroversion) | Tert. 4.39.10–11 | without "glory": cf. D e (δυνάμει πολλῇ κ. δόξῃ) |
+
+### NA27 corrections to SBLGNT (on the page images)
+
+- 18:13 ἔτυπτεν
+- 18:21 without μου
+- 20:24 οἱ δὲ εἶπαν
+- 20:26 αὐτοῦ ῥήματος
+- 20:44 κύριον αὐτόν
+- 21:11 φόβητρά τε καὶ ἀπ’ οὐρανοῦ σημεῖα μεγάλα
+
+### Departures from Roth
+
+| Verse | Roth | Audit | Basis |
+|---|---|---|---|
+| 20:35 | "whom God has deemed worthy" probable | printed | Tertullian quotes the clause three times with God as subject (4.38.5, 7–8). He reports the Marcionite punctuation "the God of that age" and argues against the punctuation, not the wording. The Marcionite reading he reports requires ὁ θεός in the text, as Roth himself says. |
+| 18:34, 19:27, 20:18 | unattested | U− | Each depends on a passage attested absent (18:31–33, 20:9–17) or, at 19:27, would have been Tertullian's strongest evidence for his argument at that point. |
+| 20:19c | present (verse) | clause not printed | The clause refers to the absent parable and is not in Epiphanius' quotation. |
+
+### Weaker attestations, recorded as such
+
+- **18:16, 18:36, 18:40, 18:41** rest on the Dialogue of Adamantius alone; 18:16 is an antithesis by the Marcionite speaker (Roth: possible). They are printed with NA27 wording.
+- **Not adopted (Roth "probable"/"possible", or one witness):**
+  - 18:19, Epiphanius' "do not call me good";
+  - 18:20, Epiphanius' "I know the commandments";
+  - 18:37, the Dialogue without "of Nazareth";
+  - 19:10, without "to seek";
+  - 19:26, ὃ δοκεῖ ἔχειν (NA27: McionT);
+  - 20:35, Roth's τῆς κληρονομίας for τυχεῖν;
+  - 20:36, μέλλουσιν (NA27: McionT);
+  - 21:8, "I am the Christ" (Matthew's wording);
+  - 21:19, σώσετε ἑαυτούς (NA27: McionT);
+  - 21:28, without ὑμῶν (Roth: likely not present; D d). Tertullian's *capita* can render NA27 (METHOD §5.4);
+  - 21:30, "when they bear fruit";
+  - 21:32, "heaven and earth will not pass away";
+  - 21:33, "my word abides for ever" (Isa 40:8).
+
+### Corrections to the previous text
+
+- **Printed though unattested:** 18:24–25, 20:45–46 and 21:1–4. They are removed.
+- **Printed though attested absent:** 19:37–38 and 19:43–46. They are removed.
+- **Wording the witnesses contradict.** At 21:20 the previous text printed "the abomination of desolation standing where it ought not" (Mark 13:14), although its own note cited Tertullian's "surrounded by armies" (4.39.9). NA27 is printed.
+- **Unattested readings removed:** 19:26 ὃ δοκεῖ ἔχειν, 21:8 ὁ Χριστός, 21:19 σώσετε ἑαυτούς and 21:30 καρπόν, all possible only.
+- **Verses cut short without a witness:** 18:5, 18:8, 18:11 and 18:43. They are printed in full.
+- **Omitted though attested.** These are printed:
+  - 18:7, 18:12, 18:16, 18:36, 18:39–41;
+  - 20:7, 20:28–31, 20:33, 20:39;
+  - 21:7, 21:14, 21:16, 21:32, 21:35.
+- **Unattested verses inside attested pericopes** (METHOD §4.3) are now printed in grey. Most of the parable of the money entrusted (19:12–25) and the question about Caesar (20:20–23, 26) are among them.
+- **Library:** `library_corrections.md` items 10 (21:20–22) and 11 (18:19, 18:22).
