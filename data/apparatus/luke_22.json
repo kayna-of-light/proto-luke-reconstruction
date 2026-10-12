@@ -1,0 +1,636 @@
+{
+  "luke_chapter": 22,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "22:1",
+      "class": "A+",
+      "roth": "present (Marc. 4.40.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.40.1",
+          "evidence": "\"Nam ex tot festis Iudaeorum paschae diem elegit.\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests only \"Passover\".",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 1"
+    },
+    {
+      "ref": "22:2",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:1–2.",
+      "reconstruction": "chapter 20, verse 2"
+    },
+    {
+      "ref": "22:3",
+      "class": "A+",
+      "roth": "present (Marc. 4.40.2); \"Satan entered into\" not present (Marc. 5.6.7)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.40.2",
+          "evidence": "\"Poterat et ab extraneo quolibet tradi: ne dicerem et in hoc psalmum expunctum: Qui mecum panem edit, levabit in me plantam. Poterat et sine praemio tradi.\""
+        },
+        {
+          "source": "Tertullian, Marc. 5.6.7",
+          "evidence": "\"Scriptum est enim apud me satanam in Iudam introisse. Secundum autem Marcionem…\""
+        }
+      ],
+      "wording": "NA27 without \"Satan entered into\" (Εἰσῆλθεν δὲ Σατανᾶς εἰς). Tertullian writes that \"in my text\" (apud me) Satan entered Judas, and sets this against \"according to Marcion\"; Roth: \"was not present\". What the verse had in their place is not attested. The remaining words are printed in the nominative, so that the sentence runs on into 22:4; the case is an editorial adjustment, not an attested wording. Tertullian's \"he could have been betrayed by any stranger\" and Ps 41:9 (\"he who eats bread with me\") refer to Judas as one of the Twelve (Roth: wording possible only).",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 3"
+    },
+    {
+      "ref": "22:4",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 60; Marc. 4.40.2)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 60",
+          "evidence": "»συνελάλησε τοῖς στρατηγοῖς τὸ πῶς αὐτὸν παραδῷ αὐτοῖς«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.40.2",
+          "evidence": "\"Poterat et ab extraneo quolibet tradi: ne dicerem et in hoc psalmum expunctum: Qui mecum panem edit, levabit in me plantam. Poterat et sine praemio tradi.\""
+        }
+      ],
+      "wording": "Marcionite word order adopted: τὸ πῶς αὐτὸν παραδῷ αὐτοῖς (NA27 αὐτοῖς παραδῷ αὐτόν). Epiphanius quotes it so in both listings; Roth: very likely, \"the word order found in many manuscripts\". Epiphanius has only \"the officers\"; whether the chief priests were named is unattested (Roth), and NA27 is printed. NA27 notes D it sys.c without \"and officers\".",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 4"
+    },
+    {
+      "ref": "22:5",
+      "class": "A+",
+      "roth": "present (Marc. 4.40.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.40.2",
+          "evidence": "\"Poterat et ab extraneo quolibet tradi: ne dicerem et in hoc psalmum expunctum: Qui mecum panem edit, levabit in me plantam. Poterat et sine praemio tradi.\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests the payment (\"sine praemio\"); Roth: ἀργύριον.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 5"
+    },
+    {
+      "ref": "22:6",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:3–6.",
+      "reconstruction": "chapter 20, verse 6"
+    },
+    {
+      "ref": "22:7",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Opens the attested paragraph 22:7–13. NA27 [ἐν] (SBLGNT without it).",
+      "reconstruction": "chapter 20, verse 7"
+    },
+    {
+      "ref": "22:8",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 61)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 61",
+          "evidence": "»καὶ εἶπεν τῷ Πέτρῳ καὶ τοῖς λοιποῖς· ἀπελθόντες ἑτοιμάσατε ἵνα φάγωμεν τὸ Πάσχα«."
+        }
+      ],
+      "wording": "NA27. Epiphanius' wording (\"he said to Peter and the rest: go and prepare, that we may eat the Passover\") is his own, with no support in the manuscripts; Roth: possible only. His point (elenchus 61) is that Jesus had the Passover prepared for himself.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 8"
+    },
+    {
+      "ref": "22:9",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:7–13.",
+      "reconstruction": "chapter 20, verse 9"
+    },
+    {
+      "ref": "22:10",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:7–13.",
+      "reconstruction": "chapter 20, verse 10"
+    },
+    {
+      "ref": "22:11",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:7–13.",
+      "reconstruction": "chapter 20, verse 11"
+    },
+    {
+      "ref": "22:12",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:7–13.",
+      "reconstruction": "chapter 20, verse 12"
+    },
+    {
+      "ref": "22:13",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:7–13.",
+      "reconstruction": "chapter 20, verse 13"
+    },
+    {
+      "ref": "22:14",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 62)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 62",
+          "evidence": "»καὶ ἀνέπεσε καὶ οἱ δώδεκα ἀπόστολοι σὺν αὐτῷ«."
+        }
+      ],
+      "wording": "NA27. Epiphanius has \"the twelve apostles\" (NA27: δώδεκα ἀπόστ. ℵ2 A C W Θ Ψ f1.13 𝔐 …; McionE), as Matt 26:20; Roth: δώδεκα probable only, since Epiphanius may follow Matthew. Not adopted. He does not quote \"when the hour came\"; Roth: unattested, not absent.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 14"
+    },
+    {
+      "ref": "22:15",
+      "class": "A+",
+      "roth": "present (Marc. 4.40.1, 3; Pan. 42.11.6, sch. 62)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.40.1",
+          "evidence": "\"Ideo et affectum suum ostendit: Concupiscentia concupivi pascha edere vobiscum, antequam patiar.\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 62",
+          "evidence": "»καὶ εἶπεν· ἐπιθυμίᾳ ἐπεθύμησα τοῦτο τὸ Πάσχα φαγεῖν μεθ' ὑμῶν πρὸ τοῦ με παθεῖν«."
+        }
+      ],
+      "wording": "NA27. The two witnesses agree with NA27 except that Tertullian lacks \"this\" and Epiphanius \"to them\"; Roth treats both as the citers' omissions. Roth also lists Eznik, De Deo 415 (not checked here).",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 15"
+    },
+    {
+      "ref": "22:16",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 63",
+          "evidence": "παρέκοψε τὸ »λέγω γὰρ ὑμῖν, οὐ μὴ φάγω αὐτὸ ἀπάρτι, ἕως ἂν πληρωθῇ ἐν τῇ βασιλείᾳ τοῦ θεοῦ«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text lacked \"I will not eat it until it is fulfilled in the kingdom of God\". His explanation (elenchus 63) is that Marcion wanted no food or drink in the kingdom."
+    },
+    {
+      "ref": "22:17",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:14–20. Roth lists Adam. 108,27 (\"taking bread and cup and blessing\"); those words are spoken by Adamantius, the orthodox speaker, and are not evidence for Marcion's text.",
+      "reconstruction": "chapter 20, verse 16"
+    },
+    {
+      "ref": "22:18",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:14–20. Epiphanius says that 22:16 was absent; he says nothing of 22:18 (Roth, citing Schmid). NA27 [ὅτι] (SBLGNT without it).",
+      "reconstruction": "chapter 20, verse 17"
+    },
+    {
+      "ref": "22:19",
+      "class": "A+",
+      "roth": "present (Marc. 4.40.3, 4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.40.3",
+          "evidence": "\"acceptum panem et distributum discipulis corpus suum illum fecit, Hoc est corpus meum dicendo, id est figura corporis mei… Aut si propterea panem corpus sibi finxit quia corporis carebat veritate, ergo panem debuit tradere pro nobis.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.40.4",
+          "evidence": "\"corpus suum vocans panem\"."
+        }
+      ],
+      "wording": "NA27 (19b–20 printed without brackets, as in NA27). Tertullian attests \"he took bread\", \"gave\" and \"this is my body\"; Roth: very likely. His \"then he should have handed over bread for us\" alludes to \"which is given for you\" (Roth: possible). \"Do this in remembrance of me\" is unattested.",
+      "decision": "printed",
+      "western": "19b–20 are a Western non-interpolation: D and part of the Old Latin end the verse at \"my body\". This text, attested by Tertullian, had at least part of 19b and 20.",
+      "reconstruction": "chapter 20, verse 18"
+    },
+    {
+      "ref": "22:20",
+      "class": "A+",
+      "roth": "present (Marc. 4.40.4, 6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.40.4",
+          "evidence": "\"Sic et in calicis mentione testamentum constituens sanguine suo obsignatum, substantiam corporis confirmavit.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.40.6",
+          "evidence": "\"Ita et nunc sanguinem suum in vino consecravit, qui tunc vinum in sanguine figuravit.\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests the cup, the covenant and \"my blood\"; Roth: probable. Harnack removed \"new\" on Tertullian's silence; Roth: not certain, since Tertullian also adds \"sealed\". \"Which is poured out for you\" is unattested. The previous version omitted this verse as a Western non-interpolation; it is attested for this text.",
+      "decision": "printed",
+      "western": "Omitted in D and part of the Old Latin (Western non-interpolation); see 22:19.",
+      "reconstruction": "chapter 20, verse 19"
+    },
+    {
+      "ref": "22:21",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:21–23.",
+      "reconstruction": "chapter 20, verse 20"
+    },
+    {
+      "ref": "22:22",
+      "class": "A+",
+      "roth": "present for 22:22b (Marc. 4.41.1); 22:22a unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.41.1",
+          "evidence": "\"Vae, ait, per quem traditur filius hominis.\""
+        }
+      ],
+      "wording": "NA27. Tertullian quotes \"woe… by whom the son of man is betrayed\"; his \"son of man\" may be his own clarification (Roth). Tsutsui's view that \"as it has been determined\" was removed rests on silence and is not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 21"
+    },
+    {
+      "ref": "22:23",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:21–23.",
+      "reconstruction": "chapter 20, verse 22"
+    },
+    {
+      "ref": "22:24–30",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The dispute about who is greatest and the thrones of the twelve: a paragraph with no attested verse (METHOD §4.3). In elenchus 63 Epiphanius cites \"you will sit at my table, eating and drinking in the kingdom\" against Marcion and adds \"or he cut these out again\", which suggests he did not find 22:30 in the text."
+    },
+    {
+      "ref": "22:31",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:31–34.",
+      "reconstruction": "chapter 20, verse 23"
+    },
+    {
+      "ref": "22:32",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:31–34.",
+      "reconstruction": "chapter 20, verse 24"
+    },
+    {
+      "ref": "22:33",
+      "class": "A+",
+      "roth": "present (Marc. 4.41.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.41.2",
+          "evidence": "\"Nam et Petrum praesumptorie aliquid elocutum negationi potius destinando, zeloten deum tibi ostendit. Debuit etiam osculo tradi…\""
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 25"
+    },
+    {
+      "ref": "22:34",
+      "class": "A+",
+      "roth": "present (Marc. 4.41.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.41.2",
+          "evidence": "\"Nam et Petrum praesumptorie aliquid elocutum negationi potius destinando, zeloten deum tibi ostendit. Debuit etiam osculo tradi…\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests the denial (ἀπαρνήσῃ).",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 26"
+    },
+    {
+      "ref": "22:35–38",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 64",
+          "evidence": "παρέκοψε τὸ »ὅτε ἀπέστειλα ὑμᾶς, μή τινος ὑστερήσατε;« καὶ τὰ ἑξῆς, διὰ τὸ »καὶ τοῦτο τὸ γεγραμμένον δεῖ τελεσθῆναι, τό· καὶ μετὰ ἀνόμων συνελογίσθη«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text lacked \"when I sent you out… did you lack anything?\" and what follows, for the sake of \"this scripture must be fulfilled: he was counted among the lawless\". The four verses belong together (Roth; Zahn; Harnack). Tertullian passes from 22:34 to 22:48 (4.41.2)."
+    },
+    {
+      "ref": "22:39",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Opens the attested paragraph 22:39–46.",
+      "reconstruction": "chapter 20, verse 27"
+    },
+    {
+      "ref": "22:40",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:39–46.",
+      "reconstruction": "chapter 20, verse 28"
+    },
+    {
+      "ref": "22:41",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 65)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 65",
+          "evidence": "»ἀπεσπάσθη ἀπ' αὐτῶν ὡσεὶ λίθου βολὴν καὶ θεὶς τὰ γόνατα προσηύχετο«."
+        }
+      ],
+      "wording": "NA27. Epiphanius' quotation agrees with NA27; Roth: secure. His point is the visible kneeling of a body (elenchus 65).",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 29"
+    },
+    {
+      "ref": "22:42",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:39–46.",
+      "reconstruction": "chapter 20, verse 30"
+    },
+    {
+      "ref": "22:43–44",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The angel from heaven and the sweat like drops of blood. NA27 prints the verses in double brackets, as not part of its text: they are absent from 𝔓75 ℵ1 A B N T W 579 and others, present in ℵ*,2 D L Θ Ψ 0171 f1 𝔐 and known to Justin, Irenaeus and Hippolytus. No witness cites them for this text. They are not in the NA27 base and are not printed."
+    },
+    {
+      "ref": "22:45",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:39–46.",
+      "reconstruction": "chapter 20, verse 31"
+    },
+    {
+      "ref": "22:46",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:39–46.",
+      "reconstruction": "chapter 20, verse 32"
+    },
+    {
+      "ref": "22:47",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 66)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 66",
+          "evidence": "»καὶ ἤγγισε καταφιλῆσαι αὐτὸν Ἰούδας καὶ εἶπεν«."
+        }
+      ],
+      "wording": "NA27. Epiphanius' καταφιλῆσαι and \"and said\" have no manuscript support in Luke and follow Matt 26:49 (Roth). Not adopted. His point is that Judas kissed real lips (elenchus 66).",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 33"
+    },
+    {
+      "ref": "22:48",
+      "class": "A+",
+      "roth": "present (Marc. 4.41.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.41.2",
+          "evidence": "\"Nam et Petrum praesumptorie aliquid elocutum negationi potius destinando, zeloten deum tibi ostendit. Debuit etiam osculo tradi…\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests the kiss and the betrayal.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 34"
+    },
+    {
+      "ref": "22:49",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Lord, shall we strike with the sword?\" The swords of 22:38 are absent (sch. 64), and the blow that answers the question (22:50–51) is absent (sch. 67). The verse depends on both."
+    },
+    {
+      "ref": "22:50–51",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 67",
+          "evidence": "παρέκοψεν ὃ ἐποίησε Πέτρος, ὅτε ἐπάταξε καὶ ἀφείλετο τὸ οὖς τοῦ δούλου τοῦ ἀρχιερέως."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text lacked the cutting off of the servant's ear; his elenchus adds that the Lord healed it, so 22:51 was also absent (Roth). Tertullian passes from the kiss (22:48) to the council (22:66; 4.41.2–3)."
+    },
+    {
+      "ref": "22:52–53",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Have you come out as against a robber…?\" A separate NA27 paragraph with no attested verse."
+    },
+    {
+      "ref": "22:54–62",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "Peter's denial in the high priest's courtyard: a paragraph with no attested verse. The prediction of the denial (22:34) is attested; its fulfilment is not cited by either witness."
+    },
+    {
+      "ref": "22:63",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 68)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 68",
+          "evidence": "»οἱ συνέχοντες ἐνέπαιζον δέροντες καὶ τύπτοντες καὶ λέγοντες· προφήτευσον, τίς ἐστιν ὁ παίσας σε;«"
+        }
+      ],
+      "wording": "NA27. Epiphanius abbreviates; the elements he quotes agree with NA27 (Roth: very likely).",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 35"
+    },
+    {
+      "ref": "22:64",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 68)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 68",
+          "evidence": "»… τύπτοντες καὶ λέγοντες· προφήτευσον, τίς ἐστιν ὁ παίσας σε;«"
+        }
+      ],
+      "wording": "NA27. Epiphanius' \"striking\" agrees with A W Θ Ψ 𝔐 (ἔτυπτον αὐτοῦ τὸ πρόσωπον); Roth: possible only. Not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 36"
+    },
+    {
+      "ref": "22:65",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:63–65.",
+      "reconstruction": "chapter 20, verse 37"
+    },
+    {
+      "ref": "22:66",
+      "class": "A+",
+      "roth": "present (Marc. 4.41.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.41.3",
+          "evidence": "\"Perductus in consessum an ipse esset Christus interrogatur.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 38"
+    },
+    {
+      "ref": "22:67",
+      "class": "A+",
+      "roth": "present (Marc. 4.41.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.41.3",
+          "evidence": "\"Si dixero, enim inquit, vobis non credetis.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"interrogatur\" may reflect the question form of D d (\"Are you the Christ?\"); Roth: undecided. The order \"tell you\" is uncertain (Roth).",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 39"
+    },
+    {
+      "ref": "22:68",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 22:66–71.",
+      "reconstruction": "chapter 20, verse 40"
+    },
+    {
+      "ref": "22:69",
+      "class": "A+",
+      "roth": "present (Marc. 4.41.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.41.4",
+          "evidence": "\"Abhinc, inquit, erit filius hominis sedens ad dexteram virtutis dei.\""
+        }
+      ],
+      "wording": "NA27. Tertullian quotes the verse; Roth: secure, with δέ possibly present.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 41"
+    },
+    {
+      "ref": "22:70",
+      "class": "A+",
+      "roth": "present (Marc. 4.41.4–5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.41.4",
+          "evidence": "\"Ergo, inquiunt, tu dei filius es?… Sed respondit, Vos dicitis, quasi non ego.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.41.5",
+          "evidence": "\"Atquin confirmavit id se esse quod illi dixerant…\""
+        }
+      ],
+      "wording": "NA27. Tertullian argues that \"you say\" was an affirmation.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 42"
+    },
+    {
+      "ref": "22:71",
+      "class": "A+",
+      "roth": "present (Marc. 4.41.5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.41.5",
+          "evidence": "\"et adeo sic fuit pronuntiatio eius, ut perseveraverint in eo quod pronuntiatio sapiebat.\""
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 20, verse 43"
+    }
+  ]
+}
