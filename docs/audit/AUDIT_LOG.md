@@ -558,7 +558,7 @@ METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 alrea
 | 22:49; 24:12, 24, 27, 32, 44–46 | unattested | U− | As in "Not printed". |
 | 22:17; 23:46–53 (Adamantius) | possibly attested | not counted | The Dialogue's words are the orthodox speaker's. |
 
-### Not adopted, against the working document's §5
+### Readings proposed in the working document's §5 that the evidence did not support
 
 - **24:37 φάντασμα.** *Phantasma* is Tertullian's standing word for the Marcionite Christ (4.40.3; 4.42.7–8; 4.43.8), so his use of it does not show the wording. Roth: possible only; NA27 cites D alone.
 - **24:4 λαμπρᾷ.** It occurs only in Epiphanius' summary introduction to sch. 76 (Roth).
@@ -613,7 +613,7 @@ METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 alrea
   - the priority question, left open;
   - terminology and sources.
 
-  The previous preface claimed three things the audit contradicts (research questions Q6):
+  The previous preface made three statements the evidence does not support (research questions Q6):
   - "editorial fatigue analysis" as a method;
   - the Western non-interpolations as a criterion;
   - the excision of the resurrection proofs.
