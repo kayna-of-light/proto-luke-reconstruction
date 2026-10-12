@@ -208,4 +208,12 @@ F1 is reported as a replication of Bilby. Its features were chosen by contrastin
 
 ## 9. Changes after the first run
 
-None yet.
+1. **Parser correction, made before any result was read.** In Bilby's file "()" marks a verse attested with no recoverable wording (e.g. 5:17, 5:20, 6:39), while "([])" marks an attested omission (23:34a, 23:34b). The first run's parser treated both as not present, which dropped 38 attested verses from P. §2 already says that only the two 23:34 entries are excluded, so the parser was corrected to match §2. The first run's output was discarded unread, apart from the stratum counts printed to the console.
+2. **Correction to the enumeration of A, found after the first results.** §2 defines A as Roth's list of passages attested as not present (Roth 2015, §3.2.2), but the enumeration given there includes 3:2–20. Roth puts 3:2–20 in his list of *unattested* verses instead (§3.2.3: "though indirectly attested as not present"). The audit's extraction had appended it to the wrong list. The analysis now follows Roth's actual list.
+   - **Affected:** only the strict P-against-A contrast. 3:2–20 is in N either way.
+   - **Record:** the run on the enumeration as registered is kept in `results/roth_registered_A_list/`, and the report gives both.
+3. **Exploratory analyses, not pre-registered** (`scripts/stylometry/exploratory.py`). They were added after the first results and are labelled as exploratory wherever they are reported:
+   - **E1:** F1 without its two hapax counts, and F2 and F3 without proper names.
+   - **E2:** the share of each feature that survives in Roth's attested wording, compared with canonical Luke's wording of the same verses.
+4. **Sensitivity runs on other editions.** These were listed in the working document (§8, Phase B) but not in this file: P is taken from the Harnack, Klinghardt, Nicolotti, BeDuhn, Hahn and Zahn datasets (Bilby's normalized datasets on Dataverse), with A as in item 2 and U the rest. The tests are unchanged.
+
