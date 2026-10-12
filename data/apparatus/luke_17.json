@@ -1,0 +1,421 @@
+{
+  "luke_chapter": 17,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "17:1",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.1; Adam. 88,4–5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.1",
+          "evidence": "\"Conversus ibidem ad discipulos Vae dicit auctori scandalorum…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 1"
+    },
+    {
+      "ref": "17:2",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.1",
+          "evidence": "\"expedisse ei si natus non fuisset, aut si molino saxo ad collum deligato praecipitatus esset in profundum, quam unum ex illis modicis utique discipulis eius scandalizasset\"."
+        }
+      ],
+      "wording": "NA27. Tertullian's \"if he had not been born\" (cf. Mark 14:21) is rated possible only by Roth; not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 2"
+    },
+    {
+      "ref": "17:3",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.2",
+          "evidence": "\"Peccantem fratrem iubet corripi\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 3"
+    },
+    {
+      "ref": "17:4",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.3",
+          "evidence": "\"Sed et veniam des fratri in te delinquenti iubet, etiam septies.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 4"
+    },
+    {
+      "ref": "17:5–10",
+      "class": "U?",
+      "roth": "unattested (17:5–10a); absent (17:10b)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 47",
+          "evidence": "παρέκοψε τὸ »λέγετε ὅτι ἀχρεῖοι δοῦλοί ἐσμεν· ὃ ὠφείλομεν ποιῆσαι πεποιήκαμεν«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Faith like a mustard seed (17:5–6) and the servant who does what he is told (17:7–10): two NA27 paragraphs with no attested present verse (METHOD §4.3). Epiphanius states that the text lacked 17:10b (\"say, we are unworthy servants; we have done what we ought to have done\"), which is A− (NA27: □ McionE). Tertullian passes from 17:4 (4.35.3) to 17:14 (4.35.4)."
+    },
+    {
+      "ref": "17:11",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.9",
+          "evidence": "\"In Samariae regionibus res agebatur, unde erat et unus interim ex leprosis.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 5"
+    },
+    {
+      "ref": "17:12",
+      "class": "A+",
+      "roth": "present for 17:12a (Marc. 4.35.4, 6; Pan. 42.11.6, sch. 48); 17:12b absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 48",
+          "evidence": "ὅτε συνήντησαν οἱ δέκα λεπροί. ἀπέκοψε δὲ πολλὰ καὶ ἐποίησεν »ἀπέστειλεν αὐτοὺς λέγων, δείξατε ἑαυτοὺς τοῖς ἱερεῦσι« καὶ ἄλλα ἀντὶ ἄλλων ἐποίησε, λέγων ὅτι »πολλοὶ λεπροὶ ἦσαν ἐν ἡμέραις Ἐλισσαίου τοῦ προφήτου καὶ οὐκ ἐκαθαρίσθη εἰ μὴ Νεεμὰν ὁ Σύρος«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.35.4",
+          "evidence": "\"in curatione decem leprosorum\"."
+        }
+      ],
+      "wording": "NA27, including its bracketed [αὐτῷ] (SBLGNT omits it — checked on the page image), without the clause \"who stood at a distance\" (οἳ ἔστησαν πόρρωθεν). Epiphanius says that after \"when the ten lepers met him\" Marcion \"cut out much\" and put \"other things in place of others\", quoting 4:27. Roth takes the omitted \"much\" to be 17:12b–13, the lepers standing at a distance and crying \"Jesus, master, have mercy on us\", and 4:27 as what stood in its place. Tertullian's account of the healing has neither.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 6"
+    },
+    {
+      "ref": "17:13",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 48",
+          "evidence": "ὅτε συνήντησαν οἱ δέκα λεπροί. ἀπέκοψε δὲ πολλὰ καὶ ἐποίησεν »ἀπέστειλεν αὐτοὺς λέγων, δείξατε ἑαυτοὺς τοῖς ἱερεῦσι« καὶ ἄλλα ἀντὶ ἄλλων ἐποίησε, λέγων ὅτι »πολλοὶ λεπροὶ ἦσαν ἐν ἡμέραις Ἐλισσαίου τοῦ προφήτου καὶ οὐκ ἐκαθαρίσθη εἰ μὴ Νεεμὰν ὁ Σύρος«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "\"And they raised their voices, saying, Jesus, master, have mercy on us.\" Part of what Epiphanius says Marcion \"cut out\" between the meeting with the ten lepers and the command to the priests; Roth: not present (with 17:12b). Tertullian stresses that they were healed \"without touch and without a word\" from Jesus, and does not mention their plea."
+    },
+    {
+      "ref": "17:14",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.4, 7, 8, 10; Pan. 42.11.6, sch. 48)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 48",
+          "evidence": "ὅτε συνήντησαν οἱ δέκα λεπροί. ἀπέκοψε δὲ πολλὰ καὶ ἐποίησεν »ἀπέστειλεν αὐτοὺς λέγων, δείξατε ἑαυτοὺς τοῖς ἱερεῦσι« καὶ ἄλλα ἀντὶ ἄλλων ἐποίησε, λέγων ὅτι »πολλοὶ λεπροὶ ἦσαν ἐν ἡμέραις Ἐλισσαίου τοῦ προφήτου καὶ οὐκ ἐκαθαρίσθη εἰ μὴ Νεεμὰν ὁ Σύρος«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.35.7",
+          "evidence": "\"Sed et quod in manifesto fuit legis praecepit, Ite, ostendite vos sacerdotibus.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.35.4",
+          "evidence": "\"quos tantummodo ire iussos ut se ostenderent sacerdotibus, in itinere purgavit, sine tactu iam et sine verbo\"."
+        }
+      ],
+      "wording": "NA27. Epiphanius' \"he sent them away saying\" is probably his own introduction (Roth). His δείξατε for ἐπιδείξατε is rated possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 8"
+    },
+    {
+      "ref": "17:15",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.11",
+          "evidence": "\"unum illum solutum ex decem memorem divinae gratiae\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 9"
+    },
+    {
+      "ref": "17:16",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.9, 11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.11",
+          "evidence": "\"Samariten miratus\"."
+        },
+        {
+          "source": "Tertullian, Marc. 4.35.9",
+          "evidence": "\"unde erat et unus interim ex leprosis\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 10"
+    },
+    {
+      "ref": "17:17",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.11",
+          "evidence": "The question about the others is presupposed by \"unum illum… ex decem\"."
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 11"
+    },
+    {
+      "ref": "17:18",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.11",
+          "evidence": "\"quia satis iam obtulerat gloriam deo reddens\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 12"
+    },
+    {
+      "ref": "17:19",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.11",
+          "evidence": "\"Et ideo, Fides tua te salvum fecit, audiit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 13"
+    },
+    {
+      "ref": "17:20",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.12)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.12",
+          "evidence": "\"Sed nec pharisaei possunt videri de alterius dei regno consuluisse dominum quando venturum sit… Non venit, inquit, regnum dei cum observatione\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 14"
+    },
+    {
+      "ref": "17:21",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.12–13)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.12",
+          "evidence": "\"nec dicunt, Ecce hic, ecce illic: ecce enim regnum dei intra vos est.\""
+        }
+      ],
+      "wording": "Marcionite reading adopted: the second \"Look\" (ἰδού) before \"there\" (Tertullian's \"ecce… ecce\"; Roth: very likely). The Greek printed is that of A D W Θ Ψ and the Byzantine text (NA27 apparatus: ἢ ἰδοὺ ἐκεῖ); NA27 prints \"Look, here!\" or \"There!\".",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 15"
+    },
+    {
+      "ref": "17:22",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 49)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 49",
+          "evidence": "»ἐλεύσονται ἡμέραι, ὅταν ἐπιθυμήσητε ἰδεῖν μίαν τῶν ἡμερῶν τοῦ υἱοῦ τοῦ ἀνθρώπου«."
+        }
+      ],
+      "wording": "NA27. Epiphanius has ὅταν and the verb ἰδεῖν before \"one of the days\"; Roth: order uncertain.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 16"
+    },
+    {
+      "ref": "17:23",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 17:22–37. NA27 prints [ἤ] (SBLGNT omits it).",
+      "reconstruction": "chapter 15, verse 17"
+    },
+    {
+      "ref": "17:24",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 17:22–37.",
+      "reconstruction": "chapter 15, verse 18"
+    },
+    {
+      "ref": "17:25",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.14)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.14",
+          "evidence": "\"Dicens enim filium hominis ante multa pati et reprobari oportere, ante adventum suum…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 19"
+    },
+    {
+      "ref": "17:26",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.15)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.15",
+          "evidence": "\"cur eum diebus Noe et Loth comparat tetris et atrocibus, deus et lenis et mitis?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 20"
+    },
+    {
+      "ref": "17:27",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 17:22–37.",
+      "reconstruction": "chapter 15, verse 21"
+    },
+    {
+      "ref": "17:28",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.15)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.15",
+          "evidence": "\"diebus Noe et Loth\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 22"
+    },
+    {
+      "ref": "17:29",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 17:22–37.",
+      "reconstruction": "chapter 15, verse 23"
+    },
+    {
+      "ref": "17:30",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 17:22–37.",
+      "reconstruction": "chapter 15, verse 24"
+    },
+    {
+      "ref": "17:31",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 17:22–37.",
+      "reconstruction": "chapter 15, verse 25"
+    },
+    {
+      "ref": "17:32",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.15)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.35.15",
+          "evidence": "\"Cur admonet meminisse uxoris Loth, quae praeceptum creatoris non impune contempsit…?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 26"
+    },
+    {
+      "ref": "17:33",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 17:22–37.",
+      "reconstruction": "chapter 15, verse 27"
+    },
+    {
+      "ref": "17:34",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 17:22–37.",
+      "reconstruction": "chapter 15, verse 28"
+    },
+    {
+      "ref": "17:35",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 17:22–37.",
+      "reconstruction": "chapter 15, verse 29"
+    },
+    {
+      "ref": "17:37",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 17:22–37.",
+      "reconstruction": "chapter 15, verse 30"
+    }
+  ]
+}

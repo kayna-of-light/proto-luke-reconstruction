@@ -1,0 +1,465 @@
+{
+  "luke_chapter": 16,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "16:1",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Opens the attested parable 16:1–9.",
+      "reconstruction": "chapter 14, verse 1"
+    },
+    {
+      "ref": "16:2",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.1",
+          "evidence": "\"secundum servi illius exemplum, qui ab actu summotus…\""
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 2"
+    },
+    {
+      "ref": "16:3",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 16:1–9.",
+      "reconstruction": "chapter 14, verse 3"
+    },
+    {
+      "ref": "16:4",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.1",
+          "evidence": "\"in subsidium sibi\" — the steward providing for himself."
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 4"
+    },
+    {
+      "ref": "16:5",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.1",
+          "evidence": "\"dominicos debitores deminutis cautionibus relevat\"."
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 5"
+    },
+    {
+      "ref": "16:6",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.1",
+          "evidence": "\"deminutis cautionibus\" — reducing the written bonds."
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 6"
+    },
+    {
+      "ref": "16:7",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.1",
+          "evidence": "\"deminutis cautionibus\"."
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 7"
+    },
+    {
+      "ref": "16:8",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 16:1–9.",
+      "reconstruction": "chapter 14, verse 8"
+    },
+    {
+      "ref": "16:9",
+      "class": "A+",
+      "roth": "present for 16:9a (Marc. 4.33.1); 16:9b unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.1",
+          "evidence": "\"Et ego, inquit, dico vobis, facite vobis amicos de mammona iniustitiae, de nummo scilicet de quo et servus ille.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 9"
+    },
+    {
+      "ref": "16:10",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 16:10–12.",
+      "reconstruction": "chapter 14, verse 10"
+    },
+    {
+      "ref": "16:11",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.4",
+          "evidence": "\"Si in mammona iniusto fideles non extitistis, quod verum est quis vobis credet?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 11"
+    },
+    {
+      "ref": "16:12",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.4",
+          "evidence": "\"Et si in alieno fideles inventi non estis, meum quis dabit vobis?… Quis vobis dabit quod meum est?\""
+        }
+      ],
+      "wording": "Marcionite reading adopted: τὸ ἐμόν (\"what is mine\") for τὸ ὑμέτερον (\"what is your own\"). Tertullian quotes it twice; Roth: very likely. NA27 apparatus: ἐμόν 157 e i l; McionT. NA27 has τίς ὑμῖν δώσει (SBLGNT τίς δώσει ὑμῖν — checked on the page image).",
+      "decision": "printed",
+      "western": "\"Mine\" is also the reading of the Old Latin e i l.",
+      "reconstruction": "chapter 14, verse 12"
+    },
+    {
+      "ref": "16:13",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.1–3; Adam. 56,11–12)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.2",
+          "evidence": "\"Non potestis deo servire et mammonae.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.33.1",
+          "evidence": "\"Quibus duobus dominis neget posse serviri quia alterum offendi sit necesse alterum defendi, ipse declarat deum proponens et mammonam.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 13"
+    },
+    {
+      "ref": "16:14",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.2",
+          "evidence": "\"Irridebant denique pharisaei pecuniae cupidi\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 14"
+    },
+    {
+      "ref": "16:15",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.6",
+          "evidence": "\"Si autem et iustificantes se coram hominibus pharisaei… Si et adicit, Scit autem deus corda vestra… Quod elatum est apud homines perosum est deo\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 15"
+    },
+    {
+      "ref": "16:16",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.7; Pan. 42.11.6, sch. 43)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 43",
+          "evidence": "»ὁ νόμος καὶ οἱ προφῆται ἕως Ἰωάννου καὶ πᾶς εἰς αὐτὴν βιάζεται«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.33.7",
+          "evidence": "\"Lex et prophetae usque ad Ioannem, ex quo regnum dei annuntiatur.\""
+        }
+      ],
+      "wording": "NA27. Epiphanius has ἕως for μέχρι, the reading of A D W Θ Ψ and the Byzantine text; Roth: probable only.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 16"
+    },
+    {
+      "ref": "16:17",
+      "class": "A+",
+      "roth": "present (Marc. 4.33.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.33.9",
+          "evidence": "\"Transeat igitur caelum et terra citius, sicut et lex et prophetae, quam unus apex verborum domini… ideo subtexuit facilius elementa transitura quam verba sua\"."
+        }
+      ],
+      "wording": "Marcionite reading adopted, against Roth's grade (probable): \"of my words\" (τῶν λόγων μου) for \"of the law\" (τοῦ νόμου). NA27 apparatus: τῶν λόγων μου McionT. Tertullian twice says that the saying concerns Christ's own words (\"verborum domini\", \"verba sua\"), and treats the law and the prophets as what passes. His thesis in 4.33.7–9 is that Christ fulfilled the law and did not destroy it. Canonical Luke's \"easier for heaven and earth to pass than for one stroke of the law to fall\" would have been his strongest proof, and he does not use it; instead he has to reconcile the saying with the law by way of Isaiah 40:8. Roth allows that Tertullian may be echoing Luke 21:33 and Isa 40:8; that would not explain why he passes over the wording that best served him. Departure from Roth recorded in the audit log. The Greek printed keeps NA27's construction (πεσεῖν) and replaces only the genitive.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 17"
+    },
+    {
+      "ref": "16:18",
+      "class": "A+",
+      "roth": "present (Marc. 4.34.1, 4, 9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.34.1",
+          "evidence": "\"Sed Christus divortium prohibet dicens, Qui dimiserit uxorem suam et aliam duxerit, adulterium committit; qui dimissam a viro duxerit, aeque adulter est.\""
+        }
+      ],
+      "wording": "NA27, without the second πᾶς (NA27 cites McionT with 𝔓75 B D L for the shorter text). Tertullian's \"likewise is an adulterer\" is rated possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 18"
+    },
+    {
+      "ref": "16:19",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 44; Adam. 76,16–17)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 44",
+          "evidence": "περὶ τοῦ πλουσίου καὶ Λαζάρου τοῦ πτωχοῦ…"
+        },
+        {
+          "source": "Dialogue of Adamantius 76,16–17 (2.10) (via Roth)",
+          "evidence": "ἄνθρωπός τις ἦν πλούσιος καὶ ἐνεδιδύσκετο πορφύραν καὶ βύσσον, εὐφραινόμενος καθ᾿ ἡμέραν λαμπρῶς."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 19"
+    },
+    {
+      "ref": "16:20",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 44; Adam. 76,17–18)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 44",
+          "evidence": "…Λαζάρου τοῦ πτωχοῦ"
+        },
+        {
+          "source": "Dialogue of Adamantius 76,17–18 (2.10) (via Roth)",
+          "evidence": "πτωχὸς δέ τις ὀνόματι Λάζαρος ἐβέβλητο…"
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 20"
+    },
+    {
+      "ref": "16:21",
+      "class": "A+",
+      "roth": "present (Adam. 76,16–78,6; Roth: wording probable only)",
+      "witnesses": [
+        {
+          "source": "Dialogue of Adamantius 76,19–21 (2.10) (via Roth)",
+          "evidence": "καὶ ἐπιθυμῶν χορτασθῆναι ἀπὸ τῶν πιπτόντων ἀπὸ τῆς τραπέζης τοῦ πλουσίου· ἀλλὰ καὶ οἱ κύνες ἐρχόμενοι ἔλειχον τὰ τραύματα αὐτοῦ."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 21"
+    },
+    {
+      "ref": "16:22",
+      "class": "A+",
+      "roth": "present (Marc. 4.34.10–11; Pan. 42.11.6, sch. 44; Adam. 76,21–23)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 44",
+          "evidence": "περὶ τοῦ πλουσίου καὶ Λαζάρου τοῦ πτωχοῦ, ὅτι ἀπηνέχθη ὑπὸ τῶν ἀγγέλων εἰς τὸν κόλπον τοῦ Ἀβραάμ."
+        },
+        {
+          "source": "Tertullian, Marc. 4.34.10",
+          "evidence": "\"divitis apud inferos dolentis et pauperis in sinu Abrahae requiescentis\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 22"
+    },
+    {
+      "ref": "16:23",
+      "class": "A+",
+      "roth": "present (Marc. 4.34.10–12; Adam. 76,23–25)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.34.12",
+          "evidence": "\"Sed nec allevasset dives oculos, et quidem de longinquo…\"; 4.34.11 \"quae ab inferis discernit Abrahae sinum pauperi\"."
+        },
+        {
+          "source": "Dialogue of Adamantius 76,23–25 (2.10) (via Roth)",
+          "evidence": "…ἐν τῷ ᾅδῃ ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ… ὁρᾷ Ἀβραὰμ ἀπὸ μακρόθεν καὶ Λάζαρον ἐν τῷ κόλπῳ αὐτοῦ."
+        }
+      ],
+      "wording": "Marcionite reading adopted: the singular ἐν τῷ κόλπῳ (\"in his bosom\") for NA27's plural ἐν τοῖς κόλποις. Tertullian (\"sinus\") and the Adamantius Dialogue; Roth: secure. The singular is also the reading of D and every Old Latin manuscript except d and e.",
+      "decision": "printed",
+      "western": "The singular is the reading of D and the Old Latin.",
+      "reconstruction": "chapter 14, verse 23"
+    },
+    {
+      "ref": "16:24",
+      "class": "A+",
+      "roth": "present (Adam. 76,16–78,6; Roth: wording probable only)",
+      "witnesses": [
+        {
+          "source": "Dialogue of Adamantius 76,26–29 (2.10) (via Roth)",
+          "evidence": "καὶ αὐτὸς φωνήσας εἶπεν· πάτερ Ἀβραάμ, ἐλέησόν με καὶ πέμψον Λάζαρον…"
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 24"
+    },
+    {
+      "ref": "16:25",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 45; Adam. 76,29–31)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 45",
+          "evidence": "»νῦν δὲ ὧδε παρακαλεῖται« ὁ αὐτὸς Λάζαρος."
+        }
+      ],
+      "wording": "NA27. NA27 cites McionA,E for ὅδε (\"this one\") for ὧδε (\"here\"); the difference is one of breathing and accent, which the manuscripts of Epiphanius do not settle. Roth: possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 25"
+    },
+    {
+      "ref": "16:26",
+      "class": "A+",
+      "roth": "present (Marc. 4.34.11; Adam. 76,31–34)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.34.11",
+          "evidence": "\"Nam et magnum ait intercidere regiones istas profundum et transitum utrinque prohibere.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 26"
+    },
+    {
+      "ref": "16:27",
+      "class": "A+",
+      "roth": "present (Adam. 76,16–78,6; Roth: wording probable only)",
+      "witnesses": [
+        {
+          "source": "Dialogue of Adamantius 76,34–35 (2.10) (via Roth)",
+          "evidence": "ἐρωτῶ οὖν σε, πάτερ, ἵνα πέμψῃς αὐτὸν εἰς τὴν οἰκίαν τοῦ πατρός μου·"
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 27"
+    },
+    {
+      "ref": "16:28",
+      "class": "A+",
+      "roth": "present (Adam. 76,16–78,6; Roth: wording probable only)",
+      "witnesses": [
+        {
+          "source": "Dialogue of Adamantius 76,35–78,2 (2.10) (via Roth)",
+          "evidence": "ἔχω γὰρ ἐκεῖ πέντε ἀδελφούς· ὅπως διαμαρτύρηται αὐτοῖς…"
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 28"
+    },
+    {
+      "ref": "16:29",
+      "class": "A+",
+      "roth": "present (Marc. 4.34.10, 17; Pan. 42.11.6, sch. 46; Adam. 78,2–3)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 46",
+          "evidence": "εἶπεν Ἀβραάμ »ἔχουσι Μωυσέα καὶ τοὺς προφήτας, ἀκουσάτωσαν αὐτῶν«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.34.17",
+          "evidence": "\"Habent illic Moysen et prophetas, audiant illos.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 29"
+    },
+    {
+      "ref": "16:30",
+      "class": "A+",
+      "roth": "present (Adam. 76,16–78,6; Roth: wording probable only)",
+      "witnesses": [
+        {
+          "source": "Dialogue of Adamantius 78,3–5 (2.10) (via Roth)",
+          "evidence": "ὁ δὲ εἶπεν· οὐχί, πάτερ… ἀλλ᾿ ἐάν τις ἐκ νεκρῶν πορευθῇ πρὸς αὐτούς, μετανοήσουσιν."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 30"
+    },
+    {
+      "ref": "16:31",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 46; Adam. 78,5–6)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 46",
+          "evidence": "»…ἐπεὶ οὐδὲ τοῦ ἐγειρομένου ἐκ νεκρῶν ἀκούσουσιν«."
+        },
+        {
+          "source": "Dialogue of Adamantius 78,5–6 (2.10) (via Roth)",
+          "evidence": "εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἤκουσαν, οὐδ᾿ ἄν τις ἐκ νεκρῶν ἀπέλθῃ ἀκούσουσιν αὐτοῦ."
+        }
+      ],
+      "wording": "NA27. Epiphanius gives a short form (\"for they will not listen even to one raised from the dead\") and the Dialogue a longer one with ἀπέλθῃ (\"goes\", NA27: McionA with W it sys.c); both rated probable at best. Not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 14, verse 31"
+    }
+  ]
+}

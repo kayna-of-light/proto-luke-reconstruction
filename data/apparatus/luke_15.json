@@ -1,0 +1,158 @@
+{
+  "luke_chapter": 15,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "15:1",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "A separate NA27 paragraph, but part of the attested pericope: 15:3 (\"he told them this parable\") answers the complaint of 15:2.",
+      "reconstruction": "chapter 13, verse 1"
+    },
+    {
+      "ref": "15:2",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Part of the attested pericope 15:1–10 (see 15:1).",
+      "reconstruction": "chapter 13, verse 2"
+    },
+    {
+      "ref": "15:3",
+      "class": "A+",
+      "roth": "present (Marc. 4.32.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.32.2",
+          "evidence": "\"Ita utriusque parabolae argumentum…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 13, verse 3"
+    },
+    {
+      "ref": "15:4",
+      "class": "A+",
+      "roth": "present (Marc. 4.32.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.32.1",
+          "evidence": "\"Ovem et dragmam perditam quis requirit? nonne qui perdidit? Quis autem perdidit? nonne qui habuit?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 13, verse 4"
+    },
+    {
+      "ref": "15:5",
+      "class": "A+",
+      "roth": "present (Marc. 4.32.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.32.1",
+          "evidence": "\"is invenit qui quaesivit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 13, verse 5"
+    },
+    {
+      "ref": "15:6",
+      "class": "A+",
+      "roth": "present (Marc. 4.32.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.32.1",
+          "evidence": "\"is exultavit qui invenit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 13, verse 6"
+    },
+    {
+      "ref": "15:7",
+      "class": "A+",
+      "roth": "present (Marc. 4.32.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.32.2",
+          "evidence": "\"Atque adeo exultare illius est de paenitentia peccatoris, id est de perditi recuperatione, qui se professus est olim malle peccatoris paenitentiam quam mortem.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"joy over the repentance of a sinner\" may come from 15:7 or 15:10 (Roth).",
+      "decision": "printed",
+      "reconstruction": "chapter 13, verse 7"
+    },
+    {
+      "ref": "15:8",
+      "class": "A+",
+      "roth": "present (Marc. 4.32.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.32.1",
+          "evidence": "\"Ovem et dragmam perditam quis requirit?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 13, verse 8"
+    },
+    {
+      "ref": "15:9",
+      "class": "A+",
+      "roth": "present (Marc. 4.32.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.32.1",
+          "evidence": "\"is invenit qui quaesivit, is exultavit qui invenit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 13, verse 9"
+    },
+    {
+      "ref": "15:10",
+      "class": "A+",
+      "roth": "present (Marc. 4.32.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.32.2",
+          "evidence": "\"exultare illius est de paenitentia peccatoris\"."
+        }
+      ],
+      "wording": "NA27. Roth notes that \"the angels of\" may not have been present; no witness states it. Printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 13, verse 10"
+    },
+    {
+      "ref": "15:11–32",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 42",
+          "evidence": "πάλιν παρέκοψε πᾶσαν τὴν παραβολὴν τῶν δύο υἱῶν, τοῦ εἰληφότος τὸ μέρος τῶν ὑπαρχόντων καὶ ἀσώτως δαπανήσαντος καὶ τοῦ ἄλλου."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the whole parable of the two sons was not in the text. Tertullian passes from the coin (4.32.2) to the two masters (16:13, 4.33.1); Roth counts his silence as confirmation (tacitus). A parable of a father who receives a returning son would have served Tertullian's argument that the God who rejoices over the repentant is the one who \"prefers the repentance of a sinner to his death\" (Ezek 18:23)."
+    }
+  ]
+}

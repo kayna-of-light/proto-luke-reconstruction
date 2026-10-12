@@ -136,7 +136,7 @@ OMITTED = [
       reason='Tertullian gives one proverb as the cause of the ejection; in canonical Luke the Elijah and Elisha sayings are what provoke the rage. Elijah sent to a Sidonian widow would also have served Tertullian\'s argument for the Creator\'s concern for the nations; it is not cited.')),
  dict(ref='4:27', cls='A+', app=dict(roth='present (Marc. 4.35.6; Pan. 42.11.6 sch. 48)', witnesses=[
       {'source': 'Epiphanius, Pan. 42.11.6, sch. 48', 'evidence': 'The saying about Naaman stood inside the healing of the ten lepers (17:14).'}],
-      decision='printed at 17:14 (batch 5)', reason='Attested in a different position.')),
+      decision='printed in chapter 15, between 17:12 and 17:14 (batch 4 replaces this record)', reason='Attested in a different position.')),
  dict(ref='4:38–39', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='Whole pericope (Simon\'s mother-in-law) without an attested verse (METHOD §4.3).')),
 ]

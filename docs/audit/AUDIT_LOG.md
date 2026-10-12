@@ -310,3 +310,83 @@ METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 alrea
 - **11:2 replaced "your kingdom come".** Tertullian attests the kingdom petition and places the spirit before it. The previous text also printed "do not let us be led" as Marcionite; it is printed in the NA27 form, with the reason given.
 - **12:4 "kill you only" (no "body") and 12:10 without "blaspheme".** Epiphanius' Greek has "the body"; the 12:10 form is rated probable only. NA27 is printed.
 - **Notes withdrawn.** Notes that gave no witness for their claims were withdrawn, among them "Upon you… the Ebionim", "dry forensic correction", and "Little flock = the Ebionim". New notes separate the attested text, its reception and interpretation.
+
+## Batch 4: Luke 14:1–17:37 → chapters 12–15 (2026-10-12)
+
+### What was checked
+
+- Every verse of Luke 14–17 (152 verses; NA27 has no 17:36) has a record in `data/apparatus/luke_14.json` to `luke_17.json`.
+- The record for 4:27 in `luke_04.json` was updated, since the verse is printed here.
+- **Tertullian, *Marc.* 4.31–4.35:** read in full, as were the Epiphanius scholia 42–49.
+- **Roth:** classes, and his discussion of every graded reading used.
+- **NA27:** checked on the page images (pp. 208–218), apparatus included.
+
+### Structure
+
+| Chapter | Contents | Printed | Grey (unattested) |
+|---|---|---|---|
+| 12 | Luke 14:12–24 | 13 | 2 |
+| 13 | Luke 15:1–10 | 10 | 2 |
+| 14 | Luke 16 | 31 | 4 |
+| 15 | Luke 17 (without 17:5–10, 17:13, 17:12b), with 4:27 between 17:12 and 17:14 | 30 | 10 |
+
+### Not printed
+
+| Verses | Class | Reason |
+|---|---|---|
+| 14:1–11 | U? | Two paragraphs with no attested verse. |
+| 14:25–35 | U? | Three paragraphs with no attested verse. |
+| 15:11–32 | A− | Epiph. sch. 42 ("the whole parable of the two sons"). |
+| 17:5–10 | U? (17:10b A−) | Two paragraphs with no attested present verse; Epiph. sch. 47 for 17:10b. |
+| 17:12b–13 | A− | Epiph. sch. 48 ("he cut out much"); Roth. |
+
+**Two one-verse paragraphs are printed in grey: 14:15 and 15:1–2.** The attested parables that follow are answers to them ("But he said to him", "So he told them this parable"). They count as one pericope with what follows (METHOD §4.3).
+
+### Marcionite readings printed
+
+| Verse | Reading | Witnesses | Agreement |
+|---|---|---|---|
+| 16:12 | τὸ ἐμόν for τὸ ὑμέτερον | Tert. 4.33.4 (twice) | e i l; NA27: McionT |
+| 16:17 | τῶν λόγων μου for τοῦ νόμου | Tert. 4.33.9 (twice) | NA27: McionT |
+| 16:23 | ἐν τῷ κόλπῳ (singular) | Tert. 4.34.10–12; Adamantius | D and the Old Latin |
+| 4:27 (at 17:12–14) | position; ἐν ἡμέραις for ἐπί; Νεεμάν | Epiph. sch. 48; Tert. 4.35.6 | — |
+| 17:12 | without οἳ ἔστησαν πόρρωθεν (17:13 also absent) | Epiph. sch. 48 | — |
+| 17:21 | ἰδοὺ ὧδε ἤ· ἰδοὺ ἐκεῖ | Tert. 4.35.12 | A D W Θ Ψ 𝔐 |
+
+### NA27 corrections to SBLGNT (on the page images)
+
+- 16:12 τίς ὑμῖν δώσει
+- 17:12 [αὐτῷ]
+- 17:23 [ἤ]
+
+### Departures from Roth
+
+| Verse | Roth | Audit | Basis |
+|---|---|---|---|
+| 16:17 | "of my words" probable | printed | Tertullian's thesis in 4.33.7–9 is that Christ fulfilled the law. Canonical "one stroke of the law" would have proved it directly, and he passes it over for Christ's "words" (twice) and has to argue from Isa 40:8 instead. Roth's alternative, that 21:33 influenced Tertullian, does not explain why he would give up the wording that served him best. |
+| 14:15, 15:1–2 | unattested | printed in grey | They open the attested pericopes. |
+
+### Weaker attestations, recorded as such
+
+- **16:19–31.** Several verses (16:21, 24, 27–28, 30) rest on the Dialogue of Adamantius alone. They are printed as part of the parable, which Tertullian and Epiphanius attest. Their wording is NA27.
+- **Not adopted (one witness, or Roth "probable"/"possible"):**
+  - 14:14, Tertullian without "of the righteous";
+  - 14:16, without "great";
+  - 15:10, without "the angels of";
+  - 16:16, ἕως;
+  - 16:25, ὅδε (NA27: McionA,E);
+  - 16:31, the Dialogue's ἀπέλθῃ;
+  - 17:2, "if he had not been born".
+
+### Corrections to the previous text
+
+- **Printed though unattested:** 14:26, 14:33. They are removed. 17:10 is attested in part and absent in part; it is removed.
+- **Printed though attested absent:** 17:13. It is removed.
+- **Omitted though attested.** These are printed:
+  - 16:1–8, the steward. The previous version called it "conflicting evidence"; Tertullian 4.33.1 attests it.
+  - 17:11–12, 17:15–18.
+  - Most of 16:19–31.
+- **Claims the witnesses do not support.** The NA27 wording is printed:
+  - 14:14, without "of the righteous";
+  - 14:16, without "great";
+  - 15:7–10, without "the angels".
