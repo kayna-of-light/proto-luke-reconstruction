@@ -1,0 +1,192 @@
+{
+ "E1": {
+  "full": {
+   "F1 without hapax counts": {
+    "observed_log_rr": 0.10833874762964815,
+    "observed_rr": 1.1144251903452154,
+    "N1_p": 0.025239338555265448,
+    "N1_q95_rr": 1.0998347527078935,
+    "N2_p": 0.019498050194980503,
+    "N2_q95_rr": 1.0905720940851211
+   },
+   "F2 without names": {
+    "observed_log_rr": 0.24942693125538404,
+    "observed_rr": 1.2832897926558475,
+    "N1_p": 0.004351610095735422,
+    "N1_q95_rr": 1.164530621002597,
+    "N2_p": 0.0021997800219978004,
+    "N2_q95_rr": 1.1513868450925835
+   },
+   "F3 without names": {
+    "observed_log_rr": 0.1694365682375471,
+    "observed_rr": 1.184637201024296,
+    "N1_p": 0.06005221932114883,
+    "N1_q95_rr": 1.1918520783920799,
+    "N2_p": 0.017198280171982803,
+    "N2_q95_rr": 1.1375121604611833
+   }
+  },
+  "no infancy/genealogy": {
+   "F1 without hapax counts": {
+    "observed_log_rr": 0.0933326640121409,
+    "observed_rr": 1.0978268820243324,
+    "N1_p": 0.025974025974025976,
+    "N1_q95_rr": 1.0896351259007322,
+    "N2_p": 0.0408959104089591,
+    "N2_q95_rr": 1.0923030045249427
+   },
+   "F2 without names": {
+    "observed_log_rr": 0.18407811466435095,
+    "observed_rr": 1.2021097218262533,
+    "N1_p": 0.017982017982017984,
+    "N1_q95_rr": 1.1568540602551818,
+    "N2_p": 0.0182981701829817,
+    "N2_q95_rr": 1.1565054803455084
+   },
+   "F3 without names": {
+    "observed_log_rr": 0.04481405283763903,
+    "observed_rr": 1.0458333720792068,
+    "N1_p": 0.24475524475524477,
+    "N1_q95_rr": 1.1151002132865209,
+    "N2_p": 0.26677332266773324,
+    "N2_q95_rr": 1.1201122274200161
+   }
+  }
+ },
+ "E2": {
+  "all words incl. uncertain": {
+   "words": {
+    "canonical_same_verses": 8681,
+    "roth_wording": 4141,
+    "retained": 0.4770187766386361
+   },
+   "nouns": {
+    "canonical_same_verses": 1531,
+    "roth_wording": 879,
+    "retained": 0.5741345525800131
+   },
+   "finite verbs": {
+    "canonical_same_verses": 1378,
+    "roth_wording": 517,
+    "retained": 0.3751814223512337
+   },
+   "αὐτός": {
+    "canonical_same_verses": 469,
+    "roth_wording": 150,
+    "retained": 0.31982942430703626
+   },
+   "article": {
+    "canonical_same_verses": 1153,
+    "roth_wording": 606,
+    "retained": 0.5255854293148309
+   },
+   "καί": {
+    "canonical_same_verses": 635,
+    "roth_wording": 223,
+    "retained": 0.35118110236220473
+   },
+   "δέ": {
+    "canonical_same_verses": 266,
+    "roth_wording": 70,
+    "retained": 0.2631578947368421
+   },
+   "πρός + acc": {
+    "canonical_same_verses": 71,
+    "roth_wording": 17,
+    "retained": 0.23943661971830985
+   },
+   "participle + δέ": {
+    "canonical_same_verses": 41,
+    "roth_wording": 9,
+    "retained": 0.21951219512195122
+   },
+   "λέγω … πρός": {
+    "canonical_same_verses": 33,
+    "roth_wording": 2,
+    "retained": 0.06060606060606061
+   },
+   "καὶ ἐγένετο": {
+    "canonical_same_verses": 14,
+    "roth_wording": 0,
+    "retained": 0.0
+   },
+   "periphrastic": {
+    "canonical_same_verses": 16,
+    "roth_wording": 4,
+    "retained": 0.25
+   },
+   "ἐν τῷ + inf": {
+    "canonical_same_verses": 14,
+    "roth_wording": 5,
+    "retained": 0.35714285714285715
+   }
+  },
+  "certain words only": {
+   "words": {
+    "canonical_same_verses": 8681,
+    "roth_wording": 3114,
+    "retained": 0.3587144338209884
+   },
+   "nouns": {
+    "canonical_same_verses": 1531,
+    "roth_wording": 708,
+    "retained": 0.46244284781188766
+   },
+   "finite verbs": {
+    "canonical_same_verses": 1378,
+    "roth_wording": 376,
+    "retained": 0.2728592162554427
+   },
+   "αὐτός": {
+    "canonical_same_verses": 469,
+    "roth_wording": 104,
+    "retained": 0.22174840085287847
+   },
+   "article": {
+    "canonical_same_verses": 1153,
+    "roth_wording": 474,
+    "retained": 0.4111014744145707
+   },
+   "καί": {
+    "canonical_same_verses": 635,
+    "roth_wording": 156,
+    "retained": 0.24566929133858267
+   },
+   "δέ": {
+    "canonical_same_verses": 266,
+    "roth_wording": 38,
+    "retained": 0.14285714285714285
+   },
+   "πρός + acc": {
+    "canonical_same_verses": 71,
+    "roth_wording": 12,
+    "retained": 0.16901408450704225
+   },
+   "participle + δέ": {
+    "canonical_same_verses": 41,
+    "roth_wording": 5,
+    "retained": 0.12195121951219512
+   },
+   "λέγω … πρός": {
+    "canonical_same_verses": 33,
+    "roth_wording": 0,
+    "retained": 0.0
+   },
+   "καὶ ἐγένετο": {
+    "canonical_same_verses": 14,
+    "roth_wording": 0,
+    "retained": 0.0
+   },
+   "periphrastic": {
+    "canonical_same_verses": 16,
+    "roth_wording": 3,
+    "retained": 0.1875
+   },
+   "ἐν τῷ + inf": {
+    "canonical_same_verses": 14,
+    "roth_wording": 3,
+    "retained": 0.21428571428571427
+   }
+  }
+ }
+}
