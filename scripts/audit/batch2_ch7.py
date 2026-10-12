@@ -13,7 +13,7 @@ ENTRIES = [
    wording='NA27 (order λέγουσιν οἱ ὄχλοι; SBLGNT differs — checked on the page image).'),
  A('9:19', G('9:19'), 'They answered, "John the Baptist; others, Elijah; and others, that one of the ancient prophets has arisen."',
    'present (Adam. 84,2–4)', [AD('84,2–4 (2.13)', 'Quoted in the dialogue.')]),
- A('9:20', G('9:20'), 'He said to them, "But who do you say that I am?" Peter answered, "The Christ of God."',
+ A('9:20', G('9:20'), 'He said to them, "But who do you say that I am?" Peter answered, "The Anointed One of God."',
    'present (Marc. 4.21.6; Adam. 84,4–5)', [T('4.21.6', '"interroganti domino quisnam illis videretur… Tu es Christus".')],
    wording='NA27. Tertullian\'s answer is "Tu es Christus", without "of God"; Roth notes that "of God" may have been missing. One witness, in paraphrase; not adopted.'),
  A('9:21', G('9:21'), 'He sternly ordered them to tell this to no one,',

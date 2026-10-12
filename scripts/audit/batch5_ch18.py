@@ -68,7 +68,7 @@ ENTRIES = [
  A('20:39', G('20:39'), 'Then some of the scribes answered, "Teacher, you have spoken well."',
    'present (Marc. 4.38.9)', [T('4.38.9', '"Atque adeo scribae, Magister, inquiunt, bene dixisti."')]),
  U('20:40', G('20:40'), 'For they no longer dared to ask him any question.', 'Inside the attested paragraph 20:27–40.'),
- A('20:41', G('20:41'), 'But he said to them, "How can they say that the Christ is David\'s son?',
+ A('20:41', G('20:41'), 'But he said to them, "How can they say that the Anointed One is David\'s son?',
    'present (Marc. 4.38.10)', [T('4.38.10', '"Si autem scribae Christum filium David existimabant, ipse autem David dominum eum appellat…"')]),
  U('20:42', G('20:42'), 'For David himself says in the Book of Psalms, \'The Lord said to my Lord, Sit at my right hand,', 'Inside the attested paragraph 20:41–44.'),
  U('20:43', G('20:43'), 'until I make your enemies your footstool.\'', 'Inside the attested paragraph 20:41–44.'),

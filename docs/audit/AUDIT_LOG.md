@@ -602,3 +602,23 @@ METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 alrea
   - 23:2, only one of the two attested additions.
   - NA27 is printed, or the attested reading where one is adopted.
 - **Library:** `library_corrections.md` items 12 (22:19–20 and the Western non-interpolations), 13 (24:39–43) and 14 (24:6).
+
+## Front matter (2026-10-12)
+
+- **Preface rewritten** (`scripts/audit/frontmatter.py`, `description` in the JSON). It describes what the text is and covers:
+  - the witnesses and how much each can prove;
+  - the four classes and what is printed;
+  - the wording rules;
+  - the results with their totals (1,017 verses of Luke 3–24: 485 A+, 143 A−, 44 U−, 345 U?; 708 printed, 223 grey);
+  - the priority question, left open;
+  - terminology and sources.
+
+  The previous preface claimed three things the audit contradicts (research questions Q6):
+  - "editorial fatigue analysis" as a method;
+  - the Western non-interpolations as a criterion;
+  - the excision of the resurrection proofs.
+- **The PDF prints the preface in paragraphs.** The title page reads "A Reconstruction of the Jamesian Protograph", following batch 1, which withdrew "forensic".
+- **Q4 implemented.** ὁ χριστός is "the Anointed One" (4:41; 9:20; 20:41; 22:67; 23:2; 24:26).
+- **Q5 checked.** No "spiritual body" language occurs. "The Living One" is used at 24:5.
+- **All six batch scripts were rerun in order.** The JSON and apparatus they produce are identical to the committed files except for the Q4 translations.
+- **README and CLAUDE.md** now describe the actual schema, the apparatus, the build and the decision rules.

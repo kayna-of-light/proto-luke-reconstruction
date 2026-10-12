@@ -89,7 +89,7 @@ ENTRIES = [
                witnesses=[{'source': 'Tertullian, Marc. 4.8.4', 'evidence': '"ipse mox tetigit alios, quibus manus imponens… beneficia medicinarum conferebat".'}],
                wording='NA27 (εἶχον, ἐθεράπευεν; checked on the page image).', decision='printed')),
  dict(ref='4:41', cls='A+', gr=greek('4:41'),
-      en='And daimons also came out of many, shouting and saying, "You are the son of God." And he rebuked them and would not allow them to speak, because they knew that he was the Christ.',
+      en='And daimons also came out of many, shouting and saying, "You are the son of God." And he rebuked them and would not allow them to speak, because they knew that he was the Anointed One.',
       app=dict(roth='present (Marc. 4.8.5)',
                witnesses=[{'source': 'Tertullian, Marc. 4.8.5', 'evidence': '"spiritus nequam… excedebant vociferantes, Tu es filius dei… increpabantur et iubebantur tacere."'}],
                wording='NA27. NA27 cites McionT for its text against the addition ὁ χριστός after εἶ (A Q Θ Ψ 0102 f1.13 𝔐). κραυγάζοντα is NA27 text (κράζοντα ℵ B C …).',
@@ -205,7 +205,7 @@ NOTES = [
  dict(term='4:41: "the son of God"', cat='textual', refs=['4:41'], text=(
   "Tertullian, Marc. 4.8.5: the spirits came out \"vociferantes, Tu es filius dei\" and were ordered to be silent. NA27 cites "
   "Marcion (McionT) with ℵ B C D L W and others against the addition of ὁ χριστός (\"you are the Christ, the son of God\") in "
-  "A Q Θ Ψ and the Byzantine text. The closing clause \"because they knew that he was the Christ\" is not cited by Tertullian; "
+  "A Q Θ Ψ and the Byzantine text. The closing clause \"because they knew that he was the Anointed One\" is not cited by Tertullian; "
   "it is printed in the NA27 wording within the attested verse.")),
  dict(term='The departure (4:42–44)', cat='textual', refs=['4:42', '4:43', '4:44'], text=(
   "Tertullian, Marc. 4.8.9: \"In solitudinem procedit… Detentus a turbis, Oportet me, inquit, et aliis civitatibus annuntiare "

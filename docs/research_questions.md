@@ -139,7 +139,12 @@ The Messenger first selects the group → then confers the official rank (emissa
 - **Philological Consistency:** The Greek uses Ἰησοῦς as name and ὁ χριστός as title. "The Messenger" prioritizes an interpretive framework over manuscript facts.
 - **Hierarchical Clarity:** Calling Jesus "the Messenger" confuses his identity with the emissaries (ἀποστόλους) and messengers (ἀγγέλους) he himself commissioned.
 
-### Status: PENDING IMPLEMENTATION
+### Status: IMPLEMENTED (audit, 2026-10-12)
+
+- "the Messenger" does not occur in `data/proto_luke.json`; lowercase "messenger" is kept for ἄγγελος where the context is a human or angelic envoy, "angels" elsewhere.
+- ὁ χριστός is translated "the Anointed One" in every verse where it occurs (4:41; 9:20; 20:41; 22:67; 23:2; 24:26), in the batch build scripts so that rebuilds keep it.
+- The historical claims in the rationale above (Desposyni, "Opposition High Priest") are the library's, not evidence used in the reconstruction; the notes do not repeat them.
+- The superseded v1 drafts in `data/reconstructions/` are not maintained and may still contain the old terms.
 
 ---
 
@@ -162,7 +167,11 @@ The Messenger first selects the group → then confers the official rank (emissa
 - **Translation Fable:** The Jamesian community viewed post-mortem events through prophetic translation (Elijah, Moses)—exaltation to heaven, not medical resurrection.
 - **Philological Honesty:** "The Living One" and "Exaltation" restore the prophetic vocabulary of the "Assembly of the Hebrews."
 
-### Status: PENDING IMPLEMENTATION
+### Status: IMPLEMENTED (audit, 2026-10-12)
+
+- No "Soma Pneumatikon" or "spiritual body" language occurs in the reconstruction; the batch scripts check for it.
+- ὁ ζῶν at 24:5 is translated "the Living One", and the chapter 22 notes use the term.
+- How the attested text of Luke 24 bears on the "Living One" reading is set out in the chapter 22 notes. The text keeps "a spirit does not have bones as you see that I have" (24:39) and the request for food (24:41); see `docs/audit/AUDIT_LOG.md`, batch 6, and `docs/audit/library_corrections.md` item 13.
 
 ---
 
@@ -200,7 +209,20 @@ Term coined by **Westcott and Hort** (19th c.) for passages present in Alexandri
 
 These restore a narrative where the empty tomb is a sign of **absence and perplexity**, not forensic proof of resuscitation.
 
-### Status: PENDING IMPLEMENTATION (Preface to be rewritten)
+### Status: IMPLEMENTED, WITH CORRECTIONS (audit, 2026-10-12)
+
+The preface was rewritten from the audit (`scripts/audit/frontmatter.py`). Three points of the resolution above did not survive the evidence and are not in it:
+- **Editorial fatigue as proof.** The claim that "computer-aided analysis of editorial fatigue" shows Luke expanding Marcion's text could not be traced to any source (working document §1.4). The stylometric baseline (`docs/stylometry/REPORT.md`) finds Luke 1–2 distinct, and no measurable difference elsewhere. The 4:23 Capernaum seam is kept as an observation of order.
+- **Western non-interpolations as a criterion.** A Western omission does not by itself remove words from this text (METHOD §2). On the witnesses:
+  - 24:6 "he has been raised" is attested present (Epiphanius, sch. 76; only "he is not here, but" was lacking);
+  - 24:39–43 are attested except "handle me and see" and "flesh and";
+  - 22:20 is attested (Tertullian 4.40.4);
+  - 24:3 "of the Lord Jesus" and 24:36b are unattested and printed with NA27;
+  - 24:12 is classed probably absent on the witnesses' silence, not because D lacks it;
+  - 24:51 falls after the last attested verse (24:47).
+- **"Absence and perplexity".** The attested tomb scene announces "he has been raised" and "remember all that he told you". The preface describes what is attested.
+
+The "Orthodox Wrapper" label is not used; Luke 1–2 is described as absent on the witnesses' testimony and stylistically distinct.
 
 ---
 
