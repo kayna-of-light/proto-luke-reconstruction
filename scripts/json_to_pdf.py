@@ -289,7 +289,7 @@ def create_title_page(styles):
     elements.append(Spacer(1, 0.5*inch))
     
     elements.append(Paragraph(
-        "<i>A Forensic Reconstruction of the</i>",
+        "<i>A Reconstruction of the</i>",
         ParagraphStyle('centered', parent=styles['Normal'], alignment=TA_CENTER, fontSize=12)
     ))
     elements.append(Paragraph(
@@ -323,7 +323,10 @@ def create_preface_page(description, styles):
     
     elements.append(Spacer(1, 0.3*inch))
     
-    elements.append(Paragraph(escape_xml(description), styles['Preface']))
+    for para in description.split('\n\n'):
+        if para.strip():
+            elements.append(Paragraph(escape_xml(para.strip()), styles['Preface']))
+            elements.append(Spacer(1, 0.12*inch))
     
     elements.append(PageBreak())
     

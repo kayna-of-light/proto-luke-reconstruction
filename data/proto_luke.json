@@ -1,6 +1,6 @@
 {
   "title": "THE GOSPEL (PROTO-LUKE)",
-  "description": "This document presents a forensic reconstruction of Proto-Luke (the Jamesian Protograph)—the primitive Gospel underlying the Lukan tradition, here identified with the Jerusalem community led by James the Just. The reconstruction applies the 'New Marcionite Paradigm' (Klinghardt, BeDuhn, Vinzent), which recognizes Marcion's Evangelion as a witness to a pre-canonical text rather than an edited mutilation. Methodology relies on: (1) editorial fatigue analysis, where canonical Luke betrays expansion of a shorter source; (2) triangulation of patristic testimony (Tertullian, Epiphanius, Adamantius) with the Western manuscript tradition (Codex Bezae, Old Latin); and (3) the 'Western Non-Interpolations' (Westcott-Hort)—passages present in Alexandrian manuscripts but absent in the Western tradition. Material excised as secondary redaction includes the infancy narratives (Luke 1–2), genealogy, baptism, temptation, and physicalist resurrection proofs—layers added in the second century to anchor the primitive narrative in Davidic biology and anti-Docetic polemic.",
+  "description": "This edition presents the gospel read in Marcion's church in the second century, the text its opponents called his Evangelion, reconstructed verse by verse from the writers who quote it. The working premise of the project is that this text is not an abridgement of canonical Luke but an earlier form of it, here called Proto-Luke. A second premise, that it comes from the Jewish-Christian circle of James the Just, is treated as a hypothesis: the chapter notes describe what the attested text contains and say where it supports that identification and where it does not.\n\nThe witnesses. Marcion's gospel survives only in quotation. The principal witnesses are Tertullian, Against Marcion, book 4 (c. 207), who works through the text in order, in Latin; and Epiphanius, Panarion 42 (c. 375), whose 78 scholia quote it in Greek and state where it lacked passages of canonical Luke. The Dialogue of Adamantius is used only where its Marcionite speaker quotes the gospel. Other Fathers (Origen, Hippolytus, Ephrem, Eznik) are cited where they bear on a verse. All of them were hostile. What they report the text to have contained is treated as evidence; what they say about why it was so (\"Marcion cut it\") is polemic and is not used.\n\nHow each verse is decided. Every verse of Luke 3–24 has a record in the apparatus (data/apparatus/luke_03.json to luke_24.json), with the witnesses quoted from their primary texts and a class: attested present; attested absent; unattested but probably absent (where a witness who works through that stretch of text would have used the verse against Marcion and does not cite it); or unattested and undetermined. Of the 1,017 verses of Luke 3–24, 485 are attested present, 143 attested absent, 44 probably absent and 345 undetermined. Attested verses are printed. Undetermined verses are printed only inside a paragraph that contains an attested verse, and are set in grey: they are the canonical text where the witnesses are silent, not attested text. Of the 708 verses printed, 223 are grey. Passages attested absent or probably absent are not printed, and each chapter's notes say what is missing and on whose evidence.\n\nThe wording. The Greek is that of Nestle–Aland, 27th edition, checked against the printed page. A reading of Marcion's text replaces it only where a witness attests it in its own words and the evidence makes it very likely: a Greek quotation, agreement of two witnesses, or a witness's habit of citation that rules out its own paraphrase. Where only Tertullian's Latin attests a reading and the Latin cannot render the Nestle–Aland Greek, the Greek is a retroversion, and the note says so. Weaker readings are recorded in the notes and do not change the text. Roth's graded reconstruction (2015) is the second judgement for every reading; where this edition departs from it, the reason is given.\n\nWhat the witnesses show. The text began with the fifteenth year of Tiberius and Jesus' coming down to Capernaum (3:1; 4:31), and had no birth narratives (Luke 1–2). Passages the witnesses state were absent include the parable of the two sons (15:11–32), the entry into Jerusalem and the cleansing of the temple (19:29–46), the tenants of the vineyard (20:9–17), and \"Today you will be with me in paradise\" (23:43). Some readings are not those of canonical Luke: in the Lord's prayer a petition for the holy spirit stands in place of \"hallowed be your name\" (11:2); before Pilate the accusers add that Jesus is \"destroying the law and the prophets\" and \"turning away the women and the children\" (23:2); on the road to Emmaus the disciples are rebuked for not believing \"all that he spoke to you\", not \"all that the prophets spoke\" (24:25). Other passages that have been thought foreign to this text are attested in it: the cup of the covenant in Jesus' blood (22:20); and, after the resurrection, \"See my hands and my feet, that it is I myself; for a spirit does not have bones as you see that I have\" (24:39), followed by a request for food (24:41). The words \"handle me and see\" and \"flesh and\" were not in that verse.\n\nPriority. The witnesses give no sign that the absences follow a single doctrine, and canonical Luke contains a seam where the shorter text does not (the Capernaum reference of 4:23, which in Marcion's order follows the visit to Capernaum). A stylometric test of the published editions of Marcion's gospel (docs/stylometry) finds Luke 1–2 and the genealogy distinct in style from the rest of Luke. Outside them it finds no measurable stylistic difference between the passages Marcion's text lacked and those it kept, so style alone does not decide the direction of change. Whether canonical Luke expanded this text, or both derive from a common original, is left open; the notes say what canonical Luke \"has\" or \"lacks\" rather than what it \"added\".\n\nTerminology. Jesus is named as in the Greek; ὁ χριστός is rendered \"the Anointed One\"; ὁ ζῶν at 24:5 is \"the Living One\". The text is printed to 24:47, the last verse any witness cites.\n\nSources. Tertullian, Adversus Marcionem, ed. and trans. E. Evans (Oxford, 1972). Epiphanius, Panarion, ed. K. Holl, GCS 31 (Leipzig, 1922). Der Dialog des Adamantius, ed. W. H. van de Sande Bakhuyzen, GCS 4 (Leipzig, 1901). Novum Testamentum Graece, 27th ed. (Stuttgart, 1993). The SBL Greek New Testament (2010), as a machine-readable control. D. T. Roth, The Text of Marcion's Gospel (Leiden: Brill, 2015). A. von Harnack, Marcion: Das Evangelium vom fremden Gott, 2nd ed. (Leipzig, 1924). The method, the record of every decision and the corrections made to the previous edition are in docs/audit (METHOD.md, AUDIT_LOG.md).",
   "chapters": [
     {
       "chapter": 1,
@@ -104,7 +104,7 @@
         {
           "verse": 16,
           "canonical_ref": "Luke 4:41",
-          "english": "And daimons also came out of many, shouting and saying, \"You are the son of God.\" And he rebuked them and would not allow them to speak, because they knew that he was the Christ.",
+          "english": "And daimons also came out of many, shouting and saying, \"You are the son of God.\" And he rebuked them and would not allow them to speak, because they knew that he was the Anointed One.",
           "greek": "ἐξήρχετο δὲ καὶ δαιμόνια ἀπὸ πολλῶν κραυγάζοντα καὶ λέγοντα ὅτι Σὺ εἶ ὁ υἱὸς τοῦ θεοῦ. καὶ ἐπιτιμῶν οὐκ εἴα αὐτὰ λαλεῖν, ὅτι ᾔδεισαν τὸν χριστὸν αὐτὸν εἶναι."
         },
         {
@@ -189,7 +189,7 @@
           "term": "4:41: \"the son of God\"",
           "verse_refs": [16],
           "category": "textual",
-          "explanation": "Tertullian, Marc. 4.8.5: the spirits came out \"vociferantes, Tu es filius dei\" and were ordered to be silent. NA27 cites Marcion (McionT) with ℵ B C D L W and others against the addition of ὁ χριστός (\"you are the Christ, the son of God\") in A Q Θ Ψ and the Byzantine text. The closing clause \"because they knew that he was the Christ\" is not cited by Tertullian; it is printed in the NA27 wording within the attested verse."
+          "explanation": "Tertullian, Marc. 4.8.5: the spirits came out \"vociferantes, Tu es filius dei\" and were ordered to be silent. NA27 cites Marcion (McionT) with ℵ B C D L W and others against the addition of ὁ χριστός (\"you are the Christ, the son of God\") in A Q Θ Ψ and the Byzantine text. The closing clause \"because they knew that he was the Anointed One\" is not cited by Tertullian; it is printed in the NA27 wording within the attested verse."
         },
         {
           "id": 10,
@@ -1839,7 +1839,7 @@
         {
           "verse": 3,
           "canonical_ref": "Luke 9:20",
-          "english": "He said to them, \"But who do you say that I am?\" Peter answered, \"The Christ of God.\"",
+          "english": "He said to them, \"But who do you say that I am?\" Peter answered, \"The Anointed One of God.\"",
           "greek": "εἶπεν δὲ αὐτοῖς· Ὑμεῖς δὲ τίνα με λέγετε εἶναι; Πέτρος δὲ ἀποκριθεὶς εἶπεν· Τὸν χριστὸν τοῦ θεοῦ."
         },
         {
@@ -4589,7 +4589,7 @@
         {
           "verse": 29,
           "canonical_ref": "Luke 20:41",
-          "english": "But he said to them, \"How can they say that the Christ is David's son?",
+          "english": "But he said to them, \"How can they say that the Anointed One is David's son?",
           "greek": "Εἶπεν δὲ πρὸς αὐτούς· Πῶς λέγουσιν τὸν χριστὸν εἶναι Δαυὶδ υἱόν;"
         },
         {
@@ -5135,7 +5135,7 @@
         {
           "verse": 39,
           "canonical_ref": "Luke 22:67",
-          "english": "and they said, \"If you are the Christ, tell us.\" But he said to them, \"If I tell you, you will not believe,",
+          "english": "and they said, \"If you are the Anointed One, tell us.\" But he said to them, \"If I tell you, you will not believe,",
           "greek": "λέγοντες· Εἰ σὺ εἶ ὁ χριστός, εἰπὸν ἡμῖν. εἶπεν δὲ αὐτοῖς· Ἐὰν ὑμῖν εἴπω οὐ μὴ πιστεύσητε·"
         },
         {
@@ -5230,7 +5230,7 @@
         {
           "verse": 2,
           "canonical_ref": "Luke 23:2",
-          "english": "And they began to accuse him, saying, \"We found this man misleading our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the children, and saying that he himself is Christ, a king.\"",
+          "english": "And they began to accuse him, saying, \"We found this man misleading our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the children, and saying that he himself is the Anointed One, a king.\"",
           "greek": "ἤρξαντο δὲ κατηγορεῖν αὐτοῦ λέγοντες· Τοῦτον εὕραμεν διαστρέφοντα τὸ ἔθνος ἡμῶν καὶ καταλύοντα τὸν νόμον καὶ τοὺς προφήτας καὶ κωλύοντα φόρους Καίσαρι διδόναι καὶ ἀποστρέφοντα τὰς γυναῖκας καὶ τὰ τέκνα καὶ λέγοντα ἑαυτὸν χριστὸν βασιλέα εἶναι."
         },
         {
@@ -5616,7 +5616,7 @@
         {
           "verse": 24,
           "canonical_ref": "Luke 24:26",
-          "english": "Was it not necessary that the Christ should suffer these things and enter into his glory?\"",
+          "english": "Was it not necessary that the Anointed One should suffer these things and enter into his glory?\"",
           "greek": "οὐχὶ ταῦτα ἔδει παθεῖν τὸν χριστὸν καὶ εἰσελθεῖν εἰς τὴν δόξαν αὐτοῦ;"
         },
         {

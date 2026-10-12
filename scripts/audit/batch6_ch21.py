@@ -15,7 +15,7 @@ ENTRIES = [
    'present (Marc. 4.42.1)', [T421]),
  A('23:2', G('23:2', [('διαστρέφοντα τὸ ἔθνος ἡμῶν καὶ κωλύοντα φόρους Καίσαρι διδόναι καὶ λέγοντα',
                       'διαστρέφοντα τὸ ἔθνος ἡμῶν καὶ καταλύοντα τὸν νόμον καὶ τοὺς προφήτας καὶ κωλύοντα φόρους Καίσαρι διδόναι καὶ ἀποστρέφοντα τὰς γυναῖκας καὶ τὰ τέκνα καὶ λέγοντα')]),
-   'And they began to accuse him, saying, "We found this man misleading our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the children, and saying that he himself is Christ, a king."',
+   'And they began to accuse him, saying, "We found this man misleading our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the children, and saying that he himself is the Anointed One, a king."',
    'present (Marc. 4.42.1; Pan. 42.11.6, sch. 69–70)',
    [T421,
     E(69, 'προσέθετο μετὰ τὸ »τοῦτον εὕρομεν διαστρέφοντα τὸ ἔθνος« »καὶ καταλύοντα τὸν νόμον καὶ τοὺς προφήτας«. Elenchus 69: "the text did not read so, but: we found this man misleading the people, saying that he is Christ a king".'),

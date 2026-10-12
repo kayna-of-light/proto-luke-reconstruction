@@ -99,7 +99,7 @@ ENTRIES = [
  U('22:65', G('22:65'), 'And they said many other things against him, blaspheming him.', 'Inside the attested paragraph 22:63–65.'),
  A('22:66', G('22:66'), 'When day came, the assembly of the elders of the people gathered together, both chief priests and scribes. And they led him away to their council,',
    'present (Marc. 4.41.3)', [T('4.41.3', '"Perductus in consessum an ipse esset Christus interrogatur."')]),
- A('22:67', G('22:67'), 'and they said, "If you are the Christ, tell us." But he said to them, "If I tell you, you will not believe,',
+ A('22:67', G('22:67'), 'and they said, "If you are the Anointed One, tell us." But he said to them, "If I tell you, you will not believe,',
    'present (Marc. 4.41.3)', [T('4.41.3', '"Si dixero, enim inquit, vobis non credetis."')],
    wording='NA27. Tertullian\'s "interrogatur" may reflect the question form of D d ("Are you the Christ?"); Roth: undecided. The order "tell you" is uncertain (Roth).'),
  U('22:68', G('22:68'), 'and if I ask you, you will not answer.', 'Inside the attested paragraph 22:66–71.'),
