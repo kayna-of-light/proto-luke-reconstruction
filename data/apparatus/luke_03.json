@@ -1,0 +1,78 @@
+{
+  "luke_chapter": 3,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "3:1",
+      "class": "A+",
+      "roth": "present (Marc. 4.7.1; Pan. 42.11.5; Adam. 64,14–15; Irenaeus, Haer. 1.27.2)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.4–5 (Holl 107–108)",
+          "evidence": "The text began »ἐν τῷ πεντεκαιδεκάτῳ ἔτει Τιβερίου Καίσαρος« καὶ τὰ ἑξῆς; 1:1–2:52, the baptism (3:21–22) and the genealogy (3:23–38) were not in it."
+        },
+        {
+          "source": "Tertullian, Marc. 4.7.1",
+          "evidence": "\"Anno quintodecimo principatus Tiberiani proponit eum descendisse in civitatem Galilaeae Capharnaum\" — the date and the descent to Capernaum stated as one sentence."
+        },
+        {
+          "source": "Irenaeus, Haer. 1.27.2 (via Roth loci)",
+          "evidence": "Marcion's Jesus came \"temporibus Pontii Pilati praesidis, qui fuit procurator Tiberii Caesaris\"."
+        }
+      ],
+      "wording": "NA27 without δέ. The opening δέ is absent from both witnesses (Epiphanius quotes the incipit without it; Tertullian \"Anno quintodecimo\"), and a book cannot open with a connective. The clauses naming Herod, Philip and Lysanias are unattested; NA27 is printed for them. The Pilate clause is attested in sense (Irenaeus); Roth reconstructs it as ἐπὶ τῶν χρόνων Ποντίου Πιλάτου (probable only), so NA27 is printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 1"
+    },
+    {
+      "ref": "3:2–20",
+      "class": "A−",
+      "roth": "unattested",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.4–5 (Holl 107–108)",
+          "evidence": "The text began »ἐν τῷ πεντεκαιδεκάτῳ ἔτει Τιβερίου Καίσαρος« καὶ τὰ ἑξῆς; 1:1–2:52, the baptism (3:21–22) and the genealogy (3:23–38) were not in it."
+        },
+        {
+          "source": "Tertullian, Marc. 4.7.1",
+          "evidence": "\"Anno quintodecimo principatus Tiberiani proponit eum descendisse in civitatem Galilaeae Capharnaum\" — the date and the descent to Capernaum stated as one sentence."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "The witnesses join the date of 3:1 directly to the descent to Capernaum (4:31): Tertullian 4.7.1 in one sentence; Irenaeus, Haer. 1.27.2 and Hippolytus, Haer. 7.31 likewise open with the descent. The sequence leaves no room for John's preaching. Roth classes 3:2–20 as unattested; the difference is recorded."
+    },
+    {
+      "ref": "3:21–22",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.4–5 (Holl 107–108)",
+          "evidence": "The text began »ἐν τῷ πεντεκαιδεκάτῳ ἔτει Τιβερίου Καίσαρος« καὶ τὰ ἑξῆς; 1:1–2:52, the baptism (3:21–22) and the genealogy (3:23–38) were not in it."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius, Pan. 42.11.4: τὰ τῆς τοῦ βαπτίσματος ὑποθέσεως not in the text."
+    },
+    {
+      "ref": "3:23–38",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.4–5 (Holl 107–108)",
+          "evidence": "The text began »ἐν τῷ πεντεκαιδεκάτῳ ἔτει Τιβερίου Καίσαρος« καὶ τὰ ἑξῆς; 1:1–2:52, the baptism (3:21–22) and the genealogy (3:23–38) were not in it."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius, Pan. 42.11.4: the genealogy not in the text."
+    }
+  ]
+}

@@ -6,6 +6,8 @@ These questions relate to a scholarly reconstruction of the hypothetical "Proto-
 
 ## Question 1: Chapter 2 Preamble - Chronological Contradiction ✅ RESOLVED
 
+> **Audit update (2026-10, batch 1).** The order Capernaum → Nazareth is kept: it follows Tertullian's sequence (*Marc.* 4.7, then 4.8.2–3, then 4.8.4–10), and 4:23 presupposes it. The statement that canonical Luke's order "proves" the direction of change is withdrawn; the audit records the attested order and leaves the direction open (`docs/audit/METHOD.md` §10). The Capernaum and Nazareth material now stands together in chapter 1; see `data/apparatus/luke_04.json`.
+
 **Resolution:** The preamble has been corrected. The Additional Explanation was correct: Capernaum precedes Nazareth in the Proto-Luke reconstruction.
 
 **Scholarly Basis:** The canonical Lukan order (Nazareth → Capernaum) represents secondary "thematic front-loading" that created **editorial fatigue**. In Luke 4:23, while in Nazareth, Jesus references "whatever we heard happened in Capernaum"—yet in canonical order he hasn't visited Capernaum yet. This proves the Capernaum events were originally prerequisite to the Nazareth confrontation.
@@ -15,6 +17,8 @@ These questions relate to a scholarly reconstruction of the hypothetical "Proto-
 ---
 
 ## Question 2: Chapter 1 to Chapter 2 Transition Gap ✅ RESOLVED
+
+> **Audit update (2026-10, batch 1). Partly superseded.** The Nazareth visit (4:16–30) is not absent: Tertullian attests 4:16, 4:23 and 4:29–30 (*Marc.* 4.8.2–3), and they are printed in chapter 1. What is absent is 3:2–4:15 (by the 3:1 → 4:31 junction, Epiphanius *Pan.* 42.11.4–5 and Tertullian 4.7.1), and within Nazareth 4:17–22 and 4:25–26 (unattested, probably absent; 4:27 stands at 17:14). The "vertical Christology" and "pneumatic descent" readings of κατῆλθεν are Marcion's reception of the text (Tertullian 4.7.1, "de caelo"), not its wording; the reasons given above for the absences state motives the witnesses do not supply. See `data/apparatus/luke_03.json` and `luke_04.json`.
 
 **Resolution:** The gap is intentional. The material spanning Luke 3:19–4:13 (John's imprisonment, baptism, genealogy, temptation) and 4:16–30 (Nazareth rejection) represents the "Orthodox Wrapper"—later theological interpolations added to domesticate the primitive narrative.
 
@@ -36,6 +40,8 @@ The reconstruction of the selection of the Twelve requires clarification on seve
 
 ### Question 3a: Verse Structure - Should Luke 6:12-13 be Combined? ✅ RESOLVED
 
+> **Audit update (2026-10, batch 1).** The separate verses and the rendering "the prayer of God" are kept. The manuscript statements below (section numbers, uncial evidence) were not drawn from the editions used in the audit and are not relied on.
+
 **Resolution:** Luke 6:12 and 6:13 should remain **separate verses**. The earliest witnesses and internal logic treat the mountain prayer and selection as distinct forensic markers.
 
 **Scholarly Basis:**
@@ -53,6 +59,8 @@ The reconstruction of the selection of the Twelve requires clarification on seve
 ---
 
 ### Question 3b: Position of οὓς καὶ ἀποστόλους ὠνόμασεν ✅ RESOLVED
+
+> **Audit update (2026-10, batch 1).** The clause stands at the end of 6:13 in NA27 itself; no repositioning is involved. "Designated" is kept. The claims below about ℵ and B and about Tertullian 4.13.4 were not verified against the editions and are not relied on.
 
 **Resolution:** The repositioning to the end of verse 13 (before the name list) is **firmly supported** by the primary uncial witnesses.
 
@@ -73,6 +81,8 @@ The Messenger first selects the group → then confers the official rank (emissa
 ---
 
 ### Question 3c: The Name List (Luke 6:14-16) - Was it in Proto-Luke? ✅ RESOLVED
+
+> **Audit update (2026-10, batch 1). Superseded.** 6:14 and 6:16 are attested (Tertullian *Marc.* 4.13.6; Epiphanius *Pan.* 42.11.6, sch. 4) and are printed whole; 6:15 is unattested inside an attested list and is printed flagged `attestation: "unattested"` (grey in the PDF), not as ellipses. Ἰσκαριώθ is the NA27 text; it is not a Western or Marcionite reading (NA27 cites Marcion for Ἰσκαριώτην on Holl's emended text of Epiphanius). See `data/apparatus/luke_06.json`.
 
 **Resolution:** The full twelve-name list should be **abbreviated** with ellipses to indicate the forensic gap. Only names explicitly attested in the Marcionite layer are preserved.
 
