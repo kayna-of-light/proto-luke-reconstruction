@@ -1,0 +1,647 @@
+{
+  "luke_chapter": 8,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "8:1",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Opens the attested passage 8:1–3.",
+      "reconstruction": "chapter 5, verse 1"
+    },
+    {
+      "ref": "8:2",
+      "class": "A+",
+      "roth": "present (Marc. 4.19.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.19.1",
+          "evidence": "\"Quod divites Christo mulieres adhaerebant…\""
+        }
+      ],
+      "wording": "NA27. Only the women are attested; the names in 8:2–3 are not cited, apart from the wife of Herod's steward.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 2"
+    },
+    {
+      "ref": "8:3",
+      "class": "A+",
+      "roth": "present (Marc. 4.19.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.19.1",
+          "evidence": "\"mulieres… quae et de facultatibus suis ministrabant ei, inter quas et uxor regis procuratoris\"."
+        }
+      ],
+      "wording": "NA27 (αὐτοῖς). Tertullian has \"ministrabant ei\" (αὐτῷ, the reading of ℵ A L Ψ and others); Roth rates it possible. Noted, not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 3"
+    },
+    {
+      "ref": "8:4",
+      "class": "A+",
+      "roth": "present (Marc. 4.19.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.19.2",
+          "evidence": "\"Aeque de parabolis…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 4"
+    },
+    {
+      "ref": "8:5",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:4–8.",
+      "reconstruction": "chapter 5, verse 5"
+    },
+    {
+      "ref": "8:6",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:4–8.",
+      "reconstruction": "chapter 5, verse 6"
+    },
+    {
+      "ref": "8:7",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:4–8.",
+      "reconstruction": "chapter 5, verse 7"
+    },
+    {
+      "ref": "8:8",
+      "class": "A+",
+      "roth": "present (Marc. 4.19.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.19.2",
+          "evidence": "\"dedit Christo frequenter inculcare, Qui habet aures audiat\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 8"
+    },
+    {
+      "ref": "8:9–10",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.19.2",
+          "evidence": "\"illa quoque pronuntiatio eius ad populum, Aure audietis et non audietis, dedit Christo frequenter inculcare, Qui habet aures audiat\" — he cites Isaiah 6:9 himself."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "In 8:10 Jesus applies Isaiah 6:9 to those outside. Tertullian's argument at this point is that the Creator's prophet foretold this way of speaking; he quotes Isaiah 6:9 himself and links it only to \"whoever has ears, let him hear\" (8:8). A saying in which Jesus quotes the Creator's prophet would have been his strongest evidence, and he does not cite it. NA27 begins a new paragraph at 8:9."
+    },
+    {
+      "ref": "8:11–15",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The explanation of the sower forms its own NA27 paragraph (8:9–15) with no attested verse (METHOD §4.3)."
+    },
+    {
+      "ref": "8:16",
+      "class": "A+",
+      "roth": "present (Marc. 4.19.5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.19.5",
+          "evidence": "\"cum lucernam negat abscondi solere\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 9"
+    },
+    {
+      "ref": "8:17",
+      "class": "A+",
+      "roth": "present (Marc. 4.19.5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.19.5",
+          "evidence": "\"qui de occulto in apertum repromittit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 10"
+    },
+    {
+      "ref": "8:18",
+      "class": "A+",
+      "roth": "present (Marc. 4.19.3–4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.19.3–4",
+          "evidence": "\"Videte quomodo audiatis… Ei qui habet dabitur, ab eo autem qui non habet etiam quod habere se putat auferetur ei.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 11"
+    },
+    {
+      "ref": "8:19",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 12",
+          "evidence": "οὐκ εἶχεν »ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ αὐτοῦ«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text did not have the narrative sentence \"his mother and his brothers came\", only the report to Jesus in 8:20. Tertullian passes over it (Roth: tacitus)."
+    },
+    {
+      "ref": "8:20",
+      "class": "A+",
+      "roth": "present (Marc. 4.19.7; Pan. 42.11.6, sch. 12; Ephrem)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 12",
+          "evidence": "οὐκ εἶχεν »ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ αὐτοῦ«, ἀλλὰ μόνον »ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.19.7",
+          "evidence": "\"non potuisse illi annuntiari quod mater et fratres eius foris starent quaerentes videre eum\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 12"
+    },
+    {
+      "ref": "8:21",
+      "class": "A+",
+      "roth": "present (Marc. 4.19.6, 10, 11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.19.6",
+          "evidence": "\"Quae mihi mater, et qui mihi fratres?\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.19.11",
+          "evidence": "\"cum praemisisset, Quae mihi mater et qui mihi fratres? subiungens, Nisi qui audiunt verba mea et faciunt ea\"."
+        }
+      ],
+      "wording": "Marcionite form printed (retroversion; Roth's Greek): a question, and \"my words\" for \"the word of God\". Tertullian quotes it twice, and his Latin cannot render NA27's statement \"My mother and my brothers are those who hear the word of God and do it\". Roth rates the question and \"my words\" very likely and the participles secure; the dative μοι (for \"mihi\") and εἰ μή are probable or possible only. The NA27 opening (ὁ δὲ ἀποκριθεὶς εἶπεν πρὸς αὐτούς) is kept.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 13"
+    },
+    {
+      "ref": "8:22",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.2–3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.20.3",
+          "evidence": "\"Nam cum transfretat…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 14"
+    },
+    {
+      "ref": "8:23",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.3; Pan. 42.11.6, sch. 13)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 13",
+          "evidence": "»πλεόντων αὐτῶν ἀφύπνωσεν…«"
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 15"
+    },
+    {
+      "ref": "8:24",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.3; Pan. 42.11.6, sch. 13)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 13",
+          "evidence": "»ὁ δὲ ἐγερθεὶς ἐπετίμησε τῷ ἀνέμῳ καὶ τῇ θαλάσσῃ«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.20.3",
+          "evidence": "\"Cum ad minas eius eliditur mare… Comminans, inquit, mari\"."
+        }
+      ],
+      "wording": "NA27. Epiphanius has ἐγερθείς and \"the sea\" (τῇ θαλάσσῃ) for \"the raging of the water\"; Tertullian too speaks of the sea, but in the words of Nahum 1:4, which he is quoting. Roth rates both possible only. Noted, not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 16"
+    },
+    {
+      "ref": "8:25",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.20.1",
+          "evidence": "\"Quis autem iste est qui et ventis et mari imperat?\""
+        }
+      ],
+      "wording": "NA27. Tertullian has \"the sea\" (mari) for \"the water\"; Roth: possible. Noted, not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 5, verse 17"
+    },
+    {
+      "ref": "8:26",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Opens the attested pericope 8:26–39.",
+      "reconstruction": "chapter 6, verse 1"
+    },
+    {
+      "ref": "8:27",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.20.4",
+          "evidence": "\"cum invenis in uno homine multitudinem daemonum\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 2"
+    },
+    {
+      "ref": "8:28",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.20.5",
+          "evidence": "\"Cuius autem dei filium Iesum legio testata est? Sine dubio cuius tormenta et abyssum noverant et timebant.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 3"
+    },
+    {
+      "ref": "8:29",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:26–39.",
+      "reconstruction": "chapter 6, verse 4"
+    },
+    {
+      "ref": "8:30",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.4; Adam. 36,20)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.20.4",
+          "evidence": "\"legionem se professam\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 5"
+    },
+    {
+      "ref": "8:31",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.20.6",
+          "evidence": "\"veniam scilicet abyssi creatoris\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 6"
+    },
+    {
+      "ref": "8:32",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.6–7)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.20.6",
+          "evidence": "\"Denique impetraverunt.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 7"
+    },
+    {
+      "ref": "8:33",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:26–39.",
+      "reconstruction": "chapter 6, verse 8"
+    },
+    {
+      "ref": "8:34",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:26–39.",
+      "reconstruction": "chapter 6, verse 9"
+    },
+    {
+      "ref": "8:35",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:26–39.",
+      "reconstruction": "chapter 6, verse 10"
+    },
+    {
+      "ref": "8:36",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:26–39.",
+      "reconstruction": "chapter 6, verse 11"
+    },
+    {
+      "ref": "8:37",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:26–39.",
+      "reconstruction": "chapter 6, verse 12"
+    },
+    {
+      "ref": "8:38",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:26–39.",
+      "reconstruction": "chapter 6, verse 13"
+    },
+    {
+      "ref": "8:39",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 8:26–39.",
+      "reconstruction": "chapter 6, verse 14"
+    },
+    {
+      "ref": "8:40",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Opens the NA27 paragraph 8:40–56, whose central part (8:42b–48) is attested; Epiphanius' \"as they were going\" presupposes the journey to Jairus' house.",
+      "reconstruction": "chapter 6, verse 15"
+    },
+    {
+      "ref": "8:41",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 8:40–56.",
+      "reconstruction": "chapter 6, verse 16"
+    },
+    {
+      "ref": "8:42",
+      "class": "A+",
+      "roth": "present for 8:42b (Pan. 42.11.6, sch. 14); 8:42a unattested",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 14",
+          "evidence": "»ἐγένετο δὲ ἐν τῷ ὑπάγειν αὐτούς, συνέπνιγον αὐτὸν οἱ ὄχλοι«."
+        }
+      ],
+      "wording": "NA27. 8:42a (the daughter) is unattested; printed within the attested verse.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 17"
+    },
+    {
+      "ref": "8:43",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.7–8; Pan. 42.11.6, sch. 14)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 14",
+          "evidence": "»καὶ γυνὴ ἁψαμένη αὐτοῦ ἰάθη τοῦ αἵματος«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.20.7",
+          "evidence": "\"Tangitur a femina quae sanguine fluitabat\"."
+        }
+      ],
+      "wording": "NA27, including its bracketed clause [ἰατροῖς προσαναλώσασα ὅλον τὸν βίον] (no witness lacks it).",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 18"
+    },
+    {
+      "ref": "8:44",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.8, 13; Pan. 42.11.6, sch. 14)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.20.13",
+          "evidence": "\"dum tangitur vestimentum eius\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 19"
+    },
+    {
+      "ref": "8:45",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.8; Pan. 42.11.6, sch. 14)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 14",
+          "evidence": "»καὶ εἶπεν ὁ κύριος· τίς μου ἥψατο;«"
+        },
+        {
+          "source": "Tertullian, Marc. 4.20.8",
+          "evidence": "\"Quis me, inquit, tetigit? Etiam excusantibus discipulis…\""
+        }
+      ],
+      "wording": "Marcionite reading adopted: τίς μου ἥψατο; for τίς ὁ ἁψάμενός μου; (Epiphanius' Greek, with Tertullian \"Quis me tetigit?\"; Roth: secure). Epiphanius' ὁ κύριος for ὁ Ἰησοῦς is rated possible; not adopted. Tertullian's \"excusantibus discipulis\" (the disciples, not Peter alone) is rated possible; noted.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 20"
+    },
+    {
+      "ref": "8:46",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.8; Pan. 42.11.6, sch. 14)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 14",
+          "evidence": "»ἥψατό μού τις. καὶ γὰρ ἔγνων δύναμιν ἐξελθοῦσαν ἀπ' ἐμοῦ«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.20.8",
+          "evidence": "\"Tetigit me aliquis… Sensi enim virtutem ex me profectam.\""
+        }
+      ],
+      "wording": "NA27. Epiphanius' καὶ γάρ and ἐξελθοῦσαν are rated possible and probable by Roth; not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 21"
+    },
+    {
+      "ref": "8:47",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 8:40–56.",
+      "reconstruction": "chapter 6, verse 22"
+    },
+    {
+      "ref": "8:48",
+      "class": "A+",
+      "roth": "present (Marc. 4.20.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.20.9",
+          "evidence": "\"cum dicit, Fides tua te salvam fecit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 23"
+    },
+    {
+      "ref": "8:49",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 8:40–56 (NA27 continues the paragraph at 8:49).",
+      "reconstruction": "chapter 6, verse 24"
+    },
+    {
+      "ref": "8:50",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 8:40–56.",
+      "reconstruction": "chapter 6, verse 25"
+    },
+    {
+      "ref": "8:51",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 8:40–56.",
+      "reconstruction": "chapter 6, verse 26"
+    },
+    {
+      "ref": "8:52",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 8:40–56.",
+      "reconstruction": "chapter 6, verse 27"
+    },
+    {
+      "ref": "8:53",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 8:40–56.",
+      "reconstruction": "chapter 6, verse 28"
+    },
+    {
+      "ref": "8:54",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 8:40–56.",
+      "reconstruction": "chapter 6, verse 29"
+    },
+    {
+      "ref": "8:55",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 8:40–56.",
+      "reconstruction": "chapter 6, verse 30"
+    },
+    {
+      "ref": "8:56",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 8:40–56.",
+      "reconstruction": "chapter 6, verse 31"
+    }
+  ]
+}

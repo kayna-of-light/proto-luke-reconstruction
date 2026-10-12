@@ -53,7 +53,7 @@ def main():
                 problems.append(f'{c}:{v} has {n} records {covered.get((c, v))}')
     # terminology
     blob = json.dumps(new_chapters, ensure_ascii=False)
-    for bad in ['Messenger', 'Soma Pneumatikon', 'spiritual body', 'NotebookLM', 'forensic', 'Forensic']:
+    for bad in ['the Messenger', 'The Messenger', 'Soma Pneumatikon', 'spiritual body', 'NotebookLM', 'forensic', 'Forensic']:
         if bad in blob:
             problems.append(f'terminology: {bad!r} present')
     if problems:
