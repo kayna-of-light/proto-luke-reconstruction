@@ -487,3 +487,118 @@ METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 alrea
   - 21:7, 21:14, 21:16, 21:32, 21:35.
 - **Unattested verses inside attested pericopes** (METHOD §4.3) are now printed in grey. Most of the parable of the money entrusted (19:12–25) and the question about Caesar (20:20–23, 26) are among them.
 - **Library:** `library_corrections.md` items 10 (21:20–22) and 11 (18:19, 18:22).
+
+## Batch 6: Luke 22:1–24:53 → chapters 20–22 (2026-10-12)
+
+### What was checked
+
+- Every verse of Luke 22–24 (179 verses; NA27 has no 23:17) has a record in `data/apparatus/luke_22.json` to `luke_24.json`.
+- **Tertullian, *Marc.* 4.40–4.43:** read in full, with 5.6.7 (Satan and Judas). **Epiphanius, scholia 60–78:** read with their elenchi, and checked on Holl's page images (pp. 116–117).
+- **Adamantius:** read at 108,27 and 198,5–21. Both are spoken by Adamantius, the orthodox speaker, and are not counted as evidence for Marcion's text.
+- **Roth:** classes, chapter 9 grades and his discussion of every reading used or rejected.
+- **NA27:** checked on the page images (pp. 232–245), apparatus included. This covers the double brackets at 22:43–44 and 23:34a and the paragraph breaks.
+- **Not checked here:** Eznik (De Deo 358, 407) and Ephrem (Comm. Diat. 21.3), known only from Roth's quotations. Verses that rest on them alone are printed as unattested (24:42–43).
+
+### Structure
+
+| Chapter | Contents | Printed | Grey (unattested) |
+|---|---|---|---|
+| 20 | Luke 22:1–15, 17–23, 31–34, 39–42, 45–48, 63–71 (22:3 without "Satan entered into") | 43 | 21 |
+| 21 | Luke 23:1–12, 18–25, 32–33, 44–46, 50–56 | 32 | 10 |
+| 22 | Luke 24:1–11, 13–23, 25–26, 28–31, 36–43, 47 | 37 | 14 |
+
+### Not printed
+
+| Verses | Class | Reason |
+|---|---|---|
+| 22:3a | A− | "Satan entered into": Tertullian 5.6.7, "in my text… but according to Marcion". |
+| 22:16 | A− | Epiph. sch. 63. |
+| 22:24–30 | U? | A paragraph with no attested verse; Epiphanius' elenchus 63 suggests he did not find 22:30. |
+| 22:35–38 | A− | Epiph. sch. 64 (the purse and the swords; "counted among the lawless"). |
+| 22:43–44 | U? | NA27 double brackets; not cited. |
+| 22:49 | U− | Depends on the absent swords (22:38) and the absent blow (22:50). |
+| 22:50–51 | A− | Epiph. sch. 67 and elenchus (the ear and its healing). |
+| 22:52–53, 22:54–62 | U? | Paragraphs with no attested verse (including Peter's denial). |
+| 23:13–16, 23:26, 23:27–31 | U? | Paragraphs with no attested verse. |
+| 23:34 | A− (34b); 34a U? | 34b, the dividing of the garments: Tertullian 4.42.4, "Marcion abstulit". Epiphanius' sch. 71 mentions it, but in a summary in Matthew's wording. 34a ("Father, forgive them"): NA27 double brackets; Ephrem only. |
+| 23:35–38, 23:39–42 | U? | Paragraphs with no attested verse. |
+| 23:43 | A− | Epiph. sch. 72 ("Today you will be with me in paradise"). |
+| 23:47–48, 23:49 | U? | Paragraphs with no attested verse. |
+| 24:12, 24:24 | U− | Peter at the tomb, and the report of it. Both witnesses follow the chapter closely, and the linen cloths would have served their argument. 24:12 is also a Western non-interpolation. |
+| 24:27, 24:32, 24:44–46 | U− | Moses, the prophets and the psalms; the opening of the scriptures. These are Tertullian's thesis, with which he ends book 4, and Epiphanius' theme in sch. 77; neither cites them. |
+| 24:33–35 | U? | A paragraph with no attested verse (including the appearance to Simon). |
+| 24:47b, 24:48–53 | U? | Nothing after 24:47 is cited (METHOD §10). "Beginning from Jerusalem" is punctuated with 24:48 in NA27. |
+
+### Marcionite readings printed
+
+| Verse | Reading | Witnesses | Agreement |
+|---|---|---|---|
+| 22:3 | without "Satan entered into" (rest of the verse put in the nominative, editorially) | Tert. 5.6.7 | — |
+| 22:4 | τὸ πῶς αὐτὸν παραδῷ αὐτοῖς | Epiph. sch. 60 (both listings) | many manuscripts (Roth) |
+| 23:2 | + "and destroying the law and the prophets"; + "and turning away the women and the children" | Epiph. sch. 69–70 | NA27: McionE (both); Old Latin e b c ff2 gat i (first), c e at 23:5 (second) |
+| 24:6 | ἠγέρθη without "he is not here, but"; ὅσα for ὡς | Epiph. sch. 76; Tert. 4.43.5 | NA27: ἠγ. McionE; ὅσα D c sys.c McionT,E |
+| 24:21 | ἐνομίζομεν (retroversion of *putabamus*) | Tert. 4.43.3–5 | Arabic and Persian Diatessaron, Ambrosiaster (Roth, citing IGNTP) |
+| 24:25 | οἷς ἐλάλησεν πρὸς ὑμᾶς for "that the prophets spoke" (retroversion) | Tert. 4.43.4; Epiph. sch. 77 (ἐλάλησα ὑμῖν) | NA27: ἐλάλησεν πρὸς ὑμᾶς McionT,A |
+| 24:39 | without "handle me and see" and "flesh and" | Tert. 4.43.6–7; Epiph. sch. 78 | NA27: McionT,E (flesh) |
+
+### NA27 corrections to SBLGNT (on the page images)
+
+- 22:7 [ἐν]; 22:18 [ὅτι]; 22:19–20 printed without SBLGNT's brackets
+- 23:2 ἑαυτόν; 23:12 αὐτούς; 23:20 αὐτοῖς; 23:50 [καί]; 23:56 full stop
+- 24:3 τοῦ κυρίου Ἰησοῦ; 24:36 καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν; 24:40 without brackets; 24:47 εἰς ἄφεσιν
+
+### Departures from Roth
+
+| Verse | Roth | Audit | Basis |
+|---|---|---|---|
+| 24:6 | "he is not here" unattested | absent | Epiphanius' citation habit. His own citations read "ἀνέστη, οὐκ ἔστιν ὧδε" (elenchus 76; Pan. 56.2.8). In the scholion he writes Luke's ἠγέρθη alone, a verb he does not otherwise use for it, in an unbroken quotation from 24:5. NA27 also cites McionE for ἠγ. alone. |
+| 24:21 | ἐνομίζομεν possible | printed | *Putabamus* cannot render "hoped", and Tertullian builds 4.43.4–5 on what the disciples "thought" (five times). |
+| 24:25 | final element uncertain | ἐλάλησεν πρὸς ὑμᾶς | Both witnesses lack "the prophets", so the NA27 wording is attested absent and a reading has to be printed. Tertullian's third person is the earliest. Epiphanius' own elenchus shows that the first person makes the recognition at the breaking of bread incoherent. |
+| 24:39 | omissions "may not have been present" | absent | "Flesh": both witnesses lack it, and Epiphanius' own citations of the verse have it. "Handle me": Tertullian quotes continuously while arguing for the reality of the body, and speaks only of hands and feet offered for inspection. |
+| 22:49; 24:12, 24, 27, 32, 44–46 | unattested | U− | As in "Not printed". |
+| 22:17; 23:46–53 (Adamantius) | possibly attested | not counted | The Dialogue's words are the orthodox speaker's. |
+
+### Not adopted, against the working document's §5
+
+- **24:37 φάντασμα.** *Phantasma* is Tertullian's standing word for the Marcionite Christ (4.40.3; 4.42.7–8; 4.43.8), so his use of it does not show the wording. Roth: possible only; NA27 cites D alone.
+- **24:4 λαμπρᾷ.** It occurs only in Epiphanius' summary introduction to sch. 76 (Roth).
+- **24:7 without "into the hands of sinful men", and 24:3 without "of the Lord Jesus".** The witnesses are silent, and the words would not have served their arguments. Silence is not attested absence; NA27 is printed.
+- **24:9 "to the disciples".** Tertullian does not name the recipients.
+- **24:36 "Peace to you" and 24:40.** Western non-interpolations; NA27 prints them. A Western omission does not remove words from this text (METHOD §1, Western witnesses). They are printed in grey.
+
+### Weaker attestations, recorded as such
+
+- **24:42–43 (the fish).** Roth classes them present on Eznik alone. They are printed in grey, since Eznik was not checked here. Tertullian's "he asked for food to show that he had teeth" (24:41) is attested.
+- **24:19b ("a prophet mighty in deed and word").** Unattested, inside the attested verse 24:19. The library's *A Prophet Mighty in Deed and Word* takes its title from it (working document §10.3).
+- **Not adopted (Roth "probable"/"possible", or one witness):**
+  - 22:8, Epiphanius' wording;
+  - 22:14, "the twelve apostles" (NA27: McionE);
+  - 22:47, καταφιλῆσαι;
+  - 22:64, "striking";
+  - 22:67, D's question form;
+  - 23:3, "Are you the Christ?";
+  - 23:45, "the sun was darkened" (NA27: McionEvid);
+  - 23:56, "according to the law".
+
+### Corrections to the previous text
+
+- **Printed though attested absent:** 23:43 ("Today… paradise", Epiph. sch. 72). It is removed.
+- **Printed though not part of this text.** These are removed:
+  - unattested paragraphs: 22:24–30, 22:52–53, 23:13–16, 23:26, 23:35–42;
+  - probably absent: 24:32, 24:44–45;
+  - after the last attested verse: 24:48, 24:51–53.
+- **Omitted though attested.** These are printed:
+  - 22:3 (in part), 22:20, 22:71;
+  - 23:22–23, 23:55–56;
+  - 24:18, 24:21, 24:25–26, 24:41.
+  - 22:20 had been omitted as a Western non-interpolation, although Tertullian attests it.
+- **24:6.** The previous text lacked "he has been raised", which is attested, and printed "how" for the attested "all that".
+- **Wording the witnesses do not support:**
+  - 22:7–8, Epiphanius' paraphrase;
+  - 22:14, "the twelve" without "apostles";
+  - 22:47, καταφιλῆσαι;
+  - 23:3, "Christ";
+  - 24:19, Ναζωραίου (NA27 Ναζαρηνοῦ);
+  - 23:2, only one of the two attested additions.
+  - NA27 is printed, or the attested reading where one is adopted.
+- **Library:** `library_corrections.md` items 12 (22:19–20 and the Western non-interpolations), 13 (24:39–43) and 14 (24:6).

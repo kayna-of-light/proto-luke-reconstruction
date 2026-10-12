@@ -4882,825 +4882,872 @@
     {
       "chapter": 20,
       "title": "Proto-Luke Chapter 20",
-      "preamble": "The Passover meal. Jesus gathers with the twelve, knowing that his hour has come. 'With desire I have desired to eat this Passover with you before I suffer.' He takes bread, gives thanks, breaks it: 'This is my body.' He takes the cup: 'Divide it among yourselves.' A dispute arises about who is the greatest; Jesus answers that the greatest must become like the youngest, and the leader like the one who serves. Peter is warned: the Adversary has demanded to sift him like wheat, but Jesus has prayed that his faith will not fail. On the Mount of Olives, Jesus prays: 'Father, if you are willing, remove this cup from me—yet not my will, but yours.' Judas arrives with a crowd. The arrest. The hour of darkness.",
+      "preamble": "The Passover, the betrayal and the council. The feast of Unleavened Bread draws near. Judas, one of the twelve, agrees with the chief priests and officers to hand Jesus over for money; in this text he is not said to be entered by Satan (Tertullian, Marc. 5.6.7). Jesus has the Passover prepared and eats it with the apostles: \"I have earnestly desired to eat this Passover with you before I suffer.\" He gives the bread as his body and the cup as the covenant in his blood (Tertullian, Marc. 4.40.3–6). He foretells Peter's denial, prays kneeling a stone's throw from the disciples, and is betrayed with a kiss. He is mocked and beaten, and before the council says that from now on the son of man will be seated at the right hand of the power of God. Epiphanius states that the text lacked the saying about not eating the Passover again until the kingdom (22:16), the purse and the swords with \"he was counted among the lawless\" (22:35–38), and the servant's ear (22:50–51).",
       "verses": [
         {
           "verse": 1,
-          "canonical_ref": "Luke 22:1-2",
-          "english": "And the feast of unleavened bread, the one called Passover, was drawing near. And the chief priests and the scribes were seeking how they might kill him; for they feared the people.",
-          "greek": "Ἤγγιζεν δὲ ἡ ἑορτὴ τῶν ἀζύμων ἡ λεγομένη πάσχα. καὶ ἐζήτουν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς τὸ πῶς ἀνέλωσιν αὐτόν, ἐφοβοῦντο γὰρ τὸν λαόν."
+          "canonical_ref": "Luke 22:1",
+          "english": "Now the feast of Unleavened Bread drew near, which is called the Passover.",
+          "greek": "Ἤγγιζεν δὲ ἡ ἑορτὴ τῶν ἀζύμων ἡ λεγομένη Πάσχα."
         },
         {
           "verse": 2,
-          "canonical_ref": "Luke 22:4-6",
-          "english": "And Judas went away and spoke with the commanders how he might deliver him to them. And they were glad and agreed to give him silver.",
-          "greek": "καὶ ἀπελθὼν συνελάλησεν τοῖς ἀρχιερεῦσιν καὶ στρατηγοῖς τὸ πῶς αὐτοῖς παραδῷ αὐτόν. καὶ ἐχάρησαν καὶ συνέθεντο αὐτῷ ἀργύριον δοῦναι."
+          "canonical_ref": "Luke 22:2",
+          "english": "And the chief priests and the scribes were seeking how to put him to death, for they feared the people.",
+          "greek": "καὶ ἐζήτουν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς τὸ πῶς ἀνέλωσιν αὐτόν, ἐφοβοῦντο γὰρ τὸν λαόν.",
+          "attestation": "unattested"
         },
         {
           "verse": 3,
-          "canonical_ref": "Luke 22:7-8",
-          "english": "And the day of unleavened bread came... And he sent Peter and the rest, saying, 'Go and prepare the Passover for us, that we may eat.'",
-          "greek": "καὶ εἶπεν τῷ Πέτρῳ καὶ τοῖς λοιποῖς· ἀπελθόντες ἑτοιμάσατε ἵνα φάγωμεν τὸ πάσχα."
+          "canonical_ref": "Luke 22:3",
+          "english": "Now Judas called Iscariot, who was of the number of the twelve,",
+          "greek": "Ἰούδας δὲ ὁ καλούμενος Ἰσκαριώτης, ὢν ἐκ τοῦ ἀριθμοῦ τῶν δώδεκα,"
         },
         {
           "verse": 4,
-          "canonical_ref": "Luke 22:14-15",
-          "english": "And when the hour came, he lay down, and the twelve were with him. And he said to them: 'With desire I have desired to eat this Passover with you before I suffer.'",
-          "greek": "Καὶ ὅτε ἐγένετο ἡ ὥρα, ἀνέπεσεν καὶ οἱ δώδεκα σὺν αὐτῷ. καὶ εἶπεν πρὸς αὐτούς· ἐπιθυμίᾳ ἐπεθύμησα τοῦτο τὸ πάσχα φαγεῖν μεθ' ὑμῶν πρὸ τοῦ με παθεῖν·"
+          "canonical_ref": "Luke 22:4",
+          "english": "went away and conferred with the chief priests and officers how he might hand him over to them.",
+          "greek": "καὶ ἀπελθὼν συνελάλησεν τοῖς ἀρχιερεῦσιν καὶ στρατηγοῖς τὸ πῶς αὐτὸν παραδῷ αὐτοῖς."
         },
         {
           "verse": 5,
-          "canonical_ref": "Luke 22:17-18",
-          "english": "And receiving a cup, having given thanks, he said: 'Take this and divide it among yourselves. For I say to you, I will not drink from the fruit of the vine until the kingdom of God comes.'",
-          "greek": "καὶ δεξάμενος ποτήριον εὐχαριστήσας εἶπεν· λάβετε τοῦτο καὶ διαμερίσατε εἰς ἑαυτούς· λέγω γὰρ ὑμῖν, οὐ μὴ πίω ἀπὸ τοῦ γενήματος τῆς ἀμπέλου ἕως οὗ ἡ βασιλεία τοῦ θεοῦ ἔλθῃ."
+          "canonical_ref": "Luke 22:5",
+          "english": "And they were glad, and agreed to give him money.",
+          "greek": "καὶ ἐχάρησαν καὶ συνέθεντο αὐτῷ ἀργύριον δοῦναι."
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 22:19a",
-          "english": "And taking bread, having given thanks, he broke it and gave it to them, saying: 'This is my body.'",
-          "greek": "καὶ λαβὼν ἄρτον εὐχαριστήσας ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων· τοῦτό ἐστιν τὸ σῶμά μου."
+          "canonical_ref": "Luke 22:6",
+          "english": "So he consented and sought an opportunity to hand him over to them in the absence of a crowd.",
+          "greek": "καὶ ἐξωμολόγησεν, καὶ ἐζήτει εὐκαιρίαν τοῦ παραδοῦναι αὐτὸν ἄτερ ὄχλου αὐτοῖς.",
+          "attestation": "unattested"
         },
         {
           "verse": 7,
-          "canonical_ref": "Luke 22:21-22",
-          "english": "But behold, the hand of the one delivering me up is with mine on the table. For the son of man goes... but woe to that man through whom he is delivered up.",
-          "greek": "πλὴν ἰδοὺ ἡ χεὶρ τοῦ παραδιδόντος με μετ᾿ ἐμοῦ ἐπὶ τῆς τραπέζης. οὐαὶ δὲ τῷ ἀνθρώπῳ ἐκείνῳ δι᾿ οὗ παραδίδοται ὁ υἱὸς τοῦ ἀνθρώπου."
+          "canonical_ref": "Luke 22:7",
+          "english": "Then came the day of Unleavened Bread, on which the Passover lamb had to be sacrificed.",
+          "greek": "Ἦλθεν δὲ ἡ ἡμέρα τῶν ἀζύμων, ἐν ᾗ ἔδει θύεσθαι τὸ πάσχα·",
+          "attestation": "unattested"
         },
         {
           "verse": 8,
-          "canonical_ref": "Luke 22:24-27",
-          "english": "There arose also a dispute among them, as to which of them was thought to be greatest. But he said to them: 'The kings of the nations exercise authority over them, and those exercising authority over them are called benefactors. But you are not so; instead, let the greatest among you become as the younger, and the leader as the one who serves. For who is greater, the one reclining or the one who serves? Is it not the one reclining? But I am in your midst as the one who serves.'",
-          "greek": "Ἐγένετο δὲ καὶ φιλονεικία ἐν αὐτοῖς, τὸ τίς αὐτῶν δοκεῖ εἶναι μείζων. ὁ δὲ εἶπεν αὐτοῖς· οἱ βασιλεῖς τῶν ἐθνῶν κυριεύουσιν αὐτῶν καὶ οἱ ἐξουσιάζοντες αὐτῶν εὐεργέται καλοῦνται. ὑμεῖς δὲ οὐχ οὕτως, ἀλλ᾽ ὁ μείζων ἐν ὑμῖν γινέσθω ὡς ὁ νεώτερος, καὶ ὁ ἡγούμενος ὡς ὁ διακονῶν. τίς γὰρ μείζων, ὁ ἀνακείμενος ἢ ὁ διακονῶν; οὐχὶ ὁ ἀνακείμενος; ἐγὼ δὲ ἐν μέσῳ ὑμῶν εἰμι ὡς ὁ διακονῶν."
+          "canonical_ref": "Luke 22:8",
+          "english": "So he sent Peter and John, saying, \"Go and prepare the Passover for us, that we may eat it.\"",
+          "greek": "καὶ ἀπέστειλεν Πέτρον καὶ Ἰωάννην εἰπών· Πορευθέντες ἑτοιμάσατε ἡμῖν τὸ πάσχα ἵνα φάγωμεν."
         },
         {
           "verse": 9,
-          "canonical_ref": "Luke 22:28-30",
-          "english": "You are those who have remained with me in my trials. And I assign to you, as my Father assigned to me, a kingdom, that you may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.",
-          "greek": "ὑμεῖς δέ ἐστε οἱ διαμεμενηκότες μετ᾿ ἐμοῦ ἐν τοῖς πειρασμοῖς μου· κἀγὼ διατίθεμαι ὑμῖν καθὼς διέθετό μοι ὁ πατήρ μου βασιλείαν, ἵνα ἔσθητε καὶ πίνητε ἐπὶ τῆς τραπέζης μου ἐν τῇ βασιλείᾳ μου, καὶ καθήσεσθε ἐπὶ θρόνων τὰς δώδεκα φυλὰς κρίνοντες τοῦ Ἰσραήλ."
+          "canonical_ref": "Luke 22:9",
+          "english": "They said to him, \"Where will you have us prepare it?\"",
+          "greek": "οἱ δὲ εἶπαν αὐτῷ· Ποῦ θέλεις ἑτοιμάσωμεν;",
+          "attestation": "unattested"
         },
         {
           "verse": 10,
-          "canonical_ref": "Luke 22:31-34",
-          "english": "Simon, Simon, behold, the Adversary has demanded to sift you like wheat. But I have prayed for you that your faith may not fail; and you, when you have turned back, strengthen your brothers. But he said to him: 'Lord, I am ready to go with you both to prison and to death.' But he said: 'I say to you, Peter, a cock will not crow today until you have three times denied that you know me.'",
-          "greek": "Σίμων Σίμων, ἰδοὺ ὁ σατανᾶς ἐξῃτήσατο ὑμᾶς τοῦ σινιάσαι ὡς τὸν σῖτον· ἐγὼ δὲ ἐδεήθην περὶ σοῦ ἵνα μὴ ἐκλίπῃ ἡ πίστις σου· καὶ σύ ποτε ἐπιστρέψας στήρισον τοὺς ἀδελφούς σου. ὁ δὲ εἶπεν· λέγω σοι, Πέτρε, οὐ φωνήσει σήμερον ἀλέκτωρ ἕως τρίς με ἀπαρνήσῃ εἰδέναι."
+          "canonical_ref": "Luke 22:10",
+          "english": "He said to them, \"Look, when you have entered the city, a man carrying a jar of water will meet you. Follow him into the house that he enters,",
+          "greek": "ὁ δὲ εἶπεν αὐτοῖς· Ἰδοὺ εἰσελθόντων ὑμῶν εἰς τὴν πόλιν συναντήσει ὑμῖν ἄνθρωπος κεράμιον ὕδατος βαστάζων· ἀκολουθήσατε αὐτῷ εἰς τὴν οἰκίαν εἰς ἣν εἰσπορεύεται.",
+          "attestation": "unattested"
         },
         {
           "verse": 11,
-          "canonical_ref": "Luke 22:39-42",
-          "english": "And going out, he went according to custom to the Mount of Olives; and the disciples also followed him. And coming to the place, he said to them: 'Pray not to enter into temptation.' And he was withdrawn from them about a stone's throw, and placing his knees, he prayed, saying: 'Father, if you are willing, remove this cup from me; yet not my will, but yours be done.'",
-          "greek": "καὶ αὐτὸς ἀπεσπάσθη ἀπ᾿ αὐτῶν ὡσεὶ λίθου βολὴν καὶ θεὶς τὰ γόνατα προσηύχετο λέγων· πάτερ, εἰ βούλει παρένεγκε τοῦτο τὸ ποτήριον ἀπ᾿ ἐμοῦ· πλὴν μὴ τὸ θέλημά μου ἀλλὰ τὸ σὸν γινέσθω."
+          "canonical_ref": "Luke 22:11",
+          "english": "and tell the master of the house, \"The Teacher says to you, Where is the guest room, where I may eat the Passover with my disciples?\"",
+          "greek": "καὶ ἐρεῖτε τῷ οἰκοδεσπότῃ τῆς οἰκίας· Λέγει σοι ὁ διδάσκαλος· Ποῦ ἐστιν τὸ κατάλυμα ὅπου τὸ πάσχα μετὰ τῶν μαθητῶν μου φάγω;",
+          "attestation": "unattested"
         },
         {
           "verse": 12,
-          "canonical_ref": "Luke 22:45-46",
-          "english": "And rising from the prayer, coming to the disciples, he found them sleeping from the sorrow, and said to them: 'Why do you sleep? Rise and pray, that you may not enter into temptation.'",
-          "greek": "καὶ ἀναστὰς ἀπὸ τῆς προσευχῆς, ἐλθὼν πρὸς τοὺς μαθητὰς εὗρεν κοιμωμένους αὐτοὺς ἀπὸ τῆς λύπης, καὶ εἶπεν αὐτοῖς· τί καθεύδετε; ἀναστάντες προσεύχεσθε, ἵνα μὴ εἰσέλθητε εἰς πειρασμόν."
+          "canonical_ref": "Luke 22:12",
+          "english": "And he will show you a large upper room furnished; prepare it there.\"",
+          "greek": "κἀκεῖνος ὑμῖν δείξει ἀνάγαιον μέγα ἐστρωμένον· ἐκεῖ ἑτοιμάσατε.",
+          "attestation": "unattested"
         },
         {
           "verse": 13,
-          "canonical_ref": "Luke 22:47-48",
-          "english": "While he was still speaking, behold a crowd, and the one called Judas, one of the twelve, was going before them and drew near to Jesus to kiss him. But Jesus said to him: 'Judas, do you deliver up the son of man with a kiss?'",
-          "greek": "ἔτι αὐτοῦ λαλοῦντος ἰδοὺ ὄχλος, καὶ ὁ λεγόμενος Ἰούδας, εἷς τῶν δώδεκα, προήρχετο αὐτοὺς καὶ ἤγγισεν τῷ Ἰησοῦ καταφιλῆσαι αὐτόν. Ἰησοῦς δὲ εἶπεν αὐτῷ· Ἰούδα, φιλήματι τὸν υἱὸν τοῦ ἀνθρώπου παραδίδως;"
+          "canonical_ref": "Luke 22:13",
+          "english": "And they went and found it just as he had told them, and they prepared the Passover.",
+          "greek": "ἀπελθόντες δὲ εὗρον καθὼς εἰρήκει αὐτοῖς, καὶ ἡτοίμασαν τὸ πάσχα.",
+          "attestation": "unattested"
         },
         {
           "verse": 14,
-          "canonical_ref": "Luke 22:52-53",
-          "english": "Then Jesus said to the chief priests and commanders of the temple and elders who had come out against him: 'Have you come out as against a robber with swords and clubs? While I was with you daily in the temple, you did not stretch out your hands against me; but this is your hour and the authority of darkness.'",
-          "greek": "εἶπεν δὲ Ἰησοῦς πρὸς τοὺς παραγενομένους ἐπ᾿ αὐτὸν ἀρχιερεῖς καὶ στρατηγοὺς τοῦ ἱεροῦ καὶ πρεσβυτέρους· ὡς ἐπὶ λῃστὴν ἐξήλθατε μετὰ μαχαιρῶν καὶ ξύλων; καθ᾿ ἡμέραν ὄντος μου μεθ᾿ ὑμῶν ἐν τῷ ἱερῷ οὐκ ἐξετείνατε τὰς χεῖρας ἐπ᾿ ἐμέ, ἀλλ᾿ αὕτη ἐστὶν ὑμῶν ἡ ὥρα καὶ ἡ ἐξουσία τοῦ σκότους."
+          "canonical_ref": "Luke 22:14",
+          "english": "And when the hour came, he reclined at table, and the apostles with him.",
+          "greek": "Καὶ ὅτε ἐγένετο ἡ ὥρα, ἀνέπεσεν καὶ οἱ ἀπόστολοι σὺν αὐτῷ."
         },
         {
           "verse": 15,
-          "canonical_ref": "Luke 22:63-65",
-          "english": "And the men who were holding him were mocking him, beating him. And having blindfolded him, they were asking, saying: 'Prophesy! Who is the one who struck you?'",
-          "greek": "Καὶ οἱ ἄνδρες οἱ συνέχοντες αὐτὸν ἐνέπαιζον αὐτῷ δέροντες, καὶ περικαλύψαντες αὐτὸν ἐπηρώτων λέγοντες· προφήτευσον, τίς ἐστιν ὁ παίσας σε;"
+          "canonical_ref": "Luke 22:15",
+          "english": "And he said to them, \"I have earnestly desired to eat this Passover with you before I suffer.",
+          "greek": "καὶ εἶπεν πρὸς αὐτούς· Ἐπιθυμίᾳ ἐπεθύμησα τοῦτο τὸ πάσχα φαγεῖν μεθ’ ὑμῶν πρὸ τοῦ με παθεῖν·"
         },
         {
           "verse": 16,
-          "canonical_ref": "Luke 22:66-67",
-          "english": "And as it became day, the assembly of the elders of the people was gathered... and they led him away into their council, saying: 'If you are the Christ, tell us.' But he said to them: 'If I tell you, you will not believe.'",
-          "greek": "Καὶ ὡς ἐγένετο ἡμέρα, συνήχθη τὸ πρεσβυτέριον τοῦ λαοῦ, ἀρχιερεῖς τε καὶ γραμματεῖς, καὶ ἀπήγαγον αὐτὸν εἰς τὸ συνέδριον αὐτῶν λέγοντες· εἰ σὺ εἶ ὁ χριστός, εἰπὸν ἡμῖν. εἶπεν δὲ αὐτοῖς· ἐὰν ὑμῖν εἴπω, οὐ μὴ πιστεύσητε."
+          "canonical_ref": "Luke 22:17",
+          "english": "And he took a cup, and when he had given thanks he said, \"Take this, and divide it among yourselves.",
+          "greek": "καὶ δεξάμενος ποτήριον εὐχαριστήσας εἶπεν· Λάβετε τοῦτο καὶ διαμερίσατε εἰς ἑαυτούς·",
+          "attestation": "unattested"
         },
         {
           "verse": 17,
-          "canonical_ref": "Luke 22:69",
-          "english": "But from now on the son of man shall be seated at the right hand of the power of God.",
-          "greek": "ἀπὸ τοῦ νῦν δὲ ἔσται ὁ υἱὸς τοῦ ἀνθρώπου καθήμενος ἐκ δεξιῶν τῆς δυνάμεως τοῦ θεοῦ."
+          "canonical_ref": "Luke 22:18",
+          "english": "For I tell you that from now on I shall not drink of the fruit of the vine until the kingdom of God comes.\"",
+          "greek": "λέγω γὰρ ὑμῖν, ὅτι οὐ μὴ πίω ἀπὸ τοῦ νῦν ἀπὸ τοῦ γενήματος τῆς ἀμπέλου ἕως οὗ ἡ βασιλεία τοῦ θεοῦ ἔλθῃ.",
+          "attestation": "unattested"
         },
         {
           "verse": 18,
+          "canonical_ref": "Luke 22:19",
+          "english": "And he took bread, and when he had given thanks, he broke it and gave it to them, saying, \"This is my body, which is given for you. Do this in remembrance of me.\"",
+          "greek": "καὶ λαβὼν ἄρτον εὐχαριστήσας ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων· Τοῦτό ἐστιν τὸ σῶμά μου τὸ ὑπὲρ ὑμῶν διδόμενον· τοῦτο ποιεῖτε εἰς τὴν ἐμὴν ἀνάμνησιν."
+        },
+        {
+          "verse": 19,
+          "canonical_ref": "Luke 22:20",
+          "english": "And likewise the cup after they had eaten, saying, \"This cup is the new covenant in my blood, which is poured out for you.",
+          "greek": "καὶ τὸ ποτήριον ὡσαύτως μετὰ τὸ δειπνῆσαι, λέγων· Τοῦτο τὸ ποτήριον ἡ καινὴ διαθήκη ἐν τῷ αἵματί μου, τὸ ὑπὲρ ὑμῶν ἐκχυννόμενον."
+        },
+        {
+          "verse": 20,
+          "canonical_ref": "Luke 22:21",
+          "english": "But see, the hand of him who betrays me is with me on the table.",
+          "greek": "πλὴν ἰδοὺ ἡ χεὶρ τοῦ παραδιδόντος με μετ’ ἐμοῦ ἐπὶ τῆς τραπέζης·",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 21,
+          "canonical_ref": "Luke 22:22",
+          "english": "For the son of man goes as it has been determined, but woe to that man by whom he is betrayed!\"",
+          "greek": "ὅτι ὁ υἱὸς μὲν τοῦ ἀνθρώπου κατὰ τὸ ὡρισμένον πορεύεται, πλὴν οὐαὶ τῷ ἀνθρώπῳ ἐκείνῳ δι’ οὗ παραδίδοται."
+        },
+        {
+          "verse": 22,
+          "canonical_ref": "Luke 22:23",
+          "english": "And they began to question one another, which of them it could be who was going to do this.",
+          "greek": "καὶ αὐτοὶ ἤρξαντο συζητεῖν πρὸς ἑαυτοὺς τὸ τίς ἄρα εἴη ἐξ αὐτῶν ὁ τοῦτο μέλλων πράσσειν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 23,
+          "canonical_ref": "Luke 22:31",
+          "english": "\"Simon, Simon, look, Satan has demanded to have you, that he might sift you like wheat,",
+          "greek": "Σίμων Σίμων, ἰδοὺ ὁ Σατανᾶς ἐξῃτήσατο ὑμᾶς τοῦ σινιάσαι ὡς τὸν σῖτον·",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 24,
+          "canonical_ref": "Luke 22:32",
+          "english": "but I have prayed for you that your faith may not fail. And when you have turned again, strengthen your brothers.\"",
+          "greek": "ἐγὼ δὲ ἐδεήθην περὶ σοῦ ἵνα μὴ ἐκλίπῃ ἡ πίστις σου· καὶ σύ ποτε ἐπιστρέψας στήρισον τοὺς ἀδελφούς σου.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 22:33",
+          "english": "Peter said to him, \"Lord, I am ready to go with you both to prison and to death.\"",
+          "greek": "ὁ δὲ εἶπεν αὐτῷ· Κύριε, μετὰ σοῦ ἕτοιμός εἰμι καὶ εἰς φυλακὴν καὶ εἰς θάνατον πορεύεσθαι."
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 22:34",
+          "english": "Jesus said, \"I tell you, Peter, the cock will not crow this day until you deny three times that you know me.\"",
+          "greek": "ὁ δὲ εἶπεν· Λέγω σοι, Πέτρε, οὐ φωνήσει σήμερον ἀλέκτωρ ἕως τρίς με ἀπαρνήσῃ εἰδέναι."
+        },
+        {
+          "verse": 27,
+          "canonical_ref": "Luke 22:39",
+          "english": "And he came out and went, as was his custom, to the Mount of Olives, and the disciples followed him.",
+          "greek": "Καὶ ἐξελθὼν ἐπορεύθη κατὰ τὸ ἔθος εἰς τὸ Ὄρος τῶν Ἐλαιῶν· ἠκολούθησαν δὲ αὐτῷ καὶ οἱ μαθηταί.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 28,
+          "canonical_ref": "Luke 22:40",
+          "english": "And when he came to the place, he said to them, \"Pray that you may not enter into temptation.\"",
+          "greek": "γενόμενος δὲ ἐπὶ τοῦ τόπου εἶπεν αὐτοῖς· Προσεύχεσθε μὴ εἰσελθεῖν εἰς πειρασμόν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 29,
+          "canonical_ref": "Luke 22:41",
+          "english": "And he withdrew from them about a stone's throw, and knelt down and prayed,",
+          "greek": "καὶ αὐτὸς ἀπεσπάσθη ἀπ’ αὐτῶν ὡσεὶ λίθου βολήν, καὶ θεὶς τὰ γόνατα προσηύχετο"
+        },
+        {
+          "verse": 30,
+          "canonical_ref": "Luke 22:42",
+          "english": "saying, \"Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.\"",
+          "greek": "λέγων· Πάτερ, εἰ βούλει παρένεγκε τοῦτο τὸ ποτήριον ἀπ’ ἐμοῦ· πλὴν μὴ τὸ θέλημά μου ἀλλὰ τὸ σὸν γινέσθω.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 31,
+          "canonical_ref": "Luke 22:45",
+          "english": "And when he rose from prayer, he came to the disciples and found them sleeping for sorrow,",
+          "greek": "καὶ ἀναστὰς ἀπὸ τῆς προσευχῆς ἐλθὼν πρὸς τοὺς μαθητὰς εὗρεν κοιμωμένους αὐτοὺς ἀπὸ τῆς λύπης,",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 32,
+          "canonical_ref": "Luke 22:46",
+          "english": "and he said to them, \"Why are you sleeping? Rise and pray that you may not enter into temptation.\"",
+          "greek": "καὶ εἶπεν αὐτοῖς· Τί καθεύδετε; ἀναστάντες προσεύχεσθε, ἵνα μὴ εἰσέλθητε εἰς πειρασμόν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 33,
+          "canonical_ref": "Luke 22:47",
+          "english": "While he was still speaking, there came a crowd, and the man called Judas, one of the twelve, was leading them. He drew near to Jesus to kiss him,",
+          "greek": "Ἔτι αὐτοῦ λαλοῦντος ἰδοὺ ὄχλος, καὶ ὁ λεγόμενος Ἰούδας εἷς τῶν δώδεκα προήρχετο αὐτούς, καὶ ἤγγισεν τῷ Ἰησοῦ φιλῆσαι αὐτόν."
+        },
+        {
+          "verse": 34,
+          "canonical_ref": "Luke 22:48",
+          "english": "but Jesus said to him, \"Judas, would you betray the son of man with a kiss?\"",
+          "greek": "Ἰησοῦς δὲ εἶπεν αὐτῷ· Ἰούδα, φιλήματι τὸν υἱὸν τοῦ ἀνθρώπου παραδίδως;"
+        },
+        {
+          "verse": 35,
+          "canonical_ref": "Luke 22:63",
+          "english": "Now the men who were holding Jesus in custody were mocking him as they beat him.",
+          "greek": "Καὶ οἱ ἄνδρες οἱ συνέχοντες αὐτὸν ἐνέπαιζον αὐτῷ δέροντες,"
+        },
+        {
+          "verse": 36,
+          "canonical_ref": "Luke 22:64",
+          "english": "They also blindfolded him and kept asking him, \"Prophesy! Who is it that struck you?\"",
+          "greek": "καὶ περικαλύψαντες αὐτὸν ἐπηρώτων λέγοντες· Προφήτευσον, τίς ἐστιν ὁ παίσας σε;"
+        },
+        {
+          "verse": 37,
+          "canonical_ref": "Luke 22:65",
+          "english": "And they said many other things against him, blaspheming him.",
+          "greek": "καὶ ἕτερα πολλὰ βλασφημοῦντες ἔλεγον εἰς αὐτόν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 38,
+          "canonical_ref": "Luke 22:66",
+          "english": "When day came, the assembly of the elders of the people gathered together, both chief priests and scribes. And they led him away to their council,",
+          "greek": "Καὶ ὡς ἐγένετο ἡμέρα, συνήχθη τὸ πρεσβυτέριον τοῦ λαοῦ, ἀρχιερεῖς τε καὶ γραμματεῖς, καὶ ἀπήγαγον αὐτὸν εἰς τὸ συνέδριον αὐτῶν,"
+        },
+        {
+          "verse": 39,
+          "canonical_ref": "Luke 22:67",
+          "english": "and they said, \"If you are the Christ, tell us.\" But he said to them, \"If I tell you, you will not believe,",
+          "greek": "λέγοντες· Εἰ σὺ εἶ ὁ χριστός, εἰπὸν ἡμῖν. εἶπεν δὲ αὐτοῖς· Ἐὰν ὑμῖν εἴπω οὐ μὴ πιστεύσητε·"
+        },
+        {
+          "verse": 40,
+          "canonical_ref": "Luke 22:68",
+          "english": "and if I ask you, you will not answer.",
+          "greek": "ἐὰν δὲ ἐρωτήσω, οὐ μὴ ἀποκριθῆτε.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 41,
+          "canonical_ref": "Luke 22:69",
+          "english": "But from now on the son of man shall be seated at the right hand of the power of God.\"",
+          "greek": "ἀπὸ τοῦ νῦν δὲ ἔσται ὁ υἱὸς τοῦ ἀνθρώπου καθήμενος ἐκ δεξιῶν τῆς δυνάμεως τοῦ θεοῦ."
+        },
+        {
+          "verse": 42,
           "canonical_ref": "Luke 22:70",
-          "english": "And they all said: 'Are you then the Son of God?' And he said to them: 'You say it.'",
-          "greek": "εἶπαν δὲ πάντες· σὺ οὖν εἶ ὁ υἱὸς τοῦ θεοῦ; ὁ δὲ πρὸς αὐτοὺς ἔφη· ὑμεῖς λέγετε ὅτι ἐγώ εἰμι."
+          "english": "So they all said, \"Are you the Son of God, then?\" And he said to them, \"You say that I am.\"",
+          "greek": "εἶπαν δὲ πάντες· Σὺ οὖν εἶ ὁ υἱὸς τοῦ θεοῦ; ὁ δὲ πρὸς αὐτοὺς ἔφη· Ὑμεῖς λέγετε ὅτι ἐγώ εἰμι."
+        },
+        {
+          "verse": 43,
+          "canonical_ref": "Luke 22:71",
+          "english": "Then they said, \"What further testimony do we need? We have heard it ourselves from his own lips.\"",
+          "greek": "οἱ δὲ εἶπαν· Τί ἔτι ἔχομεν μαρτυρίας χρείαν; αὐτοὶ γὰρ ἠκούσαμεν ἀπὸ τοῦ στόματος αὐτοῦ."
         }
       ],
       "notes": [
         {
           "id": 1,
-          "term": "Unleavened bread / Passover (ἀζύμων / πάσχα)",
-          "explanation": "Dry forensic markers of the Judean festival cycle, establishing the legal timeframe of the narrative.",
-          "verse_refs": [1],
-          "category": "translation"
+          "term": "Judas without Satan (22:1–6)",
+          "verse_refs": [1, 3, 4, 5],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.40.1–2: of all the Jewish feasts Jesus chose the day of the Passover; he could have been betrayed by a stranger and without a price, but was betrayed by one who ate bread with him, and for money, as the prophets said. In book 5 (5.6.7) Tertullian writes that \"in my text\" Satan entered Judas, against what holds \"according to Marcion\". The words \"Satan entered into\" (22:3) are therefore not printed, and the rest of the verse is put in the nominative. Epiphanius quotes 22:4 (sch. 60) with the order \"how he might hand him over to them\", which is printed."
         },
         {
           "id": 2,
-          "term": "Omission of Satan entering Judas (22:3)",
-          "explanation": "The phrase 'And Satan entered into Judas' is entirely absent from this stratum. The betrayal is recorded as a clinical legal and economic transaction, not a supernatural possession.",
-          "verse_refs": [2],
-          "category": "excision"
+          "term": "The Passover meal (22:7–20)",
+          "verse_refs": [8, 14, 15, 16, 17, 18, 19],
+          "category": "textual",
+          "explanation": "Epiphanius quotes the sending of the disciples to prepare the Passover (sch. 61) and Jesus reclining with \"the twelve apostles\" (sch. 62). Both witnesses quote \"I have earnestly desired to eat this Passover with you before I suffer\" (Tertullian 4.40.1; sch. 62). Epiphanius states that \"I will not eat it until it is fulfilled in the kingdom of God\" (22:16) was not in the text (sch. 63). Tertullian (4.40.3–6) argues from the bread, \"this is my body\", and from the cup, \"establishing the covenant sealed in his blood\", that the body was real flesh. 22:17–18 are not cited and are printed in grey."
         },
         {
           "id": 3,
-          "term": "Commanders (στρατηγοῖς - stratēgois)",
-          "explanation": "Literally 'commanders'—denotes the specific military-police authority of the Temple guard rather than generic officials.",
-          "verse_refs": [2],
-          "category": "translation"
+          "term": "The long text of the Supper (22:19–20)",
+          "verse_refs": [18, 19],
+          "category": "textual",
+          "explanation": "22:19b–20 (\"which is given for you… the new covenant in my blood, which is poured out for you\") are absent from D and part of the Old Latin, and Westcott and Hort counted them among the Western non-interpolations. Tertullian's allusion to the cup and the covenant in Jesus' blood (4.40.4) shows that the text he read had at least 22:20 in some form, and his \"then he should have handed over bread for us\" points to \"given for you\". The second-century text attested here therefore stands with the long text, not with D (Roth, 259 n. 390). Both verses are printed as NA27 has them; the words the witness does not cite are noted."
         },
         {
           "id": 4,
-          "term": "Silver (ἀργύριον - argyrion)",
-          "explanation": "Highlights the economic substrate of the betrayal, consistent with the Jamesian focus on the corrupting nature of material wealth.",
-          "verse_refs": [2],
-          "category": "translation"
+          "term": "Not printed: 22:16, 22:24–30, 22:35–38",
+          "verse_refs": [15, 22, 26],
+          "category": "excision",
+          "explanation": "22:16 is absent by Epiphanius' statement (sch. 63). 22:24–30, the dispute about greatness and the twelve thrones, form a paragraph with no attested verse; Epiphanius' \"or he cut these out again\" (elenchus 63) suggests that 22:30 was not in the text. 22:35–38, the purse, the bag and the two swords with \"he was counted among the lawless\" (Isa 53:12), are absent by Epiphanius' statement (sch. 64)."
         },
         {
           "id": 5,
-          "term": "The twelve (δώδεκα - dōdeka)",
-          "explanation": "The reconstruction follows the primitive variant omitting 'apostles,' focusing on the functional unit rather than the later ecclesiastical title.",
-          "verse_refs": [4],
-          "category": "textual"
+          "term": "Gethsemane and the arrest (22:39–53)",
+          "verse_refs": [29, 33, 34],
+          "category": "textual",
+          "explanation": "Epiphanius quotes \"he withdrew from them about a stone's throw and knelt down and prayed\" (sch. 65) and argues from the kneeling that Jesus had a body. 22:43–44, the angel from heaven and the sweat like drops of blood, are printed by NA27 in double brackets as not part of its text, and no witness cites them for this text; they are not printed. Judas draws near to kiss Jesus (sch. 66), and Tertullian notes that he was to be betrayed \"with a kiss\" (4.41.2). Epiphanius states that the cutting off of the servant's ear and its healing were not in the text (sch. 67); 22:49, which asks whether to strike with the sword, depends on the absent swords (22:38) and the absent blow and is not printed. 22:52–53 and Peter's denial (22:54–62) form paragraphs with no attested verse."
         },
         {
           "id": 6,
-          "term": "Western Short Text (22:19b-20 Omitted)",
-          "explanation": "CONTESTED. The forensic reconstruction follows the Western/Marcionite layer (D, Old Latin), which omits the second cup with 'blood of the new covenant poured out for you.' However, Tertullian (Adv. Marc. 4.40.4) alludes to 'blood sealing,' suggesting conflicting witnesses. Epiphanius omits the second cup entirely. In the primitive stratum, the meal was an eschatological anticipation for the 'Poor' (Ebionim), not a Pauline mystery cult centered on vicarious atonement. The evidence is genuinely divided between witnesses.",
-          "verse_refs": [5, 6],
-          "category": "excision"
+          "term": "Mockery and council (22:63–71)",
+          "verse_refs": [35, 36, 38, 39, 41, 42, 43],
+          "category": "textual",
+          "explanation": "Epiphanius quotes the mockery, the beating and \"Prophesy, who is it that struck you?\" (sch. 68), as proof of a body that could be struck. Tertullian (4.41.3–5) follows the council: asked whether he is the Christ, Jesus answers \"if I tell you, you will not believe\"; \"from now on the son of man shall be seated at the right hand of the power of God\" (Dan 7:13; Ps 110:1); asked \"are you the Son of God?\", he answers \"you say\", which Tertullian takes as an affirmation."
         },
         {
           "id": 7,
-          "term": "Among yourselves (ἑαυτούς - heautous)",
-          "explanation": "Emphasizes the communal distribution of resources, a hallmark of the Ebionite social order.",
-          "verse_refs": [5],
-          "category": "translation"
-        },
-        {
-          "id": 8,
-          "term": "The one serving (διακονῶν - diakonōn)",
-          "explanation": "In the context of the Jamesian 'Opposition Priesthood,' this defines authority as a function of communal labor rather than institutional rank. In the Jamesian stratum, this denotes a functional role within the assembly rather than a religious office.",
-          "verse_refs": [8],
-          "category": "translation"
-        },
-        {
-          "id": 9,
-          "term": "Benefactors (εὐεργέται - euergetai)",
-          "explanation": "A specific socio-political title of the Greco-Roman world. Jesus uses it here to critique the 'Old Aeon' logic of patronage and hierarchy.",
-          "verse_refs": [8],
-          "category": "translation"
-        },
-        {
-          "id": 10,
-          "term": "Younger (νεώτερος - neōteros)",
-          "explanation": "This term emphasizes the dissolution of status based on age or biological seniority, replacing it with the pneumatic equality of the community.",
-          "verse_refs": [8],
-          "category": "translation"
-        },
-        {
-          "id": 11,
-          "term": "Crowd (ὄχλος - ochlos)",
-          "explanation": "The reconstruction specifies a 'crowd,' likely representing the temple police or administrative assistants of the elite.",
-          "verse_refs": [13],
-          "category": "translation"
-        },
-        {
-          "id": 12,
-          "term": "Deliver up (παραδίδως - paradidōs)",
-          "explanation": "'Deliver up' is used to reflect the forensic nature of the transaction. Following the excision of 22:3 (the entry of Satan), the act of Judas is presented as a clinical legal betrayal within the social order.",
-          "verse_refs": [7, 13],
-          "category": "translation"
-        },
-        {
-          "id": 13,
-          "term": "Commanders of the Temple (στρατηγοὺς τοῦ ἱεροῦ - stratēgous tou hierou)",
-          "explanation": "Specifically refers to the captains of the temple guard, identifying the arrest as an institutional Judean action.",
-          "verse_refs": [14],
-          "category": "translation"
-        },
-        {
-          "id": 14,
-          "term": "Robber (λῃστήν - lēstēn)",
-          "explanation": "The term used for an insurrectionist or social bandit, highlighting the Temple elite's attempt to categorize the movement as a political threat.",
-          "verse_refs": [14],
-          "category": "translation"
-        },
-        {
-          "id": 15,
-          "term": "The Adversary (ὁ Σατανᾶς - ho Satanas)",
-          "explanation": "Rendered as 'the Adversary' to reflect the functional role of the prosecutor in the transition between aeons. The verb ἐξῃτήσατο (exētēsato) is a forensic term meaning 'to demand for trial' or 'to claim by legal suit,' reinforcing the identity of this entity as a celestial prosecutor rather than a mythological demon.",
-          "verse_refs": [10],
-          "category": "translation"
-        },
-        {
-          "id": 16,
-          "term": "Omission of Two Swords (22:35-38)",
-          "explanation": "Its removal eliminates the later attempt to portray the disciples as armed or to justify subsequent defensive violence.",
-          "verse_refs": [],
-          "category": "excision"
-        },
-        {
-          "id": 17,
-          "term": "Omission of Bloody Sweat (22:43-44)",
-          "explanation": "The narrative of the 'angel from heaven' and the 'sweat like drops of blood' is a later interpolation (absent in P75, א, and B). Its removal restores the Jamesian Christ of stoic resolve, facing death with spiritual confidence.",
-          "verse_refs": [11],
-          "category": "excision"
-        },
-        {
-          "id": 18,
-          "term": "Sleeping from sorrow (κοιμωμένους... ἀπὸ τῆς λύπης) in 22:45",
-          "explanation": "The reconstruction includes the causal phrase 'from the sorrow,' attested in the primitive witnesses. This details the pneumatic weight on the disciples during the eschatological transition.",
-          "verse_refs": [12],
-          "category": "textual"
-        },
-        {
-          "id": 19,
-          "term": "Temptation (πειρασμόν - peirasmon) in 22:46",
-          "explanation": "In the Protograph, the focus remains on the community's internal vigilance and the clinical rejection of material anxiety during the eschatological transition.",
-          "verse_refs": [11, 12],
-          "category": "translation"
-        },
-        {
-          "id": 20,
-          "term": "Authority of darkness (ἐξουσία τοῦ σκότους)",
-          "explanation": "Denotes the legal or delegated power permitted to the old order in its final hour.",
-          "verse_refs": [14],
-          "category": "translation"
-        },
-        {
-          "id": 21,
-          "term": "Right hand of the power of God (22:69)",
-          "explanation": "The definitive Jamesian/Pauline confession of spiritual resurrection and exaltation, occurring without the need for an empty tomb.",
-          "verse_refs": [17],
-          "category": "theological"
-        },
-        {
-          "id": 22,
-          "term": "You say it (ὑμεῖς λέγετε)",
-          "explanation": "The ambiguous, non-committal response by which Jesus accepts the titles through the mouth of his accusers.",
-          "verse_refs": [18],
-          "category": "translation"
+          "term": "The betrayer and the meal",
+          "verse_refs": [3, 15, 18, 19],
+          "category": "theological",
+          "explanation": "Interpretation. Without \"Satan entered into Judas\", the betrayal in this text is the act of one of the twelve, done for money, and the \"woe\" of 22:22 falls on him; Tertullian (4.41.1) argues from that \"woe\" that the God of this Jesus judges. The meal is a Passover that Jesus has \"earnestly desired\" to eat. In the attested text he gives the bread as his body and the cup as the covenant in his blood. Which canonical words go beyond what the witness cites (\"do this in remembrance of me\", \"poured out for you\") is recorded verse by verse; the verse-level evidence does not support reading this text as a fellowship meal without the cup of the covenant."
         }
-      ],
-      "additional_explanation": {
-        "title": "The Anatomy of the Transition",
-        "content": "Chapter 20 of the Protograph provides the Anatomy of the Transition.",
-        "points": [
-          {
-            "title": "The Non-Atoning Meal",
-            "explanation": "By excising the 'Atonement' additions (vv. 19b-20), the text reveals a meal where the focus is 'divide among yourselves' (v. 17). It is a ritual of communal solidarity and a 'Kingdom Banquet' in miniature, rather than a mystery cult centered on blood sacrifice."
-          },
-          {
-            "title": "The Stoic Christ",
-            "explanation": "The removal of the 'bloody sweat' (vv. 43-44) is essential. The Jamesian Jesus does not collapse in biological terror; he undergoes a 'final separation' from earthly attachments with a resolve that models the conduct of the future martyrs of the Jerusalem church."
-          },
-          {
-            "title": "Spiritual Enthronement",
-            "explanation": "Verse 69 provides the climax of the chapter. The 'Resurrection' is presented here not as a physical return to the old life, but as an immediate transition to the 'Right Hand of Power.' The forensic reality of the cross is the mechanism by which the Son of Man enters his spiritual state."
-          }
-        ]
-      }
+      ]
     },
     {
       "chapter": 21,
       "title": "Proto-Luke Chapter 21",
-      "preamble": "The trial. Jesus is brought before the council and then to Pilate. The charges: perverting the nation, destroying the law and the prophets, forbidding tribute to Caesar, claiming to be a king. Pilate finds no fault in him, but the crowd cries out: 'Crucify him!' Barabbas is released; Jesus is handed over to their will. Simon of Cyrene carries the cross. At the place called Skull, Jesus is crucified between two criminals. One mocks him; the other asks to be remembered when Jesus comes into his kingdom. 'Today,' Jesus answers, 'you will be with me in Paradise.' Darkness covers the land. The veil of the Temple is torn. 'Father, into your hands I commend my spirit.' He breathes his last.",
+      "preamble": "Pilate, Herod and the cross. The council brings Jesus to Pilate. In this text the accusers say: \"We found this man misleading our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the children\" (Epiphanius, sch. 69–70). Pilate sends him to Herod, who is glad to see him and hears no word from him. The crowd asks for Barabbas and demands that Jesus be crucified. He is crucified at the Skull between two criminals. There is darkness at the sixth hour and the curtain of the temple is torn. Jesus cries out with a loud voice to the Father and breathes his last. Joseph, who had not consented to the council's act, takes down the body, wraps it in linen and lays it in a rock-cut tomb. The women see the tomb and rest on the Sabbath. By the witnesses' statements the text lacked the dividing of the garments (Tertullian) and \"Today you will be with me in paradise\" (Epiphanius).",
       "verses": [
         {
           "verse": 1,
           "canonical_ref": "Luke 23:1",
-          "english": "And the whole multitude of them arose and led him to Pilate.",
+          "english": "Then the whole company of them arose and brought him before Pilate.",
           "greek": "Καὶ ἀναστὰν ἅπαν τὸ πλῆθος αὐτῶν ἤγαγον αὐτὸν ἐπὶ τὸν Πιλᾶτον."
         },
         {
           "verse": 2,
           "canonical_ref": "Luke 23:2",
-          "english": "And they began to accuse him, saying: 'We found this man perverting our nation, and destroying the law and the prophets, and forbidding to give tribute to Caesar, saying that he himself is the Christ, a king.'",
-          "greek": "ἤρξαντο δὲ κατηγορεῖν αὐτοῦ λέγοντες· Τοῦτον εὕρομεν διαστρέφοντα τὸ ἔθνος ἡμῶν καὶ καταλύοντα τὸν νόμον καὶ τοὺς προφήτας καὶ κωλύοντα φόρους Καίσαρι διδόναι καὶ λέγοντα ἑαυτὸν Χριστὸν βασιλέα εἶναι."
+          "english": "And they began to accuse him, saying, \"We found this man misleading our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the children, and saying that he himself is Christ, a king.\"",
+          "greek": "ἤρξαντο δὲ κατηγορεῖν αὐτοῦ λέγοντες· Τοῦτον εὕραμεν διαστρέφοντα τὸ ἔθνος ἡμῶν καὶ καταλύοντα τὸν νόμον καὶ τοὺς προφήτας καὶ κωλύοντα φόρους Καίσαρι διδόναι καὶ ἀποστρέφοντα τὰς γυναῖκας καὶ τὰ τέκνα καὶ λέγοντα ἑαυτὸν χριστὸν βασιλέα εἶναι."
         },
         {
           "verse": 3,
           "canonical_ref": "Luke 23:3",
-          "english": "And Pilate questioned him, saying: 'Are you the Christ?' And he answering him said: 'You say it.'",
-          "greek": "ὁ δὲ Πιλᾶτος ἠρώτησεν αὐτόν λέγων· Σὺ εἶ ὁ Χριστός; ὁ δὲ ἀποκριθεὶς αὐτῷ ἔφη· Σὺ λέγεις."
+          "english": "And Pilate asked him, \"Are you the King of the Jews?\" And he answered him, \"You say so.\"",
+          "greek": "ὁ δὲ Πιλᾶτος ἠρώτησεν αὐτὸν λέγων· Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων; ὁ δὲ ἀποκριθεὶς αὐτῷ ἔφη· Σὺ λέγεις."
         },
         {
           "verse": 4,
-          "canonical_ref": "Luke 23:4-5",
-          "english": "And Pilate said to the chief priests and the crowds: 'I find nothing blameworthy in this man.' But they were insisting, saying that he stirs up the people teaching throughout all Judea, and beginning from Galilee to here.",
-          "greek": "Ὁ δὲ Πιλᾶτος εἶπεν πρὸς τοὺς ἀρχιερεῖς καὶ τοὺς ὄχλους· Οὐδὲν εὑρίσκω αἴτιον ἐν τῷ ἀνθρώπῳ τούτῳ. οἱ δὲ ἐπίσχυον λέγοντες ὅτι ἀνασείει τὸν λαὸν διδάσκων καθ᾿ ὅλης τῆς Ἰουδαίας, καὶ ἀρξάμενος ἀπὸ τῆς Γαλιλαίας ἕως ὧδε."
+          "canonical_ref": "Luke 23:4",
+          "english": "Then Pilate said to the chief priests and the crowds, \"I find no guilt in this man.\"",
+          "greek": "ὁ δὲ Πιλᾶτος εἶπεν πρὸς τοὺς ἀρχιερεῖς καὶ τοὺς ὄχλους· Οὐδὲν εὑρίσκω αἴτιον ἐν τῷ ἀνθρώπῳ τούτῳ.",
+          "attestation": "unattested"
         },
         {
           "verse": 5,
-          "canonical_ref": "Luke 23:6-12",
-          "english": "And Pilate, having heard, asked if the man was a Galilean. And knowing that he was from the jurisdiction of Herod, he sent him to Herod, who was himself in Jerusalem in those days. And Herod, seeing Jesus, was very glad, for he had for a long time desired to see him. And he questioned him in many words, but he answered him nothing. And Herod with his soldiers, having treated him with contempt and mocked him, having thrown a shining robe around him, sent him back to Pilate.",
-          "greek": "Πιλᾶτος δὲ ἀκούσας ἐπηρώτησεν εἰ ὁ ἄνθρωπος Γαλιλαῖός ἐστιν. καὶ ἐπιγνοὺς ὅτι ἐκ τῆς ἐξουσίας Ἡρῴδου ἐστὶν ἀνέπεμψεν αὐτὸν πρὸς Ἡρῴδην, ὄντα καὶ αὐτὸν ἐν Ἱεροσολύμοις ἐν ταύταις ταῖς ἡμέραις. ὁ δὲ Ἡρῴδης ἰδὼν τὸν Ἰησοῦν ἐχάρη λίαν, ἦν γὰρ ἐξ ἱκανῶν χρόνων θέλων ἰδεῖν αὐτόν. ἐπηρώτα δὲ αὐτὸν ἐν λόγοις ἱκανοῖς, αὐτὸς δὲ οὐδὲν ἀπεκρίνατο αὐτῷ. ἐξουθενήσας δὲ αὐτὸν [καὶ] ὁ Ἡρῴδης σὺν τοῖς στρατεύμασιν αὐτοῦ καὶ ἐμπαίξας περιβαλὼν ἐσθῆτα λαμπρὰν ἀνέπεμψεν αὐτὸν τῷ Πιλάτῳ."
+          "canonical_ref": "Luke 23:5",
+          "english": "But they were urgent, saying, \"He stirs up the people, teaching throughout all Judea, from Galilee where he began even to this place.\"",
+          "greek": "οἱ δὲ ἐπίσχυον λέγοντες ὅτι Ἀνασείει τὸν λαὸν διδάσκων καθ’ ὅλης τῆς Ἰουδαίας, καὶ ἀρξάμενος ἀπὸ τῆς Γαλιλαίας ἕως ὧδε.",
+          "attestation": "unattested"
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 23:13-16",
-          "english": "Pilate, having called together the chief priests and the rulers and the people, said to them: 'You brought me this man as one perverting the people, and behold, I, having examined him before you, found nothing blameworthy in this man regarding the charges you bring against him. No, nor did Herod, for he sent him back to us; and behold, nothing worthy of death has been done by him. Having disciplined him, therefore, I will release him.'",
-          "greek": "Πιλᾶτος δὲ συγκαλεσάμενος τοὺς ἀρχιερεῖς καὶ τοὺς ἄρχοντας καὶ τὸν λαὸν εἶπεν πρὸς αὐτούς· προσηνέγκατέ μοι τὸν ἄνθρωπον τοῦτον ὡς ἀποστρέφοντα τὸν λαόν, καὶ ἰδοὺ ἐγὼ ἐνώπιον ὑμῶν ἀνακρίνας οὐθὲν εὗρον ἐν τῷ ἀνθρώπῳ τούτῳ αἴτιον ὧν κατηγορεῖτε κατ᾽ αὐτοῦ· ἀλλ᾽ οὐδὲ Ἡρῴδης, ἀνέπεμψεν γὰρ αὐτὸν πρὸς ἡμᾶς, καὶ ἰδοὺ οὐδὲν ἄξιον θανάτου ἐστὶν πεπραγμένον αὐτῷ· παιδεύσας οὖν αὐτὸν ἀπολύσω."
+          "canonical_ref": "Luke 23:6",
+          "english": "When Pilate heard this, he asked whether the man was a Galilean.",
+          "greek": "Πιλᾶτος δὲ ἀκούσας ἐπηρώτησεν εἰ ὁ ἄνθρωπος Γαλιλαῖός ἐστιν,",
+          "attestation": "unattested"
         },
         {
           "verse": 7,
-          "canonical_ref": "Luke 23:18-19",
-          "english": "And they cried out all at once, saying: 'Away with this man, and release to us Barabbas!' (Who for a certain sedition made in the city, and for murder, was cast into prison.)",
-          "greek": "ἀνέκραγον δὲ παμπληθεὶ λέγοντες· Αἶρε τοῦτον, ἀπόλυσον δὲ ἡμῖν τὸν Βαραββᾶν."
+          "canonical_ref": "Luke 23:7",
+          "english": "And when he learned that he belonged to Herod's jurisdiction, he sent him over to Herod, who was himself in Jerusalem at that time.",
+          "greek": "καὶ ἐπιγνοὺς ὅτι ἐκ τῆς ἐξουσίας Ἡρῴδου ἐστὶν ἀνέπεμψεν αὐτὸν πρὸς Ἡρῴδην, ὄντα καὶ αὐτὸν ἐν Ἱεροσολύμοις ἐν ταύταις ταῖς ἡμέραις."
         },
         {
           "verse": 8,
-          "canonical_ref": "Luke 23:21",
-          "english": "But they cried out, saying: 'Crucify, crucify him!'",
-          "greek": "οἱ δὲ ἐπεφώνουν λέγοντες· Σταύρου σταύρου αὐτόν."
+          "canonical_ref": "Luke 23:8",
+          "english": "When Herod saw Jesus, he was very glad, for he had long desired to see him, because he had heard about him, and he was hoping to see some sign done by him.",
+          "greek": "ὁ δὲ Ἡρῴδης ἰδὼν τὸν Ἰησοῦν ἐχάρη λίαν, ἦν γὰρ ἐξ ἱκανῶν χρόνων θέλων ἰδεῖν αὐτὸν διὰ τὸ ἀκούειν περὶ αὐτοῦ, καὶ ἤλπιζέν τι σημεῖον ἰδεῖν ὑπ’ αὐτοῦ γινόμενον."
         },
         {
           "verse": 9,
-          "canonical_ref": "Luke 23:25",
-          "english": "And he released to them him that for sedition and murder was cast into prison... but he delivered Jesus to their will.",
-          "greek": "ἀπέλυσεν δὲ τὸν διὰ στάσιν καὶ φόνον βεβλημένον εἰς φυλακὴν ὃν ᾐτοῦντο, τὸν δὲ Ἰησοῦν παρέδωκεν τῷ θελήματι αὐτῶν."
+          "canonical_ref": "Luke 23:9",
+          "english": "So he questioned him at some length, but he made no answer.",
+          "greek": "ἐπηρώτα δὲ αὐτὸν ἐν λόγοις ἱκανοῖς· αὐτὸς δὲ οὐδὲν ἀπεκρίνατο αὐτῷ."
         },
         {
           "verse": 10,
-          "canonical_ref": "Luke 23:26",
-          "english": "And as they led him away, having seized Simon, a certain Cyrenian coming from the country, they laid upon him the cross to carry behind Jesus.",
-          "greek": "Καὶ ὡς ἀπήγαγον αὐτόν, ἐπιλαβόμενοι Σίμωνά τινα Κυρηναῖον ἐρχόμενον ἀπ᾿ ἀγροῦ ἐπέθηκαν αὐτῷ τὸν σταυρὸν φέρειν ὄπισθεν τοῦ Ἰησοῦ."
+          "canonical_ref": "Luke 23:10",
+          "english": "The chief priests and the scribes stood by, vehemently accusing him.",
+          "greek": "εἱστήκεισαν δὲ οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς εὐτόνως κατηγοροῦντες αὐτοῦ.",
+          "attestation": "unattested"
         },
         {
           "verse": 11,
-          "canonical_ref": "Luke 23:32-33",
-          "english": "And there were also two others, criminals, led with him to be put to death. And when they were come to the place, which is called Skull, there they crucified him, and the criminals, one on the right hand, and the other on the left.",
-          "greek": "ἤγοντο δὲ καὶ ἕτεροι δύο κακοῦργοι σὺν αὐτῷ ἀναιρεθῆναι. Καὶ ὅτε ἀπῆλθον ἐπὶ τὸν τόπον τὸν καλούμενον Κρανίον, ἐκεῖ ἐσταύρωσαν αὐτὸν καὶ τοὺς κακούργους."
+          "canonical_ref": "Luke 23:11",
+          "english": "And Herod with his soldiers treated him with contempt and mocked him. Then, arraying him in splendid clothing, he sent him back to Pilate.",
+          "greek": "ἐξουθενήσας δὲ αὐτὸν καὶ ὁ Ἡρῴδης σὺν τοῖς στρατεύμασιν αὐτοῦ καὶ ἐμπαίξας περιβαλὼν ἐσθῆτα λαμπρὰν ἀνέπεμψεν αὐτὸν τῷ Πιλάτῳ.",
+          "attestation": "unattested"
         },
         {
           "verse": 12,
-          "canonical_ref": "Luke 23:35",
-          "english": "And the people stood watching. And the rulers also were mocking, saying: 'He saved others, let him save himself, if this is the Christ of God, the Chosen One.'",
-          "greek": "Καὶ εἱστήκει ὁ λαὸς θεωρῶν. ἐξεμυκτήριζον δὲ καὶ οἱ ἄρχοντες λέγοντες· Ἄλλους ἔσωσεν, σωσάτω ἑαυτόν, εἰ οὗτός ἐστιν ὁ χριστὸς τοῦ θεοῦ ὁ ἐκλεκτός."
+          "canonical_ref": "Luke 23:12",
+          "english": "And Herod and Pilate became friends with each other that very day, for before this they had been at enmity with each other.",
+          "greek": "ἐγένοντο δὲ φίλοι ὅ τε Ἡρῴδης καὶ ὁ Πιλᾶτος ἐν αὐτῇ τῇ ἡμέρᾳ μετ’ ἀλλήλων· προϋπῆρχον γὰρ ἐν ἔχθρᾳ ὄντες πρὸς αὐτούς.",
+          "attestation": "unattested"
         },
         {
           "verse": 13,
-          "canonical_ref": "Luke 23:38",
-          "english": "And there was also an inscription over him: 'This is the king of the Jews.'",
-          "greek": "ἦν δὲ καὶ ἐπιγραφὴ ἐπ᾿ αὐτῷ· Οὗτός ἐστιν ὁ βασιλεὺς τῶν Ἰουδαίων."
+          "canonical_ref": "Luke 23:18",
+          "english": "But they all cried out together, \"Away with this man, and release to us Barabbas\"—",
+          "greek": "Ἀνέκραγον δὲ παμπληθεὶ λέγοντες· Αἶρε τοῦτον, ἀπόλυσον δὲ ἡμῖν τὸν Βαραββᾶν·"
         },
         {
           "verse": 14,
-          "canonical_ref": "Luke 23:39-40",
-          "english": "And one of the criminals who were hanged railed on him, saying: 'If you are the Christ, save yourself and us!' But the other answering rebuked him, saying: 'Do you not fear God, seeing you are in the same condemnation?'",
-          "greek": "εἷς δὲ τῶν κρεμασθέντων κακούργων ἐβλασφήμει αὐτὸν λέγων· οὐχὶ σὺ εἶ ὁ χριστός; σῶσον σεαυτὸν καὶ ἡμᾶς. ἀποκριθεὶς δὲ ὁ ἕτερος ἐπιτιμῶν αὐτῷ ἔφη· οὐδὲ φοβῇ σὺ τὸν θεόν, ὅτι ἐν τῷ αὐτῷ κρίματι εἶ;"
+          "canonical_ref": "Luke 23:19",
+          "english": "a man who had been thrown into prison for an insurrection started in the city and for murder.",
+          "greek": "ὅστις ἦν διὰ στάσιν τινὰ γενομένην ἐν τῇ πόλει καὶ φόνον βληθεὶς ἐν τῇ φυλακῇ."
         },
         {
           "verse": 15,
-          "canonical_ref": "Luke 23:42-43",
-          "english": "And he said to Jesus: 'Lord, remember me when you come into your kingdom.' And Jesus said to him: 'Verily I say to you, today you shall be with me in Paradise.'",
-          "greek": "καὶ ἔλεγεν· Ἰησοῦ, μνήσθητί μου ὅταν ἔλθῃς εἰς τὴν βασιλείαν σου. καὶ εἶπεν αὐτῷ· ἀμήν σοι λέγω, σήμερον μετ᾿ ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ."
+          "canonical_ref": "Luke 23:20",
+          "english": "Pilate addressed them once more, desiring to release Jesus,",
+          "greek": "πάλιν δὲ ὁ Πιλᾶτος προσεφώνησεν αὐτοῖς θέλων ἀπολῦσαι τὸν Ἰησοῦν.",
+          "attestation": "unattested"
         },
         {
           "verse": 16,
-          "canonical_ref": "Luke 23:44-45",
-          "english": "And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour. And the sun was darkened, and the veil of the temple was rent in the midst.",
-          "greek": "Καὶ ἦν ἤδη ὡσεὶ ὥρα ἕκτη καὶ σκότος ἐγένετο ἐφ᾿ ὅλην τὴν γῆν ἕως ὥρας ἐνάτης τοῦ ἡλίου ἐκλιπόντος, ἐσχίσθη δὲ τὸ καταπέτασμα τοῦ ναοῦ μέσον."
+          "canonical_ref": "Luke 23:21",
+          "english": "but they kept shouting, \"Crucify, crucify him!\"",
+          "greek": "οἱ δὲ ἐπεφώνουν λέγοντες· Σταύρου σταύρου αὐτόν.",
+          "attestation": "unattested"
         },
         {
           "verse": 17,
-          "canonical_ref": "Luke 23:46",
-          "english": "And when Jesus had cried with a loud voice, he said: 'Father, into your hands I commend my spirit'; and having said thus, he expired.",
-          "greek": "καὶ φωνήσας φωνῇ μεγάλῃ ὁ Ἰησοῦς εἶπεν· Πάτερ, εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου· τοῦτο δὲ εἰπὼν ἐξέπνευσεν."
+          "canonical_ref": "Luke 23:22",
+          "english": "A third time he said to them, \"Why? What evil has he done? I have found in him no guilt deserving death. I will therefore punish and release him.\"",
+          "greek": "ὁ δὲ τρίτον εἶπεν πρὸς αὐτούς· Τί γὰρ κακὸν ἐποίησεν οὗτος; οὐδὲν αἴτιον θανάτου εὗρον ἐν αὐτῷ· παιδεύσας οὖν αὐτὸν ἀπολύσω."
         },
         {
           "verse": 18,
-          "canonical_ref": "Luke 23:50-53",
-          "english": "And, behold, there was a man named Joseph, a counselor... (The same had not consented to the counsel and deed of them)... This man went to Pilate, and begged the body of Jesus. And he took it down, and wrapped it in linen, and laid it in a sepulchre that was hewn in stone, where never man before was laid.",
-          "greek": "Καὶ ἰδοὺ ἀνὴρ ὀνόματι Ἰωσὴφ βουλευτὴς ὑπάρχων, ἀνὴρ ἀγαθὸς καὶ δίκαιος — οὗτος οὐκ ἦν συγκατατεθειμένος τῇ βουλῇ καὶ τῇ πράξει αὐτῶν — οὗτος προσελθὼν τῷ Πιλάτῳ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ, καὶ καθελὼν ἐνετύλιξεν αὐτὸ σινδόνι καὶ ἔθηκεν αὐτὸν ἐν μνήματι λαξευτῷ οὗ οὐκ ἦν οὐδεὶς οὔπω κείμενος."
+          "canonical_ref": "Luke 23:23",
+          "english": "But they were urgent, demanding with loud cries that he should be crucified. And their voices prevailed.",
+          "greek": "οἱ δὲ ἐπέκειντο φωναῖς μεγάλαις αἰτούμενοι αὐτὸν σταυρωθῆναι, καὶ κατίσχυον αἱ φωναὶ αὐτῶν."
+        },
+        {
+          "verse": 19,
+          "canonical_ref": "Luke 23:24",
+          "english": "So Pilate decided that their demand should be granted.",
+          "greek": "καὶ Πιλᾶτος ἐπέκρινεν γενέσθαι τὸ αἴτημα αὐτῶν·",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 20,
+          "canonical_ref": "Luke 23:25",
+          "english": "He released the man who had been thrown into prison for insurrection and murder, for whom they asked, but he delivered Jesus over to their will.",
+          "greek": "ἀπέλυσεν δὲ τὸν διὰ στάσιν καὶ φόνον βεβλημένον εἰς φυλακὴν ὃν ᾐτοῦντο, τὸν δὲ Ἰησοῦν παρέδωκεν τῷ θελήματι αὐτῶν."
+        },
+        {
+          "verse": 21,
+          "canonical_ref": "Luke 23:32",
+          "english": "Two others, who were criminals, were led away to be put to death with him.",
+          "greek": "Ἤγοντο δὲ καὶ ἕτεροι κακοῦργοι δύο σὺν αὐτῷ ἀναιρεθῆναι."
+        },
+        {
+          "verse": 22,
+          "canonical_ref": "Luke 23:33",
+          "english": "And when they came to the place that is called The Skull, there they crucified him, and the criminals, one on his right and one on his left.",
+          "greek": "καὶ ὅτε ἦλθον ἐπὶ τὸν τόπον τὸν καλούμενον Κρανίον, ἐκεῖ ἐσταύρωσαν αὐτὸν καὶ τοὺς κακούργους, ὃν μὲν ἐκ δεξιῶν ὃν δὲ ἐξ ἀριστερῶν."
+        },
+        {
+          "verse": 23,
+          "canonical_ref": "Luke 23:44",
+          "english": "It was now about the sixth hour, and there was darkness over the whole land until the ninth hour,",
+          "greek": "Καὶ ἦν ἤδη ὡσεὶ ὥρα ἕκτη καὶ σκότος ἐγένετο ἐφ’ ὅλην τὴν γῆν ἕως ὥρας ἐνάτης"
+        },
+        {
+          "verse": 24,
+          "canonical_ref": "Luke 23:45",
+          "english": "while the sun's light failed. And the curtain of the temple was torn in two.",
+          "greek": "τοῦ ἡλίου ἐκλιπόντος, ἐσχίσθη δὲ τὸ καταπέτασμα τοῦ ναοῦ μέσον."
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 23:46",
+          "english": "Then Jesus, calling out with a loud voice, said, \"Father, into your hands I commit my spirit!\" And having said this he breathed his last.",
+          "greek": "καὶ φωνήσας φωνῇ μεγάλῃ ὁ Ἰησοῦς εἶπεν· Πάτερ, εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου. τοῦτο δὲ εἰπὼν ἐξέπνευσεν."
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 23:50",
+          "english": "Now there was a man named Joseph, a member of the council, a good and righteous man,",
+          "greek": "Καὶ ἰδοὺ ἀνὴρ ὀνόματι Ἰωσὴφ βουλευτὴς ὑπάρχων καὶ ἀνὴρ ἀγαθὸς καὶ δίκαιος—"
+        },
+        {
+          "verse": 27,
+          "canonical_ref": "Luke 23:51",
+          "english": "who had not consented to their decision and action; he was from Arimathea, a Jewish town, and he was looking for the kingdom of God.",
+          "greek": "οὗτος οὐκ ἦν συγκατατεθειμένος τῇ βουλῇ καὶ τῇ πράξει αὐτῶν— ἀπὸ Ἁριμαθαίας πόλεως τῶν Ἰουδαίων, ὃς προσεδέχετο τὴν βασιλείαν τοῦ θεοῦ,"
+        },
+        {
+          "verse": 28,
+          "canonical_ref": "Luke 23:52",
+          "english": "This man went to Pilate and asked for the body of Jesus.",
+          "greek": "οὗτος προσελθὼν τῷ Πιλάτῳ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ,"
+        },
+        {
+          "verse": 29,
+          "canonical_ref": "Luke 23:53",
+          "english": "Then he took it down and wrapped it in a linen shroud and laid him in a tomb cut in stone, where no one had ever yet been laid.",
+          "greek": "καὶ καθελὼν ἐνετύλιξεν αὐτὸ σινδόνι, καὶ ἔθηκεν αὐτὸν ἐν μνήματι λαξευτῷ οὗ οὐκ ἦν οὐδεὶς οὔπω κείμενος."
+        },
+        {
+          "verse": 30,
+          "canonical_ref": "Luke 23:54",
+          "english": "It was the day of Preparation, and the Sabbath was beginning.",
+          "greek": "καὶ ἡμέρα ἦν παρασκευῆς, καὶ σάββατον ἐπέφωσκεν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 31,
+          "canonical_ref": "Luke 23:55",
+          "english": "The women who had come with him from Galilee followed and saw the tomb and how his body was laid.",
+          "greek": "κατακολουθήσασαι δὲ αἱ γυναῖκες, αἵτινες ἦσαν συνεληλυθυῖαι ἐκ τῆς Γαλιλαίας αὐτῷ, ἐθεάσαντο τὸ μνημεῖον καὶ ὡς ἐτέθη τὸ σῶμα αὐτοῦ,"
+        },
+        {
+          "verse": 32,
+          "canonical_ref": "Luke 23:56",
+          "english": "Then they returned and prepared spices and ointments. On the Sabbath they rested according to the commandment.",
+          "greek": "ὑποστρέψασαι δὲ ἡτοίμασαν ἀρώματα καὶ μύρα. Καὶ τὸ μὲν σάββατον ἡσύχασαν κατὰ τὴν ἐντολήν."
         }
       ],
       "notes": [
         {
           "id": 1,
-          "term": "Destroying the law and the prophets (καταλύοντα τὸν νόμον καὶ τοὺς προφήτας)",
-          "explanation": "This specific charge is explicitly attested by Epiphanius as a diagnostic marker of this stratum. It confirms the clinical nature of Jesus's mission: the total abrogation of the old legal and prophetic system rather than a mere internal reform.",
-          "verse_refs": [2],
-          "category": "textual"
+          "term": "The charges before Pilate (23:1–5)",
+          "verse_refs": [1, 2, 3],
+          "category": "textual",
+          "explanation": "Tertullian (4.42.1) has the council accuse Jesus of calling himself \"Christ, a king\", and Pilate ask \"Are you the Christ?\". Epiphanius reports two additions in the charges of 23:2: \"and destroying the law and the prophets\" (sch. 69) and \"and turning away the women and the children\" (sch. 70). He answers the first from Matt 5:17 (\"I came not to destroy the law and the prophets\"), and says that the canonical text reads only \"misleading the people\". Old Latin manuscripts have the first addition at the same place, and c and e have the second at 23:5, so both readings were known outside Marcion's text. They are printed. 23:4–5 are not cited and are printed in grey."
         },
         {
           "id": 2,
-          "term": "The Christ (ὁ Χριστός)",
-          "explanation": "The reconstruction follows the variant where 'The Christ' is prioritized over the Roman political category 'King of the Jews,' centering the trial on the pneumatic function of Jesus.",
-          "verse_refs": [3],
-          "category": "textual"
+          "term": "Herod and the sentence (23:6–25)",
+          "verse_refs": [7, 8, 9, 13, 14, 17, 18, 20],
+          "category": "textual",
+          "explanation": "Tertullian (4.42.2–4) reads the trial through Ps 2 and Isaiah: Herod receives Jesus \"as a gift\" from Pilate (Hos 10:6), is glad to see him and hears no word from him, as the lamb is silent before the shearer (Isa 53:7). Barabbas, \"most guilty in life\", is released as if good, and Christ, \"most just\", is demanded for death as a murderer. 23:13–16 form a paragraph that no witness cites and is not printed; NA27 has no 23:17."
         },
         {
           "id": 3,
-          "term": "Stirring up (ἀνασείει - anasteiei)",
-          "explanation": "The elite view the spread of the Word as a forensic disturbance. The geographic scope (Galilee to Judea) marks the clinical progression of the Spirit's descent.",
-          "verse_refs": [4],
-          "category": "translation"
+          "term": "The crucifixion (23:26–46)",
+          "verse_refs": [21, 22, 23, 24, 25],
+          "category": "textual",
+          "explanation": "Tertullian (4.42.4) attests the two criminals crucified with Jesus \"so that he was counted among the lawless\", and states that Marcion removed the dividing of his garments because of Ps 22:18; he answers that the whole psalm is Christ's garment. Epiphanius' scholion 71 mentions the dividing, but in a summary of the scene in Matthew's wording; Tertullian's statement is followed. Epiphanius states that \"Today you will be with me in paradise\" (23:43) was not in the text (sch. 72). Tertullian (4.42.5) attests the darkness at the sixth hour and the torn curtain, and (4.42.6) the loud cry to the Father and \"having said this, he breathed his last\", from which he argues that what breathes out a spirit is flesh. \"Father, forgive them\" (23:34a) is not in the NA27 text and is not cited by either witness. Simon of Cyrene, the daughters of Jerusalem, the mockery at the cross, the criminals' exchange, the centurion and the onlookers (23:26–31, 35–42, 47–49) are in paragraphs that no witness cites."
         },
         {
           "id": 4,
-          "term": "Herod pericope (Luke 23:6-12)",
-          "explanation": "RETAINED. Tertullian (Adv. Marc. 4.42.3) provides detailed attestation: Jesus is sent to Herod as a 'munus' (gift), Herod is 'delectatus' (delighted), 'exspectaverat' (had long expected), 'interrogavit' (questioned him), and 'nec vocem ullam ab eo audivit' (heard no voice from him). Epiphanius confirms without flagging as interpolation. The vocabulary ἐξουθενήσας (treated with contempt) represents forensic nullification of Jesus's status; ἐσθῆτα λαμπρὰν (shining robe) functions as mockery of the pneumatic claim. The sequence provides a dual judicial rejection (Herod/Pilate) essential to the trial narrative.",
-          "verse_refs": [5],
-          "category": "textual"
+          "term": "The burial (23:50–56)",
+          "verse_refs": [26, 27, 28, 29, 31, 32],
+          "category": "textual",
+          "explanation": "Tertullian (4.42.7–8) argues from the burial: if the body were a phantom, nothing would have been asked of Pilate, taken down from the cross, wrapped in linen or laid in a new tomb; Joseph, \"who had not consented to the crime\", knew it was a body. Epiphanius quotes Joseph taking down the body, wrapping it in linen and laying it in a rock-cut tomb (sch. 74), and the women returning and resting on the Sabbath \"according to the law\" (sch. 75). Tertullian (4.43.1) attests the women who came to the tomb with spices."
         },
         {
           "id": 5,
-          "term": "Nothing blameworthy (οὐθὲν αἴτιον - outhen aition)",
-          "explanation": "This reflects a dry forensic finding of innocence within the Roman/Judean legal framework.",
-          "verse_refs": [4],
-          "category": "translation"
-        },
-        {
-          "id": 6,
-          "term": "Disciplined (παιδεύσας - paideusas)",
-          "explanation": "'Disciplined' is used rather than the more emotive 'scourged' to maintain the administrative clinicality of the text.",
-          "verse_refs": [6],
-          "category": "translation"
-        },
-        {
-          "id": 7,
-          "term": "Excision of v. 17",
-          "explanation": "The 'custom of the feast' is absent in this stratum, as it is a later harmonizing gloss used to explain the release of Barabbas.",
-          "verse_refs": [],
-          "category": "excision"
-        },
-        {
-          "id": 8,
-          "term": "Treated him with contempt (ἐξουθενήσας - exouthenēsas)",
-          "explanation": "A dry forensic term for the nullification of Jesus's status as a biological or political threat.",
-          "verse_refs": [5],
-          "category": "translation"
-        },
-        {
-          "id": 9,
-          "term": "Shining robe (ἐσθῆτα λαμπρὰν)",
-          "explanation": "The 'shining' or 'bright' robe is used clinically to mock the pneumatic claim of divine radiance, casting it as a farce within the material world.",
-          "verse_refs": [5],
-          "category": "translation"
-        },
-        {
-          "id": 10,
-          "term": "Barabbas",
-          "explanation": "The exchange of the 'Just One' for a 'murderer' is a forensic demonstration of the inverted values of the current age.",
-          "verse_refs": [7],
-          "category": "theological"
-        },
-        {
-          "id": 11,
-          "term": "Criminals (κακούργοι - kakourgoi)",
-          "explanation": "The use of this term maintains a focus on the clinical reality of the execution.",
-          "verse_refs": [10],
-          "category": "translation"
-        },
-        {
-          "id": 12,
-          "term": "Criminals (κακούργων - kakourgōn) in 23:39",
-          "explanation": "Literally 'evil-doers' or 'workers of bad.' The reconstruction maintains this dry forensic descriptor.",
-          "verse_refs": [14],
-          "category": "translation"
-        },
-        {
-          "id": 13,
-          "term": "Condemnation (κρίματι - krimati) in 23:40",
-          "explanation": "The Jamesian layer uses this dialogue to highlight the judgment between the 'powerful/arrogant' and the 'poor/humble' at the moment of death.",
-          "verse_refs": [14],
-          "category": "translation"
-        },
-        {
-          "id": 14,
-          "term": "Today (σήμερον - sēmeron) in 23:43",
-          "explanation": "This is a core Jamesian marker. It emphasizes an immediate pneumatic transition (exaltation) rather than a delayed material resuscitation.",
-          "verse_refs": [15],
-          "category": "theological"
-        },
-        {
-          "id": 15,
-          "term": "Paradise (παραδείσῳ - paradeisō) in 23:43",
-          "explanation": "The reconstruction preserves the verse as found in the Marcionite/Tertullian stratum, representing the immediate spiritual enthronement of Jesus.",
-          "verse_refs": [15],
-          "category": "translation"
-        },
-        {
-          "id": 16,
-          "term": "Skull (Κρανίον - Kranion)",
-          "explanation": "Translated literally rather than using the Latinized 'Calvary,' preserving the dry topographic fact of the execution site.",
-          "verse_refs": [10],
-          "category": "translation"
-        },
-        {
-          "id": 17,
-          "term": "Omission of 'Father forgive them' (23:34a)",
-          "explanation": "The earliest witnesses and the forensic reconstruction protocol excise this phrase as a secondary interpolation intended to soften Jesus's resolve.",
-          "verse_refs": [],
-          "category": "excision"
-        },
-        {
-          "id": 18,
-          "term": "Omission of casting lots (23:34b)",
-          "explanation": "Tertullian explicitly identifies this as an interpolation intended to force a fulfillment of Psalm 22:18.",
-          "verse_refs": [],
-          "category": "excision"
-        },
-        {
-          "id": 19,
-          "term": "Today in Paradise (σήμερον ἐν τῷ παραδείσῳ)",
-          "explanation": "While some versions excised this to deny immediate transition, Tertullian preserves it. It represents the core Jamesian theme of immediate pneumatic transition rather than delayed material resuscitation.",
-          "verse_refs": [15],
-          "category": "theological"
-        },
-        {
-          "id": 20,
-          "term": "Commend (παρατίθεμαι - paratithēmai)",
-          "explanation": "A forensic deposit. The spirit is clinically returned to its source as the material vessel is exhausted.",
-          "verse_refs": [17],
-          "category": "translation"
-        },
-        {
-          "id": 21,
-          "term": "Relationship to the Father",
-          "explanation": "The prayer 'Father, into your hands...' contrasts with the Markan cry of abandonment, depicting Jesus as one whose spiritual communion remains intact during physical suffering.",
-          "verse_refs": [17],
-          "category": "theological"
-        },
-        {
-          "id": 22,
-          "term": "Hewn in stone (λαξευτῷ - laxeutō)",
-          "explanation": "The emphasis on the stone tomb provides the forensic baseline for the subsequent spiritual manifestations; the physical body remains interred according to Second Temple custom.",
-          "verse_refs": [18],
-          "category": "translation"
+          "term": "\"Destroying the law and the prophets\"",
+          "verse_refs": [2],
+          "category": "theological",
+          "explanation": "Interpretation. In this text the charge that Jesus destroys the law and the prophets is made by his accusers before Pilate, beside the charges about tribute and about turning away women and children; the narrative does not endorse it. Irenaeus (Haer. 1.27.2, as cited by Roth, 337 n. 230) reports that Marcion taught that Christ abolished the law and the prophets; that belongs to the reception of the text, not to its wording. The reading itself is old and not confined to Marcion's text, since the Old Latin has it. Epiphanius' charge that Marcion added the words assumes that canonical Luke is the earlier text."
         }
-      ],
-      "additional_explanation": {
-        "title": "The Trial and the Abrogation",
-        "content": "Chapter 21 of the Protograph presents the legal culmination of Jesus's mission.",
-        "points": [
-          {
-            "title": "The Unique Charge",
-            "explanation": "The accusation of 'destroying the law and the prophets' (23:2) is the forensic confession of the Jerusalem elite. They correctly identify Jesus's purpose: not reform, but the complete abrogation of the old legal and prophetic order. This charge is absent from the canonical text but preserved in Epiphanius."
-          },
-          {
-            "title": "The Paradise Promise",
-            "explanation": "The promise to the criminal—'today you shall be with me in Paradise' (23:43)—encapsulates the Jamesian soteriology. Salvation is immediate pneumatic transition, not a future bodily resurrection. The criminal enters the spiritual realm through faith, bypassing all biological requirements."
-          },
-          {
-            "title": "The Final Commendation",
-            "explanation": "The cry 'Father, into your hands I commend my spirit' (23:46) is the inverse of the Markan cry of abandonment. The Jamesian Christ maintains spiritual communion throughout suffering, modeling the death of the martyr as a conscious return of the spirit to its Divine source."
-          }
-        ]
-      }
+      ]
     },
     {
       "chapter": 22,
       "title": "Proto-Luke Chapter 22",
-      "preamble": "On the first day of the week, at early dawn, women come to the tomb with spices. They find the stone rolled away and the body gone. Two men in dazzling clothes appear: 'Why do you seek the living among the dead? Remember how he told you that the Son of Man must be crucified and on the third day rise.' The women report to the eleven, but their words seem like nonsense. That same day, two disciples walking to Emmaus are joined by a stranger who opens the scriptures to them. At table, he takes bread, blesses it, breaks it—and their eyes are opened. He vanishes from their sight. Returning to Jerusalem, they find the eleven gathered. Jesus stands among them: 'Peace to you.' He opens their minds to understand the scriptures, blesses them, and departs.",
+      "preamble": "The Living One. At early dawn the women come to the tomb with spices and do not find the body. Two men in dazzling clothing say to them: \"Why do you seek the Living One among the dead? He has been raised. Remember all that he told you while he was still in Galilee.\" The women report it, and the disciples do not believe them. On the road to Emmaus Jesus joins two of them, Cleopas and another, who do not recognize him. They say: \"We thought that he was the one to redeem Israel.\" He answers: \"O foolish ones, and slow of heart to believe all that he spoke to you!\" At table he breaks the bread, and their eyes are opened. Then he stands among the disciples. They are afraid and think they see a spirit. He says: \"See my hands and my feet, that it is I myself; for a spirit does not have bones as you see that I have.\" He asks for food. He sends them to proclaim repentance for the forgiveness of sins in his name to all the nations. No witness cites the text beyond this point.",
       "verses": [
         {
           "verse": 1,
-          "canonical_ref": "Luke 24:1-3",
-          "english": "On the first day of the Sabbaths, at deep dawn, they came to the tomb bringing the spices they had prepared. They found the stone rolled away from the tomb. Entering, they did not find the body.",
-          "greek": "Τῇ δὲ μιᾷ τῶν σαββάτων ὄρθρου βαθέως ἐπὶ τὸ μνῆμα ἦλθον φέρουσαι ἃ ἡτοίμασαν ἀρώματα. εὗρον δὲ τὸν λίθον ἀποκεκυλισμένον ἀπὸ τοῦ μνημείου, εἰσελθοῦσαι δὲ οὐχ εὗρον τὸ σῶμα."
+          "canonical_ref": "Luke 24:1",
+          "english": "But on the first day of the week, at early dawn, they went to the tomb, taking the spices they had prepared.",
+          "greek": "τῇ δὲ μιᾷ τῶν σαββάτων ὄρθρου βαθέως ἐπὶ τὸ μνῆμα ἦλθον φέρουσαι ἃ ἡτοίμασαν ἀρώματα."
         },
         {
           "verse": 2,
-          "canonical_ref": "Luke 24:4-5",
-          "english": "It happened while they were perplexed about this, behold, two men stood by them in flashing clothes. As they were afraid and bowed their faces to the ground, they said to them, \"Why do you seek the living with the dead?\"",
-          "greek": "καὶ ἐγένετο ἐν τῷ ἀπορεῖσθαι αὐτὰς περὶ τούτου καὶ ἰδοὺ ἄνδρες δύο ἐπέστησαν αὐταῖς ἐν ἐσθῆτι ἀστραπτούσῃ. ἐμφόβων δὲ γενομένων αὐτῶν καὶ κλινουσῶν τὰ πρόσωπα εἰς τὴν γῆν εἶπαν πρὸς αὐτάς· Τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν;"
+          "canonical_ref": "Luke 24:2",
+          "english": "And they found the stone rolled away from the tomb,",
+          "greek": "εὗρον δὲ τὸν λίθον ἀποκεκυλισμένον ἀπὸ τοῦ μνημείου,",
+          "attestation": "unattested"
         },
         {
           "verse": 3,
-          "canonical_ref": "Luke 24:6-8",
-          "english": "[He is not here, but has been raised — Omitted in this stratum] Remember how he spoke to you while still in Galilee, saying that it is necessary for the son of man to be delivered into the hands of sinful men and be crucified and on the third day to rise. And they remembered his words.",
-          "greek": "μνήσθητε ὡς ἐλάλησεν ὑμῖν ἔτι ὢν ἐν τῇ Γαλιλαίᾳ, λέγων τὸν υἱὸν τοῦ ἀνθρώπου ὅτι δεῖ παραδοθῆναι εἰς χεῖρας ἀνθρώπων ἁμαρτωλῶν καὶ σταυρωθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστῆναι. καὶ ἐμνήσθησαν τῶν ῥημάτων αὐτοῦ."
+          "canonical_ref": "Luke 24:3",
+          "english": "but when they went in they did not find the body of the Lord Jesus.",
+          "greek": "εἰσελθοῦσαι δὲ οὐχ εὗρον τὸ σῶμα τοῦ κυρίου Ἰησοῦ."
         },
         {
           "verse": 4,
-          "canonical_ref": "Luke 24:9-11",
-          "english": "Returning from the tomb, they reported all these things to the eleven and to all the rest. These words seemed to them as nonsense, and they did not believe them.",
-          "greek": "καὶ ὑποστρέψασαι ἀπὸ τοῦ μνημείου ἀπήγγειλαν ταῦτα πάντα τοῖς ἕνδεκα καὶ πᾶσιν τοῖς λοιποῖς. καὶ ἐφάνησαν ἐνώπιον αὐτῶν ὡσεὶ λῆρος τὰ ῥήματα ταῦτα, καὶ ἠπίστουν αὐταῖς."
+          "canonical_ref": "Luke 24:4",
+          "english": "While they were perplexed about this, look, two men stood by them in dazzling clothing.",
+          "greek": "καὶ ἐγένετο ἐν τῷ ἀπορεῖσθαι αὐτὰς περὶ τούτου καὶ ἰδοὺ ἄνδρες δύο ἐπέστησαν αὐταῖς ἐν ἐσθῆτι ἀστραπτούσῃ."
         },
         {
           "verse": 5,
-          "canonical_ref": "Luke 24:13-16",
-          "english": "And behold, two of them on that same day were going to a village sixty stadia from Jerusalem, whose name was Emmaus, and they were talking to each other about all these things that had happened. And it happened that while they were talking and debating, Jesus himself drew near and went with them. But their eyes were held so they did not recognize him.",
-          "greek": "Καὶ ἰδοὺ δύο ἐξ αὐτῶν ἐν αὐτῇ τῇ ἡμέρᾳ ἦσαν πορευόμενοι εἰς κώμην ἀπέχουσαν σταδίους ἑξήκοντα ἀπὸ Ἰερουσαλήμ, ᾗ ὄνομα Ἐμμαοῦς, καὶ αὐτοὶ ὡμίλουν πρὸς ἀλλήλους περὶ πάντων τῶν συμβεβηκότων τούτων. καὶ ἐγένετο ἐν τῷ ὁμιλεῖν αὐτοὺς καὶ συζητεῖν καὶ αὐτὸς Ἰησοῦς ἐγγίσας συνεπορεύετο αὐτοῖς, οἱ δὲ ὀφθαλμοὶ αὐτῶν ἐκρατοῦντο τοῦ μὴ ἐπιγνῶναι αὐτόν."
+          "canonical_ref": "Luke 24:5",
+          "english": "And as they were frightened and bowed their faces to the ground, the men said to them, \"Why do you seek the Living One among the dead?",
+          "greek": "ἐμφόβων δὲ γενομένων αὐτῶν καὶ κλινουσῶν τὰ πρόσωπα εἰς τὴν γῆν εἶπαν πρὸς αὐτάς· Τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν;"
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 24:19",
-          "english": "And he said to them: 'What things?' And they said to him: 'The things concerning Jesus the Nazarene, who was a man, a prophet mighty in deed and word before God and all the people.'",
-          "greek": "καὶ εἶπεν αὐτοῖς· Ποῖα; οἱ δὲ εἶπαν αὐτῷ· τὰ περὶ Ἰησοῦ τοῦ Ναζωραίου, ὃς ἐγένετο ἀνὴρ προφήτης δυνατὸς ἐν ἔργῳ καὶ λόγῳ ἐναντίον τοῦ θεοῦ καὶ παντὸς τοῦ λαοῦ."
+          "canonical_ref": "Luke 24:6",
+          "english": "He has been raised. Remember all that he told you while he was still in Galilee,",
+          "greek": "ἠγέρθη. μνήσθητε ὅσα ἐλάλησεν ὑμῖν ἔτι ὢν ἐν τῇ Γαλιλαίᾳ,"
         },
         {
           "verse": 7,
-          "canonical_ref": "Luke 24:30-31",
-          "english": "And it happened that when he reclined with them, taking the bread, he blessed and, breaking it, he gave it to them. Their eyes were opened, and they recognized him; and he became invisible to them.",
-          "greek": "καὶ ἐγένετο ἐν τῷ κατακλιθῆναι αὐτὸν μετ' αὐτῶν λαβὼν τὸν ἄρτον εὐλόγησεν καὶ κλάσας ἐπεδίδου αὐτοῖς· αὐτῶν δὲ διηνοίχθησαν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν· καὶ αὐτὸς ἄφαντος ἐγένετο ἀπ' αὐτῶν."
+          "canonical_ref": "Luke 24:7",
+          "english": "saying that the son of man must be delivered into the hands of sinful men and be crucified and on the third day rise.\"",
+          "greek": "λέγων τὸν υἱὸν τοῦ ἀνθρώπου ὅτι δεῖ παραδοθῆναι εἰς χεῖρας ἀνθρώπων ἁμαρτωλῶν καὶ σταυρωθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστῆναι."
         },
         {
           "verse": 8,
-          "canonical_ref": "Luke 24:32",
-          "english": "And they said to one another: 'Was not our heart burning within us while he spoke to us on the road, as he opened the scriptures to us?'",
-          "greek": "καὶ εἶπαν πρὸς ἀλλήλους· Οὐχὶ ἡ καρδία ἡμῶν καιομένη ἦν ἐν ἡμῖν ὡς ἐλάλει ἡμῖν ἐν τῇ ὁδῷ, ὡς διήνοιγεν ἡμῖν τὰς γραφάς;"
+          "canonical_ref": "Luke 24:8",
+          "english": "And they remembered his words,",
+          "greek": "καὶ ἐμνήσθησαν τῶν ῥημάτων αὐτοῦ,",
+          "attestation": "unattested"
         },
         {
           "verse": 9,
-          "canonical_ref": "Luke 24:36-39",
-          "english": "While they were saying these things, he himself stood in the midst of them and said: 'Peace to you.' But being terrified and afraid, they thought they were seeing a spirit. And he said to them: 'Why are you troubled, and why do debates arise in your hearts?' 'See my hands and my feet, that it is I myself.'",
-          "greek": "Ταῦτα δὲ αὐτῶν λαλούντων αὐτὸς ἔστη ἐν μέσῳ αὐτῶν καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν. πτοηθέντες δὲ καὶ ἔμφοβοι γενόμενοι ἐδόκουν πνεῦμα θεωρεῖν. καὶ εἶπεν αὐτοῖς· Τί τεταραγμένοι ἐστὲ καὶ διὰ τί διαλογισμοὶ ἀναβαίνουσιν ἐν τῇ καρδίᾳ ὑμῶν; ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου ὅτι ἐγώ εἰμι αὐτός."
+          "canonical_ref": "Luke 24:9",
+          "english": "and returning from the tomb they told all these things to the eleven and to all the rest.",
+          "greek": "καὶ ὑποστρέψασαι ἀπὸ τοῦ μνημείου ἀπήγγειλαν ταῦτα πάντα τοῖς ἕνδεκα καὶ πᾶσιν τοῖς λοιποῖς."
         },
         {
           "verse": 10,
-          "canonical_ref": "Luke 24:44-45",
-          "english": "And he said to them: \"These are my words which I spoke to you while I was still with you, that it is necessary for all things written in the law of Moses and the prophets and psalms about me to be fulfilled.\" Then he opened their mind to understand the scriptures.",
-          "greek": "Εἶπεν δὲ πρὸς αὐτούς· Οὗτοι οἱ λόγοι μου οὓς ἐλάλησα πρὸς ὑμᾶς ἔτι ὢν σὺν ὑμῖν, ὅτι δεῖ πληρωθῆναι πάντα τὰ γεγραμμένα ἐν τῷ νόμῳ Μωϋσέως καὶ τοῖς προφήταις καὶ ψαλμοῖς περὶ ἐμοῦ. τότε διήνοιξεν αὐτῶν τὸν νοῦν τοῦ συνιέναι τὰς γραφάς."
+          "canonical_ref": "Luke 24:10",
+          "english": "Now it was Mary Magdalene and Joanna and Mary the mother of James and the other women with them who told these things to the apostles,",
+          "greek": "ἦσαν δὲ ἡ Μαγδαληνὴ Μαρία καὶ Ἰωάννα καὶ Μαρία ἡ Ἰακώβου καὶ αἱ λοιπαὶ σὺν αὐταῖς· ἔλεγον πρὸς τοὺς ἀποστόλους ταῦτα.",
+          "attestation": "unattested"
         },
         {
           "verse": 11,
-          "canonical_ref": "Luke 24:47-48",
-          "english": "...and that repentance into forgiveness of sins should be proclaimed in his name to all the nations. You are witnesses of these things.",
-          "greek": "...κηρυχθῆναι ἐπὶ τῷ ὀνόματι αὐτοῦ μετάνοιαν εἰς ἄφεσιν ἁμαρτιῶν εἰς πάντα τὰ ἔθνη. ὑμεῖς μάρτυρες τούτων."
+          "canonical_ref": "Luke 24:11",
+          "english": "but these words seemed to them an idle tale, and they did not believe them.",
+          "greek": "καὶ ἐφάνησαν ἐνώπιον αὐτῶν ὡσεὶ λῆρος τὰ ῥήματα ταῦτα, καὶ ἠπίστουν αὐταῖς."
         },
         {
           "verse": 12,
-          "canonical_ref": "Luke 24:51",
-          "english": "And it happened while he was blessing them, he parted from them.",
-          "greek": "καὶ ἐγένετο ἐν τῷ εὐλογεῖν αὐτὸν αὐτοὺς διέστη ἀπ' αὐτῶν."
+          "canonical_ref": "Luke 24:13",
+          "english": "That very day two of them were going to a village named Emmaus, about sixty stadia from Jerusalem,",
+          "greek": "Καὶ ἰδοὺ δύο ἐξ αὐτῶν ἐν αὐτῇ τῇ ἡμέρᾳ ἦσαν πορευόμενοι εἰς κώμην ἀπέχουσαν σταδίους ἑξήκοντα ἀπὸ Ἰερουσαλήμ, ᾗ ὄνομα Ἐμμαοῦς,"
         },
         {
           "verse": 13,
-          "canonical_ref": "Luke 24:52-53",
-          "english": "...they returned to Jerusalem with great joy, and they were continually in the Temple praising and blessing God.",
-          "greek": "...ὑπέστρεψαν εἰς Ἰερουσαλήμ μετὰ χαρᾶς μεγάλης, καὶ ἦσαν διὰ παντὸς ἐν τῷ ἱερῷ αἰνοῦντες καὶ εὐλογοῦντες τὸν θεόν."
+          "canonical_ref": "Luke 24:14",
+          "english": "and they were talking with each other about all these things that had happened.",
+          "greek": "καὶ αὐτοὶ ὡμίλουν πρὸς ἀλλήλους περὶ πάντων τῶν συμβεβηκότων τούτων.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 14,
+          "canonical_ref": "Luke 24:15",
+          "english": "While they were talking and discussing together, Jesus himself drew near and went with them.",
+          "greek": "καὶ ἐγένετο ἐν τῷ ὁμιλεῖν αὐτοὺς καὶ συζητεῖν καὶ αὐτὸς Ἰησοῦς ἐγγίσας συνεπορεύετο αὐτοῖς,"
+        },
+        {
+          "verse": 15,
+          "canonical_ref": "Luke 24:16",
+          "english": "But their eyes were kept from recognizing him.",
+          "greek": "οἱ δὲ ὀφθαλμοὶ αὐτῶν ἐκρατοῦντο τοῦ μὴ ἐπιγνῶναι αὐτόν."
+        },
+        {
+          "verse": 16,
+          "canonical_ref": "Luke 24:17",
+          "english": "And he said to them, \"What is this conversation that you are holding with each other as you walk?\" And they stood still, looking sad.",
+          "greek": "εἶπεν δὲ πρὸς αὐτούς· Τίνες οἱ λόγοι οὗτοι οὓς ἀντιβάλλετε πρὸς ἀλλήλους περιπατοῦντες; καὶ ἐστάθησαν σκυθρωποί.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 17,
+          "canonical_ref": "Luke 24:18",
+          "english": "Then one of them, named Cleopas, answered him, \"Are you the only visitor to Jerusalem who does not know the things that have happened there in these days?\"",
+          "greek": "ἀποκριθεὶς δὲ εἷς ὀνόματι Κλεοπᾶς εἶπεν πρὸς αὐτόν· Σὺ μόνος παροικεῖς Ἰερουσαλὴμ καὶ οὐκ ἔγνως τὰ γενόμενα ἐν αὐτῇ ἐν ταῖς ἡμέραις ταύταις;"
+        },
+        {
+          "verse": 18,
+          "canonical_ref": "Luke 24:19",
+          "english": "And he said to them, \"What things?\" And they said to him, \"Concerning Jesus of Nazareth, a man who was a prophet mighty in deed and word before God and all the people,",
+          "greek": "καὶ εἶπεν αὐτοῖς· Ποῖα; οἱ δὲ εἶπαν αὐτῷ· Τὰ περὶ Ἰησοῦ τοῦ Ναζαρηνοῦ, ὃς ἐγένετο ἀνὴρ προφήτης δυνατὸς ἐν ἔργῳ καὶ λόγῳ ἐναντίον τοῦ θεοῦ καὶ παντὸς τοῦ λαοῦ,"
+        },
+        {
+          "verse": 19,
+          "canonical_ref": "Luke 24:20",
+          "english": "and how our chief priests and rulers delivered him up to be condemned to death, and crucified him.",
+          "greek": "ὅπως τε παρέδωκαν αὐτὸν οἱ ἀρχιερεῖς καὶ οἱ ἄρχοντες ἡμῶν εἰς κρίμα θανάτου καὶ ἐσταύρωσαν αὐτόν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 20,
+          "canonical_ref": "Luke 24:21",
+          "english": "But we thought that he was the one to redeem Israel. Yes, and besides all this, it is now the third day since these things happened.",
+          "greek": "ἡμεῖς δὲ ἐνομίζομεν ὅτι αὐτός ἐστιν ὁ μέλλων λυτροῦσθαι τὸν Ἰσραήλ· ἀλλά γε καὶ σὺν πᾶσιν τούτοις τρίτην ταύτην ἡμέραν ἄγει ἀφ’ οὗ ταῦτα ἐγένετο."
+        },
+        {
+          "verse": 21,
+          "canonical_ref": "Luke 24:22",
+          "english": "Moreover, some women of our company amazed us. They were at the tomb early in the morning,",
+          "greek": "ἀλλὰ καὶ γυναῖκές τινες ἐξ ἡμῶν ἐξέστησαν ἡμᾶς, γενόμεναι ὀρθριναὶ ἐπὶ τὸ μνημεῖον",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 22,
+          "canonical_ref": "Luke 24:23",
+          "english": "and when they did not find his body, they came back saying that they had even seen a vision of angels, who said that he was alive.",
+          "greek": "καὶ μὴ εὑροῦσαι τὸ σῶμα αὐτοῦ ἦλθον λέγουσαι καὶ ὀπτασίαν ἀγγέλων ἑωρακέναι, οἳ λέγουσιν αὐτὸν ζῆν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 23,
+          "canonical_ref": "Luke 24:25",
+          "english": "And he said to them, \"O foolish ones, and slow of heart to believe all that he spoke to you!",
+          "greek": "καὶ αὐτὸς εἶπεν πρὸς αὐτούς· Ὦ ἀνόητοι καὶ βραδεῖς τῇ καρδίᾳ τοῦ πιστεύειν ἐπὶ πᾶσιν οἷς ἐλάλησεν πρὸς ὑμᾶς·"
+        },
+        {
+          "verse": 24,
+          "canonical_ref": "Luke 24:26",
+          "english": "Was it not necessary that the Christ should suffer these things and enter into his glory?\"",
+          "greek": "οὐχὶ ταῦτα ἔδει παθεῖν τὸν χριστὸν καὶ εἰσελθεῖν εἰς τὴν δόξαν αὐτοῦ;"
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 24:28",
+          "english": "So they drew near to the village to which they were going. He acted as if he were going farther,",
+          "greek": "Καὶ ἤγγισαν εἰς τὴν κώμην οὗ ἐπορεύοντο, καὶ αὐτὸς προσεποιήσατο πορρώτερον πορεύεσθαι.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 24:29",
+          "english": "but they urged him strongly, saying, \"Stay with us, for it is toward evening and the day is now far spent.\" So he went in to stay with them.",
+          "greek": "καὶ παρεβιάσαντο αὐτὸν λέγοντες· Μεῖνον μεθ’ ἡμῶν, ὅτι πρὸς ἑσπέραν ἐστὶν καὶ κέκλικεν ἤδη ἡ ἡμέρα. καὶ εἰσῆλθεν τοῦ μεῖναι σὺν αὐτοῖς.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 27,
+          "canonical_ref": "Luke 24:30",
+          "english": "When he was at table with them, he took the bread and blessed and broke it and gave it to them.",
+          "greek": "καὶ ἐγένετο ἐν τῷ κατακλιθῆναι αὐτὸν μετ’ αὐτῶν λαβὼν τὸν ἄρτον εὐλόγησεν καὶ κλάσας ἐπεδίδου αὐτοῖς·"
+        },
+        {
+          "verse": 28,
+          "canonical_ref": "Luke 24:31",
+          "english": "And their eyes were opened, and they recognized him. And he vanished from their sight.",
+          "greek": "αὐτῶν δὲ διηνοίχθησαν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν· καὶ αὐτὸς ἄφαντος ἐγένετο ἀπ’ αὐτῶν."
+        },
+        {
+          "verse": 29,
+          "canonical_ref": "Luke 24:36",
+          "english": "As they were talking about these things, he himself stood among them, and said to them, \"Peace to you!\"",
+          "greek": "Ταῦτα δὲ αὐτῶν λαλούντων αὐτὸς ἔστη ἐν μέσῳ αὐτῶν καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 30,
+          "canonical_ref": "Luke 24:37",
+          "english": "But they were startled and frightened and thought they saw a spirit.",
+          "greek": "πτοηθέντες δὲ καὶ ἔμφοβοι γενόμενοι ἐδόκουν πνεῦμα θεωρεῖν."
+        },
+        {
+          "verse": 31,
+          "canonical_ref": "Luke 24:38",
+          "english": "And he said to them, \"Why are you troubled, and why do doubts arise in your hearts?",
+          "greek": "καὶ εἶπεν αὐτοῖς· Τί τεταραγμένοι ἐστέ, καὶ διὰ τί διαλογισμοὶ ἀναβαίνουσιν ἐν τῇ καρδίᾳ ὑμῶν;"
+        },
+        {
+          "verse": 32,
+          "canonical_ref": "Luke 24:39",
+          "english": "See my hands and my feet, that it is I myself; for a spirit does not have bones as you see that I have.\"",
+          "greek": "ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου ὅτι ἐγώ εἰμι αὐτός· ὅτι πνεῦμα ὀστέα οὐκ ἔχει καθὼς ἐμὲ θεωρεῖτε ἔχοντα."
+        },
+        {
+          "verse": 33,
+          "canonical_ref": "Luke 24:40",
+          "english": "And when he had said this, he showed them his hands and his feet.",
+          "greek": "καὶ τοῦτο εἰπὼν ἔδειξεν αὐτοῖς τὰς χεῖρας καὶ τοὺς πόδας.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 34,
+          "canonical_ref": "Luke 24:41",
+          "english": "And while they still disbelieved for joy and were marvelling, he said to them, \"Have you anything here to eat?\"",
+          "greek": "ἔτι δὲ ἀπιστούντων αὐτῶν ἀπὸ τῆς χαρᾶς καὶ θαυμαζόντων εἶπεν αὐτοῖς· Ἔχετέ τι βρώσιμον ἐνθάδε;"
+        },
+        {
+          "verse": 35,
+          "canonical_ref": "Luke 24:42",
+          "english": "They gave him a piece of broiled fish,",
+          "greek": "οἱ δὲ ἐπέδωκαν αὐτῷ ἰχθύος ὀπτοῦ μέρος·",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 36,
+          "canonical_ref": "Luke 24:43",
+          "english": "and he took it and ate before them.",
+          "greek": "καὶ λαβὼν ἐνώπιον αὐτῶν ἔφαγεν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 37,
+          "canonical_ref": "Luke 24:47",
+          "english": "… and that repentance for the forgiveness of sins should be proclaimed in his name to all the nations.",
+          "greek": "… καὶ κηρυχθῆναι ἐπὶ τῷ ὀνόματι αὐτοῦ μετάνοιαν εἰς ἄφεσιν ἁμαρτιῶν εἰς πάντα τὰ ἔθνη."
         }
       ],
       "notes": [
         {
           "id": 1,
-          "term": "Body (σῶμα - sōma)",
-          "explanation": "The primitive stratum omits 'of the Lord Jesus' (found in canonical Luke). This is a 'Western Non-Interpolation' where the shorter text reflects the original clinical observation of a missing corpse.",
-          "verse_refs": [1],
-          "category": "textual"
+          "term": "At the tomb (24:1–11)",
+          "verse_refs": [1, 3, 4, 5, 6, 7, 9, 11],
+          "category": "textual",
+          "explanation": "Tertullian (4.43.1–5) follows the women who came \"before light\" with spices, the body not found, the two \"angels\", the women's return \"from the tomb\" and the disciples' persisting unbelief; he quotes the words of the two men: \"Remember all that he told you in Galilee, that the son of man must be delivered and crucified and on the third day rise.\" Epiphanius (sch. 76) quotes \"Why do you seek the Living One among the dead? He has been raised. Remember all that he told you while he was still with you.\" Two readings of this text are printed in 24:6: \"all that\" (ὅσα, both witnesses) and \"he has been raised\" without \"he is not here, but\" (Epiphanius, against his own habit of citation). \"Of the Lord Jesus\" (24:3) and \"into the hands of sinful men\" (24:7) are not cited and are printed with NA27."
         },
         {
           "id": 2,
-          "term": "Flashing clothes (ἀστραπτούσῃ - astraptousē)",
-          "explanation": "This denotes a radiance characteristic of pneumatic manifestations rather than a material person. It aligns with the visionary sensory overload found in the prophets.",
-          "verse_refs": [2],
-          "category": "translation"
+          "term": "Emmaus (24:13–31)",
+          "verse_refs": [12, 14, 15, 17, 18, 20, 23, 24, 27, 28],
+          "category": "textual",
+          "explanation": "Tertullian (4.43.3–5): two of them were travelling; the Lord joined them without showing who he was, and even pretended not to know what had happened; they said \"we thought that he was the redeemer of Israel\", and he rebuked them: \"O foolish and slow of heart to believe all that he spoke to you.\" Epiphanius (sch. 77) names Cleopas and states that the text read \"that I spoke to you\" where canonical Luke has \"that the prophets spoke\", and quotes \"was it not necessary that he suffer these things?\" and the opening of their eyes when he broke the bread. Both witnesses agree that the rebuke was about Jesus' own words, not about the prophets. Tertullian's \"we thought\" and \"he spoke to you\" are printed. \"A prophet mighty in deed and word\" (24:19b) is not cited by either witness; it stands in the text as part of an attested verse."
         },
         {
           "id": 3,
-          "term": "Omission of 24:6a",
-          "explanation": "The specific proclamation 'He is not here, but has been raised' is absent in the Western text (Codex Bezae) and the Marcionite witnesses. In Proto-Luke, the tomb remains an ambiguous sign of absence, prompting memory (anamnesis) rather than offering forensic proof.",
-          "verse_refs": [3],
-          "category": "excision"
+          "term": "The appearance to the disciples (24:36–43)",
+          "verse_refs": [29, 30, 31, 32, 33, 34, 35, 36],
+          "category": "textual",
+          "explanation": "Tertullian (4.43.6–8) quotes: \"Why are you troubled, and why do thoughts arise in your hearts? See my hands and my feet, that it is I myself, for a spirit does not have bones as you see me having\", and adds that Jesus asked for food \"to show that he had teeth\". Epiphanius (sch. 78) quotes the same verse with \"bones\" only. In this text there is no \"handle me and see\" and no \"flesh and\". Tertullian reports how Marcion read the end of the verse: \"as you see me having\" refers to the spirit, that is, \"not having bones, as a spirit has none\" (4.43.7). Eznik reports that the Marcionites based their abstinence from fish on Jesus' eating fish after his resurrection (De Deo 407, as quoted by Roth). \"Peace to you\" (24:36) and the showing of hands and feet (24:40), both lacking in D and the Old Latin, are not cited and are printed in grey."
         },
         {
           "id": 4,
-          "term": "Son of Man (τὸν υἱὸν τοῦ ἀνθρώπου)",
-          "explanation": "Used here as the clinical referent for Jesus's eschatological role.",
-          "verse_refs": [3],
-          "category": "translation"
+          "term": "Not printed: 24:12, 24, 27, 32–35, 44–46, 48–53",
+          "verse_refs": [11, 22, 24, 28, 36, 37],
+          "category": "excision",
+          "explanation": "No witness cites Peter's visit to the tomb (24:12) or the report of it (24:24); both are classed probably absent, since the linen cloths would have served Tertullian's argument and 24:12 is also lacking in D and the Old Latin. The interpretation of \"Moses and all the prophets\" (24:27), the burning hearts \"while he opened to us the scriptures\" (24:32) and \"everything written about me in the law of Moses and the prophets and the psalms\" with the opening of their minds (24:44–46) would have been Tertullian's proof that Jesus is the Christ of the prophets, the thesis with which he ends his book; neither witness cites them, and they are classed probably absent. The return to Jerusalem and the appearance to Simon (24:33–35) form a paragraph with no attested verse. Nothing after 24:47 is cited."
         },
         {
           "id": 5,
-          "term": "Nonsense (λῆρος - lēros)",
-          "explanation": "The report of the women is dismissed as an 'idle tale' or 'delirium,' emphasizing that the empty tomb did not generate faith in the earliest community.",
-          "verse_refs": [4],
-          "category": "translation"
+          "term": "The ending",
+          "verse_refs": [37],
+          "category": "textual",
+          "explanation": "Tertullian ends his commentary on the gospel with Jesus \"sending the apostles to preach to all the nations\" (4.43.9). Whether the text went on, and how (the parting at Bethany, 24:50–51, or an ending like Acts 1:8–11), is not attested; the text is printed to the last attested verse. In canonical Luke 24:47 is governed by \"thus it is written\" (24:46); the words that introduced it in this text are not known."
         },
         {
           "id": 6,
-          "term": "Excision of 24:12",
-          "explanation": "The account of Peter running to the tomb is a secondary interpolation found in the Alexandrian tradition but absent in the Western and Marcionite layers.",
-          "verse_refs": [],
-          "category": "excision"
-        },
-        {
-          "id": 7,
-          "term": "Were held (ἐκρατοῦντο - ekratounto)",
-          "explanation": "This implies a psychological or pneumatic constraint. 'The Living One' (ὁ ζῶν) is only recognizable through spiritual volition—the visionary perception (ὤφθη) rather than material physics.",
-          "verse_refs": [5],
-          "category": "translation"
-        },
-        {
-          "id": 8,
-          "term": "Western Non-Interpolation (24:6a)",
-          "explanation": "The explicit proclamation of resurrection at the tomb is clinically absent in the Western (D) and Marcionite witnesses; Proto-Luke focuses on the memory (anamnesis) of Jesus's teaching rather than a kerygmatic proof.",
-          "verse_refs": [3],
-          "category": "textual"
-        },
-        {
-          "id": 9,
-          "term": "Raised (ἠγέρθη - ēgerthē)",
-          "explanation": "The Greek uses a passive voice, denoting an external action of the Divine upon the subject.",
-          "verse_refs": [3],
-          "category": "translation"
-        },
-        {
-          "id": 10,
-          "term": "Nazarene (Ναζωραίου - Nazōraiou)",
-          "explanation": "The identification is grounded in the prophetic human status of the teacher as he was known in the Galilean stratum.",
-          "verse_refs": [6],
-          "category": "translation"
-        },
-        {
-          "id": 11,
-          "term": "Prophet (προφήτης - prophētēs)",
-          "explanation": "The core Jamesian identity of Jesus is that of a prophet of the restored order rather than the post-70 CE biological Messiah.",
-          "verse_refs": [6],
-          "category": "theological"
-        },
-        {
-          "id": 12,
-          "term": "Opened (διήνοιγεν - diēnoigen)",
-          "explanation": "In Proto-Luke, faith is generated by the revelation of the Word ('opening the scriptures') rather than the forensic inspection of a resuscitated corpse.",
-          "verse_refs": [8],
-          "category": "translation"
-        },
-        {
-          "id": 13,
-          "term": "Invisible (ἄφαντος - aphantos)",
-          "explanation": "Literally 'vanishing' or 'becoming un-manifest.' This is the technical term for the cessation of a pneumatic manifestation, proving that the body did not adhere to material laws.",
-          "verse_refs": [7],
-          "category": "translation"
-        },
-        {
-          "id": 14,
-          "term": "Opening of Scriptures",
-          "explanation": "Faith in the Jamesian Protograph is generated through the 'Opening of the Word' rather than the inspection of a body.",
-          "verse_refs": [8, 10],
-          "category": "theological"
-        },
-        {
-          "id": 15,
-          "term": "Spirit (πνεῦμα - pneuma)",
-          "explanation": "The text records the default perception of the witnesses—that they were seeing a non-corporeal entity.",
-          "verse_refs": [9],
-          "category": "translation"
-        },
-        {
-          "id": 16,
-          "term": "Excision of 24:39b-43",
-          "explanation": "The claims of 'flesh and bones' and the act of eating fish are omitted as late anti-Docetic additions. They were designed to materialize the resurrection in direct contradiction to the earlier Jamesian/Pauline teaching that 'flesh and blood cannot inherit the kingdom.'",
-          "verse_refs": [9],
-          "category": "excision"
-        },
-        {
-          "id": 17,
-          "term": "I myself (ἐγώ εἰμι αὐτός)",
-          "explanation": "Jesus provides identity markers (the wounds) to confirm personhood without implying a resuscitated corpse.",
-          "verse_refs": [9],
-          "category": "translation"
-        },
-        {
-          "id": 18,
-          "term": "Mind (νοῦν - noun)",
-          "explanation": "The climax of the Protograph is intellectual and pneumatic enlightenment—the transition from external appearance to internal understanding.",
-          "verse_refs": [10],
-          "category": "translation"
-        },
-        {
-          "id": 19,
-          "term": "Parted (διέστη - diestē)",
-          "explanation": "The original text lacks the physical levitation/ascension into the sky ('carried up into heaven' is a Western Non-Interpolation). The vision simply ceases.",
-          "verse_refs": [12],
-          "category": "textual"
-        },
-        {
-          "id": 20,
-          "term": "Temple (ἱερῷ - hierō)",
-          "explanation": "The narrative ends in the Temple, anchoring the movement as a legitimate Judean institution (the 'Opposition Priesthood') in Jerusalem.",
-          "verse_refs": [13],
-          "category": "translation"
+          "term": "The Living One",
+          "verse_refs": [5, 6, 23, 28, 32, 34],
+          "category": "theological",
+          "explanation": "Interpretation. Three layers are kept apart. (a) Text: the two men at the tomb call Jesus \"the Living One\" and say \"he has been raised\"; the disciples recognize him in the breaking of the bread; he answers their fear of a spirit by showing hands and feet and saying that a spirit does not have bones \"as you see that I have\"; he asks for food; he sends them to all the nations; the rebuke on the road is about believing his own words. (b) Canonical Luke has in addition the touch and the flesh (24:39), Peter at the tomb and the appearance to Simon (24:12, 24, 34), and the proof from Moses, the prophets and the psalms with the commissioning of the Eleven (24:27, 32, 44–49). On the Semler model these are a common original's; on the Schwegler model, additions; the witnesses show only that the text attested here lacked them. (c) Reception: the Marcionites read 24:39 as Jesus saying that he had no bones, like a spirit (Tertullian 4.43.7), and kept the meal of fish as the basis of their own practice (Eznik). The text itself holds together the Living One who is not found among the dead and a risen Jesus who can be seen, who eats, and who is recognized at table."
         }
-      ],
-      "additional_explanation": {
-        "title": "Summary of the Jamesian Protograph",
-        "content": "This concluding chapter of the Jamesian Protograph (Proto-Luke) represents the primitive record of the Exaltation of 'the Living One' (ὁ ζῶν). Unlike the later canonical expansion, this stratum is defined by the 'Western Non-Interpolations'—shorter readings that lack the secondary physicalist 'proofs' (flesh, bones, and eating) added in the second century to combat Gnosticism.",
-        "points": [
-          {
-            "title": "The Tomb as Ambiguous Sign",
-            "explanation": "The primitive stratum omits 'of the Lord Jesus' and the proclamation 'He is not here, but has been raised' (Western text). The empty tomb remains an ambiguous sign prompting memory (anamnesis) rather than forensic proof. The women's report is dismissed as 'nonsense' (lēros)—the empty tomb did not generate faith."
-          },
-          {
-            "title": "The Road Manifestation",
-            "explanation": "The Living One (ὁ ζῶν) is only recognizable through spiritual volition—eyes 'were held' (ekratounto). Recognition comes through the ritual breaking of bread and the internal burning of hearts, not physical inspection. The manifestation ceases with the technical term 'invisible' (aphantos)—becoming un-manifest."
-          },
-          {
-            "title": "The Final Manifestation and Mind",
-            "explanation": "The witnesses' default perception is that they were seeing a 'spirit' (pneuma). The claims of 'flesh and bones' and eating fish are excised as anti-Docetic interpolations. The climax is the opening of the 'mind' (nous) to understand the scriptures—intellectual and pneumatic enlightenment. The narrative ends in the Temple, anchoring the movement as the 'Opposition Priesthood' in Jerusalem."
-          }
-        ]
-      }
+      ]
     }
   ]
 }
