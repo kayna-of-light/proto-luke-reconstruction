@@ -242,3 +242,35 @@ The "Orthodox Wrapper" label is not used; Luke 1–2 is described as absent on t
 **Decision.** The spirit petition is printed in place of "hallowed be your name", as ἐλθέτω τὸ πνεῦμά σου τὸ ἅγιον ("may your holy spirit come"). This is the verb and order of the Greek manuscript form, limited to the elements Tertullian attests. "Upon us and cleanse us" is not printed. "Your kingdom come" is kept. The apparatus (`data/apparatus/luke_11.json`) and the chapter 9 note mark the wording as unattested.
 
 **Status.** Implemented in batch 3 (chapter 9).
+
+---
+
+## Question 8: Do the parables Marcion's text lacks carry a correspondential composition that the attested parables do not? — OPEN
+
+**Observation (owner).** Some parables that are unattested for this text resolve fully under Swedenborg's doctrine of correspondences, as compositions in which each element has a fixed spiritual sense. This looks like a way of writing that the author of the attested text did not use.
+
+**Evidence so far.** The audit gives the parables three groups (apparatus classes, batches 2–5):
+
+| Group | Parables |
+|---|---|
+| Absent or probably absent | Good Samaritan (10:29–37, U−); barren fig tree (13:6–9, A−); two sons (15:11–32, A−); tenants (20:9–18, A− / U−) |
+| Unattested, not printed | tower and king at war (14:28–33); unworthy servants (17:7–10) |
+| Attested present | sower (8:4–8); friend at midnight (11:5–8); rich fool (12:16–21); mustard seed and leaven (13:18–21); great banquet (14:16–24); lost sheep and coin (15:3–10); unjust steward (16:1–8); rich man and Lazarus (16:19–31); unjust judge (18:1–8); Pharisee and tax collector (18:9–14); minas (19:11–27); fig tree in leaf (21:29–31) |
+
+Related findings:
+- The stylometric baseline (`docs/stylometry/REPORT.md` §5.3) found one signal only: an excess of Luke's characteristic vocabulary in unattested material (ῥῆμα, πίμπλημι, λαός, πνεῦμα, ἄγγελος). The signal is lexical, not grammatical.
+- The library's "correspondential depth test" (*Swedenborg's Key and the Proto-Lukan Hypothesis* §2.1; *No Original Exists* §6.4; *The River and the Vessel* §8.3) uses the Samaritan and the Prodigal as Proto-Lukan examples. Both are in the first group (`docs/audit/library_corrections.md`, item 8).
+
+**Question.** Is correspondential completeness distributed unevenly across the three groups? If it is concentrated in the absent parables, correspondential composition marks material that the Marcionite text lacked, rather than its earliest stratum. It would then be a compositional signature of a second hand or a later layer.
+
+**Design (to be fixed before scoring).**
+1. **Criteria.** Fix the scoring criteria in advance from the library's own method of correspondential reading. Proposed measures, per parable:
+   - the share of its narrative elements (persons, objects, places, actions, numbers) that have an established correspondence;
+   - whether those senses cohere into one reading of the whole.
+   Sources: *A Library of Biblical Correspondences in Nature and Objects*; Swedenborg, *Arcana Coelestia*, cited directly.
+2. **Blind scoring.** Score each parable from its text with the attestation class withheld. The parables are prepared as neutral, unlabeled texts, and the scorer does not consult the apparatus.
+3. **Comparison.** Only then compare the groups (absent vs. attested; a rank test, given the small numbers).
+4. **Reach.** With about six against twelve parables, the result can be suggestive, not decisive. Record it as such.
+5. **Controls.** Score a few parables from Matthew and Mark as controls (e.g. the wicked tenants in Mark 12, the talents in Matthew 25). They show whether the signature is Lukan or synoptic.
+
+**Status.** Open. To be taken up after the stylometric rerun (PREREGISTRATION §7).
