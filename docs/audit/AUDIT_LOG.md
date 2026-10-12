@@ -200,3 +200,113 @@ The chapter boundaries of the previous text are kept.
 - **"Omission in 9:54" and "Excision in 9:55".** These rested on readings no witness supports.
 - **"The Great Omission".** Mark 6:45–8:26 is missing from canonical Luke as well, so it does not distinguish the two texts (`docs/audit/library_context.md` §5). A note at 9:17 now says so.
 
+
+## Batch 3: Luke 10:1–13:35 → chapters 8–11 (2026-10-12)
+
+### What was checked
+
+- Every verse of Luke 10–13 (190 verses) has a record in `data/apparatus/luke_10.json` to `luke_13.json`.
+- **Tertullian, *Marc.* 4.24–4.30:** read in full, as were the Epiphanius scholia 22–41.
+- **Roth's classes:** recorded for every verse, together with his discussion of each graded reading (chs. 4–6, 8).
+- **Origen, fragment on Luke 11:3:** read in Rauer's edition (GCS 35, 1930, p. 254, fr. XLVI). It is the only Greek quotation of the Marcionite bread petition.
+- **NA27 screen:** every candidate in Luke 10–13 was checked on the page images (pp. 190–207), apparatus included, wherever a reading was at issue.
+
+### Structure
+
+| Chapter | Contents | Printed | Grey (unattested) |
+|---|---|---|---|
+| 8 | Luke 10 (without 10:12–15, 10:18, 10:29–42) | 23 | 5 |
+| 9 | Luke 11 (without 11:24–26, 11:30–32, 11:34–36, 11:49–51, 11:53–54) | 40 | 7 |
+| 10 | Luke 12 (without 12:6–7, 12:33–34; 12:28a removed) | 55 | 11 |
+| 11 | Luke 13:10–28 (without 13:22) | 18 | 8 |
+
+The chapter boundaries of the previous text are kept: one chapter per chapter of Luke.
+
+### Not printed
+
+| Verses | Class | Reason |
+|---|---|---|
+| 10:12–15 | U− | Tertullian argues at length (4.24.7–8) that the dust saying implies judgement, and does not cite the verses that state it (Sodom, the woes). |
+| 10:18 | U− | Tertullian brings in Ps 91:13 and Isa 27:1 for the fall of the serpent (4.24.10) instead. |
+| 10:29–37 | U− | The Samaritan. Both witnesses end the lawyer's exchange at 10:28; the parable expounds the "head of the law" Tertullian was arguing for. |
+| 10:38–42 | U? | Martha and Mary. A paragraph with no attested verse; the witnesses' silence is undetermined. |
+| 11:24–26 | U? | A paragraph with no attested verse. |
+| 11:30–32 | A− | Epiph. sch. 25. |
+| 11:34–36 | U? | A paragraph with no attested verse. |
+| 11:49–51 | A− | Epiph. sch. 28. |
+| 11:53–54 | U? | A paragraph with no attested verse. |
+| 12:6 | A− | Epiph. sch. 29. |
+| 12:7 | U− | It depends on 12:6 ("many sparrows"); Tertullian argues the Creator's care and goes from 12:5 to 12:8. |
+| 12:28a | A− | Epiph. sch. 31 ("God clothes the grass"). |
+| 12:33–34 | U? | A paragraph with no attested verse. |
+| 13:1–9 | A− | Epiph. sch. 38. |
+| 13:22 | U? | A one-verse paragraph with no attested verse. |
+| 13:29–35 | A− | Epiph. sch. 41, saying by saying. |
+
+### Marcionite readings printed
+
+| Verse | Reading | Witnesses | Agreement |
+|---|---|---|---|
+| 10:1 | "seventy", without NA27's bracketed [δύο] | Tert. 4.24.1 (Roth: very likely) | ℵ A C L W 𝔐 |
+| 10:21 | εὐχαριστῶ σοι, κύριε τοῦ οὐρανοῦ (no πάτερ, no καὶ τῆς γῆς) | Epiph. sch. 22; Tert. 4.25.1 | 𝔓45 (no "and of the earth") |
+| 10:21 | ὅτι ἅτινα ἦν κρυπτὰ σοφοῖς καὶ συνετοῖς ἀπεκάλυψας νηπίοις | Tert. 4.25.1, 6 (retroversion, Roth's Greek) | — |
+| 10:22 | "who the Father is… who the son is" (Father first) | Tert. 4.25.10; Adamantius; Eznik | some MSS and fathers |
+| 10:25 | ζωήν without αἰώνιον | Tert. 4.25.14, 18 (explicit) | — |
+| 11:2 | a petition for the holy spirit in place of "hallowed be your name" (ἐλθέτω τὸ πνεῦμά σου τὸ ἅγιον) | Tert. 4.26.3–5 (content; the Greek wording is that of 700, 162, Gregory of Nyssa, shortened) | NA27: (McionT) |
+| 11:3 | τὸν ἄρτον σου | Origen (Greek); Tert. 4.26.4 | NA27: McionOr |
+| 11:29 | without εἰ μὴ τὸ σημεῖον Ἰωνᾶ | Epiph. sch. 25; Tert. 4.27.1 | — |
+| 11:38 | ἤρξατο διακρινόμενος ἐν ἑαυτῷ λέγειν διὰ τί… (D's Greek) | Tert. 4.27.2 (retroversion) | D lat syc; NA27: (McionT) |
+| 11:42 | τὴν κλῆσιν for τὴν κρίσιν | Epiph. sch. 26; Tert. 4.27.4, 6 | — |
+| 12:5 | βαλεῖν εἰς γέενναν | Epiph. sch. 29; Tert. 4.28.3 | 𝔓45 (D) W; NA27: McionT,E |
+| 12:8, 12:9 | "before God", without τῶν ἀγγέλων | Epiph. sch. 30; Tert. 4.28.4 | ℵ*; NA27: McionT,(E) |
+| 12:27 | πῶς οὔτε νήθει οὔτε ὑφαίνει (D's Greek) | Tert. 4.29.1 (retroversion) | D sys.c Cl; NA27: (McionT) |
+| 12:28 | without 12:28a | Epiph. sch. 31 (attested omission) | — |
+| 12:31 | τὴν βασιλείαν τοῦ θεοῦ | Epiph. sch. 33; Tert. 4.29.5 | 𝔓45 A D1 W 𝔐; NA27: McionE |
+| 12:32 | ὁ πατήρ without ὑμῶν | Epiph. sch. 34 (explicit) | — |
+| 12:38 | ἐν τῇ ἑσπερινῇ φυλακῇ for "in the second or third watch" | Epiph. sch. 35 (explicit) | D and the Old Latin (with both) |
+| 12:53 | διαμερισθήσεται (singular) | Tert. 4.29.14 (retroversion) | Byzantine text |
+| 12:56 | "heaven and earth" | Tert. 4.29.15 | 𝔓45 𝔓75 ℵ2 D it |
+| 12:58 | παραδώσει σε | Epiph. sch. 37 | 𝔓45 D |
+| 13:28 | πάντας τοὺς δικαίους for the patriarchs and prophets; κρατουμένους for ἐκβαλλομένους | Epiph. sch. 40; Tert. 4.30.4–5 | — |
+
+### NA27 corrections to SBLGNT (on the page images)
+
+- 10:1 no καί before ἑτέρους
+- 10:6 ἐὰν ἐκεῖ ᾖ; μή γε
+- 10:21 [ἐν] τῷ πνεύματι; ναὶ ὁ πατήρ
+- 11:14 [καὶ αὐτὸ ἦν]
+- 11:20 [ἐγώ]
+- 11:33 τὸ φῶς (SBLGNT τὸ φέγγος)
+- 12:54 [τὴν] νεφέλην
+- 12:56 τὸν καιρὸν δὲ τοῦτον
+- 13:21 [ἐν]έκρυψεν
+- 13:27 [ὑμᾶς]
+
+METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 already applied.
+
+### Departures from Roth
+
+| Verse | Roth | Audit | Basis |
+|---|---|---|---|
+| 10:12–15, 10:18, 10:29–37, 12:7 | unattested | probably absent | Tertullian's continuous argument at these points (see above). |
+| 12:24 | "God feeds them" probably not present | printed | No witness states it was lacking. Roth's inference rests on the analogy with 12:28a. |
+
+### Weaker attestations, recorded as such
+
+- **Not adopted (one witness, or Roth "probable"/"possible").** The readings are recorded in the apparatus:
+  - 10:24, Tertullian's short form, which lacks "and kings" (NA27: McionT with D it);
+  - 10:27, without "and with all your mind" (NA27: McionT with D it);
+  - 11:4, μὴ ἄφες ἡμᾶς εἰσενεχθῆναι, Tertullian's own way of glossing the petition;
+  - 11:48, D's "you testify that you do not approve", which is in Tertullian's argument, not his quotation;
+  - 12:10, "whoever speaks against the holy spirit";
+  - 12:51, βαλεῖν and ἀλλά (NA27 cites McionT; Roth: possible).
+- **11:2.** The petition for the spirit is attested in content only. Its Greek wording is not attested for this text (see `docs/research_questions.md` Q7).
+
+### Corrections to the previous text
+
+- **13:29 was printed.** Epiphanius states it was absent. It is removed.
+- **10:5–8 and 10:23–24 were omitted as "excisions".** Tertullian attests 10:5, 7–11 and 10:23–24. They are printed.
+- **"Excision of 11:14–36".** 11:14–22 are attested by Tertullian (4.26.10–12). Only 11:24–26 and 11:34–36 are not printed, and only as paragraphs with no attested verse.
+- **11:2 replaced "your kingdom come".** Tertullian attests the kingdom petition and places the spirit before it. The previous text also printed "do not let us be led" as Marcionite; it is printed in the NA27 form, with the reason given.
+- **12:4 "kill you only" (no "body") and 12:10 without "blaspheme".** Epiphanius' Greek has "the body"; the 12:10 form is rated probable only. NA27 is printed.
+- **Notes withdrawn.** Notes that gave no witness for their claims were withdrawn, among them "Upon you… the Ebionim", "dry forensic correction", and "Little flock = the Ebionim". New notes separate the attested text, its reception and interpretation.

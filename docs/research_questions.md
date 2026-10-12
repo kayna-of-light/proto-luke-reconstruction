@@ -205,3 +205,18 @@ These restore a narrative where the empty tomb is a sign of **absence and perple
 ---
 
 *End of research questions - Round 3*
+
+---
+
+## Question 7: The petition for the holy spirit in the Lord's Prayer (Luke 11:2) ✅ RESOLVED
+
+**Question.** Tertullian (*Marc.* 4.26.3–5) shows that the prayer in this text asked for the holy spirit. Which petition did it replace, and in what words?
+
+**Evidence.**
+- Tertullian turns each petition into a question, in the order of the prayer, and then says "in this order" (*hoc ordine*): Father; "From whom shall I ask the holy spirit?"; "Whose kingdom shall I wish to come?"; bread; sins; temptation. There is no question about the hallowing of the name. The spirit petition therefore stood where canonical Luke has "hallowed be your name", and "your kingdom come" was kept.
+- The only Greek witnesses for a spirit petition in Luke's prayer (minuscules 700, 162; Gregory of Nyssa; Maximus) read ἐλθέτω τὸ πνεῦμά σου τὸ ἅγιον ἐφ' ἡμᾶς καὶ καθαρισάτω ἡμᾶς. In them it replaces "your kingdom come". NA27 cites (McionT) for it.
+- Tertullian gives no wording. Roth (2015, ch. 4.4.45) rates the spirit very likely, and the wording unknown.
+
+**Decision.** The spirit petition is printed in place of "hallowed be your name", as ἐλθέτω τὸ πνεῦμά σου τὸ ἅγιον ("may your holy spirit come"). This is the verb and order of the Greek manuscript form, limited to the elements Tertullian attests. "Upon us and cleanse us" is not printed. "Your kingdom come" is kept. The apparatus (`data/apparatus/luke_11.json`) and the chapter 9 note mark the wording as unattested.
+
+**Status.** Implemented in batch 3 (chapter 9).
