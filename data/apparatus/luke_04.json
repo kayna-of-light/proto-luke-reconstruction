@@ -120,15 +120,20 @@
     {
       "ref": "4:27",
       "class": "A+",
-      "roth": "present (Marc. 4.35.6; Pan. 42.11.6 sch. 48)",
+      "roth": "present, in this position (Marc. 4.35.6; Pan. 42.11.6, sch. 48)",
       "witnesses": [
         {
           "source": "Epiphanius, Pan. 42.11.6, sch. 48",
-          "evidence": "The saying about Naaman stood inside the healing of the ten lepers (17:14)."
+          "evidence": "ὅτε συνήντησαν οἱ δέκα λεπροί. ἀπέκοψε δὲ πολλὰ καὶ ἐποίησεν »ἀπέστειλεν αὐτοὺς λέγων, δείξατε ἑαυτοὺς τοῖς ἱερεῦσι« καὶ ἄλλα ἀντὶ ἄλλων ἐποίησε, λέγων ὅτι »πολλοὶ λεπροὶ ἦσαν ἐν ἡμέραις Ἐλισσαίου τοῦ προφήτου καὶ οὐκ ἐκαθαρίσθη εἰ μὴ Νεεμὰν ὁ Σύρος«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.35.6",
+          "evidence": "\"Nunc etsi praefatus est multos tunc fuisse leprosos apud Israelem in diebus Helisaei prophetae et neminem eorum purgatum nisi Naaman Syrum…\""
         }
       ],
-      "decision": "printed at 17:14 (batch 5)",
-      "reason": "Attested in a different position."
+      "wording": "Printed here, between 17:12 and 17:14, as both witnesses place it: Epiphanius within the account of the ten lepers, Tertullian as said \"beforehand\" (praefatus est) in the same episode (Roth, Harnack). The verse is not printed at Luke 4 (batch 1). Marcionite readings adopted: ἐν ἡμέραις (\"in the days of\"; Tertullian \"in diebus\", Epiphanius) for NA27 ἐπί, and the spelling Νεεμάν (Epiphanius). Roth: secure for both. The opening καί of Luke 4:27 belongs to its canonical context and is not printed. No witness gives the words that introduced the saying here.",
+      "decision": "printed",
+      "reconstruction": "chapter 15, verse 7"
     },
     {
       "ref": "4:28",
