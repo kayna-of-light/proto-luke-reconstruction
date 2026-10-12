@@ -17,6 +17,7 @@ The Epiphanius scholia are read from the transcription committed at `docs/audit/
 |---|---|
 | `tert_index.py`, `roth_tables.py`, `roth_ch9.py` | Build the indexes of Tertullian's sections and Roth's loci and graded readings. |
 | `worksheet.py <luke-chapter> <out.md>` | Per-verse worksheet: SBLGNT, the current JSON, Roth's class and graded line, the Epiphanius scholia, and the Tertullian sections. |
+| `na27_screen.py` (`render`, `ocr`, `diff`) | Renders the NA27 pages of Luke (Drive parts p4–p6 in `AUDIT_SRC/na27/`), OCRs them with tesseract `grc`, aligns the main-text words with SBLGNT, and lists candidate differences (`AUDIT_SRC/na27/screen/candidates.csv`). Every candidate used is confirmed on the page image. |
 | `overview.py` | Lists the JSON verses against Roth's classes. |
 | `buildlib.py` | Shared build helpers. Each verse is NA27 Greek, made from SBLGNT plus patches that were checked against the NA27 page images. |
 | `batchN.py`, `batchN_chK.py` | One batch of the audit: the decisions verse by verse (Greek, English, apparatus record, notes). Running the script writes `data/apparatus/luke_NN.json`, replaces the batch's chapters in `data/proto_luke.json`, and runs the checks in METHOD §9. |

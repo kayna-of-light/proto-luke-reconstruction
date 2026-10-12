@@ -115,3 +115,88 @@ These go to Phase F (`docs/audit/library_corrections.md`).
 
 - **PDF regenerated.** The PDF script now renders flagged verses in grey with a legend. It also falls back to GNU FreeSerif for polytonic Greek when the Windows Palatino fonts are absent.
 - **Preface not yet rewritten.** The preface (`description`) still describes the old method. It is rewritten at the end of the audit (task 5).
+
+## Stylometric baseline (2026-10-12)
+
+The stylometric baseline was run between batches 1 and 2: pre-registered, then run on seven editions. See `docs/stylometry/REPORT.md`.
+
+**Consequences for the audit:**
+- **No verse-level stylometric criterion.** A classifier separating absent from present verses performs at chance (AUC ≈ 0.5). Inclusion decisions therefore continue to rest on the witnesses alone. Batch 1 needed no change.
+- **Outside Luke 1–2, no measurable stylistic difference.** Missing and kept material cannot be told apart, so no note cites style for or against a verse.
+
+## Batch 2: Luke 7:1–9:62 → chapters 4–7 (2026-10-12)
+
+### What was checked
+
+- Every verse of Luke 7–9 (168 verses) has a record in `data/apparatus/luke_07.json` to `luke_09.json`.
+- **Tertullian, *Marc.* 4.18–4.23:** read in full, as were the Epiphanius scholia 7–20.
+- **Roth's classes:** recorded for every verse.
+- **NA27 against SBLGNT, new screen.** This batch added a systematic check (`scripts/audit/na27_screen.py`):
+  - every NA27 page of Luke was rendered and OCR'd with the Ancient Greek model;
+  - the OCR text was aligned with SBLGNT, and every candidate difference listed;
+  - each candidate in the batch range was checked on the page image.
+- **The screen's recall.** It found all the NA27 differences already identified by eye in batch 1, so batch 1 needs no Greek change.
+
+### Structure
+
+| Chapter | Contents | Printed | Grey (unattested) |
+|---|---|---|---|
+| 4 | Luke 7 (without 7:29–35) | 43 | 19 |
+| 5 | Luke 8:1–25 (without 8:9–15, 8:19) | 17 | 4 |
+| 6 | Luke 8:26–9:17 | 48 | 25 |
+| 7 | Luke 9:18–62 (without 9:49–50; 9:31b removed) | 43 | 13 |
+
+The chapter boundaries of the previous text are kept.
+
+### Not printed
+
+| Verses | Class | Reason |
+|---|---|---|
+| 7:29–35 | U− | Tertullian's argument in 4.18 needed John's baptism as "the counsel of God". |
+| 8:9–10 | U− | Tertullian cites Isaiah 6:9 himself (4.19.2) instead of Jesus' use of it. |
+| 8:11–15 | U? | Its NA27 paragraph has no attested verse. |
+| 8:19 | A− | Epiphanius, sch. 12. |
+| 9:49–50 | U? | A separate paragraph with no attested verse. |
+| 9:31b | A− | Roth, on Tertullian 4.22.16. Epiphanius' copy differs at 9:30. |
+
+### Marcionite readings printed
+
+| Verse | Reading | Witnesses | Agreement |
+|---|---|---|---|
+| 7:9 | Word order τοσαύτην πίστιν οὐδὲ ἐν τῷ Ἰσραήλ | Epiph. sch. 7 (Greek) | — |
+| 8:21 | "Who is my mother and who are my brothers, except those who hear my words and do them?" | Tert. 4.19.6, 11 (retroversion, Roth's Greek) | form of Mark and Matthew |
+| 8:45 | τίς μου ἥψατο; | Epiph. sch. 14; Tert. 4.20.8 | — |
+| 9:16 | εὐλόγησεν ἐπ' αὐτούς | Epiph. sch. 15 | D it sy(s).c |
+| 9:22 | μετὰ τρεῖς ἡμέρας | Epiph. sch. 16; Tert. 4.21.7 | D it; Mark 8:31 |
+| 9:35 | ὁ ἀγαπητός | Epiph. sch. 18; Tert. 4.22 (four times) | A C* W f13 𝔐 it |
+| 9:41 | without καὶ διεστραμμένη | Epiph. sch. 19; Tert. 4.23.1–2 (attested omission) | Mark 9:19 |
+| 9:2 | without NA27's bracketed [τοὺς ἀσθενεῖς] | Adamantius 82,4–5 | — |
+
+### NA27 corrections to SBLGNT (on the page images)
+
+- 7:22 καὶ κωφοί
+- 8:20 ἰδεῖν θέλοντές σε
+- 9:18 λέγουσιν οἱ ὄχλοι
+- 9:48 ὃς ἐάν
+- 9:62 [πρὸς αὐτόν]
+
+### Departures from Roth
+
+| Verse | Roth | Audit | Basis |
+|---|---|---|---|
+| 9:52 | unattested | attested | Tertullian 4.23.8 names "that village of the Samaritans". |
+| 7:29–35 | unattested | probably absent | — |
+| 8:9–10 | unattested | probably absent | — |
+
+### Weaker attestations, recorded as such
+
+- **9:1 and 9:6.** These are read in the Dialogue of Adamantius by the *orthodox* speaker, as an argument the Marcionite is expected to accept. Roth counts them as attested.
+- **9:18–19.** Adamantius 84, via Roth; the Greek OCR of that page could not be read.
+
+### Notes withdrawn from the previous text
+
+- **"Excision of 8:24a".** Epiphanius' quotation is compressed; 8:24 is attested.
+- **"Excision of the distribution clause (9:16b)".** No witness supports it.
+- **"Omission in 9:54" and "Excision in 9:55".** These rested on readings no witness supports.
+- **"The Great Omission".** Mark 6:45–8:26 is missing from canonical Luke as well, so it does not distinguish the two texts (`docs/audit/library_context.md` §5). A note at 9:17 now says so.
+

@@ -103,7 +103,10 @@ It does not supply readings. Where a library document makes a factual claim abou
    - the Epiphanius scholion;
    - Adamantius;
    - SBLGNT Greek.
-2. Read each locus in the primary text. Assign the class. Decide the wording.
+2. Read each locus in the primary text. Assign the class. Decide the wording. Check the base text against NA27:
+   - take the screen's candidate list for the range (`scripts/audit/na27_screen.py`: NA27 pages OCR'd and aligned with SBLGNT);
+   - confirm each candidate on the page image;
+   - look at the page image for every printed verse the screen marks as noisy.
 3. Write the apparatus records (`data/apparatus/luke_NN.json`).
 4. Rebuild the JSON chapter from the apparatus: verses, Greek, English, notes, preamble.
 5. Run the checks:
