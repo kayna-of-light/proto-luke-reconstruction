@@ -1,0 +1,341 @@
+{
+  "luke_chapter": 4,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "4:1–13",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.7.1",
+          "evidence": "\"Anno quintodecimo principatus Tiberiani proponit eum descendisse in civitatem Galilaeae Capharnaum\" — the date and the descent to Capernaum stated as one sentence."
+        },
+        {
+          "source": "Tertullian, Marc. 5.6.7 (via Roth loci)",
+          "evidence": "cited by Roth for the absence of the temptation."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Excluded by the 3:1 → 4:31 junction. The temptation is also listed as absent in the library (Dancing with Fire §5.2)."
+    },
+    {
+      "ref": "4:14–15",
+      "class": "A−",
+      "roth": "unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.7.1",
+          "evidence": "\"Anno quintodecimo principatus Tiberiani proponit eum descendisse in civitatem Galilaeae Capharnaum\" — the date and the descent to Capernaum stated as one sentence."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Excluded by the 3:1 → 4:31 junction (Roth: unattested; difference recorded)."
+    },
+    {
+      "ref": "4:16",
+      "class": "A+",
+      "roth": "present (Marc. 4.8.2; Ephrem, Comm. Diat. 11.23)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.2",
+          "evidence": "\"apud Nazareth quoque nihil novi notatur praedicasse, dum alio, merito unius proverbii, eiectus refertur\" — the visit to Nazareth, his preaching there, and his ejection."
+        }
+      ],
+      "wording": "NA27 (Ναζαρά). The visit and preaching are attested; the details \"as was his custom\", \"sabbath\", \"stood up to read\" are not.",
+      "position": "After 4:37: Tertullian treats the Capernaum episode (4.7) before Nazareth (4.8.2), and 4:23 refers back to deeds already done at Capernaum.",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 9"
+    },
+    {
+      "ref": "4:17–21",
+      "class": "U−",
+      "roth": "unattested (\"possibly not present\")",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.2",
+          "evidence": "\"nihil novi notatur praedicasse\"."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Tertullian works through the Nazareth visit (4.8.2–3) and his whole case in book IV is that Jesus fulfils the Creator's prophets. A reading of Isaiah 61 announced as fulfilled \"today\" would have been his strongest proof; he says only that Jesus preached \"nothing new\". Silence where the passage would have served him (METHOD §3, U−)."
+    },
+    {
+      "ref": "4:22",
+      "class": "U−",
+      "roth": "unattested (\"possibly not present\")",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.7.7",
+          "evidence": "\"cuius nemo adhuc certus de tribu, de populo, de domo\" — no one yet knew his tribe, people or house."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Tertullian argues that Jesus' descent was unknown to his hearers; \"Is not this Joseph's son?\" would have contradicted the Marcionite reading and served Tertullian in 4.7–4.8 and in his arguments on the birth. He does not cite it. The previous text printed 4:22a; it is removed."
+    },
+    {
+      "ref": "4:23",
+      "class": "A+",
+      "roth": "present (Marc. 4.8.2; Ephrem, Comm. Diat. 11.23)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.2",
+          "evidence": "\"merito unius proverbii eiectus\" — thrown out because of a single proverb."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 10"
+    },
+    {
+      "ref": "4:24",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested Nazareth pericope. Tertullian's \"unius proverbii\" may refer to this saying rather than to 4:23; it cannot be decided.",
+      "reconstruction": "chapter 1, verse 11"
+    },
+    {
+      "ref": "4:25–26",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.2",
+          "evidence": "\"merito unius proverbii eiectus\" — thrown out because of a single proverb."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Tertullian gives one proverb as the cause of the ejection; in canonical Luke the Elijah and Elisha sayings are what provoke the rage. Elijah sent to a Sidonian widow would also have served Tertullian's argument for the Creator's concern for the nations; it is not cited."
+    },
+    {
+      "ref": "4:27",
+      "class": "A+",
+      "roth": "present (Marc. 4.35.6; Pan. 42.11.6 sch. 48)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 48",
+          "evidence": "The saying about Naaman stood inside the healing of the ten lepers (17:14)."
+        }
+      ],
+      "decision": "printed at 17:14 (batch 5)",
+      "reason": "Attested in a different position."
+    },
+    {
+      "ref": "4:28",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested Nazareth pericope; Tertullian reports the ejection but not the rage.",
+      "reconstruction": "chapter 1, verse 12"
+    },
+    {
+      "ref": "4:29",
+      "class": "A+",
+      "roth": "present (Marc. 4.8.2; Ephrem, Comm. Diat. 11.23; Jerome)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.2",
+          "evidence": "\"manus ei iniectas… detentus et captus et ad praecipitium usque protractus\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 13"
+    },
+    {
+      "ref": "4:30",
+      "class": "A+",
+      "roth": "present (Marc. 4.8.3; Jerome)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.3",
+          "evidence": "\"Nam etsi per medios evasit…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 14"
+    },
+    {
+      "ref": "4:31",
+      "class": "A+",
+      "roth": "present (Marc. 4.7.1–7; Adam. 102,22–23; Irenaeus, Haer. 1.27.2; Hippolytus, Haer. 7.31.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.7.1",
+          "evidence": "\"Anno quintodecimo principatus Tiberiani proponit eum descendisse in civitatem Galilaeae Capharnaum\" — the date and the descent to Capernaum stated as one sentence."
+        },
+        {
+          "source": "Tertullian, Marc. 4.7.7",
+          "evidence": "Asks how he could be admitted to teach in the synagogue: attests the teaching in the synagogue."
+        }
+      ],
+      "wording": "NA27 without the opening Καί, which is canonical Luke's link to 4:30; the witnesses join κατῆλθεν directly to 3:1 (editorial junction). Spelling Καφαρναούμ (NA27).",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 2"
+    },
+    {
+      "ref": "4:32",
+      "class": "A+",
+      "roth": "present (Marc. 4.7.7–8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.7.7",
+          "evidence": "\"Stupebant autem omnes ad doctrinam eius… Quoniam, inquit, in potestate erat sermo eius.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 3"
+    },
+    {
+      "ref": "4:33",
+      "class": "A+",
+      "roth": "unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.7.9",
+          "evidence": "\"Exclamat ibidem spiritus daemonis\" — the spirit of a daimon cries out in that place (the synagogue)."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reason": "Tertullian paraphrases the content of the verse (spirit of a daimon, crying out, in the synagogue) before quoting 4:34. Roth lists 4:33 as unattested; the paraphrase is sufficient for A+.",
+      "reconstruction": "chapter 1, verse 4"
+    },
+    {
+      "ref": "4:34",
+      "class": "A+",
+      "roth": "present (Marc. 4.7.9, 10, 12)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.7.9",
+          "evidence": "\"Quid nobis et tibi est Iesu? venisti perdere nos: scio qui sis, sanctus dei.\" No Ἔα, no Ναζαρηνέ."
+        }
+      ],
+      "wording": "NA27. Tertullian's quotation lacks Ἔα and Ναζαρηνέ; one witness, and Roth rates the absence of Ναζαρηνέ only \"may not have been present\", so NA27 is kept and the omission noted. Tertullian opens 4.8.1 with the name Nazaraeus.",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 5"
+    },
+    {
+      "ref": "4:35",
+      "class": "A+",
+      "roth": "present (Marc. 4.7.13)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.7.13",
+          "evidence": "\"Atquin, inquis, increpuit illum Iesus.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 6"
+    },
+    {
+      "ref": "4:36",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 4:31–37.",
+      "reconstruction": "chapter 1, verse 7"
+    },
+    {
+      "ref": "4:37",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 4:31–37.",
+      "reconstruction": "chapter 1, verse 8"
+    },
+    {
+      "ref": "4:38–39",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "Whole pericope (Simon's mother-in-law) without an attested verse (METHOD §4.3)."
+    },
+    {
+      "ref": "4:40",
+      "class": "A+",
+      "roth": "present (Marc. 4.8.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.4",
+          "evidence": "\"ipse mox tetigit alios, quibus manus imponens… beneficia medicinarum conferebat\"."
+        }
+      ],
+      "wording": "NA27 (εἶχον, ἐθεράπευεν; checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 15"
+    },
+    {
+      "ref": "4:41",
+      "class": "A+",
+      "roth": "present (Marc. 4.8.5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.5",
+          "evidence": "\"spiritus nequam… excedebant vociferantes, Tu es filius dei… increpabantur et iubebantur tacere.\""
+        }
+      ],
+      "wording": "NA27. NA27 cites McionT for its text against the addition ὁ χριστός after εἶ (A Q Θ Ψ 0102 f1.13 𝔐). κραυγάζοντα is NA27 text (κράζοντα ℵ B C …).",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 16"
+    },
+    {
+      "ref": "4:42",
+      "class": "A+",
+      "roth": "present (Marc. 4.8.9–10)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.9",
+          "evidence": "\"In solitudinem procedit… Detentus a turbis\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 17"
+    },
+    {
+      "ref": "4:43",
+      "class": "A+",
+      "roth": "present (Marc. 4.8.10)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.9",
+          "evidence": "\"Oportet me, inquit, et aliis civitatibus annuntiare regnum dei.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's order \"oportet me… et aliis civitatibus\" is rated very likely by Roth for δεῖ με only; word order in a Latin citation is not evidence for Greek order, so NA27 is kept.",
+      "decision": "printed",
+      "reconstruction": "chapter 1, verse 18"
+    },
+    {
+      "ref": "4:44",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (Ἰουδαίας; Γαλιλαίας A D Θ Ψ f13 𝔐).",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 4:42–44.",
+      "reconstruction": "chapter 1, verse 19"
+    }
+  ]
+}

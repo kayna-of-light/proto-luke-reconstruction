@@ -1,0 +1,509 @@
+{
+  "luke_chapter": 5,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "5:1",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Opens the attested pericope 5:1–11.",
+      "reconstruction": "chapter 2, verse 1"
+    },
+    {
+      "ref": "5:2",
+      "class": "A+",
+      "roth": "present (Marc. 4.9.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.9.1",
+          "evidence": "\"ut ab illa [piscatura] in apostolos sumeret Simonem et filios Zebedaei… dicens Petro trepidanti de copiosa indagine piscium, Ne time, abhinc enim homines eris capiens?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reason": "Tertullian names fishing as the trade from which the emissaries were taken.",
+      "reconstruction": "chapter 2, verse 2"
+    },
+    {
+      "ref": "5:3",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside an attested pericope.",
+      "reconstruction": "chapter 2, verse 3"
+    },
+    {
+      "ref": "5:4",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside an attested pericope.",
+      "reconstruction": "chapter 2, verse 4"
+    },
+    {
+      "ref": "5:5",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside an attested pericope.",
+      "reconstruction": "chapter 2, verse 5"
+    },
+    {
+      "ref": "5:6",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside an attested pericope.",
+      "reconstruction": "chapter 2, verse 6"
+    },
+    {
+      "ref": "5:7",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside an attested pericope.",
+      "reconstruction": "chapter 2, verse 7"
+    },
+    {
+      "ref": "5:8",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside an attested pericope.",
+      "reconstruction": "chapter 2, verse 8"
+    },
+    {
+      "ref": "5:9",
+      "class": "A+",
+      "roth": "present (Marc. 4.9.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.9.1",
+          "evidence": "\"ut ab illa [piscatura] in apostolos sumeret Simonem et filios Zebedaei… dicens Petro trepidanti de copiosa indagine piscium, Ne time, abhinc enim homines eris capiens?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reason": "\"Petro trepidanti de copiosa indagine piscium\".",
+      "reconstruction": "chapter 2, verse 9"
+    },
+    {
+      "ref": "5:10",
+      "class": "A+",
+      "roth": "present (Marc. 4.9.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.9.1",
+          "evidence": "\"ut ab illa [piscatura] in apostolos sumeret Simonem et filios Zebedaei… dicens Petro trepidanti de copiosa indagine piscium, Ne time, abhinc enim homines eris capiens?\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"abhinc enim\" suggests γάρ after ἀπὸ τοῦ νῦν (Roth: possible only); not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 10"
+    },
+    {
+      "ref": "5:11",
+      "class": "A+",
+      "roth": "present (Marc. 4.9.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.9.2",
+          "evidence": "\"Denique relictis naviculis secuti sunt eum\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 11"
+    },
+    {
+      "ref": "5:12",
+      "class": "A+",
+      "roth": "present (Marc. 4.9.3; Pan. 42.11.17, refutation 1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.9.3",
+          "evidence": "The cleansing of the leper."
+        }
+      ],
+      "wording": "NA27 (ἰδὼν δέ; SBLGNT καὶ ἰδών — checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 12"
+    },
+    {
+      "ref": "5:13",
+      "class": "A+",
+      "roth": "present (Marc. 4.9.4, 7; Pan. 42.11.17, refutation 1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.9.4–7",
+          "evidence": "The touch and the cleansing."
+        }
+      ],
+      "wording": "NA27 (λέγων; SBLGNT εἰπών — checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 13"
+    },
+    {
+      "ref": "5:14",
+      "class": "A+",
+      "roth": "present (Marc. 4.9.9–10; Pan. 42.11.6, sch. 1)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 1",
+          "evidence": "»ἀπελθὼν δεῖξον σεαυτὸν τῷ ἱερεῖ καὶ προσένεγκε περὶ τοῦ καθαρισμοῦ σου, καθὼς προσέταξε Μωυσῆς· ἵνα ᾖ μαρτύριον τοῦτο ὑμῖν« ἀνθ' οὗ εἶπεν ὁ σωτὴρ »εἰς μαρτύριον αὐτοῖς«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.9.9–10",
+          "evidence": "\"vetuit eum divulgare… Vade, ostende te sacerdoti, et offer munus quod praecepit Moyses… Itaque adiecit, Ut sit vobis in testimonium.\""
+        }
+      ],
+      "wording": "Marcionite reading adopted: ἵνα ᾖ μαρτύριον τοῦτο ὑμῖν (Epiphanius' Greek, confirmed in sense by Tertullian). NA27 apparatus: ἵνα εἰς μαρτύριον ᾖ ὑμῖν τοῦτο D it; (McionT,E). Tertullian's \"in testimonium\" and D have εἰς; Epiphanius does not; Roth prints εἰς. The Greek quotation is printed as it stands and εἰς is left open. Tertullian's \"munus\" (τὸ δῶρον) is rated possible by Roth; not adopted.",
+      "decision": "printed",
+      "western": "Agrees with D and the Old Latin in the ἵνα-clause and second person.",
+      "reconstruction": "chapter 2, verse 14"
+    },
+    {
+      "ref": "5:15",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 5:12–16.",
+      "reconstruction": "chapter 2, verse 15"
+    },
+    {
+      "ref": "5:16",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 5:12–16.",
+      "reconstruction": "chapter 2, verse 16"
+    },
+    {
+      "ref": "5:17",
+      "class": "A+",
+      "roth": "present (Marc. 4.10.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.10.1",
+          "evidence": "\"Curatur et paralyticus, et quidem in coetu, spectante populo.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 17"
+    },
+    {
+      "ref": "5:18",
+      "class": "A+",
+      "roth": "present (Marc. 4.10.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.10.1",
+          "evidence": "\"Curatur et paralyticus\"."
+        }
+      ],
+      "wording": "NA27, including the bracketed [αὐτόν] after θεῖναι (SBLGNT omits it).",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 18"
+    },
+    {
+      "ref": "5:19",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 5:17–26.",
+      "reconstruction": "chapter 2, verse 19"
+    },
+    {
+      "ref": "5:20",
+      "class": "A+",
+      "roth": "present (Marc. 4.10.13–14)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.10.14",
+          "evidence": "\"in isto loco primum in quo primum peccata dimisit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 20"
+    },
+    {
+      "ref": "5:21",
+      "class": "A+",
+      "roth": "present (Marc. 4.10.1, 13)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.10.1, 13",
+          "evidence": "\"Quis dimittet peccata nisi solus deus?\"; \"non posse hominem delicta dimittere, sed deum solum\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 21"
+    },
+    {
+      "ref": "5:22",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 5:17–26.",
+      "reconstruction": "chapter 2, verse 22"
+    },
+    {
+      "ref": "5:23",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 5:17–26.",
+      "reconstruction": "chapter 2, verse 23"
+    },
+    {
+      "ref": "5:24",
+      "class": "A+",
+      "roth": "present (Marc. 4.10.1, 13; Pan. 42.11.6, sch. 2)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 2",
+          "evidence": "»ἵνα δὲ εἰδῆτε ὅτι ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου ἀφιέναι ἁμαρτίας ἐπὶ τῆς γῆς«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.10.1",
+          "evidence": "\"Exsurge, et tolle grabatum\" (the Latin transcription on tertullian.org omits a line here; Evans' English has \"Arise and take up thy bed\")."
+        }
+      ],
+      "wording": "5:24a: NA27 order kept; Epiphanius' order (ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου ἀφιέναι ἁμαρτίας ἐπὶ τῆς γῆς) is Mark's and Matthew's, and Roth marks the order uncertain. 5:24b: reading adopted from Tertullian (retroversion): ἆρον and καί, ℵ D 1424 pc; McionT; τὸν κράβαττον, D 1424 c r1; McionT (NA27 apparatus). Latin grabatum renders κράβαττος, not κλινίδιον. Roth: very likely.",
+      "decision": "printed",
+      "western": "Agrees with D and Old Latin c r1 (κράβαττον).",
+      "reconstruction": "chapter 2, verse 24"
+    },
+    {
+      "ref": "5:25",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 5:17–26.",
+      "reconstruction": "chapter 2, verse 25"
+    },
+    {
+      "ref": "5:26",
+      "class": "A+",
+      "roth": "present (Marc. 4.10.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.10.1",
+          "evidence": "\"spectante populo. Videbit enim, inquit Esaias, populus sublimitatem domini et gloriam dei\" — applied to the onlookers."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reason": "An allusion: Tertullian applies Isaiah's \"the people shall see the glory of God\" to the crowd's response. Accepted with Roth; the wording is not attested.",
+      "reconstruction": "chapter 2, verse 26"
+    },
+    {
+      "ref": "5:27",
+      "class": "A+",
+      "roth": "present (Marc. 4.11.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.11.1",
+          "evidence": "\"Publicanum adlectum a domino in argumentum deducit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 27"
+    },
+    {
+      "ref": "5:28",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 5:27–32.",
+      "reconstruction": "chapter 2, verse 28"
+    },
+    {
+      "ref": "5:29",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 5:27–32.",
+      "reconstruction": "chapter 2, verse 29"
+    },
+    {
+      "ref": "5:30",
+      "class": "A+",
+      "roth": "present (Marc. 4.11.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.11.1–2",
+          "evidence": "The tax collectors and \"ethnicos et publicanos, quos adlegebat\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 30"
+    },
+    {
+      "ref": "5:31",
+      "class": "A+",
+      "roth": "present (Marc. 4.11.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.11.1",
+          "evidence": "\"dicendo medicum sanis non esse necessarium sed male habentibus\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 31"
+    },
+    {
+      "ref": "5:32",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 5:27–32.",
+      "reconstruction": "chapter 2, verse 32"
+    },
+    {
+      "ref": "5:33",
+      "class": "A+",
+      "roth": "present (Marc. 4.11.5; Ephrem, Hymns against Heresies 47.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.11.5",
+          "evidence": "\"discipulos Christi manducantes et bibentes ad formam discipulorum Ioannis assidue ieiunantium et orantium\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 33"
+    },
+    {
+      "ref": "5:34",
+      "class": "A+",
+      "roth": "present (Marc. 4.11.6; Ephrem)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.11.6",
+          "evidence": "\"quod non possent ieiunare filii sponsi quamdiu cum eis esset sponsus\"."
+        }
+      ],
+      "wording": "NA27, including ὁ Ἰησοῦς (SBLGNT omits it — checked on the page image). NA27 apparatus: δύνανται οἱ υἱοί… νηστεύειν ℵ* D it; (McionT). Roth: possible only; not adopted.",
+      "decision": "printed",
+      "western": "Tertullian's form agrees with ℵ* D it.",
+      "reconstruction": "chapter 2, verse 34"
+    },
+    {
+      "ref": "5:35",
+      "class": "A+",
+      "roth": "present (Marc. 4.11.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.11.6",
+          "evidence": "\"postea vero ieiunaturos promittens cum ablatus ab eis sponsus esset\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 35"
+    },
+    {
+      "ref": "5:36",
+      "class": "A+",
+      "roth": "present (Marc. 4.11.9–10; Pan. 42.2.1; Adam. 90,8–; Philastrius 45.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.11.9",
+          "evidence": "\"veteri, id est priori evangelio, pannum haereticae novitatis assuisti\"."
+        }
+      ],
+      "wording": "NA27 (μή γε). Roth: the wording \"can no longer be reconstructed\"; the Marcionite discussion may have taken wine before patch.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 36"
+    },
+    {
+      "ref": "5:37",
+      "class": "A+",
+      "roth": "present (Marc. 4.11.9–10; Pan. 42.2.1; Ephrem)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.11.9",
+          "evidence": "\"Inflatus es utribus veteribus et excerebratus es novo vino\"."
+        }
+      ],
+      "wording": "NA27 (μή γε).",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 37"
+    },
+    {
+      "ref": "5:38",
+      "class": "A+",
+      "roth": "present, uncertain ([Adam. 90,5–7])",
+      "witnesses": [
+        {
+          "source": "Adamantius 90,5–7 (via Roth; attestation uncertain)",
+          "evidence": "NA27 cites McionA for βάλλουσιν (ℵ* D it syp) and for the addition καὶ ἀμφότεροι συντηροῦνται."
+        }
+      ],
+      "wording": "NA27. The Adamantius evidence is uncertain (Roth); not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 2, verse 38"
+    },
+    {
+      "ref": "5:39",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.11.9–11",
+          "evidence": "Argues at length that old and new belong to one God."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Tertullian discusses the patch and wineskins (5:36–38) at length to show that old and new belong to the same God. A saying that the old is better would have served him; he does not cite it. NA27: vs 39 omitted by D it; Eus.",
+      "western": "Absent also from D and the Old Latin."
+    }
+  ]
+}

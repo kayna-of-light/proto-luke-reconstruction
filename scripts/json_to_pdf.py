@@ -28,6 +28,7 @@ CHAPTER_COLOR = colors.Color(139/255, 69/255, 19/255)  # Saddle brown
 VERSE_NUM_COLOR = colors.Color(128/255, 0, 0)  # Dark red
 NOTE_COLOR = colors.Color(70/255, 70/255, 70/255)  # Dark gray
 TERM_COLOR = colors.Color(0, 51/255, 102/255)  # Dark blue
+UNATTESTED_COLOR = "#808080"  # Grey: verse not cited by any witness (attestation: unattested)
 
 
 def register_fonts():
@@ -40,6 +41,17 @@ def register_fonts():
         ("C:/Windows/Fonts/palabi.ttf", "Palatino-BoldItalic"),
     ]
     
+    # Elsewhere, GNU FreeSerif (full polytonic Greek) is registered under the same names
+    free_dir = "/usr/share/fonts/truetype/freefont"
+    fallback_paths = [
+        (f"{free_dir}/FreeSerif.ttf", "Palatino"),
+        (f"{free_dir}/FreeSerifBold.ttf", "Palatino-Bold"),
+        (f"{free_dir}/FreeSerifItalic.ttf", "Palatino-Italic"),
+        (f"{free_dir}/FreeSerifBoldItalic.ttf", "Palatino-BoldItalic"),
+    ]
+    if not all(os.path.exists(path) for path, _ in font_paths):
+        font_paths = fallback_paths
+    
     fonts_registered = False
     for path, name in font_paths:
         if os.path.exists(path):
@@ -48,6 +60,11 @@ def register_fonts():
                 fonts_registered = True
             except Exception as e:
                 print(f"Could not register {name}: {e}")
+    
+    if fonts_registered:
+        # Map <b> and <i> inside paragraphs to the matching faces
+        pdfmetrics.registerFontFamily('Palatino', normal='Palatino', bold='Palatino-Bold',
+                                      italic='Palatino-Italic', boldItalic='Palatino-BoldItalic')
     
     if not fonts_registered:
         # Fall back to Times which is built-in
@@ -325,6 +342,11 @@ def create_verse_table(verses, styles):
         greek = escape_xml(verse.get('greek', ''))
         english = escape_xml(verse.get('english', ''))
         canon_ref = verse.get('canonical_ref', '')
+        unattested = verse.get('attestation') == 'unattested'
+        if unattested:
+            # Not cited by any witness; printed because it stands inside an attested passage
+            greek = f'<font color="{UNATTESTED_COLOR}">{greek}</font>'
+            english = f'<font color="{UNATTESTED_COLOR}">{english}</font>'
         
         # Format verse number as superscript
         verse_marker = f'<font color="#{128:02x}{0:02x}{0:02x}"><super><b>{verse_num}</b></super></font> '
@@ -422,6 +444,18 @@ def create_chapter(chapter, styles):
         ('BOTTOMPADDING', (0, 0), (-1, -1), 8),
     ]))
     elements.append(header_table)
+    if any(v.get('attestation') == 'unattested' for v in verses):
+        legend_style = ParagraphStyle(
+            'legend',
+            parent=styles['Normal'],
+            fontSize=8,
+            textColor=colors.gray,
+            alignment=TA_CENTER
+        )
+        elements.append(Spacer(1, 3))
+        elements.append(Paragraph(
+            f'<font color="{UNATTESTED_COLOR}">Grey verses</font> are not cited by any witness to the text; '
+            'they are printed because they stand inside a passage the witnesses attest.', legend_style))
     elements.append(Spacer(1, 5))
     
     # Verses

@@ -5,654 +5,935 @@
     {
       "chapter": 1,
       "title": "Proto-Luke Chapter 1",
-      "preamble": "The Gospel begins not with a birth, but with an arrival. In the fifteenth year of Tiberius Caesar, Jesus descends into Galilee—teaching first in Capernaum, where his word carries an authority that astonishes those who hear it. From there he travels to Nazareth, his hometown, where the initial wonder at his gracious words will soon turn to hostility. This opening establishes the pattern of the entire narrative: the one who comes with power will be rejected by those closest to him.",
+      "preamble": "The text opens with a date and an arrival. Epiphanius quotes its first words, \"In the fifteenth year of Tiberius Caesar\", and states that the birth narratives, the baptism and the genealogy were not in it (Pan. 42.11.4–5). Tertullian joins the date directly to the descent to Capernaum (Marc. 4.7.1). There is no preface, no John the Baptist preaching, no baptism, no genealogy and no temptation. Jesus enters the narrative as an adult teacher in the synagogue of a Galilean town. The order also differs from canonical Luke. Tertullian treats the exorcism at Capernaum before the visit to Nazareth, and the Nazareth scene presupposes it (\"whatever we heard was done at Capernaum\", 4:23). The Nazareth visit itself is short. It has no reading from Isaiah, no question about Joseph's son and no Elijah and Elisha sayings, and Jesus is driven out over a single proverb. Verses printed in grey are not cited by any witness but stand inside a passage the witnesses attest; the notes list what is absent and why.",
       "verses": [
         {
           "verse": 1,
           "canonical_ref": "Luke 3:1",
-          "english": "In the fifteenth year of the governance of Tiberius Caesar, when Pontius Pilate was governor of Judea, and Herod was tetrarch of Galilee, and his brother Philip was tetrarch of the region of Ituraea and Trachonitis, and Lysanias was tetrarch of Abilene,",
-          "greek": "Ἐν ἔτει δὲ πεντεκαιδεκάτῳ τῆς ἡγεμονίας Τιβερίου Καίσαρος, ἡγεμονεύοντος Ποντίου Πιλάτου τῆς Ἰουδαίας, καὶ τετρααρχοῦντος τῆς Γαλιλαίας Ἡρῴδου, Φιλίππου δὲ τοῦ ἀδελφοῦ αὐτοῦ τετρααρχοῦντος τῆς Ἰτουραίας καὶ Τραχωνίτιδος χώρας, καὶ Λυσανίου τῆς Ἀβιληνῆς τετρααρχοῦντος,"
+          "english": "In the fifteenth year of the rule of Tiberius Caesar, when Pontius Pilate was governing Judea, and Herod was tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,",
+          "greek": "Ἐν ἔτει πεντεκαιδεκάτῳ τῆς ἡγεμονίας Τιβερίου Καίσαρος, ἡγεμονεύοντος Ποντίου Πιλάτου τῆς Ἰουδαίας, καὶ τετρααρχοῦντος τῆς Γαλιλαίας Ἡρῴδου, Φιλίππου δὲ τοῦ ἀδελφοῦ αὐτοῦ τετρααρχοῦντος τῆς Ἰτουραίας καὶ Τραχωνίτιδος χώρας, καὶ Λυσανίου τῆς Ἀβιληνῆς τετρααρχοῦντος,"
         },
         {
           "verse": 2,
           "canonical_ref": "Luke 4:31",
-          "english": "he came down to Capernaum, a city of Galilee, and was teaching them on the Sabbaths;",
+          "english": "he came down to Capernaum, a city of Galilee. And he was teaching them on the sabbaths;",
           "greek": "κατῆλθεν εἰς Καφαρναοὺμ πόλιν τῆς Γαλιλαίας. καὶ ἦν διδάσκων αὐτοὺς ἐν τοῖς σάββασιν·"
         },
         {
           "verse": 3,
           "canonical_ref": "Luke 4:32",
-          "english": "and they were astonished at his teaching, because his word was with authority.",
+          "english": "and they were astounded at his teaching, because his word was with authority.",
           "greek": "καὶ ἐξεπλήσσοντο ἐπὶ τῇ διδαχῇ αὐτοῦ, ὅτι ἐν ἐξουσίᾳ ἦν ὁ λόγος αὐτοῦ."
         },
         {
           "verse": 4,
-          "canonical_ref": "Luke 4:16",
-          "english": "And he came to Nazareth, where he had been brought up; and as was his custom, he entered the assembly on the Sabbath day and stood up to read.",
-          "greek": "Καὶ ἦλθεν εἰς Ναζαρά, οὗ ἦν τεθραμμένος, καὶ εἰσῆλθεν κατὰ τὸ εἰωθὸς αὐτῷ ἐν τῇ ἡμέρᾳ τῶν σαββάτων εἰς τὴν συναγωγήν, καὶ ἀνέστη ἀναγνῶναι."
+          "canonical_ref": "Luke 4:33",
+          "english": "And in the assembly there was a man who had the spirit of an unclean daimon, and he cried out with a loud voice:",
+          "greek": "καὶ ἐν τῇ συναγωγῇ ἦν ἄνθρωπος ἔχων πνεῦμα δαιμονίου ἀκαθάρτου, καὶ ἀνέκραξεν φωνῇ μεγάλῃ·"
         },
         {
           "verse": 5,
-          "canonical_ref": "Luke 4:22",
-          "english": "And all were bearing witness to him and were wondering at the words of grace proceeding out of his mouth.",
-          "greek": "καὶ πάντες ἐμαρτύρουν αὐτῷ καὶ ἐθαύμαζον ἐπὶ τοῖς λόγοις τῆς χάριτος τοῖς ἐκπορευομένοις ἐκ τοῦ στόματος αὐτοῦ."
+          "canonical_ref": "Luke 4:34",
+          "english": "\"Ha! What have we to do with you, Jesus the Nazarene? Have you come to destroy us? I know who you are: the holy one of God.\"",
+          "greek": "Ἔα, τί ἡμῖν καὶ σοί, Ἰησοῦ Ναζαρηνέ; ἦλθες ἀπολέσαι ἡμᾶς; οἶδά σε τίς εἶ, ὁ ἅγιος τοῦ θεοῦ."
         },
         {
           "verse": 6,
+          "canonical_ref": "Luke 4:35",
+          "english": "And Jesus rebuked it, saying, \"Be silent, and come out of him.\" And when the daimon had thrown him down in their midst, it came out of him without harming him at all.",
+          "greek": "καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς λέγων· Φιμώθητι καὶ ἔξελθε ἀπ’ αὐτοῦ. καὶ ῥίψαν αὐτὸν τὸ δαιμόνιον εἰς τὸ μέσον ἐξῆλθεν ἀπ’ αὐτοῦ μηδὲν βλάψαν αὐτόν."
+        },
+        {
+          "verse": 7,
+          "canonical_ref": "Luke 4:36",
+          "english": "And amazement came over them all, and they said to one another, \"What is this word? With authority and power he commands the unclean spirits, and they come out.\"",
+          "greek": "καὶ ἐγένετο θάμβος ἐπὶ πάντας, καὶ συνελάλουν πρὸς ἀλλήλους λέγοντες· Τίς ὁ λόγος οὗτος ὅτι ἐν ἐξουσίᾳ καὶ δυνάμει ἐπιτάσσει τοῖς ἀκαθάρτοις πνεύμασιν, καὶ ἐξέρχονται;",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 8,
+          "canonical_ref": "Luke 4:37",
+          "english": "And a report about him went out into every place in the surrounding region.",
+          "greek": "καὶ ἐξεπορεύετο ἦχος περὶ αὐτοῦ εἰς πάντα τόπον τῆς περιχώρου.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 9,
+          "canonical_ref": "Luke 4:16",
+          "english": "And he came to Nazara, where he had been brought up; and, as was his custom, he went into the assembly on the sabbath day and stood up to read.",
+          "greek": "Καὶ ἦλθεν εἰς Ναζαρά, οὗ ἦν τεθραμμένος, καὶ εἰσῆλθεν κατὰ τὸ εἰωθὸς αὐτῷ ἐν τῇ ἡμέρᾳ τῶν σαββάτων εἰς τὴν συναγωγήν, καὶ ἀνέστη ἀναγνῶναι."
+        },
+        {
+          "verse": 10,
           "canonical_ref": "Luke 4:23",
-          "english": "And he said to them, \"Doubtless you will say to me this proverb: 'Healer, heal yourself'; whatever we heard happened in Capernaum, do also here in your fatherland.\"",
+          "english": "And he said to them, \"Doubtless you will quote this proverb to me: 'Physician, heal yourself.' Whatever we heard was done at Capernaum, do here also in your home town.\"",
           "greek": "καὶ εἶπεν πρὸς αὐτούς· Πάντως ἐρεῖτέ μοι τὴν παραβολὴν ταύτην· Ἰατρέ, θεράπευσον σεαυτόν· ὅσα ἠκούσαμεν γενόμενα εἰς τὴν Καφαρναοὺμ ποίησον καὶ ὧδε ἐν τῇ πατρίδι σου."
+        },
+        {
+          "verse": 11,
+          "canonical_ref": "Luke 4:24",
+          "english": "And he said, \"Truly I tell you, no prophet is accepted in his home town.\"",
+          "greek": "εἶπεν δέ· Ἀμὴν λέγω ὑμῖν ὅτι οὐδεὶς προφήτης δεκτός ἐστιν ἐν τῇ πατρίδι αὐτοῦ.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 12,
+          "canonical_ref": "Luke 4:28",
+          "english": "And all in the assembly were filled with rage when they heard these things,",
+          "greek": "καὶ ἐπλήσθησαν πάντες θυμοῦ ἐν τῇ συναγωγῇ ἀκούοντες ταῦτα,",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 13,
+          "canonical_ref": "Luke 4:29",
+          "english": "and they rose up and drove him out of the town, and led him to the brow of the hill on which their town was built, so as to throw him down headlong;",
+          "greek": "καὶ ἀναστάντες ἐξέβαλον αὐτὸν ἔξω τῆς πόλεως, καὶ ἤγαγον αὐτὸν ἕως ὀφρύος τοῦ ὄρους ἐφ’ οὗ ἡ πόλις ᾠκοδόμητο αὐτῶν, ὥστε κατακρημνίσαι αὐτόν·"
+        },
+        {
+          "verse": 14,
+          "canonical_ref": "Luke 4:30",
+          "english": "but he passed through the midst of them and went on his way.",
+          "greek": "αὐτὸς δὲ διελθὼν διὰ μέσου αὐτῶν ἐπορεύετο."
+        },
+        {
+          "verse": 15,
+          "canonical_ref": "Luke 4:40",
+          "english": "As the sun was setting, all who had people sick with various diseases brought them to him; and he laid his hands on each one of them and healed them.",
+          "greek": "Δύνοντος δὲ τοῦ ἡλίου ἅπαντες ὅσοι εἶχον ἀσθενοῦντας νόσοις ποικίλαις ἤγαγον αὐτοὺς πρὸς αὐτόν· ὁ δὲ ἑνὶ ἑκάστῳ αὐτῶν τὰς χεῖρας ἐπιτιθεὶς ἐθεράπευεν αὐτούς."
+        },
+        {
+          "verse": 16,
+          "canonical_ref": "Luke 4:41",
+          "english": "And daimons also came out of many, shouting and saying, \"You are the son of God.\" And he rebuked them and would not allow them to speak, because they knew that he was the Christ.",
+          "greek": "ἐξήρχετο δὲ καὶ δαιμόνια ἀπὸ πολλῶν κραυγάζοντα καὶ λέγοντα ὅτι Σὺ εἶ ὁ υἱὸς τοῦ θεοῦ. καὶ ἐπιτιμῶν οὐκ εἴα αὐτὰ λαλεῖν, ὅτι ᾔδεισαν τὸν χριστὸν αὐτὸν εἶναι."
+        },
+        {
+          "verse": 17,
+          "canonical_ref": "Luke 4:42",
+          "english": "When day came he went out and made his way to a deserted place. And the crowds were searching for him; they came to him and tried to keep him from leaving them.",
+          "greek": "Γενομένης δὲ ἡμέρας ἐξελθὼν ἐπορεύθη εἰς ἔρημον τόπον· καὶ οἱ ὄχλοι ἐπεζήτουν αὐτόν, καὶ ἦλθον ἕως αὐτοῦ, καὶ κατεῖχον αὐτὸν τοῦ μὴ πορεύεσθαι ἀπ’ αὐτῶν."
+        },
+        {
+          "verse": 18,
+          "canonical_ref": "Luke 4:43",
+          "english": "But he said to them, \"I must proclaim the good news of the kingdom of God to the other towns also, because for this I was sent.\"",
+          "greek": "ὁ δὲ εἶπεν πρὸς αὐτοὺς ὅτι Καὶ ταῖς ἑτέραις πόλεσιν εὐαγγελίσασθαί με δεῖ τὴν βασιλείαν τοῦ θεοῦ, ὅτι ἐπὶ τοῦτο ἀπεστάλην."
+        },
+        {
+          "verse": 19,
+          "canonical_ref": "Luke 4:44",
+          "english": "And he was proclaiming in the assemblies of Judea.",
+          "greek": "καὶ ἦν κηρύσσων εἰς τὰς συναγωγὰς τῆς Ἰουδαίας.",
+          "attestation": "unattested"
         }
       ],
       "notes": [
         {
           "id": 1,
-          "term": "Governance (ἡγεμονίας - hēgemonias)",
-          "verse_refs": [1],
-          "category": "translation",
-          "explanation": "The Greek term is rendered here as \"governance\" rather than \"reign\" to reflect the administrative office held by Tiberius as a dry historical fact, avoiding the royal connotations of later ecclesiastical translations."
+          "term": "The opening of the text (3:1 → 4:31)",
+          "verse_refs": [1, 2],
+          "category": "textual",
+          "explanation": "Epiphanius, Pan. 42.11.4–5 (Holl 107–108): the text began »ἐν τῷ πεντεκαιδεκάτῳ ἔτει Τιβερίου Καίσαρος« and lacked Luke 1:1–2:52, the baptism (3:21–22) and the genealogy (3:23–38). Tertullian, Marc. 4.7.1: \"Anno quintodecimo principatus Tiberiani proponit eum descendisse in civitatem Galilaeae Capharnaum.\" Irenaeus, Haer. 1.27.2 also opens Marcion's account with Jesus coming \"in the times of Pontius Pilate\". The witnesses join the date to the descent, so 3:2–4:15 is not printed (3:2–20 John's preaching; 4:1–13 temptation; 4:14–15 return to Galilee). Roth (2015) classes 3:2–20 and 4:14–15 as unattested rather than absent; the junction is the evidence for absence. The δέ of canonical 3:1 and the Καί of 4:31 are canonical Luke's connectives and are not printed (editorial junction; neither witness has them). The clauses naming Herod, Philip and Lysanias are not cited by any witness; they are printed in the NA27 wording within the attested verse."
         },
         {
           "id": 2,
-          "term": "He came down (κατῆλθεν - katēlthen)",
+          "term": "He came down (κατῆλθεν)",
           "verse_refs": [2],
           "category": "theological",
-          "explanation": "In the canonical context, this implies moving geographically from the hills of Nazareth down to the sea-level of Capernaum. However, in the Proto-Luke reconstruction, where the Nazareth rejection (4:16-30) is relocated to follow the Capernaum ministry, this verb marks a 'vertical' Christology—the direct appearance of the Messiah in history without the mediation of a biological birth."
+          "explanation": "Interpretation. In the Greek the verb has its ordinary geographical sense: from the hill country down to Capernaum on the lake. Tertullian reports that Marcion read it as a descent from heaven (\"utique de caelo\", Marc. 4.7.1). That is the reception of the text in Marcion's church, not a feature of its wording. Earlier versions of this note presented the heavenly descent as the meaning of the text; it is withdrawn."
         },
         {
           "id": 3,
-          "term": "The Assembly (συναγωγήν - synagōgēn)",
-          "verse_refs": [4],
-          "category": "translation",
-          "explanation": "Used here in its literal sense of a gathering place, stripped of later specialized religious baggage."
+          "term": "Capernaum before Nazareth",
+          "verse_refs": [2, 9, 10],
+          "category": "textual",
+          "explanation": "Tertullian works through Marcion's text in order: the Capernaum exorcism in Marc. 4.7 (4:31–35), then Nazareth in 4.8.2–3 (4:16, 23, 29–30), then the evening healings and departure in 4.8.4–10 (4:40–43). This edition follows that order. Within it 4:23 (\"whatever we heard was done at Capernaum\") refers back to events already told. In canonical Luke the Nazareth scene comes first and 4:23 refers to deeds the reader has not yet seen. The order is attested; which direction the change went is not stated here (METHOD §10)."
         },
         {
           "id": 4,
-          "term": "Καφαρναούμ (Kapharnaoum)",
-          "verse_refs": [2, 6],
+          "term": "The exorcism at Capernaum (4:33–35)",
+          "verse_refs": [4, 5, 6],
           "category": "textual",
-          "explanation": "The spelling follows the primitive uncial consensus (א, B, D, Z) over the later smoothed \"Capernaum\"."
+          "explanation": "Tertullian, Marc. 4.7.9: \"Exclamat ibidem spiritus daemonis, Quid nobis et tibi est Iesu? venisti perdere nos: scio qui sis, sanctus dei\"; 4.7.13: \"increpuit illum Iesus\". The paraphrase attests 4:33, which Roth lists as unattested. Tertullian's quotation of 4:34 lacks Ἔα and Ναζαρηνέ. This is one witness, and a Latin quotation can drop an interjection and a title; Roth rates the absence of Ναζαρηνέ only \"may not have been present\". The NA27 wording is printed. Tertullian begins the next section with the name \"Nazaraeus\" (4.8.1). The previous text deleted Ναζαρηνέ; that went beyond the evidence and is reversed."
         },
         {
           "id": 5,
-          "term": "Ναζαρά (Nazara)",
-          "verse_refs": [4],
-          "category": "textual",
-          "explanation": "This form is often found in the earliest strata (P70, א, B) and is preferred here as the more primitive designation of the town."
+          "term": "Daimon (δαιμόνιον)",
+          "verse_refs": [4, 6, 16],
+          "category": "translation",
+          "explanation": "Rendered \"daimon\" to keep the Greek word rather than the later theological category \"demon\". \"The spirit of an unclean daimon\" translates πνεῦμα δαιμονίου ἀκαθάρτου literally."
         },
         {
           "id": 6,
-          "term": "Relocation of Nazareth (4:16-30)",
-          "verse_refs": [4, 5, 6],
-          "category": "textual",
-          "explanation": "Internal evidence reveals \"editorial fatigue\" in the canonical text, where the crowd in Nazareth mentions miracles in Capernaum before Jesus has actually visited Capernaum. In the Proto-Luke source, narrative logic is restored by placing the Capernaum ministry first, proving that the canonical editor \"front-loaded\" the rejection story for thematic purposes."
+          "term": "Not printed in this section: 4:36–39",
+          "verse_refs": [8, 15],
+          "category": "excision",
+          "explanation": "4:36–37 are printed in grey: no witness cites them, but they close the attested exorcism. 4:38–39 (Simon's mother-in-law) forms its own paragraph and no witness cites it; Tertullian passes from 4:35 (4.7.13) to Nazareth (4.8.2) and returns at 4:40 (4.8.4). A whole unattested pericope is not printed (METHOD §4.3)."
         },
         {
           "id": 7,
-          "term": "Excision of Biological Paternity (4:22)",
-          "verse_refs": [5],
-          "category": "excision",
-          "explanation": "The phrase \"Is this not Joseph's son?\" (οὐχὶ υἱός ἐστιν Ἰωσὴφ οὗτος;) is absent from the earliest Marcionite/Jamesian witnesses. Its removal aligns with the Adoptionist view that Jesus was the Son of God by power and Spirit, not by fleshly descent."
+          "term": "The Nazareth visit: what is attested",
+          "verse_refs": [9, 10, 11, 12, 13, 14],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.8.2–3: at Nazareth Jesus \"is noted as having preached nothing new\" and was thrown out \"on account of a single proverb\"; hands were laid on him, he was held, seized and dragged to the precipice, and he escaped \"through their midst\". This attests 4:16 (the visit and his preaching), a proverb (4:23, or 4:24), 4:29 and 4:30. 4:24 and 4:28 are not cited and are printed in grey."
         },
         {
           "id": 8,
-          "term": "Omission of 3:19–4:13 (The Orthodox Wrapper)",
-          "verse_refs": [],
+          "term": "Absent from the Nazareth visit: 4:17–22 and 4:25–26",
+          "verse_refs": [9, 10],
           "category": "excision",
-          "explanation": "The Baptism, Genealogy, and Temptation (Luke 3:19–4:13) constitute the 'Orthodox Wrapper'—second-century interpolations designed to domesticate Jesus. In the Jamesian/Marcionite stratum, these are absent because they subordinate the Anointed One to John the Baptist or test him against the 'Creator' of the old aeon. The Protograph's Christ descends fully empowered, requiring no validation. By joining 3:1a directly to 4:31, the reconstruction restores the Incipit of the earliest Gospel sequence."
+          "explanation": "4:17–21 (the reading of Isaiah 61 and \"today this scripture is fulfilled\"): Tertullian's case in Marc. IV is that Jesus fulfils the Creator's prophets. A fulfilment of Isaiah announced in the synagogue would have been his best proof, and he says instead that Jesus preached \"nothing new\" there. 4:22 (\"Is not this Joseph's son?\"): Tertullian argues (4.7.7) that no one knew Jesus' tribe, people or house; the question would have served him and is not cited. 4:25–26 (Elijah and the widow of Sarepta): Tertullian names one proverb as the cause of the ejection, whereas in canonical Luke the Elijah and Elisha sayings provoke it. All three are classed \"unattested, probably absent\" (METHOD §3). 4:27 (Naaman) is attested, but inside the healing of the ten lepers (Epiphanius, sch. 48; Tertullian, Marc. 4.35.6); it is printed there. The previous text printed 4:22a; it is removed. The previous note headed \"Excision of Biological Paternity\" stated a motive for a change; the witnesses show only that the verse is absent."
         },
         {
           "id": 9,
-          "term": "Vertical Christology: κατῆλθεν (katēlthen)",
-          "verse_refs": [],
+          "term": "4:41: \"the son of God\"",
+          "verse_refs": [16],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.8.5: the spirits came out \"vociferantes, Tu es filius dei\" and were ordered to be silent. NA27 cites Marcion (McionT) with ℵ B C D L W and others against the addition of ὁ χριστός (\"you are the Christ, the son of God\") in A Q Θ Ψ and the Byzantine text. The closing clause \"because they knew that he was the Christ\" is not cited by Tertullian; it is printed in the NA27 wording within the attested verse."
+        },
+        {
+          "id": 10,
+          "term": "The departure (4:42–44)",
+          "verse_refs": [17, 18, 19],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.8.9: \"In solitudinem procedit… Detentus a turbis, Oportet me, inquit, et aliis civitatibus annuntiare regnum dei.\" 4:44 is not cited and is printed in grey; NA27 reads \"Judea\" (ℵ B C L and others), against \"Galilee\" in A D Θ Ψ and the Byzantine text."
+        },
+        {
+          "id": 11,
+          "term": "What the opening shows",
+          "verse_refs": [1, 2, 9],
           "category": "theological",
-          "explanation": "In canonical Luke, 'coming down' (κατῆλθεν) refers to geographical travel from Nazareth's hills to seaside Capernaum. In the Protograph, however, with the Tiberius/Pilate dating immediately preceding (3:1), the word signifies a pneumatic descent into the material world—the sudden manifestation of Jesus in historical time rather than local geography."
+          "explanation": "Interpretation, drawn from the attested text only. Jesus is introduced without ancestry, birth, prophetic announcement, baptism or testing. His first acts are teaching in a synagogue on the sabbath and an exorcism, and his hearers are said not to know where he comes from. The text gives no Davidic descent and no family claim. The library's thesis that the earliest gospel belongs to the Jerusalem community around James (Carriers of Living Water §1–3) is not contradicted by this: the setting is wholly Jewish (synagogue, sabbath, the kingdom of God). But the text in this section gives no support to a dynastic framing either. The reading of κατῆλθεν as a descent from heaven belongs to Marcion's church, not to the wording."
         }
       ]
     },
     {
       "chapter": 2,
       "title": "Proto-Luke Chapter 2",
-      "preamble": "Jesus's authority, proclaimed in word, is now demonstrated in deed. In the assembly at Capernaum, he confronts an unclean spirit and commands it to silence and departure. The crowds witness a new kind of power—one that issues orders to the unseen world and is obeyed. Word spreads throughout the surrounding region. This is the empirical proof that will follow Jesus to Nazareth, where skeptics will demand: 'Do here what we heard you did in Capernaum.'",
+      "preamble": "Five scenes from Galilee: the call of the fishermen, the cleansing of a leper, the healing of a paralysed man, the call of a tax collector with the question about fasting, and two sabbath disputes. Tertullian works through all of them in order (Marc. 4.9–4.12) and Epiphanius quotes from three. The section is set inside Jewish practice. The cleansed leper is sent to the priest with the offering Moses commanded; in this text the reason given is \"so that this may be a testimony for you\". The sabbath disputes argue from what David did and from what the law permits. The witnesses also show the Marcionite church explaining some of this away: Tertullian reports that Marcion read the leper's offering as a concession to the man's habit. A community does not insert into its own scripture a passage it has to explain away, so these passages are older than the Marcionite reading of them (interpretation).",
       "verses": [
         {
           "verse": 1,
-          "canonical_ref": "Luke 4:33-34",
-          "english": "And in the assembly was a man having a spirit of an unclean daimon, and he cried out with a loud voice: \"What is to us and to you, Jesus? Have you come to destroy us? I know you, who you are—the holy one of God.\"",
-          "greek": "Καὶ ἐν τῇ συναγωγῇ ἦν ἄνθρωπος ἔχων πνεῦμα δαιμονίου ἀκαθάρτου, καὶ ἀνέκραξεν φωνῇ μεγάλῃ· Ἔα, τί ἡμῖν καὶ σοί, Ἰησοῦ; ἦλθες ἀπολέσαι ἡμᾶς; οἶδά σε τίς εἶ, ὁ ἅγιος τοῦ θεοῦ"
+          "canonical_ref": "Luke 5:1",
+          "english": "Once, while the crowd was pressing in on him to hear the word of God, he was standing beside the lake of Gennesaret,",
+          "greek": "Ἐγένετο δὲ ἐν τῷ τὸν ὄχλον ἐπικεῖσθαι αὐτῷ καὶ ἀκούειν τὸν λόγον τοῦ θεοῦ καὶ αὐτὸς ἦν ἑστὼς παρὰ τὴν λίμνην Γεννησαρέτ,",
+          "attestation": "unattested"
         },
         {
           "verse": 2,
-          "canonical_ref": "Luke 4:35",
-          "english": "And Jesus rebuked him, saying: 'Be silenced and come out from him.' And after the daimon had thrown him into the middle, it came out from him, having harmed him not at all.",
-          "greek": "καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς λέγων· Φιμώθητι καὶ ἔξελθε ἀπ᾿ αὐτοῦ. καὶ ῥῖψαν αὐτὸν τὸ δαιμόνιον εἰς τὸ μέσον ἐξῆλθεν ἀπ᾿ αὐτοῦ μηδὲν βλάψαν αὐτόν"
+          "canonical_ref": "Luke 5:2",
+          "english": "and he saw two boats lying at the edge of the lake; the fishermen had stepped out of them and were washing their nets.",
+          "greek": "καὶ εἶδεν δύο πλοῖα ἑστῶτα παρὰ τὴν λίμνην, οἱ δὲ ἁλιεῖς ἀπ’ αὐτῶν ἀποβάντες ἔπλυνον τὰ δίκτυα."
         },
         {
           "verse": 3,
-          "canonical_ref": "Luke 4:40",
-          "english": "And when the sun was setting, all who had any sick with various diseases brought them to him; and he laid hands on each of them and healed them.",
-          "greek": "Δύνοντος δὲ τοῦ ἡλίου ἅπαντες ὅσοι εἶχον ἀσθενοῦντας νόσοις ποικίλαις ἤγαγον αὐτοὺς πρὸς αὐτόν· ὁ δὲ ἑνὶ ἑκάστῳ αὐτῶν τὰς χεῖρας ἐπιτιθεὶς ἐθεράπευεν αὐτούς"
+          "canonical_ref": "Luke 5:3",
+          "english": "He got into one of the boats, which was Simon's, and asked him to put out a little from the land. Then he sat down and taught the crowds from the boat.",
+          "greek": "ἐμβὰς δὲ εἰς ἓν τῶν πλοίων, ὃ ἦν Σίμωνος, ἠρώτησεν αὐτὸν ἀπὸ τῆς γῆς ἐπαναγαγεῖν ὀλίγον, καθίσας δὲ ἐκ τοῦ πλοίου ἐδίδασκεν τοὺς ὄχλους.",
+          "attestation": "unattested"
         },
         {
           "verse": 4,
-          "canonical_ref": "Luke 4:41",
-          "english": "And daimons also were coming out from many, crying out and saying: \"You are the son of God.\" And rebuking them, he did not allow them to speak.",
-          "greek": "ἐξήρχετο δὲ καὶ δαιμόνια ἀπὸ πολλῶν, κράζοντα καὶ λέγοντα ὅτι σὺ εἶ ὁ υἱός τοῦ θεοῦ. καὶ ἐπιτιμῶν οὐκ εἴα αὐτὰ λαλεῖν"
+          "canonical_ref": "Luke 5:4",
+          "english": "When he had finished speaking, he said to Simon, \"Put out into the deep water, and let down your nets for a catch.\"",
+          "greek": "ὡς δὲ ἐπαύσατο λαλῶν, εἶπεν πρὸς τὸν Σίμωνα· Ἐπανάγαγε εἰς τὸ βάθος καὶ χαλάσατε τὰ δίκτυα ὑμῶν εἰς ἄγραν.",
+          "attestation": "unattested"
         },
         {
           "verse": 5,
-          "canonical_ref": "Luke 4:43",
-          "english": "And he said to them: \"I must also announce the kingdom of God to the other cities, because for this I was sent.\"",
-          "greek": "ὁ δὲ εἶπεν πρὸς αὐτοὺς ὅτι καὶ ταῖς ἑτέραις πόλεσιν εὐαγγελίσασθαί με δεῖ τὴν βασιλείαν τοῦ θεοῦ, ὅτι ἐπὶ τοῦτο ἀπεστάλην"
+          "canonical_ref": "Luke 5:5",
+          "english": "Simon answered, \"Master, we worked hard all night and caught nothing. But at your word I will let down the nets.\"",
+          "greek": "καὶ ἀποκριθεὶς Σίμων εἶπεν· Ἐπιστάτα, δι’ ὅλης νυκτὸς κοπιάσαντες οὐδὲν ἐλάβομεν, ἐπὶ δὲ τῷ ῥήματί σου χαλάσω τὰ δίκτυα.",
+          "attestation": "unattested"
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 5:1",
-          "english": "And it happened, while the crowd pressed upon him to hear the word of God, he was standing by the lake of Gennesaret.",
-          "greek": "Ἐγένετο δὲ ἐν τῷ τὸν ὄχλον ἐπικεῖσθαι αὐτῷ καὶ ἀκούειν τὸν λόγον τοῦ θεοῦ, καὶ αὐτὸς ἦν ἑστὼς παρὰ τὴν λίμνην Γεννησαρέτ."
+          "canonical_ref": "Luke 5:6",
+          "english": "When they had done this, they enclosed a great number of fish, and their nets were beginning to break.",
+          "greek": "καὶ τοῦτο ποιήσαντες συνέκλεισαν πλῆθος ἰχθύων πολύ, διερρήσσετο δὲ τὰ δίκτυα αὐτῶν.",
+          "attestation": "unattested"
         },
         {
           "verse": 7,
-          "canonical_ref": "Luke 5:2",
-          "english": "And he saw two boats standing by the lake; but the fishermen had gone out of them and were washing their nets.",
-          "greek": "καὶ εἶδεν δύο πλοῖα ἑστῶτα παρὰ τὴν λίμνην· οἱ δὲ ἁλιεῖς ἀπ᾿ αὐτῶν ἀποβάντες ἔπλυνον τὰ δίκτυα."
+          "canonical_ref": "Luke 5:7",
+          "english": "So they signalled to their partners in the other boat to come and help them. They came and filled both boats, so that they began to sink.",
+          "greek": "καὶ κατένευσαν τοῖς μετόχοις ἐν τῷ ἑτέρῳ πλοίῳ τοῦ ἐλθόντας συλλαβέσθαι αὐτοῖς· καὶ ἦλθον, καὶ ἔπλησαν ἀμφότερα τὰ πλοῖα ὥστε βυθίζεσθαι αὐτά.",
+          "attestation": "unattested"
         },
         {
           "verse": 8,
-          "canonical_ref": "Luke 5:3",
-          "english": "And entering into one of the boats, which was Simon's, he asked him to put out a little from the land. And sitting down, he was teaching the crowds from the boat.",
-          "greek": "ἐμβὰς δὲ εἰς ἓν τῶν πλοίων, ὃ ἦν Σίμωνος, ἠρώτησεν αὐτὸν ἀπὸ τῆς γῆς ἐπαναγαγεῖν ὀλίγον· καθίσας δὲ ἐκ τοῦ πλοίου ἐδίδασκεν τοὺς ὄχλους."
+          "canonical_ref": "Luke 5:8",
+          "english": "When Simon Peter saw it, he fell at the knees of Jesus, saying, \"Go away from me, Lord, for I am a sinful man.\"",
+          "greek": "ἰδὼν δὲ Σίμων Πέτρος προσέπεσεν τοῖς γόνασιν Ἰησοῦ λέγων· Ἔξελθε ἀπ’ ἐμοῦ, ὅτι ἀνὴρ ἁμαρτωλός εἰμι, κύριε·",
+          "attestation": "unattested"
         },
         {
           "verse": 9,
-          "canonical_ref": "Luke 5:4",
-          "english": "And when he ceased speaking, he said to Simon: \"Put out into the deep and let down your nets for a catch.\"",
-          "greek": "Ὡς δὲ ἐπαύσατο λαλῶν, εἶπεν πρὸς τὸν Σίμωνα· Ἐπανάγαγε εἰς τὸ βάθος καὶ χαλάσατε τὰ δίκτυα ὑμῶν εἰς ἄγραν."
+          "canonical_ref": "Luke 5:9",
+          "english": "For amazement had seized him and all who were with him at the catch of fish they had taken;",
+          "greek": "θάμβος γὰρ περιέσχεν αὐτὸν καὶ πάντας τοὺς σὺν αὐτῷ ἐπὶ τῇ ἄγρᾳ τῶν ἰχθύων ὧν συνέλαβον,"
         },
         {
           "verse": 10,
-          "canonical_ref": "Luke 5:5",
-          "english": "And Simon answering said: \"Master, through the whole night we toiled and took nothing; but at your word I will let down the net.\"",
-          "greek": "καὶ ἀποκριθεὶς Σίμων εἶπεν· Ἐπιστάτα, δι᾽ ὅλης νυκτὸς κοπιάσαντες οὐδὲν ἐλάβομεν, ἐπὶ δὲ τῷ ῥήματί σου χαλάσω τὰ δίκτυα."
+          "canonical_ref": "Luke 5:10",
+          "english": "and so also James and John, sons of Zebedee, who were partners with Simon. And Jesus said to Simon, \"Do not be afraid; from now on you will be catching people alive.\"",
+          "greek": "ὁμοίως δὲ καὶ Ἰάκωβον καὶ Ἰωάννην υἱοὺς Ζεβεδαίου, οἳ ἦσαν κοινωνοὶ τῷ Σίμωνι. καὶ εἶπεν πρὸς τὸν Σίμωνα ὁ Ἰησοῦς· Μὴ φοβοῦ· ἀπὸ τοῦ νῦν ἀνθρώπους ἔσῃ ζωγρῶν."
         },
         {
           "verse": 11,
-          "canonical_ref": "Luke 5:6",
-          "english": "And having done this, they enclosed a great multitude of fishes; and their nets were breaking.",
-          "greek": "καὶ τοῦτο ποιήσαντες συνέκλεισαν πλῆθος ἰχθύων πολύ, διερρήσσετο δὲ τὰ δίκτυα αὐτῶν."
+          "canonical_ref": "Luke 5:11",
+          "english": "And when they had brought the boats to land, they left everything and followed him.",
+          "greek": "καὶ καταγαγόντες τὰ πλοῖα ἐπὶ τὴν γῆν ἀφέντες πάντα ἠκολούθησαν αὐτῷ."
         },
         {
           "verse": 12,
-          "canonical_ref": "Luke 5:8",
-          "english": "But Simon Peter, seeing it, fell down at the knees of Jesus, saying: \"Depart from me, for I am a sinful man, Lord.\"",
-          "greek": "ἰδὼν δὲ Σίμων Πέτρος προσέπεσεν τοῖς γόνασιν Ἰησοῦ λέγων· Ἔξελθε ἀπ᾿ ἐμοῦ, ὅτι ἀνὴρ ἁμαρτωλός εἰμι, κύριε."
+          "canonical_ref": "Luke 5:12",
+          "english": "While he was in one of the towns, there was a man full of leprosy. When he saw Jesus, he fell on his face and begged him, \"Lord, if you are willing, you can make me clean.\"",
+          "greek": "Καὶ ἐγένετο ἐν τῷ εἶναι αὐτὸν ἐν μιᾷ τῶν πόλεων καὶ ἰδοὺ ἀνὴρ πλήρης λέπρας· ἰδὼν δὲ τὸν Ἰησοῦν πεσὼν ἐπὶ πρόσωπον ἐδεήθη αὐτοῦ λέγων· Κύριε, ἐὰν θέλῃς δύνασαί με καθαρίσαι."
         },
         {
           "verse": 13,
-          "canonical_ref": "Luke 5:10",
-          "english": "And Jesus said to Simon: \"Fear not; from now on you shall be catching men.\"",
-          "greek": "εἶπεν δὲ πρὸς τὸν Σίμωνα ὁ Ἰησοῦς· Μὴ φοβοῦ· ἀπὸ τοῦ νῦν ἀνθρώπους ἔσῃ ζωγρῶν"
+          "canonical_ref": "Luke 5:13",
+          "english": "He stretched out his hand and touched him, saying, \"I am willing; be made clean.\" And immediately the leprosy left him.",
+          "greek": "καὶ ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ λέγων· Θέλω, καθαρίσθητι· καὶ εὐθέως ἡ λέπρα ἀπῆλθεν ἀπ’ αὐτοῦ."
         },
         {
           "verse": 14,
-          "canonical_ref": "Luke 5:11",
-          "english": "And having brought the boats to the land, they left all and followed him.",
-          "greek": "καὶ καταγαγόντες τὰ πλοῖα ἐπὶ τὴν γῆν ἀφέντες πάντα ἠκολούθησαν αὐτῷ"
+          "canonical_ref": "Luke 5:14",
+          "english": "And he ordered him to tell no one: \"But go, show yourself to the priest, and make the offering for your cleansing as Moses commanded, so that this may be a testimony for you.\"",
+          "greek": "καὶ αὐτὸς παρήγγειλεν αὐτῷ μηδενὶ εἰπεῖν, ἀλλὰ ἀπελθὼν δεῖξον σεαυτὸν τῷ ἱερεῖ, καὶ προσένεγκε περὶ τοῦ καθαρισμοῦ σου καθὼς προσέταξεν Μωϋσῆς, ἵνα ᾖ μαρτύριον τοῦτο ὑμῖν."
         },
         {
           "verse": 15,
-          "canonical_ref": "Luke 5:12",
-          "english": "And it happened, while he was in one of the cities, behold, a man full of leprosy. And seeing Jesus, he fell on his face and begged him, saying: \"Lord, if you will, you are able to cleanse me.\"",
-          "greek": "Καὶ ἐγένετο ἐν τῷ εἶναι αὐτὸν ἐν μιᾷ τῶν πόλεων καὶ ἰδοὺ ἀνὴρ πλήρης λέπρας· εἰδὼν δὲ τὸν Ἰησοῦν, πεσὼν ἐπὶ πρόσωπον ἐδεήθη αὐτοῦ λέγων· Κύριε, ἐὰν θέλῃς δύνασαί με καθαρίσαι"
+          "canonical_ref": "Luke 5:15",
+          "english": "But the report about him spread all the more, and great crowds gathered to hear him and to be healed of their illnesses.",
+          "greek": "διήρχετο δὲ μᾶλλον ὁ λόγος περὶ αὐτοῦ, καὶ συνήρχοντο ὄχλοι πολλοὶ ἀκούειν καὶ θεραπεύεσθαι ἀπὸ τῶν ἀσθενειῶν αὐτῶν·",
+          "attestation": "unattested"
         },
         {
           "verse": 16,
-          "canonical_ref": "Luke 5:13",
-          "english": "And stretching out his hand, he touched him, saying: \"I will; be cleansed.\" And immediately the leprosy departed from him.",
-          "greek": "καὶ ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ λέγων· Θέλω, καθαρίσθητι· καὶ εὐθέως ἡ λέπρα ἀπῆλθεν ἀπ᾿ αὐτοῦ"
+          "canonical_ref": "Luke 5:16",
+          "english": "But he would withdraw to deserted places and pray.",
+          "greek": "αὐτὸς δὲ ἦν ὑποχωρῶν ἐν ταῖς ἐρήμοις καὶ προσευχόμενος.",
+          "attestation": "unattested"
         },
         {
           "verse": 17,
-          "canonical_ref": "Luke 5:14",
-          "english": "And he commanded him to tell no one: \"But go, show yourself to the priest and offer for your cleansing according as Moses commanded, for a testimony to them.\"",
-          "greek": "καὶ αὐτὸς παρήγγειλεν αὐτῷ μηδενὶ εἰπεῖν, ἀλλὰ ἀπελθὼν δεῖξον σεαυτὸν τῷ ἱερεῖ καὶ προσένεγκε περὶ τοῦ καθαρισμοῦ σου καθὼς προσέταξεν Μωϋσῆς, εἰς μαρτύριον αὐτοῖς"
+          "canonical_ref": "Luke 5:17",
+          "english": "One day, as he was teaching, Pharisees and teachers of the law were sitting there who had come from every village of Galilee and Judea and from Jerusalem; and the power of the Lord was with him to heal.",
+          "greek": "Καὶ ἐγένετο ἐν μιᾷ τῶν ἡμερῶν καὶ αὐτὸς ἦν διδάσκων, καὶ ἦσαν καθήμενοι Φαρισαῖοι καὶ νομοδιδάσκαλοι οἳ ἦσαν ἐληλυθότες ἐκ πάσης κώμης τῆς Γαλιλαίας καὶ Ἰουδαίας καὶ Ἰερουσαλήμ· καὶ δύναμις κυρίου ἦν εἰς τὸ ἰᾶσθαι αὐτόν."
+        },
+        {
+          "verse": 18,
+          "canonical_ref": "Luke 5:18",
+          "english": "And some men came carrying on a stretcher a man who was paralysed, and they were trying to bring him in and lay him before him.",
+          "greek": "καὶ ἰδοὺ ἄνδρες φέροντες ἐπὶ κλίνης ἄνθρωπον ὃς ἦν παραλελυμένος, καὶ ἐζήτουν αὐτὸν εἰσενεγκεῖν καὶ θεῖναι αὐτὸν ἐνώπιον αὐτοῦ."
+        },
+        {
+          "verse": 19,
+          "canonical_ref": "Luke 5:19",
+          "english": "Finding no way to bring him in because of the crowd, they went up on the roof and let him down with his stretcher through the tiles into the middle, in front of Jesus.",
+          "greek": "καὶ μὴ εὑρόντες ποίας εἰσενέγκωσιν αὐτὸν διὰ τὸν ὄχλον ἀναβάντες ἐπὶ τὸ δῶμα διὰ τῶν κεράμων καθῆκαν αὐτὸν σὺν τῷ κλινιδίῳ εἰς τὸ μέσον ἔμπροσθεν τοῦ Ἰησοῦ.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 20,
+          "canonical_ref": "Luke 5:20",
+          "english": "When he saw their faith, he said, \"Man, your sins are forgiven you.\"",
+          "greek": "καὶ ἰδὼν τὴν πίστιν αὐτῶν εἶπεν· Ἄνθρωπε, ἀφέωνταί σοι αἱ ἁμαρτίαι σου."
+        },
+        {
+          "verse": 21,
+          "canonical_ref": "Luke 5:21",
+          "english": "And the scribes and the Pharisees began to question, saying, \"Who is this who speaks blasphemies? Who can forgive sins but God alone?\"",
+          "greek": "καὶ ἤρξαντο διαλογίζεσθαι οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι λέγοντες· Τίς ἐστιν οὗτος ὃς λαλεῖ βλασφημίας; τίς δύναται ἁμαρτίας ἀφεῖναι εἰ μὴ μόνος ὁ θεός;"
+        },
+        {
+          "verse": 22,
+          "canonical_ref": "Luke 5:22",
+          "english": "But Jesus, knowing their thoughts, answered them, \"Why do you question in your hearts?",
+          "greek": "ἐπιγνοὺς δὲ ὁ Ἰησοῦς τοὺς διαλογισμοὺς αὐτῶν ἀποκριθεὶς εἶπεν πρὸς αὐτούς· Τί διαλογίζεσθε ἐν ταῖς καρδίαις ὑμῶν;",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 23,
+          "canonical_ref": "Luke 5:23",
+          "english": "Which is easier: to say, 'Your sins are forgiven you', or to say, 'Get up and walk'?",
+          "greek": "τί ἐστιν εὐκοπώτερον, εἰπεῖν· Ἀφέωνταί σοι αἱ ἁμαρτίαι σου, ἢ εἰπεῖν· Ἔγειρε καὶ περιπάτει;",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 24,
+          "canonical_ref": "Luke 5:24",
+          "english": "But so that you may know that the son of man has authority on earth to forgive sins\" — he said to the paralysed man — \"I say to you, get up, and take up your mat, and go to your home.\"",
+          "greek": "ἵνα δὲ εἰδῆτε ὅτι ὁ υἱὸς τοῦ ἀνθρώπου ἐξουσίαν ἔχει ἐπὶ τῆς γῆς ἀφιέναι ἁμαρτίας— εἶπεν τῷ παραλελυμένῳ· Σοὶ λέγω, ἔγειρε καὶ ἆρον τὸν κράβαττόν σου καὶ πορεύου εἰς τὸν οἶκόν σου."
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 5:25",
+          "english": "And at once he stood up in front of them, took up what he had been lying on, and went home, glorifying God.",
+          "greek": "καὶ παραχρῆμα ἀναστὰς ἐνώπιον αὐτῶν, ἄρας ἐφ’ ὃ κατέκειτο, ἀπῆλθεν εἰς τὸν οἶκον αὐτοῦ δοξάζων τὸν θεόν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 5:26",
+          "english": "Amazement seized all of them, and they glorified God and were filled with awe, saying, \"We have seen strange things today.\"",
+          "greek": "καὶ ἔκστασις ἔλαβεν ἅπαντας καὶ ἐδόξαζον τὸν θεόν, καὶ ἐπλήσθησαν φόβου λέγοντες ὅτι Εἴδομεν παράδοξα σήμερον."
+        },
+        {
+          "verse": 27,
+          "canonical_ref": "Luke 5:27",
+          "english": "After this he went out and saw a tax collector named Levi sitting at the tax booth, and he said to him, \"Follow me.\"",
+          "greek": "Καὶ μετὰ ταῦτα ἐξῆλθεν καὶ ἐθεάσατο τελώνην ὀνόματι Λευὶν καθήμενον ἐπὶ τὸ τελώνιον, καὶ εἶπεν αὐτῷ· Ἀκολούθει μοι."
+        },
+        {
+          "verse": 28,
+          "canonical_ref": "Luke 5:28",
+          "english": "And he left everything, got up and followed him.",
+          "greek": "καὶ καταλιπὼν πάντα ἀναστὰς ἠκολούθει αὐτῷ.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 29,
+          "canonical_ref": "Luke 5:29",
+          "english": "Then Levi gave a great banquet for him in his house; and there was a large crowd of tax collectors and others reclining at table with them.",
+          "greek": "Καὶ ἐποίησεν δοχὴν μεγάλην Λευὶς αὐτῷ ἐν τῇ οἰκίᾳ αὐτοῦ· καὶ ἦν ὄχλος πολὺς τελωνῶν καὶ ἄλλων οἳ ἦσαν μετ’ αὐτῶν κατακείμενοι.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 30,
+          "canonical_ref": "Luke 5:30",
+          "english": "And the Pharisees and their scribes grumbled to his disciples, saying, \"Why do you eat and drink with tax collectors and sinners?\"",
+          "greek": "καὶ ἐγόγγυζον οἱ Φαρισαῖοι καὶ οἱ γραμματεῖς αὐτῶν πρὸς τοὺς μαθητὰς αὐτοῦ λέγοντες· Διὰ τί μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίετε καὶ πίνετε;"
+        },
+        {
+          "verse": 31,
+          "canonical_ref": "Luke 5:31",
+          "english": "Jesus answered them, \"Those who are well have no need of a physician, but those who are sick.",
+          "greek": "καὶ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν πρὸς αὐτούς· Οὐ χρείαν ἔχουσιν οἱ ὑγιαίνοντες ἰατροῦ ἀλλὰ οἱ κακῶς ἔχοντες·"
+        },
+        {
+          "verse": 32,
+          "canonical_ref": "Luke 5:32",
+          "english": "I have not come to call the righteous but sinners to repentance.\"",
+          "greek": "οὐκ ἐλήλυθα καλέσαι δικαίους ἀλλὰ ἁμαρτωλοὺς εἰς μετάνοιαν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 33,
+          "canonical_ref": "Luke 5:33",
+          "english": "Then they said to him, \"John's disciples fast often and say prayers, and so do those of the Pharisees, but yours eat and drink.\"",
+          "greek": "Οἱ δὲ εἶπαν πρὸς αὐτόν· Οἱ μαθηταὶ Ἰωάννου νηστεύουσιν πυκνὰ καὶ δεήσεις ποιοῦνται, ὁμοίως καὶ οἱ τῶν Φαρισαίων, οἱ δὲ σοὶ ἐσθίουσιν καὶ πίνουσιν."
+        },
+        {
+          "verse": 34,
+          "canonical_ref": "Luke 5:34",
+          "english": "Jesus said to them, \"Can you make the wedding guests fast while the bridegroom is with them?",
+          "greek": "ὁ δὲ Ἰησοῦς εἶπεν πρὸς αὐτούς· Μὴ δύνασθε τοὺς υἱοὺς τοῦ νυμφῶνος ἐν ᾧ ὁ νυμφίος μετ’ αὐτῶν ἐστιν ποιῆσαι νηστεῦσαι;"
+        },
+        {
+          "verse": 35,
+          "canonical_ref": "Luke 5:35",
+          "english": "But days will come when the bridegroom is taken away from them, and then they will fast in those days.\"",
+          "greek": "ἐλεύσονται δὲ ἡμέραι, καὶ ὅταν ἀπαρθῇ ἀπ’ αὐτῶν ὁ νυμφίος τότε νηστεύσουσιν ἐν ἐκείναις ταῖς ἡμέραις."
+        },
+        {
+          "verse": 36,
+          "canonical_ref": "Luke 5:36",
+          "english": "He also told them a parable: \"No one tears a patch from a new garment and sews it on an old garment; otherwise he will tear the new, and the patch from the new will not match the old.",
+          "greek": "ἔλεγεν δὲ καὶ παραβολὴν πρὸς αὐτοὺς ὅτι Οὐδεὶς ἐπίβλημα ἀπὸ ἱματίου καινοῦ σχίσας ἐπιβάλλει ἐπὶ ἱμάτιον παλαιόν· εἰ δὲ μή γε, καὶ τὸ καινὸν σχίσει καὶ τῷ παλαιῷ οὐ συμφωνήσει τὸ ἐπίβλημα τὸ ἀπὸ τοῦ καινοῦ."
+        },
+        {
+          "verse": 37,
+          "canonical_ref": "Luke 5:37",
+          "english": "And no one puts new wine into old wineskins; otherwise the new wine will burst the skins, and it will be spilled, and the skins will be ruined.",
+          "greek": "καὶ οὐδεὶς βάλλει οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μή γε, ῥήξει ὁ οἶνος ὁ νέος τοὺς ἀσκούς, καὶ αὐτὸς ἐκχυθήσεται καὶ οἱ ἀσκοὶ ἀπολοῦνται·"
+        },
+        {
+          "verse": 38,
+          "canonical_ref": "Luke 5:38",
+          "english": "But new wine must be put into new wineskins.\"",
+          "greek": "ἀλλὰ οἶνον νέον εἰς ἀσκοὺς καινοὺς βλητέον."
+        },
+        {
+          "verse": 39,
+          "canonical_ref": "Luke 6:1",
+          "english": "One sabbath he was going through the grainfields, and his disciples were plucking the heads of grain, rubbing them in their hands and eating them.",
+          "greek": "Ἐγένετο δὲ ἐν σαββάτῳ διαπορεύεσθαι αὐτὸν διὰ σπορίμων, καὶ ἔτιλλον οἱ μαθηταὶ αὐτοῦ καὶ ἤσθιον τοὺς στάχυας ψώχοντες ταῖς χερσίν."
+        },
+        {
+          "verse": 40,
+          "canonical_ref": "Luke 6:2",
+          "english": "But some of the Pharisees said, \"Why are you doing what is not lawful on the sabbath?\"",
+          "greek": "τινὲς δὲ τῶν Φαρισαίων εἶπαν· Τί ποιεῖτε ὃ οὐκ ἔξεστιν τοῖς σάββασιν;"
+        },
+        {
+          "verse": 41,
+          "canonical_ref": "Luke 6:3",
+          "english": "Jesus answered them, \"Have you not read what David did when he and those who were with him were hungry,",
+          "greek": "καὶ ἀποκριθεὶς πρὸς αὐτοὺς εἶπεν ὁ Ἰησοῦς· Οὐδὲ τοῦτο ἀνέγνωτε ὃ ἐποίησεν Δαυὶδ ὅτε ἐπείνασεν αὐτὸς καὶ οἱ μετ’ αὐτοῦ ὄντες;"
+        },
+        {
+          "verse": 42,
+          "canonical_ref": "Luke 6:4",
+          "english": "how he entered the house of God and took the bread of the presence, and ate it and gave some to his companions, which it is not lawful for any but the priests to eat?\"",
+          "greek": "ὡς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ καὶ τοὺς ἄρτους τῆς προθέσεως λαβὼν ἔφαγεν καὶ ἔδωκεν τοῖς μετ’ αὐτοῦ, οὓς οὐκ ἔξεστιν φαγεῖν εἰ μὴ μόνους τοὺς ἱερεῖς;"
+        },
+        {
+          "verse": 43,
+          "canonical_ref": "Luke 6:5",
+          "english": "And he said to them, \"The son of man is lord even of the sabbath.\"",
+          "greek": "καὶ ἔλεγεν αὐτοῖς· Κύριός ἐστιν ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου."
+        },
+        {
+          "verse": 44,
+          "canonical_ref": "Luke 6:6",
+          "english": "On another sabbath he entered the assembly and taught. A man was there whose right hand was withered.",
+          "greek": "Ἐγένετο δὲ ἐν ἑτέρῳ σαββάτῳ εἰσελθεῖν αὐτὸν εἰς τὴν συναγωγὴν καὶ διδάσκειν· καὶ ἦν ἄνθρωπος ἐκεῖ καὶ ἡ χεὶρ αὐτοῦ ἡ δεξιὰ ἦν ξηρά·"
+        },
+        {
+          "verse": 45,
+          "canonical_ref": "Luke 6:7",
+          "english": "The scribes and the Pharisees were watching him to see whether he would heal on the sabbath, so that they might find a way to accuse him.",
+          "greek": "παρετηροῦντο δὲ οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι εἰ ἐν τῷ σαββάτῳ θεραπεύει, ἵνα εὕρωσιν κατηγορεῖν αὐτοῦ."
+        },
+        {
+          "verse": 46,
+          "canonical_ref": "Luke 6:8",
+          "english": "But he knew their thoughts, and he said to the man with the withered hand, \"Get up and stand in the middle.\" And he got up and stood there.",
+          "greek": "αὐτὸς δὲ ᾔδει τοὺς διαλογισμοὺς αὐτῶν, εἶπεν δὲ τῷ ἀνδρὶ τῷ ξηρὰν ἔχοντι τὴν χεῖρα· Ἔγειρε καὶ στῆθι εἰς τὸ μέσον· καὶ ἀναστὰς ἔστη.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 47,
+          "canonical_ref": "Luke 6:9",
+          "english": "Then Jesus said to them, \"I ask you: is it lawful on the sabbath to do good or to do harm, to save life or to destroy it?\"",
+          "greek": "εἶπεν δὲ ὁ Ἰησοῦς πρὸς αὐτούς· Ἐπερωτῶ ὑμᾶς, εἰ ἔξεστιν τῷ σαββάτῳ ἀγαθοποιῆσαι ἢ κακοποιῆσαι, ψυχὴν σῶσαι ἢ ἀπολέσαι;"
+        },
+        {
+          "verse": 48,
+          "canonical_ref": "Luke 6:10",
+          "english": "And looking around at all of them, he said to him, \"Stretch out your hand.\" He did so, and his hand was restored.",
+          "greek": "καὶ περιβλεψάμενος πάντας αὐτοὺς εἶπεν αὐτῷ· Ἔκτεινον τὴν χεῖρά σου· ὁ δὲ ἐποίησεν, καὶ ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 49,
+          "canonical_ref": "Luke 6:11",
+          "english": "But they were filled with fury and discussed with one another what they might do to Jesus.",
+          "greek": "αὐτοὶ δὲ ἐπλήσθησαν ἀνοίας, καὶ διελάλουν πρὸς ἀλλήλους τί ἂν ποιήσαιεν τῷ Ἰησοῦ.",
+          "attestation": "unattested"
         }
       ],
       "notes": [
         {
           "id": 1,
-          "term": "What is to us and to you (τί ἡμῖν καὶ σοί - ti hēmin kai soi)",
-          "verse_refs": [1],
-          "category": "translation",
-          "explanation": "This is a literal translation of a Hebraic idiom denoting a disconnect in purpose or authority. The term \"Nazarene\" is excluded here, as it is absent in the earliest Marcionite/Jamesian witnesses, likely to decouple the Savior from a specific geographical/biological origin."
+          "term": "The call of the fishermen (5:1–11)",
+          "verse_refs": [2, 9, 10, 11],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.9.1–2: Jesus took Simon and the sons of Zebedee from fishing, \"saying to Peter, who was afraid at the abundant catch of fish, Do not fear, for from now on you will be catching men\"; \"they left their boats and followed him\". This attests 5:2, 5:9–11 and the catch itself. 5:1 and 5:3–8 are not cited and are printed in grey. One library document (No Original Exists, App. B) lists ἐπιστάτα at 5:5 as a Marcionite reading; no witness cites 5:5, so the claim is not supported and is listed for correction."
         },
         {
           "id": 2,
-          "term": "δαιμονίου (daimoniou)",
-          "verse_refs": [1, 4],
-          "category": "translation",
-          "explanation": "Transliterated as 'daimon' to preserve the distinction from divine messengers (angeloi). In the Essene/Zoroastrian dualistic framework, this is an adversarial spirit-entity—a manifestation of the Spirit of Darkness that the Messiah must forcefully subdue. The daimon recognizes the Savior's identity through spiritual authority."
+          "term": "The leper and the priest (5:12–14)",
+          "verse_refs": [12, 13, 14],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.9.3–10, and Epiphanius, sch. 1 with refutation 1. NA27 reads ἰδὼν δέ at 5:12 and λέγων at 5:13 (SBLGNT: καὶ ἰδών, εἰπών); checked on the NA27 page. At 5:14 Epiphanius quotes the ending as »ἵνα ᾖ μαρτύριον τοῦτο ὑμῖν« and contrasts it with the canonical »εἰς μαρτύριον αὐτοῖς«; Tertullian has \"Ut sit vobis in testimonium\" (4.9.10). Two witnesses agree on the purpose clause and the second person; the Greek of Epiphanius is printed. D and the Old Latin read ἵνα εἰς μαρτύριον ᾖ ὑμῖν τοῦτο, and NA27 cites Marcion there. Whether εἰς stood in the text (Tertullian's \"in testimonium\", D) is left open. Tertullian also has \"offer the gift\" (munus); one witness, not adopted."
         },
         {
           "id": 3,
-          "term": "ὁ ἅγιος τοῦ θεοῦ (ho hagios tou theou)",
-          "verse_refs": [1],
+          "term": "\"So that this may be a testimony for you\"",
+          "verse_refs": [14],
           "category": "theological",
-          "explanation": "The confession of the spirit is clinical; it recognizes the quality of holiness—the set-apart nature—of Jesus."
+          "explanation": "Interpretation. Both witnesses attest that Jesus sends the man to the priest to make the offering Moses commanded. In canonical Luke the testimony is \"to them\" (the priests); in this text it is \"for you\" (the man and his community), and it rests on doing what the Torah prescribes. Tertullian records the Marcionite explanation: Jesus, being kind and knowing the man would keep the law anyway, allowed it (Marc. 4.9.10). That is reception (METHOD §7): the community that read this text had to explain away its Torah observance, so the passage was not written to fit that community's theology. The observance is consistent with the library's thesis of a Torah-keeping Jewish community behind the text (Carriers of Living Water §3.4)."
         },
         {
           "id": 4,
-          "term": "Excision of Ναζαρηνέ (Nazarēne)",
-          "verse_refs": [1],
-          "category": "excision",
-          "explanation": "The term \"Nazarene\" is omitted in verse 34, following the earliest Marcionite and Jamesian witnesses. This decoupling serves to present Jesus as a purely pneumatic figure rather than one defined by a specific geographical or biological origin."
+          "term": "The paralysed man (5:17–26)",
+          "verse_refs": [17, 18, 20, 21, 24, 26],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.10.1–14, and Epiphanius, sch. 2. Tertullian cites the scribes' objection (\"Who forgives sins but God alone?\") and the command \"Arise and take up your mat\". The Latin of 4.10.1 as transcribed on tertullian.org breaks off after \"tolle\"; Evans' English translation of the same edition reads \"Arise and take up thy bed\", and NA27 cites Marcion for τὸν κράβαττον. The reading ἔγειρε καὶ ἆρον τὸν κράβαττόν σου καὶ πορεύου is printed: ἆρον and καί with ℵ D 1424; κράβαττον with D 1424 and the Old Latin c r1. This is a retroversion from Latin; grabatum is the Latin form of κράβαττος, not of κλινίδιον. Epiphanius quotes 5:24a in the order of Mark and Matthew; Roth marks the order uncertain, and NA27's order is kept. 5:18 includes NA27's bracketed [αὐτόν]. 5:19, 5:22–23 and 5:25 are not cited and are printed in grey."
         },
         {
           "id": 5,
-          "term": "ἐπετίμησεν (epetimēsen)",
-          "verse_refs": [2],
+          "term": "The son of man",
+          "verse_refs": [24],
           "category": "translation",
-          "explanation": "Translated as 'rebuked.' This term denotes a formal, authoritative censure. In the forensic layer of the Protograph, it functions as a legalistic command issued by a superior pneumatic authority to a subordinate entity of the material age."
+          "explanation": "ὁ υἱὸς τοῦ ἀνθρώπου is rendered \"the son of man\" in lower case throughout. Tertullian (Marc. 4.10.13–14) reads it through Daniel; that is his argument, and the translation does not import it."
         },
         {
           "id": 6,
-          "term": "φιμώθητι (phimōthēti)",
-          "verse_refs": [2],
-          "category": "translation",
-          "explanation": "Literally 'be muzzled.' Rendered as 'be silenced' to convey the forceful binding of the entity's voice, rejecting softer western variants like 'hold thy peace.'"
+          "term": "Levi and the question of fasting (5:27–38)",
+          "verse_refs": [27, 30, 31, 33, 34, 35, 36, 37, 38],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.11.1–10: the tax collector chosen, the physician saying (\"medicum sanis non esse necessarium sed male habentibus\"), John's disciples who fast and pray, the bridegroom, and the patch and wineskins. 5:28–29 and 5:32 are not cited and are printed in grey. At 5:34 NA27 has ὁ Ἰησοῦς (SBLGNT omits it); Tertullian's \"non possent ieiunare filii sponsi\" agrees with ℵ* D it (δύνανται… νηστεύειν), which Roth rates possible, so it is noted, not printed. At 5:38 NA27 cites the Dialogue of Adamantius (McionA) for βάλλουσιν and \"both are preserved\"; Roth marks the attestation uncertain."
         },
         {
           "id": 7,
-          "term": "εἰς μέσον (eis meson)",
-          "verse_refs": [2],
-          "category": "translation",
-          "explanation": "Translated as 'into the middle.' Refers to the central space of the synagogue assembly. This detail indicates that the exorcism was a public, forensic demonstration intended to provide 'witness' to the community."
+          "term": "Absent: 5:39 (\"the old is good\")",
+          "verse_refs": [38],
+          "category": "excision",
+          "explanation": "\"No one after drinking old wine wants new, for he says, The old is good.\" No witness cites it. Tertullian spends Marc. 4.11.9–11 arguing that old and new come from one God, and the saying would have served that argument. It is classed \"unattested, probably absent\" and not printed. It is also absent from D and the Old Latin (NA27)."
         },
         {
           "id": 8,
-          "term": "μηδὲν βλάψαν αὐτόν (mēden blapsan auton)",
-          "verse_refs": [2],
-          "category": "translation",
-          "explanation": "Translated as 'having harmed him not at all.' The use of μηδὲν (nothing/not at all) and βλάψαν (harming/injuring) emphasizes the totality of Jesus's authority. The entity is permitted a final physical exertion (the throw) but is legally barred from inflicting biological injury upon the host."
+          "term": "The sabbath disputes (6:1–11)",
+          "verse_refs": [39, 41, 42, 43, 44, 45, 47],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.12.1–14; Epiphanius, sch. 21 (6:3–4) and sch. 3 (6:5). NA27 reads ὅτε at 6:3 (SBLGNT ὁπότε) and brackets [ὄντες] (6:3) and [ὡς] (6:4); the bracketed words are printed, because Epiphanius' quotation skips the clause rather than reading it without them. At 6:5 Epiphanius quotes »κύριός ἐστιν ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου«; this is the reading of A D L Θ Ψ and the Byzantine text, cited in NA27 for Marcion (McionE), and is printed. D places 6:5 after 6:10; Roth leaves the position open, and the canonical position is kept. At 6:9 NA27 cites Marcion for its own text (εἰ ἔξεστιν; ἀπολέσαι). 6:8 is cited only in a passage of Adamantius whose link to Marcion's text Roth marks uncertain; it is printed in grey with 6:10–11."
         },
         {
           "id": 9,
-          "term": "ἐξ αὐτοῦ / ἀπ᾽ αὐτοῦ",
-          "verse_refs": [2],
-          "category": "translation",
-          "explanation": "The Greek shifts from ἐξ (out from the interior) to ἀπ᾽ (away from the person). This tracks the clinical sequence of the entity leaving the internal space and subsequently detaching from the man's presence."
-        },
-        {
-          "id": 10,
-          "term": "Kingdom of God (τὴν βασιλείαν τοῦ θεοῦ - tēn basileian tou theou)",
-          "verse_refs": [5],
+          "term": "Lord of the sabbath",
+          "verse_refs": [43, 47],
           "category": "theological",
-          "explanation": "This phrase is a hallmark of the Lukan/Proto-Lukan layer. It identifies the \"Actual Jesus\" not as a personal savior, but as the herald of a new spiritual order. The \"Kingdom of God\" is the central thematic marker of the Jamesian Protograph, denoting the internal spiritual order that supersedes the physical administration of the world."
-        },
-        {
-          "id": 11,
-          "term": "εὐαγγελίσασθαι (euangelisasthai)",
-          "verse_refs": [5],
-          "category": "translation",
-          "explanation": "The Greek identifies Jesus's primary function as an announcer or herald of a new governance."
-        },
-        {
-          "id": 12,
-          "term": "Catching Men (ἀνθρώπους ἔσῃ ζωγρῶν - anthrōpous esē zōgrōn)",
-          "verse_refs": [13],
-          "category": "translation",
-          "explanation": "Literally \"catching alive.\" The specific Lukan vocation narrative (5:1-11) is retained as a Jamesian original. Unlike the abrupt Markan calling, this emphasizes a \"miraculous catch,\" establishing the dependence of the disciples on divine providence rather than their own merit."
-        },
-        {
-          "id": 13,
-          "term": "ἀφέντες πάντα (aphentes panta)",
-          "verse_refs": [14],
-          "category": "theological",
-          "explanation": "The \"leaving of all\" is a fundamental Ebionite requirement, establishing the socio-economic baseline of the community."
-        },
-        {
-          "id": 14,
-          "term": "λέπρας (lepras)",
-          "verse_refs": [15, 16],
-          "category": "theological",
-          "explanation": "In the Jamesian layer, the cleansing of the leper is a forensic proof of the Spirit's power to restore the human \"vessel\" to its correct internal state."
-        },
-        {
-          "id": 15,
-          "term": "Moses Commanded (καθὼς προσέταξε Μωυσῆς - kathōs prosetaxe Mōysēs)",
-          "verse_refs": [17],
-          "category": "theological",
-          "explanation": "The preservation of this reference (5:14) is critical. It shows the Jamesian Jesus upholding the Law as a \"testimony,\" prioritizing the internal reality of cleansing while maintaining external continuity with the Torah."
-        },
-        {
-          "id": 16,
-          "term": "ἱερεῖ (hierei)",
-          "verse_refs": [17],
-          "category": "translation",
-          "explanation": "The singular \"priest\" denotes the specific legal officer required for the validation of the cure."
+          "explanation": "Interpretation. The disputes are argued from inside the law: the precedent of David from scripture, and the question what the law permits on the sabbath (to do good, to save life). Tertullian reads \"lord of the sabbath\" as proof that Jesus belonged to the Creator (4.12.11); that is his polemic. On the text alone the sabbath is not set aside; its proper use is argued, as in other Jewish debates of the period."
         }
-      ],
-      "additional_explanation": {
-        "title": "The Mechanics of Authority",
-        "content": "The transition from the Incipit to the calling of the disciples represents the \"Historical Bricolage\" stage of the movement. In this second chapter, we see the primary mission defined as a \"direct spiritual battle against the forces of disorder.\"",
-        "points": [
-          {
-            "title": "The Rejection of Bio-History",
-            "explanation": "By initiating the narrative with the Capernaum healings (4:31) and moving the Nazareth rejection to a secondary position, the Jamesian Protograph establishes Jesus's authority through deeds of power rather than Davidic genealogy."
-          },
-          {
-            "title": "The Fisher of the Poor",
-            "explanation": "The choice of Simon, a manual laborer (Ebionite/Poor), identifies the movement's target demographic. The \"multitude of fishes\" serves as a physical manifestation of the boundless nature of divine providence, intended for a community struggling after the physical destruction of the Temple."
-          },
-          {
-            "title": "The Forensic Healing",
-            "explanation": "The cleansing of the leper (5:12-14) is a paradigmatic example of the Messiah's authority manifested in physical action. Jesus does not merely speak; he touches the leper. This physical contact—forbidden by ritual law—shatters the corrupt external forms to restore the inner person."
-          }
-        ],
-        "conclusion": "This chapter solidifies the Jamesian view that the Kingdom is entered not through a confession of faith in a \"Cosmic Christ,\" but through active participation in the restoration of humanity through \"Works of Love.\""
-      }
+      ]
     },
     {
       "chapter": 3,
       "title": "Proto-Luke Chapter 3",
-      "preamble": "On a level place, surrounded by a great crowd from Judea, Jerusalem, and the coastal regions, Jesus delivers the foundational teaching of the movement. Here are the Beatitudes—not spiritualized blessings for the 'poor in spirit,' but direct declarations to those who are literally poor, hungry, and weeping. Here too are the corresponding Woes upon the rich and satisfied. This is the constitution of a new community: one built on radical generosity, love of enemies, and the rejection of judgment. The sermon concludes with the parable of two foundations—the one who hears and acts versus the one who hears and does nothing.",
+      "preamble": "The choosing of the twelve and the teaching given on the level place. Tertullian works through the sermon almost line by line (Marc. 4.13–4.17), so for this chapter the evidence is dense, and in several places the witnesses show the wording of Marcion's text where it differs from the canonical one. The blessing is spoken of the poor in the third person: \"Blessed are the poor, for theirs is the kingdom of God.\" Tertullian notes that the Greek word means beggars. Blessings on the poor, the hungry and those who weep are matched by woes on the rich, the full and those who laugh. Then come the love of enemies, mercy, not judging, the measure that is returned, the two trees and the two treasures, and the question \"Why do you call me Lord, Lord, and do not do what I say?\". The emphasis throughout falls on what a person does. Three of the sayings the library pairs with the Epistle of James (6:24, 6:37, 6:46) are attested by the witnesses.",
       "verses": [
         {
           "verse": 1,
           "canonical_ref": "Luke 6:12",
-          "english": "And it happened in those days, he went out to the mountain to pray, and he was spending the night in the prayer of God.",
+          "english": "In those days he went out to the mountain to pray, and he spent the night in the prayer of God.",
           "greek": "Ἐγένετο δὲ ἐν ταῖς ἡμέραις ταύταις ἐξελθεῖν αὐτὸν εἰς τὸ ὄρος προσεύξασθαι, καὶ ἦν διανυκτερεύων ἐν τῇ προσευχῇ τοῦ θεοῦ."
         },
         {
           "verse": 2,
           "canonical_ref": "Luke 6:13",
-          "english": "And when it became day, he called his disciples; and choosing from them twelve, whom he also designated as emissaries:",
-          "greek": "καὶ ὅτε ἐγένετο ἡμέρα, προσεφώνησεν τοὺς μαθητὰς αὐτοῦ, καὶ ἐκλεξάμενος ἀπ᾿ αὐτῶν δώδεκα, οὓς καὶ ἀποστόλους ὠνόμασεν·"
+          "english": "When day came, he called his disciples and chose twelve of them, whom he also designated emissaries:",
+          "greek": "καὶ ὅτε ἐγένετο ἡμέρα, προσεφώνησεν τοὺς μαθητὰς αὐτοῦ, καὶ ἐκλεξάμενος ἀπ’ αὐτῶν δώδεκα, οὓς καὶ ἀποστόλους ὠνόμασεν,"
         },
         {
           "verse": 3,
           "canonical_ref": "Luke 6:14",
-          "english": "Simon, whom also he named Peter, and Andrew his brother, [and James and John]...",
-          "greek": "Σίμωνα, ὃν καὶ ὠνόμασεν Πέτρον, καὶ Ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ, {καὶ Ἰάκωβον καὶ Ἰωάννην}..."
+          "english": "Simon, whom he also named Peter, and Andrew his brother, and James and John, and Philip and Bartholomew,",
+          "greek": "Σίμωνα ὃν καὶ ὠνόμασεν Πέτρον καὶ Ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ καὶ Ἰάκωβον καὶ Ἰωάννην καὶ Φίλιππον καὶ Βαρθολομαῖον"
         },
         {
           "verse": 4,
           "canonical_ref": "Luke 6:15",
-          "english": "...",
-          "greek": "..."
+          "english": "and Matthew and Thomas, and James son of Alphaeus, and Simon who was called the zealot,",
+          "greek": "καὶ Μαθθαῖον καὶ Θωμᾶν καὶ Ἰάκωβον Ἁλφαίου καὶ Σίμωνα τὸν καλούμενον ζηλωτὴν",
+          "attestation": "unattested"
         },
         {
           "verse": 5,
           "canonical_ref": "Luke 6:16",
-          "english": "[and Judas of James] and Judas Iscariot, who became a betrayer.",
-          "greek": "{καὶ Ἰούδαν Ἰακώβου} καὶ Ἰούδαν Ἰσκαριώθ, ὃς ἐγένετο προδότης."
+          "english": "and Judas son of James, and Judas Iscariot, who became a traitor.",
+          "greek": "καὶ Ἰούδαν Ἰακώβου καὶ Ἰούδαν Ἰσκαριὼθ ὃς ἐγένετο προδότης."
         },
         {
           "verse": 6,
-          "canonical_ref": "Luke 6:17-19",
-          "english": "And coming down with them, he stood on a level place, and a great crowd of his disciples, and a great multitude of the people from all Judea and Jerusalem and the coast of Tyre and Sidon, who came to hear him and to be healed from their diseases; and those troubled by unclean spirits were being healed. And all the crowd was seeking to touch him, because power was going out from him and healing all.",
-          "greek": "Καὶ καταβὰς μετ᾿ αὐτῶν ἔστη ἐπὶ τόπου πεδινοῦ, καὶ ὄχλος πολὺς μαθητῶν αὐτοῦ, καὶ πλῆθος πολὺ τοῦ λαοῦ ἀπὸ πάσης τῆς Ἰουδαίας καὶ Ἱερουσαλήμ καὶ τῆς παραλίου Τύρου καὶ Σιδῶνος, οἳ ἦλθον ἀκοῦσαι αὐτοῦ καὶ ἰαθῆναι ἀπὸ τῶν νόσων αὐτῶν· καὶ οἱ ἐνοχλούμενοι ἀπὸ πνευμάτων ἀκαθάρτων ἐθεραπεύοντο. καὶ πᾶς ὁ ὄχλος ἐζήτουν ἅπτεσθαι αὐτοῦ, ὅτι δύναμις παρ᾿ αὐτοῦ ἐξήρχετο καὶ ἰᾶτο πάντας."
+          "canonical_ref": "Luke 6:17",
+          "english": "He came down with them and stood on a level place, with a great crowd of his disciples and a great multitude of people from all Judea and Jerusalem and the coast of Tyre and Sidon,",
+          "greek": "Καὶ καταβὰς μετ’ αὐτῶν ἔστη ἐπὶ τόπου πεδινοῦ, καὶ ὄχλος πολὺς μαθητῶν αὐτοῦ, καὶ πλῆθος πολὺ τοῦ λαοῦ ἀπὸ πάσης τῆς Ἰουδαίας καὶ Ἰερουσαλὴμ καὶ τῆς παραλίου Τύρου καὶ Σιδῶνος,"
         },
         {
           "verse": 7,
-          "canonical_ref": "Luke 6:20",
-          "english": "And he, lifting up his eyes upon his disciples, said: \"Blessed are you, the poor, for yours is the kingdom of God.\"",
-          "greek": "Καὶ αὐτὸς ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τοὺς μαθητὰς αὐτοῦ ἔλεγεν· Μακάριοι οἱ πτωχοί, ὅτι ὑμετέρα ἐστὶν ἡ βασιλεία τοῦ θεοῦ."
+          "canonical_ref": "Luke 6:18",
+          "english": "who had come to hear him and to be healed of their diseases; and those who were troubled by unclean spirits were healed.",
+          "greek": "οἳ ἦλθον ἀκοῦσαι αὐτοῦ καὶ ἰαθῆναι ἀπὸ τῶν νόσων αὐτῶν· καὶ οἱ ἐνοχλούμενοι ἀπὸ πνευμάτων ἀκαθάρτων ἐθεραπεύοντο·",
+          "attestation": "unattested"
         },
         {
           "verse": 8,
-          "canonical_ref": "Luke 6:21",
-          "english": "Blessed are you who hunger now, for you shall be satisfied. Blessed are you who weep now, for you shall laugh.",
-          "greek": "μακάριοι οἱ πεινῶντες νῦν, ὅτι χορτασθήσεσθε. μακάριοι οἱ κλαίοντες νῦν, ὅτι γελάσετε."
+          "canonical_ref": "Luke 6:19",
+          "english": "And the whole crowd was trying to touch him, for power was going out from him and healing them all.",
+          "greek": "καὶ πᾶς ὁ ὄχλος ἐζήτει ἅπτεσθαι αὐτοῦ, ὅτι δύναμις παρ’ αὐτοῦ ἐξήρχετο καὶ ἰᾶτο πάντας."
         },
         {
           "verse": 9,
-          "canonical_ref": "Luke 6:22-23",
-          "english": "Blessed are you when men hate you, and when they exclude you and reproach you and cast out your name as evil, on account of the son of man. Rejoice in that day and leap for joy, for behold, your reward is great in the heaven; for according to the same things their fathers did to the prophets.",
-          "greek": "μακάριοί ἐστε ὅταν μισήσωσιν ὑμᾶς οἱ ἄνθρωποι καὶ ὅταν ἀφορίσωσιν ὑμᾶς καὶ ὀνειδίσωσιν καὶ ἐκβάλωσιν τὸ ὄνομα ὑμῶν ὡς πονηρὸν ἕνεκα τοῦ υἱοῦ τοῦ ἀνθρώπου· χάρητε ἐν ἐκείνῃ τῇ ἡμέρᾳ καὶ σκιρτήσατε, ἰδοὺ γὰρ ὁ μισθὸς ὑμῶν πολὺς ἐν τῷ οὐρανῷ· κατὰ τὰ αὐτὰ γὰρ ἐποίουν τοῖς προφήταις οἱ πατέρες αὐτῶν."
+          "canonical_ref": "Luke 6:20",
+          "english": "Then he lifted up his eyes to his disciples and said: \"Blessed are the poor, for theirs is the kingdom of God.",
+          "greek": "Καὶ αὐτὸς ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τοὺς μαθητὰς αὐτοῦ ἔλεγεν· Μακάριοι οἱ πτωχοί, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τοῦ θεοῦ."
         },
         {
           "verse": 10,
-          "canonical_ref": "Luke 6:24",
-          "english": "But woe to you, the rich, for you have received your consolation.",
-          "greek": "Πλὴν οὐαὶ ὑμῖν τοῖς πλουσίοις, ὅτι ἀπέχετε τὴν παράκλησιν ὑμῶν."
+          "canonical_ref": "Luke 6:21",
+          "english": "Blessed are you who hunger now, for you will be filled. Blessed are you who weep now, for you will laugh.",
+          "greek": "μακάριοι οἱ πεινῶντες νῦν, ὅτι χορτασθήσεσθε. μακάριοι οἱ κλαίοντες νῦν, ὅτι γελάσετε."
         },
         {
           "verse": 11,
-          "canonical_ref": "Luke 6:25-26",
-          "english": "Woe to you who are full now, for you shall hunger. Woe, those laughing now, for you shall mourn and weep. Woe when all men speak well of you.",
-          "greek": "οὐαὶ ὑμῖν, οἱ ἐμπεπλησμένοι νῦν, ὅτι πεινάσετε. οὐαὶ, οἱ γελῶντες νῦν, ὅτι πενθήσετε καὶ κλαύσετε. οὐαὶ ὅταν ὑμᾶς καλῶς εἴπωσιν πάντες οἱ ἄνθρωποι."
+          "canonical_ref": "Luke 6:22",
+          "english": "Blessed are you when people hate you, and when they exclude you and revile you and cast out your name as evil on account of the son of man.",
+          "greek": "Μακάριοί ἐστε ὅταν μισήσωσιν ὑμᾶς οἱ ἄνθρωποι, καὶ ὅταν ἀφορίσωσιν ὑμᾶς καὶ ὀνειδίσωσιν καὶ ἐκβάλωσιν τὸ ὄνομα ὑμῶν ὡς πονηρὸν ἕνεκα τοῦ υἱοῦ τοῦ ἀνθρώπου·"
         },
         {
           "verse": 12,
-          "canonical_ref": "Luke 6:27-28",
-          "english": "But I say to you who listen: Love your enemies, bless those who hate you, and pray for those who mistreat you.",
-          "greek": "Ἀλλὰ ὑμῖν λέγω τοῖς ἀκούουσιν· ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν, εὐλογεῖτε τοὺς μισοῦντας ὑμᾶς καὶ προσεύχεσθε περὶ τῶν ἐπηρεαζόντων ὑμᾶς."
+          "canonical_ref": "Luke 6:23",
+          "english": "Rejoice in that day and leap for joy, for your reward is great in heaven; for that is what their fathers did to the prophets.",
+          "greek": "χάρητε ἐν ἐκείνῃ τῇ ἡμέρᾳ καὶ σκιρτήσατε, ἰδοὺ γὰρ ὁ μισθὸς ὑμῶν πολὺς ἐν τῷ οὐρανῷ· κατὰ τὰ αὐτὰ γὰρ ἐποίουν τοῖς προφήταις οἱ πατέρες αὐτῶν."
         },
         {
           "verse": 13,
-          "canonical_ref": "Luke 6:29",
-          "english": "To the one striking you on the jaw, offer also the other; and from the one taking your outer-garment, do not withhold the tunic.",
-          "greek": "τῷ τύπτοντί σε ἐπὶ τὴν σιαγόνα πάρεχε καὶ τὴν ἄλλην, καὶ ἀπὸ τοῦ αἴροντός σου τὸ ἱμάτιον καὶ τὸν χιτῶνα μὴ κωλύσῃς."
+          "canonical_ref": "Luke 6:24",
+          "english": "But woe to you who are rich, for you have received your consolation.",
+          "greek": "πλὴν οὐαὶ ὑμῖν τοῖς πλουσίοις, ὅτι ἀπέχετε τὴν παράκλησιν ὑμῶν."
         },
         {
           "verse": 14,
-          "canonical_ref": "Luke 6:31",
-          "english": "And as you wish that men should do to you, do likewise to them.",
-          "greek": "καὶ καθὼς θέλετε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι, ποιεῖτε αὐτοῖς ὁμοίως."
+          "canonical_ref": "Luke 6:25",
+          "english": "Woe to you who are full now, for you will hunger. Woe, you who laugh now, for you will mourn and weep.",
+          "greek": "οὐαὶ ὑμῖν, οἱ ἐμπεπλησμένοι νῦν, ὅτι πεινάσετε. οὐαί, οἱ γελῶντες νῦν, ὅτι πενθήσετε καὶ κλαύσετε."
         },
         {
           "verse": 15,
-          "canonical_ref": "Luke 6:35",
-          "english": "But love your enemies and do good and lend, despairing of nothing; and your reward will be great, and you will be sons of the Most High, for he is kind to the ungrateful and evil.",
-          "greek": "πλὴν ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ ἀγαθοποιεῖτε καὶ δανίζετε μηδὲν ἀπελπίζοντες· καὶ ἔσται ὁ μισθὸς ὑμῶν πολύς, καὶ ἔσεσθε υἱοὶ ὑψίστου."
+          "canonical_ref": "Luke 6:26",
+          "english": "Woe when all people speak well of you, for that is what their fathers did to the false prophets.\"",
+          "greek": "Οὐαὶ ὅταν ὑμᾶς καλῶς εἴπωσιν πάντες οἱ ἄνθρωποι, κατὰ τὰ αὐτὰ γὰρ ἐποίουν τοῖς ψευδοπροφήταις οἱ πατέρες αὐτῶν."
         },
         {
           "verse": 16,
-          "canonical_ref": "Luke 6:46",
-          "english": "And why do you call me 'Lord, Lord,' and do not do what I say?",
-          "greek": "Τί δέ με καλεῖτε· Κύριε κύριε, καὶ οὐ ποιεῖτε ἃ λέγω;"
+          "canonical_ref": "Luke 6:27",
+          "english": "But I say to you who are listening: Love your enemies, do good to those who hate you,",
+          "greek": "Ἀλλὰ ὑμῖν λέγω τοῖς ἀκούουσιν, ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν, καλῶς ποιεῖτε τοῖς μισοῦσιν ὑμᾶς,"
         },
         {
           "verse": 17,
-          "canonical_ref": "Luke 6:47",
-          "english": "Everyone coming to me and hearing my words and doing them—I will show you whom he is like.",
-          "greek": "πᾶς ὁ ἐρχόμενος πρός με καὶ ἀκούων μου τῶν λόγων καὶ ποιῶν αὐτούς, ὑποδείξω ὑμῖν τίνι ἐστὶν ὅμοιος."
+          "canonical_ref": "Luke 6:28",
+          "english": "bless those who curse you, pray for those who mistreat you.",
+          "greek": "εὐλογεῖτε τοὺς καταρωμένους ὑμᾶς, προσεύχεσθε περὶ τῶν ἐπηρεαζόντων ὑμᾶς."
         },
         {
           "verse": 18,
-          "canonical_ref": "Luke 6:48",
-          "english": "He is like a man building a house, who dug and deepened and laid a foundation upon the rock; and when a flood happened, the river broke against that house and was not strong enough to shake it, because it was built well.",
-          "greek": "ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν ὃς ἔσκαψεν καὶ ἐβάθυνεν καὶ ἔθηκεν θεμέλιον ἐπὶ τὴν πέτραν· πλημμύρης δὲ γενομένης προσέρηξεν ὁ ποταμὸς τῇ οἰκίᾳ ἐκείνῃ, καὶ οὐκ ἴσχυσεν σαλεῦσαι αὐτὴν διὰ τὸ καλῶς οἰκοδομῆσθαι αὐτήν."
+          "canonical_ref": "Luke 6:29",
+          "english": "To the one who strikes you on the cheek, offer the other also; and from the one who takes your cloak, do not withhold your tunic either.",
+          "greek": "τῷ τύπτοντί σε ἐπὶ τὴν σιαγόνα πάρεχε καὶ τὴν ἄλλην, καὶ ἀπὸ τοῦ αἴροντός σου τὸ ἱμάτιον καὶ τὸν χιτῶνα μὴ κωλύσῃς."
         },
         {
           "verse": 19,
+          "canonical_ref": "Luke 6:30",
+          "english": "Give to everyone who asks of you; and from the one who takes what is yours, do not demand it back.",
+          "greek": "παντὶ αἰτοῦντί σε δίδου, καὶ ἀπὸ τοῦ αἴροντος τὰ σὰ μὴ ἀπαίτει."
+        },
+        {
+          "verse": 20,
+          "canonical_ref": "Luke 6:31",
+          "english": "And as you wish that people would do to you, do the same to them.",
+          "greek": "καὶ καθὼς θέλετε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι, ποιεῖτε αὐτοῖς ὁμοίως."
+        },
+        {
+          "verse": 21,
+          "canonical_ref": "Luke 6:32",
+          "english": "If you love those who love you, what credit is that to you? For even sinners love those who love them.",
+          "greek": "Καὶ εἰ ἀγαπᾶτε τοὺς ἀγαπῶντας ὑμᾶς, ποία ὑμῖν χάρις ἐστίν; καὶ γὰρ οἱ ἁμαρτωλοὶ τοὺς ἀγαπῶντας αὐτοὺς ἀγαπῶσιν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 22,
+          "canonical_ref": "Luke 6:33",
+          "english": "And if you do good to those who do good to you, what credit is that to you? Even sinners do the same.",
+          "greek": "καὶ γὰρ ἐὰν ἀγαθοποιῆτε τοὺς ἀγαθοποιοῦντας ὑμᾶς, ποία ὑμῖν χάρις ἐστίν; καὶ οἱ ἁμαρτωλοὶ τὸ αὐτὸ ποιοῦσιν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 23,
+          "canonical_ref": "Luke 6:34",
+          "english": "And if you lend to those from whom you hope to receive, what credit is that to you? Even sinners lend to sinners, to receive as much again.",
+          "greek": "καὶ ἐὰν δανίσητε παρ’ ὧν ἐλπίζετε λαβεῖν, ποία ὑμῖν χάρις ἐστίν; καὶ ἁμαρτωλοὶ ἁμαρτωλοῖς δανίζουσιν ἵνα ἀπολάβωσιν τὰ ἴσα."
+        },
+        {
+          "verse": 24,
+          "canonical_ref": "Luke 6:35",
+          "english": "But love your enemies, do good, and lend, expecting nothing in return; and your reward will be great, and you will be sons of the Most High, for he is kind to the ungrateful and the wicked.",
+          "greek": "πλὴν ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ ἀγαθοποιεῖτε καὶ δανίζετε μηδὲν ἀπελπίζοντες· καὶ ἔσται ὁ μισθὸς ὑμῶν πολύς, καὶ ἔσεσθε υἱοὶ Ὑψίστου, ὅτι αὐτὸς χρηστός ἐστιν ἐπὶ τοὺς ἀχαρίστους καὶ πονηρούς."
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 6:36",
+          "english": "Be merciful, as your Father is merciful.",
+          "greek": "γίνεσθε οἰκτίρμονες καθὼς ὁ πατὴρ ὑμῶν οἰκτίρμων ἐστίν·"
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 6:37",
+          "english": "Do not judge, so that you may not be judged; do not condemn, so that you may not be condemned. Pardon, and you will be pardoned.",
+          "greek": "Καὶ μὴ κρίνετε, ἵνα μὴ κριθῆτε· καὶ μὴ καταδικάζετε, ἵνα μὴ καταδικασθῆτε. ἀπολύετε, καὶ ἀπολυθήσεσθε·"
+        },
+        {
+          "verse": 27,
+          "canonical_ref": "Luke 6:38",
+          "english": "Give, and it will be given to you: a good measure, pressed down, shaken together, running over, will be put into your lap. For with the same measure with which you measure, it will be measured back to you.\"",
+          "greek": "δίδοτε, καὶ δοθήσεται ὑμῖν· μέτρον καλὸν πεπιεσμένον σεσαλευμένον ὑπερεκχυννόμενον δώσουσιν εἰς τὸν κόλπον ὑμῶν· τῷ γὰρ αὐτῷ μέτρῳ ᾧ μετρεῖτε ἀντιμετρηθήσεται ὑμῖν."
+        },
+        {
+          "verse": 28,
+          "canonical_ref": "Luke 6:39",
+          "english": "He also told them a parable: \"Can a blind man lead a blind man? Will they not both fall into a pit?",
+          "greek": "Εἶπεν δὲ καὶ παραβολὴν αὐτοῖς· Μήτι δύναται τυφλὸς τυφλὸν ὁδηγεῖν; οὐχὶ ἀμφότεροι εἰς βόθυνον ἐμπεσοῦνται;"
+        },
+        {
+          "verse": 29,
+          "canonical_ref": "Luke 6:40",
+          "english": "A disciple is not above the teacher; but everyone who is fully trained will be like his teacher.",
+          "greek": "οὐκ ἔστιν μαθητὴς ὑπὲρ τὸν διδάσκαλον, κατηρτισμένος δὲ πᾶς ἔσται ὡς ὁ διδάσκαλος αὐτοῦ."
+        },
+        {
+          "verse": 30,
+          "canonical_ref": "Luke 6:41",
+          "english": "Why do you see the speck in your brother's eye, but do not notice the beam in your own eye?",
+          "greek": "τί δὲ βλέπεις τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ τοῦ ἀδελφοῦ σου, τὴν δὲ δοκὸν τὴν ἐν τῷ ἰδίῳ ὀφθαλμῷ οὐ κατανοεῖς;"
+        },
+        {
+          "verse": 31,
+          "canonical_ref": "Luke 6:42",
+          "english": "How can you say to your brother, \"Brother, let me take out the speck in your eye,\" when you yourself do not see the beam in your own eye? Hypocrite, first take the beam out of your own eye, and then you will see clearly to take out the speck in your brother's eye.",
+          "greek": "πῶς δύνασαι λέγειν τῷ ἀδελφῷ σου· Ἀδελφέ, ἄφες ἐκβάλω τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ σου, αὐτὸς τὴν ἐν τῷ ὀφθαλμῷ σου δοκὸν οὐ βλέπων; ὑποκριτά, ἔκβαλε πρῶτον τὴν δοκὸν ἐκ τοῦ ὀφθαλμοῦ σου, καὶ τότε διαβλέψεις τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ τοῦ ἀδελφοῦ σου ἐκβαλεῖν."
+        },
+        {
+          "verse": 32,
+          "canonical_ref": "Luke 6:43",
+          "english": "For no good tree bears bad fruit, nor again does a bad tree bear good fruit.",
+          "greek": "Οὐ γάρ ἐστιν δένδρον καλὸν ποιοῦν καρπὸν σαπρόν, οὐδὲ πάλιν δένδρον σαπρὸν ποιοῦν καρπὸν καλόν."
+        },
+        {
+          "verse": 33,
+          "canonical_ref": "Luke 6:44",
+          "english": "For each tree is known by its own fruit. Figs are not gathered from thorns, nor are grapes picked from a bramble.",
+          "greek": "ἕκαστον γὰρ δένδρον ἐκ τοῦ ἰδίου καρποῦ γινώσκεται· οὐ γὰρ ἐξ ἀκανθῶν συλλέγουσιν σῦκα, οὐδὲ ἐκ βάτου σταφυλὴν τρυγῶσιν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 34,
+          "canonical_ref": "Luke 6:45",
+          "english": "The good person brings forth good out of the good treasure of the heart, and the evil person brings forth evil out of the evil; for the mouth speaks out of the abundance of the heart.",
+          "greek": "ὁ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ τῆς καρδίας προφέρει τὸ ἀγαθόν, καὶ ὁ πονηρὸς ἐκ τοῦ πονηροῦ προφέρει τὸ πονηρόν· ἐκ γὰρ περισσεύματος καρδίας λαλεῖ τὸ στόμα αὐτοῦ."
+        },
+        {
+          "verse": 35,
+          "canonical_ref": "Luke 6:46",
+          "english": "Why do you call me \"Lord, Lord\", and do not do what I say?",
+          "greek": "Τί δέ με καλεῖτε· Κύριε κύριε, καὶ οὐ ποιεῖτε ἃ λέγω;"
+        },
+        {
+          "verse": 36,
+          "canonical_ref": "Luke 6:47",
+          "english": "Everyone who comes to me and hears my words and does them, I will show you what he is like:",
+          "greek": "πᾶς ὁ ἐρχόμενος πρός με καὶ ἀκούων μου τῶν λόγων καὶ ποιῶν αὐτούς, ὑποδείξω ὑμῖν τίνι ἐστὶν ὅμοιος·",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 37,
+          "canonical_ref": "Luke 6:48",
+          "english": "he is like a man building a house, who dug deep and laid the foundation on the rock. When a flood came, the river burst against that house and could not shake it, because it had been well built.",
+          "greek": "ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν ὃς ἔσκαψεν καὶ ἐβάθυνεν καὶ ἔθηκεν θεμέλιον ἐπὶ τὴν πέτραν· πλημμύρης δὲ γενομένης προσέρηξεν ὁ ποταμὸς τῇ οἰκίᾳ ἐκείνῃ, καὶ οὐκ ἴσχυσεν σαλεῦσαι αὐτὴν διὰ τὸ καλῶς οἰκοδομῆσθαι αὐτήν.",
+          "attestation": "unattested"
+        },
+        {
+          "verse": 38,
           "canonical_ref": "Luke 6:49",
-          "english": "But the one hearing and not doing is like a man building a house upon the ground without a foundation, against which the river broke, and immediately it collapsed, and the crash of that house was great.",
-          "greek": "ὁ δὲ ἀκούσας καὶ μὴ ποιήσας ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομήσαντι οἰκίαν ἐπὶ τὴν γῆν χωρὶς θεμελίου, ᾗ προσέρηξεν ὁ ποταμός, καὶ εὐθὺς συνέπεσεν καὶ ἐγένετο τὸ ῥῆγμα τῆς οἰκίας ἐκείνης μέγα."
+          "english": "But the one who hears and does not do is like a man who built a house on the ground without a foundation. The river burst against it, and at once it collapsed, and the ruin of that house was great.\"",
+          "greek": "ὁ δὲ ἀκούσας καὶ μὴ ποιήσας ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομήσαντι οἰκίαν ἐπὶ τὴν γῆν χωρὶς θεμελίου, ᾗ προσέρηξεν ὁ ποταμός, καὶ εὐθὺς συνέπεσεν, καὶ ἐγένετο τὸ ῥῆγμα τῆς οἰκίας ἐκείνης μέγα.",
+          "attestation": "unattested"
         }
       ],
       "notes": [
         {
           "id": 1,
-          "term": "Prayer of God (τῇ προσευχῇ τοῦ θεοῦ - tē proseuchē tou theou)",
-          "verse_refs": [1],
-          "category": "translation",
-          "explanation": "Retained as literal 'prayer of God.' While traditional translations soften this to 'prayer to God,' the source text uses the genitive τοῦ θεοῦ, implying a state of being 'in the prayer belonging to God' or a specific divine influx."
+          "term": "The twelve (6:12–16)",
+          "verse_refs": [1, 2, 3, 4, 5],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.13.1–6: he went up the mountain and spent the night in prayer, chose twelve (with figures of the number from the Creator's scriptures), and named Simon Peter. Epiphanius, sch. 4: »Ἰούδαν Ἰσκαριώτην, ὃς ἐγένετο προδότης«. The other names are not cited. 6:14 is printed whole because the verse is attested; 6:15 is printed in grey. The previous text replaced 6:15 with ellipses (research question Q3c); that is superseded. On the form of Judas' surname: NA27 prints Ἰσκαριώθ and cites Marcion (McionE) for Ἰσκαριώτην, but that rests on Holl's emendation of Epiphanius; his manuscripts V and M read -ώθ. The NA27 form is kept. The previous note presented Ἰσκαριώθ as a Marcionite reading; it is withdrawn."
         },
         {
           "id": 2,
-          "term": "Verse Division (Luke 6:12-13)",
-          "verse_refs": [1, 2],
-          "category": "textual",
-          "explanation": "Both Codex Sinaiticus (01) and Codex Vaticanus (03) treat Luke 6:12 as a distinct narrative unit (Section 43 in critical apparatus). Tertullian references the mountain withdrawal independently in Adversus Marcionem 4.13.1, discussing it as a specific 'work of power' before addressing the selection in 4.13.4. This separation preserves the deliberate 'wait' in the text—the movement from night-long divine communion to daylight human selection."
+          "term": "Emissaries (ἀποστόλους)",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "ἀπόστολος is rendered \"emissary\", its ordinary sense (one sent out), rather than with the later title \"apostle\"."
         },
         {
           "id": 3,
-          "term": "Designated (ὠνόμασεν - ōnomasen)",
-          "verse_refs": [2],
-          "category": "translation",
-          "explanation": "The verb implies more than simple naming; it is the forensic conferral of a title or office. 'Named' is a literal translation of the root 'onoma,' but 'designated' more accurately reflects the clinical appointment of a specific group to a specific rank within the pneumatic hierarchy."
+          "term": "The descent and the crowd (6:17–19)",
+          "verse_refs": [6, 7, 8],
+          "category": "textual",
+          "explanation": "Epiphanius, sch. 4: instead of \"he came down with them\" the text had \"he came down among them\" (κατέβη ἐν αὐτοῖς). Tertullian, Marc. 4.13.6: \"they gather from Tyre and other regions, a multitude even from across the sea\", which agrees in sense with the reading καὶ τῆς περαίας of ℵ* W and ff2. Roth rates both as probable or possible; they are noted, not printed. Epiphanius, sch. 5 quotes 6:19a with the singular ἐζήτει, printed here (Roth: very likely; NA27 ἐζήτουν). 6:18 is not cited and is printed in grey."
         },
         {
           "id": 4,
-          "term": "Emissaries (ἀποστόλους - apostolous)",
-          "verse_refs": [2],
-          "category": "translation",
-          "explanation": "The Greek denotes 'those sent out with a specific commission.' Using 'emissaries' strips away later ecclesiastical hagiography and returns the figure to its functional role as a legal representative of Jesus."
+          "term": "\"Blessed are the poor, for theirs is the kingdom of God\" (6:20)",
+          "verse_refs": [9],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.14.1: \"Beati mendici (sic enim exigit interpretatio vocabuli quod in Graeco est), quoniam illorum est regnum dei\", repeated at 4.14.13. \"Illorum\" (theirs) cannot translate ὑμετέρα (yours). NA27 records αὐτῶν in W, the Old Latin ff2, the Old Syriac (sys) and the Sahidic, and cites Marcion (McionT). Roth: very likely. It is printed. Tertullian's blessing has no \"in spirit\". Epiphanius, sch. 5 attests 6:20a."
         },
         {
           "id": 5,
-          "term": "Positioning of the Apostolic Clause",
-          "verse_refs": [2],
-          "category": "textual",
-          "explanation": "In both the canonical Lukan substrate and the Marcionite layer reported by Tertullian (Adversus Marcionem 4.13.4), the designation clause ('whom he also designated as emissaries') is positioned as the climax of the selection process (v. 2), not as a summary at the end of the name list. Moving it to the end of the list is not supported by major uncials such as 01 (Sinaiticus) or 03 (Vaticanus) and creates a narrative disconnect."
+          "term": "The poor (πτωχοί)",
+          "verse_refs": [9],
+          "category": "translation",
+          "explanation": "πτωχός means the destitute, someone who has to beg, not merely a person of small means. Tertullian insists on the point: the Greek word \"requires\" mendici, beggars (Marc. 4.14.1). The translation keeps \"the poor\" because that is the form in which the word became a community's name (next note), but it means the destitute."
         },
         {
           "id": 6,
-          "term": "Abbreviated Name List (Luke 6:14-16)",
-          "verse_refs": [3, 4, 5],
-          "category": "textual",
-          "explanation": "The full twelve-name list is not forensically preserved in the Marcionite/Proto-Lukan witnesses. Tertullian (Adv. Marc. 4.13.6) specifically attests Simon/Peter and Judas Iscariot. The middle names (Philip, Bartholomew, Matthew, Thomas, James of Alphaeus, Simon the Zealot) are unattested in the Marcionite layer—Tertullian passes over them in silence, moving directly from the 'Pillars' to the betrayer. Ellipses indicate the forensic gap."
+          "term": "The poor as a named group",
+          "verse_refs": [9, 13],
+          "category": "theological",
+          "explanation": "Interpretation. In the third person the blessing describes a class of people, the poor, and assigns the kingdom to them; it is not only an address to the listeners. Paul's letters use \"the poor\" for the Jerusalem community (Gal 2:10; Rom 15:26), and the Epistle of James says that God chose the poor of the world to be heirs of the kingdom (Jas 2:5) and pronounces woe on the rich (Jas 5:1; cf. Lk 6:24). Later writers name a Jewish-Christian group the Ebionites (from Hebrew ebyonim, \"the poor\"). The library identifies the community behind the text with that group (Carriers of Living Water §1). The attested wording of 6:20 is consistent with that identification. It does not prove it: the third person also stands in W, the Old Syriac and the Old Latin ff2."
         },
         {
           "id": 7,
-          "term": "Named Peter (ὠνόμασεν Πέτρον - ōnomasen Petron)",
-          "verse_refs": [3],
-          "category": "translation",
-          "explanation": "The verb indicates the conferral of a title ('The Rock'). Specifically attested by Tertullian (Adv. Marc. 4.13.6) as an act of power. In the Jamesian stratum, this highlights the specific functional role Peter was meant to play within the community's legal framework."
+          "term": "The other blessings (6:21–23)",
+          "verse_refs": [10, 11, 12],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.14.9–14 and 4.15.1; Epiphanius, sch. 6. Tertullian twice gives 6:21 in the third person and without \"now\" (\"Beati esurientes, quoniam ipsi saturabuntur\"; \"Beati qui plorant, quoniam ridebunt\"), and NA27 cites him for both. Roth rates these possible only, and the NA27 wording is printed. At 6:22 Tertullian lacks \"and when they exclude you\". 6:23c is quoted by both witnesses, but they differ on the pronoun: Epiphanius has \"your fathers\" and Tertullian \"their fathers\" (= NA27). The previous note said 6:23c was a later addition to the text; both witnesses contradict that, and the note is withdrawn."
         },
         {
           "id": 8,
-          "term": "Betrayer (προδότης - prodōtēs)",
-          "verse_refs": [5],
-          "category": "translation",
-          "explanation": "The identification of Judas as a 'betrayer' (not merely 'traitor') is verified by Tertullian (4.13.6) and is essential to the stratum's narrative arc regarding the failure of biological associations and the legal necessity of the Passion."
+          "term": "The woes (6:24–26)",
+          "verse_refs": [13, 14, 15],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.15.3–14; Eznik, De Deo 405 (via Roth). Tertullian argues at length that woe on the rich is the Creator's language, which shows the woes stood in Marcion's text. At 6:25 he has no \"now\" after \"full\", and at 6:26 no \"all\"; NA27 cites Marcion for both omissions, with A D and others at 6:25 and D L and others at 6:26. Each rests on one witness and is noted, not printed. At 6:26 NA27's order ὑμᾶς καλῶς is printed (SBLGNT has καλῶς ὑμᾶς)."
         },
         {
           "id": 9,
-          "term": "Judas Iscariot (Ἰούδαν Ἰσκαριώθ - Ioudan Iskariōth)",
-          "verse_refs": [5],
+          "term": "Love of enemies (6:27–31)",
+          "verse_refs": [16, 17, 18, 19, 20],
           "category": "textual",
-          "explanation": "The spelling 'Iskariōth' is retained over 'Iskariōtēs' to remain honest to the Western and Marcionite tradition (Codex Bezae 05), which identifies him by a term likely reflecting his origin or a sectarian label rather than the later standardized Greek patronymic."
+          "explanation": "Tertullian, Marc. 4.16.1–16; Adamantius (via Roth). Tertullian gives 6:27–28 as \"love your enemies, and bless those who hate you, and pray for those who slander you\". The previous text printed that compressed form, which Roth rates possible only; the NA27 wording is restored. At 6:29 Tertullian has the garments in Matthew's order. 6:30b is not cited. At 6:31 Tertullian's form is \"as you wish it to be done to you by people, so you also do to them\"; NA27 cites him for \"you also\". Only Tertullian attests it, and a Latin writer can recast the voice of a clause, so NA27 is printed (METHOD §5.4)."
         },
         {
           "id": 10,
-          "term": "Mountain (τὸ ὄρος - to oros)",
-          "verse_refs": [1],
-          "category": "theological",
-          "explanation": "In the Jamesian framework, the mountain is the site of the new 'Opposition Priesthood' law-giving, mirroring Sinai but internalizing the command."
+          "term": "Lending, mercy, judging (6:32–38)",
+          "verse_refs": [21, 22, 23, 24, 25, 26, 27],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.17.1–10. 6:32–33 are not cited and are printed in grey (6:33 with NA27's bracketed [γάρ]); 6:34b and 6:35a are not cited. Three Marcionite readings are printed because the Latin cannot render the NA27 Greek and Greek manuscripts carry the same reading (NA27 cites Marcion each time). At 6:36 there is no \"also\" (καί), with ℵ B L W. At 6:37 Tertullian has \"Nolite iudicare, ne iudicemini. Nolite condemnare, ne condemnemini\" (ἵνα μή twice), with D W and the Old Latin and Old Syriac. At 6:38 \"eadem qua mensi eritis mensura\" gives \"with the same measure\" (τῷ γὰρ αὐτῷ μέτρῳ), with 𝔓45vid A C and the Byzantine text. At 6:34 Tertullian's \"recepturos\" can render NA27's λαβεῖν, so the text is unchanged."
         },
         {
           "id": 11,
-          "term": "Poor (πτωχοί - ptōchoi)",
-          "verse_refs": [7],
-          "category": "theological",
-          "explanation": "Unlike the Matthean 'poor in spirit,' this stratum uses the literal term for material poverty. This aligns with the 'Jamesian Layer' which identifies the followers as the Ebionim (The Poor)."
+          "term": "\"Rain and sun\": Tertullian's erasure charges",
+          "verse_refs": [24],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.17.6, on 6:35b: \"Well done, Marcion: you have cleverly taken the rain and the sun away from him, so that he would not look like the Creator.\" The rain and sun stand in Matthew 5:45, not in any text of Luke. In the same way Tertullian charges three times (4.7.4, 4.9.15, 4.12.14) that Marcion erased \"I came not to destroy the law but to fulfil it\", which is Matthew 5:17 and stands in no manuscript of Luke. These charges measure Marcion's text against Matthew. They are evidence of what Tertullian expected a gospel to contain, not of what Luke contained, and they are not used as reports of content (METHOD §2)."
         },
         {
           "id": 12,
-          "term": "The Rich (πλουσίοις - plousiois)",
-          "verse_refs": [10],
-          "category": "theological",
-          "explanation": "This forensic 'Woe' is unique to the Lukan/Proto-Lukan stratum and is a primary marker of Jamesian theology, which views wealth as a consolidation of the current corrupt age. The 'Woes' are restored as an integral part of the 'Charter of the Hebrews.' They define the Kingdom by what it excludes—the material security and social status of the Roman-era elite."
+          "term": "Blind guides, the beam, the two trees, the two treasures (6:39–45)",
+          "verse_refs": [28, 29, 30, 31, 32, 33, 34],
+          "category": "textual",
+          "explanation": "Tertullian, Marc. 4.17.11 cites these in sequence and turns them against Marcion, Cerdo and Apelles: \"the blind leads the blind into a pit… a disciple is not above his master… let the heretic take the beam from his own eye… a good tree does not bear bad fruit… Marcion brought nothing good out of the evil treasure of Cerdo.\" 6:44 is not cited and is printed in grey. At 6:45 NA27 has no \"his\" after \"heart\" (SBLGNT adds αὐτοῦ)."
         },
         {
           "id": 13,
-          "term": "παράκλησιν (paraklēsin)",
-          "verse_refs": [10],
-          "category": "translation",
-          "explanation": "Used here in its forensic sense of a legal 'advocacy' or 'comfort' that has already been exhausted by material wealth."
+          "term": "The two trees in Marcion's church",
+          "verse_refs": [32, 34],
+          "category": "theological",
+          "explanation": "Reception. Marcion's followers used 6:43 as their proof text for two gods, a good one and a just one (Origen, Princ. 2.5.4; Hippolytus, Haer. 10.19.3; cited via Roth; the library: Dancing with Fire). In the text the saying is applied to persons: 6:45 explains the fruit as what a person brings out of the treasure of the heart. Tertullian makes the same point (\"which Christ applied figuratively to people, not to two gods\", Marc. 4.17.12). The two-gods reading belongs to the community that kept the text, not to its wording."
         },
         {
           "id": 14,
-          "term": "Tunic (χιτῶνα - chitōna)",
-          "verse_refs": [13],
-          "category": "translation",
-          "explanation": "This refers to the inner garment. The command is to allow the total stripping of the external self to preserve the internal 'Royal Law' of love."
-        },
-        {
-          "id": 15,
-          "term": "Despairing of nothing (μηδὲν ἀπελπίζοντες - mēden apelpizontes)",
-          "verse_refs": [15],
-          "category": "translation",
-          "explanation": "A difficult Greek phrase. In the Jamesian context, it implies an absolute reliance on divine providence rather than a calculated 'return' on a loan, shunning the commercial logic of the state."
-        },
-        {
-          "id": 16,
-          "term": "Doing (ποιῶν - poiōn)",
-          "verse_refs": [14, 16, 17],
+          "term": "Hearing and doing (6:46–49)",
+          "verse_refs": [35, 36, 37, 38],
           "category": "theological",
-          "explanation": "This present participle denotes continuous, active loyalty. This is the cornerstone of the 'Jamesian Layer'—that 'Faith-Alone' (the Pauline Layer) is insufficient without the Ma'asim (Works of Love). The imperative 'do' is the active verb governing the Golden Rule (6:31), which Jamesian theology regards as the 'Law of Liberty.'"
-        },
-        {
-          "id": 17,
-          "term": "Foundation (θεμέλιον - themelion)",
-          "verse_refs": [18, 19],
-          "category": "theological",
-          "explanation": "In this stratum, the foundation is not a creed or a church hierarchy (Orthodoxy Layer), but the internal practice of the words of Christ in action—actual ethical conduct."
-        },
-        {
-          "id": 18,
-          "term": "πέτραν (petran)",
-          "verse_refs": [18],
-          "category": "theological",
-          "explanation": "The 'Rock' in this stratum is not an institutional figure (Peter) but the 'words' of Jesus himself, providing the only stable foundation against the instability of the material age."
-        },
-        {
-          "id": 19,
-          "term": "Omission in 6:23",
-          "verse_refs": [9],
-          "category": "excision",
-          "explanation": "The reference to 'their fathers' and the 'prophets' is often viewed as a later addition to tether the 'Poor' to the old national history; the Protograph focuses on the immediate pneumatic reward."
-        },
-        {
-          "id": 20,
-          "term": "Hate (μισοῦντας - misountas)",
-          "verse_refs": [12],
-          "category": "textual",
-          "explanation": "The reconstruction prioritizes 'those who hate you' over the canonical 'those who curse you' (καταρωμένους). This reflects the forensic reality of the Jamesian community facing active social and legal opposition from the established elite."
-        },
-        {
-          "id": 21,
-          "term": "Mistreat (ἐπηρεαζόντων - epēreazontōn)",
-          "verse_refs": [12],
-          "category": "translation",
-          "explanation": "'Mistreat' captures the sense of malicious prosecution or active harassment. The command establishes the 'Royal Law of Liberty' as a non-resistant internal governor."
-        },
-        {
-          "id": 22,
-          "term": "Forensic Gap (Luke 6:15)",
-          "verse_refs": [4],
-          "category": "textual",
-          "explanation": "Verse 4 (Luke 6:15) is entirely unattested in the Marcionite witnesses. The clinical nature of the Jamesian layer focuses on the office of the Twelve and the figures of Peter and Judas, passing over the intermediate names (Philip, Bartholomew, Matthew, Thomas, James of Alphaeus, Simon the Zealot) in silence. The ellipsis marks this forensic gap transparently."
-        },
-        {
-          "id": 23,
-          "term": "The Brethren (James and John)",
-          "verse_refs": [3],
-          "category": "textual",
-          "explanation": "Andrew, James, and John appear in brackets as high-probability inclusions in the pre-canonical substrate. Though lacking the specific polemical verification Tertullian provides for Peter, their presence among the 'Pillars' (Gal. 2:9) makes their inclusion forensically reasonable."
+          "explanation": "Tertullian, Marc. 4.17.12–13 quotes 6:46: \"Why do you call me Lord, Lord… and do not do what I say?\" 6:47–49 (the two houses) are not cited and are printed in grey. Interpretation: the sermon ends on doing, not on confessing. The Epistle of James makes the same demand (\"be doers of the word, and not hearers only\", Jas 1:22), and the library sets the two side by side (Carriers of Living Water §3.4). Of the three parallels the library draws inside this sermon (6:24 / Jas 5:1; 6:37 / Jas 5:9; 6:46 / Jas 1:22), all three are attested for this text."
         }
-      ],
-      "additional_explanation": {
-        "title": "The Charter of the Hebrews",
-        "content": "Chapter 3 of the Jamesian Protograph establishes the movement's radical separation from both the Pauline pneumatic autonomy and the later Roman state-stabilization.",
-        "points": [
-          {
-            "title": "Economic Reversal",
-            "explanation": "By retaining the \"Woes\" (6:24-26), Proto-Luke defines the Kingdom as a physical and social reality where the hierarchy of the world is inverted. This is a direct attack on any \"Orthodoxy\" that seeks to make the movement compatible with Roman wealth or status."
-          },
-          {
-            "title": "The Golden Rule as Law",
-            "explanation": "Verse 31 is presented not as a suggestion, but as the definition of the \"Royal Law of Liberty.\" It functions as the internal governor of the \"Opposition Priesthood,\" requiring the follower to act from the neighbor's perspective."
-          },
-          {
-            "title": "The Rejection of Lip-Service",
-            "explanation": "The concluding parable of the two builders (6:46-49) serves as a forensic warning against the Pauline tendency to prioritize the \"confession of the mouth\" (Romans 10:9) over the \"work of the hands.\" For the Jamesian Jesus, the house (the community) only stands if it is built on the foundation of action."
-          }
-        ]
-      }
+      ]
     },
     {
       "chapter": 4,
