@@ -3450,3 +3450,176 @@ The earlier verdicts were drawn from the letter.
 - "a prophet cannot perish outside Jerusalem";
 - the house left;
 - "Blessed is the one who comes" (→ 19:38, unprinted).
+
+---
+
+## Chapter 12
+
+*14:12–24. Grey: 14:13, 14:15. Not printed: 14:25–35 (U?), after 14:24. The text runs on from 14:1–11 (tested at the end of chapter 11).*
+
+### 14:12
+
+*Ἔλεγεν δὲ καὶ τῷ κεκληκότι αὐτόν· Ὅταν ποιῇς ἄριστον ἢ δεῖπνον, μὴ φώνει τοὺς φίλους σου μηδὲ τοὺς ἀδελφούς σου μηδὲ τοὺς συγγενεῖς σου μηδὲ γείτονας πλουσίους, μήποτε καὶ αὐτοὶ ἀντικαλέσωσίν σε καὶ γένηται ἀνταπόδομά σοι.*
+
+- **"he said also to the one who had invited him"**: "also" (καί) and "the one who had invited" (τῷ κεκληκότι). Both look back to a guest's teaching and a host (14:7–10, test).
+- **"a lunch or a dinner (δεῖπνον)"**: *the dinner. Forward: "the cup, after the dinner (δειπνῆσαι)" (22:20).*
+- **"do not call your friends, your brothers, your relatives, or rich neighbours"**:
+  - The natural ties: "my mother and brothers are those who hear" (8:21).
+  - The rich (6:24; 12:16).
+- **"lest they invite you back and a repayment (ἀνταπόδομα) be made to you"**:
+  - The exchange of the own: "if you lend to those from whom you hope to receive, what grace is that to you?" (6:34).
+  - Giving where it comes back is not giving.
+
+### 14:13–14 (14:13 grey)
+
+*ἀλλ’ ὅταν δοχὴν ποιῇς, κάλει πτωχούς, ἀναπείρους, χωλούς, τυφλούς· καὶ μακάριος ἔσῃ, ὅτι οὐκ ἔχουσιν ἀνταποδοῦναί σοι, ἀνταποδοθήσεται γάρ σοι ἐν τῇ ἀναστάσει τῶν δικαίων.*
+
+- **"when you make a reception (δοχήν)"**: *δοχή: the only other place is Levi's "great reception" (5:29), where he ate with tax collectors and sinners.* The reception thread (δέχομαι).
+- **"call the poor, the crippled, the lame, the blind"**:
+  - The poor: "blessed are the poor" (6:20); "the poor have good news" (7:22).
+  - The lame walk, the blind look up (7:21–22).
+  - Those whom he healed are those to be called.
+- **"blessed will you be, because they have nothing to repay you"**: "lend, expecting nothing back" (6:35).
+- **"for you will be repaid at the resurrection (ἀναστάσει) of the righteous"**:
+  - *ἀνάστασις, the noun of rising, for the first time in the printed text.* *Forward:* "the resurrection from the dead… sons of the resurrection" (20:27–36).
+  - The repayment for giving without return is rising.
+  - "The righteous": "all the righteous in the kingdom" (13:28, adopted).
+
+### 14:15 (grey)
+
+*Ἀκούσας δέ τις τῶν συνανακειμένων ταῦτα εἶπεν αὐτῷ· Μακάριος ὅστις φάγεται ἄρτον ἐν τῇ βασιλείᾳ τοῦ θεοῦ.*
+
+- **"one of those reclining with him"** (συνανακειμένων): the fellow guests of 14:10 (test).
+- **"blessed is whoever eats bread in the kingdom of God"**:
+  - Eating bread (14:1, test; 9:13–17). The bread asked for daily (11:3).
+  - *Forward:* "I will not drink… until the kingdom of God comes" (22:18).
+
+### 14:16–17
+
+*Ἄνθρωπός τις ἐποίει δεῖπνον μέγα, καὶ ἐκάλεσεν πολλούς, καὶ ἀπέστειλεν τὸν δοῦλον αὐτοῦ τῇ ὥρᾳ τοῦ δείπνου εἰπεῖν τοῖς κεκλημένοις· Ἔρχεσθε, ὅτι ἤδη ἕτοιμά ἐστιν.*
+
+- **"a great dinner; he called (ἐκάλεσεν) many"**:
+  - Calling: "I came to call (καλέσαι) sinners" (5:32).
+  - "The calling (κλῆσιν) and the love of God" (11:42, adopted).
+- **"he sent his servant at the hour of the dinner"**: sending (9:2; 10:1). The hour. *Forward:* "when the hour came, he reclined" (22:14).
+- **"Come, for it is already ready (ἕτοιμα)"**:
+  - Preparing: the messengers sent "to prepare for him" (9:52); "what you have prepared, whose will it be?" (12:20); "be ready" (12:40). *Forward:* "prepare the Passover" (22:8–12).
+  - Here everything is ready from the host's side. Only coming is asked.
+
+### 14:18–20
+
+*καὶ ἤρξαντο ἀπὸ μιᾶς πάντες παραιτεῖσθαι. ὁ πρῶτος εἶπεν αὐτῷ· Ἀγρὸν ἠγόρασα καὶ ἔχω ἀνάγκην ἐξελθὼν ἰδεῖν αὐτόν· ἐρωτῶ σε, ἔχε με παρῃτημένον. καὶ ἕτερος εἶπεν· Ζεύγη βοῶν ἠγόρασα πέντε καὶ πορεύομαι δοκιμάσαι αὐτά· ἐρωτῶ σε, ἔχε με παρῃτημένον. καὶ ἕτερος εἶπεν· Γυναῖκα ἔγημα καὶ διὰ τοῦτο οὐ δύναμαι ἐλθεῖν.*
+
+- **"all as one began to excuse themselves (παραιτεῖσθαι)"**: αἰτέω, asking: "ask, and it will be given" (11:9); "they demand back (ἀπαιτοῦσιν) your soul" (12:20). Here they ask to be let off.
+- **"the first"**: the own's first (9:59, 9:61).
+- **"I bought (ἠγόρασα) a field, and I have necessity (ἀνάγκην) to go out and see it"**:
+  - Buying: the disciples' "unless we go and buy" (9:13). *Forward:* "they bought, they sold" in the days of Lot (17:28).
+  - The own's necessity, against "compel (ἀνάγκασον) them to come in" (14:23).
+- **"five yoke of oxen I bought, and I am going (πορεύομαι) to test (δοκιμάσαι) them"**:
+  - The road verb, used of going to test what one has bought.
+  - Testing: they test the face of heaven and earth, and not this time (12:56).
+  - The ox: loosed and led to water (13:15).
+- **"I married (ἔγημα) a wife, and therefore I cannot (οὐ δύναμαι) come"**:
+  - *The one inside: "I cannot rise and give" (οὐ δύναμαι, 11:7).*
+  - *Forward:* "they ate, they drank, they married (ἐγάμουν)… until the day Noah entered the ark" (17:27); "the sons of the resurrection neither marry" (20:35–36).
+- The three excuses — buying a field, testing oxen, marrying — are the occupations of the days of Noah and Lot in the printed 17:27–28 ("ate, drank, married… bought, sold, planted, built").
+
+### 14:21–22
+
+*τότε ὀργισθεὶς ὁ οἰκοδεσπότης εἶπεν τῷ δούλῳ αὐτοῦ· Ἔξελθε ταχέως εἰς τὰς πλατείας καὶ ῥύμας τῆς πόλεως, καὶ τοὺς πτωχοὺς καὶ ἀναπείρους καὶ τυφλοὺς καὶ χωλοὺς εἰσάγαγε ὧδε. καὶ εἶπεν ὁ δοῦλος· Κύριε, γέγονεν ὃ ἐπέταξας, καὶ ἔτι τόπος ἐστίν.*
+
+- **"the master of the house"** (12:39; 13:25).
+- **"go out quickly into the streets (πλατείας) and lanes of the city"**:
+  - *The streets:* the seventy go out into the streets of a city that does not receive (10:10). "You taught in our streets" was the claim of those left outside (13:26).
+  - Into the same streets the servant goes to bring in others.
+- **"the poor, the crippled, the blind and the lame"**:
+  - The list of 14:13. The host does what Jesus told the host to do.
+  - The healed of 7:21–22, now brought in.
+- **"bring them in (εἰσάγαγε)"**: they do not enter by their own strength (13:24). They are brought in.
+- **"what you commanded (ἐπέταξας) has been done"**: command (4:36; 8:25; 8:31).
+- **"and there is still place (τόπος)"**: place. "Give place" and "the last place" (14:9–10, test). There is place.
+
+### 14:23–24
+
+*Ἔξελθε εἰς τὰς ὁδοὺς καὶ φραγμοὺς καὶ ἀνάγκασον εἰσελθεῖν, ἵνα γεμισθῇ μου ὁ οἶκος· λέγω γὰρ ὑμῖν ὅτι οὐδεὶς τῶν ἀνδρῶν ἐκείνων τῶν κεκλημένων γεύσεταί μου τοῦ δείπνου.*
+
+- **"go out into the roads (ὁδούς) and hedges"**:
+  - The way: those beside the way (8:5); those on the way (9:57); the man going down on the way (10:31, test).
+  - Those found on the roads are brought in.
+- **"compel (ἀνάγκασον) them to come in (εἰσελθεῖν)"**:
+  - The own's necessity (14:18) kept the invited out. The host's necessity brings in those who were not invited.
+  - Entering (11:52; 13:24).
+- **"so that my house may be filled (γεμισθῇ)"**:
+  - *Filling:* the inside "full (γέμει) of plunder" (11:39). Here the house is filled with the poor.
+  - The boats filled (5:7); the days filled (9:51).
+- **"none of those men who were invited will taste (γεύσεται) my dinner"**:
+  - *Tasting:* "some… will not taste (γεύσωνται) death until they see the kingdom" (9:27). The only other place.
+  - Those who refused do not taste the dinner.
+
+### Test: 14:25–35 (U?)
+
+*Συνεπορεύοντο δὲ αὐτῷ ὄχλοι πολλοί, καὶ στραφεὶς εἶπεν πρὸς αὐτούς· Εἴ τις ἔρχεται πρός με καὶ οὐ μισεῖ τὸν πατέρα ἑαυτοῦ καὶ τὴν μητέρα καὶ τὴν γυναῖκα καὶ τὰ τέκνα καὶ τοὺς ἀδελφοὺς καὶ τὰς ἀδελφάς, ἔτι τε καὶ τὴν ψυχὴν ἑαυτοῦ, οὐ δύναται εἶναί μου μαθητής. ὅστις οὐ βαστάζει τὸν σταυρὸν ἑαυτοῦ καὶ ἔρχεται ὀπίσω μου, οὐ δύναται εἶναί μου μαθητής. τίς γὰρ ἐξ ὑμῶν θέλων πύργον οἰκοδομῆσαι οὐχὶ πρῶτον καθίσας ψηφίζει τὴν δαπάνην… ἵνα μήποτε θέντος αὐτοῦ θεμέλιον καὶ μὴ ἰσχύοντος ἐκτελέσαι πάντες οἱ θεωροῦντες ἄρξωνται αὐτῷ ἐμπαίζειν… οὕτως οὖν πᾶς ἐξ ὑμῶν ὃς οὐκ ἀποτάσσεται πᾶσιν τοῖς ἑαυτοῦ ὑπάρχουσιν οὐ δύναται εἶναί μου μαθητής. Καλὸν οὖν τὸ ἅλας· ἐὰν δὲ καὶ τὸ ἅλας μωρανθῇ, ἐν τίνι ἀρτυθήσεται; οὔτε εἰς γῆν οὔτε εἰς κοπρίαν εὔθετόν ἐστιν· ἔξω βάλλουσιν αὐτό. ὁ ἔχων ὦτα ἀκούειν ἀκουέτω.*
+
+- **"many crowds were going along with (συνεπορεύοντο) him"**: the road.
+- **"whoever does not hate his own father and mother and wife and children and brothers and sisters, and even his own soul (ψυχὴν ἑαυτοῦ)"**:
+  - The relations of 12:52–53, divided.
+  - The wife of 14:20 ("I married a wife, and cannot come").
+  - "Let the dead bury their dead" (9:60). "His own soul": "whoever wills to save his soul will lose it" (9:24).
+- **"whoever does not carry (βαστάζει) his own cross and come behind me (ὀπίσω μου)"**: *9:23, the cross and "behind me".*
+- **"who, wishing to build (οἰκοδομῆσαι) a tower, does not first sit and count the cost… lest, having laid a foundation (θεμέλιον) and not having the strength (ἰσχύοντος) to finish"**:
+  - *Building and the foundation: the house on the rock with a foundation, the house on the earth without one (6:48–49).*
+  - The tower: the tower in Siloam that fell (13:4, test).
+  - Strength (13:24).
+- **"all who watch begin to mock (ἐμπαίζειν) him"**: *forward: "the men holding him mocked (ἐνέπαιζον) him" (22:63); Herod mocking (23:11).*
+- **"whoever does not say farewell to (ἀποτάσσεται) all his own possessions (ὑπάρχουσιν)"**:
+  - *ἀποτάσσομαι: "first let me say farewell (ἀποτάξασθαι) to those at home" (9:61).*
+  - Possessions (11:21; 12:15; 12:33, test).
+- **"salt… if it becomes foolish (μωρανθῇ)"**: foolish ("fool", 12:20; 11:40).
+- **"fit (εὔθετον) neither for the earth nor for the dunghill (κοπρίαν)"**: *"fit (εὔθετος) for the kingdom" (9:62); the manure (κόπρια) of the fig tree (13:8, test).*
+- **"they throw it outside (ἔξω)"**: outside (13:25, 13:28).
+- **"whoever has ears to hear, let him hear"**: *8:8.*
+
+**Verdict: continues.**
+- Every phrase is in a thread. It sums up 9:23, 9:57–62 and 6:48–49 as conditions of the road.
+- 14:24 → 15:1 runs: "none will taste my dinner" → "the tax collectors and sinners drew near to hear him… he receives sinners and eats with them". With the passage, 14:35's "let him hear" leads into 15:1's "to hear him". So it does not close a gap.
+
+### What came out of the reading of chapter 12
+
+**The host's half of the meal teaching.**
+- Do not call those who can call you back.
+- Make a reception (δοχή, the word of Levi's feast, 5:29) for the poor, the crippled, the lame, the blind. Those are the ones he healed.
+- The repayment is "the resurrection (ἀνάστασις) of the righteous". This is the first time the noun of rising appears in the printed text, and it is promised for giving without return.
+- The guest's half, "go up higher" (14:10), is in the unprinted 14:1–11.
+
+**The great dinner.**
+- Everything is ready from the host's side.
+- The invited excuse themselves with the own's necessities:
+  - a field bought, which must be seen;
+  - oxen bought, which must be tested — "I am going" (πορεύομαι), the road verb, used for going to one's purchase;
+  - a wife married: "I cannot come", the words of the one inside who "cannot rise and give" (11:7).
+- These are the occupations of the days of Noah and Lot (17:27–28).
+- The master sends into the streets — the streets of 10:10 and 13:26 — and the roads. He brings in the poor, crippled, blind and lame, and compels the rest, so that his house is filled. There is still place.
+- The invited do not taste the dinner. "Taste" is the word of 9:27, "will not taste death".
+
+**Entering in this chapter is being brought in.** In chapter 11 the door was narrow and many had not the strength (13:24), and the master rose to shut it (13:25). Here the master sends out and brings in those who have nothing. "Bring in", "compel to come in": they do not enter; they are brought.
+
+### Threads, carried forward and added
+
+- the dinner (→ 22:20);
+- calling and being called;
+- repayment (ἀνταποδίδωμι);
+- reception (δοχή, 5:29 / 14:13);
+- the poor, crippled, lame, blind (→ 16:20–22; 18:35; 19:8);
+- resurrection (ἀνάστασις, → 20:27–36);
+- eating bread in the kingdom (→ 22:16–18);
+- ready (→ 22:8–12, 22:33);
+- the hour (→ 22:14);
+- excusing;
+- buying, testing, marrying (→ 17:27–28; 20:34–36);
+- "I cannot";
+- the streets;
+- bringing in;
+- compelling;
+- place;
+- the house filled;
+- tasting (9:27 / 14:24).
