@@ -3814,3 +3814,303 @@ The earlier verdicts were drawn from the letter.
   - the elder son outside;
   - "all that is mine is yours" (10:22);
   - the must of joy.
+
+---
+
+## Chapter 14
+
+*16:1–31. Every verse is printed. Grey: 16:1, 16:3, 16:8, 16:10. Adopted Marcionite wordings: 16:12 "what is mine"; 16:17 "of my words" for "of the law"; 16:23 "in his bosom" (singular).*
+
+### 16:1–2 (16:1 grey)
+
+*Ἔλεγεν δὲ καὶ πρὸς τοὺς μαθητάς· Ἄνθρωπός τις ἦν πλούσιος ὃς εἶχεν οἰκονόμον, καὶ οὗτος διεβλήθη αὐτῷ ὡς διασκορπίζων τὰ ὑπάρχοντα αὐτοῦ. καὶ φωνήσας αὐτὸν εἶπεν αὐτῷ· Τί τοῦτο ἀκούω περὶ σοῦ; ἀπόδος τὸν λόγον τῆς οἰκονομίας σου, οὐ γὰρ δύνῃ ἔτι οἰκονομεῖν.*
+
+- **"a steward (οἰκονόμον)"**: *the faithful and prudent steward, set over the household to give the measure of grain (12:42).*
+- **"he was accused (διεβλήθη)"**: διαβάλλω, "throw across". It is the root of διάβολος: "the devil (διάβολος) comes and takes the word" (8:12, test).
+- **"of scattering (διασκορπίζων) his possessions"**:
+  - Scattering: "whoever does not gather with me scatters" (11:23). *The younger son "scattered (διεσκόρπισεν) his substance" (15:13, test).*
+  - Possessions (11:21; 12:15, 12:44).
+- **"give back (ἀπόδος) the account (λόγον) of your stewardship"**:
+  - Giving back: "until you give back (ἀποδῷς) the last coin" (12:59).
+  - λόγος: the account is a word.
+- **"you can no longer be steward"**: what was entrusted (12:48) is taken back.
+
+### 16:3–4 (16:3 grey)
+
+*εἶπεν δὲ ἐν ἑαυτῷ ὁ οἰκονόμος· Τί ποιήσω ὅτι ὁ κύριός μου ἀφαιρεῖται τὴν οἰκονομίαν ἀπ’ ἐμοῦ; σκάπτειν οὐκ ἰσχύω, ἐπαιτεῖν αἰσχύνομαι· ἔγνων τί ποιήσω, ἵνα ὅταν μετασταθῶ ἐκ τῆς οἰκονομίας δέξωνταί με εἰς τοὺς οἴκους ἑαυτῶν.*
+
+- **"he said within himself (ἐν ἑαυτῷ): What shall I do (Τί ποιήσω)?"**:
+  - *The rich man: "he reasoned within himself (ἐν ἑαυτῷ), saying, What shall I do?" (12:17).* The same words.
+  - The rich man answered: build greater barns. The steward will answer: let go what is owed.
+  - The younger son "came into himself" (15:17, test).
+- **"my lord is taking away (ἀφαιρεῖται) the stewardship from me"**: taking away. *Mary's good part "will not be taken away (ἀφαιρεθήσεται)" (10:42, test).* What is held as a stewardship is taken away.
+- **"to dig (σκάπτειν) I have not the strength (οὐκ ἰσχύω)"**:
+  - Digging: the wise builder "dug (ἔσκαψεν) and went deep" (6:48); the vinedresser "dig around it" (13:8, test).
+  - Strength: "many… will not have the strength (ἰσχύσουσιν)" (13:24).
+- **"to beg (ἐπαιτεῖν) I am ashamed (αἰσχύνομαι)"**:
+  - Begging: *forward: the blind man "sat beside the way begging (ἐπαιτῶν)" (18:35).*
+  - Shame (9:26; 13:17; 14:9, test).
+- **"so that when I am removed… they will receive (δέξωνται) me into their houses"**: reception (9:5; 9:53; 10:8–10; 15:2).
+
+### 16:5–7
+
+*καὶ προσκαλεσάμενος ἕνα ἕκαστον τῶν χρεοφειλετῶν τοῦ κυρίου ἑαυτοῦ ἔλεγεν τῷ πρώτῳ· Πόσον ὀφείλεις τῷ κυρίῳ μου; ὁ δὲ εἶπεν· Ἑκατὸν βάτους ἐλαίου· ὁ δὲ εἶπεν αὐτῷ· Δέξαι σου τὰ γράμματα καὶ καθίσας ταχέως γράψον πεντήκοντα. ἔπειτα ἑτέρῳ εἶπεν· Σὺ δὲ πόσον ὀφείλεις; ὁ δὲ εἶπεν· Ἑκατὸν κόρους σίτου· λέγει αὐτῷ· Δέξαι σου τὰ γράμματα καὶ γράψον ὀγδοήκοντα.*
+
+- **"his lord's debtors (χρεοφειλετῶν)"**:
+  - *χρεοφειλέτης: the only other place is the two debtors of 7:41, one owing five hundred and one fifty, both forgiven ("he graced them both").*
+  - The steward does what the creditor of 7:41–42 did, with his lord's goods.
+- **"How much do you owe (ὀφείλεις)?"**: "for we ourselves let go everyone who owes (ὀφείλοντι) us" (11:4).
+- **"a hundred baths of oil"**:
+  - Oil: "you did not anoint my head with oil" (7:46). The Samaritan's oil (10:34, test).
+  - A hundred: the full (8:8; 15:4).
+- **"take your bill (δέξαι) and… write fifty"**: "receive" (δέξαι) is the reception verb. The debtor receives the letting go.
+- **"a hundred kors of wheat (σίτου)… write eighty"**: *the grain:* the rich man's grain (12:18); the steward's "measure of grain" (12:42). The grain owed is let go in part.
+- What is owed to the lord is reduced. The steward gives what is not his, as release of debts.
+
+### 16:8–9 (16:8 grey)
+
+*καὶ ἐπῄνεσεν ὁ κύριος τὸν οἰκονόμον τῆς ἀδικίας ὅτι φρονίμως ἐποίησεν· ὅτι οἱ υἱοὶ τοῦ αἰῶνος τούτου φρονιμώτεροι ὑπὲρ τοὺς υἱοὺς τοῦ φωτὸς εἰς τὴν γενεὰν τὴν ἑαυτῶν εἰσιν. καὶ ἐγὼ ὑμῖν λέγω, ἑαυτοῖς ποιήσατε φίλους ἐκ τοῦ μαμωνᾶ τῆς ἀδικίας, ἵνα ὅταν ἐκλίπῃ δέξωνται ὑμᾶς εἰς τὰς αἰωνίους σκηνάς.*
+
+- **"the lord praised the steward of unrighteousness (ἀδικίας)"**: "workers of unrighteousness" (13:27).
+- **"because he acted prudently (φρονίμως)"**: *"the faithful and prudent (φρόνιμος) steward" (12:42).*
+- **"the sons of this age (αἰῶνος)… the sons of light (φωτός)"**:
+  - The age: *forward:* "the sons of this age marry… those counted worthy of that age… sons of the resurrection" (20:34–36).
+  - Light (8:16; 11:33; 12:3).
+- **"make friends for yourselves from the mammon of unrighteousness"**: friends (11:5–8; 12:4; 15:6, 15:9). Mammon is what is relied on (?).
+- **"so that when it fails (ἐκλίπῃ)"**: failing. "An unfailing (ἀνέκλειπτον) treasure" (12:33, test). *Forward:* "that your faith may not fail (ἐκλίπῃ)" (22:32).
+- **"they may receive (δέξωνται) you into the eternal tents (σκηνάς)"**:
+  - *The tents:*
+    - Peter wanted to make three tents on the mountain (9:33);
+    - the birds of heaven have dwellings (κατασκηνώσεις), but the Son of Man has nowhere to lay his head (9:58);
+    - the birds dwell (κατεσκήνωσεν) in the tree of the kingdom (13:19).
+  - Here the eternal tents are where one is received, through what was given away.
+  - A dwelling is not built on the height. It is received at the end of what was let go.
+
+### 16:10–12 (16:10 grey)
+
+*Ὁ πιστὸς ἐν ἐλαχίστῳ καὶ ἐν πολλῷ πιστός ἐστιν… εἰ οὖν ἐν τῷ ἀδίκῳ μαμωνᾷ πιστοὶ οὐκ ἐγένεσθε, τὸ ἀληθινὸν τίς ὑμῖν πιστεύσει; καὶ εἰ ἐν τῷ ἀλλοτρίῳ πιστοὶ οὐκ ἐγένεσθε, τὸ ἐμὸν τίς ὑμῖν δώσει;*
+
+- **"faithful in the least (ἐλαχίστῳ)"**: "if you cannot do even the least" (12:26). *Forward:* "because you were faithful in a very little (ἐλαχίστῳ), have authority over ten cities" (19:17).
+- **"who will entrust to you the true (ἀληθινόν)?"**: faith; the true.
+- **"if in what is another's (ἀλλοτρίῳ) you were not faithful, who will give you what is mine (τὸ ἐμόν)?"**:
+  - What one holds is another's: the stewardship is the lord's (16:2–3).
+  - "What is mine" is the adopted Marcionite reading. NA27 has "what is your own" (τὸ ὑμέτερον).
+  - By the threads, the two readings meet in one sentence of the test passage: *"all that is mine (τὰ ἐμά) is yours (σά)" (15:31).* Also "all things were handed over to me" (10:22).
+  - **Neutral.** What is given is his, and it becomes yours.
+
+### 16:13
+
+*οὐδεὶς οἰκέτης δύναται δυσὶ κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ.*
+
+- **"no household servant can serve (δουλεύειν) two lords"**: serving. *The elder son, "so many years I serve (δουλεύω) you" (15:29, test).*
+- **"he will hate the one and love the other"**: hate and love. "Love your enemies, do good to those who hate you" (6:27). *Forward:* "his citizens hated (ἐμίσουν) him" (19:14); "you will be hated by all" (21:17).
+- **"or hold to (ἀνθέξεται) the one"**: holding (4:42; 8:15, test).
+- **"you cannot serve God and mammon"**: the house divided (11:17). There is no middle (11:23).
+
+### 16:14–15
+
+*Ἤκουον δὲ ταῦτα πάντα οἱ Φαρισαῖοι φιλάργυροι ὑπάρχοντες, καὶ ἐξεμυκτήριζον αὐτόν. καὶ εἶπεν αὐτοῖς· Ὑμεῖς ἐστε οἱ δικαιοῦντες ἑαυτοὺς ἐνώπιον τῶν ἀνθρώπων, ὁ δὲ θεὸς γινώσκει τὰς καρδίας ὑμῶν· ὅτι τὸ ἐν ἀνθρώποις ὑψηλὸν βδέλυγμα ἐνώπιον τοῦ θεοῦ.*
+
+- **"lovers of silver"**: love turned to silver (11:43: "you love the first seat").
+- **"they sneered at (ἐξεμυκτήριζον) him"**: *forward: at the cross, "the rulers sneered (ἐξεμυκτήριζον)" (23:35, in the unprinted part of chapter 23).*
+- **"you are those who justify yourselves (ἑαυτούς) before men"**: *"wishing to justify himself" (10:29, test). Forward:* "who trusted in themselves (ἐφ’ ἑαυτοῖς) that they were righteous" (18:9).
+- **"God knows your hearts"**: he knows the reasonings of the heart (9:47).
+- **"what is high (ὑψηλόν) among men is an abomination before God"**:
+  - *The height of the own.* What men hold to be high is abhorrent before God.
+  - Capernaum lifted to heaven goes down (10:15, test). *Forward: "whoever lifts himself up (ὑψῶν) will be brought low" (18:14 = 14:11, test).*
+  - No one adds a cubit to his stature (12:25).
+  - *Here the printed text says outright that the height men give themselves is not the height before God.*
+
+### 16:16–17
+
+*Ὁ νόμος καὶ οἱ προφῆται μέχρι Ἰωάννου· ἀπὸ τότε ἡ βασιλεία τοῦ θεοῦ εὐαγγελίζεται καὶ πᾶς εἰς αὐτὴν βιάζεται. Εὐκοπώτερον δέ ἐστιν τὸν οὐρανὸν καὶ τὴν γῆν παρελθεῖν ἢ τῶν λόγων μου μίαν κεραίαν πεσεῖν.*
+
+- **"the law and the prophets until John"**: Moses and Elijah on the mountain (9:30). John, who prepares the way (7:27).
+- **"from then the kingdom of God is proclaimed as good news, and everyone forces (βιάζεται) his way into it"**:
+  - Forcing. *Forward: at Emmaus, "they constrained (παρεβιάσαντο) him, saying, Stay with us" (24:29).*
+  - The force of entering: "strive to enter" (13:24); "compel them to come in" (14:23).
+- **"easier for heaven and earth to pass away (παρελθεῖν) than for one stroke of my words to fall (πεσεῖν)"**:
+  - Heaven and earth, paired (12:56; 21:33).
+  - "Of my words" is the adopted Marcionite reading. The apparatus records that it was adopted against Roth's grade. NA27 has "of the law".
+  - By the threads:
+    - *"my words" joins 21:33: "heaven and earth will pass away, but my words will not pass away";*
+    - *"the law" joins 16:16 ("the law and the prophets until John") and 16:29–31 ("they have Moses and the prophets; let them hear them").*
+  - **Neutral:** each continues.
+  - Falling (6:49; 8:5–8).
+
+### 16:18
+
+*Πᾶς ὁ ἀπολύων τὴν γυναῖκα αὐτοῦ καὶ γαμῶν ἑτέραν μοιχεύει, καὶ ὁ ἀπολελυμένην ἀπὸ ἀνδρὸς γαμῶν μοιχεύει.*
+
+- **"whoever releases (ἀπολύων) his wife and marries another commits adultery"**:
+  - *The λύω family:*
+    - the bent woman "loosed" from Satan's bond (13:12, 13:16);
+    - "release, and you will be released" (6:37).
+  - Here the loosing is the wrong one: the loosing of a marriage.
+  - Marriage is the joining of good and truth; adultery is the falsifying of it (?).
+  - Loosing from a bond of evil frees. Loosing a marriage to join another adulterates.
+- **"marries (γαμῶν)"**: "I married a wife, and I cannot come" (14:20). *Forward:* 17:27; "the sons of the resurrection neither marry" (20:35).
+
+### 16:19–21
+
+*Ἄνθρωπος δέ τις ἦν πλούσιος, καὶ ἐνεδιδύσκετο πορφύραν καὶ βύσσον εὐφραινόμενος καθ’ ἡμέραν λαμπρῶς. πτωχὸς δέ τις ὀνόματι Λάζαρος ἐβέβλητο πρὸς τὸν πυλῶνα αὐτοῦ εἱλκωμένος καὶ ἐπιθυμῶν χορτασθῆναι ἀπὸ τῶν πιπτόντων ἀπὸ τῆς τραπέζης τοῦ πλουσίου· ἀλλὰ καὶ οἱ κύνες ἐρχόμενοι ἐπέλειχον τὰ ἕλκη αὐτοῦ.*
+
+- **"a rich man, clothed (ἐνεδιδύσκετο) in purple and fine linen"**:
+  - *Clothing:* "do not be anxious… what you will put on" (12:22); Solomon in his glory (12:27).
+  - *Forward: Herod, putting "bright (λαμπράν) clothing" on him (23:11).*
+- **"making merry (εὐφραινόμενος) daily (καθ’ ἡμέραν), brightly (λαμπρῶς)"**:
+  - *The rich man of 12:19: "soul… eat, drink, be merry (εὐφραίνου)".*
+  - Daily: the cross daily (9:23), the bread daily (11:3). Here the merriment is daily.
+- **"a poor man named Lazarus was thrown (ἐβέβλητο) at his gate (πυλῶνα)"**:
+  - The poor (6:20; 14:13, 14:21).
+  - Thrown: casting (12:5, 12:49, 12:58).
+  - The gate: the gate of Nain (πύλη, 7:12), where the dead son was carried out.
+- **"longing (ἐπιθυμῶν) to be filled (χορτασθῆναι) from what fell (πιπτόντων) from the rich man's table (τραπέζης)"**:
+  - *Longing: the younger son "longed (ἐπεθύμει) to fill his belly… and no one gave to him" (15:16, test).*
+  - *To be filled: "blessed who hunger now, for you will be filled (χορτασθήσεσθε)" (6:21); "all were filled (ἐχορτάσθησαν)" (9:17).*
+  - What falls from the table. *Forward:* "the hand of the one who hands me over is with me on the table (τραπέζης)" (22:21).
+- **"even the dogs came and licked his sores"**.
+
+### 16:22
+
+*ἐγένετο δὲ ἀποθανεῖν τὸν πτωχὸν καὶ ἀπενεχθῆναι αὐτὸν ὑπὸ τῶν ἀγγέλων εἰς τὸν κόλπον Ἀβραάμ· ἀπέθανεν δὲ καὶ ὁ πλούσιος καὶ ἐτάφη.*
+
+- **"the poor man died, and was carried away (ἀπενεχθῆναι) by the angels"**:
+  - *He is carried.* The lost sheep is carried on the shoulders (15:5). The days of his "being taken up" (9:51).
+  - *Forward: at the end, in the unprinted 24:51, "he was carried up (ἀνεφέρετο) into heaven": the same verb, φέρω, with "up" for "away".*
+- **"into the bosom (κόλπον) of Abraham"**:
+  - *κόλπος: the only other place is 6:38: "a good measure, pressed down, shaken, running over, they will give into your bosom (εἰς τὸν κόλπον ὑμῶν)".*
+  - The bosom is where the measure is given. Lazarus, who received nothing, is carried into the bosom.
+  - Abraham: "daughter of Abraham" (13:16). *Forward:* "son of Abraham" (19:9).
+- **"the rich man also died and was buried (ἐτάφη)"**:
+  - *"Let the dead bury (θάψαι) their own dead" (9:60).*
+  - The poor man is carried. The rich man is buried.
+
+### 16:23–24
+
+*καὶ ἐν τῷ ᾅδῃ ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ, ὑπάρχων ἐν βασάνοις, ὁρᾷ Ἀβραὰμ ἀπὸ μακρόθεν καὶ Λάζαρον ἐν τῷ κόλπῳ αὐτοῦ. καὶ αὐτὸς φωνήσας εἶπεν· Πάτερ Ἀβραάμ, ἐλέησόν με καὶ πέμψον Λάζαρον ἵνα βάψῃ τὸ ἄκρον τοῦ δακτύλου αὐτοῦ ὕδατος καὶ καταψύξῃ τὴν γλῶσσάν μου, ὅτι ὀδυνῶμαι ἐν τῇ φλογὶ ταύτῃ.*
+
+- **"in Hades (ᾅδῃ)"**: Capernaum "down to Hades" (10:15, test).
+- **"lifting up his eyes (ἐπάρας τοὺς ὀφθαλμούς)"**:
+  - He lifted up his eyes on his disciples (6:20).
+  - *Forward: the tax collector, "standing far off (μακρόθεν), would not even lift up (ἐπᾶραι) his eyes to heaven" (18:13).*
+  - The rich man lifts up his eyes from Hades. The tax collector will not lift his to heaven, and goes down justified (18:14).
+- **"being in torments (βασάνοις)"**: *Legion: "I beg you, do not torment (βασανίσῃς) me" (8:28).*
+- **"he sees Abraham from far off (μακρόθεν)"**:
+  - Far off: the tax collector (18:13). "While he was still far off (μακράν)" (15:20, test).
+  - The singular "in his bosom" is the adopted Marcionite reading. **Neutral.**
+- **"Father Abraham, have mercy (ἐλέησον) on me"**:
+  - *Mercy: the blind man, "Jesus, son of David, have mercy (ἐλέησον) on me" (18:38–39).*
+  - "Give as alms (ἐλεημοσύνην) the things within" (11:41): what the rich man did not do.
+- **"send Lazarus to dip the tip of his finger (δακτύλου) in water"**:
+  - *The finger:* the finger of God casts out (11:20); the lawyers do not touch the burdens "with one of your fingers" (11:46).
+  - Here the least part of the poor man is asked for.
+- **"and cool my tongue, for I am in anguish in this flame"**: fire.
+
+### 16:25–26
+
+*εἶπεν δὲ Ἀβραάμ· Τέκνον, μνήσθητι ὅτι ἀπέλαβες τὰ ἀγαθά σου ἐν τῇ ζωῇ σου, καὶ Λάζαρος ὁμοίως τὰ κακά· νῦν δὲ ὧδε παρακαλεῖται σὺ δὲ ὀδυνᾶσαι. καὶ ἐν πᾶσι τούτοις μεταξὺ ἡμῶν καὶ ὑμῶν χάσμα μέγα ἐστήρικται, ὅπως οἱ θέλοντες διαβῆναι ἔνθεν πρὸς ὑμᾶς μὴ δύνωνται, μηδὲ ἐκεῖθεν πρὸς ἡμᾶς διαπερῶσιν.*
+
+- **"Child (Τέκνον)"**: *the father to the elder son, "Child (Τέκνον), you are always with me" (15:31, test).*
+- **"remember (μνήσθητι)"**: *forward: "remember (μνήσθητε) how he told you… and they remembered" (24:6, 24:8).*
+- **"you received (ἀπέλαβες) your good things (ἀγαθά) in your life (ζωῇ)"**:
+  - Receiving back: "if you lend to those from whom you hope to receive (ἀπολαβεῖν)" (6:34).
+  - *"My goods (ἀγαθά)" (12:18–19).* "Life is not from one's possessions" (12:15).
+- **"now he is comforted (παρακαλεῖται)"**: *"woe to you who are rich, for you have received your comfort (παράκλησιν)" (6:24).* The woe of 6:24, completed.
+- **"a great chasm has been fixed (ἐστήρικται)"**:
+  - *στηρίζω: "he set firm (ἐστήρισεν) his face to go to Jerusalem" (9:51).* The face set firm toward the goal; the chasm set firm between the two states.
+  - *Forward:* "strengthen (στήρισον) your brothers" (22:32).
+- **"so that those who wish to cross (διαβῆναι)… cannot"**: crossing (8:22, "let us go across"). In this life the crossing is made (8:22–26). After it, it cannot be made.
+
+### 16:27–31
+
+*Ἐρωτῶ σε οὖν, πάτερ, ἵνα πέμψῃς αὐτὸν εἰς τὸν οἶκον τοῦ πατρός μου, ἔχω γὰρ πέντε ἀδελφούς, ὅπως διαμαρτύρηται αὐτοῖς… λέγει δὲ Ἀβραάμ· Ἔχουσι Μωϋσέα καὶ τοὺς προφήτας· ἀκουσάτωσαν αὐτῶν. ὁ δὲ εἶπεν· Οὐχί, πάτερ Ἀβραάμ, ἀλλ’ ἐάν τις ἀπὸ νεκρῶν πορευθῇ πρὸς αὐτοὺς μετανοήσουσιν. εἶπεν δὲ αὐτῷ· Εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν, οὐδ’ ἐάν τις ἐκ νεκρῶν ἀναστῇ πεισθήσονται.*
+
+- **"to my father's house… five brothers"**: the natural house. "My father's house" (15:17, test).
+- **"that he may testify to them"**: testimony (5:14; 9:5).
+- **"They have Moses and the prophets; let them hear (ἀκουσάτωσαν) them"**:
+  - Moses and Elijah on the mountain (9:30). Hearing: "hear him" (9:35).
+  - *Forward: in the unprinted 24:27, "beginning from Moses and all the prophets, he interpreted to them in all the scriptures the things about himself", and in the unprinted 24:44–46, "everything written about me in the law of Moses and the prophets… that the Anointed One should suffer and rise from the dead (ἀναστῆναι ἐκ νεκρῶν) on the third day".*
+- **"if someone goes (πορευθῇ) to them from the dead, they will repent"**:
+  - The road verb, said of someone going from the dead.
+  - Repenting (15:7, 15:10).
+- **"if they do not hear Moses and the prophets, neither will they be persuaded if someone rises (ἀναστῇ) from the dead (ἐκ νεκρῶν)"**:
+  - *Rising from the dead, said of someone, as a hypothesis.* "Raised from the dead" was Herod's rumour of John (9:7).
+  - The condition: rising from the dead persuades no one who does not hear Moses and the prophets.
+  - *The printed text sets the condition here. Whether it shows the condition being met at the end — the opening of Moses and the prophets about the rising (24:27, 24:44–46) — is a question for chapter 22. Those verses are not printed.*
+
+### What came out of the reading of chapter 14
+
+**The steward lets go what is owed.**
+- His stewardship is taken away.
+- He asks within himself "What shall I do?", the rich man's question of 12:17.
+- He cannot dig, and is ashamed to beg.
+- He calls the debtors — the word of the two debtors forgiven in 7:41 — and lets go part of what they owe the lord: oil and wheat.
+- He is praised, and the teaching follows: make friends from what fails, so that you are received into the eternal tents.
+- *The tents that Peter wanted on the mountain (9:33), that the Son of Man had none of on the way (9:58), are received at the end of letting go.*
+
+**The height of men is abomination before God (16:15).** Here the printed text says outright what 12:25, 14:11 (test) and 18:14 say in their ways: the height one gives oneself is not the height before God.
+
+**What is another's and what is his.** One holds what is another's. What is given at the end is "mine" (adopted) or "your own" (NA27). In the test passage 15:31 the two meet: "all that is mine is yours".
+
+**Loosing in two directions.** The wife released to marry another (16:18) against the woman loosed from Satan's bond (13:16). One loosing frees, the other adulterates.
+
+**The rich man and Lazarus.**
+- The rich man is clothed, and makes merry daily.
+- The poor man is thrown at the gate, longing to be filled from what falls — longing as the younger son longed (15:16, test).
+- The poor man dies and is carried by the angels into the bosom. *The bosom is the word of the measure given "into your bosom" (6:38).*
+- The rich man dies and is buried.
+- In Hades he lifts up his eyes, sees from far off, and asks for the tip of a finger in water.
+- "You received your good things in your life; now he is comforted": the woe of 6:24 completed.
+- A chasm is set firm (the verb of the face set toward Jerusalem, 9:51); no one crosses.
+- Moses and the prophets are to be heard. One rising from the dead will not persuade those who do not hear them.
+
+**Movement.**
+- *Lazarus is carried away by angels. This is the second time in the printed text that one who is lowest is carried, after the lost sheep on the shoulders (15:5). Its verb (ἀποφέρω) is the verb of the unprinted 24:51 (ἀναφέρω).*
+- The rich man lifts up his eyes from below, and sees the height from far off.
+- "Rising from the dead" is spoken of, as a condition, for the first time not as rumour.
+
+### Threads, carried forward and added
+
+- the steward (12:42 / 16:1–8);
+- scattering (11:23; 15:13 → 16:1);
+- "What shall I do?" (12:17 / 16:3);
+- taking away;
+- digging; begging (→ 18:35); shame;
+- the debtors let go (7:41 / 16:5);
+- oil and wheat;
+- receiving into houses and into the eternal tents (9:33; 9:58; 13:19 / 16:9);
+- failing (→ 22:32);
+- faithful in the least (→ 19:17);
+- another's and mine (10:22; 15:31);
+- two lords;
+- hate and love (→ 19:14; 21:17);
+- sneering (→ 23:35, unprinted);
+- justifying oneself (→ 18:9–14);
+- the height of men;
+- the law and prophets until John;
+- forcing into the kingdom (→ 24:29);
+- heaven and earth pass (→ 21:33);
+- loosing in two directions;
+- marrying (→ 17:27; 20:34–36);
+- the rich man clothed and merry daily (12:19 / 16:19 → 23:11);
+- the gate;
+- longing to be filled;
+- the table (→ 22:21);
+- carried by angels (→ 24:51, unprinted);
+- the bosom (6:38 / 16:22–23);
+- buried;
+- Hades;
+- lifting the eyes (→ 18:13);
+- far off (→ 18:13);
+- torment (8:28);
+- mercy (→ 18:38–39);
+- the finger;
+- "Child";
+- remember (→ 24:6–8);
+- receiving one's good things;
+- comfort (6:24);
+- the chasm set firm (9:51);
+- crossing;
+- Moses and the prophets, heard (→ 24:27, 24:44, unprinted);
+- rising from the dead as a condition (→ 24:46, unprinted).
