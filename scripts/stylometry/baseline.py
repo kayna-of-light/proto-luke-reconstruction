@@ -1,6 +1,6 @@
 """Stylometric baseline, as pre-registered in docs/stylometry/PREREGISTRATION.md.
 
-Usage:  AUDIT_SRC=<sources> python3 scripts/stylometry/baseline.py [--strata roth|audit]
+Usage:  AUDIT_SRC=<sources> python3 scripts/stylometry/baseline.py [--strata roth|audit|audit_um|<edition>]
 Writes docs/stylometry/results/<strata>/results.json, verse_scores.csv and features.csv.
 """
 import argparse, csv, json, math, os, sys
@@ -114,20 +114,20 @@ def null_summary(obs, n1, n2):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--strata', default='roth',
-                    choices=['roth', 'audit', 'harnack', 'klinghardt', 'nicolotti', 'beduhn', 'hahn', 'zahn'])
+                    choices=['roth', 'audit', 'audit_um', 'harnack', 'klinghardt', 'nicolotti', 'beduhn', 'hahn', 'zahn'])
     args = ap.parse_args()
 
     nt = read_nt()
     luke, mt, mk, jn, acts = nt['63-Lk'], nt['61-Mt'], nt['62-Mk'], nt['64-Jn'], nt['65-Ac']
     keys = list(luke.keys())
 
-    if args.strata not in ('audit',):
+    if args.strata not in ('audit', 'audit_um'):
         # P from the named reconstruction; A = Roth's attested-absent list minus P; U = the rest
         strata = roth_strata(keys, present_from=args.strata)
     else:
         sys.path.insert(0, os.path.join(REPO, 'scripts', 'audit'))
         from audit_strata import audit_strata  # written when the audit is complete (PREREG §7)
-        strata = audit_strata(keys)
+        strata = audit_strata(keys, u_minus_as_absent=(args.strata == 'audit_um'))
 
     cls = np.array([strata[k] for k in keys])
     w = np.array([len(luke[k]) for k in keys], dtype=float)

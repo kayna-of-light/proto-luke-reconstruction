@@ -3,7 +3,7 @@ import json, os
 
 REPO = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..'))
 RES = os.path.join(REPO, 'docs', 'stylometry', 'results')
-RUNS = ['roth', 'harnack', 'klinghardt', 'nicolotti', 'beduhn', 'hahn', 'zahn']
+RUNS = ['roth', 'audit', 'audit_um', 'harnack', 'klinghardt', 'nicolotti', 'beduhn', 'hahn', 'zahn']
 KEY_CONDS = ['full', 'full, genre MH', 'no infancy/genealogy', 'no infancy/genealogy, genre MH',
              'markan only', 'non-markan only', 'no infancy, non-markan', 'no infancy, tradition MH',
              'strict P vs A', 'strict P vs A, no infancy']

@@ -185,6 +185,51 @@ The pre-registered Delta comparison holds descriptively in every edition: N is n
   - the published p-values rest on quotation-limited wording.
 - **The 4:23 seam, the harmonization evidence and the absence of a doctrinal pattern in the omissions are untouched by this result.** They now carry the case for priority without stylometric support.
 
-## 8. Still to run
+## 8. Rerun on the audit's classes (pre-registration §7)
 
-The pre-registered rerun on the audit's own classes (§7 of the pre-registration), once the audit is complete.
+The whole analysis was rerun after the audit with the audit's own classes from `data/apparatus/` (`scripts/audit/audit_strata.py`; `--strata audit` and `audit_um`). Luke 1–2 is A, as in the Roth run.
+
+**Mappings:**
+- **Primary (`audit`):** A+ → P; A− → A; U− and U? → U.
+- **Sensitivity (`audit_um`):** U− is counted as A.
+
+**Group sizes:**
+
+| Run | P | A | U |
+|---|---|---|---|
+| Roth 2015 | 484 | 251 | 414 |
+| Audit | 485 | 275 | 389 |
+| Audit, U− as absent | 485 | 319 | 345 |
+
+The audit's attested-present set is almost Roth's (485 against 484 verses). The difference is on the absent side: 24 more verses attested absent, and 44 classed probably absent.
+
+**Rate ratios** (N over P; an asterisk marks a ratio beyond the 95th percentile of both nulls):
+
+| Condition | Roth F1 / F2 / F3 | Audit F1 / F2 / F3 | Audit, U− as A: F1 / F2 / F3 |
+|---|---|---|---|
+| Full text | 1.23* / 1.39* / 1.17 | 1.23* / 1.41* / 1.18 | same as audit |
+| Without Luke 1–2 and the genealogy | 1.14* / 1.24* / 1.04 | 1.14* / 1.26* / 1.05 | same |
+| Without them, genre controlled | 1.10* / 1.20* / 0.99 | 1.11* / 1.23* / 1.00 | same |
+| Non-Markan, without Luke 1–2 | 1.11 / 1.14 / 1.03 | 1.11 / 1.17 / 1.04 | same |
+| Strict P against A | 1.33* / 1.60* / 1.37 | 1.30* / 1.56* / 1.37 | 1.28* / 1.50* / 1.30 |
+| Strict P against A, without Luke 1–2 | 1.03 / 1.12 / 1.00 | 1.03 / 1.11 / 1.05 | 1.05 / 1.12 / 1.02 |
+
+- **Pre-registered labels.** These are the same in all three runs:
+  - F1 supported;
+  - F2 supported;
+  - F3 not observed.
+- **Verse-level score.** AUC is 0.54 on the audit classes and 0.57 with U− as absent, against 0.51 on Roth's. All are below the pre-registered 0.70, so the score is not used.
+- **Exploratory checks.** These hold as well (`results/audit/exploratory.json`):
+  - E1 (F2 without names): 1.31 full and 1.23 without Luke 1–2, against 1.28 and 1.20.
+  - E3 (Delta under the block null): p ≈ 0.016 full, p ≈ 0.16 without Luke 1–2.
+
+**What the comparison shows:**
+1. **The audit does not change the stylometric picture.** Luke 1–2 is distinct. Outside it, the material that the attested text lacks (the strict contrast) cannot be told apart in style from the material it contains. That holds whether the probably-absent verses are counted as absent or as undetermined.
+2. **The lexical excess comes from "not attested", not from "absent".** The excess of Luke's characteristic vocabulary appears only when all non-attested verses are pooled. It disappears in the strict P-against-A contrast. Its drivers include words of the unattested verses inside attested pericopes, which are in the text:
+   - μνᾶ, 8 against 1, from the parable of the minas, 19:12–25;
+   - ὑποστρέφω, λαός, ῥῆμα.
+
+   This favours the second reading in §5.3, subjects the Fathers had no occasion to quote, over a second hand.
+3. **The audit's decisions did not use style.** The verse classes were set from the witnesses alone (§7). This rerun is a check on the audit, as pre-registered. It does not support or count against any single verse.
+
+**Bearing on research question Q8** (correspondential composition of the absent parables): the stylometric data give no sign that the absent material was written in a different idiom. If the absent parables show a different *compositional* method, that is a question the word-level features used here cannot reach. Q8 has to be answered on its own terms (`docs/research_questions.md`).
