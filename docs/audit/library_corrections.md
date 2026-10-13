@@ -5,7 +5,18 @@ These are factual claims in literary-compilation documents that the audit's evid
 - the claim;
 - the evidence (witness and locus, with the apparatus file).
 
-Nothing here is edited in the library during the audit. Phase F applies the corrections, using the library's own annotation system (`docs/EDITORIAL_ANNOTATION_MANUAL.md` there).
+Nothing here is edited in the library during the audit.
+
+**Phase F (2026-10-13).** Applied in literary-compilation, branch `claude/exciting-hamilton-sn9h4t`, as corrections of record in the text, with the witness quoted. The library's procedure (`docs/NIGHTLY_SOURCE_AUDIT.md` §§3.5, 3.7) reserves annotations and strains for the author, so none were added. The ledger there (`docs/audit_ledger.md`, run log 2026-10-13) lists the 17 documents and the sections changed.
+- **Corrected:** items 4–8 and 10–14, with propagation to the other documents that repeat them. Further errors of record found on the way were also corrected:
+  - *AE* §960 is not the Samaritan passage; it is §444 (also §§376, 962);
+  - the Marcionite text has "in Galilaea" and "the Son of Man" at 24:6 (Tert. 4.43.5);
+  - the reconstruction now prints 708 verses, not the "353" the library cited.
+- **No edit:**
+  - item 1: no library document claims ἐπιστάτα for Marcion;
+  - item 2: no library occurrence;
+  - item 3: every occurrence presents κατῆλθεν as the Marcionite reading that Tertullian reports;
+  - item 9: a reading of 16:25, not an error of record.
 
 | # | Document (literary-compilation/data/) | Claim | Evidence | Batch |
 |---|---|---|---|---|
