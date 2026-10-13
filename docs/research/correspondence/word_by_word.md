@@ -2639,3 +2639,505 @@ The earlier verdicts were drawn from the letter.
 - lying in wait for his mouth (→ 20:20–26; 22:71);
 - judgement as one's own measure;
 - κρίσις absent from the printed text.
+
+---
+
+## Chapter 10
+
+*12:1–59. Grey: 12:15, 12:17–18, 12:21, 12:25–26, 12:29, 12:50, 12:52, 12:54–55. Not printed: 12:6 (A−), 12:7 (U−), 12:28a (attested omission), 12:33–34 (U?). Adopted Marcionite wordings: 12:5 βαλεῖν; 12:8–9 "before God" without "the angels of"; 12:27 "neither spin nor weave"; 12:31 "the kingdom of God"; 12:32 "the Father"; 12:38 "in the evening watch"; 12:53 singular "will be divided"; 12:56 "heaven and earth"; 12:58 word order.*
+
+### 12:1
+
+*Ἐν οἷς ἐπισυναχθεισῶν τῶν μυριάδων τοῦ ὄχλου, ὥστε καταπατεῖν ἀλλήλους, ἤρξατο λέγειν πρὸς τοὺς μαθητὰς αὐτοῦ πρῶτον· Προσέχετε ἑαυτοῖς ἀπὸ τῆς ζύμης, ἥτις ἐστὶν ὑπόκρισις, τῶν Φαρισαίων.*
+
+- **"so that they trampled (καταπατεῖν) one another"**: treading down.
+  - The seed by the way "was trodden down" (κατεπατήθη, 8:5). The seventy tread on snakes (10:19).
+  - Here the crowd treads on itself.
+- **"first, to his disciples"**: "first" (πρῶτον). This "first" is his, against the own's "first" (9:59, 9:61).
+- **"beware for yourselves (ἑαυτοῖς) of the leaven (ζύμης)"**:
+  - Leaven works hidden through the whole lump.
+  - *Forward: "it is like leaven which a woman took and hid (ἐνέκρυψεν) in three measures of flour until all was leavened" (13:21);* the feast of unleavened bread (22:1, 22:7).
+  - Leaven, like many words in this text, works both ways: falsity spreading hidden, or the kingdom hidden until the whole is leavened.
+- **"which is hypocrisy"** (ὑπόκρισις): "hypocrite, first cast out the beam" (6:42). The outside that differs from the inside (11:39). *Forward:* 12:56; 13:15; "spies pretending (ὑποκρινομένους) to be righteous" (20:20).
+
+### 12:2–3
+
+*οὐδὲν δὲ συγκεκαλυμμένον ἐστὶν ὃ οὐκ ἀποκαλυφθήσεται, καὶ κρυπτὸν ὃ οὐ γνωσθήσεται. ἀνθ’ ὧν ὅσα ἐν τῇ σκοτίᾳ εἴπατε ἐν τῷ φωτὶ ἀκουσθήσεται, καὶ ὃ πρὸς τὸ οὖς ἐλαλήσατε ἐν τοῖς ταμείοις κηρυχθήσεται ἐπὶ τῶν δωμάτων.*
+
+- **"nothing covered (συγκεκαλυμμένον) that will not be uncovered (ἀποκαλυφθήσεται), nor hidden (κρυπτόν) that will not be known"**:
+  - *The law of veiling, the third time:* 8:17 (stated); 9:45 (the veil); 10:21 (thanks for the uncovering); here.
+  - *Forward: "on the day the Son of Man is revealed (ἀποκαλύπτεται)" (17:30).*
+  - The uncovering of the hidden runs to the uncovering of the Son of Man.
+- **"what you said in the dark will be heard in the light"**: the light of the lamp (8:16; 11:33).
+- **"what you whispered in the inner rooms (ταμείοις) will be proclaimed on the housetops (δωμάτων)"**:
+  - From the innermost room to the highest part of the house.
+  - The roof: the friends "went up onto the roof" (ἀναβάντες ἐπὶ τὸ δῶμα) to let the paralysed man down (5:19). *Forward:* "whoever is on the roof… let him not come down (μὴ καταβάτω)" (17:31).
+  - The inner room: the ravens "have no inner room (ταμεῖον) nor barn" (12:24).
+
+### 12:4–5
+
+*Λέγω δὲ ὑμῖν τοῖς φίλοις μου, μὴ φοβηθῆτε ἀπὸ τῶν ἀποκτεινόντων τὸ σῶμα καὶ μετὰ ταῦτα μὴ ἐχόντων περισσότερόν τι ποιῆσαι. ὑποδείξω δὲ ὑμῖν τίνα φοβηθῆτε· φοβήθητε τὸν μετὰ τὸ ἀποκτεῖναι ἔχοντα ἐξουσίαν βαλεῖν εἰς γέενναν· ναί, λέγω ὑμῖν, τοῦτον φοβήθητε.*
+
+- **"to you, my friends"**: the friend at midnight (11:5–8). The disciples are now called friends.
+- **"do not fear those who kill the body (σῶμα)"**:
+  - Fear (5:10; 8:25; 8:35–37; 8:50; 9:34; 9:45).
+  - The body: *forward:* "this is my body" (22:19); his body taken down, laid, not found (23:52, 23:55; 24:3, 24:23).
+- **"and after that have nothing more (περισσότερον) to do"**: the overflow (περισσεύω, 9:17; 6:45). Killing has no overflow.
+- **"fear the one who, after killing, has authority (ἐξουσίαν) to cast (βαλεῖν) into Gehenna"**:
+  - Authority (4:36; 5:24; 9:1; 10:19). The fear is moved from what reaches the body to what reaches beyond it.
+  - βαλεῖν without the prefix is the adopted Marcionite reading. It joins "I came to cast (βαλεῖν) fire on the earth" (12:49) and "cast (βαλεῖ) you into prison" (12:58). **Neutral.**
+
+### Test: 12:6–7 (12:6 A−; 12:7 U−)
+
+*οὐχὶ πέντε στρουθία πωλοῦνται ἀσσαρίων δύο; καὶ ἓν ἐξ αὐτῶν οὐκ ἔστιν ἐπιλελησμένον ἐνώπιον τοῦ θεοῦ. ἀλλὰ καὶ αἱ τρίχες τῆς κεφαλῆς ὑμῶν πᾶσαι ἠρίθμηνται· μὴ φοβεῖσθε· πολλῶν στρουθίων διαφέρετε.*
+
+- **"five sparrows sold (πωλοῦνται)"**:
+  - Birds (8:5; 9:58; 12:24). Five (9:13).
+  - Selling: "sell your possessions" (12:33, test); "sell all that you have" (18:22).
+- **"not one of them is forgotten before God (ἐνώπιον τοῦ θεοῦ)"**: *"before God" is the phrase of the printed 12:8–9.* Forgetting, against remembering. *Forward:* "do this in remembrance" (22:19); "remember… and they remembered" (24:6, 24:8).
+- **"the hairs of your head (αἱ τρίχες τῆς κεφαλῆς) are all numbered"**:
+  - *The woman wiped his feet "with the hairs of her head" (ταῖς θριξὶν τῆς κεφαλῆς, 7:38, 7:44).*
+  - The head: "the Son of Man has nowhere to lay his head" (9:58).
+  - The least and outermost of a person is counted.
+- **"do not fear; you are worth more (διαφέρετε) than many sparrows"**:
+  - *The words of the printed 12:24: "how much more are you worth (διαφέρετε) than the birds".*
+  - "Do not fear": 12:32.
+
+**Verdict: continues.**
+- Its words are in the threads of the printed text around it: before God (12:8–9), worth more than the birds (12:24), do not fear (12:32), the hairs of the head (7:38).
+- It turns the fear of 12:4–5 into trust before 12:8.
+- 12:5 → 12:8 runs (fear the one with authority → acknowledging before God), and the "do not fear" comes at 12:32. So it does not close a gap.
+
+### 12:8–9
+
+*πᾶς ὃς ἂν ὁμολογήσῃ ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώπων, καὶ ὁ υἱὸς τοῦ ἀνθρώπου ὁμολογήσει ἐν αὐτῷ ἔμπροσθεν τοῦ θεοῦ· ὁ δὲ ἀρνησάμενός με ἐνώπιον τῶν ἀνθρώπων ἀπαρνηθήσεται ἐνώπιον τοῦ θεοῦ.*
+
+- **"whoever acknowledges in me… the Son of Man will acknowledge in him"**: the measure (6:38). "In me" and "in him": being in each other.
+- **"before men… before God"**: before the natural and before the Divine.
+  - "Before God", without "the angels of", is the adopted Marcionite reading.
+  - "The angels of God" occurs in the printed text: "joy before the angels of God" (15:10).
+  - **Neutral.**
+- **"whoever denies (ἀρνησάμενος) me"**: denial.
+  - All denied that they had touched (8:45). "Let him deny himself" (9:23).
+  - *Forward:* "you will deny three times that you know me" (22:34).
+  - Denying the self, or denying him: the choice is between those two.
+
+### 12:10–12
+
+*καὶ πᾶς ὃς ἐρεῖ λόγον εἰς τὸν υἱὸν τοῦ ἀνθρώπου, ἀφεθήσεται αὐτῷ τῷ δὲ εἰς τὸ ἅγιον πνεῦμα βλασφημήσαντι οὐκ ἀφεθήσεται. ὅταν δὲ εἰσφέρωσιν ὑμᾶς ἐπὶ τὰς συναγωγὰς καὶ τὰς ἀρχὰς καὶ τὰς ἐξουσίας, μὴ μεριμνήσητε πῶς ἢ τί ἀπολογήσησθε ἢ τί εἴπητε· τὸ γὰρ ἅγιον πνεῦμα διδάξει ὑμᾶς ἐν αὐτῇ τῇ ὥρᾳ ἃ δεῖ εἰπεῖν.*
+
+- **"a word against the Son of Man will be let go (ἀφεθήσεται)"**: letting go (5:20–24; 7:47–49; 11:4).
+- **"blasphemy against the holy spirit will not be let go"**:
+  - Blasphemy: "who is this who speaks blasphemies?" (5:21). *Forward:* "blaspheming, they said many other things against him" (22:65).
+  - The holy spirit: what the Father gives to those who ask (11:13).
+  - What is said against the outward form is let go. What is said against what is being given from within is not, because it refuses the giving.
+- **"when they bring you in (εἰσφέρωσιν) before synagogues and rulers (ἀρχάς)"**:
+  - "Do not bring us into (εἰσενέγκῃς) temptation" (11:4).
+  - *Forward:* "to hand him over to the rule (ἀρχῇ) and authority of the governor" (20:20).
+- **"do not be anxious (μεριμνήσητε)"**: anxiety (10:41, test; 12:22–26). *Forward:* "do not prepare beforehand to defend yourselves" (21:14).
+- **"the holy spirit will teach you in that very hour what you must (δεῖ) say"**: "must" (9:22). The holy spirit given (11:13) teaches.
+
+### 12:13–14
+
+*Διδάσκαλε, εἰπὲ τῷ ἀδελφῷ μου μερίσασθαι μετ’ ἐμοῦ τὴν κληρονομίαν. ὁ δὲ εἶπεν αὐτῷ· Ἄνθρωπε, τίς με κατέστησεν κριτὴν ἢ μεριστὴν ἐφ’ ὑμᾶς;*
+
+- **"tell my brother to divide (μερίσασθαι) the inheritance with me"**:
+  - Inheritance: "what must I do to inherit life?" (10:25). Here the inheritance is property.
+  - Division: the kingdom divided against itself (11:17).
+- **"who set me as judge (κριτήν) or divider (μεριστήν) over you?"**:
+  - He refuses to judge or divide the own's share.
+  - *Yet at 12:51 he says he came to bring division (διαμερισμόν).* He does not divide the inheritance between brothers. He divides the house within (12:52–53).
+
+### 12:15 (grey)
+
+*Ὁρᾶτε καὶ φυλάσσεσθε ἀπὸ πάσης πλεονεξίας, ὅτι οὐκ ἐν τῷ περισσεύειν τινὶ ἡ ζωὴ αὐτοῦ ἐστιν ἐκ τῶν ὑπαρχόντων αὐτῷ.*
+
+- **"guard yourselves (φυλάσσεσθε) from all greed"**:
+  - Guarding (11:21: the strong man guards his court; 11:28: the hearers guard the word). Here one guards oneself against having more.
+  - Greed (πλεονεξία) is "having more".
+- **"not in abounding (περισσεύειν) is one's life (ζωή) from one's possessions (ὑπαρχόντων)"**:
+  - *The overflow:* the overflow taken up (9:17) is the overflow of what was given. Abounding in possessions is not life.
+  - Life (10:25, 10:28): from doing, not from having.
+  - Possessions: the strong man's possessions at peace (11:21).
+
+### 12:16–18 (12:17–18 grey)
+
+*Ἀνθρώπου τινὸς πλουσίου εὐφόρησεν ἡ χώρα. καὶ διελογίζετο ἐν ἑαυτῷ λέγων· Τί ποιήσω, ὅτι οὐκ ἔχω ποῦ συνάξω τοὺς καρπούς μου; καὶ εἶπεν· Τοῦτο ποιήσω· καθελῶ μου τὰς ἀποθήκας καὶ μείζονας οἰκοδομήσω, καὶ συνάξω ἐκεῖ πάντα τὸν σῖτον καὶ τὰ ἀγαθά μου,*
+
+- **"a rich (πλουσίου) man's land bore well"**: "woe to you who are rich (πλουσίοις)" (6:24). *Forward:* the rich man (16:19); "he was very rich" (18:23); Zacchaeus, rich (19:2).
+- **"he reasoned within himself (ἐν ἑαυτῷ)"**: the reasonings (5:21–22; 9:46–47); "within himself" (7:39; 11:38).
+- **"What shall I do (Τί ποιήσω)?"**:
+  - The lawyer: "what must I do (τί ποιήσας) to inherit life?" (10:25).
+  - *Forward:* the steward, "what shall I do?" (16:3).
+- **"where to gather (συνάξω) my fruits"**:
+  - "Whoever does not gather (συνάγων) with me scatters" (11:23). He gathers for himself.
+  - Fruit: the good earth bore a hundredfold (8:8); a tree is known by its fruit (6:43–44).
+- **"I will pull down (καθελῶ) my barns and build greater (μείζονας)"**:
+  - *καθαιρέω, "take down": the only other place is 23:53, where Joseph, "taking him down (καθελών)", laid him in a tomb.*
+  - Building (6:48–49; 11:47–48). Greater: "who is greater" (9:46).
+- **"my fruits… my barns… my grain… my goods"**: "my", four times. The own names what it holds.
+
+### 12:19
+
+*καὶ ἐρῶ τῇ ψυχῇ μου· Ψυχή, ἔχεις πολλὰ ἀγαθὰ κείμενα εἰς ἔτη πολλά· ἀναπαύου, φάγε, πίε, εὐφραίνου.*
+
+- **"I will say to my soul (ψυχῇ)"**: the soul. "Whoever wills to save his soul will lose it" (9:24). He speaks to his soul as a possession: "my soul".
+- **"many goods laid up (κείμενα)"**: *κεῖμαι, "lie, be laid": in 23:53 the tomb is "where no one had yet been laid (κείμενος)".* Goods laid up for many years; a body laid where none had lain.
+- **"rest (ἀναπαύου), eat, drink, be merry (εὐφραίνου)"**:
+  - Rest: peace "will rest" on the son of peace (10:6); the unclean spirit seeks rest and does not find it (11:24, test).
+  - *Forward: the rich man "making merry (εὐφραινόμενος) daily, splendidly" (16:19).*
+
+### 12:20–21 (12:21 grey)
+
+*εἶπεν δὲ αὐτῷ ὁ θεός· Ἄφρων, ταύτῃ τῇ νυκτὶ τὴν ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ· ἃ δὲ ἡτοίμασας, τίνι ἔσται; οὕτως ὁ θησαυρίζων ἑαυτῷ καὶ μὴ εἰς θεὸν πλουτῶν.*
+
+- **"Fool (ἄφρων)"**: "fools (ἄφρονες), did not the one who made the outside also make the inside?" (11:40).
+- **"this night (νυκτί)"**: the night (11:5; 17:34).
+- **"they demand back (ἀπαιτοῦσιν) your soul from you"**:
+  - *ἀπαιτέω: "from the one who takes what is yours, do not demand it back (ἀπαίτει)" (6:30).*
+  - The one who would demand back his goods has his soul demanded back from him. The measure (6:38).
+- **"what you have prepared (ἡτοίμασας), whose will it be?"**:
+  - Preparing: the messengers "to prepare for him" (9:52). *Forward:* "be ready (ἕτοιμοι)" (12:40); "did not prepare (ἑτοιμάσας)" (12:47).
+  - He prepared for himself.
+- **"who treasures (θησαυρίζων) for himself (ἑαυτῷ), and is not rich toward God"**:
+  - Treasure: "out of the good treasure of the heart" (6:45). *Forward:* "you will have treasure in heaven" (18:22).
+  - "For himself": the self (9:23–25).
+
+### 12:22–23
+
+*Διὰ τοῦτο λέγω ὑμῖν, μὴ μεριμνᾶτε τῇ ψυχῇ τί φάγητε, μηδὲ τῷ σώματι τί ἐνδύσησθε. ἡ γὰρ ψυχὴ πλεῖόν ἐστιν τῆς τροφῆς καὶ τὸ σῶμα τοῦ ἐνδύματος.*
+
+- **"do not be anxious for the soul, what you will eat, nor for the body, what you will put on (ἐνδύσησθε)"**: two needs, eating and clothing. Each gets its answer in what follows.
+  - *Clothing:*
+    - Legion "had not put on (ἐνεδύσατο) a garment" (8:27), and then sat "clothed" (8:35).
+    - *Forward:* the rich man "was clothed in purple" (16:19); Herod "putting bright clothing on him" (23:11); "until you are clothed (ἐνδύσησθε) with power from on high" (24:49, in the unprinted 24:48–53).
+
+### 12:24
+
+*κατανοήσατε τοὺς κόρακας ὅτι οὐ σπείρουσιν οὐδὲ θερίζουσιν, οἷς οὐκ ἔστιν ταμεῖον οὐδὲ ἀποθήκη, καὶ ὁ θεὸς τρέφει αὐτούς· πόσῳ μᾶλλον ὑμεῖς διαφέρετε τῶν πετεινῶν.*
+
+- **"the ravens: they neither sow nor reap"**: the sower (8:5); the harvest (10:2).
+- **"they have neither inner room (ταμεῖον) nor barn (ἀποθήκη)"**:
+  - *The barns of 12:18.* The rich man pulls his down to build greater. The ravens have none.
+  - The inner rooms of 12:3.
+- **"and God feeds (τρέφει) them"**: the answer to eating. *τρέφω: Nazareth, "where he had been brought up (τεθραμμένος)" (4:16).* The own claims him as one it fed. God feeds the ravens.
+- **"how much more are you worth than the birds"**.
+
+### 12:25–26 (grey)
+
+*τίς δὲ ἐξ ὑμῶν μεριμνῶν δύναται ἐπὶ τὴν ἡλικίαν αὐτοῦ προσθεῖναι πῆχυν; εἰ οὖν οὐδὲ ἐλάχιστον δύνασθε, τί περὶ τῶν λοιπῶν μεριμνᾶτε;*
+
+- **"who by being anxious can add (προσθεῖναι) a cubit to his stature (ἡλικίαν)?"**:
+  - *ἡλικία, stature, height: the only other place is Zacchaeus, "small in stature" (τῇ ἡλικίᾳ μικρός), who runs ahead and goes up a tree to see (19:3–4).*
+  - No one adds to his own height by anxiety. The one who is small goes up to see.
+  - *Adding:* "seek the kingdom, and these things will be added (προστεθήσεται) to you" (12:31). The same verb. What cannot be added by anxiety is added to the one who seeks the kingdom.
+- **"if you cannot do even the least (ἐλάχιστον)"**: *forward:* "faithful in the least" (16:10; 19:17).
+
+### 12:27
+
+*κατανοήσατε τὰ κρίνα πῶς οὔτε νήθει οὔτε ὑφαίνει· λέγω δὲ ὑμῖν, οὐδὲ Σολομὼν ἐν πάσῃ τῇ δόξῃ αὐτοῦ περιεβάλετο ὡς ἓν τούτων.*
+
+- **"the lilies: they neither spin nor weave"**: the adopted Marcionite (D) wording; NA27 has "how they grow: they neither toil nor spin". **Neutral.** The lilies do not make their own clothing.
+- **"not even Solomon in all his glory (δόξῃ) was clothed (περιεβάλετο) like one of these"**:
+  - Glory (9:26, 9:31–32).
+  - Clothed: *forward: Herod, "putting (περιβαλών) bright clothing on him", sent him back (23:11).*
+  - Solomon clothed himself in glory, and is outdone by what is clothed without making.
+
+### 12:28
+
+*πόσῳ μᾶλλον ὑμᾶς, ὀλιγόπιστοι.*
+
+- **"how much more you (ὑμᾶς), of little faith"**:
+  - Faith: "where is your faith?" (8:25); "faithless generation" (9:41).
+  - "You" is accusative, the object of a verb, and no verb in the printed text governs it. 12:27's verb is middle ("Solomon clothed himself"), with Solomon as subject.
+
+### Test: 12:28a (attested omission)
+
+*εἰ δὲ ἐν ἀγρῷ τὸν χόρτον ὄντα σήμερον καὶ αὔριον εἰς κλίβανον βαλλόμενον ὁ θεὸς οὕτως ἀμφιέζει,* "if God so clothes the grass in the field, which is today and tomorrow is thrown into the oven…"
+
+- **"God so clothes (ἀμφιέζει)"**: the answer to clothing, with its giver.
+  - It matches the answer to eating: "God feeds (τρέφει) them" (12:24).
+  - With it, the two needs of 12:22, eating and clothing, are both answered from God. Without it, eating is given by God and clothing is given by no one: the lilies are clothed, and the giver is not named.
+- **"the grass (χόρτον)"**: the root of χορτάζω, "be filled": "you will be filled" (6:21); "all were filled" (9:17).
+- **"today and tomorrow"**: *forward:* "today salvation has come to this house" (19:9).
+- **"thrown (βαλλόμενον) into the oven"**: casting (12:5, 12:49, 12:58).
+
+**Verdict: continues, and the printed text leans on it.**
+- The reason is the mechanics of the passage, not its grammar alone. 12:22 sets two needs and 12:24 answers the first with "God feeds". This clause answers the second with "God clothes".
+- The printed 12:28 keeps the conclusion of the second answer ("how much more you") without its ground. Its accusative "you" is the object of a clothing that the printed text never states.
+- This is the first passage in the reading where the printed text needs words that are not printed. It is an attested omission (Epiphanius states that the text "does not have 'God clothes the grass'"), so restoring it would be against Marcion's text. *Recorded for task 14.*
+
+### 12:29–31 (12:29 grey)
+
+*καὶ ὑμεῖς μὴ ζητεῖτε τί φάγητε καὶ τί πίητε, καὶ μὴ μετεωρίζεσθε, ταῦτα γὰρ πάντα τὰ ἔθνη τοῦ κόσμου ἐπιζητοῦσιν, ὑμῶν δὲ ὁ πατὴρ οἶδεν ὅτι χρῄζετε τούτων. πλὴν ζητεῖτε τὴν βασιλείαν τοῦ θεοῦ, καὶ ταῦτα προστεθήσεται ὑμῖν.*
+
+- **"do not seek (ζητεῖτε) what you will eat"**: seeking (11:9–10, 11:29).
+- **"and do not be held aloft (μετεωρίζεσθε)"**:
+  - μετεωρίζομαι: from μετέωρος, "raised up in the air, suspended". It is used of anxious suspense.
+  - The text sets aside the height of being held up in the air, the anxious height, as it sets aside adding a cubit to one's stature (12:25).
+- **"the nations (ἔθνη) of the world seek these things"**: the nations. *Forward:* "to all the nations" (24:47).
+- **"your Father knows that you need (χρῄζετε) them"**: need (11:8, "as much as he needs").
+- **"seek the kingdom of God, and these things will be added (προστεθήσεται) to you"**: the verb of 12:25.
+  - "The kingdom of God" for "his kingdom" is the adopted Marcionite reading. **Neutral.**
+
+### 12:32
+
+*Μὴ φοβοῦ, τὸ μικρὸν ποίμνιον, ὅτι εὐδόκησεν ὁ πατὴρ δοῦναι ὑμῖν τὴν βασιλείαν.*
+
+- **"do not fear, little (μικρόν) flock"**:
+  - Little: "the lesser among you is great" (9:48). *Forward: Zacchaeus "small" (μικρός, 19:3).*
+  - The flock: lambs (10:3). *Forward:* the lost sheep (15:4–6).
+- **"it pleased (εὐδόκησεν) the Father to give you the kingdom"**:
+  - The Father's good pleasure (εὐδοκία, 10:21).
+  - Giving: the kingdom is given, not taken. "The Father", not "your Father", is the adopted Marcionite reading. **Neutral.**
+
+### Test: 12:33–34 (U?)
+
+*πωλήσατε τὰ ὑπάρχοντα ὑμῶν καὶ δότε ἐλεημοσύνην· ποιήσατε ἑαυτοῖς βαλλάντια μὴ παλαιούμενα, θησαυρὸν ἀνέκλειπτον ἐν τοῖς οὐρανοῖς, ὅπου κλέπτης οὐκ ἐγγίζει οὐδὲ σὴς διαφθείρει· ὅπου γάρ ἐστιν ὁ θησαυρὸς ὑμῶν, ἐκεῖ καὶ ἡ καρδία ὑμῶν ἔσται.*
+
+- **"sell your possessions (ὑπάρχοντα) and give alms (ἐλεημοσύνην)"**:
+  - Possessions (11:21; 12:15).
+  - Alms: "give as alms the things within" (11:41).
+  - *The printed 18:22 gives the same instruction: "sell all that you have and distribute to the poor, and you will have treasure in heaven."*
+- **"purses that do not grow old (μὴ παλαιούμενα)"**:
+  - "Carry no purse" (10:4).
+  - *Old:* the old garment, the old wine, the old skins (5:36–39).
+- **"an unfailing treasure in the heavens"**: against "treasuring for himself" (12:21). Unfailing (ἀνέκλειπτον). *Forward:* "when it fails (ἐκλίπῃ)" (16:9); "that your faith may not fail (ἐκλίπῃ)" (22:32).
+- **"where no thief draws near (ἐγγίζει)"**: *the thief of 12:39.* Drawing near (10:9, 10:11).
+- **"where your treasure is, there your heart will be"**: the heart (6:45; 8:15, test; 9:47).
+
+**Verdict: continues.**
+- It answers 12:16–21: treasure for oneself, then treasure in heaven.
+- Its words reach 10:4, 11:41, 5:36–39, 12:39 and 18:22.
+- 12:32 → 12:35 runs, so it does not close a gap.
+
+### 12:35–36
+
+*Ἔστωσαν ὑμῶν αἱ ὀσφύες περιεζωσμέναι καὶ οἱ λύχνοι καιόμενοι, καὶ ὑμεῖς ὅμοιοι ἀνθρώποις προσδεχομένοις τὸν κύριον ἑαυτῶν πότε ἀναλύσῃ ἐκ τῶν γάμων, ἵνα ἐλθόντος καὶ κρούσαντος εὐθέως ἀνοίξωσιν αὐτῷ.*
+
+- **"loins girded (περιεζωσμέναι)"**: readiness. *The master will "gird himself" (περιζώσεται) in 12:37.*
+- **"lamps burning (καιόμενοι)"**: the lamp (8:16; 11:33). *Forward:* "the woman lights a lamp" (15:8).
+- **"men waiting for (προσδεχομένοις) their lord"**:
+  - προσ-δέχομαι, the reception thread, as waiting.
+  - *Forward: Joseph of Arimathea, "who was waiting for (προσεδέχετο) the kingdom of God" (23:51).*
+- **"when he returns from the wedding"**.
+- **"so that when he comes and knocks (κρούσαντος) they may open (ἀνοίξωσιν) to him at once"**:
+  - *Knocking reversed.* In 11:9–10 we knock and it is opened to us. Here the Lord knocks and we open.
+  - *Forward:* in 13:25 the master has risen and shut the door, and we knock outside.
+
+### 12:37–38
+
+*μακάριοι οἱ δοῦλοι ἐκεῖνοι, οὓς ἐλθὼν ὁ κύριος εὑρήσει γρηγοροῦντας· ἀμὴν λέγω ὑμῖν ὅτι περιζώσεται καὶ ἀνακλινεῖ αὐτοὺς καὶ παρελθὼν διακονήσει αὐτοῖς. κἂν ἐν τῇ ἑσπερινῇ φυλακῇ ἔλθῃ καὶ εὕρῃ οὕτως, μακάριοί εἰσιν ἐκεῖνοι.*
+
+- **"whom the lord finds awake (γρηγοροῦντας)"**: "keeping fully awake (διαγρηγορήσαντες), they saw his glory" (9:32).
+- **"he will gird himself, and make them recline (ἀνακλινεῖ), and coming by, will serve (διακονήσει) them"**:
+  - *The lord serves.*
+  - Service: the healed women served (8:3); Martha's service (10:40, test); the left-out 4:39.
+  - Here the master takes the servant's place.
+  - *The κλίνω family:* the crowd made to recline (9:14–15); "nowhere to lay his head" (9:58). *Forward: he reclines with them at Emmaus (24:30).*
+- **"in the evening watch"** (ἑσπερινῇ):
+  - The adopted Marcionite reading; NA27 has "in the second or the third watch".
+  - *"Evening" joins the evening at Emmaus: "it is toward evening (ἑσπέραν), and the day has already declined" (24:29).* There, too, the guest is pressed to stay, and reclines, and gives.
+  - **Neutral, with the thread.**
+
+### 12:39–40
+
+*Τοῦτο δὲ γινώσκετε ὅτι εἰ ᾔδει ὁ οἰκοδεσπότης ποίᾳ ὥρᾳ ὁ κλέπτης ἔρχεται, οὐκ ἂν ἀφῆκεν διορυχθῆναι τὸν οἶκον αὐτοῦ. καὶ ὑμεῖς γίνεσθε ἕτοιμοι, ὅτι ᾗ ὥρᾳ οὐ δοκεῖτε ὁ υἱὸς τοῦ ἀνθρώπου ἔρχεται.*
+
+- **"the master of the house (οἰκοδεσπότης)"**: *forward:* the master who rises and shuts the door (13:25); the master who calls the poor (14:21); the master of the house with the guest room (22:11).
+- **"the thief… would not have let his house be dug through (διορυχθῆναι)"**: digging. The wise builder "dug (ἔσκαψεν) and went deep" (6:48). Digging for a foundation, or digging through to rob.
+- **"be ready (ἕτοιμοι)"**: preparing (9:52; 12:20). *Forward:* "Lord, I am ready (ἕτοιμος) to go with you to prison and to death" (22:33).
+- **"in an hour you do not think (δοκεῖτε)"**: seeming (8:18, "what he seems to have"). *Forward:* "do you think (δοκεῖτε) I came to give peace?" (12:51).
+
+### 12:41–44
+
+*Εἶπεν δὲ ὁ Πέτρος· Κύριε, πρὸς ἡμᾶς τὴν παραβολὴν ταύτην λέγεις ἢ καὶ πρὸς πάντας; καὶ εἶπεν ὁ κύριος· Τίς ἄρα ἐστὶν ὁ πιστὸς οἰκονόμος, ὁ φρόνιμος, ὃν καταστήσει ὁ κύριος ἐπὶ τῆς θεραπείας αὐτοῦ τοῦ διδόναι ἐν καιρῷ τὸ σιτομέτριον; μακάριος ὁ δοῦλος ἐκεῖνος, ὃν ἐλθὼν ὁ κύριος αὐτοῦ εὑρήσει ποιοῦντα οὕτως· ἀληθῶς λέγω ὑμῖν ὅτι ἐπὶ πᾶσιν τοῖς ὑπάρχουσιν αὐτοῦ καταστήσει αὐτόν.*
+
+- **"Peter: to us, or to all?"**: faith asks whether it is set apart.
+- **"the faithful (πιστός) and prudent (φρόνιμος) steward (οἰκονόμος)"**: *forward: the steward of 16:1–8, who "acted prudently (φρονίμως)".* Faith.
+- **"set over his household service (θεραπείας)"**: the word is "healing". "Those who had need of healing (θεραπείας)" (9:11).
+- **"to give in season the measure of grain (σιτομέτριον)"**:
+  - The measure (6:38). Grain: the rich man gathered all his grain (σῖτον) for himself (12:18).
+  - *Forward:* "a hundred measures of wheat (σίτου)" (16:7); "Satan asked to sift you like wheat (σῖτον)" (22:31).
+  - The steward gives the grain out, in measure.
+- **"over all his possessions he will set him"**: possessions (11:21; 12:15). *Forward:* "have authority over ten cities" (19:17). What is given out in faithfulness is given back as rule over everything.
+
+### 12:45–46
+
+*ἐὰν δὲ εἴπῃ ὁ δοῦλος ἐκεῖνος ἐν τῇ καρδίᾳ αὐτοῦ· Χρονίζει ὁ κύριός μου ἔρχεσθαι, καὶ ἄρξηται τύπτειν τοὺς παῖδας καὶ τὰς παιδίσκας, ἐσθίειν τε καὶ πίνειν καὶ μεθύσκεσθαι, ἥξει ὁ κύριος τοῦ δούλου ἐκείνου ἐν ἡμέρᾳ ᾗ οὐ προσδοκᾷ καὶ ἐν ὥρᾳ ᾗ οὐ γινώσκει, καὶ διχοτομήσει αὐτὸν καὶ τὸ μέρος αὐτοῦ μετὰ τῶν ἀπίστων θήσει.*
+
+- **"if that servant says in his heart, My lord delays"**:
+  - When the Divine seems absent (the sleep in the boat, 8:23), the own says "he is not coming" and takes the house.
+  - "In his heart": the heart (12:34, test).
+- **"to beat the servant boys and girls (παῖδας), to eat and drink and get drunk"**:
+  - The children (παῖς: 8:51, 8:54; 9:42; 9:47). The innocent states are beaten.
+  - *Forward:* "lest your hearts be weighed down with dissipation and drunkenness and cares" (21:34).
+- **"on a day he does not expect (προσδοκᾷ)"**: expecting (7:19–20; 8:40).
+- **"he will cut him in two, and put his part (μέρος) with the unfaithful (ἀπίστων)"**:
+  - Division (12:51–53). The part: Mary's good part (μερίς, 10:42).
+  - The unfaithful: "faithless generation" (9:41).
+  - The servant who divided his heart from his lord is divided.
+
+### 12:47–48
+
+*ἐκεῖνος δὲ ὁ δοῦλος ὁ γνοὺς τὸ θέλημα τοῦ κυρίου αὐτοῦ καὶ μὴ ἑτοιμάσας ἢ ποιήσας πρὸς τὸ θέλημα αὐτοῦ δαρήσεται πολλάς· ὁ δὲ μὴ γνοὺς ποιήσας δὲ ἄξια πληγῶν δαρήσεται ὀλίγας. παντὶ δὲ ᾧ ἐδόθη πολύ, πολὺ ζητηθήσεται παρ’ αὐτοῦ, καὶ ᾧ παρέθεντο πολύ, περισσότερον αἰτήσουσιν αὐτόν.*
+
+- **"knowing the will (θέλημα) of his lord"**: *forward:* "not my will but yours be done" (22:42); "he handed Jesus over to their will" (23:25).
+- **"not preparing"**: preparing (12:20, 12:40).
+- **"worthy of blows (πληγῶν)"**: the blows laid on the man going down from Jerusalem (πληγάς, 10:30, test).
+- **"to whom much was given, much will be sought (ζητηθήσεται)"**: the measure (6:38; 8:18). Seeking from: "it will be sought out (ἐκζητηθήσεται) from this generation" (11:50–51, test).
+- **"to whom much was entrusted (παρέθεντο), more will be asked"**: *παρατίθημι, "set before": the bread set before the crowd (9:16); what is set before the seventy (10:8); "I have nothing to set before him" (11:6).* What was set before one is what one is asked for.
+
+### 12:49–50 (12:50 grey)
+
+*Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν, καὶ τί θέλω εἰ ἤδη ἀνήφθη; βάπτισμα δὲ ἔχω βαπτισθῆναι, καὶ πῶς συνέχομαι ἕως ὅτου τελεσθῇ.*
+
+- **"I came to cast fire on the earth (ἐπὶ τὴν γῆν)"**:
+  - *Fire:* James and John wanted fire to come down from heaven on the village that did not receive (9:54), and were rebuked. *Forward:* fire and sulphur rained from heaven on Sodom (17:29).
+  - The fire he casts is not the fire of anger. Fire is love.
+  - *He casts it "on the earth": the earth again (5:24; 8:8).*
+- **"how I wish it were already kindled (ἀνήφθη)"**: lighting, as the lamp is lit (8:16; 11:33; 15:8).
+- **"I have a baptism to be baptized with"**:
+  - The Pharisee wondered that he had not first washed (ἐβαπτίσθη, 11:38). His washing is his passage.
+  - Baptism: John's (7:20; 9:19). *Forward:* "the baptism of John, was it from heaven?" (20:4).
+- **"and how I am held fast (συνέχομαι) until it is accomplished"**:
+  - Held fast (συνέχω): the left-out 4:38 (fever); 8:37 (fear); 8:45 (the crowds).
+  - *Forward: "the men holding him fast (συνέχοντες) mocked him" (22:63).*
+  - He is held fast now, inwardly, until he is held fast outwardly.
+
+### 12:51–53 (12:52 grey)
+
+*δοκεῖτε ὅτι εἰρήνην παρεγενόμην δοῦναι ἐν τῇ γῇ; οὐχί, λέγω ὑμῖν, ἀλλ’ ἢ διαμερισμόν. ἔσονται γὰρ ἀπὸ τοῦ νῦν πέντε ἐν ἑνὶ οἴκῳ διαμεμερισμένοι, τρεῖς ἐπὶ δυσὶν καὶ δύο ἐπὶ τρισίν, διαμερισθήσεται πατὴρ ἐπὶ υἱῷ καὶ υἱὸς ἐπὶ πατρί, μήτηρ ἐπὶ θυγατέρα καὶ θυγάτηρ ἐπὶ τὴν μητέρα, πενθερὰ ἐπὶ τὴν νύμφην αὐτῆς καὶ νύμφη ἐπὶ τὴν πενθεράν.*
+
+- **"do you think (δοκεῖτε) I came to give peace on the earth? No, but division (διαμερισμόν)"**:
+  - Peace was to be given first to every house (10:5–6). But the peace of the strong man over his possessions (11:21) is the peace he does not give.
+  - Division: the kingdom divided against itself falls (11:17–18).
+  - The division he brings is inside the one house.
+- **"five in one house divided, three against two and two against three"**: the house is the mind (6:48–49; 11:24–26, test).
+- **"father against son and son against father, mother against daughter… mother-in-law against daughter-in-law"**:
+  - The relations of origin are set against each other: what one comes from, against what comes from it.
+  - Father: the natural father left to the dead (9:59–60).
+  - *Mother-in-law (πενθερά): the only other place is the left-out 4:38, Simon's mother-in-law, held fast by a fever, who rose and served.*
+  - The singular "will be divided" is the adopted Marcionite reading. **Neutral.**
+
+### 12:54–56 (12:54–55 grey)
+
+*Ὅταν ἴδητε τὴν νεφέλην ἀνατέλλουσαν ἐπὶ δυσμῶν… ὑποκριταί, τὸ πρόσωπον τοῦ οὐρανοῦ καὶ τῆς γῆς οἴδατε δοκιμάζειν, τὸν καιρὸν δὲ τοῦτον πῶς οὐκ οἴδατε δοκιμάζειν;*
+
+- **"a cloud rising (ἀνατέλλουσαν)"**: the cloud of the mountain (9:34–35), here read as weather.
+- **"the face (πρόσωπον) of heaven and earth you know how to test (δοκιμάζειν)"**:
+  - *The face:* his face changed and set (9:29, 9:51–53). They read the face of the sky, and not the face set toward Jerusalem.
+  - *Testing (δοκιμάζω): "be rejected (ἀποδοκιμασθῆναι)" (9:22). Forward: "be rejected (ἀποδοκιμασθῆναι) by this generation" (17:25).* Those who test the weather reject him.
+  - *Heaven and earth:* printed here together (the Marcionite order, heaven first, is adopted). **Neutral.**
+- **"this time (καιρόν)"**: the season of 12:42. *Forward:* 21:8; 21:36.
+
+### 12:57–59
+
+*Τί δὲ καὶ ἀφ’ ἑαυτῶν οὐ κρίνετε τὸ δίκαιον; ὡς γὰρ ὑπάγεις μετὰ τοῦ ἀντιδίκου σου ἐπ’ ἄρχοντα, ἐν τῇ ὁδῷ δὸς ἐργασίαν ἀπηλλάχθαι ἀπ’ αὐτοῦ, μήποτε κατασύρῃ σε πρὸς τὸν κριτήν, καὶ ὁ κριτὴς παραδώσει σε τῷ πράκτορι, καὶ ὁ πράκτωρ σε βαλεῖ εἰς φυλακήν. λέγω σοι, οὐ μὴ ἐξέλθῃς ἐκεῖθεν ἕως καὶ τὸ ἔσχατον λεπτὸν ἀποδῷς.*
+
+- **"why do you not judge for yourselves (ἀφ’ ἑαυτῶν) what is right?"**: judgement as one's own (11:19). Judging from oneself.
+- **"as you go with your adversary (ἀντιδίκου) to the ruler"**:
+  - *Forward:* the widow, "give me justice against my adversary (ἀντιδίκου)" (18:3).
+  - The ruler (3:1; 8:41).
+- **"on the way (ἐν τῇ ὁδῷ), make an effort to be released from him"**: the way. On the way, while there is still going, is when release is possible.
+- **"lest he drag you down (κατασύρῃ) to the judge"**: down.
+- **"and the judge hand you over (παραδώσει)"**: handing over (9:44; 10:22). The word order is the adopted Marcionite one. **Neutral.**
+- **"and cast you into prison (φυλακήν)"**:
+  - φυλακή, from φυλάσσω: guarding (11:21; 11:28; 12:15). The evening "watch" (12:38).
+  - *Forward:* "handing you over to synagogues and prisons" (21:12); "with you I am ready to go to prison" (22:33); Barabbas, cast into prison (23:19, 23:25).
+- **"you will not come out (ἐξέλθῃς) from there until you give back (ἀποδῷς) the last coin"**:
+  - Coming out (4:35; 8:2). Here, the coming out is held until what is owed is given back.
+  - Giving back: the boy given back (9:42). *Forward:* "half my possessions I give, and… I give back (ἀποδίδωμι) fourfold" (19:8).
+  - The debt (11:4).
+
+### What came out of the reading of chapter 10
+
+**The law of veiling, the third time.** Nothing covered that will not be uncovered (12:2). What was whispered in the inner rooms is proclaimed from the roofs. It runs to the day the Son of Man is revealed (17:30).
+
+**Fear and its object.** Do not fear those who kill the body. Fear the authority that reaches past it. (In the test passage 12:6–7: not one sparrow is forgotten; the hairs of the head are numbered.) Then: acknowledging or denying before God; and the holy spirit teaching in the hour.
+
+**The own and its possessions, in one parable (12:16–21).**
+- The rich man reasons within himself.
+- "My fruits, my barns, my grain, my goods, my soul."
+- He pulls down to build greater, lays up for many years, and tells his soul to rest, eat, drink and be merry.
+- "This night they demand back your soul": the demanding back that 6:30 forbade, turned on him.
+- *Two of its words come back only at the burial:* he "pulls down" (καθελῶ) his barns, and Joseph "taking him down" (καθελών) from the cross (23:53); goods "laid up" (κείμενα), and the tomb "where no one had yet been laid" (κείμενος).
+
+**The two needs, and their giver.**
+- Do not be anxious for the soul, what to eat, nor for the body, what to put on (12:22).
+- God feeds the ravens, which have no barns.
+- No one can add a cubit to his height by anxiety. Zacchaeus, small in height, goes up a tree (19:3–4). One is not to be held aloft (μετεωρίζεσθε).
+- Seek the kingdom, and these things will be added: the verb of adding to one's height.
+- The lilies are clothed better than Solomon. *But the printed text does not say who clothes them. 12:28 keeps "how much more you", with no verb for its "you".* The clause that gives the giver ("God so clothes the grass") is an attested omission, 12:28a.
+- **By the passage's own mechanics, the printed text needs it.** This is the first such case in the reading, and it is recorded for task 14.
+
+**The lord serves.**
+- Loins girded, lamps burning, waiting (προσδεχόμενοι) for the lord to come and knock. The knocking is reversed from 11:9–10, and reversed again at 13:25.
+- He finds them awake, girds himself, makes them recline, and serves them.
+- "The evening watch" (adopted) joins the evening at Emmaus (24:29).
+
+**The steward and the own's "my lord delays."**
+- The faithful steward gives the measure of grain in season, and is set over everything. The rich man gathered his grain for himself.
+- The servant who says in his heart "my lord delays" beats the children and gets drunk, and is cut in two.
+- To whom much was set before, much is asked.
+
+**Fire, baptism, division.**
+- He came to cast fire on the earth: not the fire charity wanted from heaven (9:54).
+- He has a baptism, his washing (11:38), and is held fast until it is done (→ 22:63).
+- He does not divide the inheritance between brothers (12:14). He divides the one house: father against son, mother against daughter, and the mother-in-law of the left-out 4:38.
+
+**On the way.** Read the face of heaven and earth, and not this time. Judge for yourselves. On the way, be released from your adversary. Otherwise you are dragged down, handed over and cast into the guarded place, and do not come out until the last coin is given back.
+
+### Threads, carried forward and added
+
+- treading down;
+- leaven (→ 13:21; 22:1);
+- hypocrisy (→ 20:20);
+- covered and uncovered (→ 17:30);
+- the inner room and the roof (→ 17:31);
+- friends;
+- the body (→ 22:19; 23–24);
+- fear rightly placed;
+- before men and before God;
+- denial (→ 22:34);
+- the holy spirit teaching;
+- anxiety (→ 21:34);
+- inheritance;
+- division, outward refused, inward brought;
+- greed and abounding;
+- the rich (→ 16:19; 18:23; 19:2);
+- "what shall I do?" (→ 16:3);
+- gathering for oneself;
+- pulling down and laying (→ 23:53);
+- the soul demanded back (ἀπαιτέω, 6:30);
+- making merry (→ 16:19);
+- treasure (→ 18:22);
+- feeding and clothing, and the giver of each (12:28a);
+- stature, height (→ 19:3);
+- adding;
+- being held aloft;
+- the nations (→ 24:47);
+- the little flock;
+- the Father's good pleasure;
+- girding and serving: the lord serves (→ 24:30);
+- waiting (προσδέχομαι, → 23:51);
+- knocking and opening (→ 13:25);
+- evening (→ 24:29);
+- the master of the house (→ 13:25; 14:21; 22:11);
+- the thief and the digging;
+- ready (→ 22:33);
+- the steward (→ 16:1–8);
+- the measure of grain (→ 16:7; 22:31);
+- "my lord delays";
+- the children beaten;
+- the will (→ 22:42; 23:25);
+- what is set before, asked for;
+- fire on the earth;
+- baptism;
+- held fast (→ 22:63);
+- the face of heaven and earth;
+- testing and rejection (→ 17:25);
+- judging for oneself;
+- the adversary (→ 18:3);
+- the prison (→ 21:12; 22:33; 23:19);
+- giving back the last coin (→ 19:8).
