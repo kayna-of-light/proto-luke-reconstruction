@@ -785,3 +785,186 @@ At its place, after 4:37, it would be the first rising of a person in the text, 
 - letting go;
 - the measure;
 - authority, and being under it.
+
+---
+
+## Chapter 5
+
+### 8:1–3 (8:1 grey)
+
+*καὶ αὐτὸς διώδευεν κατὰ πόλιν καὶ κώμην κηρύσσων… καὶ οἱ δώδεκα σὺν αὐτῷ, καὶ γυναῖκές τινες αἳ ἦσαν τεθεραπευμέναι ἀπὸ πνευμάτων πονηρῶν καὶ ἀσθενειῶν, Μαρία ἡ καλουμένη Μαγδαληνή, ἀφ’ ἧς δαιμόνια ἑπτὰ ἐξεληλύθει, καὶ Ἰωάννα γυνὴ Χουζᾶ ἐπιτρόπου Ἡρῴδου… αἵτινες διηκόνουν αὐτοῖς ἐκ τῶν ὑπαρχόντων αὐταῖς.*
+
+- **"he went through city and village"** (διώδευεν, from ὁδός): the way, walked through every doctrine and every smaller place.
+- **"the twelve with him, and some women healed of evil spirits and weaknesses"**: all the principles, and the affections that have been freed.
+- **"Mary called Magdalene, from whom seven daimons had gone out"** (ἐξεληλύθει): seven is the whole, the holy. An affection from which falsity has wholly gone out. The verb of coming out (4:35, 4:41).
+- **"Joanna, wife of Chuza, Herod's steward"**: from the household of the ruler of the natural (3:1). What served the ruler now serves him.
+- **"who served (διηκόνουν) them out of their own means"** (ἐκ τῶν ὑπαρχόντων αὐταῖς): service, given from what is one's own. *This is the verb of the left-out 4:39: Simon's mother-in-law, "rising at once, served them" (ἀναστᾶσα διηκόνει). The healed affections serve; the test passage would have been the first instance.* What is one's own (τὰ ὑπάρχοντα) is not held; it is given in service (6:30).
+
+### 8:4–5 (8:5 grey)
+
+*Συνιόντος δὲ ὄχλου πολλοῦ καὶ τῶν κατὰ πόλιν ἐπιπορευομένων πρὸς αὐτὸν εἶπεν διὰ παραβολῆς· Ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι τὸν σπόρον αὐτοῦ. καὶ ἐν τῷ σπείρειν αὐτὸν ὃ μὲν ἔπεσεν παρὰ τὴν ὁδόν, καὶ κατεπατήθη καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατέφαγεν αὐτό.*
+
+- **"those from city after city journeying to him"** (ἐπιπορευομένων): the road, now taken toward him by others.
+- **"through a parable"**: the first parable told as a story.
+- **"The sower went out to sow"** (ἐξῆλθεν): coming out, now of the sower. The seed is the truth of the Word.
+- **"some fell"** (ἔπεσεν): falling. *Thread: Simon fell at his knees (5:8); the leper fell on his face (5:12); the blind fall into a pit (6:39); the house fell (6:49). Falling down to be received, and falling down in ruin, are one verb.*
+- **"beside the way"** (παρὰ τὴν ὁδόν): the way that John prepares (7:27). The seed that falls beside the way, not into it, is trodden down (κατεπατήθη) and the birds of heaven eat it down (κατέφαγεν). Birds are thoughts; here thoughts that take the truth away before it enters. Trodden down and eaten down: the downward of loss.
+
+### 8:6–7 (grey)
+
+*καὶ ἕτερον κατέπεσεν ἐπὶ τὴν πέτραν, καὶ φυὲν ἐξηράνθη διὰ τὸ μὴ ἔχειν ἰκμάδα. καὶ ἕτερον ἔπεσεν ἐν μέσῳ τῶν ἀκανθῶν, καὶ συμφυεῖσαι αἱ ἄκανθαι ἀπέπνιξαν αὐτό.*
+
+- **"other fell down on the rock"** (ἐπὶ τὴν πέτραν): the rock on which the house was founded (6:48), the name given to Simon (6:14). A house stands on rock, but seed does not grow in it. Faith is a foundation, not soil.
+- **"growing up, it dried, for lack of moisture"** (ἐξηράνθη): dry, the word of the man whose right hand "was dry" (ξηρά, 6:6). Without moisture (good that comes with truth) what grows dries.
+- **"other fell in the midst of thorns"** (ἐν μέσῳ τῶν ἀκανθῶν): the midst once more.
+  - In the earlier passages the midst was the inmost where a person was thrown, let down and stood up (4:35; 5:19; 6:8).
+  - Here the midst is already occupied by thorns (6:44: no figs from thorns).
+  - The thorns grow up with it and choke it.
+
+### 8:8
+
+*καὶ ἕτερον ἔπεσεν εἰς τὴν γῆν τὴν ἀγαθήν, καὶ φυὲν ἐποίησεν καρπὸν ἑκατονταπλασίονα. ταῦτα λέγων ἐφώνει· Ὁ ἔχων ὦτα ἀκούειν ἀκουέτω.*
+
+- **"into the good earth"** (εἰς τὴν γῆν τὴν ἀγαθήν): the earth on which the foolish man built without foundation (ἐπὶ τὴν γῆν, 6:49) is, when good, the place where seed grows. The boats were brought down to the earth (ἐπὶ τὴν γῆν, 5:11). The earth itself, the natural, is not the fault; what matters is whether it is good.
+- **"growing up, it made fruit a hundredfold"**: growth is the first rising that is not of a person. A hundred is fullness; the centurion was "ruler of a hundred" (7:2).
+- **"he who has ears to hear, let him hear"**: hearing is the condition of the whole.
+
+**The parable gathers the places the text has already named:** the way (7:27), the rock (6:14; 6:48), the midst (4:35; 5:19; 6:8), the earth (5:11; 6:49). In the parable they become four states of reception.
+
+### Test: 8:9–10 (U−)
+
+*Ἐπηρώτων δὲ αὐτὸν οἱ μαθηταὶ αὐτοῦ τίς αὕτη εἴη ἡ παραβολή. ὁ δὲ εἶπεν· Ὑμῖν δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας τοῦ θεοῦ, τοῖς δὲ λοιποῖς ἐν παραβολαῖς, ἵνα βλέποντες μὴ βλέπωσιν καὶ ἀκούοντες μὴ συνιῶσιν.*
+
+- **"to you it is given to know the mysteries of the kingdom of God"**: giving and knowing.
+- **"to the rest in parables, so that seeing they may not see and hearing may not understand"**: the parable as a covering, given so that they will not see.
+
+**Verdict: strain.** The reason is the text's own mechanics, not its letter. Up to here, everything the Divine does with sight gives it:
+- "first cast out the beam, and then you will see clearly" (6:42);
+- "to many blind he granted to see" (7:21);
+- "the blind look up" (7:22).
+
+The next printed verses say that a lamp is not put under a vessel, and that nothing hidden will not be made manifest (8:16–17). This passage says the opposite: the parable is given "so that" seeing they may not see. That is withholding sight on purpose. In Swedenborg's doctrine the inner sense is veiled to keep it from being profaned, and that would reconcile the two. But in this text the mind is always being opened, and this is the only place where it is closed on purpose. It strains against the movement on both sides of it.
+
+### Test: 8:11–15 (U?)
+
+*Ἔστιν δὲ αὕτη ἡ παραβολή· Ὁ σπόρος ἐστὶν ὁ λόγος τοῦ θεοῦ… εἶτα ἔρχεται ὁ διάβολος καὶ αἴρει τὸν λόγον ἀπὸ τῆς καρδίας αὐτῶν… οἱ δὲ ἐπὶ τῆς πέτρας οἳ ὅταν ἀκούσωσιν μετὰ χαρᾶς δέχονται τὸν λόγον, καὶ οὗτοι ῥίζαν οὐκ ἔχουσιν… καὶ ἐν καιρῷ πειρασμοῦ ἀφίστανται… ὑπὸ μεριμνῶν καὶ πλούτου καὶ ἡδονῶν τοῦ βίου πορευόμενοι συμπνίγονται… τὸ δὲ ἐν τῇ καλῇ γῇ, οὗτοί εἰσιν οἵτινες ἐν καρδίᾳ καλῇ καὶ ἀγαθῇ ἀκούσαντες τὸν λόγον κατέχουσιν καὶ καρποφοροῦσιν ἐν ὑπομονῇ.*
+
+- **"the seed is the word of God"**: the parable translated inside the text itself.
+- **"the devil takes (αἴρει) the word from their heart"**: taking. *Thread: "from the one who takes (αἴροντος) your garment" (6:29); "even what he seems to have will be taken (ἀρθήσεται)" (8:18).*
+- **"those on the rock receive (δέχονται) the word with joy, but have no root"**: reception (δέχομαι; 4:24; 5:29). On rock, received with joy but without root; in temptation they stand away.
+- **"going on (πορευόμενοι), they are choked by cares and riches (πλούτου)"**: the road walked with riches: "woe to you who are rich" (6:24).
+- **"in a good heart (καρδίᾳ), hearing the word, they hold it fast (κατέχουσιν)"**: κατέχω is the verb of the crowds who "held him back" from going (κατεῖχον, 4:42). Holding the Divine back from his road is the wrong holding. Holding the word fast in the heart is the right one.
+- **"and bear fruit in endurance"** (ὑπομονῇ): *thread: "by your endurance (ὑπομονῇ) you will gain your lives" (21:19).*
+
+**Verdict: continues.** Its words join it to the threads, and the holding of 4:42 is corrected here. It would sit between 8:8 and 8:16.
+
+### 8:16–18
+
+*Οὐδεὶς δὲ λύχνον ἅψας καλύπτει αὐτὸν σκεύει ἢ ὑποκάτω κλίνης τίθησιν, ἀλλ’ ἐπὶ λυχνίας τίθησιν, ἵνα οἱ εἰσπορευόμενοι βλέπωσιν τὸ φῶς. οὐ γάρ ἐστιν κρυπτὸν ὃ οὐ φανερὸν γενήσεται… βλέπετε οὖν πῶς ἀκούετε· ὃς ἂν γὰρ ἔχῃ, δοθήσεται αὐτῷ, καὶ ὃς ἂν μὴ ἔχῃ, καὶ ὃ δοκεῖ ἔχειν ἀρθήσεται ἀπ’ αὐτοῦ.*
+
+- **"no one who has lit a lamp covers it with a vessel (σκεύει), or puts it under a bed (κλίνης)"**: a lamp is truth that gives light.
+  - The vessel: the vessels of chapter 2 burst when they could not hold (5:37). Here a vessel can also hide.
+  - The bed: the paralysed man lay on his bed and was told to take it up (κλίνη, 5:18–24). The lamp is not put under what one lies on.
+- **"on a lampstand, so that those coming in (εἰσπορευόμενοι) may see the light"**: the road, coming in. Sight.
+- **"nothing hidden that will not be made manifest"**: the hidden falsity in the assembly became manifest when the word came (4:33). Here it is stated as a law.
+- **"See then how you hear"**: seeing and hearing joined.
+- **"whoever has, to him will be given; whoever has not, even what he seems (δοκεῖ) to have will be taken from him"**: the measure (6:38). "Seems to have": the own that thought it had him (Nazareth), the rich who have their consolation (6:24). What only seems one's own is taken. *Thread: this sentence comes back at 19:26.*
+
+### Test: 8:19 (A−)
+
+*His mother and brothers came and could not reach him because of the crowd.*
+
+**Verdict: neutral.** 8:20 reports it.
+
+### 8:20–21
+
+*Ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου ἑστήκασιν ἔξω ἰδεῖν θέλοντές σε… Τίς μοι μήτηρ καὶ τίνες μοι ἀδελφοί, εἰ μὴ οἱ τοὺς λόγους μου ἀκούοντες καὶ ποιοῦντες αὐτούς;*
+
+- **"your mother and your brothers are standing outside (ἔξω)"**: outside, as the own put him "outside" (ἔξω) its city (4:29). Now natural kinship stands outside, wanting to see.
+- **"my mother and brothers are those who hear my words and do them"**: the church (mother) and its truths (brothers) by hearing and doing (6:47), not by descent. Nazareth, where he was brought up, claimed him as its own (4:23); here the kinship of origin is set outside, and the kinship of reception is named.
+
+### 8:22
+
+*αὐτὸς ἐνέβη εἰς πλοῖον καὶ οἱ μαθηταὶ αὐτοῦ, καὶ εἶπεν πρὸς αὐτούς· Διέλθωμεν εἰς τὸ πέραν τῆς λίμνης, καὶ ἀνήχθησαν.*
+
+- **"he got into a boat, and his disciples"**: the boat of 5:3, the knowledge from the Word, now with all of them in it.
+- **"let us go through (διέλθωμεν) to the other side of the lake"**: διέρχομαι, the verb of "passing through their midst" (4:30). Passing through, and to the other side, across the natural memory.
+- **"and they were led up"** (ἀνήχθησαν): ἀνάγω, "lead up"; the verb of "lead out (ἐπανάγαγε) into the deep" (5:4). Putting out to sea is said as going up.
+
+### 8:23
+
+*πλεόντων δὲ αὐτῶν ἀφύπνωσεν. καὶ κατέβη λαῖλαψ ἀνέμου εἰς τὴν λίμνην, καὶ συνεπληροῦντο καὶ ἐκινδύνευον.*
+
+- **"as they sailed, he fell asleep"**: the Divine seems absent while the mind crosses.
+- **"a squall of wind came down (κατέβη) onto the lake"**: down. He came down (κατῆλθεν, 4:31; καταβάς, 6:17); now the storm comes down. A storm is temptation; it comes down on the natural.
+- **"they were being filled"** (συνεπληροῦντο): filling. The boats were filled with fish until they began to sink (5:7); now the boat fills with water.
+- **"they were in danger"**.
+
+### 8:24
+
+*προσελθόντες δὲ διήγειραν αὐτὸν λέγοντες· Ἐπιστάτα ἐπιστάτα, ἀπολλύμεθα· ὁ δὲ διεγερθεὶς ἐπετίμησεν τῷ ἀνέμῳ καὶ τῷ κλύδωνι τοῦ ὕδατος, καὶ ἐπαύσαντο, καὶ ἐγένετο γαλήνη.*
+
+- **"they woke him up"** (διήγειραν): ἐγείρω, the rising verb.
+  - Before this it was said to the paralysed man (5:23–24), to the man with the dry hand (6:8) and to the dead young man (7:14).
+  - Here it is used of him for the first time: they raise him from sleep.
+- **"Master, master, we are perishing"** (ἀπολλύμεθα): the verb of the daimon's fear, "have you come to destroy (ἀπολέσαι) us?" (4:34), and of "to save a soul or destroy (ἀπολέσαι) it" (6:9). The disciples fear destruction as the falsity did.
+- **"and being raised"** (διεγερθεὶς): he rises.
+- **"he rebuked the wind and the surge of the water"** (ἐπετίμησεν): the verb used for the daimon (4:35) and the daimons (4:41). The temptation is rebuked as falsity is rebuked.
+- **"they ceased, and there was calm"**.
+
+### 8:25
+
+*Ποῦ ἡ πίστις ὑμῶν; φοβηθέντες δὲ ἐθαύμασαν, λέγοντες πρὸς ἀλλήλους· Τίς ἄρα οὗτός ἐστιν ὅτι καὶ τοῖς ἀνέμοις ἐπιτάσσει καὶ τῷ ὕδατι, καὶ ὑπακούουσιν αὐτῷ;*
+
+- **"Where is your faith?"**: the centurion's faith was not found in Israel (7:9); the woman's faith saved her (7:50); in the storm, the disciples' faith is not to be found.
+- **"he commands (ἐπιτάσσει) even the winds and the water"**: the word of 4:36, "with authority and power he commands (ἐπιτάσσει) the unclean spirits, and they come out". The same command over falsities and over temptation.
+- **"and they obey him"** (ὑπακούουσιν, "hear under"): obedience is a hearing. The thread of hearing (6:47; 8:8; 8:18; 8:21) ends this chapter with wind and water "hearing under" him.
+- **"Who then is this?"**: the question of 5:21 and 7:49, now asked by the disciples themselves.
+
+### What came out of the reading of chapter 5
+
+**The affections that were freed serve.** Mary Magdalene and the others, healed, serve from their own means (8:2–3). The verb is the one of the left-out 4:39, and that passage's place in the line shows again here.
+
+**The parable of the sower gathers the places the text has named** — the way, the rock, the midst, the earth — and makes them states of reception:
+- the way, where the seed is trodden and taken;
+- the rock, where faith is a foundation but not soil, and what grows dries;
+- the midst, already full of thorns;
+- the good earth, where it grows and bears a hundredfold.
+
+Growth is the first rising that is not a person's.
+
+**The law of reception is stated outright.** "Whoever has, more will be given; whoever has not, even what he seems to have will be taken" (8:18). It comes back at 19:26. What only seems one's own is lost.
+
+**Kinship by reception.** The family of origin stands outside; mother and brothers are those who hear and do (8:20–21).
+
+**In the storm, rising is first said of him.**
+- He goes to sleep; the storm comes down; the boat fills.
+- They raise him (διήγειραν), and being raised (διεγερθεὶς) he rebukes the wind as he rebuked the daimons.
+- The winds and the water "hear under" him.
+- The verb that raised the dead in chapter 4 is applied to the Divine himself, and only after the disciples have come to the point of perishing.
+
+**Holding.** The crowds held him back (4:42); the good heart holds the word fast (8:15, left out). Read by its words, 8:11–15 continues the line.
+
+**Hiding.** 8:9–10 is the one place where the Divine would withhold sight on purpose. It strains against the movement on both sides of it (6:42; 7:21–22; 8:16–17).
+
+### Threads, carried forward and added
+
+- rising (now said of him, raised from sleep);
+- falling (to be received, or in ruin);
+- the way: beside it, on it, coming in;
+- the rock, the midst, the earth as states;
+- having, and seeming to have;
+- taking (αἴρω);
+- holding (κατέχω);
+- the vessel that hides or holds;
+- the bed;
+- service (διακονέω);
+- one's own means (τὰ ὑπάρχοντα);
+- outside (ἔξω);
+- hearing, and hearing under (obeying);
+- perishing (ἀπόλλυμι);
+- rebuking (ἐπιτιμάω);
+- commanding (ἐπιτάσσω);
+- filling;
+- coming down;
+- passing through.
