@@ -1800,3 +1800,350 @@ Growth is the first rising that is not a person's.
 - Samaria (→ 10:33 unprinted, 17:16);
 - preparing (ἑτοιμάζω, → 22:8–12, 22:33);
 - setting firm (στηρίζω, → 16:26, 22:32).
+
+---
+
+## Chapter 8
+
+*10:1–28. Grey: 10:2–3, 10:6, 10:17, 10:20. Not printed: 10:12–15 (U−), 10:18 (U−), 10:29–37 (U−), 10:38–42 (U?). Adopted Marcionite wordings: 10:1 "seventy"; 10:21 "I thank you", no "Father" in the address, no "and of the earth", "what was hidden"; 10:22 the Father named first; 10:25 "life" without "eternal".*
+
+### 10:1
+
+*Μετὰ δὲ ταῦτα ἀνέδειξεν ὁ κύριος ἑτέρους ἑβδομήκοντα καὶ ἀπέστειλεν αὐτοὺς ἀνὰ δύο δύο πρὸ προσώπου αὐτοῦ εἰς πᾶσαν πόλιν καὶ τόπον οὗ ἤμελλεν αὐτὸς ἔρχεσθαι.*
+
+- **"the Lord showed forth (ἀνέδειξεν) seventy others"**: ἀνα-δείκνυμι, "show up".
+  - Seventy is the full number (?). The Marcionite reading is adopted; NA27 brackets [δύο], "seventy-two". **Neutral.**
+- **"he sent them two by two"**: two together, as the two men on the mountain (9:30).
+- **"before his face"**: *the third time:* 7:27 (John, "before your face"); 9:52 (messengers before his face); now the seventy. The face set toward Jerusalem (9:51) sends what goes before it.
+- **"into every city and place where he himself was about to come"**: the road is prepared ahead.
+
+### 10:2–3 (grey)
+
+*Ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι· δεήθητε οὖν τοῦ κυρίου τοῦ θερισμοῦ ὅπως ἐργάτας ἐκβάλῃ εἰς τὸν θερισμὸν αὐτοῦ. ὑπάγετε· ἰδοὺ ἀποστέλλω ὑμᾶς ὡς ἄρνας ἐν μέσῳ λύκων.*
+
+- **"the harvest is great"**: the harvest is the fruit of the good earth (8:8), ready to be gathered.
+- **"that he cast out (ἐκβάλῃ) workers into his harvest"**: ἐκβάλλω.
+  - The verb used for daimons (9:40) and the beam in one's own eye (6:42).
+  - The Lord of the harvest "casts out" workers. The same motion that drives falsity out of a person drives workers into the field.
+- **"as lambs in the midst (ἐν μέσῳ) of wolves"**:
+  - Lambs are innocence; wolves are what tears innocence apart (?).
+  - *The midst:* the inmost into which the falsity threw the man (4:35); the paralysed man let down (5:19); the dry hand made to stand (6:8); the thorns (8:7).
+  - Now innocence is sent into the midst of what would tear it.
+
+### 10:4
+
+*μὴ βαστάζετε βαλλάντιον, μὴ πήραν, μὴ ὑποδήματα, καὶ μηδένα κατὰ τὴν ὁδὸν ἀσπάσησθε.*
+
+- **"carry no purse, no bag, no sandals"**: 9:3 again — nothing of one's own on the way.
+  - Sandals are the lowest covering of the feet, the natural's own protection (?). The feet go bare.
+- **"greet no one along the way"**: no turning aside. "First let me say farewell to those at home" (9:61).
+
+### 10:5–7 (10:6 grey)
+
+*εἰς ἣν δ’ ἂν εἰσέλθητε οἰκίαν πρῶτον λέγετε· Εἰρήνη τῷ οἴκῳ τούτῳ. καὶ ἐὰν ἐκεῖ ᾖ υἱὸς εἰρήνης, ἐπαναπαήσεται ἐπ’ αὐτὸν ἡ εἰρήνη ὑμῶν· εἰ δὲ μή γε, ἐφ’ ὑμᾶς ἀνακάμψει. ἐν αὐτῇ δὲ τῇ οἰκίᾳ μένετε, ἐσθίοντες καὶ πίνοντες τὰ παρ’ αὐτῶν, ἄξιος γὰρ ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ. μὴ μεταβαίνετε ἐξ οἰκίας εἰς οἰκίαν.*
+
+- **"first say: Peace to this house"**: "first" (πρῶτον) is set against the own's "first" (9:59, 9:61).
+  - The first thing is peace. "Go into peace" (7:50; 8:48).
+- **"your peace will rest on him; if not, it will turn back (ἀνακάμψει) to you"**:
+  - Peace given is never lost. It rests where it is received, and comes back where it is not.
+  - This is the measure (6:38) and the law of having (8:18) seen from the side of the giver.
+- **"remain (μένετε) in that house"**: 9:4; against the tombs (8:27).
+- **"eating and drinking what they give"**: eating and drinking (5:30; 5:33).
+- **"the worker is worthy of his wage (μισθοῦ)"**: the reward is "great in heaven" (6:23) and "great" (6:35).
+
+### 10:8–9
+
+*καὶ εἰς ἣν ἂν πόλιν εἰσέρχησθε καὶ δέχωνται ὑμᾶς, ἐσθίετε τὰ παρατιθέμενα ὑμῖν, καὶ θεραπεύετε τοὺς ἐν αὐτῇ ἀσθενεῖς, καὶ λέγετε αὐτοῖς· Ἤγγικεν ἐφ’ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ.*
+
+- **"and they receive (δέχωνται) you"**: reception (4:24; 8:40; 9:5; 9:11; 9:48; 9:53).
+- **"eat what is set before you"** (παρατιθέμενα): the verb of 9:16, the bread given "to set before" (παραθεῖναι) the crowd. What was set before others is now set before them.
+- **"the kingdom of God has come near (ἤγγικεν) to you"**: ἐγγίζω, drawing near.
+  - "As he drew near (ἤγγισεν) to the gate" (7:12).
+  - *Forward:* 15:1; 18:35, 18:40; 21:8, 21:20, 21:28; 22:1, 22:47; 24:15, 24:28.
+  - The road to Jerusalem is the kingdom drawing near.
+
+### 10:10–11
+
+*εἰς ἣν δ’ ἂν πόλιν εἰσέλθητε καὶ μὴ δέχωνται ὑμᾶς, ἐξελθόντες εἰς τὰς πλατείας αὐτῆς εἴπατε· Καὶ τὸν κονιορτὸν τὸν κολληθέντα ἡμῖν ἐκ τῆς πόλεως ὑμῶν εἰς τοὺς πόδας ἀπομασσόμεθα ὑμῖν· πλὴν τοῦτο γινώσκετε ὅτι ἤγγικεν ἡ βασιλεία τοῦ θεοῦ.*
+
+- **"the dust that clings to our feet we wipe off (ἀπομασσόμεθα)"**:
+  - *μάσσω, wiping: the woman "wiped" (ἐξέμασσεν) his feet with her hair (7:38, 7:44). The only places.*
+  - She wiped his feet with love. The seventy wipe off the dust of a city that did not receive.
+  - The feet carry the natural. What clings to it from non-reception is wiped off, not carried and not burned (9:54–55).
+- **"yet know this: the kingdom has come near"**: it comes near whether or not it is received.
+
+### Test: 10:12–15 (U−)
+
+*λέγω ὑμῖν ὅτι Σοδόμοις ἐν τῇ ἡμέρᾳ ἐκείνῃ ἀνεκτότερον ἔσται ἢ τῇ πόλει ἐκείνῃ. Οὐαί σοι, Χοραζίν· οὐαί σοι, Βηθσαϊδά· ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι ἐγενήθησαν αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν, πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ καθήμενοι μετενόησαν… καὶ σύ, Καφαρναούμ, μὴ ἕως οὐρανοῦ ὑψωθήσῃ; ἕως τοῦ ᾅδου καταβήσῃ* (SBLGNT καταβιβασθήσῃ).
+
+- **"Sodom, on that day"**: *forward:* "on the day Lot went out from Sodom, fire and sulphur rained from heaven" (17:29); "on that day" (17:31). Fire from heaven is the thing charity wanted to call down (9:54).
+- **"woe to you"**: the woes of 6:24–26, "woe to you who are rich… who are filled… who laugh".
+- **"Bethsaida"**: the place of the feeding (9:10).
+- **"if the powers (δυνάμεις) had been done in Tyre and Sidon"**: the people "from the coast of Tyre and Sidon" came to hear him (6:17). Power (4:36; 6:19; 8:46; 9:1).
+- **"sitting in sackcloth and ashes, they would have repented"**: sitting, as the man freed from Legion sat (8:35).
+- **"and you, Capernaum, will you be lifted up (ὑψωθήσῃ) to heaven? You will go down (or: be brought down) to Hades"**:
+  - *Capernaum is where the descent of the word ended: "he came down (κατῆλθεν) to Capernaum" (4:31).*
+  - The word came down into it. If it lifts itself up, it goes down.
+  - *Forward, in the printed text: "everyone who exalts (ὑψῶν) himself will be humbled, and who humbles himself will be exalted (ὑψωθήσεται)" (18:14).*
+
+**Verdict: continues.**
+- Its woes are those of 6:24–26, and its judgement on cities that do not receive is the law of 8:18.
+- The fire is not called down (9:54–55): the city that lifts itself up goes down of itself.
+- It is the one place where the text would set the place of the beginning against the heights and the depths, with the law of 18:14.
+- 10:11 → 10:16 runs without it ("know this: the kingdom has come near" → "whoever hears you hears me"), so it does not close a gap.
+
+### 10:16
+
+*Ὁ ἀκούων ὑμῶν ἐμοῦ ἀκούει, καὶ ὁ ἀθετῶν ὑμᾶς ἐμὲ ἀθετεῖ· ὁ δὲ ἐμὲ ἀθετῶν ἀθετεῖ τὸν ἀποστείλαντά με.*
+
+- **"whoever hears you hears me"**: hearing (9:35: "hear him").
+- **"whoever sets you aside (ἀθετῶν)… sets aside the one who sent me"**: the reception chain of 9:48 (child → me → the one who sent me), now in the negative.
+
+### 10:17 (grey)
+
+*Ὑπέστρεψαν δὲ οἱ ἑβδομήκοντα μετὰ χαρᾶς λέγοντες· Κύριε, καὶ τὰ δαιμόνια ὑποτάσσεται ἡμῖν ἐν τῷ ὀνόματί σου.*
+
+- **"the seventy returned (ὑπέστρεψαν) with joy"**: returning (8:39–40; 9:10).
+  - Joy (χαρά): "rejoice (χάρητε) in that day" (6:23). *Forward:* the joy in heaven (15:7, 15:10); "disbelieving for joy" (24:41).
+- **"even the daimons are set under (ὑποτάσσεται) us in your name"**:
+  - ὑπο-τάσσω, "rank under". *The centurion: "I too am a man set (τασσόμενος) under authority" (7:8).*
+  - The winds "hear under" (ὑπακούουσιν, 8:25).
+  - Below him, everything is ranked.
+  - "In your name" (9:48–49): the disciples who could not cast out (9:40) now can.
+
+### Test: 10:18 (U−)
+
+*Ἐθεώρουν τὸν Σατανᾶν ὡς ἀστραπὴν ἐκ τοῦ οὐρανοῦ πεσόντα.*
+
+- **"I was watching Satan fall"** (πεσόντα): falling (8:5–8; 5:8; 6:49).
+- **"like lightning"** (ἀστραπήν): *the flashing of his garment on the mountain (ἐξαστράπτων, 9:29); "as the lightning flashing… so will the Son of Man be" (17:24); the two men "in flashing clothing" (24:4).*
+- **"from heaven"**: the height. *Satan is named in the printed text at 11:18, 13:16 and 22:31.*
+
+**Verdict: continues.**
+- Its words take up falling, lightning and heaven.
+- The movement is the one of the cliff (8:33) and of Capernaum (10:15): what is in the height without belonging there falls.
+- 10:17 → 10:19 runs ("the daimons are set under us" → "I have given you authority to tread"), so it does not close a gap.
+
+### 10:19–20 (10:20 grey)
+
+*ἰδοὺ δέδωκα ὑμῖν τὴν ἐξουσίαν τοῦ πατεῖν ἐπάνω ὄφεων καὶ σκορπίων, καὶ ἐπὶ πᾶσαν τὴν δύναμιν τοῦ ἐχθροῦ, καὶ οὐδὲν ὑμᾶς οὐ μὴ ἀδικήσῃ. πλὴν ἐν τούτῳ μὴ χαίρετε ὅτι τὰ πνεύματα ὑμῖν ὑποτάσσεται, χαίρετε δὲ ὅτι τὰ ὀνόματα ὑμῶν ἐγγέγραπται ἐν τοῖς οὐρανοῖς.*
+
+- **"authority to tread (πατεῖν) upon snakes and scorpions"**:
+  - The seed by the way "was trodden down" (κατεπατήθη, 8:5). Now what is trodden is the snake.
+  - Snakes are the sensual, the lowest of the natural (?). Scorpions are persuasive falsity that stings (?).
+  - The road is walked over them.
+- **"and over all the power of the enemy (ἐχθροῦ)"**:
+  - *"Love your enemies (ἐχθρούς)" (6:27, 6:35).*
+  - The enemy is loved, and the enemy's power is trodden.
+  - The person is loved; the power of evil is put under foot.
+- **"do not rejoice that the spirits are set under you, but rejoice that your names are written in the heavens"**:
+  - The name is the quality (8:30, "Legion"; 6:22, "they cast out your name as evil").
+  - Joy is moved from power over falsity, which belongs to him, to quality written in heaven, which belongs to them as received.
+
+### 10:21
+
+*Ἐν αὐτῇ τῇ ὥρᾳ ἠγαλλιάσατο ἐν τῷ πνεύματι τῷ ἁγίῳ καὶ εἶπεν· Εὐχαριστῶ σοι, κύριε τοῦ οὐρανοῦ, ὅτι ἅτινα ἦν κρυπτὰ σοφοῖς καὶ συνετοῖς ἀπεκάλυψας νηπίοις· ναὶ ὁ πατήρ, ὅτι οὕτως εὐδοκία ἐγένετο ἔμπροσθέν σου.*
+
+- **"in that hour he rejoiced"**: the joy of the seventy (10:17) becomes his.
+- **"I thank you"** (εὐχαριστῶ):
+  - The adopted Marcionite reading; NA27 has "I confess/praise you" (ἐξομολογοῦμαι).
+  - εὐχαριστέω continues: the Samaritan who returns "thanking him" (17:16); "taking bread, having given thanks (εὐχαριστήσας), he broke" (22:19).
+  - **The verb: neutral, with the thread.**
+- **"Lord of heaven"**: the printed text, following both witnesses, lacks NA27's "and of the earth" (METHOD §5.3).
+  - *The reading has to weigh this.* In this text, the earth is where the Divine has authority and where reception happens:
+    - "the Son of Man has authority on the earth (ἐπὶ τῆς γῆς) to let go sins" (5:24);
+    - the good earth bears a hundredfold (8:8);
+    - the word came down.
+  - Heaven and earth are paired elsewhere in the printed text (12:56; 16:17; 21:33).
+  - "Lord of heaven" alone takes the lordship off the place where, in this very verse, the revealing happens: to infants, below.
+  - **Strain.** The omission separates the Lord from the earth. That separation is one the text bridges from 4:31 on. NA27's "and of the earth" continues the line.
+  - Like every other wording, it is recorded for the restorations (task 14), not changed here.
+- **"what was hidden (κρυπτά) from the wise and understanding (συνετοῖς), you revealed (ἀπεκάλυψας) to infants"**:
+  - *The law of veiling, stated as thanksgiving:*
+    - "nothing hidden (κρυπτόν) that will not become manifest" (8:17);
+    - "so that hearing they may not understand (συνιῶσιν)" (8:10);
+    - "it was veiled (παρακεκαλυμμένον)" (9:45).
+  - Revealing (ἀπο-καλύπτω) is the uncovering of that veil.
+  - The hiding is impersonal ("was hidden"), as at 9:45 ("was veiled"). NA27 has "you hid". The adopted wording is Roth's retroversion. **Neutral.**
+  - The infants are the child of 9:47–48, the least.
+- **"yes, the Father"**:
+  - Father: the Divine itself, from which he is sent (9:48: "the one who sent me").
+  - *Thread of father:*
+    - Jairus, the father, goes in (8:51); the boy is given back to his father (9:42);
+    - "let me first bury my father" — "let the dead bury their dead" (9:59–60);
+    - "the glory of the Father" (9:26).
+  - The natural father is left to the dead. Then the Father is named.
+
+### 10:22
+
+*πάντα μοι παρεδόθη ὑπὸ τοῦ πατρός μου, καὶ οὐδεὶς γινώσκει τίς ἐστιν ὁ πατὴρ εἰ μὴ ὁ υἱός, καὶ τίς ἐστιν ὁ υἱὸς εἰ μὴ ὁ πατὴρ καὶ ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι.*
+
+- **"all things were handed over (παρεδόθη) to me by my Father"**: παραδίδωμι.
+  - *"The Son of Man is about to be handed over (παραδίδοσθαι) into the hands of men" (9:44).*
+  - All things are handed over to him from above, and he is handed over to men below. The verb runs both ways through him.
+- **"no one knows who the Father is except the son, and who the son is except the Father"**:
+  - The order is the adopted Marcionite one (Father first). **Neutral.** Either order states that each is known only through the other.
+  - Knowing: the falsity "knew" (4:34, 4:41); those who "knew she was dead" laughed (8:53). Here the knowing is the Son's alone, given by revealing.
+- **"to whom the son wills to reveal"**: revealing again, now as his will.
+
+### 10:23–24
+
+*Καὶ στραφεὶς πρὸς τοὺς μαθητὰς κατ’ ἰδίαν εἶπεν· Μακάριοι οἱ ὀφθαλμοὶ οἱ βλέποντες ἃ βλέπετε. λέγω γὰρ ὑμῖν ὅτι πολλοὶ προφῆται καὶ βασιλεῖς ἠθέλησαν ἰδεῖν ἃ ὑμεῖς βλέπετε καὶ οὐκ εἶδαν, καὶ ἀκοῦσαι ἃ ἀκούετε καὶ οὐκ ἤκουσαν.*
+
+- **"turning"**: 7:9, 7:44, 9:55.
+- **"blessed are the eyes that see what you see"**: the beatitudes of 6:20–22, now for eyes.
+  - The blind look up (7:22); the beam is cast out so that one sees (6:42); "see how you hear" (8:18).
+- **"kings wished to see"**: Herod "sought to see him" (9:9). Seeing joined to hearing.
+
+### 10:25
+
+*Καὶ ἰδοὺ νομικός τις ἀνέστη ἐκπειράζων αὐτὸν λέγων· Διδάσκαλε, τί ποιήσας ζωὴν κληρονομήσω;*
+
+- **"a lawyer stood up (ἀνέστη), testing him"**:
+  - ἀνίστημι: the rising verb, said here of a tempter getting up.
+  - Nazareth "rose up" (ἀναστάντες) to cast him out (4:29). Rising can be against him.
+  - Testing (ἐκπειράζω): temptation. *Forward:* "lead us not into temptation" (11:4); "others, testing (πειράζοντες), sought a sign" (11:16); "pray that you may not enter into temptation" (22:40, 22:46).
+- **"what must I do to inherit life (ζωήν)?"**:
+  - "Life" without "eternal" is the adopted Marcionite reading. It continues: "do this and you will live (ζήσῃ)" (10:28), and "why do you seek the Living One (τὸν ζῶντα) among the dead?" (24:5). **Neutral, with the thread.**
+  - Doing (6:47; 8:21). Inheriting (κληρονομέω, → 18:18).
+
+### 10:26
+
+*ὁ δὲ εἶπεν πρὸς αὐτόν· Ἐν τῷ νόμῳ τί γέγραπται; πῶς ἀναγινώσκεις;*
+
+- **"What is written in the law? How do you read (ἀναγινώσκεις)?"**:
+  - The question is asked of the reader: not *what* is written, but *how* it is read.
+  - At Nazareth he "stood up to read" (ἀναγνῶναι, 4:16). The reading itself (4:17–21) is not in the printed text (the break noted in chapter 1).
+
+### 10:27
+
+*Ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ ἰσχύϊ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου, καὶ τὸν πλησίον σου ὡς σεαυτόν.*
+
+- **"you shall love"**: love (6:27–35; 7:42–47; 9:35, "the beloved").
+- **"from the whole heart, in the whole soul, in the whole strength, in the whole mind"**:
+  - Heart: the will (6:45; 9:47).
+  - Soul: the life that is saved by being lost (9:24).
+  - Strength (ἰσχύς): the woman "had no strength" (οὐκ ἴσχυσεν) to be healed by anyone (8:43); the river "had no strength" (οὐκ ἴσχυσεν) to shake the house (6:48).
+  - Mind (διάνοια): the understanding.
+  - The whole person, each part "whole".
+- **"and your neighbour as yourself (σεαυτόν)"**: the self.
+  - "Let him deny himself (ἑαυτόν)" (9:23).
+  - The self is not to be saved for itself (9:24). It is the measure by which the neighbour is loved.
+
+### 10:28
+
+*εἶπεν δὲ αὐτῷ· Ὀρθῶς ἀπεκρίθης· τοῦτο ποίει καὶ ζήσῃ.*
+
+- **"you answered rightly (ὀρθῶς)"**: upright, straight. *Forward: the bent woman "was made straight" (ἀνωρθώθη, 13:13).*
+- **"do this, and you will live"**: doing and living. The first "live" said of a person as a promise. *Forward: 24:5, "the Living One".*
+
+### Test: 10:29–37 (U−)
+
+*Ὁ δὲ θέλων δικαιῶσαι ἑαυτὸν εἶπεν… Καὶ τίς ἐστίν μου πλησίον; … Ἄνθρωπός τις κατέβαινεν ἀπὸ Ἰερουσαλὴμ εἰς Ἰεριχὼ καὶ λῃσταῖς περιέπεσεν, οἳ καὶ ἐκδύσαντες αὐτὸν καὶ πληγὰς ἐπιθέντες ἀπῆλθον ἀφέντες ἡμιθανῆ… ἱερεύς τις κατέβαινεν ἐν τῇ ὁδῷ ἐκείνῃ… ἀντιπαρῆλθεν… Λευίτης… Σαμαρίτης δέ τις ὁδεύων ἦλθεν κατ’ αὐτὸν καὶ ἰδὼν ἐσπλαγχνίσθη, καὶ προσελθὼν κατέδησεν τὰ τραύματα αὐτοῦ ἐπιχέων ἔλαιον καὶ οἶνον… ἤγαγεν αὐτὸν εἰς πανδοχεῖον… ἐν τῷ ἐπανέρχεσθαί με ἀποδώσω σοι… Ὁ ποιήσας τὸ ἔλεος μετ’ αὐτοῦ… Πορεύου καὶ σὺ ποίει ὁμοίως.*
+
+- **"wishing to justify himself (ἑαυτόν)"**: the self that wills to save itself (9:24). *Forward:* "you who justify yourselves before men" (16:15); "who trusted in themselves that they were righteous" (18:9).
+- **"a man was going down (κατέβαινεν) from Jerusalem to Jericho"**:
+  - *The direction opposite to the road: down from Jerusalem, when the face is set toward it (9:51).*
+  - Falling among robbers; stripped (ἐκδύσαντες), against "clothed" (8:35) and "the garment" (6:29); left half dead.
+- **"a priest was going down on that way… and passed by on the other side; likewise a Levite"**:
+  - The church's priesthood, also going down, passes by.
+  - The heads of the church reject (9:22).
+- **"a Samaritan, journeying (ὁδεύων)"**:
+  - The road (διώδευεν, 8:1).
+  - Samaria is where they did not receive him (9:52–53), and where charity wanted fire (9:54).
+  - *A Samaritan is the one who has compassion (ἐσπλαγχνίσθη), the verb of the Lord at Nain (7:13).*
+- **"he bound up his wounds, pouring on (ἐπιχέων) oil and wine"**:
+  - Oil is the good of love; wine is truth from it.
+  - Pouring: the new wine "will be poured out" (ἐκχυθήσεται) from old skins (5:37); the measure "poured over" (ὑπερεκχυννόμενον, 6:38). Here it is poured into wounds.
+- **"he brought him to an inn (πανδοχεῖον)"**: *παν-δοχεῖον, "the place that receives all": δέχομαι, the reception thread.* The man going down is carried to the place where all are received.
+- **"when I come back (ἐπανέρχεσθαι), I will repay (ἀποδώσω)"**: *forward:* the master "coming back" (ἐπανελθεῖν) in the parable of the minas (19:15). Giving back (9:42).
+- **"the one who did mercy"**; **"Go (πορεύου), and you do likewise"**: "go into peace" (7:50; 8:48); "do this and you will live" (10:28).
+
+**Verdict: continues.**
+- It answers 10:27–28 with the same verbs (do, go). It takes up 9:52–55: the Samaritan, not received there, is here the one who receives.
+- Every word is in a thread: compassion, pouring, reception, the way, going down from Jerusalem, returning.
+- 10:28 → 11:1 runs, so it does not close a gap.
+
+### Test: 10:38–42 (U?)
+
+*Ἐν δὲ τῷ πορεύεσθαι αὐτοὺς αὐτὸς εἰσῆλθεν εἰς κώμην τινά· γυνὴ δέ τις ὀνόματι Μάρθα ὑπεδέξατο αὐτόν. καὶ τῇδε ἦν ἀδελφὴ καλουμένη Μαριάμ, ἣ καὶ παρακαθεσθεῖσα πρὸς τοὺς πόδας τοῦ Ἰησοῦ ἤκουεν τὸν λόγον αὐτοῦ. ἡ δὲ Μάρθα περιεσπᾶτο περὶ πολλὴν διακονίαν… μόνην με κατέλειπεν διακονεῖν… Μάρθα Μάρθα, μεριμνᾷς καὶ θορυβάζῃ περὶ πολλά, ὀλίγων δέ ἐστιν χρεία ἢ ἑνός· Μαριὰμ γὰρ τὴν ἀγαθὴν μερίδα ἐξελέξατο ἥτις οὐκ ἀφαιρεθήσεται αὐτῆς.*
+
+- **"as they were going (πορεύεσθαι), he entered a village"**: on the road (9:51).
+- **"Martha received (ὑπεδέξατο) him"**: reception, *straight after the Samaritan village "did not receive him" (9:53).*
+- **"Mary, sitting beside him at his feet, was hearing his word"**:
+  - The feet (7:38; 8:35; 8:41).
+  - Hearing the word: "hear him" (9:35); "those who hear the word" (8:21).
+- **"Martha was distracted about much service (διακονίαν)"**: service, the healed women's serving (8:3) and the left-out 4:39.
+- **"you are anxious (μεριμνᾷς)"**: the cares that choke (8:14, test). *Forward:* "do not be anxious" (12:22–26).
+- **"of few things there is need (χρεία), or of one"**: need (5:31; 9:11).
+- **"Mary has chosen (ἐξελέξατο) the good portion, which will not be taken away (ἀφαιρεθήσεται) from her"**:
+  - Choosing: he "chose" the twelve (ἐκλεξάμενος, 6:13).
+  - *Taking away:* "even what he seems to have will be taken" (8:18). *Forward:* "my master is taking away (ἀφαιρεῖται) the stewardship from me" (16:3).
+  - What is chosen in hearing is not taken.
+
+**Verdict: continues.**
+- It answers 9:53 (reception after non-reception).
+- Mary at the feet hearing is 8:21 and 9:35 as a scene. The good part that is not taken away is the law of 8:18 from its other side.
+- 10:28 → 11:1 runs, so it does not close a gap.
+
+### What came out of the reading of chapter 8
+
+**The road is prepared, and the kingdom draws near along it.**
+- The seventy go before his face (7:27 → 9:52 → 10:1). They go as lambs into the midst of wolves, with nothing of their own and greeting no one on the way.
+- Peace is given first. It rests where it is received and comes back where it is not.
+- What was set before the crowd (9:16) is set before them.
+- The kingdom "has come near" (ἤγγικεν): this is the first time ἐγγίζω is said of the kingdom. The verb then runs to Jerusalem and to 24:15 ("Jesus himself drew near").
+
+**Wiping.** The dust of non-reception is wiped off the feet (ἀπομάσσω). The woman wiped his feet with her hair (ἐκμάσσω, 7:38, 7:44). Love wipes the feet of the Divine; the messengers wipe their own feet of what did not receive. Nothing is burned (9:54–55).
+
+**Joy moved upward.** The seventy rejoice that the daimons are ranked under them. They are told to rejoice instead that their names are written in the heavens. Power over falsity is his; the quality written in heaven is theirs as received. They tread snakes and the power of the enemy, while the enemy is loved (6:27).
+
+**The law of veiling, stated as thanksgiving.** What was hidden from the wise is revealed to infants (10:21). All things are handed over (παραδίδωμι) to him from the Father, as he will be handed over into the hands of men (9:44). The knowing of the Father and the Son is mutual, and is given by revealing. Then: "blessed are the eyes that see".
+
+**How do you read?**
+- A lawyer stands up (ἀνέστη) to test him.
+- The answer is love with the whole heart, soul, strength and mind, and the neighbour as oneself.
+- "Do this and you will live": the first promise of life, which reaches to "the Living One" (24:5).
+
+**The wordings.**
+- Most of the adopted Marcionite readings are neutral by their words. Some carry a thread: εὐχαριστῶ (→ 17:16, 22:19), "life" (→ 10:28, 24:5).
+- One strains: "Lord of heaven" without "and of the earth" (10:21). It separates the Lord from the earth, where in this text he has authority (5:24) and where the seed is received (8:8).
+
+**The four unprinted passages all continue by their words, and none closes a gap.**
+- *10:12–15:* Capernaum, where the word came down, is asked whether it will be lifted to heaven, and goes down to Hades. This is the law of the printed 18:14 said of the place of the beginning.
+- *10:18:* Satan falls like lightning from heaven.
+- *10:29–37:* a man going down from Jerusalem, the opposite direction to the road, is passed by the priesthood and received by a Samaritan into the "all-receiving" inn.
+- *10:38–42:* Martha receives him straight after Samaria did not. Mary hears at his feet, and her chosen part is not taken.
+
+In this chapter the passages that are not printed carry more of the up-and-down mechanics than the printed text does: the heights and the depths, the falling from heaven, the going down from Jerusalem.
+
+### Threads, carried forward and added
+
+- drawing near (ἐγγίζω): the kingdom, then the road (→ 18:35; 21:28; 22:47; 24:15, 24:28);
+- before his face;
+- the midst (lambs among wolves);
+- casting out (into the harvest);
+- peace given, resting, returning;
+- setting before (παρατίθημι);
+- wiping (μάσσω);
+- treading (πατέω);
+- ranking under (τάσσω);
+- the enemy loved, his power trodden;
+- names written in heaven;
+- joy (→ 15:7–10; 24:41);
+- thanksgiving (→ 17:16; 22:19);
+- hidden and revealed (κρυπτός, ἀποκαλύπτω);
+- handing over (παραδίδωμι) both ways;
+- Father (natural father left; the Father revealed);
+- knowing;
+- blessed eyes;
+- testing (→ 11:4, 11:16, 22:40, 22:46);
+- reading;
+- love with the whole;
+- the self as measure;
+- life and living (→ 24:5);
+- upright (→ 13:13);
+- going down from Jerusalem (in the test passage);
+- lifted up and brought down (→ 18:14);
+- the inn that receives all;
+- the good part not taken away (→ 16:3).
