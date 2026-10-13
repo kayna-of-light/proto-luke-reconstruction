@@ -287,4 +287,25 @@ Related findings:
 7. **Comparison.** Absent and probably-absent parables (4) against attested parables (12): Mann–Whitney test, one-sided in the direction of the observation (absent > attested), plus the two group medians. The unattested pair (2) and the controls (6) are reported separately.
 8. **Reach.** With 4 against 12 parables, only a large difference can be shown, and the result is recorded as suggestive. Swedenborg's attention also depends on things other than composition: Matthew's parallels, and doctrinal use. Both are reported with the result.
 
-**Status.** Protocol fixed; extraction to follow.
+**First run (protocol as fixed), 2026-10-13.** `scripts/research/q8_swedenborg.py`; corpus AC §§1–10837 (complete) and AE §§2–1232. In AE, 791 section markers are readable; where a marker is not, two sections are merged.
+
+| Measure | Absent (4) | Attested (12) |
+|---|---|---|
+| Median share of elements decoded | 0.91 | 0.77 |
+
+One-sided Mann–Whitney p = 0.15.
+
+**Precision check on that measure.** 30 decoded-element hits were drawn at random (seed 20261013) and read in context, with the parable name withheld. About 10 of 30 are a statement of the element's sense in connection with the parable or in general (e.g. "the piece of silver signifies truth"; "he that laid up the pound in a napkin denotes…"). The rest are noise:
+- tagging errors ("thou", "out", "forth", "well", "one");
+- generic nouns ("man", "house", "father", "place") matched in unrelated scripture quoted in the same long section;
+- numbers.
+
+The measure as fixed does not measure what it was meant to. The first result is therefore not evidence either way.
+
+**Revised measure (fixed 2026-10-13, after the precision check and before running it).**
+- **Window.** From 300 words before to 300 words after each reference to a verse of the parable or its parallels, not the whole section. Swedenborg quotes the passage and expounds it next to the reference.
+- **Decoded.** The element's word stands within 6 words *before* a signification verb (signifies, signify, signified, denotes, denote, denoted, means, mean, is/are meant, represents, represent, corresponds, correspond), or in the construction "by (the) X is/are meant/signified/denoted".
+- **Inventory.** As before, without cardinal numbers, without WordNet noun.quantity, and without closed-class words mis-tagged as nouns (thou, thee, ye, one, out, forth, well).
+- **Precision check.** The same check is repeated on 30 new hits before the result is read.
+
+**Status.** First run done (measure invalid); revised run to follow.
