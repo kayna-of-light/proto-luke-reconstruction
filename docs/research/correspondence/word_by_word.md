@@ -6288,3 +6288,438 @@ The earlier verdicts were drawn from the letter.
 - the Son of God (4:41; 8:28; 20:36 / 22:70);
 - "I am" (→ 24:39);
 - heard from his mouth.
+
+---
+
+## Chapter 21
+
+*23:1–56. Grey: 23:4–6, 23:10–12, 23:20–21, 23:24, 23:54. Not printed, tested at their places: 23:13–16 (U?); 23:26 (U?); 23:27–31 (U?); 23:34 (34b A−; 34a in NA27's double brackets, outside its text); 23:35–38 (U?); 23:39–42 (U?) and 23:43 (A−); 23:47–48 (U?); 23:49 (U?). (23:17 is not in NA27's text.) Adopted Marcionite wordings: 23:2 "and destroying the law and the prophets", "and turning away the women and the children".*
+
+### 23:1
+
+*Καὶ ἀναστὰν ἅπαν τὸ πλῆθος αὐτῶν ἤγαγον αὐτὸν ἐπὶ τὸν Πιλᾶτον.*
+
+- **"the whole multitude of them, rising (ἀναστάν), led him"**:
+  - *Nazareth: "rising (ἀναστάντες), they cast him outside the city" (4:29). The lawyer "stood up (ἀνέστη)" to test him (10:25).*
+  - The rising verb, at the first rejection and at the last, used of rising against him.
+- **"to Pilate"**: *Pilate, named in the first verse of the text: "Pontius Pilate governing Judea" (3:1).*
+
+### 23:2
+
+*ἤρξαντο δὲ κατηγορεῖν αὐτοῦ λέγοντες· Τοῦτον εὕραμεν διαστρέφοντα τὸ ἔθνος ἡμῶν καὶ καταλύοντα τὸν νόμον καὶ τοὺς προφήτας καὶ κωλύοντα φόρους Καίσαρι διδόναι καὶ ἀποστρέφοντα τὰς γυναῖκας καὶ τὰ τέκνα καὶ λέγοντα ἑαυτὸν χριστὸν βασιλέα εἶναι.*
+
+- **"to accuse (κατηγορεῖν) him"**: *"that they might find something to accuse (κατηγορεῖν) him of" (6:7).*
+- **"misleading our nation"**: "he loves our nation" (7:5).
+- **"and destroying (καταλύοντα) the law and the prophets"** (adopted Marcionite addition):
+  - By the printed text this accusation is false. He sends the lawyer to the law and says "you answered rightly; do this and you will live" (10:26–28). "They have Moses and the prophets; let them hear them" (16:29–31).
+  - καταλύω: the stones "thrown down" (21:6, test).
+- **"and forbidding (κωλύοντα) to give tribute to Caesar"**:
+  - *False by 20:25: "give back to Caesar the things of Caesar".*
+  - *κωλύω: "do not hinder (μὴ κωλύετε) the children" (18:16).*
+- **"and turning away (ἀποστρέφοντα) the women and the children"** (adopted Marcionite addition):
+  - *False by the printed text:* "let the children come to me" (18:16); the women who followed and served (8:2–3; 23:55).
+  - The verb is the one of NA27's 23:14 (test): "as turning away (ἀποστρέφοντα) the people".
+- **"and saying that he himself is the Anointed king"**: *the Anointed One (9:20; 22:67). The king: the nobleman who went "to receive a kingdom" (19:12, 19:15); "the coming king" (19:38, test).*
+- **The adopted additions are neutral.** They are put in the mouths of the accusers, and the printed text answers each of the accusers' charges as false, these two with the rest.
+
+### 23:3–5 (23:4–5 grey)
+
+*ὁ δὲ Πιλᾶτος ἠρώτησεν αὐτὸν λέγων· Σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων; ὁ δὲ ἀποκριθεὶς αὐτῷ ἔφη· Σὺ λέγεις. ὁ δὲ Πιλᾶτος εἶπεν πρὸς τοὺς ἀρχιερεῖς καὶ τοὺς ὄχλους· Οὐδὲν εὑρίσκω αἴτιον ἐν τῷ ἀνθρώπῳ τούτῳ. οἱ δὲ ἐπίσχυον λέγοντες ὅτι Ἀνασείει τὸν λαὸν διδάσκων καθ’ ὅλης τῆς Ἰουδαίας, καὶ ἀρξάμενος ἀπὸ τῆς Γαλιλαίας ἕως ὧδε.*
+
+- **"you say (σὺ λέγεις)"**: *"you say that I am" (22:70).* The identity given back from the questioner's own mouth.
+- **"I find no cause in this man"**: finding. The finding of the lost (15:4–9). Here: nothing found.
+- **"they grew stronger (ἐπίσχυον)"**: strength (13:24; 21:36).
+- **"he stirs up the people, teaching throughout all Judea, beginning from Galilee to here"**:
+  - *The accusers name the road:* beginning (ἀρξάμενος) from Galilee — "he came down to Capernaum, a city of Galilee" (4:31) — through Judea — "he was proclaiming in the synagogues of Judea" (4:44) — "to here".
+  - *The whole road, from the first descent to Jerusalem, said in one sentence by those who reject him.*
+  - *Forward: "beginning (ἀρξάμενοι) from Jerusalem" (24:47).* The new beginning starts where this road ends.
+
+### 23:6–7 (23:6 grey)
+
+*Πιλᾶτος δὲ ἀκούσας ἐπηρώτησεν εἰ ὁ ἄνθρωπος Γαλιλαῖός ἐστιν, καὶ ἐπιγνοὺς ὅτι ἐκ τῆς ἐξουσίας Ἡρῴδου ἐστὶν ἀνέπεμψεν αὐτὸν πρὸς Ἡρῴδην, ὄντα καὶ αὐτὸν ἐν Ἱεροσολύμοις ἐν ταύταις ταῖς ἡμέραις.*
+
+- **"whether the man is a Galilean"**: *"he too is a Galilean" — said of Peter in the courtyard (22:59, test).* The Galileans whose blood Pilate mixed (13:1, test).
+- **"of Herod's authority (ἐξουσίας)"**: *authority:* his (4:36; 20:2–8); the governor's (20:20). Here Herod's.
+- **"he sent him up (ἀνέπεμψεν) to Herod"**:
+  - ἀνα-πέμπω, "send up", to the higher authority. Then sent up again to Pilate (23:11).
+  - *The two rulers of the opening verse (3:1), Pilate governing Judea and Herod tetrarch of Galilee, send him "up" to each other.*
+  - *The text began by naming them and then "he came down" (4:31). At the end he is sent between them.*
+
+### 23:8–9
+
+*ὁ δὲ Ἡρῴδης ἰδὼν τὸν Ἰησοῦν ἐχάρη λίαν, ἦν γὰρ ἐξ ἱκανῶν χρόνων θέλων ἰδεῖν αὐτὸν διὰ τὸ ἀκούειν περὶ αὐτοῦ, καὶ ἤλπιζέν τι σημεῖον ἰδεῖν ὑπ’ αὐτοῦ γινόμενον. ἐπηρώτα δὲ αὐτὸν ἐν λόγοις ἱκανοῖς· αὐτὸς δὲ οὐδὲν ἀπεκρίνατο αὐτῷ.*
+
+- **"Herod rejoiced greatly"**: the joy of the takers (22:5).
+- **"he had long wanted to see him (θέλων ἰδεῖν αὐτόν), because of hearing about him"**:
+  - *Herod "heard of all that was happening… and sought to see him (ἐζήτει ἰδεῖν αὐτόν)" (9:7–9).*
+  - *Zacchaeus "sought to see" him, and went up a tree (19:3–4).*
+  - Two who seek to see him: one goes up, is called down, and receives him. The other, the ruler of the natural, sees him and gets nothing.
+- **"he hoped to see some sign (σημεῖον)"**: *"a sign will not be given to it" (11:29). The sign sought from heaven, in testing (11:16).*
+- **"he questioned him at length; but he answered him nothing"**:
+  - *"Neither will I tell you" (20:8).* The veil, kept.
+  - He who asked "who is this?" (9:9) is given no answer.
+
+### 23:10–12 (grey)
+
+*εἱστήκεισαν δὲ οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς εὐτόνως κατηγοροῦντες αὐτοῦ. ἐξουθενήσας δὲ αὐτὸν καὶ ὁ Ἡρῴδης σὺν τοῖς στρατεύμασιν αὐτοῦ καὶ ἐμπαίξας περιβαλὼν ἐσθῆτα λαμπρὰν ἀνέπεμψεν αὐτὸν τῷ Πιλάτῳ. ἐγένοντο δὲ φίλοι ὅ τε Ἡρῴδης καὶ ὁ Πιλᾶτος ἐν αὐτῇ τῇ ἡμέρᾳ μετ’ ἀλλήλων· προϋπῆρχον γὰρ ἐν ἔχθρᾳ ὄντες πρὸς αὐτούς.*
+
+- **"despising (ἐξουθενήσας) him"**: *"those who… despised (ἐξουθενοῦντας) the rest" (18:9).*
+- **"and mocking"**: 22:63.
+- **"putting on him (περιβαλών) bright (λαμπράν) clothing (ἐσθῆτα)"**:
+  - *Clothing:*
+    - "not even Solomon in all his glory was clothed (περιεβάλετο) like one of these" (12:27);
+    - the rich man "clothed in purple… feasting brightly (λαμπρῶς)" (16:19);
+    - on the mountain "his clothing white, flashing" (9:29).
+  - *Forward: "two men in flashing clothing (ἐσθῆτι)" (24:4).*
+  - The ruler of the natural puts on him, in mockery, the outward splendour of what the mountain showed inwardly.
+- **"Herod and Pilate became friends (φίλοι)… for before they had been at enmity (ἔχθρᾳ)"**:
+  - *"Love your enemies (ἐχθρούς)" (6:27).*
+  - *"Make friends for yourselves from the mammon of unrighteousness" (16:9).*
+  - The enemies become friends with each other over rejecting him.
+
+### Test: 23:13–16 (U?)
+
+*Πιλᾶτος δὲ συγκαλεσάμενος τοὺς ἀρχιερεῖς καὶ τοὺς ἄρχοντας καὶ τὸν λαὸν εἶπεν πρὸς αὐτούς· Προσηνέγκατέ μοι τὸν ἄνθρωπον τοῦτον ὡς ἀποστρέφοντα τὸν λαόν, καὶ ἰδοὺ ἐγὼ ἐνώπιον ὑμῶν ἀνακρίνας οὐθὲν εὗρον ἐν τῷ ἀνθρώπῳ τούτῳ αἴτιον… ἀλλ’ οὐδὲ Ἡρῴδης… καὶ ἰδοὺ οὐδὲν ἄξιον θανάτου ἐστὶν πεπραγμένον αὐτῷ· παιδεύσας οὖν αὐτὸν ἀπολύσω.*
+
+- **"the chief priests and the rulers and the people"**: the rulers (3:1; 18:18).
+- **"as turning away (ἀποστρέφοντα) the people"**: the verb of the adopted 23:2 addition.
+- **"I found no cause… nor did Herod… nothing worthy of death"**: worthiness (7:4–7; 12:48; 15:19, test).
+- **"having disciplined him, I will release (ἀπολύσω) him"**:
+  - *The λύω family, loosing:* the bent woman "loosed" (13:12, 13:16); "release, and you will be released" (6:37); "your redemption draws near" (21:28).
+  - Here, the first offer to release him.
+
+**Verdict: continues, and the printed text leans on it.**
+- The printed 23:18 has the crowd cry "release (ἀπόλυσον) to us Barabbas", against an offer of release the printed text has not yet made. Pilate's first offer is 23:16. The printed text's first is 23:20 ("again… wishing to release").
+- By its mechanics it opens the contest of loosing: the one who loosed the bound is offered release, and the bound murderer is released in his place.
+- U?. *Recorded for task 14.*
+
+### 23:18–19
+
+*Ἀνέκραγον δὲ παμπληθεὶ λέγοντες· Αἶρε τοῦτον, ἀπόλυσον δὲ ἡμῖν τὸν Βαραββᾶν· ὅστις ἦν διὰ στάσιν τινὰ γενομένην ἐν τῇ πόλει καὶ φόνον βληθεὶς ἐν τῇ φυλακῇ.*
+
+- **"they cried out (ἀνέκραγον) all together"**:
+  - *ἀνακράζω: the man with the spirit of an unclean daimon in the synagogue "cried out (ἀνέκραξεν) with a loud voice" (4:33). Legion, "crying out (ἀνακράξας)" (8:28). The only places.*
+  - *The cry of the falsity at the first event after the descent is, at the end, the cry of the whole multitude.*
+- **"Take (αἶρε) this one away"**:
+  - *αἴρω:* "take nothing for the way" (9:3); "take up his cross" (9:23); "even what he has will be taken (ἀρθήσεται)" (19:26).
+  - Here he is the one taken away.
+- **"release (ἀπόλυσον) to us Barabbas"**: loosing, asked for the other.
+- **"who had been thrown into prison (φυλακῇ) for insurrection and murder"**: *the prison (12:58; 21:12; 22:33).*
+
+### 23:20–23 (23:20–21 grey)
+
+*πάλιν δὲ ὁ Πιλᾶτος προσεφώνησεν αὐτοῖς θέλων ἀπολῦσαι τὸν Ἰησοῦν. οἱ δὲ ἐπεφώνουν λέγοντες· Σταύρου σταύρου αὐτόν. ὁ δὲ τρίτον εἶπεν πρὸς αὐτούς· Τί γὰρ κακὸν ἐποίησεν οὗτος; οὐδὲν αἴτιον θανάτου εὗρον ἐν αὐτῷ· παιδεύσας οὖν αὐτὸν ἀπολύσω. οἱ δὲ ἐπέκειντο φωναῖς μεγάλαις αἰτούμενοι αὐτὸν σταυρωθῆναι, καὶ κατίσχυον αἱ φωναὶ αὐτῶν.*
+
+- **"wishing (θέλων) to release (ἀπολῦσαι) Jesus"**: the will (22:42), and loosing.
+- **"Crucify, crucify him"**: *the cross: "let him take up his cross daily" (9:23).*
+- **"the third time"**: the three denials (22:34); the third day (9:22).
+- **"asking (αἰτούμενοι) for him to be crucified"**: *asking: "ask, and it will be given" (11:9).* Here it is asked, and given.
+- **"and their voices prevailed (κατίσχυον)"**: *κατισχύω: "pray, that you may prevail (κατισχύσητε) to escape all these things and to stand before the Son of Man" (21:36). The only other place.* Strength in prayer to stand, against the voices that prevail.
+
+### 23:24–25 (23:24 grey)
+
+*καὶ Πιλᾶτος ἐπέκρινεν γενέσθαι τὸ αἴτημα αὐτῶν· ἀπέλυσεν δὲ τὸν διὰ στάσιν καὶ φόνον βεβλημένον εἰς φυλακὴν ὃν ᾐτοῦντο, τὸν δὲ Ἰησοῦν παρέδωκεν τῷ θελήματι αὐτῶν.*
+
+- **"Pilate judged (ἐπέκρινεν) that their request be done (γενέσθαι)"**:
+  - *"Not my will, but yours be done (γινέσθω)" (22:42).*
+  - Judging (6:37; 19:22).
+- **"he released (ἀπέλυσεν) the one… thrown into prison"**: the bound one is loosed.
+- **"but Jesus he handed over (παρέδωκεν) to their will (θελήματι)"**:
+  - *Handing over (9:44; 22:4, 22:48).*
+  - *The will: "not my will (θέλημα)" (22:42). He yields his will to the Father, and is handed over to theirs.*
+  - The one who loosed the bound woman (13:16) is bound, so that the bound man is loosed. *Redemption (ἀπολύτρωσις, 21:28) is a loosing.*
+
+### Test: 23:26 (U?)
+
+*Καὶ ὡς ἀπήγαγον αὐτόν, ἐπιλαβόμενοι Σίμωνά τινα Κυρηναῖον ἐρχόμενον ἀπ’ ἀγροῦ ἐπέθηκαν αὐτῷ τὸν σταυρὸν φέρειν ὄπισθεν τοῦ Ἰησοῦ.*
+
+- **"as they led him away"**: led away (22:66).
+- **"Simon… coming from the field"**:
+  - *Simon: the name of Peter (5:8; 22:31).* Simon Peter denied him (22:54–62, test). Another Simon carries the cross.
+  - The field: "whoever is in the field, let him not turn back" (17:31).
+- **"they laid on him the cross, to carry it behind Jesus (ὄπισθεν τοῦ Ἰησοῦ)"**:
+  - *"If anyone wants to come behind me (ὀπίσω μου), let him deny himself and take up his cross daily and follow me" (9:23). "Whoever does not carry (βαστάζει) his cross and come behind me" (14:27, test).*
+  - *This is the one place where 9:23 is done.*
+
+**Verdict: continues.**
+- It is the condition of following, carried out by one named Simon.
+- The printed 23:32, "others also (καί) were being led with him", leans on the leading away of 23:26, but runs without it. So it does not close a gap.
+
+### Test: 23:27–31 (U?)
+
+*Ἠκολούθει δὲ αὐτῷ πολὺ πλῆθος τοῦ λαοῦ καὶ γυναικῶν αἳ ἐκόπτοντο καὶ ἐθρήνουν αὐτόν. στραφεὶς δὲ πρὸς αὐτὰς ὁ Ἰησοῦς εἶπεν· Θυγατέρες Ἰερουσαλήμ, μὴ κλαίετε ἐπ’ ἐμέ· πλὴν ἐφ’ ἑαυτὰς κλαίετε καὶ ἐπὶ τὰ τέκνα ὑμῶν, ὅτι ἰδοὺ ἔρχονται ἡμέραι ἐν αἷς ἐροῦσιν Μακάριαι αἱ στεῖραι καὶ αἱ κοιλίαι αἳ οὐκ ἐγέννησαν καὶ μαστοὶ οἳ οὐκ ἔθρεψαν. τότε ἄρξονται λέγειν τοῖς ὄρεσιν· Πέσετε ἐφ’ ἡμᾶς, καὶ τοῖς βουνοῖς· Καλύψατε ἡμᾶς· ὅτι εἰ ἐν τῷ ὑγρῷ ξύλῳ ταῦτα ποιοῦσιν, ἐν τῷ ξηρῷ τί γένηται;*
+
+- **"turning, he said: Daughters (θυγατέρες) of Jerusalem, do not weep (μὴ κλαίετε) for me"**:
+  - Daughters (8:48; 13:16). *"Do not weep" (7:13; 8:52).*
+- **"blessed the wombs that did not bear, and the breasts that did not nurse"**: *"blessed the womb that carried you and the breasts you sucked" (11:27); "woe to those with child and those nursing" (21:23).*
+- **"to the mountains: Fall on us, and to the hills: Cover (καλύψατε) us"**: *falling; covering, the veil. They covered him (22:64).*
+- **"if in the green wood… what in the dry (ξηρῷ)?"**: *dry: the man whose right hand was "dry" (ξηρά) (6:6); the seed that "dried" for lack of moisture (8:6).*
+
+**Verdict: continues.** It does not close a gap.
+
+### 23:32–33
+
+*Ἤγοντο δὲ καὶ ἕτεροι κακοῦργοι δύο σὺν αὐτῷ ἀναιρεθῆναι. καὶ ὅτε ἦλθον ἐπὶ τὸν τόπον τὸν καλούμενον Κρανίον, ἐκεῖ ἐσταύρωσαν αὐτὸν καὶ τοὺς κακούργους, ὃν μὲν ἐκ δεξιῶν ὃν δὲ ἐξ ἀριστερῶν.*
+
+- **"two others, evil-doers, were led with him to be taken away (ἀναιρεθῆναι)"**:
+  - *"How they might take him away (ἀνέλωσιν)" (22:2).*
+  - "He was counted with the lawless" (22:37, test).
+- **"to the place called Skull (Κρανίον)"**:
+  - *The skull, the place of the head.*
+  - The head: "nowhere to lay his head" (9:58); the rejected stone become "head" (20:17, test); *"lift up your heads" (21:28).*
+- **"there they crucified him"**: the cross (9:23; 23:21).
+- **"and the evil-doers, one on the right (ἐκ δεξιῶν) and one on the left"**:
+  - *The right: "sit at my right hand (ἐκ δεξιῶν)" (20:42); "seated at the right hand (ἐκ δεξιῶν) of the power of God" (22:69).*
+  - *Two, one on each side: "two on one bed; one will be taken along and the other left" (17:34–35).*
+  - The two are set beside him, and the printed text does not bring them back.
+
+### Test: 23:34 (34b A−; 34a outside NA27's text)
+
+*ὁ δὲ Ἰησοῦς ἔλεγεν· Πάτερ, ἄφες αὐτοῖς, οὐ γὰρ οἴδασιν τί ποιοῦσιν. διαμεριζόμενοι δὲ τὰ ἱμάτια αὐτοῦ ἔβαλον κλήρους.*
+
+- **(34a) "Father, let go (ἄφες) to them, for they do not know what they do"**:
+  - *Letting go: "let go our sins, as we let go everyone who owes us" (11:4).*
+  - Not knowing: *"the one who did not know… will be beaten with few" (12:48).*
+  - NA27 prints it in double brackets, outside its text. The reading records that it continues by its words, and does not decide the textual question.
+- **(34b) "dividing (διαμεριζόμενοι) his garments (ἱμάτια), they cast lots (κλήρους)"**:
+  - *Dividing:* the cup "divided among yourselves" (22:17), the sharing. Here the division of taking.
+  - *The garment:* the fringe of his garment that healed (8:44); his clothing flashing white (9:29).
+  - *Lots (κλῆρος):* the inheritance, "that the inheritance may be ours" (20:14, test).
+
+**Verdict (34b): continues.** 23:33 → 23:44 runs, so it does not close a gap.
+
+### Test: 23:35–38 (U?)
+
+*καὶ εἱστήκει ὁ λαὸς θεωρῶν. ἐξεμυκτήριζον δὲ καὶ οἱ ἄρχοντες λέγοντες· Ἄλλους ἔσωσεν, σωσάτω ἑαυτόν, εἰ οὗτός ἐστιν ὁ χριστὸς τοῦ θεοῦ, ὁ ἐκλεκτός. ἐνέπαιξαν δὲ αὐτῷ καὶ οἱ στρατιῶται… λέγοντες· Εἰ σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων, σῶσον σεαυτόν. ἦν δὲ καὶ ἐπιγραφὴ ἐπ’ αὐτῷ· Ὁ βασιλεὺς τῶν Ἰουδαίων οὗτος.*
+
+- **"the rulers sneered (ἐξεμυκτήριζον)"**: *the Pharisees "sneered (ἐξεμυκτήριζον)" at him (16:14). The only other place.*
+- **"he saved others; let him save himself (σωσάτω ἑαυτόν)"**:
+  - *"Whoever wills to save his soul will lose it" (9:24); "whoever seeks to keep his soul will lose it" (17:33).*
+  - The last temptation is the own's act, demanded of him: save yourself.
+- **"the Anointed One of God, the chosen (ἐκλεκτός)"**: *Peter's "the Anointed One of God" (9:20). NA27's "the chosen" at 9:35.*
+- **"an inscription (ἐπιγραφή) over him"**: *"whose image and inscription (ἐπιγραφήν) does it have?" (20:24).* The inscription over him: the king.
+
+**Verdict: continues.** It does not close a gap. Its "save yourself" is the self-saving of 9:24, refused.
+
+### Test: 23:39–43 (23:39–42 U?; 23:43 A−)
+
+*Εἷς δὲ τῶν κρεμασθέντων κακούργων ἐβλασφήμει αὐτόν λέγων· Οὐχὶ σὺ εἶ ὁ χριστός; σῶσον σεαυτὸν καὶ ἡμᾶς. ἀποκριθεὶς δὲ ὁ ἕτερος ἐπιτιμῶν αὐτῷ ἔφη· Οὐδὲ φοβῇ σὺ τὸν θεόν, ὅτι ἐν τῷ αὐτῷ κρίματι εἶ; καὶ ἡμεῖς μὲν δικαίως, ἄξια γὰρ ὧν ἐπράξαμεν ἀπολαμβάνομεν· οὗτος δὲ οὐδὲν ἄτοπον ἔπραξεν. καὶ ἔλεγεν· Ἰησοῦ, μνήσθητί μου ὅταν ἔλθῃς ἐν τῇ βασιλείᾳ σου. καὶ εἶπεν αὐτῷ· Ἀμήν σοι λέγω σήμερον μετ’ ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ.*
+
+- **"one of the evil-doers… blasphemed him: save yourself and us"**: the self-saving (9:24), again.
+- **"the other, rebuking (ἐπιτιμῶν) him"**: the rebuke, given to the disciples (17:3).
+- **"do you not fear God?"**: *the judge "who did not fear God" (18:2, 18:4).* "Fear the one who has authority" (12:5).
+- **"we receive back (ἀπολαμβάνομεν) what is worthy (ἄξια) of what we did"**:
+  - *"You received back (ἀπέλαβες) your good things in your life" (16:25).*
+  - Worthy (12:48; 15:19, test).
+  - The measure, acknowledged.
+- **"this one has done nothing wrong"**: Pilate's "no cause" (23:4, 23:22).
+- **"Jesus, remember (μνήσθητι) me when you come in your kingdom"**:
+  - *Remembering:*
+    - "Child, remember (μνήσθητι)" (16:25);
+    - "do this in remembrance of me" (22:19);
+    - Peter "remembered" (22:61, test).
+  - *Forward: "remember… and they remembered" (24:6, 24:8).*
+  - Here the remembering is asked of him.
+  - *"Your kingdom": the nobleman who went "to receive a kingdom" (19:12, 19:15).*
+- **"today (σήμερον) you will be with me (μετ’ ἐμοῦ) in paradise"**:
+  - *"Today salvation has come to this house" (19:9); "today I must remain in your house" (19:5).*
+  - *"With me": "Lord, with you (μετὰ σοῦ) I am ready to go… to death" (22:33). Faith promised to be with him in death and denied him. The evil-doer is with him in death and is told "with me in paradise".*
+
+**Verdict: continues, and the printed text leans on it.**
+- *By its words.* The printed text brings two evil-doers to the cross and sets them "one on the right and one on the left" (23:32–33), and does not bring them back.
+- *By its mechanics.*
+  - *The printed 17:34–35 states the law of the two: "two… one will be taken along, the other left".* At the cross, the two beside him are the one place that law is acted out: one demands that he save himself, the other fears God, accepts his measure, asks to be remembered, and is taken "today, with me".
+  - *It is also the salvation of the lost at the last hour, the "today" of 19:5–10.*
+- 23:39–42 is U?; 23:43 is A− (Epiphanius: the text lacked "today you will be with me in paradise"). Restoring 23:43 would be against Marcion's text. *Recorded for task 14.*
+
+### 23:44–45
+
+*Καὶ ἦν ἤδη ὡσεὶ ὥρα ἕκτη καὶ σκότος ἐγένετο ἐφ’ ὅλην τὴν γῆν ἕως ὥρας ἐνάτης τοῦ ἡλίου ἐκλιπόντος, ἐσχίσθη δὲ τὸ καταπέτασμα τοῦ ναοῦ μέσον.*
+
+- **"darkness (σκότος) came over the whole earth"**:
+  - *Darkness:* "what you said in the dark" (12:3); "the light in you, darkness" (11:35, test); "the authority of darkness" (22:53, test).
+  - *The whole earth (5:24; 12:49).*
+- **"the sun failing (ἐκλιπόντος)"**:
+  - *ἐκλείπω: "I have prayed for you, that your faith may not fail (ἐκλίπῃ)" (22:32); "when it fails" (16:9).*
+  - The sun fails; faith was prayed for, not to fail.
+- **"the veil (καταπέτασμα) of the sanctuary was torn (ἐσχίσθη) in the middle (μέσον)"**:
+  - *The veil.* The law of veiling, through the whole text:
+    - "nothing hidden that will not become manifest" (8:17);
+    - "it was veiled from them" (9:45);
+    - "you revealed them to infants" (10:21);
+    - "nothing covered that will not be uncovered" (12:2);
+    - "hidden from your eyes" (19:42, test);
+    - "covering him" (22:64).
+  - *At his death the veil of the sanctuary is torn.* What covered the inmost is opened.
+  - *Tearing (σχίζω): "no one tears a patch from a new garment… otherwise he will tear (σχίσει) the new" (5:36). The only other place.*
+  - *In the middle (μέσον):* the midst, through the whole text — passed through (4:30), thrown into (4:35), let down into (5:19), stood in (6:8). *Forward: "he stood in their midst" (24:36).*
+  - *The veil is torn in the midst.*
+
+### 23:46
+
+*καὶ φωνήσας φωνῇ μεγάλῃ ὁ Ἰησοῦς εἶπεν· Πάτερ, εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου. τοῦτο δὲ εἰπὼν ἐξέπνευσεν.*
+
+- **"calling with a loud voice (φωνῇ μεγάλῃ)"**:
+  - *The unclean spirit in the synagogue "cried out with a loud voice (φωνῇ μεγάλῃ)" (4:33). Legion "with a loud voice (φωνῇ μεγάλῃ)" (8:28). The only other places.*
+  - *The first loud voice after the descent was the falsity's. The last is his.*
+- **"Father, into your hands (εἰς χεῖράς σου)"**:
+  - *"The Son of Man is about to be handed over into the hands (εἰς χεῖρας) of men" (9:44). Forward:* "into the hands of sinful men" (24:7).
+  - *Handed over into the hands of men, he sets his spirit into the hands of the Father.*
+- **"I set (παρατίθεμαι) my spirit"**:
+  - *παρατίθημι, "set before, entrust":*
+    - the bread given "to set before (παραθεῖναι)" the crowd (9:16);
+    - "eat what is set before (παρατιθέμενα) you" (10:8);
+    - "I have nothing to set before (παραθήσω) him" (11:6);
+    - "to whom much was entrusted (παρέθεντο)" (12:48).
+  - *What was set before others as bread, he now sets before the Father: his spirit.*
+  - The spirit: the girl's "spirit returned (ἐπέστρεψεν)" when he said "rise" (8:55).
+- **"he breathed out (ἐξέπνευσεν)"**: the spirit (πνεῦμα), breathed out.
+
+### Test: 23:47–49 (U?)
+
+*Ἰδὼν δὲ ὁ ἑκατοντάρχης τὸ γενόμενον ἐδόξαζεν τὸν θεὸν λέγων· Ὄντως ὁ ἄνθρωπος οὗτος δίκαιος ἦν. καὶ πάντες οἱ συμπαραγενόμενοι ὄχλοι ἐπὶ τὴν θεωρίαν ταύτην, θεωρήσαντες τὰ γενόμενα, τύπτοντες τὰ στήθη ὑπέστρεφον. εἱστήκεισαν δὲ πάντες οἱ γνωστοὶ αὐτῷ μακρόθεν, καὶ γυναῖκες αἱ συνακολουθοῦσαι αὐτῷ ἀπὸ τῆς Γαλιλαίας, ὁρῶσαι ταῦτα.*
+
+- **"the centurion… glorified God"**: *the centurion of 7:2–9, whose faith was not found in Israel.* Glorifying (13:13; 17:15; 18:43).
+- **"this man was righteous (δίκαιος)"**: the righteous (14:14; 23:50).
+- **"the crowds… beating their breasts (τύπτοντες τὰ στήθη), returned (ὑπέστρεφον)"**:
+  - *The tax collector "beat his breast (ἔτυπτεν τὸ στῆθος)" (18:13), and went down justified.*
+  - Returning (17:15; 19:12–15).
+  - *The crowds that cried "crucify" take the tax collector's posture.*
+- **"his acquaintances stood far off (μακρόθεν)"**: *far off (16:23; 18:13; 22:54, test).*
+- **"the women who followed him from Galilee"**: the women of 8:2–3.
+
+**Verdict: continues.** 23:46 → 23:50 runs, so it does not close a gap.
+
+### 23:50–51
+
+*Καὶ ἰδοὺ ἀνὴρ ὀνόματι Ἰωσὴφ βουλευτὴς ὑπάρχων καὶ ἀνὴρ ἀγαθὸς καὶ δίκαιος— οὗτος οὐκ ἦν συγκατατεθειμένος τῇ βουλῇ καὶ τῇ πράξει αὐτῶν— ἀπὸ Ἁριμαθαίας πόλεως τῶν Ἰουδαίων, ὃς προσεδέχετο τὴν βασιλείαν τοῦ θεοῦ,*
+
+- **"a man good (ἀγαθός) and righteous (δίκαιος)"**:
+  - *Good: "no one is good except one" (18:19); "well done, good servant" (19:17).*
+  - Righteous: "the resurrection of the righteous" (14:14).
+- **"he had not agreed to their counsel and deed"**: not of the will that prevailed (23:23–25).
+- **"who was waiting for (προσεδέχετο) the kingdom of God"**:
+  - *προσδέχομαι: "men waiting for (προσδεχομένοις) their lord" (12:36); "this man receives (προσδέχεται) sinners" (15:2).*
+  - Waiting and receiving are the same word.
+
+### 23:52–53
+
+*οὗτος προσελθὼν τῷ Πιλάτῳ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ, καὶ καθελὼν ἐνετύλιξεν αὐτὸ σινδόνι, καὶ ἔθηκεν αὐτὸν ἐν μνήματι λαξευτῷ οὗ οὐκ ἦν οὐδεὶς οὔπω κείμενος.*
+
+- **"he asked (ᾐτήσατο) for the body (σῶμα) of Jesus"**:
+  - *"This is my body, given for you" (22:19).* The body given is asked for.
+  - Asking: they asked for him to be crucified (23:23). Here one asks for the body.
+- **"and taking it down (καθελών)"**: *the rich man: "I will pull down (καθελῶ) my barns, and build greater" (12:18). The only other place.* The own pulls down to lay up for itself. Joseph takes down the body that was given.
+- **"he wrapped it in linen, and placed him in a tomb (μνήματι) hewn in rock"**:
+  - *Tombs:* Legion "lived among the tombs (μνήμασιν)" (8:27); "you are like unseen tombs" (11:44); "you build the tombs of the prophets" (11:47).
+  - *Rock:* the house "founded on the rock" (6:48).
+- **"where no one had yet been laid (κείμενος)"**:
+  - *κεῖμαι: "you have many goods laid up (κείμενα) for many years" (12:19); the mina "laid away (ἀποκειμένην)" in a cloth (19:20).*
+  - *What the own lays up for itself; what the fearful servant laid away; the body laid where no one had been laid.*
+  - *The colt "on which no one had ever sat" (19:30, test).*
+
+### 23:54 (grey)
+
+*καὶ ἡμέρα ἦν παρασκευῆς, καὶ σάββατον ἐπέφωσκεν.*
+
+- **"the day of preparation (παρασκευῆς)"**:
+  - *παρα-σκευή, from the root of "the messenger who will prepare (κατασκευάσει) your way" (7:27).*
+  - Preparing (9:52; 22:8–13).
+- **"and the sabbath was dawning (ἐπέφωσκεν)"**: dawning, light (φῶς). *Forward:* "at deep dawn" (24:1).
+
+### 23:55–56
+
+*κατακολουθήσασαι δὲ αἱ γυναῖκες, αἵτινες ἦσαν συνεληλυθυῖαι ἐκ τῆς Γαλιλαίας αὐτῷ, ἐθεάσαντο τὸ μνημεῖον καὶ ὡς ἐτέθη τὸ σῶμα αὐτοῦ, ὑποστρέψασαι δὲ ἡτοίμασαν ἀρώματα καὶ μύρα. Καὶ τὸ μὲν σάββατον ἡσύχασαν κατὰ τὴν ἐντολήν.*
+
+- **"the women who had come with him from Galilee"**: *8:2–3: Mary Magdalene, Joanna, Susanna, "and many others, who served them out of their own means".*
+- **"following (κατακολουθήσασαι)"**: following.
+- **"they saw the tomb and how his body was placed"**: seeing.
+- **"returning (ὑποστρέψασαι), they prepared (ἡτοίμασαν) spices and ointment (μύρα)"**:
+  - Returning (17:15–18).
+  - Preparing (22:8–13).
+  - *Ointment (μύρον): the sinful woman "brought an alabaster flask of ointment (μύρου)… and anointed his feet with the ointment"; "she has anointed my feet with ointment (μύρῳ)" (7:37–38, 7:46). The only other places.*
+  - *The love that anointed his feet at the first meal prepares ointment for his body.*
+- **"on the sabbath they rested (ἡσύχασαν)"**: *"they were silent (ἡσύχασαν)" (14:4, test).* The rest of the sabbath.
+
+### What came out of the reading of chapter 21
+
+**The first verse's rulers receive him.**
+- The multitude rises (ἀναστάν), as Nazareth rose (4:29).
+- They bring him to Pilate, named in the first verse (3:1). Their charges are each false by the printed text, the two adopted additions among them.
+- In their charge, the whole road is named: "beginning from Galilee to here".
+- Pilate sends him up to Herod, the other ruler of 3:1. Herod had long wanted to see him (9:9) and hoped for a sign. He gets no answer, and puts bright clothing on him in mockery: the outward splendour of the mountain's glory (9:29).
+- The two rulers, enemies, become friends.
+
+**The loosing exchanged.**
+- The multitude cries out (ἀνακράζω) — *the cry of the unclean spirit in the synagogue (4:33) and of Legion (8:28), the only other places.*
+- "Take this one away; release Barabbas."
+- Pilate wills to release him, three times. Their voices "prevail": the verb of the strength to stand that is prayed for (21:36).
+- The bound murderer is loosed. Jesus is handed over to their will: "not my will but yours be done" (22:42), carried out in being handed to theirs.
+- (Test 23:13–16, on which 23:18's "release Barabbas" leans: the first offer to release him.)
+
+**The cross.**
+- At the Skull, the place of the head, he is crucified between two evil-doers, one on the right and one on the left.
+- (In the unprinted passages:
+  - Simon carries the cross behind him, the one time 9:23 is done;
+  - the daughters of Jerusalem are told not to weep;
+  - his garments are divided;
+  - the rulers demand that he save himself — the own's act of 9:24, refused;
+  - *of the two beside him, one demands that he save himself, and the other fears God, accepts his measure, and asks to be remembered: "today you will be with me in paradise". The printed text leans on this. It brings the two to the cross and does not bring them back, and it states the law of the two (17:34–35) that is carried out here.)*
+
+**The veil torn in the midst.**
+- Darkness over the whole earth; the sun failing — the verb of the faith prayed for (22:32).
+- *The veil of the sanctuary torn in the middle.* This is the end of the law of veiling the reading has followed from 8:17. The tearing is the verb of the new garment (5:36). The middle is the midst the text has passed through since 4:30.
+
+**The loud voice.**
+- *The first loud voice after the descent was the unclean spirit's (4:33). The last is his: "Father, into your hands I set my spirit."*
+- Handed over into the hands of men (9:44), he sets his spirit into the Father's hands.
+- παρατίθημι: the bread set before the crowd (9:16), what was entrusted (12:48), now his spirit.
+
+**The body given, asked for, taken down, laid.**
+- Joseph — good and righteous, who was waiting for (receiving) the kingdom — asks for "the body given for you" (22:19).
+- He takes it down (καθελών), as the rich man pulled down his barns (12:18), and lays it where no one had been laid (κείμενος), as the rich man laid up his goods (12:19).
+- It is the day of preparation (the root of 7:27, "who will prepare your way"); the sabbath dawns.
+- The women from Galilee return and prepare ointment. *It is the ointment of the woman who anointed his feet (7:37–46).*
+
+### Threads, carried forward and added
+
+- rising against (4:29 / 23:1);
+- Pilate and Herod (3:1 / 23:1–12);
+- the false charges, answered by the printed text;
+- the road named: "from Galilee to here" (→ 24:47);
+- sent up between rulers;
+- Herod's wish to see (9:9 / 23:8);
+- no sign, no answer;
+- bright clothing in mockery (9:29; 16:19 / 23:11 → 24:4);
+- enemies made friends;
+- (test) the first offer of release;
+- the crying out (4:33; 8:28 / 23:18);
+- taken away (αἴρω);
+- loosing exchanged (λύω: 13:12–16; 21:28 / 23:16–25 → 24:21);
+- prevailing (21:36 / 23:23);
+- "be done" (22:42 / 23:24);
+- handed over to their will;
+- (test) the cross carried behind him (9:23 / 23:26);
+- (test) weeping, womb and breasts, covering;
+- the Skull, the head;
+- right and left;
+- the two (17:34–35 / 23:33, 23:39–43, test);
+- (test) "save yourself" (9:24 / 23:35–39);
+- (test) remember me; today; with me (22:33);
+- darkness over the earth;
+- the sun failing (22:32);
+- the veil torn in the midst (5:36; 8:17 → 24:31);
+- the loud voice (4:33; 8:28 / 23:46);
+- into the Father's hands (9:44 / 23:46);
+- the spirit set before him;
+- (test) the centurion; breasts beaten (18:13); far off;
+- the good and righteous man waiting for the kingdom (12:36 / 23:51);
+- the body asked for (22:19 / 23:52 → 24:3, 24:23);
+- taken down (12:18 / 23:53);
+- laid (12:19; 19:20 / 23:53);
+- the rock tomb (6:48);
+- preparation (7:27 / 23:54);
+- dawning (→ 24:1);
+- the women from Galilee (8:2–3);
+- ointment (7:37–46 / 23:56);
+- the sabbath rest.
