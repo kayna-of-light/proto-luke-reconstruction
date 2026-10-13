@@ -273,4 +273,18 @@ Related findings:
 4. **Reach.** With about six against twelve parables, the result can be suggestive, not decisive. Record it as such.
 5. **Controls.** Score a few parables from Matthew and Mark as controls (e.g. the wicked tenants in Mark 12, the talents in Matthew 25). They show whether the signature is Lukan or synoptic.
 
-**Status.** Open. To be taken up after the stylometric rerun (PREREGISTRATION §7).
+**Protocol, fixed before any data were extracted (2026-10-13).** Swedenborg is used as the rater. He wrote a century before Marcion's text was reconstructed, so his treatment of a parable cannot reflect its attestation class. This replaces the blind-scoring design above as the primary measure; the blind scoring remains a possible second measure.
+
+1. **Corpus.** *Arcana Coelestia* (Standard Edition, 12 vols, 1949–54) and *Apocalypse Explained* (1946, 6 vols), from the OCR text layers on the Internet Archive. These are Swedenborg's two continuous exegetical works.
+2. **Parables.**
+   - The 18 Lukan parables listed above, each taken with its synoptic parallels (Swedenborg often cites Matthew's form). The parallels are fixed before extraction, from the parallel references printed in NA27 (only those listed there).
+   - Controls: Matthew 13 (wheat and tares; treasure; pearl; net), Matthew 20:1–16 (labourers), Matthew 25:1–13 (ten virgins).
+3. **Elements.** For each parable, the element inventory is the set of concrete nouns in its KJV text: persons, animals, plants, objects, places, numbers. It is drawn up mechanically from the text before extraction, and frozen.
+4. **Citing passages.** Every numbered section of the corpus that cites a verse of the parable or its parallels, by book, chapter and verse ("Luke x. 30", "Luke 10:30", "Matt. xiii. 24" and the OCR variants of these).
+5. **Decoded element.** An element counts as decoded if a citing section states a sense for it. The test is the element's noun within 25 words of *signifies, signified, denotes, is meant, are meant, means, represents, corresponds*.
+6. **Primary measure.** The share of a parable's elements that are decoded anywhere in the corpus.
+   - Secondary measures: the number of citing sections, and the number of decoded elements.
+7. **Comparison.** Absent and probably-absent parables (4) against attested parables (12): Mann–Whitney test, one-sided in the direction of the observation (absent > attested), plus the two group medians. The unattested pair (2) and the controls (6) are reported separately.
+8. **Reach.** With 4 against 12 parables, only a large difference can be shown, and the result is recorded as suggestive. Swedenborg's attention also depends on things other than composition: Matthew's parallels, and doctrinal use. Both are reported with the result.
+
+**Status.** Protocol fixed; extraction to follow.
