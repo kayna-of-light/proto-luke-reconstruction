@@ -5765,3 +5765,526 @@ The earlier verdicts were drawn from the letter.
 - standing before the Son of Man (→ 24:36);
 - the Mount of Olives at night (6:12 / 21:37 → 22:39);
 - dawn (21:38 → 24:1, 24:22).
+
+---
+
+## Chapter 20
+
+*22:1–71. Grey: 22:2, 22:6–7, 22:9–13, 22:17–18, 22:21, 22:23, 22:31–32, 22:39–40, 22:42, 22:45–46, 22:65, 22:68. Not printed, tested at their places: 22:16 (A−); 22:24–30 (U?); 22:35–38 (A−); 22:43–44 (in NA27's double brackets, outside its text); 22:49 (U−); 22:50–51 (A−); 22:52–53 (U?); 22:54–62 (U?). Adopted Marcionite wordings: 22:3 without "Satan entered into"; 22:4 word order.*
+
+### 22:1–2 (22:2 grey)
+
+*Ἤγγιζεν δὲ ἡ ἑορτὴ τῶν ἀζύμων ἡ λεγομένη Πάσχα. καὶ ἐζήτουν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς τὸ πῶς ἀνέλωσιν αὐτόν, ἐφοβοῦντο γὰρ τὸν λαόν.*
+
+- **"the feast of unleavened bread (ἀζύμων)"**:
+  - *Without leaven: "beware of the leaven of the Pharisees, which is hypocrisy" (12:1).* The leaven hidden in the flour (13:21).
+  - The feast is the leaven taken out.
+- **"called Passover (Πάσχα)"**: the passing over.
+- **"was drawing near (ἤγγιζεν)"**: drawing near: the kingdom (10:9); desolation (21:20); redemption (21:28). Here the feast.
+- **"they sought how they might take him away (ἀνέλωσιν)"**:
+  - ἀν-αιρέω, "take up, take away", used for killing.
+  - Seeking (19:47, test; 20:19).
+
+### 22:3–6 (22:6 grey)
+
+*Ἰούδας δὲ ὁ καλούμενος Ἰσκαριώτης, ὢν ἐκ τοῦ ἀριθμοῦ τῶν δώδεκα, καὶ ἀπελθὼν συνελάλησεν τοῖς ἀρχιερεῦσιν καὶ στρατηγοῖς τὸ πῶς αὐτὸν παραδῷ αὐτοῖς. καὶ ἐχάρησαν καὶ συνέθεντο αὐτῷ ἀργύριον δοῦναι. καὶ ἐξωμολόγησεν, καὶ ἐζήτει εὐκαιρίαν τοῦ παραδοῦναι αὐτὸν ἄτερ ὄχλου αὐτοῖς.*
+
+- **"Judas… being of the number of the twelve"**: one of the twelve.
+  - The printed text lacks NA27's "Satan entered into", by Tertullian's testimony.
+  - By the threads, NA27's words would join:
+    - the entering of daimons into the man and the swine (8:30–33);
+    - "a reasoning entered into them" (9:46);
+    - the return of the unclean spirit into the house (11:24–26, test).
+  - The printed text keeps Satan's part at 22:31 ("Satan has asked for you").
+  - **Neutral.** The printed nominative is the editors' adjustment.
+- **"how he might hand him over (παραδῷ) to them"**:
+  - *Handing over:* "the Son of Man is about to be handed over into the hands of men" (9:44). "All things were handed over to me by my Father" (10:22).
+  - The word order is the adopted Marcionite one. **Neutral.**
+- **"they rejoiced (ἐχάρησαν)"**:
+  - Joy (15:5–10; 19:6).
+  - *Forward: Herod "rejoiced greatly" to see him (23:8).*
+  - The joy of those who take him.
+- **"silver (ἀργύριον)"**: "take no silver for the way" (9:3); the lovers of silver (16:14); the master's silver (19:15, 19:23).
+- **"without a crowd (ἄτερ ὄχλου)"**: the crowd that kept Zacchaeus from seeing (19:3) is here what keeps them from taking him.
+
+### 22:7–9 (22:7, 22:9 grey)
+
+*Ἦλθεν δὲ ἡ ἡμέρα τῶν ἀζύμων, ἐν ᾗ ἔδει θύεσθαι τὸ πάσχα· καὶ ἀπέστειλεν Πέτρον καὶ Ἰωάννην εἰπών· Πορευθέντες ἑτοιμάσατε ἡμῖν τὸ πάσχα ἵνα φάγωμεν. οἱ δὲ εἶπαν αὐτῷ· Ποῦ θέλεις ἑτοιμάσωμεν;*
+
+- **"the day on which the Passover must (ἔδει) be sacrificed (θύεσθαι)"**: the "must" (9:22). Sacrificed: *"bring the fattened calf, sacrifice (θύσατε) it" (15:23, test).*
+- **"he sent Peter and John: Go, prepare (ἑτοιμάσατε) the Passover for us"**:
+  - Faith and the goods of charity (works) are sent ahead.
+  - *Preparing:* the messengers sent "to prepare for him" (9:52); "all is ready (ἕτοιμα)" (14:17).
+- **"where do you want (θέλεις)"**: the will (22:42).
+
+### 22:10–13 (grey)
+
+*Ἰδοὺ εἰσελθόντων ὑμῶν εἰς τὴν πόλιν συναντήσει ὑμῖν ἄνθρωπος κεράμιον ὕδατος βαστάζων· ἀκολουθήσατε αὐτῷ εἰς τὴν οἰκίαν εἰς ἣν εἰσπορεύεται. καὶ ἐρεῖτε τῷ οἰκοδεσπότῃ τῆς οἰκίας· Λέγει σοι ὁ διδάσκαλος· Ποῦ ἐστιν τὸ κατάλυμα ὅπου τὸ πάσχα μετὰ τῶν μαθητῶν μου φάγω; κἀκεῖνος ὑμῖν δείξει ἀνάγαιον μέγα ἐστρωμένον· ἐκεῖ ἑτοιμάσατε. ἀπελθόντες δὲ εὗρον καθὼς εἰρήκει αὐτοῖς, καὶ ἡτοίμασαν τὸ πάσχα.*
+
+- **"entering the city"**: *Jerusalem.* In the printed text, this is the first time anyone is said to enter it.
+- **"a man carrying (βαστάζων) a jar of water"**:
+  - Water is truth.
+  - *Carrying:* "carry no purse" (10:4); the womb that "carried" him (11:27).
+  - "You gave me no water for my feet" (7:44).
+- **"follow (ἀκολουθήσατε) him into the house"**: following. The truth carried leads into the house.
+- **"say to the master of the house (οἰκοδεσπότῃ)"**:
+  - *The master of the house:* the one who must stay awake for the thief (12:39); the one who "rises and shuts the door" (13:25); the one who brings in the poor (14:21).
+  - Here the master opens.
+- **"where is the guest room (κατάλυμα) where I may eat the Passover?"**: *lodging:* "that they may lodge (καταλύσωσιν)" (9:12); "he has gone in to lodge (καταλῦσαι) with a sinful man" (19:7).
+- **"he will show you a large upper room (ἀνάγαιον), furnished"**:
+  - *ἀνά-γαιον, "above the ground".* The Passover is eaten in the room above the earth.
+  - The Son of Man "has nowhere to lay his head" (9:58). Here a room is ready.
+- **"they found as he had said"**: the word holds.
+
+### 22:14–15
+
+*Καὶ ὅτε ἐγένετο ἡ ὥρα, ἀνέπεσεν καὶ οἱ ἀπόστολοι σὺν αὐτῷ. καὶ εἶπεν πρὸς αὐτούς· Ἐπιθυμίᾳ ἐπεθύμησα τοῦτο τὸ πάσχα φαγεῖν μεθ’ ὑμῶν πρὸ τοῦ με παθεῖν·*
+
+- **"when the hour came"**: *"at the hour of the dinner" (14:17).*
+- **"he reclined (ἀνέπεσεν), and the apostles with him"**: *the posture of 11:37. "Go and recline (ἀνάπεσε) in the last place" (14:10, test).*
+- **"with longing I have longed (ἐπιθυμίᾳ ἐπεθύμησα)"**:
+  - Longing: Lazarus longing to be filled (16:21); "you will long to see one of the days of the Son of Man" (17:22).
+  - *Here the longing is his.*
+- **"to eat this Passover with you before I suffer (παθεῖν)"**: *"the Son of Man must suffer (παθεῖν)" (9:22; 17:25).*
+
+### Test: 22:16 (A−)
+
+*λέγω γὰρ ὑμῖν ὅτι οὐ μὴ φάγω αὐτὸ ἕως ὅτου πληρωθῇ ἐν τῇ βασιλείᾳ τοῦ θεοῦ.*
+
+- **"I will not eat it until it is fulfilled (πληρωθῇ) in the kingdom of God"**:
+  - Filling: the days filled (9:51); the times filled (21:24).
+  - *"Blessed is whoever eats bread in the kingdom of God" (14:15).*
+
+**Verdict: continues.** It is the parallel of the printed 22:18 (the cup). 22:15 → 22:17 runs, so it does not close a gap.
+
+### 22:17–18 (grey)
+
+*καὶ δεξάμενος ποτήριον εὐχαριστήσας εἶπεν· Λάβετε τοῦτο καὶ διαμερίσατε εἰς ἑαυτούς· λέγω γὰρ ὑμῖν, ὅτι οὐ μὴ πίω ἀπὸ τοῦ νῦν ἀπὸ τοῦ γενήματος τῆς ἀμπέλου ἕως οὗ ἡ βασιλεία τοῦ θεοῦ ἔλθῃ.*
+
+- **"receiving (δεξάμενος) a cup"**:
+  - *The reception thread, now his own receiving.*
+  - The cup: the outside of the cup cleansed (11:39). *Forward:* "remove this cup from me" (22:42).
+- **"giving thanks (εὐχαριστήσας)"**: *the Samaritan "giving thanks" at his feet (17:16); the Pharisee's thanks for himself (18:11).*
+- **"take (λάβετε) this, and divide (διαμερίσατε) it among yourselves"**:
+  - *Dividing:*
+    - "who made me a divider (μεριστήν) over you?" (12:14);
+    - "not peace but division (διαμερισμόν)" (12:51);
+    - "every kingdom divided (διαμερισθεῖσα) against itself" (11:17).
+  - Here the division is the sharing of one cup.
+- **"from now on (ἀπὸ τοῦ νῦν)"**: *forward: "from now on the Son of Man will be seated at the right hand" (22:69).*
+- **"the fruit of the vine"**: the vineyard (13:6, test; 20:9–16, test).
+- **"until the kingdom of God comes"**: "let your kingdom come" (11:2).
+
+### 22:19
+
+*καὶ λαβὼν ἄρτον εὐχαριστήσας ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων· Τοῦτό ἐστιν τὸ σῶμά μου τὸ ὑπὲρ ὑμῶν διδόμενον· τοῦτο ποιεῖτε εἰς τὴν ἐμὴν ἀνάμνησιν.*
+
+- **"taking bread, giving thanks, he broke and gave to them"**:
+  - *The feeding: "taking the five loaves… looking up into heaven, he blessed them and broke them and gave to the disciples" (9:16).*
+  - *Forward: "reclining with them, taking the bread, he blessed, and breaking, he gave to them" (24:30).*
+  - Three meals, one act.
+- **"this is my body (σῶμα), given (διδόμενον) for you"**:
+  - *The body:* "those who kill the body" (12:4); "where the body is, there the eagles will be gathered" (17:37). *Forward:* his body laid (23:52, 23:55); not found (24:3, 24:23).
+  - *Giving:*
+    - "give, and it will be given to you" (6:38);
+    - "it pleased the Father to give you the kingdom" (12:32);
+    - "you give them to eat" (9:13).
+  - *The giving thread ends with the giver giving himself.*
+- **"do this in my remembrance (ἀνάμνησιν)"**:
+  - *Remembering:* "remember (μνήσθητι) that you received your good things" (16:25); "remember Lot's wife" (17:32).
+  - *Forward: "remember how he told you… and they remembered his words" (24:6, 24:8).*
+
+### 22:20
+
+*καὶ τὸ ποτήριον ὡσαύτως μετὰ τὸ δειπνῆσαι, λέγων· Τοῦτο τὸ ποτήριον ἡ καινὴ διαθήκη ἐν τῷ αἵματί μου, τὸ ὑπὲρ ὑμῶν ἐκχυννόμενον.*
+
+- **"after dining (δειπνῆσαι)"**: the dinner (14:12–24).
+- **"the new (καινή) covenant"**:
+  - *New: the new garment, the new wine, the new skins (5:36–39). "New wine must be put into new skins" (5:38).*
+- **"in my blood (αἵματι)"**:
+  - *Blood:* "a flow of blood"; it "stood" (8:43–44). The blood of the prophets (11:50–51, test).
+- **"poured out (ἐκχυννόμενον) for you"**:
+  - *Pouring:*
+    - the new wine "will be poured out (ἐκχυθήσεται)" of old skins (5:37);
+    - the measure "poured over (ὑπερεκχυννόμενον)" into the bosom (6:38);
+    - the oil and wine poured into wounds (10:34, test);
+    - the blood of the prophets "poured out (ἐκκεχυμένον)" (11:50, test).
+  - *The new wine is poured out, not from old skins but for them. The measure poured over is his blood.*
+
+### 22:21–23 (22:21, 22:23 grey)
+
+*πλὴν ἰδοὺ ἡ χεὶρ τοῦ παραδιδόντος με μετ’ ἐμοῦ ἐπὶ τῆς τραπέζης· ὅτι ὁ υἱὸς μὲν τοῦ ἀνθρώπου κατὰ τὸ ὡρισμένον πορεύεται, πλὴν οὐαὶ τῷ ἀνθρώπῳ ἐκείνῳ δι’ οὗ παραδίδοται. καὶ αὐτοὶ ἤρξαντο συζητεῖν πρὸς ἑαυτοὺς τὸ τίς ἄρα εἴη ἐξ αὐτῶν ὁ τοῦτο μέλλων πράσσειν.*
+
+- **"the hand of the one handing me over is with me on the table (τραπέζης)"**:
+  - The hand (9:44; 20:19).
+  - *The table:* the rich man's table, from which crumbs fell for Lazarus (16:21).
+- **"the Son of Man goes (πορεύεται) as it has been determined"**:
+  - *The road's verb, said of the passion.* "He set his face to go (πορεύεσθαι)" (9:51).
+  - The road goes past Jerusalem's gate into the determined end.
+- **"they began to question among themselves (πρὸς ἑαυτούς)"**: *to themselves:* the Pharisee (18:11); the chief priests (20:5).
+
+### Test: 22:24–30 (U?)
+
+*Ἐγένετο δὲ καὶ φιλονεικία ἐν αὐτοῖς, τὸ τίς αὐτῶν δοκεῖ εἶναι μείζων. ὁ δὲ εἶπεν αὐτοῖς· Οἱ βασιλεῖς τῶν ἐθνῶν κυριεύουσιν αὐτῶν… ὑμεῖς δὲ οὐχ οὕτως, ἀλλ’ ὁ μείζων ἐν ὑμῖν γινέσθω ὡς ὁ νεώτερος, καὶ ὁ ἡγούμενος ὡς ὁ διακονῶν· τίς γὰρ μείζων, ὁ ἀνακείμενος ἢ ὁ διακονῶν; οὐχὶ ὁ ἀνακείμενος; ἐγὼ δὲ ἐν μέσῳ ὑμῶν εἰμι ὡς ὁ διακονῶν. Ὑμεῖς δέ ἐστε οἱ διαμεμενηκότες μετ’ ἐμοῦ ἐν τοῖς πειρασμοῖς μου· κἀγὼ διατίθεμαι ὑμῖν, καθὼς διέθετό μοι ὁ πατήρ μου βασιλείαν, ἵνα ἔσθητε καὶ πίνητε ἐπὶ τῆς τραπέζης μου ἐν τῇ βασιλείᾳ μου, καὶ καθήσεσθε ἐπὶ θρόνων τὰς δώδεκα φυλὰς κρίνοντες τοῦ Ἰσραήλ.*
+
+- **"who of them seems (δοκεῖ) to be greater (μείζων)"**:
+  - *"A reasoning entered into them, which of them was greater (μείζων)" (9:46).*
+  - Seeming (8:18).
+- **"let the greater become as the younger (νεώτερος), and the leader as one who serves (διακονῶν)"**:
+  - *The younger son (15:12–13, test).*
+  - *Serving: "he will gird himself… and serve (διακονήσει) them" (12:37).*
+- **"I am in your midst (ἐν μέσῳ ὑμῶν) as the one who serves"**:
+  - *The midst:* 4:30; 4:35; 5:19; 6:8; 8:7; 10:3; 17:11.
+  - *Forward: "he himself stood in their midst (ἐν μέσῳ αὐτῶν)" (24:36).*
+- **"you who have remained (διαμεμενηκότες) with me in my temptations"**: remaining (19:5; 24:29). Temptation (11:4; 22:40, 22:46).
+- **"I covenant (διατίθεμαι) to you a kingdom, as my Father covenanted to me"**:
+  - *διαθήκη, the covenant of 22:20.*
+  - The kingdom given (12:32).
+- **"eat and drink at my table in my kingdom"**: 14:15; 22:16 (test), 22:18.
+- **"sit on thrones"**: *the right hand (20:42; 22:69).*
+
+**Verdict: continues.**
+- Its words take up 9:46, 12:37 and 22:20, and reach 24:36.
+- *It is the text's own sentence of where he is: "in your midst, as the one who serves".*
+- 22:23 → 22:31 runs, so it does not close a gap.
+
+### 22:31–32 (grey)
+
+*Σίμων Σίμων, ἰδοὺ ὁ Σατανᾶς ἐξῃτήσατο ὑμᾶς τοῦ σινιάσαι ὡς τὸν σῖτον· ἐγὼ δὲ ἐδεήθην περὶ σοῦ ἵνα μὴ ἐκλίπῃ ἡ πίστις σου· καὶ σύ ποτε ἐπιστρέψας στήρισον τοὺς ἀδελφούς σου.*
+
+- **"Simon, Simon"**: the name doubled (10:41, test).
+- **"Satan has asked for (ἐξῃτήσατο) you, to sift you like wheat (σῖτον)"**:
+  - Asking: "ask and it will be given" (11:9). "They demand back (ἀπαιτοῦσιν) your soul" (12:20).
+  - *Wheat:* the rich man's grain (12:18); the steward's grain-measure (12:42).
+  - Satan, who bound the daughter of Abraham (13:16).
+- **"but I have prayed for you, that your faith (πίστις) may not fail (ἐκλίπῃ)"**:
+  - *Peter is faith.* Failing: "when it fails" (16:9); the treasure that does not fail (12:33, test).
+  - Prayer (21:36).
+- **"and you, when once you have turned back (ἐπιστρέψας)"**:
+  - *Turning back implies a turning away first.*
+  - "If… seven times he turns back to you" (17:4). "Let him not turn back to the things behind" (17:31).
+- **"strengthen (στήρισον) your brothers"**:
+  - *στηρίζω: "he set firm (ἐστήρισεν) his face to go to Jerusalem" (9:51); "a great chasm has been set firm (ἐστήρικται)" (16:26).*
+  - Faith, returned, sets firm.
+
+### 22:33–34
+
+*Κύριε, μετὰ σοῦ ἕτοιμός εἰμι καὶ εἰς φυλακὴν καὶ εἰς θάνατον πορεύεσθαι. ὁ δὲ εἶπεν· Λέγω σοι, Πέτρε, οὐ φωνήσει σήμερον ἀλέκτωρ ἕως τρίς με ἀπαρνήσῃ εἰδέναι.*
+
+- **"Lord, with you I am ready (ἕτοιμος) to go (πορεύεσθαι) both to prison and to death"**:
+  - *The road's infinitive, offered by faith.*
+  - *"I will follow you wherever you go" (9:57); "first let me…" (9:59, 9:61).*
+  - Ready (12:40). Prison (12:58; 21:12).
+- **"the cock will not crow today until you deny (ἀπαρνήσῃ) three times that you know me"**:
+  - *Denial: "let him deny (ἀρνησάσθω) himself" (9:23); "whoever denies me before men will be denied before God" (12:9); "all denying" that they had touched (8:45).*
+  - Faith, offering to go to death, will deny him instead of itself.
+  - "Today": "today salvation" (19:9). Three times: the full measure (9:22).
+
+### Test: 22:35–38 (A−)
+
+*Ὅτε ἀπέστειλα ὑμᾶς ἄτερ βαλλαντίου καὶ πήρας καὶ ὑποδημάτων, μή τινος ὑστερήσατε; οἱ δὲ εἶπαν· Οὐθενός. εἶπεν δὲ αὐτοῖς· Ἀλλὰ νῦν ὁ ἔχων βαλλάντιον ἀράτω, ὁμοίως καὶ πήραν, καὶ ὁ μὴ ἔχων πωλησάτω τὸ ἱμάτιον αὐτοῦ καὶ ἀγορασάτω μάχαιραν. λέγω γὰρ ὑμῖν ὅτι τοῦτο τὸ γεγραμμένον δεῖ τελεσθῆναι ἐν ἐμοί, τό· Καὶ μετὰ ἀνόμων ἐλογίσθη· καὶ γὰρ τὸ περὶ ἐμοῦ τέλος ἔχει. οἱ δὲ εἶπαν· Κύριε, ἰδοὺ μάχαιραι ὧδε δύο. ὁ δὲ εἶπεν αὐτοῖς· Ἱκανόν ἐστιν.*
+
+- **"when I sent you without purse and bag and sandals, did you lack anything?"**:
+  - *10:4, named exactly.*
+  - Lacking: the son "began to lack" (15:14, test).
+- **"but now… let him sell his garment and buy a sword"**:
+  - *Read by the letter, it stands against the road walked with nothing (9:3; 10:4) and against "sell all and give" (18:22).*
+  - Read by the method, the state has changed. The sword is truth that fights (?).
+  - "Now", when he is "counted among the lawless", the disciples enter their temptation (22:40, 22:46). That needs truth bought at the price of one's own garment. "Two swords: it is enough."
+- **"what is written must (δεῖ) be accomplished (τελεσθῆναι) in me"**: *"how I am held fast until it is accomplished (τελεσθῇ)" (12:50).*
+- **"he was counted with the lawless"**: *the printed 23:32–33: two criminals led with him, crucified on his right and left.*
+- **"what concerns me has an end"**: "the end is not at once" (21:9).
+
+**Verdict: continues.**
+- Its words reach 10:4, 12:50 and 23:32–33. The letter's tension is resolved by the method, as the change of state into temptation.
+- 22:34 → 22:39 runs, so it does not close a gap.
+
+### 22:39–40 (grey)
+
+*Καὶ ἐξελθὼν ἐπορεύθη κατὰ τὸ ἔθος εἰς τὸ Ὄρος τῶν Ἐλαιῶν· ἠκολούθησαν δὲ αὐτῷ καὶ οἱ μαθηταί. γενόμενος δὲ ἐπὶ τοῦ τόπου εἶπεν αὐτοῖς· Προσεύχεσθε μὴ εἰσελθεῖν εἰς πειρασμόν.*
+
+- **"going out, he went (ἐπορεύθη), as was his custom, to the Mount of Olives"**:
+  - *The road goes on, up the mountain.* "By night… he lodged on the mountain called of Olives" (21:37).
+  - The mountain at night and in prayer (6:12; 9:28).
+- **"the disciples followed him"**: following.
+- **"pray that you may not enter into temptation"**: *"do not bring us into temptation" (11:4). The temptation they enter is the one they are told to pray against.*
+
+### 22:41–42 (22:42 grey)
+
+*καὶ αὐτὸς ἀπεσπάσθη ἀπ’ αὐτῶν ὡσεὶ λίθου βολήν, καὶ θεὶς τὰ γόνατα προσηύχετο λέγων· Πάτερ, εἰ βούλει παρένεγκε τοῦτο τὸ ποτήριον ἀπ’ ἐμοῦ· πλὴν μὴ τὸ θέλημά μου ἀλλὰ τὸ σὸν γινέσθω.*
+
+- **"he was drawn away from them about a stone's throw (λίθου βολήν)"**:
+  - *Stones:* "the stones will cry out" (19:40, test); the rejected stone (20:17, test); stone upon stone (21:6, test).
+  - *Forward: the stone rolled away (24:2).*
+- **"and putting down his knees (γόνατα), he prayed"**:
+  - *Knees: Simon "fell at Jesus' knees (γόνασιν): Go out from me, for I am a sinful man" (5:8).*
+  - *At the first, faith fell at his knees. Here he kneels.* On the mountain where he went up to pray (9:28) and where his face changed, he kneels.
+- **"Father (Πάτερ)"**: the address of prayer (10:21; 11:2). *Forward:* 23:46.
+- **"if you will (βούλει), carry this cup (ποτήριον) past me"**: the cup of the covenant (22:20).
+- **"yet not my will (θέλημά), but yours, be done"**:
+  - *The will:*
+    - "the servant who knew the will of his lord" (12:47);
+    - "how often I wanted (ἠθέλησα)… and you did not want" (13:34, test);
+    - "we do not want (οὐ θέλομεν) this man to reign over us" (19:14).
+  - *Forward:* "he handed Jesus over to their will (θελήματι)" (23:25).
+  - *"Let him deny himself" (9:23), done by him.* His will is yielded into the Father's.
+
+### Test: 22:43–44 (outside NA27's text)
+
+*ὤφθη δὲ αὐτῷ ἄγγελος ἀπ’ οὐρανοῦ ἐνισχύων αὐτόν. καὶ γενόμενος ἐν ἀγωνίᾳ ἐκτενέστερον προσηύχετο· καὶ ἐγένετο ὁ ἱδρὼς αὐτοῦ ὡσεὶ θρόμβοι αἵματος καταβαίνοντες ἐπὶ τὴν γῆν.*
+
+- **"an angel from heaven appeared to him, strengthening (ἐνισχύων) him"**:
+  - Angels (16:22; 20:36).
+  - *Strength: "that you may have the strength (κατισχύσητε)" (21:36); "strengthen your brothers" (22:32).*
+- **"being in agony (ἀγωνίᾳ)"**: *"strive (ἀγωνίζεσθε) to enter through the narrow door" (13:24).* The striving at the narrow door, his.
+- **"his sweat became like drops of blood going down (καταβαίνοντες) onto the earth (ἐπὶ τὴν γῆν)"**:
+  - Blood (22:20). Going down (6:17; 18:14; 19:6).
+  - *The earth (5:24; 8:8; 12:49).*
+
+**Verdict: continues by its words.**
+- NA27 prints these verses in double brackets, outside its text, and no witness cites them for this text. The reading records the links: the agony as the striving of 13:24, and the blood going down to the earth.
+- It does not decide the textual question.
+- 22:42 → 22:45 runs, so it does not close a gap.
+
+### 22:45–46 (grey)
+
+*καὶ ἀναστὰς ἀπὸ τῆς προσευχῆς ἐλθὼν πρὸς τοὺς μαθητὰς εὗρεν κοιμωμένους αὐτοὺς ἀπὸ τῆς λύπης, καὶ εἶπεν αὐτοῖς· Τί καθεύδετε; ἀναστάντες προσεύχεσθε, ἵνα μὴ εἰσέλθητε εἰς πειρασμόν.*
+
+- **"rising (ἀναστάς) from prayer"**: *rising.* He rises from kneeling. Rising after yielding the will.
+- **"he found them sleeping from sorrow (λύπης)"**:
+  - *Sorrow: the rich ruler "very sorrowful (περίλυπος)" (18:23).*
+  - *Sleep:* he slept in the boat (8:23); "she sleeps" (8:52); *on the mountain, "weighed down with sleep… staying awake, they saw his glory" (9:32).*
+  - "Lest your hearts be weighed down… stay awake" (21:34–36). On this mountain they sleep.
+- **"why do you sleep? Rise (ἀναστάντες) and pray"**:
+  - *"Rise": the word said to the paralysed man (5:23–24), the dry hand (6:8), the girl (8:54), the Samaritan (17:19).*
+  - Said to the sleeping disciples.
+
+### 22:47–48
+
+*Ἔτι αὐτοῦ λαλοῦντος ἰδοὺ ὄχλος, καὶ ὁ λεγόμενος Ἰούδας εἷς τῶν δώδεκα προήρχετο αὐτούς, καὶ ἤγγισεν τῷ Ἰησοῦ φιλῆσαι αὐτόν. Ἰησοῦς δὲ εἶπεν αὐτῷ· Ἰούδα, φιλήματι τὸν υἱὸν τοῦ ἀνθρώπου παραδίδως;*
+
+- **"Judas… went before (προήρχετο) them"**: going ahead. Zacchaeus "ran ahead" to see him (19:4). Those "going ahead" rebuked the blind man (18:39).
+- **"he drew near (ἤγγισεν) to Jesus to kiss (φιλῆσαι) him"**:
+  - *Drawing near:* the kingdom (10:9); the sinners, to hear (15:1); the blind man, led to him (18:40). Here Judas draws near.
+  - *The kiss:*
+    - "you gave me no kiss (φίλημα); but she… has not ceased kissing my feet" (7:45);
+    - the father "kissed (κατεφίλησεν)" the son who returned (15:20, test).
+- **"Judas, with a kiss (φιλήματι) do you hand over the Son of Man?"**: *the kiss of the host who gave none, of the woman who gave many, of the father to the son, turned into the sign of handing over.*
+
+### Test: 22:49–53 (22:49 U−; 22:50–51 A−; 22:52–53 U?)
+
+*Κύριε, εἰ πατάξομεν ἐν μαχαίρῃ; καὶ ἐπάταξεν εἷς τις ἐξ αὐτῶν τοῦ ἀρχιερέως τὸν δοῦλον καὶ ἀφεῖλεν τὸ οὖς αὐτοῦ τὸ δεξιόν. ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν· Ἐᾶτε ἕως τούτου· καὶ ἁψάμενος τοῦ ὠτίου ἰάσατο αὐτόν. εἶπεν δὲ Ἰησοῦς πρὸς τοὺς παραγενομένους ἐπ’ αὐτὸν ἀρχιερεῖς καὶ στρατηγοὺς τοῦ ἱεροῦ καὶ πρεσβυτέρους· Ὡς ἐπὶ λῃστὴν ἐξήλθατε μετὰ μαχαιρῶν καὶ ξύλων; καθ’ ἡμέραν ὄντος μου μεθ’ ὑμῶν ἐν τῷ ἱερῷ οὐκ ἐξετείνατε τὰς χεῖρας ἐπ’ ἐμέ· ἀλλ’ αὕτη ἐστὶν ὑμῶν ἡ ὥρα καὶ ἡ ἐξουσία τοῦ σκότους.*
+
+- **"shall we strike with the sword?… and took off his right ear (οὖς)"**:
+  - *The ear is hearing:* "he who has ears to hear" (8:8); "put these words into your ears" (9:44).
+  - The right: the right hand (6:6).
+  - *Charity's fire on the village (9:54).* The disciples' sword takes away hearing.
+- **"Let it be, up to this; and touching (ἁψάμενος) the ear, he healed him"**: *touching and healing (5:13; 6:19; 8:44–47).* He gives back the hearing the sword took.
+- **"as against a robber (λῃστήν)"**: *the robbers among whom the man fell (10:30, test); "a den of robbers" (19:46, test).*
+- **"daily (καθ’ ἡμέραν) I was with you in the temple"**: *19:47 (test); 21:37.*
+- **"this is your hour, and the authority (ἐξουσία) of darkness (σκότους)"**:
+  - The hour (22:14). Authority: his authority (4:36; 20:2).
+  - *Darkness:* "the light in you, darkness" (11:35, test); "what you said in the dark" (12:3). *Forward: "darkness came over the whole earth" (23:44).*
+
+**Verdict: continues.** Its words are in the threads. It does not close a gap: with 22:54–62 printed, 22:48 → 22:54 runs.
+
+### Test: 22:54–62 (U?)
+
+*Συλλαβόντες δὲ αὐτὸν ἤγαγον καὶ εἰσήγαγον εἰς τὴν οἰκίαν τοῦ ἀρχιερέως· ὁ δὲ Πέτρος ἠκολούθει μακρόθεν. περιαψάντων δὲ πῦρ ἐν μέσῳ τῆς αὐλῆς καὶ συγκαθισάντων ἐκάθητο ὁ Πέτρος μέσος αὐτῶν. ἰδοῦσα δὲ αὐτὸν παιδίσκη τις καθήμενον πρὸς τὸ φῶς καὶ ἀτενίσασα αὐτῷ εἶπεν· Καὶ οὗτος σὺν αὐτῷ ἦν· ὁ δὲ ἠρνήσατο λέγων· Οὐκ οἶδα αὐτόν, γύναι… Ἄνθρωπε, οὐκ εἰμί… Ἄνθρωπε, οὐκ οἶδα ὃ λέγεις. καὶ παραχρῆμα ἔτι λαλοῦντος αὐτοῦ ἐφώνησεν ἀλέκτωρ. καὶ στραφεὶς ὁ κύριος ἐνέβλεψεν τῷ Πέτρῳ, καὶ ὑπεμνήσθη ὁ Πέτρος τοῦ λόγου τοῦ κυρίου ὡς εἶπεν αὐτῷ ὅτι Πρὶν ἀλέκτορα φωνῆσαι σήμερον ἀπαρνήσῃ με τρίς. καὶ ἐξελθὼν ἔξω ἔκλαυσεν πικρῶς.*
+
+- **"seizing (συλλαβόντες) him, they led him and brought him into the house of the high priest"**:
+  - *The λαμβάνω family, taking:* "the days of his taking up" (9:51).
+  - Here he is taken.
+- **"Peter followed far off (μακρόθεν)"**:
+  - *Following (5:11; 9:23).*
+  - *Far off:* the tax collector "standing far off" (18:13); the rich man seeing "from far off" (16:23).
+  - Faith follows, at a distance.
+- **"they kindled (περιαψάντων) a fire in the midst (ἐν μέσῳ) of the courtyard (αὐλῆς)"**:
+  - *Fire: "I came to cast fire on the earth, and how I wish it were already kindled (ἀνήφθη)" (12:49).* Here a fire kindled by others.
+  - *The midst.*
+  - *The courtyard: "when the strong man, fully armed, guards his own courtyard (αὐλήν)" (11:21). The only other place.* Faith sits in the strong man's court.
+- **"Peter sat in their midst (μέσος)"**: *sitting in the midst:* the healed man sitting at his feet (8:35); "I am in your midst as one who serves" (22:27, test). Faith sits in the midst of those who hold him.
+- **"sitting toward the light (φῶς)"**: the light (8:16; 11:33; 12:3).
+- **"he denied (ἠρνήσατο): I do not know him"**:
+  - *"Whoever denies (ἀρνησάμενος) me before men" (12:9).* Fulfilled, three times, as said (22:34).
+  - *"I do not know (οὐκ οἶδα) him": the master's "I do not know (οὐκ οἶδα) you, where you are from" (13:25, 13:27).* Faith says to the Lord's face, in effect, what the master says to those outside.
+- **"the cock crowed"**: "today", as said (22:34).
+- **"turning (στραφείς), the Lord looked at (ἐνέβλεψεν) Peter"**:
+  - *Turning: he "turned" to the woman (7:44); to the disciples (10:23).*
+  - Looking at: "looking at (ἐμβλέψας) them" (20:17, test).
+- **"Peter remembered (ὑπεμνήσθη) the word of the Lord"**:
+  - *Remembering: "do this in remembrance of me" (22:19).*
+  - *Forward: "remember… and they remembered his words" (24:6–8).*
+  - The turning point of faith is remembering his word.
+- **"going outside (ἔξω), he wept (ἔκλαυσεν) bitterly"**:
+  - *Outside:* the mother and brothers outside (8:20); "you begin to stand outside and knock" (13:25).
+  - *Weeping:* "blessed who weep now" (6:21); the woman weeping at his feet (7:38); he "wept" over the city (19:41, test).
+
+**Verdict: continues, and the printed text needs it.**
+- *By its words.*
+  - The printed 22:63 begins "the men holding him (συνέχοντες αὐτόν) mocked him". In the printed text no one has taken hold of him: 22:48 ends with Judas' kiss. The seizing and the leading into the high priest's house are 22:54.
+  - The printed 22:66, "as it became day", follows a night that the printed text does not tell.
+- *By its mechanics — the reason that matters.* The printed text makes faith's course a thread with three predictions and no fulfilment:
+  - "I have prayed for you, that your faith may not fail; and when once you have turned back, strengthen your brothers" (22:32);
+  - "I am ready to go with you to prison and to death" (22:33);
+  - "you will deny three times that you know me" (22:34).
+  - Faith (Peter, the rock, 6:14) is the seed on the rock that "in a time of temptation stands away" (8:13, test). The disciples are told twice to pray not to enter temptation (22:40, 22:46).
+  - *22:54–62 is where faith enters its temptation and fails. It denies him in the strong man's courtyard (11:21) by a fire not his (12:49). Then the Lord turns and looks, faith remembers his word, goes outside, and weeps. That is the "turning back" of 22:32. The remembering of his word is the same act that turns the women at the tomb (24:6–8).*
+  - Without it, the printed text announces faith's failure and return and never shows them.
+- U?: restoring it is not against a witness of absence. *This is the 22:34 / 22:48 → 22:63 break of the pericope pass, now with its inner reason. Recorded for task 14.*
+
+### 22:63–65 (22:65 grey)
+
+*Καὶ οἱ ἄνδρες οἱ συνέχοντες αὐτὸν ἐνέπαιζον αὐτῷ δέροντες, καὶ περικαλύψαντες αὐτὸν ἐπηρώτων λέγοντες· Προφήτευσον, τίς ἐστιν ὁ παίσας σε; καὶ ἕτερα πολλὰ βλασφημοῦντες ἔλεγον εἰς αὐτόν.*
+
+- **"the men holding him (συνέχοντες)"**:
+  - *Holding fast: "how I am held fast (συνέχομαι) until it is accomplished" (12:50).* What he said of himself inwardly is now done outwardly.
+  - The crowds "hold you fast" (8:45); "your enemies will hold you in" (19:43, test).
+- **"mocked (ἐνέπαιζον) him, beating (δέροντες) him"**:
+  - *Mocking: the tower-builder mocked (14:29, test); "he will be mocked" (18:32, test).*
+  - *Beating: the servants of the vineyard "beaten" (20:10–11, test).*
+- **"and covering (περικαλύψαντες) him"**:
+  - *The veil.*
+    - "Nothing covered (συγκεκαλυμμένον) that will not be uncovered" (12:2);
+    - "it was veiled (παρακεκαλυμμένον) from them" (9:45);
+    - "you revealed (ἀπεκάλυψας) them to infants" (10:21);
+    - the lamp not "covered" (8:16).
+  - *Now the veil is put over him: over the face that changed in prayer (9:29) and was set toward Jerusalem (9:51).*
+  - What was veiled from them is now veiled on him. *Forward: the eyes held (24:16), then opened (24:31).*
+- **"they asked: Prophesy, who (τίς) is it that struck you?"**:
+  - *"Who is this?" (5:21 → 9:20), turned into mockery, and asked of him, covered.*
+  - *Simon the Pharisee: "if this man were a prophet, he would know who touches him" (7:39). He knew.* "Who touched me?" (8:45).
+- **"blaspheming"**: "who is this who speaks blasphemies?" (5:21). Blasphemy against the spirit (12:10).
+
+### 22:66–68 (22:68 grey)
+
+*Καὶ ὡς ἐγένετο ἡμέρα, συνήχθη τὸ πρεσβυτέριον τοῦ λαοῦ, ἀρχιερεῖς τε καὶ γραμματεῖς, καὶ ἀπήγαγον αὐτὸν εἰς τὸ συνέδριον αὐτῶν, λέγοντες· Εἰ σὺ εἶ ὁ χριστός, εἰπὸν ἡμῖν. εἶπεν δὲ αὐτοῖς· Ἐὰν ὑμῖν εἴπω οὐ μὴ πιστεύσητε· ἐὰν δὲ ἐρωτήσω, οὐ μὴ ἀποκριθῆτε.*
+
+- **"as it became day (ἐγένετο ἡμέρα)"**:
+  - *"When it became day (ἐγένετο ἡμέρα), he called his disciples and chose the twelve" (6:13), after the night of prayer on the mountain (6:12).*
+  - *Here, after the night on the mountain, it becomes day and the elders gather.*
+- **"the elders, chief priests and scribes"**: *the three of 9:22, again (20:1).*
+- **"they led him away (ἀπήγαγον)"**: "led away to kings and governors" (21:12).
+- **"if you are the Anointed One (ὁ χριστός), tell us"**: *Peter's naming (9:20); the daimons knew (4:41); "how do they say the Anointed One is David's son?" (20:41).*
+- **"if I tell you, you will not believe; if I ask, you will not answer"**: *as at 20:3–8, where they would not answer "where from", and he did not tell them.* The veil kept toward those who will not receive.
+
+### 22:69
+
+*ἀπὸ τοῦ νῦν δὲ ἔσται ὁ υἱὸς τοῦ ἀνθρώπου καθήμενος ἐκ δεξιῶν τῆς δυνάμεως τοῦ θεοῦ.*
+
+- **"from now on (ἀπὸ τοῦ νῦν)"**: *"I will not drink from now on (ἀπὸ τοῦ νῦν)" (22:18).*
+- **"the Son of Man will be seated at the right hand (ἐκ δεξιῶν) of the power (δυνάμεως) of God"**:
+  - *"Sit at my right hand (ἐκ δεξιῶν μου)" (20:42).*
+  - *Power:* "the power of the Lord was with him to heal" (5:17); "power went out from me" (8:46); "coming… with great power" (21:27, adopted).
+  - *Here, at the trial, the printed text names the end of the movement, and names it as beginning "now".*
+  - *The moment is the lowest point:* held fast, mocked, beaten, covered, led away. And "from now on" the right hand.
+  - "Whoever brings himself low will be lifted up" (18:14) is not after the lowering. It is in it.
+
+### 22:70–71
+
+*εἶπαν δὲ πάντες· Σὺ οὖν εἶ ὁ υἱὸς τοῦ θεοῦ; ὁ δὲ πρὸς αὐτοὺς ἔφη· Ὑμεῖς λέγετε ὅτι ἐγώ εἰμι. οἱ δὲ εἶπαν· Τί ἔτι ἔχομεν μαρτυρίας χρείαν; αὐτοὶ γὰρ ἠκούσαμεν ἀπὸ τοῦ στόματος αὐτοῦ.*
+
+- **"are you then the Son of God?"**:
+  - *The daimons: "you are the Son of God" (4:41).* Legion: "Son of God the Most High" (8:28).
+  - *"Sons of God, being sons of the resurrection" (20:36).*
+  - What the falsity knew at the start is asked at the end by the heads of the church.
+- **"you say that I am (ἐγώ εἰμι)"**:
+  - *"Many will come… saying, I am" (21:8). Forward: "it is I myself (ἐγώ εἰμι αὐτός)" (24:39).*
+  - *The answer is given back from their own mouth: "out of your own mouth I will judge you" (19:22).*
+- **"what further need of testimony? We ourselves have heard (ἠκούσαμεν) it from his mouth (στόματος)"**:
+  - *Hearing: "hear him" (9:35).* They hear, and do not receive.
+  - *The mouth: "lying in wait to catch something from his mouth" (11:53–54, test).*
+
+### What came out of the reading of chapter 20
+
+**The meal in the room above the ground.**
+- Faith and works are sent to prepare.
+- They follow a man carrying water — truth — into a house whose master shows them a large upper room (ἀνάγαιον, "above the ground"), ready.
+- He reclines with the apostles. He has longed (the longing of Lazarus and of 17:22, now his) to eat the Passover before he suffers.
+- He receives the cup and gives it to be divided among them: the division that shares.
+- He takes bread, gives thanks, breaks, and gives: "my body, given for you". It is the act of the feeding (9:16) and of Emmaus (24:30).
+- The cup: "the new covenant in my blood, poured out for you". *This is the end of the pouring thread:* the new wine poured from old skins (5:37), the measure poured over into the bosom (6:38), the blood of the prophets (11:50, test).
+- "The Son of Man goes (πορεύεται)": the road's verb, now said of the passion.
+
+**Faith's course: announced, and (in the unprinted 22:54–62) run.**
+- Satan has asked to sift them. He has prayed that faith not fail; "when you have turned back, set firm your brothers" (the verb of the face set firm, 9:51).
+- Faith offers to go to prison and death. It is told it will deny him three times.
+- *In the test passage:*
+  - he is taken; faith follows far off;
+  - it sits in the midst of the strong man's courtyard (11:21) by a fire not his (12:49);
+  - it says "I do not know him", the master's "I do not know you" (13:25), three times;
+  - the cock crows; the Lord turns and looks; faith remembers his word, goes outside, and weeps.
+- *The printed text needs 22:54–62.* By its words: 22:63 "the men holding him", with no one having taken him. By its mechanics: faith's failure and return are predicted three times (22:32–34) and never shown. *The fifth passage the reading finds needed.*
+
+**The will yielded on the mountain.**
+- He goes out, as his custom was, to the Mount of Olives, to the mountain of prayer.
+- He kneels: faith fell at his knees at the first (5:8).
+- "Not my will but yours": the denial of self (9:23), done by him.
+- He rises from prayer. The disciples sleep from sorrow, as they slept on the mountain of glory (9:32). "Rise and pray."
+- Judas draws near with a kiss: the kiss the host did not give (7:45), the woman gave (7:38), the father gave (15:20, test), turned to handing over.
+- (In the test passages: the ear cut off and touched and healed; "your hour, and the authority of darkness".)
+
+**Covered, and seated at the right hand.**
+- Those holding him — "held fast" (12:50), done outwardly — mock, beat, and *cover* him. The veil of 9:45 and 12:2 is put over the face that changed in prayer.
+- They ask "who is it?" of the covered one, as Simon thought a prophet would know who touches him (7:39).
+- When day comes, the heads of the church ask: "Are you the Anointed One?"
+- He answers: "From now on the Son of Man will be seated at the right hand of the power of God." Then: "You say that I am."
+- *The printed text names the end of the ascent at the lowest point of the descent, and names it "from now on".*
+
+### Threads, carried forward and added
+
+- the unleavened (12:1 / 22:1);
+- the Passover;
+- taking away (ἀναιρέω, → 23:32);
+- one of the twelve;
+- handing over (9:44 → 22:4, 22:21–22, 22:48 → 24:7, 24:20);
+- joy of the takers (→ 23:8);
+- the must of the sacrifice;
+- faith and works sent to prepare;
+- the man carrying water;
+- the master of the house who opens;
+- the guest room (9:12; 19:7 / 22:11);
+- the upper room;
+- the hour;
+- reclining;
+- his longing;
+- the cup received and divided;
+- thanks;
+- "from now on" (22:18 / 22:69);
+- bread taken, broken, given (9:16 / 22:19 → 24:30);
+- the body given (→ 23:52–24:23);
+- remembrance (→ 24:6–8);
+- the new covenant (5:36–39 / 22:20);
+- blood poured out (5:37; 6:38; 11:50 / 22:20);
+- the hand on the table;
+- "the Son of Man goes";
+- (test) the greatest as the one who serves, "in your midst" (→ 24:36);
+- Satan's sifting;
+- faith not failing, turning back, setting firm (9:51 / 22:32);
+- "I am ready to go";
+- three denials;
+- (test) the swords;
+- the mountain of prayer by custom;
+- temptation (11:4 / 22:40, 22:46);
+- the stone's throw (→ 24:2);
+- kneeling (5:8 / 22:41);
+- "not my will" (→ 23:25);
+- (test) the agony and the blood going down;
+- rising from prayer; "rise and pray";
+- sleep from sorrow (9:32 / 22:45);
+- Judas drawing near;
+- the kiss;
+- (test) the ear;
+- (test) darkness (→ 23:44);
+- (test) faith's denial in the courtyard and its return by remembering;
+- held fast (12:50 / 22:63);
+- mocked and beaten;
+- covered (the veil);
+- "who is it?";
+- day after the night (6:13 / 22:66);
+- the three named in 9:22;
+- the Anointed One;
+- the right hand of the power of God (20:42 / 22:69);
+- the Son of God (4:41; 8:28; 20:36 / 22:70);
+- "I am" (→ 24:39);
+- heard from his mouth.
