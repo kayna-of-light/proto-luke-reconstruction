@@ -3,7 +3,7 @@ Lukan parables, by attestation class. Implements the protocol fixed on 2026-10-1
 
 Inputs (not committed; public domain), under AUDIT_SRC:
   kjv/kjv.json                     KJV (thiagobodruk/bible en_kjv.json)
-  swedenborg/arcanacoelestiah*.txt Arcana Coelestia, OCR text layers (Internet Archive, 1870 and 1915 eds.)
+  swedenborg/arcanacoelestiah*.txt Arcana Coelestia, OCR text layers (Internet Archive: 1870 American ed.; Potts Standard Ed., printings 1915–1941)
   swedenborg/apocalypseexplained0[1-6]swed.txt  Apocalypse Explained (1890 ed.)
 Output: docs/research/q8/q8_results.json (+ q8_sections.json: the citing sections found, for checking).
 
