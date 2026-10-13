@@ -73,13 +73,16 @@ ENTRIES = [
    wording=('Marcionite reading adopted (retroversion): "neither spin nor weave" for NA27 "how they grow: they neither toil nor spin". Tertullian\'s "non texunt nec nent" (weave, spin) cannot render NA27\'s "toil… spin". The Greek printed is that of codex D, which has the same two verbs (NA27 apparatus: οὔτε νήθει οὔτε ὑφαίνει D sys.c (⸉ a; McionT) Cl). '
             'Roth rates the verbs very likely and their order uncertain; Tertullian\'s order (weave, spin) is that of the Old Latin a. D\'s order is printed.'),
    western='The reading of D, the Old Syriac (sys.c) and Clement of Alexandria.'),
- A('12:28', greek('12:28', text='πόσῳ μᾶλλον ὑμᾶς, ὀλιγόπιστοι.'),
-   'How much more you, you of little faith!',
+ A('12:28', G('12:28'),
+   'But if God so clothes the grass in the field, which is alive today and tomorrow is thrown into the oven, how much more you, you of little faith!',
    'present for 12:28b (Marc. 4.29.2–3); 12:28a absent (Pan. 42.11.6, sch. 31)',
    [E(31, 'οὐκ ἔχει τὸ »ὁ θεὸς ἀμφιέννυσι τὸν χόρτον«.'),
     T('4.29.2', '"Interim cur illos modicae fidei incusat, id est cuius fidei?"')],
-   wording=('Attested omission: 12:28a ("if God so clothes the grass of the field, which is alive today and tomorrow is thrown into the oven") is not printed. Epiphanius states that the text "does not have \'God clothes the grass\'". Tertullian\'s argument requires "of little faith" (12:28b). '
-            'Tertullian does mention grass ("lilia et foenum… vestiuntur ab ipso", 4.29.1), but he joins the lilies and the grass in the same way in his own works (Idol. 12.2; Ux. 1.4.7), and Roth takes the allusion as his. The remaining words "how much more you" are not quoted by either witness and are printed in the NA27 wording.')),
+   wording=('NA27 (checked on the page image, p. 202). Attested omission: Epiphanius states that the text "does not have \'God clothes the grass\'" (12:28a). Tertullian\'s argument requires "of little faith" (12:28b). '
+            'Tertullian does mention grass ("lilia et foenum… vestiuntur ab ipso", 4.29.1), but he joins the lilies and the grass in the same way in his own works (Idol. 12.2; Ux. 1.4.7), and Roth takes the allusion as his. '
+            '12:28a is printed against Marcion\'s text, restored by method (METHOD §11): the printed "how much more you (ὑμᾶς)" is an accusative with no verb without it, and it is the one place that names the giver of clothing (12:22 "what you will put on", ἐνδύσησθε; 12:24 "God feeds"; 24:49 "until you are clothed, ἐνδύσησθε, with power from on high"). '
+            'Reading: docs/research/correspondence/second_pass.md §2.'),
+   decision='printed; 12:28a restored by method (correspondential reading), against Marcion\'s text'),
  U('12:29', G('12:29'), 'And do not seek what you are to eat and what you are to drink, and do not be anxious.', 'Inside the attested paragraph 12:22–32.'),
  A('12:30', G('12:30'), 'For all the nations of the world seek these things, and your Father knows that you need them.',
    'present (Marc. 4.29.3; Pan. 42.11.6, sch. 32)',
@@ -185,8 +188,8 @@ PREAMBLE = (
  "God, which \"the Father\" is pleased to give them. Then come the parables of watchfulness: servants waiting for their "
  "master to return from a wedding \"in the evening watch\", the thief, and the steward. He has come to cast fire on the earth "
  "and to bring division, and he calls the crowds hypocrites who read the face of heaven and earth but not the present time. "
- "The five sparrows (12:6), which Epiphanius says the text lacked, and the saying on God clothing the grass (12:28a) are not "
- "printed."
+ "The five sparrows (12:6), which Epiphanius says the text lacked, are not printed. The saying on God clothing the grass "
+ "(12:28a), which Epiphanius also says the text lacked, is printed as restored by method (METHOD §11; see the notes)."
 )
 
 NOTES = [
@@ -212,8 +215,11 @@ NOTES = [
   "Tertullian, Marc. 4.29.1–5 recasts the passage rhetorically, but the lilies \"neither weave nor spin\" (D: \"neither spin "
   "nor weave\"), not \"toil nor spin\" as in canonical Luke, and he quotes \"Seek the kingdom of God\". Epiphanius, sch. 31–34 "
   "states that the text lacked \"God clothes the grass\" (12:28a), quotes 12:30b and 12:31 (\"the kingdom of God\"), and states "
-  "that 12:32 read \"the Father\", not \"your Father\". The text printed therefore goes from Solomon not clothed like the lilies "
-  "to \"How much more you, you of little faith!\" 12:25–26 and 12:29 are not cited and are printed in grey. 12:33–34 (\"sell "
+  "that 12:32 read \"the Father\", not \"your Father\". 12:28a is printed against Marcion's text, as restored by method (METHOD "
+  "§11). Without it the printed \"how much more you (ὑμᾶς)\" is an accusative with no verb; and 12:22 sets two needs, food and "
+  "clothing (\"what you will put on\", ἐνδύσησθε), of which 12:24 names the giver of the first (\"God feeds them\") and only 12:28a "
+  "the giver of the second (\"God clothes\"). The clothing strand ends at 24:49, \"until you are clothed (ἐνδύσησθε) with power from "
+  "on high\". Reading: docs/research/correspondence/second_pass.md §2. 12:25–26 and 12:29 are not cited and are printed in grey. 12:33–34 (\"sell "
   "your possessions\") form a paragraph that no witness cites and are not printed.")),
  dict(term='Watchfulness (12:35–48)', cat='textual', refs=['12:35', '12:36', '12:38', '12:39', '12:40', '12:41', '12:46', '12:47'], text=(
   "Tertullian, Marc. 4.29.6–11 reads the girded loins and burning lamps as the life of faith, asks from whose wedding the "

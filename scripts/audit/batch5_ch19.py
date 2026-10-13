@@ -56,12 +56,13 @@ ENTRIES = [
    'present (Marc. 4.39.9)', [T399]),
  A('21:26', G('21:26'), 'people fainting with fear and with foreboding of what is coming on the world. For the powers of the heavens will be shaken.',
    'present (Marc. 4.39.9)', [T399]),
- A('21:27', G('21:27', [('ἐρχόμενον ἐν νεφέλῃ μετὰ δυνάμεως καὶ δόξης πολλῆς.', 'ἐρχόμενον ἀπὸ τῶν οὐρανῶν μετὰ δυνάμεως πολλῆς.')]),
-   'And then they will see the son of man coming from the heavens with great power.',
+ A('21:27', G('21:27'),
+   'And then they will see the son of man coming in a cloud with power and great glory.',
    'present (Marc. 4.39.10–11)',
    [T('4.39.10', '"Post haec quid dominus? Et tunc videbunt filium hominis venientem de caelis cum plurima virtute."'),
     T('4.39.11', '"Hic erit dies magnus domini et illustris, venientis de caelis filii hominis, secundum Danielem: Ecce cum caeli nubibus tanquam filius hominis adveniens…"')],
-   wording=('Marcionite reading adopted (retroversion): "coming from the heavens with great power" for NA27 "coming in a cloud with power and great glory". Tertullian quotes the verse as the Lord\'s words ("Post haec quid dominus?", 4.39.10) and repeats "coming from the heavens" (4.39.11); Roth: "from the heavens" very likely, "with power… great" secure, "and glory likely not present". '
+   wording=('NA27 "coming in a cloud with power and great glory" printed by method (METHOD §11) against the attested Marcionite reading "coming from the heavens with great power" (a retroversion). '
+            'The correspondential reading marks the attested wording as a strain: it drops the glory that 9:26 announces for the coming of the son of man and 24:26 names as where he enters, and the cloud from which the voice said "hear him" (9:34–35); NA27 continues the line (docs/research/correspondence/word_by_word.md, chapter 19; second_pass.md §3). The evidence for the Marcionite reading: Tertullian quotes the verse as the Lord\'s words ("Post haec quid dominus?", 4.39.10) and repeats "coming from the heavens" (4.39.11); Roth: "from the heavens" very likely, "with power… great" secure, "and glory likely not present". '
             'His Latin "cum plurima virtute" cannot render NA27\'s two nouns. The cloud he brings in himself, from Daniel 7:13, as a separate text. NA27 apparatus: καὶ δυνάμει πολλῇ καὶ δόξῃ D e (sys.c).')),
  A('21:28', G('21:28'), 'Now when these things begin to take place, straighten up and raise your heads, because your redemption is drawing near."',
    'present (Marc. 4.39.10, 12)', [T('4.39.10', '"Cum autem haec fient, erigetis vos, et levabitis capita, quoniam appropinquavit redemptio vestra".')],
@@ -108,7 +109,8 @@ PREAMBLE = (
  "name, and speaks of wars, earthquakes, famines, terrors and signs from heaven, and of persecution before kings and "
  "governors, \"for my name's sake\". He tells them not to prepare their defence, for he will give them wisdom, and that by "
  "endurance they will gain their lives. He speaks of Jerusalem surrounded by armies, of signs in sun, moon and stars, and of "
- "the son of man \"coming from the heavens with great power\" (Tertullian, Marc. 4.39.10). When these things begin, they are "
+ "the son of man coming \"in a cloud with power and great glory\" (NA27; Tertullian's \"from the heavens with great power\", "
+ "Marc. 4.39.10, is recorded in the notes). When these things begin, they are "
  "to lift up their heads, for their redemption is near; the fig tree shows that the kingdom of God is near. He warns them "
  "against dissipation and the cares of life. By day he teaches in the temple and by night he lodges on the Mount of Olives. "
  "Two sayings are absent, by Epiphanius' statement: \"not a hair of your head will perish\" (21:18) and the flight from Judea "
@@ -138,8 +140,11 @@ NOTES = [
  dict(term='Jerusalem and the end (21:20–28)', cat='textual', refs=['21:20', '21:23', '21:25', '21:26', '21:27', '21:28'], text=(
   "Tertullian (4.39.9–12): when Jerusalem begins to be surrounded by armies (\"vallari exercitibus Hierusalem\"), the signs of the end follow, in sun, moon and "
   "stars, nations in anguish \"as at the roar of the sea\", the powers of heaven shaken. \"And then they will see the son of man "
-  "coming from the heavens with great power\". Then come \"lift up your heads, for your redemption has drawn near\". The "
-  "reading \"from the heavens with great power\" is printed for canonical Luke's \"in a cloud with power and great glory\". "
+  "coming from the heavens with great power\". Then come \"lift up your heads, for your redemption has drawn near\". "
+  "Tertullian's wording \"from the heavens with great power\" is attested (Roth: very likely), but NA27's \"in a cloud with "
+  "power and great glory\" is printed, by method (METHOD §11): the correspondential reading marks the attested wording as a "
+  "strain that drops the glory announced at 9:26 and the cloud of the mountain (9:34–35). On the premise of a correspondential "
+  "original it belongs to the transmission of Marcion's copy. "
   "Epiphanius states that the text lacked the flight of those in Judea to the mountains and \"until all that is written is "
   "fulfilled\" (21:21–22; sch. 59). No witness to this text has the \"abomination of desolation\" of Mark 13:14 and Matthew 24:15. "
   "21:23–24 are not cited and are printed in grey.")),
@@ -148,10 +153,11 @@ NOTES = [
   "the kingdom. \"Heaven and earth will pass away\" and the Lord's word remains (he cites Isa 40:8). The disciples are warned "
   "against heaviness of heart \"with dissipation, drunkenness and worldly cares\", lest the day come on them \"like a trap\". "
   "Jesus taught by day in the temple and withdrew at night to the Mount of Olives. 21:36 is not cited and is printed in grey.")),
- dict(term='The coming from the heavens', cat='theological', refs=['21:27', '21:28', '21:31'], text=(
-  "Interpretation. In this text the son of man comes \"from the heavens with great power\", without the cloud and the "
-  "\"glory\" of canonical Luke. The redemption drawing near is set beside \"the kingdom of God is near\" (21:31), and the "
-  "warning is against the heaviness of a heart taken up with drink and worldly cares. Tertullian's argument is that the "
-  "terrors and the promises belong to one son of man and cannot be separated (4.39.13–15). The text keeps the coming and the "
-  "call to watchfulness in one discourse.")),
+ dict(term='The coming in a cloud', cat='theological', refs=['21:27', '21:28', '21:31'], text=(
+  "Interpretation. The son of man comes \"in a cloud with power and great glory\": the glory announced at 9:26 and seen on the "
+  "mountain (9:32), and the cloud from which the voice said \"hear him\" (9:34–35). In Swedenborg's exposition of the same "
+  "words (Arcana Coelestia 4060, on Matt 24:30) the cloud is the sense of the letter and the glory the inner sense: the coming "
+  "is the Lord revealed in the Word. The redemption drawing near is set beside \"the kingdom of God is near\" (21:31), and the "
+  "warning is against the heaviness of a heart taken up with drink and worldly cares. Marcion's copy, as Tertullian read it, "
+  "had the coming \"from the heavens with great power\", without the cloud and the glory.")),
 ]

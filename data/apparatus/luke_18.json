@@ -263,7 +263,7 @@
           "evidence": "[Megethius] …οὐδεὶς ἀγαθὸς εἰ μὴ εἷς, ὁ πατήρ."
         }
       ],
-      "wording": "Marcionite reading adopted: \"God the Father\" (ὁ θεὸς ὁ πατήρ) for \"God\". Epiphanius says that Marcion \"added 'the Father'\"; the Dialogue and Origen's report of the heretics' use also have \"the Father\"; Roth: very likely. Tertullian has only \"God\", and Roth allows that the copies differed. Epiphanius' \"do not call me good\" and \"one is good\" are rated probable only; NA27 is printed for the rest.",
+      "wording": "NA27 \"one, God\" printed by method (METHOD §11) against the attested Marcionite reading \"God the Father\" (ὁ θεὸς ὁ πατήρ). Epiphanius says that Marcion \"added 'the Father'\"; the Dialogue and Origen's report of the heretics' use also have \"the Father\"; Roth: very likely. Tertullian has only \"God\", and Roth allows that the copies differed. The correspondential reading marks the addition as a strain: it turns into an outward title, set against \"me\", the relation the text keeps open and gives only by revealing (10:22); NA27 continues the line (the one good, the one thing lacking, \"follow me\", 18:22). On the premise of a correspondential original the addition belongs to the transmission of Marcion's copies, as Tertullian's copy without it suggests (docs/research/correspondence/word_by_word.md, chapter 16; second_pass.md §3). Epiphanius' \"do not call me good\" and \"one is good\" are rated probable only; NA27 is printed for the rest.",
       "decision": "printed",
       "reconstruction": "chapter 16, verse 19"
     },
@@ -341,7 +341,7 @@
       "reason": "The camel and the needle, and the reward of those who left everything: a separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 18:23 (4.36.5) to 18:35 (4.36.8–9). The Dialogue of Adamantius refers to 18:24–30, but not from Marcion's text (Harnack, Roth)."
     },
     {
-      "ref": "18:31–33",
+      "ref": "18:31",
       "class": "A−",
       "roth": "absent",
       "witnesses": [
@@ -350,16 +350,50 @@
           "evidence": "παρέκοψε τὸ »παραλαβὼν τοὺς δώδεκα ἔλεγεν· ἰδού, ἀναβαίνομεν εἰς Ἱεροσόλυμα καὶ τελεσθήσεται πάντα τὰ γεγραμμένα ἐν τοῖς προφήταις περὶ τοῦ υἱοῦ τοῦ ἀνθρώπου. παραδοθήσεται γὰρ καὶ ἀποκτανθήσεται καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστήσεται«· ὅλα ταῦτα παρέκοψε."
         }
       ],
-      "decision": "not printed",
-      "reason": "Epiphanius states that the whole third prediction of the passion, with \"everything written by the prophets about the son of man will be fulfilled\", was not in the text. Tertullian passes from 18:23 to 18:35; Roth counts his silence as confirmation (tacitus). The prediction \"by the prophets\" would have been Tertullian's proof that Christ fulfilled the Creator's prophecies."
+      "wording": "NA27 (checked on the page image, p. 221).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class A−: Epiphanius (sch. 52) states that the whole third prediction of the passion, with \"everything written by the prophets about the son of man will be fulfilled\", was not in the text. Tertullian passes from 18:23 to 18:35; Roth counts his silence as confirmation (tacitus). Restored by method (METHOD §11): by its words, the restored 24:44 says \"these are my words that I spoke to you while I was still with you, that everything written (πάντα τὰ γεγραμμένα) about me… must be fulfilled\", and no printed saying to the disciples contains it except 18:31, \"everything written (πάντα τὰ γεγραμμένα) through the prophets about the son of man will be accomplished\", said to the twelve. By its mechanics: the restored 24:45 \"he opened their mind to understand (συνιέναι)\" lifts the veil that 18:34 lays (\"they understood (συνῆκαν) none of these things… this saying was hidden from them\"). Reading: docs/research/correspondence/second_pass.md §4. Printed against Marcion's text: the witness states that the passage was not in it.",
+      "reconstruction": "chapter 16, verse 24"
+    },
+    {
+      "ref": "18:32",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 52",
+          "evidence": "παρέκοψε τὸ »παραλαβὼν τοὺς δώδεκα ἔλεγεν· ἰδού, ἀναβαίνομεν εἰς Ἱεροσόλυμα καὶ τελεσθήσεται πάντα τὰ γεγραμμένα ἐν τοῖς προφήταις περὶ τοῦ υἱοῦ τοῦ ἀνθρώπου. παραδοθήσεται γὰρ καὶ ἀποκτανθήσεται καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστήσεται«· ὅλα ταῦτα παρέκοψε."
+        }
+      ],
+      "wording": "NA27 (checked on the page image, p. 221).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class A−: Epiphanius (sch. 52) states that the whole third prediction of the passion, with \"everything written by the prophets about the son of man will be fulfilled\", was not in the text. Tertullian passes from 18:23 to 18:35; Roth counts his silence as confirmation (tacitus). Restored by method (METHOD §11): by its words, the restored 24:44 says \"these are my words that I spoke to you while I was still with you, that everything written (πάντα τὰ γεγραμμένα) about me… must be fulfilled\", and no printed saying to the disciples contains it except 18:31, \"everything written (πάντα τὰ γεγραμμένα) through the prophets about the son of man will be accomplished\", said to the twelve. By its mechanics: the restored 24:45 \"he opened their mind to understand (συνιέναι)\" lifts the veil that 18:34 lays (\"they understood (συνῆκαν) none of these things… this saying was hidden from them\"). Reading: docs/research/correspondence/second_pass.md §4. Printed against Marcion's text: the witness states that the passage was not in it.",
+      "reconstruction": "chapter 16, verse 25"
+    },
+    {
+      "ref": "18:33",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 52",
+          "evidence": "παρέκοψε τὸ »παραλαβὼν τοὺς δώδεκα ἔλεγεν· ἰδού, ἀναβαίνομεν εἰς Ἱεροσόλυμα καὶ τελεσθήσεται πάντα τὰ γεγραμμένα ἐν τοῖς προφήταις περὶ τοῦ υἱοῦ τοῦ ἀνθρώπου. παραδοθήσεται γὰρ καὶ ἀποκτανθήσεται καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστήσεται«· ὅλα ταῦτα παρέκοψε."
+        }
+      ],
+      "wording": "NA27 (checked on the page image, p. 221).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class A−: Epiphanius (sch. 52) states that the whole third prediction of the passion, with \"everything written by the prophets about the son of man will be fulfilled\", was not in the text. Tertullian passes from 18:23 to 18:35; Roth counts his silence as confirmation (tacitus). Restored by method (METHOD §11): by its words, the restored 24:44 says \"these are my words that I spoke to you while I was still with you, that everything written (πάντα τὰ γεγραμμένα) about me… must be fulfilled\", and no printed saying to the disciples contains it except 18:31, \"everything written (πάντα τὰ γεγραμμένα) through the prophets about the son of man will be accomplished\", said to the twelve. By its mechanics: the restored 24:45 \"he opened their mind to understand (συνιέναι)\" lifts the veil that 18:34 lays (\"they understood (συνῆκαν) none of these things… this saying was hidden from them\"). Reading: docs/research/correspondence/second_pass.md §4. Printed against Marcion's text: the witness states that the passage was not in it.",
+      "reconstruction": "chapter 16, verse 26"
     },
     {
       "ref": "18:34",
       "class": "U−",
       "roth": "unattested",
       "witnesses": [],
-      "decision": "not printed",
-      "reason": "\"But they understood none of these things; this saying was hidden from them.\" It refers to the prediction in 18:31–33, which Epiphanius says the text lacked, and closes the same NA27 paragraph."
+      "wording": "NA27 (checked on the page image, p. 221).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U−: \"But they understood none of these things; this saying was hidden from them.\" It refers to the prediction in 18:31–33 and closes the same NA27 paragraph. Restored by method (METHOD §11): by its words, the restored 24:44 says \"these are my words that I spoke to you while I was still with you, that everything written (πάντα τὰ γεγραμμένα) about me… must be fulfilled\", and no printed saying to the disciples contains it except 18:31, \"everything written (πάντα τὰ γεγραμμένα) through the prophets about the son of man will be accomplished\", said to the twelve. By its mechanics: the restored 24:45 \"he opened their mind to understand (συνιέναι)\" lifts the veil that 18:34 lays (\"they understood (συνῆκαν) none of these things… this saying was hidden from them\"). Reading: docs/research/correspondence/second_pass.md §4.",
+      "reconstruction": "chapter 16, verse 27"
     },
     {
       "ref": "18:35",
@@ -377,7 +411,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 16, verse 24"
+      "reconstruction": "chapter 16, verse 28"
     },
     {
       "ref": "18:36",
@@ -391,7 +425,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 16, verse 25"
+      "reconstruction": "chapter 16, verse 29"
     },
     {
       "ref": "18:37",
@@ -409,7 +443,7 @@
       ],
       "wording": "NA27. The Dialogue has no \"of Nazareth\"; Roth: \"may have been missing\". Not adopted (one witness).",
       "decision": "printed",
-      "reconstruction": "chapter 16, verse 26"
+      "reconstruction": "chapter 16, verse 30"
     },
     {
       "ref": "18:38",
@@ -427,7 +461,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 16, verse 27"
+      "reconstruction": "chapter 16, verse 31"
     },
     {
       "ref": "18:39",
@@ -441,7 +475,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 16, verse 28"
+      "reconstruction": "chapter 16, verse 32"
     },
     {
       "ref": "18:40",
@@ -455,7 +489,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 16, verse 29"
+      "reconstruction": "chapter 16, verse 33"
     },
     {
       "ref": "18:41",
@@ -469,7 +503,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 16, verse 30"
+      "reconstruction": "chapter 16, verse 34"
     },
     {
       "ref": "18:42",
@@ -487,7 +521,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 16, verse 31"
+      "reconstruction": "chapter 16, verse 35"
     },
     {
       "ref": "18:43",
@@ -501,7 +535,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 16, verse 32"
+      "reconstruction": "chapter 16, verse 36"
     }
   ]
 }

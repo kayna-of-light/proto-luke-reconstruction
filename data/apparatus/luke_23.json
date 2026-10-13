@@ -163,12 +163,44 @@
       "reconstruction": "chapter 21, verse 12"
     },
     {
-      "ref": "23:13–16",
+      "ref": "23:13",
       "class": "U?",
       "roth": "unattested",
       "witnesses": [],
-      "decision": "not printed",
-      "reason": "Pilate tells the chief priests and rulers that neither he nor Herod found him guilty: a paragraph with no attested verse (METHOD §4.3)."
+      "wording": "NA27 (checked on the page image, p. 238).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: Pilate tells the chief priests and rulers that neither he nor Herod found him guilty: a paragraph with no attested verse (METHOD §4.3). Restored by method (METHOD §11): by its words, three printed verses point to it: 23:18 \"release (ἀπόλυσον) to us Barabbas\" answers an offer of release that only 23:16 makes; 23:20 \"again (πάλιν), wishing to release Jesus\" has no earlier wish without it; the attested 23:22 \"a third time\" repeats 23:14–16 almost word for word (\"I found nothing deserving death in him; having disciplined him, I will release him\"), and the second finding, between 23:4 and 23:22, is 23:14–15. By its mechanics: release offered three times answers the denial spoken three times (22:34; 22:57–60). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:13–16; second_pass.md §2.",
+      "reconstruction": "chapter 21, verse 13"
+    },
+    {
+      "ref": "23:14",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 238).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: Pilate tells the chief priests and rulers that neither he nor Herod found him guilty: a paragraph with no attested verse (METHOD §4.3). Restored by method (METHOD §11): by its words, three printed verses point to it: 23:18 \"release (ἀπόλυσον) to us Barabbas\" answers an offer of release that only 23:16 makes; 23:20 \"again (πάλιν), wishing to release Jesus\" has no earlier wish without it; the attested 23:22 \"a third time\" repeats 23:14–16 almost word for word (\"I found nothing deserving death in him; having disciplined him, I will release him\"), and the second finding, between 23:4 and 23:22, is 23:14–15. By its mechanics: release offered three times answers the denial spoken three times (22:34; 22:57–60). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:13–16; second_pass.md §2.",
+      "reconstruction": "chapter 21, verse 14"
+    },
+    {
+      "ref": "23:15",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 238).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: Pilate tells the chief priests and rulers that neither he nor Herod found him guilty: a paragraph with no attested verse (METHOD §4.3). Restored by method (METHOD §11): by its words, three printed verses point to it: 23:18 \"release (ἀπόλυσον) to us Barabbas\" answers an offer of release that only 23:16 makes; 23:20 \"again (πάλιν), wishing to release Jesus\" has no earlier wish without it; the attested 23:22 \"a third time\" repeats 23:14–16 almost word for word (\"I found nothing deserving death in him; having disciplined him, I will release him\"), and the second finding, between 23:4 and 23:22, is 23:14–15. By its mechanics: release offered three times answers the denial spoken three times (22:34; 22:57–60). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:13–16; second_pass.md §2.",
+      "reconstruction": "chapter 21, verse 15"
+    },
+    {
+      "ref": "23:16",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 238).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: Pilate tells the chief priests and rulers that neither he nor Herod found him guilty: a paragraph with no attested verse (METHOD §4.3). Restored by method (METHOD §11): by its words, three printed verses point to it: 23:18 \"release (ἀπόλυσον) to us Barabbas\" answers an offer of release that only 23:16 makes; 23:20 \"again (πάλιν), wishing to release Jesus\" has no earlier wish without it; the attested 23:22 \"a third time\" repeats 23:14–16 almost word for word (\"I found nothing deserving death in him; having disciplined him, I will release him\"), and the second finding, between 23:4 and 23:22, is 23:14–15. By its mechanics: release offered three times answers the denial spoken three times (22:34; 22:57–60). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:13–16; second_pass.md §2.",
+      "reconstruction": "chapter 21, verse 16"
     },
     {
       "ref": "23:18",
@@ -182,7 +214,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 13"
+      "reconstruction": "chapter 21, verse 17"
     },
     {
       "ref": "23:19",
@@ -196,7 +228,7 @@
       ],
       "wording": "NA27. Tertullian's \"most guilty in life\" and \"as a murderer\" refer to the crimes (Roth: possible).",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 14"
+      "reconstruction": "chapter 21, verse 18"
     },
     {
       "ref": "23:20",
@@ -206,7 +238,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested paragraph 23:18–23. NA27 αὐτοῖς (SBLGNT without it).",
-      "reconstruction": "chapter 21, verse 15"
+      "reconstruction": "chapter 21, verse 19"
     },
     {
       "ref": "23:21",
@@ -216,7 +248,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested paragraph 23:18–23.",
-      "reconstruction": "chapter 21, verse 16"
+      "reconstruction": "chapter 21, verse 20"
     },
     {
       "ref": "23:22",
@@ -230,7 +262,7 @@
       ],
       "wording": "NA27. Tertullian's \"most just\" refers to Pilate's finding (Roth); no insight into the wording.",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 17"
+      "reconstruction": "chapter 21, verse 21"
     },
     {
       "ref": "23:23",
@@ -244,7 +276,7 @@
       ],
       "wording": "NA27. Tertullian's \"his death is demanded\" refers to the cries (Roth); no insight into the wording.",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 18"
+      "reconstruction": "chapter 21, verse 22"
     },
     {
       "ref": "23:24",
@@ -254,7 +286,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested paragraph 23:24–25.",
-      "reconstruction": "chapter 21, verse 19"
+      "reconstruction": "chapter 21, verse 23"
     },
     {
       "ref": "23:25",
@@ -268,7 +300,7 @@
       ],
       "wording": "NA27. Tertullian attests the release (\"donatur\"; Roth: ἀπέλυσεν).",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 20"
+      "reconstruction": "chapter 21, verse 24"
     },
     {
       "ref": "23:26",
@@ -298,7 +330,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 21"
+      "reconstruction": "chapter 21, verse 25"
     },
     {
       "ref": "23:33",
@@ -316,7 +348,7 @@
       ],
       "wording": "NA27. Epiphanius' wording follows Matt 27:33 and runs 23:33, 34b and 45 together; Roth: a summary, possible only.",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 22"
+      "reconstruction": "chapter 21, verse 26"
     },
     {
       "ref": "23:34",
@@ -344,12 +376,44 @@
       "reason": "The rulers and soldiers mock him; the inscription. A paragraph with no attested verse. Ps 22:7, 16 in Tertullian 4.42.4 is not clearly a reference to it (Roth)."
     },
     {
-      "ref": "23:39–42",
+      "ref": "23:39",
       "class": "U?",
       "roth": "unattested",
       "witnesses": [],
-      "decision": "not printed",
-      "reason": "The two criminals; \"Jesus, remember me when you come into your kingdom\". Unattested; the answer (23:43) is absent, and the paragraph has no attested verse."
+      "wording": "NA27 (checked on the page image, p. 240).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: The two criminals; \"Jesus, remember me when you come into your kingdom\". A paragraph with no attested verse; its answer (23:43) is attested absent. Restored by method (METHOD §11): by its mechanics, the printed text states the law of the two, \"one taken along, the other left\" (17:34–35), and brings two evil-doers to the cross, \"one on the right and one on the left\" (23:32–33), without bringing them back. Here one demands that he save himself, and the other fears God, accepts his measure, asks to be remembered, and is taken \"today, with me\". It completes three strands of the final text: faith's \"with you… to death\" (22:33) denied (22:54–62) and here kept by the evil-doer; remembering (22:61 → 23:42 → 24:6–8); and \"today\" (4:21; 19:9). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:39–43; second_pass.md §2.",
+      "reconstruction": "chapter 21, verse 27"
+    },
+    {
+      "ref": "23:40",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 240).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: The two criminals; \"Jesus, remember me when you come into your kingdom\". A paragraph with no attested verse; its answer (23:43) is attested absent. Restored by method (METHOD §11): by its mechanics, the printed text states the law of the two, \"one taken along, the other left\" (17:34–35), and brings two evil-doers to the cross, \"one on the right and one on the left\" (23:32–33), without bringing them back. Here one demands that he save himself, and the other fears God, accepts his measure, asks to be remembered, and is taken \"today, with me\". It completes three strands of the final text: faith's \"with you… to death\" (22:33) denied (22:54–62) and here kept by the evil-doer; remembering (22:61 → 23:42 → 24:6–8); and \"today\" (4:21; 19:9). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:39–43; second_pass.md §2.",
+      "reconstruction": "chapter 21, verse 28"
+    },
+    {
+      "ref": "23:41",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 240).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: The two criminals; \"Jesus, remember me when you come into your kingdom\". A paragraph with no attested verse; its answer (23:43) is attested absent. Restored by method (METHOD §11): by its mechanics, the printed text states the law of the two, \"one taken along, the other left\" (17:34–35), and brings two evil-doers to the cross, \"one on the right and one on the left\" (23:32–33), without bringing them back. Here one demands that he save himself, and the other fears God, accepts his measure, asks to be remembered, and is taken \"today, with me\". It completes three strands of the final text: faith's \"with you… to death\" (22:33) denied (22:54–62) and here kept by the evil-doer; remembering (22:61 → 23:42 → 24:6–8); and \"today\" (4:21; 19:9). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:39–43; second_pass.md §2.",
+      "reconstruction": "chapter 21, verse 29"
+    },
+    {
+      "ref": "23:42",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 240). εἰς τὴν βασιλείαν (SBLGNT ἐν τῇ βασιλείᾳ).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: The two criminals; \"Jesus, remember me when you come into your kingdom\". A paragraph with no attested verse; its answer (23:43) is attested absent. Restored by method (METHOD §11): by its mechanics, the printed text states the law of the two, \"one taken along, the other left\" (17:34–35), and brings two evil-doers to the cross, \"one on the right and one on the left\" (23:32–33), without bringing them back. Here one demands that he save himself, and the other fears God, accepts his measure, asks to be remembered, and is taken \"today, with me\". It completes three strands of the final text: faith's \"with you… to death\" (22:33) denied (22:54–62) and here kept by the evil-doer; remembering (22:61 → 23:42 → 24:6–8); and \"today\" (4:21; 19:9). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:39–43; second_pass.md §2.",
+      "reconstruction": "chapter 21, verse 30"
     },
     {
       "ref": "23:43",
@@ -361,8 +425,10 @@
           "evidence": "παρέκοψε τὸ »σήμερον μετ' ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ«."
         }
       ],
-      "decision": "not printed",
-      "reason": "Epiphanius states that the text lacked \"Today you will be with me in paradise\". Tertullian passes from 23:34 to 23:44 (4.42.4–5)."
+      "wording": "NA27 (checked on the page image, p. 240).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class A−: Epiphanius states that the text lacked \"Today you will be with me in paradise\" (sch. 72). Tertullian passes from 23:34 to 23:44 (4.42.4–5). Restored by method (METHOD §11): by its mechanics, the printed text states the law of the two, \"one taken along, the other left\" (17:34–35), and brings two evil-doers to the cross, \"one on the right and one on the left\" (23:32–33), without bringing them back. Here one demands that he save himself, and the other fears God, accepts his measure, asks to be remembered, and is taken \"today, with me\". It completes three strands of the final text: faith's \"with you… to death\" (22:33) denied (22:54–62) and here kept by the evil-doer; remembering (22:61 → 23:42 → 24:6–8); and \"today\" (4:21; 19:9). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:39–43; second_pass.md §2. Printed against Marcion's text: the witness states that the verse was not in it.",
+      "reconstruction": "chapter 21, verse 31"
     },
     {
       "ref": "23:44",
@@ -376,7 +442,7 @@
       ],
       "wording": "NA27. Tertullian's gloss on Amos 8:9 attests the sixth hour and the darkness over the land (Roth: very likely).",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 23"
+      "reconstruction": "chapter 21, verse 32"
     },
     {
       "ref": "23:45",
@@ -394,7 +460,7 @@
       ],
       "wording": "NA27. For \"the sun's light failed\" (τοῦ ἡλίου ἐκλιπόντος) Epiphanius has \"and the sun was darkened\" (καὶ ἐσκοτίσθη ὁ ἥλιος), the reading of A C3 W Θ Ψ f1.13 𝔐 lat sy; NA27 cites McionEvid. Roth: probable only, because the scholion is a summary in Matthew's wording; Ephrem and Eznik, who speak of the sun darkened in Marcionite contexts, were not checked here. Not adopted. Tertullian attests the curtain (Roth: secure).",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 24"
+      "reconstruction": "chapter 21, verse 33"
     },
     {
       "ref": "23:46",
@@ -412,7 +478,7 @@
       ],
       "wording": "NA27. Both witnesses attest the loud cry and \"he breathed his last\"; Tertullian's \"having said this\" renders τοῦτο δὲ εἰπών. Neither quotes the words of the cry. Tertullian's \"to the Father… to fulfil the prophets\" (Ps 31:5) points to them (Roth: possible). Adamantius quotes the verse (198,8–12), but as the orthodox speaker; it is not counted.",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 25"
+      "reconstruction": "chapter 21, verse 34"
     },
     {
       "ref": "23:47–48",
@@ -446,7 +512,7 @@
       ],
       "wording": "NA27 (with NA27's bracketed καί). Epiphanius quotes \"and behold, a man named Joseph\"; the rest is unattested.",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 26"
+      "reconstruction": "chapter 21, verse 35"
     },
     {
       "ref": "23:51",
@@ -460,7 +526,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 27"
+      "reconstruction": "chapter 21, verse 36"
     },
     {
       "ref": "23:52",
@@ -474,7 +540,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 28"
+      "reconstruction": "chapter 21, verse 37"
     },
     {
       "ref": "23:53",
@@ -492,7 +558,7 @@
       ],
       "wording": "NA27. Both witnesses attest the taking down, the linen and the tomb; Tertullian's \"new\" may come from \"where no one had been laid\" or from Matt 27:60 (Roth).",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 29"
+      "reconstruction": "chapter 21, verse 38"
     },
     {
       "ref": "23:54",
@@ -502,7 +568,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested paragraph 23:50–54.",
-      "reconstruction": "chapter 21, verse 30"
+      "reconstruction": "chapter 21, verse 39"
     },
     {
       "ref": "23:55",
@@ -516,7 +582,7 @@
       ],
       "wording": "NA27. Tertullian attests the women (Roth: very likely).",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 31"
+      "reconstruction": "chapter 21, verse 40"
     },
     {
       "ref": "23:56",
@@ -530,7 +596,7 @@
       ],
       "wording": "NA27. Epiphanius has \"according to the law\" for \"according to the commandment\"; Roth: \"the law\" possible only. Not adopted. Tertullian's \"with the preparation of spices\" (4.43.1) refers to 23:56a or 24:1.",
       "decision": "printed",
-      "reconstruction": "chapter 21, verse 32"
+      "reconstruction": "chapter 21, verse 41"
     }
   ]
 }

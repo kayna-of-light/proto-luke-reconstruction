@@ -45,14 +45,14 @@ ENTRIES = [
  U('10:20', G('10:20'), 'Nevertheless, do not rejoice in this, that the spirits submit to you; rejoice rather that your names are written in the heavens."',
    'Inside the attested paragraph 10:17–20.'),
  A('10:21', G('10:21', [('Ἐξομολογοῦμαί σοι, πάτερ κύριε τοῦ οὐρανοῦ καὶ τῆς γῆς, ὅτι ἀπέκρυψας ταῦτα ἀπὸ σοφῶν καὶ συνετῶν, καὶ ἀπεκάλυψας αὐτὰ νηπίοις',
-                         'Εὐχαριστῶ σοι, κύριε τοῦ οὐρανοῦ, ὅτι ἅτινα ἦν κρυπτὰ σοφοῖς καὶ συνετοῖς ἀπεκάλυψας νηπίοις')]),
-   'In that same hour he rejoiced in the holy spirit and said, "I thank you, Lord of heaven, that what was hidden from the wise and understanding you have revealed to little children. Yes, Father, for so it was pleasing in your sight.',
+                         'Εὐχαριστῶ σοι, κύριε τοῦ οὐρανοῦ καὶ τῆς γῆς, ὅτι ἅτινα ἦν κρυπτὰ σοφοῖς καὶ συνετοῖς ἀπεκάλυψας νηπίοις')]),
+   'In that same hour he rejoiced in the holy spirit and said, "I thank you, Lord of heaven and of earth, that what was hidden from the wise and understanding you have revealed to little children. Yes, Father, for so it was pleasing in your sight.',
    'present (Marc. 4.25.1, 3, 6; Pan. 42.11.6, sch. 22)',
    [E(22, '»εὐχαριστῶ σοι, κύριε τοῦ οὐρανοῦ«. οὐκ εἶχεν δὲ »καὶ τῆς γῆς«, οὔτε »πάτερ« εἶχεν. ἐλέγχεται δέ· κάτω γὰρ εἶχεν »ναί, ὁ πατήρ«.'),
     T('4.25.1', '"Gratias enim, inquit, ago, et confiteor, domine caeli, quod ea quae erant abscondita sapientibus et prudentibus, revelaveris parvulis."'),
     T('4.25.6', '"Sed in destructionem, inquis, uti traduceret eas" — the Marcionite reading of the verse, which requires that the God who reveals is not said to have hidden.')],
    wording=('Marcionite readings adopted. (1) εὐχαριστῶ σοι for ἐξομολογοῦμαί σοι: both witnesses (gratias ago; Roth: very likely). Tertullian\'s added "et confiteor" is in his text only and is not adopted (Roth: probable). '
-            '(2) No vocative πάτερ and no καὶ τῆς γῆς: Epiphanius states both absences, and Tertullian\'s quotation lacks both (METHOD §5.3). NA27 apparatus for the omission of καὶ τῆς γῆς: 𝔓45; McionT,E. '
+            '(2) No vocative πάτερ: Epiphanius states the absence, and Tertullian\'s quotation lacks it (METHOD §5.3). καὶ τῆς γῆς: Epiphanius states that it was absent too, and Tertullian\'s quotation lacks it (NA27 apparatus: om. 𝔓45; McionT,E); the words are printed by method (METHOD §11): the correspondential reading marks the omission as a strain that separates the Lord from the earth where the revealing happens, and NA27 continues the line (docs/research/correspondence/word_by_word.md, chapter 8; second_pass.md §3). '
             '(3) "What was hidden from the wise and understanding you have revealed to little children": Tertullian\'s Latin has one verb of hiding, impersonal (ea quae erant abscondita), and cannot render NA27\'s "you hid these things… and revealed them". His reply in 4.25.6 answers a Marcionite reading that depends on God not being the subject of the hiding. The Greek printed is Roth\'s retroversion (after Harnack), rated very likely; the exact Greek words are not attested. '
             '(4) "Yes, Father" is attested by Epiphanius; the closing clause is not cited and is printed in the NA27 wording. NA27\'s opening, with [ἐν] τῷ πνεύματι (SBLGNT without ἐν), is printed.')),
  A('10:22', G('10:22', [('τίς ἐστιν ὁ υἱὸς εἰ μὴ ὁ πατήρ, καὶ τίς ἐστιν ὁ πατὴρ εἰ μὴ ὁ υἱὸς',
@@ -109,7 +109,7 @@ PREAMBLE = (
  "The mission of the seventy and what follows from it. Jesus sends out seventy others, two by two, with the instructions "
  "Tertullian reads as the Creator's own: no sandals, no greetings on the road, peace to the house, \"the worker deserves his "
  "wages\", and the dust wiped off against a town that refuses them, \"yet know this: the kingdom of God has come near\". "
- "Whoever rejects them rejects him; he gives them authority over snakes and scorpions. He then thanks the \"Lord of heaven\" "
+ "Whoever rejects them rejects him; he gives them authority over snakes and scorpions. He then thanks the \"Lord of heaven and of earth\" "
  "that what was hidden from the wise has been revealed to little children, and says that no one knows who the Father is "
  "except the son. To a lawyer who asks what he must do to inherit life (\"life\", not \"eternal life\", as Tertullian points "
  "out) he answers with the command to love God, and \"do this and you will live\". Canonical Luke's judgement on Sodom and the "
@@ -136,14 +136,20 @@ NOTES = [
   "wickedness and their prince as the serpent and dragon of Ps 91:13 and Isa 27:1 (4.24.10). \"I saw Satan fall like "
   "lightning from heaven\" (10:18), which would have suited that reading, is not cited and is not printed. 10:17 and 10:20 are "
   "printed in grey. \"Seventy\" at 10:17 follows 10:1.")),
- dict(term='"I thank you, Lord of heaven" (10:21)', cat='textual', refs=['10:21'], text=(
+ dict(term='"I thank you, Lord of heaven and of earth" (10:21)', cat='textual', refs=['10:21'], text=(
   "Both witnesses quote the thanksgiving. Epiphanius, sch. 22: \"I thank you, Lord of heaven\"; the text \"did not have 'and of "
   "the earth', nor did it have 'Father'\", but it did have \"Yes, Father\" further on. Tertullian, Marc. 4.25.1: \"Gratias ago, et "
   "confiteor, domine caeli, quod ea quae erant abscondita sapientibus et prudentibus, revelaveris parvulis.\" The address "
   "without \"and of the earth\" is also the reading of 𝔓45. In Tertullian the hiding has no stated subject: what was hidden, "
   "God has revealed. His later reply that the Marcionite God, revealing what the Creator had hidden, would have been doing the "
   "Creator's work (4.25.6) presupposes that wording. The Greek printed is Roth's retroversion; the sense is attested, the "
-  "exact words are not. Tertullian's \"et confiteor\" (= canonical ἐξομολογοῦμαι) is in his text only and is not printed.")),
+  "exact words are not. Tertullian's \"et confiteor\" (= canonical ἐξομολογοῦμαι) is in his text only and is not printed. "
+  "\"And of the earth\" is printed against both witnesses, by method (METHOD §11). The correspondential reading marks its "
+  "omission as the one strain in the verse: in this text the earth is where the son of man has authority (5:24), where the seed "
+  "is received (8:8) and where, in this verse, the revealing happens, to little children; \"Lord of heaven\" alone separates "
+  "the Lord from it, and \"did not the one who made the outside make the inside also?\" (11:40) speaks against that separation. "
+  "On the premise of a correspondential original, the omission belongs to the transmission of Marcion's copy (cf. Tertullian, "
+  "Marc. 4.5.7). Reading: docs/research/correspondence/word_by_word.md, chapter 8; second_pass.md §3.")),
  dict(term='"Who the Father is" (10:22)', cat='textual', refs=['10:22'], text=(
   "Tertullian, Marc. 4.25.10 quotes the saying with the Father first: \"No one knows who the Father is except the son, and who "
   "the son is except the Father\" (canonical Luke has the son first). The order is attested also by the Dialogue of "

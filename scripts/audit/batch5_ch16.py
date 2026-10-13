@@ -1,5 +1,5 @@
-"""Batch 5, chapter 16 of the reconstruction: Luke 18:1–43."""
-from buildlib import greek
+"""Batch 5, chapter 16 of the reconstruction: Luke 18:1–43 (18:31–34 restored by method, METHOD §11)."""
+from buildlib import greek, R
 from batch1_ch2 import U, A
 from batch5_patches import G
 
@@ -10,6 +10,17 @@ AD = lambda loc, ev: {'source': f'Dialogue of Adamantius {loc} (via Roth)', 'evi
 T361 = T('4.36.1', '"Nam et orandi perseverantiam et instantiam mandans parabolam iudicis ponit coacti audire viduam instantia et perseverantia interpellationum eius… Sed subiunxit facturum deum vindictam electorum suorum."')
 T3612 = T('4.36.1–2', '"et duos adorantes diversa mente describit, pharisaeum in superbia, publicanum in humilitate, ideoque alterum reprobatum, alterum iustificatum descendisse".')
 AD200 = lambda loc, gr: AD(f'{loc} (5.14)', gr)
+
+CR_18_31 = ('Epiphanius (sch. 52) states that the whole third prediction of the passion, with "everything written by the prophets about the son of man will be fulfilled", was not in the text. '
+            'Tertullian passes from 18:23 to 18:35; Roth counts his silence as confirmation (tacitus).')
+CR_18_34 = '"But they understood none of these things; this saying was hidden from them." It refers to the prediction in 18:31–33 and closes the same NA27 paragraph.'
+GR_18_31 = ('by its words, the restored 24:44 says "these are my words that I spoke to you while I was still with you, that everything written (πάντα τὰ γεγραμμένα) about me… must be fulfilled", '
+            'and no printed saying to the disciples contains it except 18:31, "everything written (πάντα τὰ γεγραμμένα) through the prophets about the son of man will be accomplished", said to the twelve. '
+            'By its mechanics: the restored 24:45 "he opened their mind to understand (συνιέναι)" lifts the veil that 18:34 lays ("they understood (συνῆκαν) none of these things… this saying was hidden from them"). '
+            'Reading: docs/research/correspondence/second_pass.md §4.')
+W31 = lambda ref, en: R(ref, G(ref), en, 'A−', 'absent', CR_18_31, GR_18_31 + ' Printed against Marcion\'s text: the witness states that the passage was not in it.',
+                        witnesses=[E(52, 'παρέκοψε τὸ »παραλαβὼν τοὺς δώδεκα ἔλεγεν· ἰδού, ἀναβαίνομεν εἰς Ἱεροσόλυμα καὶ τελεσθήσεται πάντα τὰ γεγραμμένα ἐν τοῖς προφήταις περὶ τοῦ υἱοῦ τοῦ ἀνθρώπου. παραδοθήσεται γὰρ καὶ ἀποκτανθήσεται καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστήσεται«· ὅλα ταῦτα παρέκοψε.')],
+                        wording='NA27 (checked on the page image, p. 221).')
 
 ENTRIES = [
  A('18:1', G('18:1'), 'He told them a parable to show that they ought always to pray and not lose heart.',
@@ -46,13 +57,14 @@ ENTRIES = [
    'present (Marc. 4.36.4, 6; Pan. 42.11.6, sch. 50; Adam. 92,25–26)',
    [E(50, '»εἶπέ τις πρὸς αὐτόν· διδάσκαλε ἀγαθέ, τί ποιήσας ζωὴν αἰώνιον κληρονομήσω;«'),
     T('4.36.4', '"Denique interrogatus ab illo quodam, Praeceptor optime, quid faciens vitam aeternam possidebo?"')]),
- A('18:19', G('18:19', [('εἰ μὴ εἷς ὁ θεός.', 'εἰ μὴ εἷς ὁ θεὸς ὁ πατήρ.')]),
-   'And Jesus said to him, "Why do you call me good? No one is good except one, God the Father.',
+ A('18:19', G('18:19'),
+   'And Jesus said to him, "Why do you call me good? No one is good except one, God.',
    'present (Marc. 4.36.3, 6; Pan. 42.11.6, sch. 50; Adam. 2,18–19; 92,26–27; Origen, Princ. 2.5.1, 4; Hippolytus, Haer. 7.31.6)',
    [E(50, '»ὁ δέ· μή με λέγε ἀγαθόν. εἷς ἐστιν ἀγαθός ὁ θεός«· προσέθετο ἐκεῖνος »ὁ πατήρ«.'),
     T('4.36.3', '"Sed quis optimus, nisi unus, inquit, deus?"'),
     AD('2,18–19 (1.1)', '[Megethius] …οὐδεὶς ἀγαθὸς εἰ μὴ εἷς, ὁ πατήρ.')],
-   wording=('Marcionite reading adopted: "God the Father" (ὁ θεὸς ὁ πατήρ) for "God". Epiphanius says that Marcion "added \'the Father\'"; the Dialogue and Origen\'s report of the heretics\' use also have "the Father"; Roth: very likely. Tertullian has only "God", and Roth allows that the copies differed. '
+   wording=('NA27 "one, God" printed by method (METHOD §11) against the attested Marcionite reading "God the Father" (ὁ θεὸς ὁ πατήρ). Epiphanius says that Marcion "added \'the Father\'"; the Dialogue and Origen\'s report of the heretics\' use also have "the Father"; Roth: very likely. Tertullian has only "God", and Roth allows that the copies differed. '
+            'The correspondential reading marks the addition as a strain: it turns into an outward title, set against "me", the relation the text keeps open and gives only by revealing (10:22); NA27 continues the line (the one good, the one thing lacking, "follow me", 18:22). On the premise of a correspondential original the addition belongs to the transmission of Marcion\'s copies, as Tertullian\'s copy without it suggests (docs/research/correspondence/word_by_word.md, chapter 16; second_pass.md §3). '
             'Epiphanius\' "do not call me good" and "one is good" are rated probable only; NA27 is printed for the rest.')),
  A('18:20', G('18:20', [('Μὴ μοιχεύσῃς, Μὴ φονεύσῃς, Μὴ κλέψῃς, Μὴ ψευδομαρτυρήσῃς', 'Μὴ φονεύσῃς, Μὴ μοιχεύσῃς, Μὴ κλέψῃς, Μηδὲ ψευδομαρτυρήσῃς')]),
    'You know the commandments: Do not kill, do not commit adultery, do not steal, do not bear false witness, honour your father and mother."',
@@ -75,6 +87,11 @@ ENTRIES = [
  A('18:23', G('18:23'), 'But when he heard these things, he became very sad, for he was very rich.',
    'present (Marc. 4.36.5)', [T('4.36.5', '"uti gloriosissimus ille observator praeceptorum pecuniam multo cariorem habiturus traduceretur".')],
    wording='NA27. Roth: attested, but no insight into the wording.'),
+ W31('18:31', 'Taking the twelve aside, he said to them, "Look, we are going up to Jerusalem, and everything written through the prophets about the son of man will be accomplished.'),
+ W31('18:32', 'For he will be handed over to the nations, and will be mocked and insulted and spat upon;'),
+ W31('18:33', 'and after flogging him they will kill him, and on the third day he will rise."'),
+ R('18:34', G('18:34'), 'But they understood none of these things; this saying was hidden from them, and they did not know what was said.',
+   'U−', 'unattested', CR_18_34, GR_18_31, wording='NA27 (checked on the page image, p. 221).'),
  A('18:35', G('18:35'), 'As he drew near to Jericho, a blind man was sitting by the roadside begging.',
    'present (Marc. 4.36.9; Pan. 42.11.6, sch. 51; Adam. 200,22–24)',
    [E(51, '»ἐγένετο δὲ ἐν τῷ ἐγγίζειν αὐτὸν τῇ Ἱεριχὼ τυφλὸς ἐβόα…«'),
@@ -105,21 +122,18 @@ ENTRIES = [
 OMITTED = [
  dict(ref='18:24–30', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='The camel and the needle, and the reward of those who left everything: a separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 18:23 (4.36.5) to 18:35 (4.36.8–9). The Dialogue of Adamantius refers to 18:24–30, but not from Marcion\'s text (Harnack, Roth).')),
- dict(ref='18:31–33', cls='A−', app=dict(roth='absent', witnesses=[
-      E(52, 'παρέκοψε τὸ »παραλαβὼν τοὺς δώδεκα ἔλεγεν· ἰδού, ἀναβαίνομεν εἰς Ἱεροσόλυμα καὶ τελεσθήσεται πάντα τὰ γεγραμμένα ἐν τοῖς προφήταις περὶ τοῦ υἱοῦ τοῦ ἀνθρώπου. παραδοθήσεται γὰρ καὶ ἀποκτανθήσεται καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστήσεται«· ὅλα ταῦτα παρέκοψε.')],
-      decision='not printed', reason='Epiphanius states that the whole third prediction of the passion, with "everything written by the prophets about the son of man will be fulfilled", was not in the text. Tertullian passes from 18:23 to 18:35; Roth counts his silence as confirmation (tacitus). The prediction "by the prophets" would have been Tertullian\'s proof that Christ fulfilled the Creator\'s prophecies.')),
- dict(ref='18:34', cls='U−', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason='"But they understood none of these things; this saying was hidden from them." It refers to the prediction in 18:31–33, which Epiphanius says the text lacked, and closes the same NA27 paragraph.')),
 ]
 
 PREAMBLE = (
  "Prayer, the commandments and the son of David. Jesus tells of a widow who wore down an unjust judge, and says that God "
  "will give justice to his chosen ones who cry to him day and night. He tells of a Pharisee and a tax collector praying in "
  "the temple, and of the one who went home justified. A ruler asks what he must do to inherit eternal life. In this text "
- "Jesus answers, \"No one is good except one, God the Father,\" and lists the commandments in the order \"do not kill, do not "
+ "Jesus answers, \"No one is good except one, God,\" and lists the commandments in the order \"do not kill, do not "
  "commit adultery\". He then tells the man: \"One thing you lack: sell all that you have and give to the poor… and come, "
- "follow me.\" Near Jericho a blind man calls him \"Jesus, son of David\" and is healed. The third prediction of the passion, "
- "with its appeal to \"everything written by the prophets\" (18:31–33), is not in the text (Epiphanius, sch. 52)."
+ "follow me.\" Taking the twelve aside, he says that they are going up to Jerusalem and that everything written through the "
+ "prophets about the son of man will be accomplished; they understand none of it, for the saying is hidden from them "
+ "(18:31–34). Epiphanius states that Marcion's text lacked this prediction (sch. 52); it is printed as restored by method "
+ "(METHOD §11; see the notes). Near Jericho a blind man calls him \"Jesus, son of David\" and is healed."
 )
 
 NOTES = [
@@ -131,19 +145,33 @@ NOTES = [
   "Tertullian, Marc. 4.36.1–2: two men praying in the temple \"with different minds\", the Pharisee in pride and the tax "
   "collector in humility, \"one rejected and the other went down justified\". He notes that the temple is the Creator's "
   "temple. 18:9 is not cited and is printed in grey.")),
- dict(term='"God the Father" and the commandments (18:18–23)', cat='textual', refs=['18:18', '18:19', '18:20', '18:22', '18:23'], text=(
+ dict(term='"One, God" and the commandments (18:18–23)', cat='textual', refs=['18:18', '18:19', '18:20', '18:22', '18:23'], text=(
   "Epiphanius, sch. 50 quotes the exchange: \"Good teacher, what must I do to inherit eternal life?\" \"Do not call me good; "
   "one is good, God\", to which, he says, Marcion \"added 'the Father'\". The Marcionite speaker in the Dialogue of Adamantius "
-  "has the same \"except one, the Father\", and Origen reports the heretics' use of it. Tertullian (4.36.3–7) has \"one God\" "
+  "has the same \"except one, the Father\", and Origen reports the heretics' use of it. Tertullian (4.36.3–7) has \"one God\". "
+  "NA27's \"one, God\" is printed by method (METHOD §11): the correspondential reading marks \"the Father\" as a strain that "
+  "turns into an outward title, set against \"me\", the relation the text keeps open and gives only by revealing (10:22). On "
+  "the premise of a correspondential original the addition belongs to the transmission of Marcion's copies, as Tertullian's copy "
+  "without it suggests (second_pass.md §3). Tertullian "
   "and lists the commandments in the order \"not to kill, not to commit adultery, not to steal, not to bear false witness, to "
   "love father and mother\". He quotes the command to sell all and give to the poor, \"and you will have treasure in heaven, "
   "and come, follow me\", and says Christ \"kept the earlier commandments and added what was lacking\", as in Micah 6:8. The "
-  "readings \"God the Father\", the order of the commandments, and \"give… treasure in heaven\" are printed.")),
- dict(term='Not printed: 18:24–34', cat='excision', refs=['18:23', '18:35'], text=(
+  "order of the commandments and \"give… treasure in heaven\" are printed.")),
+ dict(term='Not printed: 18:24–30', cat='excision', refs=['18:23', '18:31'], text=(
   "18:24–30 (the camel and the needle; the reward for leaving home and family) are not cited by any witness and form a "
-  "paragraph without an attested verse. 18:31–33, the third prediction of the passion with \"everything written by the "
-  "prophets about the son of man will be fulfilled\", is stated by Epiphanius to have been absent (sch. 52). 18:34, the "
-  "disciples not understanding \"these things\", depends on it.")),
+  "paragraph without an attested verse. The correspondential reading tested it at its place: it continues the line, and "
+  "nothing printed needs it.")),
+ dict(term='Restored by method, against Marcion\'s text: 18:31–34', cat='textual', refs=['18:31', '18:33', '18:34'], text=(
+  "Epiphanius states that the whole third prediction of the passion was not in Marcion's text (sch. 52: παρέκοψε… ὅλα ταῦτα "
+  "παρέκοψε), and Tertullian passes from 18:23 to 18:35. 18:34, the disciples not understanding \"these things\", is unattested "
+  "and depends on it (U−). The passage is printed as restored by method (METHOD §11), and 18:31–33 against Marcion's text. By its "
+  "words: the restored 24:44, \"these are my words that I spoke to you while I was still with you, that everything written "
+  "(πάντα τὰ γεγραμμένα) about me… must be fulfilled\", has no saying to point to without 18:31, \"everything written (πάντα τὰ "
+  "γεγραμμένα) through the prophets about the son of man will be accomplished\", said to the twelve; 9:22, 9:44 and 17:25 have "
+  "the \"must\" but not the writing. By its mechanics: 24:45, \"he opened their mind to understand (συνιέναι) the scriptures\", "
+  "lifts the veil that 18:34 lays (\"they understood (συνῆκαν) none of these things… hidden from them\"). 18:31 also gives the road "
+  "its verb: \"we are going up (ἀναβαίνομεν) to Jerusalem\". Reading: docs/research/correspondence/second_pass.md §4. The Greek "
+  "is NA27, checked on the page image (p. 221).")),
  dict(term='The blind man at Jericho (18:35–43)', cat='textual', refs=['18:35', '18:37', '18:38', '18:39', '18:42', '18:43'], text=(
   "Three witnesses attest the healing. Epiphanius, sch. 51: \"as he drew near to Jericho a blind man cried, Jesus, son of "
   "David, have mercy on me… your faith has saved you\". Tertullian (4.36.8–14) dwells on the title: the blind man called him "

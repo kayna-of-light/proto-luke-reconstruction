@@ -653,3 +653,32 @@ The owner approved printing the passages the correspondential reading shows the 
 - **Totals.** The classes are unchanged (1,017 verses: 485 A+, 143 A−, 44 U−, 345 U?). 766 verses are printed: 223 grey and 58 restored (32 U?, 18 A−, 8 U−). The preface, README and CLAUDE.md are updated.
 - **Not restored, left for the owner:** the passages the printed text only leans on (12:28a, 19:27, 23:13–16, 23:39–43), and three adopted wordings the reading marks as strains (10:21, 18:19, 21:27). See `restorations.md` §§2–3.
 - **Rebuild.** All six batch scripts and `frontmatter.py` were rerun in order, and the PDF was regenerated.
+
+## Restoration by method, second pass (2026-10-13)
+
+The owner's instruction: the correspondential reading, run on the final text, decides the questions left open by the first restorations. The working premise is that the original Luke was composed by the Jamesian community, which taught in correspondence. The reading is in `docs/research/correspondence/second_pass.md`.
+
+- **Method.**
+  - The first pass's "leans on" category is dropped. "The printed line still runs without it" is a test of the letter; a strand the text opens and never closes is a break in the inner narrative.
+  - METHOD §11 now also covers part of a verse (12:28a, 24:47b) and wording: an adopted Marcionite reading that the reading shows to break the inner line gives way to NA27.
+- **Printed as restored by method.** NA27 was checked on the page images.
+
+  | Passage | Class | Chapter | NA27 page | Grounds |
+  |---|---|---|---|---|
+  | 12:28a | attested omission (Epiph. sch. 31) | 10 | 202 | The accusative ὑμᾶς has no verb without it; the giver of clothing (12:22 → 24:49) |
+  | 18:31–34 | 18:31–33 A− (Epiph. sch. 52); 18:34 U− | 16 | 221 | The restored 24:44 quotes "everything written" said to them before; 24:45 lifts the veil of 18:34 |
+  | 19:27 | U− | 17 | 223 | The citizens who refused (19:14) are otherwise never reckoned with |
+  | 23:13–16 | U? | 21 | 238 | 23:18 "release", 23:20 "again", 23:22 "a third time" |
+  | 23:39–43 | 23:39–42 U?; 23:43 A− (Epiph. sch. 72) | 21 | 240; 23:42 εἰς τὴν βασιλείαν | The two at the cross; the law of the two (17:34–35) |
+
+  12:28a, 18:31–33 and 23:43 are printed against Marcion's text, and the notes say so. 24:47's decision now names 47b.
+- **NA27 wording printed** against the adopted Marcionite readings. The attested readings stay in the apparatus and notes.
+  - 10:21 "and of the earth". The other adopted readings in the verse were read as neutral and stand.
+  - 18:19 "one, God" (for "God the Father").
+  - 21:27 "in a cloud with power and great glory" (for "from the heavens with great power").
+- **Not restored.** Re-tested because the restored text touches them: 13:29–35, 22:35–38, 23:35–38 and 23:47–49. They continue the line but are not needed. 13:29–35 is the closest call.
+- **Translation and notes.**
+  - 19:27 closes the parable's quotation, which the previous text left open after 19:26.
+  - Notes and preambles of chapters 8, 10, 16, 17, 19 and 21 are rewritten.
+- **Totals.** 780 verses are printed: 223 grey and 72 restored (40 U?, 22 A−, 10 U−). The classes are unchanged.
+- **Left open.** Most first-pass verdicts of "continues, does not close a gap" were reached by the literal "X → Y runs". Only the passages the restored text touches were re-tested. A full third pass by the inner test alone has not been done.

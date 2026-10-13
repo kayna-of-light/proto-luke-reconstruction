@@ -1,6 +1,6 @@
 {
   "title": "THE GOSPEL (PROTO-LUKE)",
-  "description": "This edition presents the gospel read in Marcion's church in the second century, the text its opponents called his Evangelion, reconstructed verse by verse from the writers who quote it. The working premise of the project is that this text is not an abridgement of canonical Luke but an earlier form of it, here called Proto-Luke. A second premise, that it comes from the Jewish-Christian circle of James the Just, is treated as a hypothesis: the chapter notes describe what the attested text contains and say where it supports that identification and where it does not.\n\nThe witnesses. Marcion's gospel survives only in quotation. The principal witnesses are Tertullian, Against Marcion, book 4 (c. 207), who works through the text in order, in Latin; and Epiphanius, Panarion 42 (c. 375), whose 78 scholia quote it in Greek and state where it lacked passages of canonical Luke. The Dialogue of Adamantius is used only where its Marcionite speaker quotes the gospel. Other Fathers (Origen, Hippolytus, Ephrem, Eznik) are cited where they bear on a verse. All of them were hostile. What they report the text to have contained is treated as evidence; what they say about why it was so (\"Marcion cut it\") is polemic and is not used.\n\nHow each verse is decided. Every verse of Luke 3–24 has a record in the apparatus (data/apparatus/luke_03.json to luke_24.json), with the witnesses quoted from their primary texts and a class: attested present; attested absent; unattested but probably absent (where a witness who works through that stretch of text would have used the verse against Marcion and does not cite it); or unattested and undetermined. Of the 1,017 verses of Luke 3–24, 485 are attested present, 143 attested absent, 44 probably absent and 345 undetermined. Attested verses are printed. Undetermined verses are printed only inside a paragraph that contains an attested verse, and are set in grey: they are the canonical text where the witnesses are silent, not attested text. Of the 766 verses printed, 223 are grey and 58 are restored by method (below). Passages attested absent or probably absent are not printed, and each chapter's notes say what is missing and on whose evidence.\n\nThe wording. The Greek is that of Nestle–Aland, 27th edition, checked against the printed page. A reading of Marcion's text replaces it only where a witness attests it in its own words and the evidence makes it very likely: a Greek quotation, agreement of two witnesses, or a witness's habit of citation that rules out its own paraphrase. Where only Tertullian's Latin attests a reading and the Latin cannot render the Nestle–Aland Greek, the Greek is a retroversion, and the note says so. Weaker readings are recorded in the notes and do not change the text. Roth's graded reconstruction (2015) is the second judgement for every reading; where this edition departs from it, the reason is given.\n\nRestoration by method. The witnesses cannot show what they never quote. A second method is used for that gap, and only where nothing else decides it: the printed text was read by correspondence from beginning to end, word by word and sentence by sentence (docs/research/correspondence/word_by_word.md), and every passage it does not print was read at its place. Where the printed text's own words point to a missing passage, or a movement the text sets going is not completed without it, the passage is printed as restored by method, in a distinct colour, and the notes give the grounds (METHOD §11). Eight passages are restored: the reading from Isaiah at Nazareth (4:17–21), the meal at the Pharisee's house with \"Friend, go up higher\" (14:1–11), the going up to Jerusalem and the entry into the temple (19:28–46), the stones of the temple (21:5–6), Peter's denial (22:54–62), the return from Emmaus (24:33–35), the opening of the scriptures (24:44–46) and the ending with the taking up (24:47b–53). Their class in the apparatus does not change. 19:29–46 is printed against Marcion's text, which Epiphanius states lacked it.\n\nWhat the witnesses show. The text began with the fifteenth year of Tiberius and Jesus' coming down to Capernaum (3:1; 4:31), and had no birth narratives (Luke 1–2). Passages the witnesses state were absent include the parable of the two sons (15:11–32), the entry into Jerusalem and the cleansing of the temple (19:29–46, printed in this edition as restored by method), the tenants of the vineyard (20:9–17), and \"Today you will be with me in paradise\" (23:43). Some readings are not those of canonical Luke: in the Lord's prayer a petition for the holy spirit stands in place of \"hallowed be your name\" (11:2); before Pilate the accusers add that Jesus is \"destroying the law and the prophets\" and \"turning away the women and the children\" (23:2); on the road to Emmaus the disciples are rebuked for not believing \"all that he spoke to you\", not \"all that the prophets spoke\" (24:25). Other passages that have been thought foreign to this text are attested in it: the cup of the covenant in Jesus' blood (22:20); and, after the resurrection, \"See my hands and my feet, that it is I myself; for a spirit does not have bones as you see that I have\" (24:39), followed by a request for food (24:41). The words \"handle me and see\" and \"flesh and\" were not in that verse.\n\nPriority. The witnesses give no sign that the absences follow a single doctrine, and canonical Luke contains a seam where the shorter text does not (the Capernaum reference of 4:23, which in Marcion's order follows the visit to Capernaum). A stylometric test of the published editions of Marcion's gospel (docs/stylometry) finds Luke 1–2 and the genealogy distinct in style from the rest of Luke. Outside them it finds no measurable stylistic difference between the passages Marcion's text lacked and those it kept, so style alone does not decide the direction of change. Whether canonical Luke expanded this text, or both derive from a common original, is left open; the notes say what canonical Luke \"has\" or \"lacks\" rather than what it \"added\".\n\nTerminology. Jesus is named as in the Greek; ὁ χριστός is rendered \"the Anointed One\"; ὁ ζῶν at 24:5 is \"the Living One\". The last verse any witness cites is 24:47; the text is printed to 24:53, with the ending restored by method.\n\nSources. Tertullian, Adversus Marcionem, ed. and trans. E. Evans (Oxford, 1972). Epiphanius, Panarion, ed. K. Holl, GCS 31 (Leipzig, 1922). Der Dialog des Adamantius, ed. W. H. van de Sande Bakhuyzen, GCS 4 (Leipzig, 1901). Novum Testamentum Graece, 27th ed. (Stuttgart, 1993). The SBL Greek New Testament (2010), as a machine-readable control. D. T. Roth, The Text of Marcion's Gospel (Leiden: Brill, 2015). A. von Harnack, Marcion: Das Evangelium vom fremden Gott, 2nd ed. (Leipzig, 1924). The method, the record of every decision and the corrections made to the previous edition are in docs/audit (METHOD.md, AUDIT_LOG.md).",
+  "description": "This edition presents the gospel read in Marcion's church in the second century, the text its opponents called his Evangelion, reconstructed verse by verse from the writers who quote it. The working premise of the project is that this text is not an abridgement of canonical Luke but an earlier form of it, here called Proto-Luke. A second premise, that it comes from the Jewish-Christian circle of James the Just, is treated as a hypothesis: the chapter notes describe what the attested text contains and say where it supports that identification and where it does not.\n\nThe witnesses. Marcion's gospel survives only in quotation. The principal witnesses are Tertullian, Against Marcion, book 4 (c. 207), who works through the text in order, in Latin; and Epiphanius, Panarion 42 (c. 375), whose 78 scholia quote it in Greek and state where it lacked passages of canonical Luke. The Dialogue of Adamantius is used only where its Marcionite speaker quotes the gospel. Other Fathers (Origen, Hippolytus, Ephrem, Eznik) are cited where they bear on a verse. All of them were hostile. What they report the text to have contained is treated as evidence; what they say about why it was so (\"Marcion cut it\") is polemic and is not used.\n\nHow each verse is decided. Every verse of Luke 3–24 has a record in the apparatus (data/apparatus/luke_03.json to luke_24.json), with the witnesses quoted from their primary texts and a class: attested present; attested absent; unattested but probably absent (where a witness who works through that stretch of text would have used the verse against Marcion and does not cite it); or unattested and undetermined. Of the 1,017 verses of Luke 3–24, 485 are attested present, 143 attested absent, 44 probably absent and 345 undetermined. Attested verses are printed. Undetermined verses are printed only inside a paragraph that contains an attested verse, and are set in grey: they are the canonical text where the witnesses are silent, not attested text. Of the 780 verses printed, 223 are grey and 72 are restored by method (below). Passages attested absent or probably absent are not printed, and each chapter's notes say what is missing and on whose evidence.\n\nThe wording. The Greek is that of Nestle–Aland, 27th edition, checked against the printed page. A reading of Marcion's text replaces it only where a witness attests it in its own words and the evidence makes it very likely: a Greek quotation, agreement of two witnesses, or a witness's habit of citation that rules out its own paraphrase. Where only Tertullian's Latin attests a reading and the Latin cannot render the Nestle–Aland Greek, the Greek is a retroversion, and the note says so. Weaker readings are recorded in the notes and do not change the text. Roth's graded reconstruction (2015) is the second judgement for every reading; where this edition departs from it, the reason is given.\n\nRestoration by method. The witnesses cannot show what they never quote. A second method is used for that gap, and only where nothing else decides it: the printed text was read by correspondence from beginning to end, word by word and sentence by sentence (docs/research/correspondence/word_by_word.md), and every passage it does not print was read at its place. Where the printed text's own words point to a missing passage, or a movement the text sets going is not completed without it, the passage is printed as restored by method, in a distinct colour, and the notes give the grounds (METHOD §11). The passages restored are: the reading from Isaiah at Nazareth (4:17–21); God clothing the grass (12:28a); the meal at the Pharisee's house with \"Friend, go up higher\" (14:1–11); the third prediction of the passion (18:31–34); the citizens who refused his reign and the going up to Jerusalem, with the entry into the temple (19:27–46); the stones of the temple (21:5–6); Peter's denial (22:54–62); Pilate's second finding (23:13–16); the two beside him on the cross (23:39–43); the return from Emmaus (24:33–35); the opening of the scriptures (24:44–46); and the ending with the taking up (24:47b–53). Their class in the apparatus does not change. 12:28a, 18:31–33, 19:29–46 and 23:43 are printed against Marcion's text, which the witnesses state lacked them. The same reading tests the Marcionite readings: at 10:21 (\"Lord of heaven and of earth\"), 18:19 (\"one, God\") and 21:27 (\"in a cloud with power and great glory\") the attested wording breaks the inner line and the Nestle–Aland wording is printed; the attested readings are given in the notes.\n\nWhat the witnesses show. The text began with the fifteenth year of Tiberius and Jesus' coming down to Capernaum (3:1; 4:31), and had no birth narratives (Luke 1–2). Passages the witnesses state were absent include the parable of the two sons (15:11–32), the entry into Jerusalem and the cleansing of the temple (19:29–46), the tenants of the vineyard (20:9–17), and \"Today you will be with me in paradise\" (23:43); the first and the last are printed in this edition as restored by method. Some readings are not those of canonical Luke: in the Lord's prayer a petition for the holy spirit stands in place of \"hallowed be your name\" (11:2); before Pilate the accusers add that Jesus is \"destroying the law and the prophets\" and \"turning away the women and the children\" (23:2); on the road to Emmaus the disciples are rebuked for not believing \"all that he spoke to you\", not \"all that the prophets spoke\" (24:25). Other passages that have been thought foreign to this text are attested in it: the cup of the covenant in Jesus' blood (22:20); and, after the resurrection, \"See my hands and my feet, that it is I myself; for a spirit does not have bones as you see that I have\" (24:39), followed by a request for food (24:41). The words \"handle me and see\" and \"flesh and\" were not in that verse.\n\nPriority. The witnesses give no sign that the absences follow a single doctrine, and canonical Luke contains a seam where the shorter text does not (the Capernaum reference of 4:23, which in Marcion's order follows the visit to Capernaum). A stylometric test of the published editions of Marcion's gospel (docs/stylometry) finds Luke 1–2 and the genealogy distinct in style from the rest of Luke. Outside them it finds no measurable stylistic difference between the passages Marcion's text lacked and those it kept, so style alone does not decide the direction of change. Whether canonical Luke expanded this text, or both derive from a common original, is left open; the notes say what canonical Luke \"has\" or \"lacks\" rather than what it \"added\".\n\nTerminology. Jesus is named as in the Greek; ὁ χριστός is rendered \"the Anointed One\"; ὁ ζῶν at 24:5 is \"the Living One\". The last verse any witness cites is 24:47; the text is printed to 24:53, with the ending restored by method.\n\nSources. Tertullian, Adversus Marcionem, ed. and trans. E. Evans (Oxford, 1972). Epiphanius, Panarion, ed. K. Holl, GCS 31 (Leipzig, 1922). Der Dialog des Adamantius, ed. W. H. van de Sande Bakhuyzen, GCS 4 (Leipzig, 1901). Novum Testamentum Graece, 27th ed. (Stuttgart, 1993). The SBL Greek New Testament (2010), as a machine-readable control. D. T. Roth, The Text of Marcion's Gospel (Leiden: Brill, 2015). A. von Harnack, Marcion: Das Evangelium vom fremden Gott, 2nd ed. (Leipzig, 1924). The method, the record of every decision and the corrections made to the previous edition are in docs/audit (METHOD.md, AUDIT_LOG.md).",
   "chapters": [
     {
       "chapter": 1,
@@ -2207,7 +2207,7 @@
     {
       "chapter": 8,
       "title": "Proto-Luke Chapter 8",
-      "preamble": "The mission of the seventy and what follows from it. Jesus sends out seventy others, two by two, with the instructions Tertullian reads as the Creator's own: no sandals, no greetings on the road, peace to the house, \"the worker deserves his wages\", and the dust wiped off against a town that refuses them, \"yet know this: the kingdom of God has come near\". Whoever rejects them rejects him; he gives them authority over snakes and scorpions. He then thanks the \"Lord of heaven\" that what was hidden from the wise has been revealed to little children, and says that no one knows who the Father is except the son. To a lawyer who asks what he must do to inherit life (\"life\", not \"eternal life\", as Tertullian points out) he answers with the command to love God, and \"do this and you will live\". Canonical Luke's judgement on Sodom and the woes on the Galilean towns, \"I saw Satan fall\", the parable of the Samaritan and the visit to Martha and Mary are not cited by either witness and are not printed.",
+      "preamble": "The mission of the seventy and what follows from it. Jesus sends out seventy others, two by two, with the instructions Tertullian reads as the Creator's own: no sandals, no greetings on the road, peace to the house, \"the worker deserves his wages\", and the dust wiped off against a town that refuses them, \"yet know this: the kingdom of God has come near\". Whoever rejects them rejects him; he gives them authority over snakes and scorpions. He then thanks the \"Lord of heaven and of earth\" that what was hidden from the wise has been revealed to little children, and says that no one knows who the Father is except the son. To a lawyer who asks what he must do to inherit life (\"life\", not \"eternal life\", as Tertullian points out) he answers with the command to love God, and \"do this and you will live\". Canonical Luke's judgement on Sodom and the woes on the Galilean towns, \"I saw Satan fall\", the parable of the Samaritan and the visit to Martha and Mary are not cited by either witness and are not printed.",
       "verses": [
         {
           "verse": 1,
@@ -2307,8 +2307,8 @@
         {
           "verse": 16,
           "canonical_ref": "Luke 10:21",
-          "english": "In that same hour he rejoiced in the holy spirit and said, \"I thank you, Lord of heaven, that what was hidden from the wise and understanding you have revealed to little children. Yes, Father, for so it was pleasing in your sight.",
-          "greek": "Ἐν αὐτῇ τῇ ὥρᾳ ἠγαλλιάσατο ἐν τῷ πνεύματι τῷ ἁγίῳ καὶ εἶπεν· Εὐχαριστῶ σοι, κύριε τοῦ οὐρανοῦ, ὅτι ἅτινα ἦν κρυπτὰ σοφοῖς καὶ συνετοῖς ἀπεκάλυψας νηπίοις· ναὶ ὁ πατήρ, ὅτι οὕτως εὐδοκία ἐγένετο ἔμπροσθέν σου."
+          "english": "In that same hour he rejoiced in the holy spirit and said, \"I thank you, Lord of heaven and of earth, that what was hidden from the wise and understanding you have revealed to little children. Yes, Father, for so it was pleasing in your sight.",
+          "greek": "Ἐν αὐτῇ τῇ ὥρᾳ ἠγαλλιάσατο ἐν τῷ πνεύματι τῷ ἁγίῳ καὶ εἶπεν· Εὐχαριστῶ σοι, κύριε τοῦ οὐρανοῦ καὶ τῆς γῆς, ὅτι ἅτινα ἦν κρυπτὰ σοφοῖς καὶ συνετοῖς ἀπεκάλυψας νηπίοις· ναὶ ὁ πατήρ, ὅτι οὕτως εὐδοκία ἐγένετο ἔμπροσθέν σου."
         },
         {
           "verse": 17,
@@ -2377,10 +2377,10 @@
         },
         {
           "id": 4,
-          "term": "\"I thank you, Lord of heaven\" (10:21)",
+          "term": "\"I thank you, Lord of heaven and of earth\" (10:21)",
           "verse_refs": [16],
           "category": "textual",
-          "explanation": "Both witnesses quote the thanksgiving. Epiphanius, sch. 22: \"I thank you, Lord of heaven\"; the text \"did not have 'and of the earth', nor did it have 'Father'\", but it did have \"Yes, Father\" further on. Tertullian, Marc. 4.25.1: \"Gratias ago, et confiteor, domine caeli, quod ea quae erant abscondita sapientibus et prudentibus, revelaveris parvulis.\" The address without \"and of the earth\" is also the reading of 𝔓45. In Tertullian the hiding has no stated subject: what was hidden, God has revealed. His later reply that the Marcionite God, revealing what the Creator had hidden, would have been doing the Creator's work (4.25.6) presupposes that wording. The Greek printed is Roth's retroversion; the sense is attested, the exact words are not. Tertullian's \"et confiteor\" (= canonical ἐξομολογοῦμαι) is in his text only and is not printed."
+          "explanation": "Both witnesses quote the thanksgiving. Epiphanius, sch. 22: \"I thank you, Lord of heaven\"; the text \"did not have 'and of the earth', nor did it have 'Father'\", but it did have \"Yes, Father\" further on. Tertullian, Marc. 4.25.1: \"Gratias ago, et confiteor, domine caeli, quod ea quae erant abscondita sapientibus et prudentibus, revelaveris parvulis.\" The address without \"and of the earth\" is also the reading of 𝔓45. In Tertullian the hiding has no stated subject: what was hidden, God has revealed. His later reply that the Marcionite God, revealing what the Creator had hidden, would have been doing the Creator's work (4.25.6) presupposes that wording. The Greek printed is Roth's retroversion; the sense is attested, the exact words are not. Tertullian's \"et confiteor\" (= canonical ἐξομολογοῦμαι) is in his text only and is not printed. \"And of the earth\" is printed against both witnesses, by method (METHOD §11). The correspondential reading marks its omission as the one strain in the verse: in this text the earth is where the son of man has authority (5:24), where the seed is received (8:8) and where, in this verse, the revealing happens, to little children; \"Lord of heaven\" alone separates the Lord from it, and \"did not the one who made the outside make the inside also?\" (11:40) speaks against that separation. On the premise of a correspondential original, the omission belongs to the transmission of Marcion's copy (cf. Tertullian, Marc. 4.5.7). Reading: docs/research/correspondence/word_by_word.md, chapter 8; second_pass.md §3."
         },
         {
           "id": 5,
@@ -2727,7 +2727,7 @@
     {
       "chapter": 10,
       "title": "Proto-Luke Chapter 10",
-      "preamble": "Fear and trust. Jesus warns his disciples against the leaven of the Pharisees and tells them not to fear those who can only kill the body, but the one who has authority to cast into Gehenna. Whoever acknowledges him will be acknowledged \"before God\" (this text has no angels in 12:8–9), and the holy spirit will teach them what to say. He refuses to divide an inheritance and tells of the rich fool. He tells them not to worry about food and clothing, but to seek the kingdom of God, which \"the Father\" is pleased to give them. Then come the parables of watchfulness: servants waiting for their master to return from a wedding \"in the evening watch\", the thief, and the steward. He has come to cast fire on the earth and to bring division, and he calls the crowds hypocrites who read the face of heaven and earth but not the present time. The five sparrows (12:6), which Epiphanius says the text lacked, and the saying on God clothing the grass (12:28a) are not printed.",
+      "preamble": "Fear and trust. Jesus warns his disciples against the leaven of the Pharisees and tells them not to fear those who can only kill the body, but the one who has authority to cast into Gehenna. Whoever acknowledges him will be acknowledged \"before God\" (this text has no angels in 12:8–9), and the holy spirit will teach them what to say. He refuses to divide an inheritance and tells of the rich fool. He tells them not to worry about food and clothing, but to seek the kingdom of God, which \"the Father\" is pleased to give them. Then come the parables of watchfulness: servants waiting for their master to return from a wedding \"in the evening watch\", the thief, and the steward. He has come to cast fire on the earth and to bring division, and he calls the crowds hypocrites who read the face of heaven and earth but not the present time. The five sparrows (12:6), which Epiphanius says the text lacked, are not printed. The saying on God clothing the grass (12:28a), which Epiphanius also says the text lacked, is printed as restored by method (METHOD §11; see the notes).",
       "verses": [
         {
           "verse": 1,
@@ -2888,8 +2888,8 @@
         {
           "verse": 26,
           "canonical_ref": "Luke 12:28",
-          "english": "How much more you, you of little faith!",
-          "greek": "πόσῳ μᾶλλον ὑμᾶς, ὀλιγόπιστοι."
+          "english": "But if God so clothes the grass in the field, which is alive today and tomorrow is thrown into the oven, how much more you, you of little faith!",
+          "greek": "εἰ δὲ ἐν ἀγρῷ τὸν χόρτον ὄντα σήμερον καὶ αὔριον εἰς κλίβανον βαλλόμενον ὁ θεὸς οὕτως ἀμφιέζει, πόσῳ μᾶλλον ὑμᾶς, ὀλιγόπιστοι."
         },
         {
           "verse": 27,
@@ -3098,7 +3098,7 @@
           "term": "Food and clothing (12:22–32)",
           "verse_refs": [20, 22, 25, 26, 28, 29, 30],
           "category": "textual",
-          "explanation": "Tertullian, Marc. 4.29.1–5 recasts the passage rhetorically, but the lilies \"neither weave nor spin\" (D: \"neither spin nor weave\"), not \"toil nor spin\" as in canonical Luke, and he quotes \"Seek the kingdom of God\". Epiphanius, sch. 31–34 states that the text lacked \"God clothes the grass\" (12:28a), quotes 12:30b and 12:31 (\"the kingdom of God\"), and states that 12:32 read \"the Father\", not \"your Father\". The text printed therefore goes from Solomon not clothed like the lilies to \"How much more you, you of little faith!\" 12:25–26 and 12:29 are not cited and are printed in grey. 12:33–34 (\"sell your possessions\") form a paragraph that no witness cites and are not printed."
+          "explanation": "Tertullian, Marc. 4.29.1–5 recasts the passage rhetorically, but the lilies \"neither weave nor spin\" (D: \"neither spin nor weave\"), not \"toil nor spin\" as in canonical Luke, and he quotes \"Seek the kingdom of God\". Epiphanius, sch. 31–34 states that the text lacked \"God clothes the grass\" (12:28a), quotes 12:30b and 12:31 (\"the kingdom of God\"), and states that 12:32 read \"the Father\", not \"your Father\". 12:28a is printed against Marcion's text, as restored by method (METHOD §11). Without it the printed \"how much more you (ὑμᾶς)\" is an accusative with no verb; and 12:22 sets two needs, food and clothing (\"what you will put on\", ἐνδύσησθε), of which 12:24 names the giver of the first (\"God feeds them\") and only 12:28a the giver of the second (\"God clothes\"). The clothing strand ends at 24:49, \"until you are clothed (ἐνδύσησθε) with power from on high\". Reading: docs/research/correspondence/second_pass.md §2. 12:25–26 and 12:29 are not cited and are printed in grey. 12:33–34 (\"sell your possessions\") form a paragraph that no witness cites and are not printed."
         },
         {
           "id": 5,
@@ -4068,7 +4068,7 @@
     {
       "chapter": 16,
       "title": "Proto-Luke Chapter 16",
-      "preamble": "Prayer, the commandments and the son of David. Jesus tells of a widow who wore down an unjust judge, and says that God will give justice to his chosen ones who cry to him day and night. He tells of a Pharisee and a tax collector praying in the temple, and of the one who went home justified. A ruler asks what he must do to inherit eternal life. In this text Jesus answers, \"No one is good except one, God the Father,\" and lists the commandments in the order \"do not kill, do not commit adultery\". He then tells the man: \"One thing you lack: sell all that you have and give to the poor… and come, follow me.\" Near Jericho a blind man calls him \"Jesus, son of David\" and is healed. The third prediction of the passion, with its appeal to \"everything written by the prophets\" (18:31–33), is not in the text (Epiphanius, sch. 52).",
+      "preamble": "Prayer, the commandments and the son of David. Jesus tells of a widow who wore down an unjust judge, and says that God will give justice to his chosen ones who cry to him day and night. He tells of a Pharisee and a tax collector praying in the temple, and of the one who went home justified. A ruler asks what he must do to inherit eternal life. In this text Jesus answers, \"No one is good except one, God,\" and lists the commandments in the order \"do not kill, do not commit adultery\". He then tells the man: \"One thing you lack: sell all that you have and give to the poor… and come, follow me.\" Taking the twelve aside, he says that they are going up to Jerusalem and that everything written through the prophets about the son of man will be accomplished; they understand none of it, for the saying is hidden from them (18:31–34). Epiphanius states that Marcion's text lacked this prediction (sch. 52); it is printed as restored by method (METHOD §11; see the notes). Near Jericho a blind man calls him \"Jesus, son of David\" and is healed.",
       "verses": [
         {
           "verse": 1,
@@ -4187,8 +4187,8 @@
         {
           "verse": 19,
           "canonical_ref": "Luke 18:19",
-          "english": "And Jesus said to him, \"Why do you call me good? No one is good except one, God the Father.",
-          "greek": "εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς· Τί με λέγεις ἀγαθόν; οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ θεὸς ὁ πατήρ."
+          "english": "And Jesus said to him, \"Why do you call me good? No one is good except one, God.",
+          "greek": "εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς· Τί με λέγεις ἀγαθόν; οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ θεός."
         },
         {
           "verse": 20,
@@ -4216,54 +4216,82 @@
         },
         {
           "verse": 24,
+          "canonical_ref": "Luke 18:31",
+          "english": "Taking the twelve aside, he said to them, \"Look, we are going up to Jerusalem, and everything written through the prophets about the son of man will be accomplished.",
+          "greek": "Παραλαβὼν δὲ τοὺς δώδεκα εἶπεν πρὸς αὐτούς· Ἰδοὺ ἀναβαίνομεν εἰς Ἰερουσαλήμ, καὶ τελεσθήσεται πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν τῷ υἱῷ τοῦ ἀνθρώπου·",
+          "attestation": "restored"
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 18:32",
+          "english": "For he will be handed over to the nations, and will be mocked and insulted and spat upon;",
+          "greek": "παραδοθήσεται γὰρ τοῖς ἔθνεσιν καὶ ἐμπαιχθήσεται καὶ ὑβρισθήσεται καὶ ἐμπτυσθήσεται,",
+          "attestation": "restored"
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 18:33",
+          "english": "and after flogging him they will kill him, and on the third day he will rise.\"",
+          "greek": "καὶ μαστιγώσαντες ἀποκτενοῦσιν αὐτόν, καὶ τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστήσεται.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 27,
+          "canonical_ref": "Luke 18:34",
+          "english": "But they understood none of these things; this saying was hidden from them, and they did not know what was said.",
+          "greek": "καὶ αὐτοὶ οὐδὲν τούτων συνῆκαν, καὶ ἦν τὸ ῥῆμα τοῦτο κεκρυμμένον ἀπ’ αὐτῶν, καὶ οὐκ ἐγίνωσκον τὰ λεγόμενα.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 28,
           "canonical_ref": "Luke 18:35",
           "english": "As he drew near to Jericho, a blind man was sitting by the roadside begging.",
           "greek": "Ἐγένετο δὲ ἐν τῷ ἐγγίζειν αὐτὸν εἰς Ἰεριχὼ τυφλός τις ἐκάθητο παρὰ τὴν ὁδὸν ἐπαιτῶν."
         },
         {
-          "verse": 25,
+          "verse": 29,
           "canonical_ref": "Luke 18:36",
           "english": "Hearing a crowd going by, he asked what this meant.",
           "greek": "ἀκούσας δὲ ὄχλου διαπορευομένου ἐπυνθάνετο τί εἴη τοῦτο·"
         },
         {
-          "verse": 26,
+          "verse": 30,
           "canonical_ref": "Luke 18:37",
           "english": "They told him, \"Jesus of Nazareth is passing by.\"",
           "greek": "ἀπήγγειλαν δὲ αὐτῷ ὅτι Ἰησοῦς ὁ Ναζωραῖος παρέρχεται."
         },
         {
-          "verse": 27,
+          "verse": 31,
           "canonical_ref": "Luke 18:38",
           "english": "And he cried out, \"Jesus, son of David, have mercy on me!\"",
           "greek": "καὶ ἐβόησεν λέγων· Ἰησοῦ υἱὲ Δαυίδ, ἐλέησόν με."
         },
         {
-          "verse": 28,
+          "verse": 32,
           "canonical_ref": "Luke 18:39",
           "english": "And those who were in front rebuked him, telling him to be silent; but he cried out all the more, \"Son of David, have mercy on me!\"",
           "greek": "καὶ οἱ προάγοντες ἐπετίμων αὐτῷ ἵνα σιγήσῃ· αὐτὸς δὲ πολλῷ μᾶλλον ἔκραζεν· Υἱὲ Δαυίδ, ἐλέησόν με."
         },
         {
-          "verse": 29,
+          "verse": 33,
           "canonical_ref": "Luke 18:40",
           "english": "Jesus stopped and commanded him to be brought to him. When he came near, he asked him,",
           "greek": "σταθεὶς δὲ ὁ Ἰησοῦς ἐκέλευσεν αὐτὸν ἀχθῆναι πρὸς αὐτόν. ἐγγίσαντος δὲ αὐτοῦ ἐπηρώτησεν αὐτόν·"
         },
         {
-          "verse": 30,
+          "verse": 34,
           "canonical_ref": "Luke 18:41",
           "english": "\"What do you want me to do for you?\" He said, \"Lord, let me see again.\"",
           "greek": "Τί σοι θέλεις ποιήσω; ὁ δὲ εἶπεν· Κύριε, ἵνα ἀναβλέψω."
         },
         {
-          "verse": 31,
+          "verse": 35,
           "canonical_ref": "Luke 18:42",
           "english": "And Jesus said to him, \"See again; your faith has saved you.\"",
           "greek": "καὶ ὁ Ἰησοῦς εἶπεν αὐτῷ· Ἀνάβλεψον· ἡ πίστις σου σέσωκέν σε."
         },
         {
-          "verse": 32,
+          "verse": 36,
           "canonical_ref": "Luke 18:43",
           "english": "And immediately he saw again and followed him, glorifying God. And all the people, when they saw it, gave praise to God.",
           "greek": "καὶ παραχρῆμα ἀνέβλεψεν, καὶ ἠκολούθει αὐτῷ δοξάζων τὸν θεόν. καὶ πᾶς ὁ λαὸς ἰδὼν ἔδωκεν αἶνον τῷ θεῷ."
@@ -4286,29 +4314,36 @@
         },
         {
           "id": 3,
-          "term": "\"God the Father\" and the commandments (18:18–23)",
+          "term": "\"One, God\" and the commandments (18:18–23)",
           "verse_refs": [18, 19, 20, 22, 23],
           "category": "textual",
-          "explanation": "Epiphanius, sch. 50 quotes the exchange: \"Good teacher, what must I do to inherit eternal life?\" \"Do not call me good; one is good, God\", to which, he says, Marcion \"added 'the Father'\". The Marcionite speaker in the Dialogue of Adamantius has the same \"except one, the Father\", and Origen reports the heretics' use of it. Tertullian (4.36.3–7) has \"one God\" and lists the commandments in the order \"not to kill, not to commit adultery, not to steal, not to bear false witness, to love father and mother\". He quotes the command to sell all and give to the poor, \"and you will have treasure in heaven, and come, follow me\", and says Christ \"kept the earlier commandments and added what was lacking\", as in Micah 6:8. The readings \"God the Father\", the order of the commandments, and \"give… treasure in heaven\" are printed."
+          "explanation": "Epiphanius, sch. 50 quotes the exchange: \"Good teacher, what must I do to inherit eternal life?\" \"Do not call me good; one is good, God\", to which, he says, Marcion \"added 'the Father'\". The Marcionite speaker in the Dialogue of Adamantius has the same \"except one, the Father\", and Origen reports the heretics' use of it. Tertullian (4.36.3–7) has \"one God\". NA27's \"one, God\" is printed by method (METHOD §11): the correspondential reading marks \"the Father\" as a strain that turns into an outward title, set against \"me\", the relation the text keeps open and gives only by revealing (10:22). On the premise of a correspondential original the addition belongs to the transmission of Marcion's copies, as Tertullian's copy without it suggests (second_pass.md §3). Tertullian and lists the commandments in the order \"not to kill, not to commit adultery, not to steal, not to bear false witness, to love father and mother\". He quotes the command to sell all and give to the poor, \"and you will have treasure in heaven, and come, follow me\", and says Christ \"kept the earlier commandments and added what was lacking\", as in Micah 6:8. The order of the commandments and \"give… treasure in heaven\" are printed."
         },
         {
           "id": 4,
-          "term": "Not printed: 18:24–34",
+          "term": "Not printed: 18:24–30",
           "verse_refs": [23, 24],
           "category": "excision",
-          "explanation": "18:24–30 (the camel and the needle; the reward for leaving home and family) are not cited by any witness and form a paragraph without an attested verse. 18:31–33, the third prediction of the passion with \"everything written by the prophets about the son of man will be fulfilled\", is stated by Epiphanius to have been absent (sch. 52). 18:34, the disciples not understanding \"these things\", depends on it."
+          "explanation": "18:24–30 (the camel and the needle; the reward for leaving home and family) are not cited by any witness and form a paragraph without an attested verse. The correspondential reading tested it at its place: it continues the line, and nothing printed needs it."
         },
         {
           "id": 5,
+          "term": "Restored by method, against Marcion's text: 18:31–34",
+          "verse_refs": [24, 26, 27],
+          "category": "textual",
+          "explanation": "Epiphanius states that the whole third prediction of the passion was not in Marcion's text (sch. 52: παρέκοψε… ὅλα ταῦτα παρέκοψε), and Tertullian passes from 18:23 to 18:35. 18:34, the disciples not understanding \"these things\", is unattested and depends on it (U−). The passage is printed as restored by method (METHOD §11), and 18:31–33 against Marcion's text. By its words: the restored 24:44, \"these are my words that I spoke to you while I was still with you, that everything written (πάντα τὰ γεγραμμένα) about me… must be fulfilled\", has no saying to point to without 18:31, \"everything written (πάντα τὰ γεγραμμένα) through the prophets about the son of man will be accomplished\", said to the twelve; 9:22, 9:44 and 17:25 have the \"must\" but not the writing. By its mechanics: 24:45, \"he opened their mind to understand (συνιέναι) the scriptures\", lifts the veil that 18:34 lays (\"they understood (συνῆκαν) none of these things… hidden from them\"). 18:31 also gives the road its verb: \"we are going up (ἀναβαίνομεν) to Jerusalem\". Reading: docs/research/correspondence/second_pass.md §4. The Greek is NA27, checked on the page image (p. 221)."
+        },
+        {
+          "id": 6,
           "term": "The blind man at Jericho (18:35–43)",
-          "verse_refs": [24, 26, 27, 28, 31, 32],
+          "verse_refs": [28, 30, 31, 32, 35, 36],
           "category": "textual",
           "explanation": "Three witnesses attest the healing. Epiphanius, sch. 51: \"as he drew near to Jericho a blind man cried, Jesus, son of David, have mercy on me… your faith has saved you\". Tertullian (4.36.8–14) dwells on the title: the blind man called him \"son of David\", and Jesus, far from correcting him, healed him and praised his faith. Tertullian takes this as proof that Jesus was known to be of David's family. The Dialogue (200) quotes the whole story; 18:36 and 18:40–41 rest on it alone."
         },
         {
-          "id": 6,
+          "id": 7,
           "term": "Son of David",
-          "verse_refs": [27, 31],
+          "verse_refs": [31, 35],
           "category": "theological",
           "explanation": "Interpretation. The attested text has a blind man twice call Jesus \"son of David\", and Jesus answer with healing and \"your faith has saved you\". Tertullian's argument from this is that a Christ with no birth could not have been publicly known as David's descendant (4.36.8). The text does not say how the title was known. The library connects the Davidic descent of Jesus' family with the desposyni, the relatives who led the Jerusalem community (Carriers of Living Water). The verse shows only that the title was used of him and accepted."
         }
@@ -4317,7 +4352,7 @@
     {
       "chapter": 17,
       "title": "Proto-Luke Chapter 17",
-      "preamble": "Zacchaeus and the money entrusted to the servants. In Jericho, Zacchaeus, a rich chief tax collector, receives Jesus into his house, gives half his goods to the poor and restores fourfold what he has taken by fraud. \"Today salvation has come to this house… for the son of man came to seek and to save the lost.\" Jesus then tells of a nobleman who gives his servants money to trade with and, on his return, judges them by what they have done with it. In this text the parable ends with \"from the one who has not, even what he has will be taken away\". The slaughter of the master's enemies (19:27) is not cited. Then Jesus goes up to Jerusalem: the colt, the descent of the Mount of Olives with \"peace in heaven, and glory in the highest\", the weeping over the city, and the entry into the temple (19:28–46). Epiphanius states that Marcion's text lacked 19:29–46. The passage is printed here as restored by method, against Marcion's text, because the reading of the printed text shows that it needs the arrival (METHOD §11; see the notes).",
+      "preamble": "Zacchaeus and the money entrusted to the servants. In Jericho, Zacchaeus, a rich chief tax collector, receives Jesus into his house, gives half his goods to the poor and restores fourfold what he has taken by fraud. \"Today salvation has come to this house… for the son of man came to seek and to save the lost.\" Jesus then tells of a nobleman who gives his servants money to trade with and, on his return, judges them by what they have done with it. In this text the parable ends with \"from the one who has not, even what he has will be taken away\", and the citizens who refused his reign are brought before him (19:27, not cited by any witness; printed as restored by method). Then Jesus goes up to Jerusalem: the colt, the descent of the Mount of Olives with \"peace in heaven, and glory in the highest\", the weeping over the city, and the entry into the temple (19:28–46). Epiphanius states that Marcion's text lacked 19:29–46. The passage is printed here as restored by method, against Marcion's text, because the reading of the printed text shows that it needs the arrival (METHOD §11; see the notes).",
       "verses": [
         {
           "verse": 1,
@@ -4493,132 +4528,139 @@
         },
         {
           "verse": 27,
+          "canonical_ref": "Luke 19:27",
+          "english": "But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me.'\"",
+          "greek": "πλὴν τοὺς ἐχθρούς μου τούτους τοὺς μὴ θελήσαντάς με βασιλεῦσαι ἐπ’ αὐτοὺς ἀγάγετε ὧδε καὶ κατασφάξατε αὐτοὺς ἔμπροσθέν μου.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 28,
           "canonical_ref": "Luke 19:28",
           "english": "After he had said this, he went on ahead, going up to Jerusalem.",
           "greek": "Καὶ εἰπὼν ταῦτα ἐπορεύετο ἔμπροσθεν ἀναβαίνων εἰς Ἱεροσόλυμα.",
           "attestation": "restored"
         },
         {
-          "verse": 28,
+          "verse": 29,
           "canonical_ref": "Luke 19:29",
           "english": "When he drew near to Bethphage and Bethany, at the mountain called the Mount of Olives, he sent two of the disciples,",
           "greek": "Καὶ ἐγένετο ὡς ἤγγισεν εἰς Βηθφαγὴ καὶ Βηθανίαν πρὸς τὸ ὄρος τὸ καλούμενον Ἐλαιῶν, ἀπέστειλεν δύο τῶν μαθητῶν",
           "attestation": "restored"
         },
         {
-          "verse": 29,
+          "verse": 30,
           "canonical_ref": "Luke 19:30",
           "english": "saying, \"Go into the village opposite, where as you enter you will find a colt tied, on which no one has ever sat; untie it and bring it.",
           "greek": "λέγων· Ὑπάγετε εἰς τὴν κατέναντι κώμην, ἐν ᾗ εἰσπορευόμενοι εὑρήσετε πῶλον δεδεμένον, ἐφ’ ὃν οὐδεὶς πώποτε ἀνθρώπων ἐκάθισεν, καὶ λύσαντες αὐτὸν ἀγάγετε.",
           "attestation": "restored"
         },
         {
-          "verse": 30,
+          "verse": 31,
           "canonical_ref": "Luke 19:31",
           "english": "If anyone asks you, 'Why are you untying it?' you shall say this: 'The Lord has need of it.'\"",
           "greek": "καὶ ἐάν τις ὑμᾶς ἐρωτᾷ· Διὰ τί λύετε; οὕτως ἐρεῖτε ὅτι Ὁ κύριος αὐτοῦ χρείαν ἔχει.",
           "attestation": "restored"
         },
         {
-          "verse": 31,
+          "verse": 32,
           "canonical_ref": "Luke 19:32",
           "english": "Those who were sent went away and found it as he had told them.",
           "greek": "ἀπελθόντες δὲ οἱ ἀπεσταλμένοι εὗρον καθὼς εἶπεν αὐτοῖς.",
           "attestation": "restored"
         },
         {
-          "verse": 32,
+          "verse": 33,
           "canonical_ref": "Luke 19:33",
           "english": "As they were untying the colt, its owners said to them, \"Why are you untying the colt?\"",
           "greek": "λυόντων δὲ αὐτῶν τὸν πῶλον εἶπαν οἱ κύριοι αὐτοῦ πρὸς αὐτούς· Τί λύετε τὸν πῶλον;",
           "attestation": "restored"
         },
         {
-          "verse": 33,
+          "verse": 34,
           "canonical_ref": "Luke 19:34",
           "english": "They said, \"The Lord has need of it.\"",
           "greek": "οἱ δὲ εἶπαν ὅτι Ὁ κύριος αὐτοῦ χρείαν ἔχει.",
           "attestation": "restored"
         },
         {
-          "verse": 34,
+          "verse": 35,
           "canonical_ref": "Luke 19:35",
           "english": "And they brought it to Jesus, and throwing their cloaks on the colt they set Jesus on it.",
           "greek": "καὶ ἤγαγον αὐτὸν πρὸς τὸν Ἰησοῦν, καὶ ἐπιρίψαντες αὐτῶν τὰ ἱμάτια ἐπὶ τὸν πῶλον ἐπεβίβασαν τὸν Ἰησοῦν·",
           "attestation": "restored"
         },
         {
-          "verse": 35,
+          "verse": 36,
           "canonical_ref": "Luke 19:36",
           "english": "As he went along, they spread their cloaks on the road.",
           "greek": "πορευομένου δὲ αὐτοῦ ὑπεστρώννυον τὰ ἱμάτια αὐτῶν ἐν τῇ ὁδῷ.",
           "attestation": "restored"
         },
         {
-          "verse": 36,
+          "verse": 37,
           "canonical_ref": "Luke 19:37",
           "english": "As he was now drawing near, at the descent of the Mount of Olives, the whole multitude of the disciples began to praise God joyfully with a loud voice for all the deeds of power they had seen,",
           "greek": "ἐγγίζοντος δὲ αὐτοῦ ἤδη πρὸς τῇ καταβάσει τοῦ Ὄρους τῶν Ἐλαιῶν ἤρξαντο ἅπαν τὸ πλῆθος τῶν μαθητῶν χαίροντες αἰνεῖν τὸν θεὸν φωνῇ μεγάλῃ περὶ πασῶν ὧν εἶδον δυνάμεων,",
           "attestation": "restored"
         },
         {
-          "verse": 37,
+          "verse": 38,
           "canonical_ref": "Luke 19:38",
           "english": "saying, \"Blessed is the one who comes, the king, in the name of the Lord! Peace in heaven, and glory in the highest!\"",
           "greek": "λέγοντες· Εὐλογημένος ὁ ἐρχόμενος ὁ βασιλεὺς ἐν ὀνόματι κυρίου· ἐν οὐρανῷ εἰρήνη καὶ δόξα ἐν ὑψίστοις.",
           "attestation": "restored"
         },
         {
-          "verse": 38,
+          "verse": 39,
           "canonical_ref": "Luke 19:39",
           "english": "And some of the Pharisees in the crowd said to him, \"Teacher, rebuke your disciples.\"",
           "greek": "καί τινες τῶν Φαρισαίων ἀπὸ τοῦ ὄχλου εἶπαν πρὸς αὐτόν· Διδάσκαλε, ἐπιτίμησον τοῖς μαθηταῖς σου.",
           "attestation": "restored"
         },
         {
-          "verse": 39,
+          "verse": 40,
           "canonical_ref": "Luke 19:40",
           "english": "He answered, \"I tell you, if these are silent, the stones will cry out.\"",
           "greek": "καὶ ἀποκριθεὶς εἶπεν· Λέγω ὑμῖν, ἐὰν οὗτοι σιωπήσουσιν, οἱ λίθοι κράξουσιν.",
           "attestation": "restored"
         },
         {
-          "verse": 40,
+          "verse": 41,
           "canonical_ref": "Luke 19:41",
           "english": "And as he drew near and saw the city, he wept over it,",
           "greek": "Καὶ ὡς ἤγγισεν, ἰδὼν τὴν πόλιν ἔκλαυσεν ἐπ’ αὐτήν,",
           "attestation": "restored"
         },
         {
-          "verse": 41,
+          "verse": 42,
           "canonical_ref": "Luke 19:42",
           "english": "saying, \"If you, even you, had known on this day the things that make for peace! But now they are hidden from your eyes.",
           "greek": "λέγων ὅτι Εἰ ἔγνως ἐν τῇ ἡμέρᾳ ταύτῃ καὶ σὺ τὰ πρὸς εἰρήνην— νῦν δὲ ἐκρύβη ἀπὸ ὀφθαλμῶν σου.",
           "attestation": "restored"
         },
         {
-          "verse": 42,
+          "verse": 43,
           "canonical_ref": "Luke 19:43",
           "english": "For days will come upon you when your enemies will set up a palisade against you and surround you and hem you in on every side,",
           "greek": "ὅτι ἥξουσιν ἡμέραι ἐπὶ σὲ καὶ παρεμβαλοῦσιν οἱ ἐχθροί σου χάρακά σοι καὶ περικυκλώσουσίν σε καὶ συνέξουσίν σε πάντοθεν,",
           "attestation": "restored"
         },
         {
-          "verse": 43,
+          "verse": 44,
           "canonical_ref": "Luke 19:44",
           "english": "and they will dash you to the ground, you and your children within you, and they will not leave within you one stone upon another, because you did not know the time of your visitation.\"",
           "greek": "καὶ ἐδαφιοῦσίν σε καὶ τὰ τέκνα σου ἐν σοί, καὶ οὐκ ἀφήσουσιν λίθον ἐπὶ λίθον ἐν σοί, ἀνθ’ ὧν οὐκ ἔγνως τὸν καιρὸν τῆς ἐπισκοπῆς σου.",
           "attestation": "restored"
         },
         {
-          "verse": 44,
+          "verse": 45,
           "canonical_ref": "Luke 19:45",
           "english": "And he entered the temple and began to drive out those who were selling,",
           "greek": "Καὶ εἰσελθὼν εἰς τὸ ἱερὸν ἤρξατο ἐκβάλλειν τοὺς πωλοῦντας,",
           "attestation": "restored"
         },
         {
-          "verse": 45,
+          "verse": 46,
           "canonical_ref": "Luke 19:46",
           "english": "saying to them, \"It is written, 'And my house shall be a house of prayer,' but you have made it a den of robbers.\"",
           "greek": "λέγων αὐτοῖς· Γέγραπται· Καὶ ἔσται ὁ οἶκός μου οἶκος προσευχῆς, ὑμεῖς δὲ αὐτὸν ἐποιήσατε σπήλαιον λῃστῶν.",
@@ -4643,21 +4685,28 @@
         {
           "id": 3,
           "term": "Restored by method, against Marcion's text: 19:28–46",
-          "verse_refs": [27, 28, 36, 37, 40, 44, 45],
+          "verse_refs": [28, 29, 37, 38, 41, 45, 46],
           "category": "textual",
           "explanation": "Epiphanius, Pan. 42.11.6, sch. 53: παρέκοψεν τὸ κεφάλαιον τὸ περὶ τῆς ὄνου καὶ Βηθφαγὴ καὶ τὸ περὶ τῆς πόλεως καὶ τοῦ ἱεροῦ — the section on the colt and Bethphage, the city, and the temple with \"my house shall be called a house of prayer\" were not in Marcion's text. Tertullian passes from 19:26 (4.37.4) to 20:1–8 (4.38.1), and Roth counts his silence as confirmation. 19:28 (\"he went on ahead, going up to Jerusalem\") is not cited by any witness (U?). The whole of 19:28–46 is printed as restored by method (METHOD §11), and 19:29–46 is printed against Marcion's text as the witnesses report it. The grounds are in the printed text. By its mechanics: the road set at 9:51 (\"he set his face to go to Jerusalem\") is named again at 17:11 and 19:11 (\"because he was near Jerusalem\"), and without this passage it never arrives. From \"near Jerusalem\" the text would go straight to \"in the temple\" (20:1): no going up, no descent of the mountain with \"peace in heaven, and glory in the highest\", no weeping over the city whose peace is hidden from its eyes, no entering the house of prayer. By its words: 20:2, \"by what authority do you do these things?\", has its first object in 19:45–46. The reading is in docs/research/correspondence/word_by_word.md (chapter 17, tests of 19:28 and 19:29–46). The Greek is NA27, checked on the page images (pp. 223–225); it differs from SBLGNT at 19:36 (αὐτῶν), 19:38 (ὁ ἐρχόμενος ὁ βασιλεύς) and 19:40 (without ὅτι)."
         },
         {
           "id": 4,
-          "term": "Not printed: 19:27 and 19:47–48",
-          "verse_refs": [26, 45],
-          "category": "excision",
-          "explanation": "19:27, the slaughter of the enemies who did not want the nobleman to reign, is not cited by Tertullian, though his point was the master's severity; it is classed probably absent. 19:47–48 (\"he was teaching daily in the temple…\") forms a paragraph with no attested verse. The correspondential reading tested both at their places. 19:47–48 continues the line but closes no gap: 20:1 opens \"as he was teaching the people in the temple\". 19:27 is listed for the owner as a passage the printed text leans on (docs/research/correspondence/restorations.md)."
+          "term": "Restored by method: the citizens who refused (19:27)",
+          "verse_refs": [14, 15, 26, 27],
+          "category": "textual",
+          "explanation": "19:27, the slaughter of the enemies who did not want the nobleman to reign, is not cited by Tertullian, though his point was the master's severity (4.37.4); it is classed probably absent (U−). It is printed as restored by method (METHOD §11), against that class. By its mechanics: the parable sets two groups going at the departure, the servants (19:13) and the citizens who say \"we do not want this man to reign over us\" (19:14); the master returns \"having received the kingdom\" (19:15) and reckons with the servants, and only 19:27 reckons with the citizens. Read inwardly, as the text's persons are read throughout, the enemies who refuse his reign are what in the person refuses it, and their death \"before him\" is that refusal ended in his presence: the enemy's power trodden (10:19), the enemies made a footstool (20:43). The enemy as person is loved (6:27). Reading: docs/research/correspondence/word_by_word.md (chapter 17, test of 19:27); second_pass.md §2."
         },
         {
           "id": 5,
+          "term": "Not printed: 19:47–48",
+          "verse_refs": [46],
+          "category": "excision",
+          "explanation": "19:47–48 (\"he was teaching daily in the temple…\") forms a paragraph with no attested verse. The correspondential reading tested it at its place: it continues the line, and nothing printed needs it; 20:1 opens \"as he was teaching the people in the temple\"."
+        },
+        {
+          "id": 6,
           "term": "The entry in this text",
-          "verse_refs": [27, 37, 45],
+          "verse_refs": [28, 38, 46],
           "category": "theological",
           "explanation": "Interpretation. In Marcion's text as the witnesses report it there is no entry on a colt and no action in the temple: Epiphanius' charge is that Marcion cut these scenes out, and on the Marcionite-priority view canonical Luke added them. The witnesses establish only that they were absent from Marcion's copy. This edition prints them on another ground, the reading of its own printed text (METHOD §11): the road to Jerusalem is the line the whole text runs on, and the passage is its arrival. Read so, the entry is not a royal claim. He goes up; he comes down the mountain to the praise of \"peace in heaven\"; he weeps over the city because its peace is hidden from its eyes; and he enters the house that is to be a house of prayer."
         }
@@ -4920,7 +4969,7 @@
     {
       "chapter": 19,
       "title": "Proto-Luke Chapter 19",
-      "preamble": "The signs of the end. Some speak of the temple adorned with beautiful stones and offerings, and Jesus says that not one stone will be left upon another (21:5–6, printed as restored by method; see the notes). The disciples ask when these things will be. Jesus warns them against those who will come in his name, and speaks of wars, earthquakes, famines, terrors and signs from heaven, and of persecution before kings and governors, \"for my name's sake\". He tells them not to prepare their defence, for he will give them wisdom, and that by endurance they will gain their lives. He speaks of Jerusalem surrounded by armies, of signs in sun, moon and stars, and of the son of man \"coming from the heavens with great power\" (Tertullian, Marc. 4.39.10). When these things begin, they are to lift up their heads, for their redemption is near; the fig tree shows that the kingdom of God is near. He warns them against dissipation and the cares of life. By day he teaches in the temple and by night he lodges on the Mount of Olives. Two sayings are absent, by Epiphanius' statement: \"not a hair of your head will perish\" (21:18) and the flight from Judea \"that all that is written may be fulfilled\" (21:21–22).",
+      "preamble": "The signs of the end. Some speak of the temple adorned with beautiful stones and offerings, and Jesus says that not one stone will be left upon another (21:5–6, printed as restored by method; see the notes). The disciples ask when these things will be. Jesus warns them against those who will come in his name, and speaks of wars, earthquakes, famines, terrors and signs from heaven, and of persecution before kings and governors, \"for my name's sake\". He tells them not to prepare their defence, for he will give them wisdom, and that by endurance they will gain their lives. He speaks of Jerusalem surrounded by armies, of signs in sun, moon and stars, and of the son of man coming \"in a cloud with power and great glory\" (NA27; Tertullian's \"from the heavens with great power\", Marc. 4.39.10, is recorded in the notes). When these things begin, they are to lift up their heads, for their redemption is near; the fig tree shows that the kingdom of God is near. He warns them against dissipation and the cares of life. By day he teaches in the temple and by night he lodges on the Mount of Olives. Two sayings are absent, by Epiphanius' statement: \"not a hair of your head will perish\" (21:18) and the flight from Judea \"that all that is written may be fulfilled\" (21:21–22).",
       "verses": [
         {
           "verse": 1,
@@ -5043,8 +5092,8 @@
         {
           "verse": 20,
           "canonical_ref": "Luke 21:27",
-          "english": "And then they will see the son of man coming from the heavens with great power.",
-          "greek": "καὶ τότε ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἀπὸ τῶν οὐρανῶν μετὰ δυνάμεως πολλῆς."
+          "english": "And then they will see the son of man coming in a cloud with power and great glory.",
+          "greek": "καὶ τότε ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν νεφέλῃ μετὰ δυνάμεως καὶ δόξης πολλῆς."
         },
         {
           "verse": 21,
@@ -5141,7 +5190,7 @@
           "term": "Jerusalem and the end (21:20–28)",
           "verse_refs": [15, 16, 18, 19, 20, 21],
           "category": "textual",
-          "explanation": "Tertullian (4.39.9–12): when Jerusalem begins to be surrounded by armies (\"vallari exercitibus Hierusalem\"), the signs of the end follow, in sun, moon and stars, nations in anguish \"as at the roar of the sea\", the powers of heaven shaken. \"And then they will see the son of man coming from the heavens with great power\". Then come \"lift up your heads, for your redemption has drawn near\". The reading \"from the heavens with great power\" is printed for canonical Luke's \"in a cloud with power and great glory\". Epiphanius states that the text lacked the flight of those in Judea to the mountains and \"until all that is written is fulfilled\" (21:21–22; sch. 59). No witness to this text has the \"abomination of desolation\" of Mark 13:14 and Matthew 24:15. 21:23–24 are not cited and are printed in grey."
+          "explanation": "Tertullian (4.39.9–12): when Jerusalem begins to be surrounded by armies (\"vallari exercitibus Hierusalem\"), the signs of the end follow, in sun, moon and stars, nations in anguish \"as at the roar of the sea\", the powers of heaven shaken. \"And then they will see the son of man coming from the heavens with great power\". Then come \"lift up your heads, for your redemption has drawn near\". Tertullian's wording \"from the heavens with great power\" is attested (Roth: very likely), but NA27's \"in a cloud with power and great glory\" is printed, by method (METHOD §11): the correspondential reading marks the attested wording as a strain that drops the glory announced at 9:26 and the cloud of the mountain (9:34–35). On the premise of a correspondential original it belongs to the transmission of Marcion's copy. Epiphanius states that the text lacked the flight of those in Judea to the mountains and \"until all that is written is fulfilled\" (21:21–22; sch. 59). No witness to this text has the \"abomination of desolation\" of Mark 13:14 and Matthew 24:15. 21:23–24 are not cited and are printed in grey."
         },
         {
           "id": 5,
@@ -5152,10 +5201,10 @@
         },
         {
           "id": 6,
-          "term": "The coming from the heavens",
+          "term": "The coming in a cloud",
           "verse_refs": [20, 21, 24],
           "category": "theological",
-          "explanation": "Interpretation. In this text the son of man comes \"from the heavens with great power\", without the cloud and the \"glory\" of canonical Luke. The redemption drawing near is set beside \"the kingdom of God is near\" (21:31), and the warning is against the heaviness of a heart taken up with drink and worldly cares. Tertullian's argument is that the terrors and the promises belong to one son of man and cannot be separated (4.39.13–15). The text keeps the coming and the call to watchfulness in one discourse."
+          "explanation": "Interpretation. The son of man comes \"in a cloud with power and great glory\": the glory announced at 9:26 and seen on the mountain (9:32), and the cloud from which the voice said \"hear him\" (9:34–35). In Swedenborg's exposition of the same words (Arcana Coelestia 4060, on Matt 24:30) the cloud is the sense of the letter and the glory the inner sense: the coming is the Lord revealed in the Word. The redemption drawing near is set beside \"the kingdom of God is near\" (21:31), and the warning is against the heaviness of a heart taken up with drink and worldly cares. Marcion's copy, as Tertullian read it, had the coming \"from the heavens with great power\", without the cloud and the glory."
         }
       ]
     },
@@ -5569,7 +5618,7 @@
     {
       "chapter": 21,
       "title": "Proto-Luke Chapter 21",
-      "preamble": "Pilate, Herod and the cross. The council brings Jesus to Pilate. In this text the accusers say: \"We found this man misleading our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the children\" (Epiphanius, sch. 69–70). Pilate sends him to Herod, who is glad to see him and hears no word from him. The crowd asks for Barabbas and demands that Jesus be crucified. He is crucified at the Skull between two criminals. There is darkness at the sixth hour and the curtain of the temple is torn. Jesus cries out with a loud voice to the Father and breathes his last. Joseph, who had not consented to the council's act, takes down the body, wraps it in linen and lays it in a rock-cut tomb. The women see the tomb and rest on the Sabbath. By the witnesses' statements the text lacked the dividing of the garments (Tertullian) and \"Today you will be with me in paradise\" (Epiphanius).",
+      "preamble": "Pilate, Herod and the cross. The council brings Jesus to Pilate. In this text the accusers say: \"We found this man misleading our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the children\" (Epiphanius, sch. 69–70). Pilate sends him to Herod, who is glad to see him and hears no word from him. The crowd asks for Barabbas and demands that Jesus be crucified, though Pilate three times finds no guilt in him and offers to release him (23:13–16 printed as restored by method). He is crucified at the Skull between two criminals. One of them asks, \"Jesus, remember me when you come into your kingdom\", and is told, \"Today you will be with me in paradise\" (23:39–43, printed as restored by method, 23:43 against Marcion's text). There is darkness at the sixth hour and the curtain of the temple is torn. Jesus cries out with a loud voice to the Father and breathes his last. Joseph, who had not consented to the council's act, takes down the body, wraps it in linen and lays it in a rock-cut tomb. The women see the tomb and rest on the Sabbath. By the witnesses' statements Marcion's text lacked the dividing of the garments (Tertullian) and \"Today you will be with me in paradise\" (Epiphanius); the second is printed by method (see the notes).",
       "verses": [
         {
           "verse": 1,
@@ -5651,124 +5700,187 @@
         },
         {
           "verse": 13,
+          "canonical_ref": "Luke 23:13",
+          "english": "Pilate then called together the chief priests and the rulers and the people,",
+          "greek": "Πιλᾶτος δὲ συγκαλεσάμενος τοὺς ἀρχιερεῖς καὶ τοὺς ἄρχοντας καὶ τὸν λαὸν",
+          "attestation": "restored"
+        },
+        {
+          "verse": 14,
+          "canonical_ref": "Luke 23:14",
+          "english": "and said to them, \"You brought me this man as one who was turning the people away; and look, having examined him before you, I have found in this man no guilt in the things you accuse him of.",
+          "greek": "εἶπεν πρὸς αὐτούς· Προσηνέγκατέ μοι τὸν ἄνθρωπον τοῦτον ὡς ἀποστρέφοντα τὸν λαόν, καὶ ἰδοὺ ἐγὼ ἐνώπιον ὑμῶν ἀνακρίνας οὐθὲν εὗρον ἐν τῷ ἀνθρώπῳ τούτῳ αἴτιον ὧν κατηγορεῖτε κατ’ αὐτοῦ.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 15,
+          "canonical_ref": "Luke 23:15",
+          "english": "Neither has Herod, for he sent him back to us; and look, nothing deserving death has been done by him.",
+          "greek": "ἀλλ’ οὐδὲ Ἡρῴδης, ἀνέπεμψεν γὰρ αὐτὸν πρὸς ἡμᾶς· καὶ ἰδοὺ οὐδὲν ἄξιον θανάτου ἐστὶν πεπραγμένον αὐτῷ·",
+          "attestation": "restored"
+        },
+        {
+          "verse": 16,
+          "canonical_ref": "Luke 23:16",
+          "english": "I will therefore punish and release him.\"",
+          "greek": "παιδεύσας οὖν αὐτὸν ἀπολύσω.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 17,
           "canonical_ref": "Luke 23:18",
           "english": "But they all cried out together, \"Away with this man, and release to us Barabbas\"—",
           "greek": "Ἀνέκραγον δὲ παμπληθεὶ λέγοντες· Αἶρε τοῦτον, ἀπόλυσον δὲ ἡμῖν τὸν Βαραββᾶν·"
         },
         {
-          "verse": 14,
+          "verse": 18,
           "canonical_ref": "Luke 23:19",
           "english": "a man who had been thrown into prison for an insurrection started in the city and for murder.",
           "greek": "ὅστις ἦν διὰ στάσιν τινὰ γενομένην ἐν τῇ πόλει καὶ φόνον βληθεὶς ἐν τῇ φυλακῇ."
         },
         {
-          "verse": 15,
+          "verse": 19,
           "canonical_ref": "Luke 23:20",
           "english": "Pilate addressed them once more, desiring to release Jesus,",
           "greek": "πάλιν δὲ ὁ Πιλᾶτος προσεφώνησεν αὐτοῖς θέλων ἀπολῦσαι τὸν Ἰησοῦν.",
           "attestation": "unattested"
         },
         {
-          "verse": 16,
+          "verse": 20,
           "canonical_ref": "Luke 23:21",
           "english": "but they kept shouting, \"Crucify, crucify him!\"",
           "greek": "οἱ δὲ ἐπεφώνουν λέγοντες· Σταύρου σταύρου αὐτόν.",
           "attestation": "unattested"
         },
         {
-          "verse": 17,
+          "verse": 21,
           "canonical_ref": "Luke 23:22",
           "english": "A third time he said to them, \"Why? What evil has he done? I have found in him no guilt deserving death. I will therefore punish and release him.\"",
           "greek": "ὁ δὲ τρίτον εἶπεν πρὸς αὐτούς· Τί γὰρ κακὸν ἐποίησεν οὗτος; οὐδὲν αἴτιον θανάτου εὗρον ἐν αὐτῷ· παιδεύσας οὖν αὐτὸν ἀπολύσω."
         },
         {
-          "verse": 18,
+          "verse": 22,
           "canonical_ref": "Luke 23:23",
           "english": "But they were urgent, demanding with loud cries that he should be crucified. And their voices prevailed.",
           "greek": "οἱ δὲ ἐπέκειντο φωναῖς μεγάλαις αἰτούμενοι αὐτὸν σταυρωθῆναι, καὶ κατίσχυον αἱ φωναὶ αὐτῶν."
         },
         {
-          "verse": 19,
+          "verse": 23,
           "canonical_ref": "Luke 23:24",
           "english": "So Pilate decided that their demand should be granted.",
           "greek": "καὶ Πιλᾶτος ἐπέκρινεν γενέσθαι τὸ αἴτημα αὐτῶν·",
           "attestation": "unattested"
         },
         {
-          "verse": 20,
+          "verse": 24,
           "canonical_ref": "Luke 23:25",
           "english": "He released the man who had been thrown into prison for insurrection and murder, for whom they asked, but he delivered Jesus over to their will.",
           "greek": "ἀπέλυσεν δὲ τὸν διὰ στάσιν καὶ φόνον βεβλημένον εἰς φυλακὴν ὃν ᾐτοῦντο, τὸν δὲ Ἰησοῦν παρέδωκεν τῷ θελήματι αὐτῶν."
         },
         {
-          "verse": 21,
+          "verse": 25,
           "canonical_ref": "Luke 23:32",
           "english": "Two others, who were criminals, were led away to be put to death with him.",
           "greek": "Ἤγοντο δὲ καὶ ἕτεροι κακοῦργοι δύο σὺν αὐτῷ ἀναιρεθῆναι."
         },
         {
-          "verse": 22,
+          "verse": 26,
           "canonical_ref": "Luke 23:33",
           "english": "And when they came to the place that is called The Skull, there they crucified him, and the criminals, one on his right and one on his left.",
           "greek": "καὶ ὅτε ἦλθον ἐπὶ τὸν τόπον τὸν καλούμενον Κρανίον, ἐκεῖ ἐσταύρωσαν αὐτὸν καὶ τοὺς κακούργους, ὃν μὲν ἐκ δεξιῶν ὃν δὲ ἐξ ἀριστερῶν."
         },
         {
-          "verse": 23,
+          "verse": 27,
+          "canonical_ref": "Luke 23:39",
+          "english": "One of the criminals who were hanged there blasphemed him, saying, \"Are you not the Anointed One? Save yourself and us!\"",
+          "greek": "Εἷς δὲ τῶν κρεμασθέντων κακούργων ἐβλασφήμει αὐτόν λέγων· Οὐχὶ σὺ εἶ ὁ χριστός; σῶσον σεαυτὸν καὶ ἡμᾶς.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 28,
+          "canonical_ref": "Luke 23:40",
+          "english": "But the other answered and rebuked him, saying, \"Do you not fear God, since you are under the same sentence?",
+          "greek": "ἀποκριθεὶς δὲ ὁ ἕτερος ἐπιτιμῶν αὐτῷ ἔφη· Οὐδὲ φοβῇ σὺ τὸν θεόν, ὅτι ἐν τῷ αὐτῷ κρίματι εἶ;",
+          "attestation": "restored"
+        },
+        {
+          "verse": 29,
+          "canonical_ref": "Luke 23:41",
+          "english": "And we indeed justly, for we are receiving back what our deeds deserve; but this man has done nothing wrong.\"",
+          "greek": "καὶ ἡμεῖς μὲν δικαίως, ἄξια γὰρ ὧν ἐπράξαμεν ἀπολαμβάνομεν· οὗτος δὲ οὐδὲν ἄτοπον ἔπραξεν.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 30,
+          "canonical_ref": "Luke 23:42",
+          "english": "And he said, \"Jesus, remember me when you come into your kingdom.\"",
+          "greek": "καὶ ἔλεγεν· Ἰησοῦ, μνήσθητί μου ὅταν ἔλθῃς εἰς τὴν βασιλείαν σου.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 31,
+          "canonical_ref": "Luke 23:43",
+          "english": "And he said to him, \"Truly I tell you, today you will be with me in paradise.\"",
+          "greek": "καὶ εἶπεν αὐτῷ· Ἀμήν σοι λέγω σήμερον μετ’ ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 32,
           "canonical_ref": "Luke 23:44",
           "english": "It was now about the sixth hour, and there was darkness over the whole land until the ninth hour,",
           "greek": "Καὶ ἦν ἤδη ὡσεὶ ὥρα ἕκτη καὶ σκότος ἐγένετο ἐφ’ ὅλην τὴν γῆν ἕως ὥρας ἐνάτης"
         },
         {
-          "verse": 24,
+          "verse": 33,
           "canonical_ref": "Luke 23:45",
           "english": "while the sun's light failed. And the curtain of the temple was torn in two.",
           "greek": "τοῦ ἡλίου ἐκλιπόντος, ἐσχίσθη δὲ τὸ καταπέτασμα τοῦ ναοῦ μέσον."
         },
         {
-          "verse": 25,
+          "verse": 34,
           "canonical_ref": "Luke 23:46",
           "english": "Then Jesus, calling out with a loud voice, said, \"Father, into your hands I commit my spirit!\" And having said this he breathed his last.",
           "greek": "καὶ φωνήσας φωνῇ μεγάλῃ ὁ Ἰησοῦς εἶπεν· Πάτερ, εἰς χεῖράς σου παρατίθεμαι τὸ πνεῦμά μου. τοῦτο δὲ εἰπὼν ἐξέπνευσεν."
         },
         {
-          "verse": 26,
+          "verse": 35,
           "canonical_ref": "Luke 23:50",
           "english": "Now there was a man named Joseph, a member of the council, a good and righteous man,",
           "greek": "Καὶ ἰδοὺ ἀνὴρ ὀνόματι Ἰωσὴφ βουλευτὴς ὑπάρχων καὶ ἀνὴρ ἀγαθὸς καὶ δίκαιος—"
         },
         {
-          "verse": 27,
+          "verse": 36,
           "canonical_ref": "Luke 23:51",
           "english": "who had not consented to their decision and action; he was from Arimathea, a Jewish town, and he was looking for the kingdom of God.",
           "greek": "οὗτος οὐκ ἦν συγκατατεθειμένος τῇ βουλῇ καὶ τῇ πράξει αὐτῶν— ἀπὸ Ἁριμαθαίας πόλεως τῶν Ἰουδαίων, ὃς προσεδέχετο τὴν βασιλείαν τοῦ θεοῦ,"
         },
         {
-          "verse": 28,
+          "verse": 37,
           "canonical_ref": "Luke 23:52",
           "english": "This man went to Pilate and asked for the body of Jesus.",
           "greek": "οὗτος προσελθὼν τῷ Πιλάτῳ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ,"
         },
         {
-          "verse": 29,
+          "verse": 38,
           "canonical_ref": "Luke 23:53",
           "english": "Then he took it down and wrapped it in a linen shroud and laid him in a tomb cut in stone, where no one had ever yet been laid.",
           "greek": "καὶ καθελὼν ἐνετύλιξεν αὐτὸ σινδόνι, καὶ ἔθηκεν αὐτὸν ἐν μνήματι λαξευτῷ οὗ οὐκ ἦν οὐδεὶς οὔπω κείμενος."
         },
         {
-          "verse": 30,
+          "verse": 39,
           "canonical_ref": "Luke 23:54",
           "english": "It was the day of Preparation, and the Sabbath was beginning.",
           "greek": "καὶ ἡμέρα ἦν παρασκευῆς, καὶ σάββατον ἐπέφωσκεν.",
           "attestation": "unattested"
         },
         {
-          "verse": 31,
+          "verse": 40,
           "canonical_ref": "Luke 23:55",
           "english": "The women who had come with him from Galilee followed and saw the tomb and how his body was laid.",
           "greek": "κατακολουθήσασαι δὲ αἱ γυναῖκες, αἵτινες ἦσαν συνεληλυθυῖαι ἐκ τῆς Γαλιλαίας αὐτῷ, ἐθεάσαντο τὸ μνημεῖον καὶ ὡς ἐτέθη τὸ σῶμα αὐτοῦ,"
         },
         {
-          "verse": 32,
+          "verse": 41,
           "canonical_ref": "Luke 23:56",
           "english": "Then they returned and prepared spices and ointments. On the Sabbath they rested according to the commandment.",
           "greek": "ὑποστρέψασαι δὲ ἡτοίμασαν ἀρώματα καὶ μύρα. Καὶ τὸ μὲν σάββατον ἡσύχασαν κατὰ τὴν ἐντολήν."
@@ -5785,26 +5897,40 @@
         {
           "id": 2,
           "term": "Herod and the sentence (23:6–25)",
-          "verse_refs": [7, 8, 9, 13, 14, 17, 18, 20],
+          "verse_refs": [7, 8, 9, 17, 18, 21, 22, 24],
           "category": "textual",
-          "explanation": "Tertullian (4.42.2–4) reads the trial through Ps 2 and Isaiah: Herod receives Jesus \"as a gift\" from Pilate (Hos 10:6), is glad to see him and hears no word from him, as the lamb is silent before the shearer (Isa 53:7). Barabbas, \"most guilty in life\", is released as if good, and Christ, \"most just\", is demanded for death as a murderer. 23:13–16 form a paragraph that no witness cites and is not printed; NA27 has no 23:17."
+          "explanation": "Tertullian (4.42.2–4) reads the trial through Ps 2 and Isaiah: Herod receives Jesus \"as a gift\" from Pilate (Hos 10:6), is glad to see him and hears no word from him, as the lamb is silent before the shearer (Isa 53:7). Barabbas, \"most guilty in life\", is released as if good, and Christ, \"most just\", is demanded for death as a murderer. NA27 has no 23:17."
         },
         {
           "id": 3,
-          "term": "The crucifixion (23:26–46)",
-          "verse_refs": [21, 22, 23, 24, 25],
+          "term": "Restored by method: Pilate's second finding (23:13–16)",
+          "verse_refs": [4, 14, 15, 16, 17, 19, 21],
           "category": "textual",
-          "explanation": "Tertullian (4.42.4) attests the two criminals crucified with Jesus \"so that he was counted among the lawless\", and states that Marcion removed the dividing of his garments because of Ps 22:18; he answers that the whole psalm is Christ's garment. Epiphanius' scholion 71 mentions the dividing, but in a summary of the scene in Matthew's wording; Tertullian's statement is followed. Epiphanius states that \"Today you will be with me in paradise\" (23:43) was not in the text (sch. 72). Tertullian (4.42.5) attests the darkness at the sixth hour and the torn curtain, and (4.42.6) the loud cry to the Father and \"having said this, he breathed his last\", from which he argues that what breathes out a spirit is flesh. \"Father, forgive them\" (23:34a) is not in the NA27 text and is not cited by either witness. Simon of Cyrene, the daughters of Jerusalem, the mockery at the cross, the criminals' exchange, the centurion and the onlookers (23:26–31, 35–42, 47–49) are in paragraphs that no witness cites."
+          "explanation": "23:13–16 form a paragraph that no witness cites (U?). It is printed as restored by method (METHOD §11). By its words, three printed verses point to it: 23:18, \"release (ἀπόλυσον) to us Barabbas\", answers an offer of release that only 23:16 makes; 23:20, \"again (πάλιν), wishing to release Jesus\", has no earlier wish without it; and the attested 23:22, \"a third time\", repeats 23:14–16 almost word for word (\"I found nothing deserving death in him; I will therefore punish and release him\"). The first finding is 23:4 and the third 23:22; the second is 23:14–15. By its mechanics: release offered three times answers the denial spoken three times (22:34; 22:57–60). Reading: docs/research/correspondence/second_pass.md §2. The Greek is NA27, checked on the page image (p. 238)."
         },
         {
           "id": 4,
+          "term": "The crucifixion (23:26–46)",
+          "verse_refs": [25, 26, 32, 33, 34],
+          "category": "textual",
+          "explanation": "Tertullian (4.42.4) attests the two criminals crucified with Jesus \"so that he was counted among the lawless\", and states that Marcion removed the dividing of his garments because of Ps 22:18; he answers that the whole psalm is Christ's garment. Epiphanius' scholion 71 mentions the dividing, but in a summary of the scene in Matthew's wording; Tertullian's statement is followed. Epiphanius states that \"Today you will be with me in paradise\" (23:43) was not in the text (sch. 72); it is printed by method (see the next note). Tertullian (4.42.5) attests the darkness at the sixth hour and the torn curtain, and (4.42.6) the loud cry to the Father and \"having said this, he breathed his last\", from which he argues that what breathes out a spirit is flesh. \"Father, forgive them\" (23:34a) is not in the NA27 text and is not cited by either witness. Simon of Cyrene, the daughters of Jerusalem, the mockery at the cross, the centurion and the onlookers (23:26–31, 35–38, 47–49) are in paragraphs that no witness cites; the correspondential reading tested them at their places, and the printed text does not need them."
+        },
+        {
+          "id": 5,
+          "term": "Restored by method: the two beside him (23:39–43)",
+          "verse_refs": [25, 26, 27, 30, 31],
+          "category": "textual",
+          "explanation": "No witness cites 23:39–42 (U?), and Epiphanius states that Marcion's text lacked 23:43, \"Today you will be with me in paradise\" (sch. 72). The passage is printed as restored by method (METHOD §11), and 23:43 against Marcion's text. By its mechanics: the printed text states the law of the two, \"one taken along, the other left\" (17:34–35), and brings two evil-doers to the cross, \"one on the right and one on the left\" (23:32–33; Tertullian 4.42.4: \"duo scelesti circumfiguntur illi\"), without bringing them back. Here one demands that he save himself, and the other fears God, accepts his measure, asks to be remembered, and is taken \"today, with me\". It completes three strands: Peter's \"with you… to death\" (22:33), denied in 22:54–62 and here kept by an evil-doer; remembering (22:61; 23:42; 24:6–8); and \"today\" (4:21; 19:9). Reading: docs/research/correspondence/word_by_word.md (chapter 21); second_pass.md §2. The Greek is NA27, checked on the page image (p. 240); at 23:42 NA27 reads εἰς τὴν βασιλείαν. The previous edition printed 23:43 without grounds and the audit removed it (batch 6); it is now printed on the grounds stated here."
+        },
+        {
+          "id": 6,
           "term": "The burial (23:50–56)",
-          "verse_refs": [26, 27, 28, 29, 31, 32],
+          "verse_refs": [35, 36, 37, 38, 40, 41],
           "category": "textual",
           "explanation": "Tertullian (4.42.7–8) argues from the burial: if the body were a phantom, nothing would have been asked of Pilate, taken down from the cross, wrapped in linen or laid in a new tomb; Joseph, \"who had not consented to the crime\", knew it was a body. Epiphanius quotes Joseph taking down the body, wrapping it in linen and laying it in a rock-cut tomb (sch. 74), and the women returning and resting on the Sabbath \"according to the law\" (sch. 75). Tertullian (4.43.1) attests the women who came to the tomb with spices."
         },
         {
-          "id": 5,
+          "id": 7,
           "term": "\"Destroying the law and the prophets\"",
           "verse_refs": [2],
           "category": "theological",

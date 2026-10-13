@@ -1,4 +1,5 @@
-"""Batch 6, chapter 21 of the reconstruction: Luke 23:1–56."""
+"""Batch 6, chapter 21 of the reconstruction: Luke 23:1–56 (23:13–16 and 23:39–43 restored by method, METHOD §11)."""
+from buildlib import R
 from batch1_ch2 import U, A
 from batch6_patches import G
 
@@ -9,6 +10,18 @@ T421 = T('4.42.1', '"Perductum enim illum ad Pilatum onerare coeperunt quod se r
 T423 = T('4.42.3', '"Nam et Herodi velut munus a Pilato missus… Delectatus est denique Herodes viso Iesu, nec vocem ullam ab eo audivit."')
 T424 = T('4.42.4', '"Et Barrabas quidem nocentissimus vita ut bonus donatur, Christus vero iustissimus ut homicida morti expostulatur. Sed et duo scelesti circumfiguntur illi, ut inter iniquos scilicet deputaretur."')
 T427 = T('4.42.7', '"nihil de Pilato postulatum, nihil de patibulo detractum, nihil sindone involutum, nihil sepulcro novo conditum."')
+
+CR_23_13 = 'Pilate tells the chief priests and rulers that neither he nor Herod found him guilty: a paragraph with no attested verse (METHOD §4.3).'
+GR_23_13 = ('by its words, three printed verses point to it: 23:18 "release (ἀπόλυσον) to us Barabbas" answers an offer of release that only 23:16 makes; 23:20 "again (πάλιν), wishing to release Jesus" has no earlier wish without it; '
+            'the attested 23:22 "a third time" repeats 23:14–16 almost word for word ("I found nothing deserving death in him; having disciplined him, I will release him"), and the second finding, between 23:4 and 23:22, is 23:14–15. '
+            'By its mechanics: release offered three times answers the denial spoken three times (22:34; 22:57–60). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:13–16; second_pass.md §2.')
+CR_23_39 = 'The two criminals; "Jesus, remember me when you come into your kingdom". A paragraph with no attested verse; its answer (23:43) is attested absent.'
+CR_23_43 = 'Epiphanius states that the text lacked "Today you will be with me in paradise" (sch. 72). Tertullian passes from 23:34 to 23:44 (4.42.4–5).'
+GR_23_39 = ('by its mechanics, the printed text states the law of the two, "one taken along, the other left" (17:34–35), and brings two evil-doers to the cross, "one on the right and one on the left" (23:32–33), without bringing them back. '
+            'Here one demands that he save himself, and the other fears God, accepts his measure, asks to be remembered, and is taken "today, with me". It completes three strands of the final text: faith\'s "with you… to death" (22:33) denied (22:54–62) and here kept by the evil-doer; '
+            'remembering (22:61 → 23:42 → 24:6–8); and "today" (4:21; 19:9). Reading: docs/research/correspondence/word_by_word.md, chapter 21, test of 23:39–43; second_pass.md §2.')
+W13 = lambda ref, en: R(ref, G(ref), en, 'U?', 'unattested', CR_23_13, GR_23_13, wording='NA27 (checked on the page image, p. 238).')
+W39 = lambda ref, en, note='': R(ref, G(ref), en, 'U?', 'unattested', CR_23_39, GR_23_39, wording='NA27 (checked on the page image, p. 240).' + note)
 
 ENTRIES = [
  A('23:1', G('23:1'), 'Then the whole company of them arose and brought him before Pilate.',
@@ -38,6 +51,10 @@ ENTRIES = [
  U('23:10', G('23:10'), 'The chief priests and the scribes stood by, vehemently accusing him.', 'Inside the attested paragraph 23:8–12.'),
  U('23:11', G('23:11'), 'And Herod with his soldiers treated him with contempt and mocked him. Then, arraying him in splendid clothing, he sent him back to Pilate.', 'Inside the attested paragraph 23:8–12. NA27 [καί].'),
  U('23:12', G('23:12'), 'And Herod and Pilate became friends with each other that very day, for before this they had been at enmity with each other.', 'Inside the attested paragraph 23:8–12.'),
+ W13('23:13', 'Pilate then called together the chief priests and the rulers and the people,'),
+ W13('23:14', 'and said to them, "You brought me this man as one who was turning the people away; and look, having examined him before you, I have found in this man no guilt in the things you accuse him of.'),
+ W13('23:15', 'Neither has Herod, for he sent him back to us; and look, nothing deserving death has been done by him.'),
+ W13('23:16', 'I will therefore punish and release him."'),
  A('23:18', G('23:18'), 'But they all cried out together, "Away with this man, and release to us Barabbas"—',
    'present (Marc. 4.42.4)', [T424]),
  A('23:19', G('23:19'), 'a man who had been thrown into prison for an insurrection started in the city and for murder.',
@@ -57,6 +74,13 @@ ENTRIES = [
    'present (Marc. 4.42.4; Pan. 42.11.6, sch. 71)',
    [T424, E(71, '»καὶ ἐλθόντες εἰς τόπον λεγόμενον Κρανίου τόπος ἐσταύρωσαν αὐτὸν καὶ διεμερίσαντο τὰ ἱμάτια αὐτοῦ καὶ ἐσκοτίσθη ὁ ἥλιος«.')],
    wording='NA27. Epiphanius\' wording follows Matt 27:33 and runs 23:33, 34b and 45 together; Roth: a summary, possible only.'),
+ W39('23:39', 'One of the criminals who were hanged there blasphemed him, saying, "Are you not the Anointed One? Save yourself and us!"'),
+ W39('23:40', 'But the other answered and rebuked him, saying, "Do you not fear God, since you are under the same sentence?'),
+ W39('23:41', 'And we indeed justly, for we are receiving back what our deeds deserve; but this man has done nothing wrong."'),
+ W39('23:42', 'And he said, "Jesus, remember me when you come into your kingdom."', note=' εἰς τὴν βασιλείαν (SBLGNT ἐν τῇ βασιλείᾳ).'),
+ R('23:43', G('23:43'), 'And he said to him, "Truly I tell you, today you will be with me in paradise."', 'A−', 'absent', CR_23_43,
+   GR_23_39 + ' Printed against Marcion\'s text: the witness states that the verse was not in it.',
+   witnesses=[E(72, 'παρέκοψε τὸ »σήμερον μετ\' ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ«.')], wording='NA27 (checked on the page image, p. 240).'),
  A('23:44', G('23:44'), 'It was now about the sixth hour, and there was darkness over the whole land until the ninth hour,',
    'present (Marc. 4.42.5)',
    [T('4.42.5', '"Ecce autem et elementa concutiuntur… Hic erit dies de quo et Amos: Et erit illa die, dicit dominus, occidet sol meridie (habes et horae sextae significationem), et contenebrabit super terram."')],
@@ -95,8 +119,6 @@ ENTRIES = [
 ]
 
 OMITTED = [
- dict(ref='23:13–16', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason='Pilate tells the chief priests and rulers that neither he nor Herod found him guilty: a paragraph with no attested verse (METHOD §4.3).')),
  dict(ref='23:26', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='Simon of Cyrene: a one-verse NA27 paragraph with no attested verse.')),
  dict(ref='23:27–31', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
@@ -109,11 +131,6 @@ OMITTED = [
               '23:34a, "Father, forgive them, for they know not what they do", is printed by NA27 in double brackets as not part of its text (absent from 𝔓75 ℵ1 B D* W Θ 070 579 1241 a sys sa). Neither Tertullian nor Epiphanius cites it; Ephrem mentions the saying in an argument against the Marcionites (Comm. Diat. 21.3), which Roth rates as a possible attestation only. It is not printed.'))),
  dict(ref='23:35–38', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='The rulers and soldiers mock him; the inscription. A paragraph with no attested verse. Ps 22:7, 16 in Tertullian 4.42.4 is not clearly a reference to it (Roth).')),
- dict(ref='23:39–42', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason='The two criminals; "Jesus, remember me when you come into your kingdom". Unattested; the answer (23:43) is absent, and the paragraph has no attested verse.')),
- dict(ref='23:43', cls='A−', app=dict(roth='absent', witnesses=[
-      E(72, 'παρέκοψε τὸ »σήμερον μετ\' ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ«.')],
-      decision='not printed', reason='Epiphanius states that the text lacked "Today you will be with me in paradise". Tertullian passes from 23:34 to 23:44 (4.42.4–5).')),
  dict(ref='23:47–48', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='The centurion ("certainly this man was righteous") and the crowds beating their breasts: a paragraph with no attested verse.')),
  dict(ref='23:49', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
@@ -124,11 +141,14 @@ PREAMBLE = (
  "Pilate, Herod and the cross. The council brings Jesus to Pilate. In this text the accusers say: \"We found this man misleading "
  "our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the "
  "children\" (Epiphanius, sch. 69–70). Pilate sends him to Herod, who is glad to see him and hears no word from him. The crowd asks "
- "for Barabbas and demands that Jesus be crucified. He is crucified at the Skull between two criminals. There is darkness at the "
+ "for Barabbas and demands that Jesus be crucified, though Pilate three times finds no guilt in him and offers to release him "
+ "(23:13–16 printed as restored by method). He is crucified at the Skull between two criminals. One of them asks, \"Jesus, "
+ "remember me when you come into your kingdom\", and is told, \"Today you will be with me in paradise\" (23:39–43, printed "
+ "as restored by method, 23:43 against Marcion's text). There is darkness at the "
  "sixth hour and the curtain of the temple is torn. Jesus cries out with a loud voice to the Father and breathes his last. Joseph, "
  "who had not consented to the council's act, takes down the body, wraps it in linen and lays it in a rock-cut tomb. The women see "
- "the tomb and rest on the Sabbath. By the witnesses' statements the text lacked the dividing of the garments (Tertullian) and "
- "\"Today you will be with me in paradise\" (Epiphanius)."
+ "the tomb and rest on the Sabbath. By the witnesses' statements Marcion's text lacked the dividing of the garments (Tertullian) "
+ "and \"Today you will be with me in paradise\" (Epiphanius); the second is printed by method (see the notes)."
 )
 
 NOTES = [
@@ -142,18 +162,37 @@ NOTES = [
  dict(term='Herod and the sentence (23:6–25)', cat='textual', refs=['23:7', '23:8', '23:9', '23:18', '23:19', '23:22', '23:23', '23:25'], text=(
   "Tertullian (4.42.2–4) reads the trial through Ps 2 and Isaiah: Herod receives Jesus \"as a gift\" from Pilate (Hos 10:6), is "
   "glad to see him and hears no word from him, as the lamb is silent before the shearer (Isa 53:7). Barabbas, \"most guilty in "
-  "life\", is released as if good, and Christ, \"most just\", is demanded for death as a murderer. 23:13–16 form a paragraph that "
-  "no witness cites and is not printed; NA27 has no 23:17.")),
+  "life\", is released as if good, and Christ, \"most just\", is demanded for death as a murderer. NA27 has no 23:17.")),
+ dict(term='Restored by method: Pilate\'s second finding (23:13–16)', cat='textual', refs=['23:4', '23:14', '23:15', '23:16', '23:18', '23:20', '23:22'], text=(
+  "23:13–16 form a paragraph that no witness cites (U?). It is printed as restored by method (METHOD §11). By its words, three "
+  "printed verses point to it: 23:18, \"release (ἀπόλυσον) to us Barabbas\", answers an offer of release that only 23:16 makes; "
+  "23:20, \"again (πάλιν), wishing to release Jesus\", has no earlier wish without it; and the attested 23:22, \"a third time\", "
+  "repeats 23:14–16 almost word for word (\"I found nothing deserving death in him; I will therefore punish and release him\"). "
+  "The first finding is 23:4 and the third 23:22; the second is 23:14–15. By its mechanics: release offered three times answers "
+  "the denial spoken three times (22:34; 22:57–60). Reading: docs/research/correspondence/second_pass.md §2. The Greek is NA27, "
+  "checked on the page image (p. 238).")),
  dict(term='The crucifixion (23:26–46)', cat='textual', refs=['23:32', '23:33', '23:44', '23:45', '23:46'], text=(
   "Tertullian (4.42.4) attests the two criminals crucified with Jesus \"so that he was counted among the lawless\", and states "
   "that Marcion removed the dividing of his garments because of Ps 22:18; he answers that the whole psalm is Christ's garment. "
   "Epiphanius' scholion 71 mentions the dividing, but in a summary of the scene in Matthew's wording; Tertullian's statement is "
-  "followed. Epiphanius states that \"Today you will be with me in paradise\" (23:43) was not in the text (sch. 72). Tertullian "
+  "followed. Epiphanius states that \"Today you will be with me in paradise\" (23:43) was not in the text (sch. 72); it is "
+  "printed by method (see the next note). Tertullian "
   "(4.42.5) attests the darkness at the sixth hour and the torn curtain, and (4.42.6) the loud cry to the Father and \"having said "
   "this, he breathed his last\", from which he argues that what breathes out a spirit is flesh. \"Father, forgive them\" (23:34a) "
   "is not in the NA27 text and is not cited by either witness. Simon of Cyrene, the daughters of Jerusalem, the mockery at the "
-  "cross, the criminals' exchange, the centurion and the onlookers (23:26–31, 35–42, 47–49) are in paragraphs that no witness "
-  "cites.")),
+  "cross, the centurion and the onlookers (23:26–31, 35–38, 47–49) are in paragraphs that no witness cites; the correspondential "
+  "reading tested them at their places, and the printed text does not need them.")),
+ dict(term='Restored by method: the two beside him (23:39–43)', cat='textual', refs=['23:32', '23:33', '23:39', '23:42', '23:43'], text=(
+  "No witness cites 23:39–42 (U?), and Epiphanius states that Marcion's text lacked 23:43, \"Today you will be with me in "
+  "paradise\" (sch. 72). The passage is printed as restored by method (METHOD §11), and 23:43 against Marcion's text. By its "
+  "mechanics: the printed text states the law of the two, \"one taken along, the other left\" (17:34–35), and brings two "
+  "evil-doers to the cross, \"one on the right and one on the left\" (23:32–33; Tertullian 4.42.4: \"duo scelesti circumfiguntur "
+  "illi\"), without bringing them back. Here one demands that he save himself, and the other fears God, accepts his measure, "
+  "asks to be remembered, and is taken \"today, with me\". It completes three strands: Peter's \"with you… to death\" (22:33), "
+  "denied in 22:54–62 and here kept by an evil-doer; remembering (22:61; 23:42; 24:6–8); and \"today\" (4:21; 19:9). Reading: "
+  "docs/research/correspondence/word_by_word.md (chapter 21); second_pass.md §2. The Greek is NA27, checked on the page image "
+  "(p. 240); at 23:42 NA27 reads εἰς τὴν βασιλείαν. The previous edition printed 23:43 without grounds and the audit removed it "
+  "(batch 6); it is now printed on the grounds stated here.")),
  dict(term='The burial (23:50–56)', cat='textual', refs=['23:50', '23:51', '23:52', '23:53', '23:55', '23:56'], text=(
   "Tertullian (4.42.7–8) argues from the burial: if the body were a phantom, nothing would have been asked of Pilate, taken down "
   "from the cross, wrapped in linen or laid in a new tomb; Joseph, \"who had not consented to the crime\", knew it was a body. "

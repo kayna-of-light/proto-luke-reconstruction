@@ -141,7 +141,8 @@ ENTRIES = [
    'and that repentance for the forgiveness of sins should be proclaimed in his name to all the nations. Beginning from Jerusalem,',
    'present (Marc. 4.43.9)', [T('4.43.9', '"siquidem et apostolos mittens ad praedicandum universis nationibus, in omnem terram exire sonum eorum et in terminos terrae voces eorum, psalmum adimplendo praecepit."')],
    wording=('NA27 (εἰς ἄφεσιν, as NA27; SBLGNT καὶ ἄφεσιν; NA27 punctuation, with "beginning from Jerusalem" opening the sentence of 24:48). Tertullian attests the sending to preach to all the nations, as Jesus\' command; Roth: κηρυχθῆναι… εἰς πάντα τὰ ἔθνη very likely. '
-            'The infinitive depends on "thus it is written" in 24:46, printed as restored by method. 24:47b ("beginning from Jerusalem") is unattested and is printed as restored by method with 24:48–53 (METHOD §11); the previous text ended here with an ellipsis before the verse.')),
+            'The infinitive depends on "thus it is written" in 24:46, printed as restored by method. 24:47b ("beginning from Jerusalem") is unattested and is printed as restored by method with 24:48–53 (METHOD §11); the previous text ended here with an ellipsis before the verse.'),
+   decision='printed; 24:47b restored by method (correspondential reading)'),
  W48('24:48', 'you are witnesses of these things.', note=' Without ἐστε (SBLGNT has it).'),
  W48('24:49', 'And look, I am sending the promise of my Father upon you; but stay in the city until you are clothed with power from on high."', note=' ἀποστέλλω (SBLGNT ἐξαποστέλλω); NA27 [ἰδού] printed without the brackets (METHOD §5.7).'),
  W48('24:50', 'Then he led them out as far as Bethany, and lifting up his hands he blessed them.', page='246', note=' NA27 [ἔξω] printed without the brackets (METHOD §5.7).'),

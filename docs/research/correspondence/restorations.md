@@ -35,7 +35,7 @@ The reading then asks whether the printed text needs the passage. This has two l
 - 24:48–53 is restored against METHOD §10's default ending.
 - 24:47b ("beginning from Jerusalem") is printed with 24:48–53, and 24:47 loses its ellipsis.
 
-## 2. Leans on (for the owner's decision)
+## 2. Leans on (decided by the second pass: all four needed, and printed; `second_pass.md` §2)
 
 | Passage | Class | What the printed text leaves open |
 |---|---|---|
@@ -46,7 +46,7 @@ The reading then asks whether the printed text needs the passage. This has two l
 
 Also: 20:37–38 (A−) and 24:27 (U−) meet the condition of 16:31. They are not needed once 24:44–46 is printed.
 
-## 3. Wordings that strain (for the owner's decision)
+## 3. Wordings that strain (decided by the second pass: NA27 printed; `second_pass.md` §3)
 
 These are adopted Marcionite readings that the reading marks as strains by the text's own threads. NA27's wording continues the line in each case.
 
@@ -59,3 +59,7 @@ These are adopted Marcionite readings that the reading marks as strains by the t
 ## 4. Passages outside NA27's text
 
 NA27 prints 22:43–44 and 23:34a in double brackets, outside its text. They continue by their words. The reading does not decide the textual question.
+
+## 5. Second pass
+
+The reading was run again on the final text (`second_pass.md`). It drops "leans on" as a category, because "the printed line still runs" is a test of the letter. It prints 12:28a, 19:27, 23:13–16 and 23:39–43, and also 18:31–34, to which the restored 24:44–45 points. At 10:21, 18:19 and 21:27 it prints NA27's wording.

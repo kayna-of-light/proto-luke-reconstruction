@@ -146,4 +146,13 @@ A passage that only continues the line is not restored. Neither is one the print
 
 **How it is shown.** In the JSON, a restored verse has `attestation: "restored"`. In the PDF it is printed in a distinct colour, and the chapter notes give the grounds. The batch scripts check that every restored verse carries the §11 decision.
 
-The first application (eight passages: 4:17–21, 14:1–11, 19:28–46, 21:5–6, 22:54–62, 24:33–35, 24:44–46, 24:47b–53) was approved by the owner on 2026-10-13.
+**Part of a verse.** Where the restored words are part of an attested verse (12:28a; 24:47b), the verse keeps its class. Its decision reads "printed; … restored by method", and its wording field and the chapter notes name the restored words. The colour marks whole verses only.
+
+**Wording.** The same reading also tests the adopted Marcionite readings (§5.2–5.3). Where it shows that an attested wording breaks the inner line and the NA27 wording continues it, NA27 is printed. The attested reading stays in the apparatus and the notes, with the reading's grounds. The textual ground on the owner's premise is this: the Fathers report that Marcion's church went on altering its copies (§2), so a wording that turns an inner relation into an outward title or separation is taken to belong to that transmission, not to the original. Where the reading finds an adopted wording neutral or continuing, §5 stands.
+
+**Applications.**
+- The first (eight passages: 4:17–21, 14:1–11, 19:28–46, 21:5–6, 22:54–62, 24:33–35, 24:44–46, 24:47b–53) was approved by the owner on 2026-10-13.
+- The second follows from the reading run again on the final text (`docs/research/correspondence/second_pass.md`), on the owner's instruction that this reading decides.
+  - "Leans on" is dropped as a category.
+  - Printed: 12:28a, 18:31–34, 19:27, 23:13–16 and 23:39–43.
+  - NA27 wording printed at 10:21 ("and of the earth"), 18:19 ("God") and 21:27 ("in a cloud with power and great glory").

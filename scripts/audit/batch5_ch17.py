@@ -1,4 +1,4 @@
-"""Batch 5, chapter 17 of the reconstruction: Luke 19:1–48 (19:1–26 printed; 19:28–46 restored by method, METHOD §11)."""
+"""Batch 5, chapter 17 of the reconstruction: Luke 19:1–48 (19:1–26 printed; 19:27–46 restored by method, METHOD §11)."""
 from buildlib import greek, R
 from batch1_ch2 import U, A
 from batch5_patches import G
@@ -21,6 +21,12 @@ WA = lambda ref, en, page='224', note='': R(ref, G(ref), en, 'A−', 'absent', C
 
 T371 = T('4.37.1', '"Consequitur et Zachaei domus salutem… exceptum domo sua pascens dominum… in omnia misericordiae opera dimidium substantiae offerens… dicendo, Et si cui quid per calumniam eripui, quadruplum reddo. Itaque dominus, Hodie, inquit, salus huic domui."')
 T374 = T('4.37.4', '"Servorum quoque parabola, qui secundum rationem feneratae pecuniae dominicae diiudicantur, iudicem ostendit deum, etiam ex parte severitatis, non tantum honorantem verum et auferentem quod quis videatur habuisse. Aut si et hic creatorem finxerit austerum, tollentem quod non posuerit et metentem quod non severit…"')
+
+CR_19_27 = ('"But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me." Tertullian\'s point in 4.37.4 is that the parable shows God as a judge "even on the side of severity", and he finds that severity in the master taking away what the servant seemed to have (19:26). '
+            'The command to slaughter the master\'s enemies would have been his strongest evidence, and he does not cite it.')
+GR_19_27 = ('by its mechanics, the parable sets two groups going at the departure: the servants given money (19:13) and the citizens who refuse his reign (19:14). He returns "having received the kingdom" (19:15) and reckons with the servants (19:15–26); '
+            'the citizens are reckoned with only here. Read inwardly, the enemies who refuse his reign are what in the person refuses it, and their death "before him" is that refusal ended in his presence: the enemy\'s power trodden (10:19), the enemies a footstool (20:43). '
+            'In the final text the parable frames the going up and the king hailed (19:28, 19:38). Reading: docs/research/correspondence/word_by_word.md, chapter 17, test of 19:27; second_pass.md §2.')
 
 ENTRIES = [
  U('19:1', G('19:1'), 'He entered Jericho and was passing through.', 'Inside the attested pericope 19:1–10.'),
@@ -61,6 +67,8 @@ ENTRIES = [
  A('19:26', G('19:26'), '\'I tell you that to everyone who has, more will be given; but from the one who has not, even what he has will be taken away.',
    'present (Marc. 4.37.4)', [T374],
    wording='NA27. Tertullian\'s "what he seems to have" (quod quis videatur habuisse) is cited by NA27 for Marcion (ὃ δοκεῖ ἔχειν, with Θ 69 syc.h**); Roth: possible only (cf. 8:18). Not adopted.'),
+ R('19:27', G('19:27'), 'But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me.\'"',
+   'U−', 'unattested', CR_19_27, GR_19_27, wording='NA27 (checked on the page image, p. 223).'),
  W28('19:28', 'After he had said this, he went on ahead, going up to Jerusalem.'),
  WA('19:29', 'When he drew near to Bethphage and Bethany, at the mountain called the Mount of Olives, he sent two of the disciples,', page='223', note=' NA27 prints Βηθανία[ν]; printed without the brackets (METHOD §5.7).'),
  WA('19:30', 'saying, "Go into the village opposite, where as you enter you will find a colt tied, on which no one has ever sat; untie it and bring it.', page='223–224'),
@@ -83,9 +91,6 @@ ENTRIES = [
 ]
 
 OMITTED = [
- dict(ref='19:27', cls='U−', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason=('"But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me." Tertullian\'s point in 4.37.4 is that the parable shows God as a judge "even on the side of severity", and he finds that severity in the master taking away what the servant seemed to have (19:26). '
-              'The command to slaughter the master\'s enemies would have been his strongest evidence, and he does not cite it. The verse ends the NA27 paragraph 19:11–27.'))),
  dict(ref='19:47–48', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='"He was teaching daily in the temple…" A separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian refers to his teaching by day in the temple only at 21:37 (4.39.19).')),
 ]
@@ -95,8 +100,8 @@ PREAMBLE = (
  "his house, gives half his goods to the poor and restores fourfold what he has taken by fraud. \"Today salvation has come to "
  "this house… for the son of man came to seek and to save the lost.\" Jesus then tells of a nobleman who gives his servants "
  "money to trade with and, on his return, judges them by what they have done with it. In this text the parable ends with "
- "\"from the one who has not, even what he has will be taken away\". The slaughter of the master's enemies (19:27) is not "
- "cited. Then Jesus goes up to Jerusalem: the colt, the descent of the Mount of Olives with \"peace in heaven, and glory in the "
+ "\"from the one who has not, even what he has will be taken away\", and the citizens who refused his reign are brought before "
+ "him (19:27, not cited by any witness; printed as restored by method). Then Jesus goes up to Jerusalem: the colt, the descent of the Mount of Olives with \"peace in heaven, and glory in the "
  "highest\", the weeping over the city, and the entry into the temple (19:28–46). Epiphanius states that Marcion's text lacked "
  "19:29–46. The passage is printed here as restored by method, against Marcion's text, because the reading of the printed "
  "text shows that it needs the arrival (METHOD §11; see the notes)."
@@ -127,12 +132,19 @@ NOTES = [
   "prayer. By its words: 20:2, \"by what authority do you do these things?\", has its first object in 19:45–46. The reading is in "
   "docs/research/correspondence/word_by_word.md (chapter 17, tests of 19:28 and 19:29–46). The Greek is NA27, checked on the page "
   "images (pp. 223–225); it differs from SBLGNT at 19:36 (αὐτῶν), 19:38 (ὁ ἐρχόμενος ὁ βασιλεύς) and 19:40 (without ὅτι).")),
- dict(term='Not printed: 19:27 and 19:47–48', cat='excision', refs=['19:26', '19:46'], text=(
+ dict(term='Restored by method: the citizens who refused (19:27)', cat='textual', refs=['19:14', '19:15', '19:26', '19:27'], text=(
   "19:27, the slaughter of the enemies who did not want the nobleman to reign, is not cited by Tertullian, though his point "
-  "was the master's severity; it is classed probably absent. 19:47–48 (\"he was teaching daily in the temple…\") forms a "
-  "paragraph with no attested verse. The correspondential reading tested both at their places. 19:47–48 continues the line "
-  "but closes no gap: 20:1 opens \"as he was teaching the people in the temple\". 19:27 is listed for the owner as a passage "
-  "the printed text leans on (docs/research/correspondence/restorations.md).")),
+  "was the master's severity (4.37.4); it is classed probably absent (U−). It is printed as restored by method (METHOD §11), "
+  "against that class. By its mechanics: the parable sets two groups going at the departure, the servants (19:13) and the "
+  "citizens who say \"we do not want this man to reign over us\" (19:14); the master returns \"having received the kingdom\" "
+  "(19:15) and reckons with the servants, and only 19:27 reckons with the citizens. Read inwardly, as the text's persons are "
+  "read throughout, the enemies who refuse his reign are what in the person refuses it, and their death \"before him\" is that "
+  "refusal ended in his presence: the enemy's power trodden (10:19), the enemies made a footstool (20:43). The enemy as person "
+  "is loved (6:27). Reading: docs/research/correspondence/word_by_word.md (chapter 17, test of 19:27); second_pass.md §2.")),
+ dict(term='Not printed: 19:47–48', cat='excision', refs=['19:46'], text=(
+  "19:47–48 (\"he was teaching daily in the temple…\") forms a paragraph with no attested verse. The correspondential reading "
+  "tested it at its place: it continues the line, and nothing printed needs it; 20:1 opens \"as he was teaching the people in "
+  "the temple\".")),
  dict(term='The entry in this text', cat='theological', refs=['19:28', '19:38', '19:46'], text=(
   "Interpretation. In Marcion's text as the witnesses report it there is no entry on a colt and no action in the temple: "
   "Epiphanius' charge is that Marcion cut these scenes out, and on the Marcionite-priority view canonical Luke added them. "
