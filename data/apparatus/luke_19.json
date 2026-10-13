@@ -1,0 +1,354 @@
+{
+  "luke_chapter": 19,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "19:1",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 19:1–10.",
+      "reconstruction": "chapter 17, verse 1"
+    },
+    {
+      "ref": "19:2",
+      "class": "A+",
+      "roth": "present (Marc. 4.37.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.37.1",
+          "evidence": "\"Consequitur et Zachaei domus salutem… exceptum domo sua pascens dominum… in omnia misericordiae opera dimidium substantiae offerens… dicendo, Et si cui quid per calumniam eripui, quadruplum reddo. Itaque dominus, Hodie, inquit, salus huic domui.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 17, verse 2"
+    },
+    {
+      "ref": "19:3",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 19:1–10.",
+      "reconstruction": "chapter 17, verse 3"
+    },
+    {
+      "ref": "19:4",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 19:1–10.",
+      "reconstruction": "chapter 17, verse 4"
+    },
+    {
+      "ref": "19:5",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 19:1–10.",
+      "reconstruction": "chapter 17, verse 5"
+    },
+    {
+      "ref": "19:6",
+      "class": "A+",
+      "roth": "present (Marc. 4.37.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.37.1",
+          "evidence": "\"exceptum domo sua pascens dominum\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 17, verse 6"
+    },
+    {
+      "ref": "19:7",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 19:1–10.",
+      "reconstruction": "chapter 17, verse 7"
+    },
+    {
+      "ref": "19:8",
+      "class": "A+",
+      "roth": "present (Marc. 4.37.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.37.1",
+          "evidence": "\"Consequitur et Zachaei domus salutem… exceptum domo sua pascens dominum… in omnia misericordiae opera dimidium substantiae offerens… dicendo, Et si cui quid per calumniam eripui, quadruplum reddo. Itaque dominus, Hodie, inquit, salus huic domui.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's order of the elements varies; Roth: order uncertain.",
+      "decision": "printed",
+      "reconstruction": "chapter 17, verse 8"
+    },
+    {
+      "ref": "19:9",
+      "class": "A+",
+      "roth": "present (Marc. 4.37.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.37.1",
+          "evidence": "\"Consequitur et Zachaei domus salutem… exceptum domo sua pascens dominum… in omnia misericordiae opera dimidium substantiae offerens… dicendo, Et si cui quid per calumniam eripui, quadruplum reddo. Itaque dominus, Hodie, inquit, salus huic domui.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 17, verse 9"
+    },
+    {
+      "ref": "19:10",
+      "class": "A+",
+      "roth": "present (Marc. 4.37.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.37.2",
+          "evidence": "\"Cum vero dicit, Venit enim filius hominis salvum facere quod periit…\""
+        }
+      ],
+      "wording": "NA27. Tertullian does not have \"to seek\"; Roth: it \"may not have been present\". Printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 17, verse 10"
+    },
+    {
+      "ref": "19:11",
+      "class": "A+",
+      "roth": "present (Marc. 4.37.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.37.4",
+          "evidence": "\"Servorum quoque parabola, qui secundum rationem feneratae pecuniae dominicae diiudicantur, iudicem ostendit deum, etiam ex parte severitatis, non tantum honorantem verum et auferentem quod quis videatur habuisse. Aut si et hic creatorem finxerit austerum, tollentem quod non posuerit et metentem quod non severit…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 17, verse 11"
+    },
+    {
+      "ref": "19:12",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 12"
+    },
+    {
+      "ref": "19:13",
+      "class": "A+",
+      "roth": "present (Marc. 4.37.4; 4.39.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.37.4",
+          "evidence": "\"Servorum quoque parabola, qui secundum rationem feneratae pecuniae dominicae diiudicantur, iudicem ostendit deum, etiam ex parte severitatis, non tantum honorantem verum et auferentem quod quis videatur habuisse. Aut si et hic creatorem finxerit austerum, tollentem quod non posuerit et metentem quod non severit…\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.39.11",
+          "evidence": "\"relicta pecunia servis qua feneraretur\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 17, verse 13"
+    },
+    {
+      "ref": "19:14",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 14"
+    },
+    {
+      "ref": "19:15",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 15"
+    },
+    {
+      "ref": "19:16",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 16"
+    },
+    {
+      "ref": "19:17",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 17"
+    },
+    {
+      "ref": "19:18",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 18"
+    },
+    {
+      "ref": "19:19",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 19"
+    },
+    {
+      "ref": "19:20",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 20"
+    },
+    {
+      "ref": "19:21",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 21"
+    },
+    {
+      "ref": "19:22",
+      "class": "A+",
+      "roth": "present (Marc. 4.37.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.37.4",
+          "evidence": "\"Servorum quoque parabola, qui secundum rationem feneratae pecuniae dominicae diiudicantur, iudicem ostendit deum, etiam ex parte severitatis, non tantum honorantem verum et auferentem quod quis videatur habuisse. Aut si et hic creatorem finxerit austerum, tollentem quod non posuerit et metentem quod non severit…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 17, verse 22"
+    },
+    {
+      "ref": "19:23",
+      "class": "A+",
+      "roth": "present (Marc. 4.37.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.37.4",
+          "evidence": "\"hic quoque me ille instruit cuius pecuniam ut fenerem edocet\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 17, verse 23"
+    },
+    {
+      "ref": "19:24",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 24"
+    },
+    {
+      "ref": "19:25",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 19:11–27.",
+      "reconstruction": "chapter 17, verse 25"
+    },
+    {
+      "ref": "19:26",
+      "class": "A+",
+      "roth": "present (Marc. 4.37.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.37.4",
+          "evidence": "\"Servorum quoque parabola, qui secundum rationem feneratae pecuniae dominicae diiudicantur, iudicem ostendit deum, etiam ex parte severitatis, non tantum honorantem verum et auferentem quod quis videatur habuisse. Aut si et hic creatorem finxerit austerum, tollentem quod non posuerit et metentem quod non severit…\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"what he seems to have\" (quod quis videatur habuisse) is cited by NA27 for Marcion (ὃ δοκεῖ ἔχειν, with Θ 69 syc.h**); Roth: possible only (cf. 8:18). Not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 17, verse 26"
+    },
+    {
+      "ref": "19:27",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me.\" Tertullian's point in 4.37.4 is that the parable shows God as a judge \"even on the side of severity\", and he finds that severity in the master taking away what the servant seemed to have (19:26). The command to slaughter the master's enemies would have been his strongest evidence, and he does not cite it. The verse ends the NA27 paragraph 19:11–27."
+    },
+    {
+      "ref": "19:28",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"After he had said this, he went on ahead, going up to Jerusalem.\" A one-verse NA27 paragraph with no attested verse; it introduces the entry (19:29–46), which Epiphanius says was absent."
+    },
+    {
+      "ref": "19:29–46",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 53",
+          "evidence": "παρέκοψεν τὸ κεφάλαιον τὸ περὶ τῆς ὄνου καὶ Βηθφαγὴ καὶ τὸ περὶ τῆς πόλεως καὶ τοῦ ἱεροῦ, ὅτι γεγραμμένον ἦν »ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται, καὶ ποιεῖτε αὐτὸν σπήλαιον λῃστῶν«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text lacked the section on the colt and Bethphage, the lament over the city, and the cleansing of the temple with its quotation \"my house shall be called a house of prayer\". Tertullian passes from 19:26 (4.37.4) to 20:1–8 (4.38.1); Roth counts his silence as confirmation (tacitus)."
+    },
+    {
+      "ref": "19:47–48",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"He was teaching daily in the temple…\" A separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian refers to his teaching by day in the temple only at 21:37 (4.39.19)."
+    }
+  ]
+}

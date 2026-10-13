@@ -1,0 +1,207 @@
+{
+  "luke_chapter": 14,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "14:1–11",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The man with dropsy healed on the sabbath (14:1–6) and the places at table (14:7–11): two NA27 paragraphs with no attested verse (METHOD §4.3). Tertullian passes from 13:28 (4.30.6) to 14:12 (4.31.1); his \"rursus\" at 4.30.1 introduces 13:15 (the ox or donkey watered), not 14:5 (the son or ox in a well)."
+    },
+    {
+      "ref": "14:12",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.1",
+          "evidence": "\"Ad prandium vel ad coenam quales vocari iubet? Quales ostenderat per Esaiam…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 1"
+    },
+    {
+      "ref": "14:13",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 14:12–14.",
+      "reconstruction": "chapter 12, verse 2"
+    },
+    {
+      "ref": "14:14",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.1",
+          "evidence": "\"qui scilicet humanitatis istius vicem retribuere non possint. Hanc si Christus captari vetat, in resurrectione eam repromittens…\""
+        }
+      ],
+      "wording": "NA27. Tertullian has \"in the resurrection\" without \"of the righteous\"; the words are not quoted, and no omission is attested (Roth). Printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 3"
+    },
+    {
+      "ref": "14:15",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "A one-verse NA27 paragraph, but part of the attested pericope: the parable 14:16–24 is the answer to it (\"But he said to him\").",
+      "reconstruction": "chapter 12, verse 4"
+    },
+    {
+      "ref": "14:16",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.1–2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.1",
+          "evidence": "\"Etiam invitatoris parabola cui magis parti occurrat expende. Homo quidam fecit coenam et vocavit multos.\""
+        }
+      ],
+      "wording": "NA27. Tertullian does not have \"great\"; Roth: \"μέγα may have been present\". Printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 5"
+    },
+    {
+      "ref": "14:17",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.3",
+          "evidence": "\"Dehinc si is mittit ad convivas qui coenam paravit…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 6"
+    },
+    {
+      "ref": "14:18",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.3–4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.3",
+          "evidence": "\"Excusant se invitati.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.31.4",
+          "evidence": "\"Agrum emi, et boves mercatus sum, et uxorem duxi.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 7"
+    },
+    {
+      "ref": "14:19",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.4",
+          "evidence": "\"et boves mercatus sum\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 8"
+    },
+    {
+      "ref": "14:20",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.4",
+          "evidence": "\"et uxorem duxi\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 9"
+    },
+    {
+      "ref": "14:21",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.5–6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.5",
+          "evidence": "\"Hoc ut patrifamiliae renuntiatum est, motus tunc (bene quod et motus, negat enim Marcion moveri deum suum…) mandat de plateis et vicis civitatis facere sublectionem.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"motus\" (\"moved\") is rated possible only as a rendering of a different verb (Roth: ἐπαρθείς?); NA27 ὀργισθείς is printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 10"
+    },
+    {
+      "ref": "14:22",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.6",
+          "evidence": "\"Dehinc loco abundante…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 11"
+    },
+    {
+      "ref": "14:23",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.6",
+          "evidence": "\"praecepit etiam de viis et sepibus colligi, id est nos iam de extraneis gentibus\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 12"
+    },
+    {
+      "ref": "14:24",
+      "class": "A+",
+      "roth": "present (Marc. 4.31.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.31.6",
+          "evidence": "\"de qua illos gustaturos negat dominus\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 12, verse 13"
+    },
+    {
+      "ref": "14:25–35",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "Hating one's family and carrying the cross (14:25–27), the tower and the king at war (14:28–33), and salt (14:34–35): three NA27 paragraphs with no attested verse. Epiphanius refers to 14:26 in a refutation (Pan. 42.11.17, ἔλ. 70), but not as a reading of Marcion's text (Roth). Tertullian passes from 14:24 (4.31.8) to 15:4 (4.32.1)."
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "luke_chapter": 9,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "9:1",
+      "class": "A+",
+      "roth": "present (Adam. 82,2–4)",
+      "witnesses": [
+        {
+          "source": "Dialogue of Adamantius 82,2–4 (2.12) (Bakhuyzen; via Roth)",
+          "evidence": "The orthodox speaker Adamantius reads 9:1–2 \"from the gospel\" as an argument against the Marcionite Marcus, which presupposes that Marcus accepts the passage. A weaker attestation than a Marcionite speaker's."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 32"
+    },
+    {
+      "ref": "9:2",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.1; Adam. 82,4–5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.1",
+          "evidence": "\"Dimittit discipulos ad praedicandum dei regnum.\""
+        },
+        {
+          "source": "Dialogue of Adamantius 82,4–5 (2.12) (Bakhuyzen; via Roth)",
+          "evidence": "»καὶ ἀπέστειλεν αὐτοὺς κηρύσσειν τὴν βασιλείαν τοῦ θεοῦ καὶ ἰᾶσθαι.«"
+        }
+      ],
+      "wording": "NA27 without its bracketed [τοὺς ἀσθενεῖς] (METHOD §5: bracketed words are printed unless a witness lacks them; Adamantius' reading of the verse ends at ἰᾶσθαι).",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 33"
+    },
+    {
+      "ref": "9:3",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.1",
+          "evidence": "\"Prohibet eos victui aut vestitui quid in viam ferre.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 34"
+    },
+    {
+      "ref": "9:4",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:1–6.",
+      "reconstruction": "chapter 6, verse 35"
+    },
+    {
+      "ref": "9:5",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.1",
+          "evidence": "\"At cum iubet pulverem excutere de pedibus in eos a quibus excepti non fuissent, et hoc in testimonium mandat fieri.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 36"
+    },
+    {
+      "ref": "9:6",
+      "class": "A+",
+      "roth": "present (Adam. 82,6–7)",
+      "witnesses": [
+        {
+          "source": "Dialogue of Adamantius 82,6–7 (2.12) (Bakhuyzen; via Roth)",
+          "evidence": "Read by Adamantius in the same argument as 9:1–2 (see 9:1): »ἐξερχόμενοι δὲ διήρχοντο κατὰ πόλεις καὶ κώμας…«."
+        }
+      ],
+      "wording": "NA27. Adamantius' \"through towns and villages\" is rated possible by Roth; not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 37"
+    },
+    {
+      "ref": "9:7",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.2",
+          "evidence": "\"Christum Iesum alii Ioannem, alii Heliam, alii unum aliquem ex veteribus prophetis Herodi adseverabant\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 38"
+    },
+    {
+      "ref": "9:8",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.2",
+          "evidence": "see 9:7."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 39"
+    },
+    {
+      "ref": "9:9",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:7–9.",
+      "reconstruction": "chapter 6, verse 40"
+    },
+    {
+      "ref": "9:10",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:10–17.",
+      "reconstruction": "chapter 6, verse 41"
+    },
+    {
+      "ref": "9:11",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:10–17.",
+      "reconstruction": "chapter 6, verse 42"
+    },
+    {
+      "ref": "9:12",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.2–3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.2",
+          "evidence": "\"Pascit populum in solitudine\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 43"
+    },
+    {
+      "ref": "9:13",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.3",
+          "evidence": "\"nec de inferioribus materiis panis et piscis\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 44"
+    },
+    {
+      "ref": "9:14",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.3",
+          "evidence": "\"nec quinque circiter sed sexcenta milia hominum\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 45"
+    },
+    {
+      "ref": "9:15",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:10–17.",
+      "reconstruction": "chapter 6, verse 46"
+    },
+    {
+      "ref": "9:16",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 15; [Adam. 108,25])",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 15",
+          "evidence": "»ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν ἐπ' αὐτούς«."
+        }
+      ],
+      "wording": "Marcionite reading adopted: εὐλόγησεν ἐπ' αὐτούς (Epiphanius' Greek; Roth: very likely). NA27 apparatus: ἐπ' αὐτ. D it sy(s).c; McionE.",
+      "decision": "printed",
+      "western": "Agrees with D and the Old Latin and Old Syriac.",
+      "reconstruction": "chapter 6, verse 47"
+    },
+    {
+      "ref": "9:17",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.4",
+          "evidence": "\"ut et pabuli exiguitatem non tantum sufficere, verum etiam exuberare… voluerit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 6, verse 48"
+    },
+    {
+      "ref": "9:18",
+      "class": "A+",
+      "roth": "present (Adam. 84,1–2)",
+      "witnesses": [
+        {
+          "source": "Dialogue of Adamantius 84,1–2 (2.13) (via Roth)",
+          "evidence": "Quoted in the dialogue; Roth counts it as attested (wording possible only)."
+        }
+      ],
+      "wording": "NA27 (order λέγουσιν οἱ ὄχλοι; SBLGNT differs — checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 1"
+    },
+    {
+      "ref": "9:19",
+      "class": "A+",
+      "roth": "present (Adam. 84,2–4)",
+      "witnesses": [
+        {
+          "source": "Dialogue of Adamantius 84,2–4 (2.13) (via Roth)",
+          "evidence": "Quoted in the dialogue."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 2"
+    },
+    {
+      "ref": "9:20",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.6; Adam. 84,4–5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.6",
+          "evidence": "\"interroganti domino quisnam illis videretur… Tu es Christus\"."
+        }
+      ],
+      "wording": "NA27. Tertullian's answer is \"Tu es Christus\", without \"of God\"; Roth notes that \"of God\" may have been missing. One witness, in paraphrase; not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 3"
+    },
+    {
+      "ref": "9:21",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.6",
+          "evidence": "\"immo et silentium indicens… praecepit ne cui hoc dicerent\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 4"
+    },
+    {
+      "ref": "9:22",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.7; Pan. 42.11.6, sch. 16; [Adam. 198,1–4])",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 16",
+          "evidence": "»λέγων, δεῖ τὸν υἱὸν τοῦ ἀνθρώπου πολλὰ παθεῖν καὶ ἀποκτανθῆναι καὶ μετὰ τρεῖς ἡμέρας ἐγερθῆναι«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.21.7",
+          "evidence": "\"quia oporteret filium hominis multa pati, et reprobari a presbyteris et scribis et sacerdotibus, et interfici, et post tertium diem resurgere\"."
+        }
+      ],
+      "wording": "Marcionite reading adopted: μετὰ τρεῖς ἡμέρας for τῇ τρίτῃ ἡμέρᾳ. Epiphanius' Greek, confirmed by Tertullian's \"post tertium diem\"; NA27 apparatus: μεθ' ἡμέρας τρεῖς D it; McionA,(E) (Mark 8:31 has μετὰ τρεῖς ἡμέρας). NA27 ἐγερθῆναι is kept (Epiphanius; Adamantius has ἀναστῆναι). The order of the three groups differs in Tertullian; not adopted.",
+      "decision": "printed",
+      "western": "Agrees in sense with D and the Old Latin.",
+      "reconstruction": "chapter 7, verse 5"
+    },
+    {
+      "ref": "9:23",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested passage 9:23–27.",
+      "reconstruction": "chapter 7, verse 6"
+    },
+    {
+      "ref": "9:24",
+      "class": "A+",
+      "roth": "present (Marc. 4.21.8–9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.8",
+          "evidence": "\"Qui voluerit, inquit, animam suam salvam facere, perdet illam, et qui perdiderit eam propter me, salvam faciet eam.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 7"
+    },
+    {
+      "ref": "9:25",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested passage 9:23–27.",
+      "reconstruction": "chapter 7, verse 8"
+    },
+    {
+      "ref": "9:26",
+      "class": "A+",
+      "roth": "present for 9:26a (Marc. 4.21.10, 12); 9:26b unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.21.10",
+          "evidence": "\"Qui confusus, inquit, mei fuerit, et ego confundar eius.\""
+        }
+      ],
+      "wording": "NA27. Tertullian quotes only \"Whoever is ashamed of me, I will be ashamed of him\": without \"and of my words\" (λόγους is lacking in D a e l syc, NA27) and without 9:26b (\"when he comes in his glory…\"). Roth: 9:26b \"may not have been present but technically it is unattested\". One witness; NA27 printed and the evidence noted.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 9"
+    },
+    {
+      "ref": "9:27",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested passage 9:23–27.",
+      "reconstruction": "chapter 7, verse 10"
+    },
+    {
+      "ref": "9:28",
+      "class": "A+",
+      "roth": "present (Marc. 4.22.1, 7; Pan. 42.11.17, refutation 63; Ephrem)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.22.7",
+          "evidence": "\"Tres de discentibus arbitros futurae visionis et vocis assumit… In montem secedit.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 11"
+    },
+    {
+      "ref": "9:29",
+      "class": "A+",
+      "roth": "present (Marc. 4.22.13)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.22.13",
+          "evidence": "\"splendor eius ut lux erit, utique qua etiam vestitus eius refulsit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 12"
+    },
+    {
+      "ref": "9:30",
+      "class": "A+",
+      "roth": "present (Marc. 4.22.1–3, 12; Pan. 42.11.6, sch. 17; Ephrem)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 17",
+          "evidence": "»καὶ ἰδοὺ δύο ἄνδρες συνελάλουν αὐτῷ, Ἠλίας καὶ Μωυσῆς ἐν δόξῃ«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.22.1",
+          "evidence": "\"quod illum cum Moyse et Helia in secessu montis conspici pateris\"."
+        }
+      ],
+      "wording": "NA27. Epiphanius has the names in the order Elijah, Moses and joins \"in glory\" to them; Tertullian has Moses first (= NA27). Not changed.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 13"
+    },
+    {
+      "ref": "9:31",
+      "class": "A+",
+      "roth": "present for 9:31a (Marc. 4.22.12; Pan. 42.11.6, sch. 17); 9:31b absent (Marc. 4.22.16)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 17",
+          "evidence": "»…ἐν δόξῃ«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.22.16",
+          "evidence": "\"Nam et si Marcion noluit eum colloquentem domino ostensum, sed stantem…\" — in Marcion's text Moses is not shown speaking with the Lord."
+        }
+      ],
+      "wording": "9:31a printed (NA27). 9:31b (ἔλεγον τὴν ἔξοδον αὐτοῦ ἣν ἤμελλεν πληροῦν ἐν Ἰερουσαλήμ, \"they spoke of his departure, which he was about to fulfil at Jerusalem\") is not printed: Roth classes it as attested not present on Tertullian 4.22.16. Epiphanius' copy had συνελάλουν at 9:30, so the two copies may have differed here.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 14"
+    },
+    {
+      "ref": "9:32",
+      "class": "A+",
+      "roth": "present (Marc. 4.22.16; Ephrem)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.22.16",
+          "evidence": "\"sed stantem\" — the two men standing with him (συνεστῶτας)."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 15"
+    },
+    {
+      "ref": "9:33",
+      "class": "A+",
+      "roth": "present (Marc. 4.22.4, 16)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.22.4",
+          "evidence": "\"Bonum est nos hic esse… et faciamus hic tria tabernacula, unum tibi, et Moysi unum, et Heliae unum; sed nesciens quid diceret.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 16"
+    },
+    {
+      "ref": "9:34",
+      "class": "A+",
+      "roth": "present (Marc. 4.22.7, 13)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.22.7",
+          "evidence": "\"sub eodem etiam ambitu nubis\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 17"
+    },
+    {
+      "ref": "9:35",
+      "class": "A+",
+      "roth": "present (Marc. 4.22.1, 8, 10, 12; Pan. 42.11.6, sch. 18; Ephrem)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 18",
+          "evidence": "»ἐκ τῆς νεφέλης φωνή· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.22.1",
+          "evidence": "\"vox illa de caelo: Hic est filius meus dilectus, hunc audite!\" (quoted four times in 4.22)."
+        }
+      ],
+      "wording": "Marcionite reading adopted: ὁ ἀγαπητός for ὁ ἐκλελεγμένος (both witnesses; Roth: secure). NA27 apparatus: ἀγαπητός A C* W f13 33 𝔐 it vgcl.ww sy(c).p.h; McionT,E.",
+      "decision": "printed",
+      "western": "Agrees with the Old Latin and with A C* W and the Byzantine text.",
+      "reconstruction": "chapter 7, verse 18"
+    },
+    {
+      "ref": "9:36",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:28–36.",
+      "reconstruction": "chapter 7, verse 19"
+    },
+    {
+      "ref": "9:37",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:37–43a.",
+      "reconstruction": "chapter 7, verse 20"
+    },
+    {
+      "ref": "9:38",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:37–43a.",
+      "reconstruction": "chapter 7, verse 21"
+    },
+    {
+      "ref": "9:39",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:37–43a.",
+      "reconstruction": "chapter 7, verse 22"
+    },
+    {
+      "ref": "9:40",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 19)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 19",
+          "evidence": "»ἐδεήθην τῶν μαθητῶν σου«. εἶχε δὲ παρὰ τὸ »οὐκ ἠδυνήθησαν ἐκβαλεῖν αὐτό«…"
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 23"
+    },
+    {
+      "ref": "9:41",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.1–2; Pan. 42.11.6, sch. 19)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 19",
+          "evidence": "»καὶ πρὸς αὐτούς· ὦ γενεὰ ἄπιστος, ἕως πότε ἀνέξομαι ὑμῶν;«"
+        },
+        {
+          "source": "Tertullian, Marc. 4.23.1–2",
+          "evidence": "\"O genitura incredula, quousque ero apud vos? quousque sustinebo vos?\"; \"O natio incredula, quamdiu ero vobiscum, quamdiu vos sustinebo?\""
+        }
+      ],
+      "wording": "Attested omission: καὶ διεστραμμένη (\"and perverse\") is absent from both witnesses' quotations (METHOD §5.3); the shorter address is Mark's (Mark 9:19). The witnesses otherwise differ: Tertullian has two \"how long\" clauses, Epiphanius one, and Epiphanius addresses the words \"to them\" (the disciples). NA27's two clauses are kept.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 24"
+    },
+    {
+      "ref": "9:42",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:37–43a.",
+      "reconstruction": "chapter 7, verse 25"
+    },
+    {
+      "ref": "9:43",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Closes the attested pericope 9:37–43a and opens 9:43b–45, whose central saying (9:44) is attested.",
+      "reconstruction": "chapter 7, verse 26"
+    },
+    {
+      "ref": "9:44",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 20)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 20",
+          "evidence": "»ὁ γὰρ υἱὸς τοῦ ἀνθρώπου μέλλει παραδίδοσθαι εἰς χεῖρας ἀνθρώπων«."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 27"
+    },
+    {
+      "ref": "9:45",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested passage 9:43b–45.",
+      "reconstruction": "chapter 7, verse 28"
+    },
+    {
+      "ref": "9:46",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.4",
+          "evidence": "\"tales esse docens debere qui semper maiores velint esse\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 29"
+    },
+    {
+      "ref": "9:47",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.4",
+          "evidence": "\"Sed ecce Christus diligit parvulos\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 30"
+    },
+    {
+      "ref": "9:48",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.4",
+          "evidence": "see 9:46–47."
+        }
+      ],
+      "wording": "NA27 (ὃς ἐὰν δέξηται; SBLGNT ὃς ἂν — checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 31"
+    },
+    {
+      "ref": "9:49–50",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "A separate NA27 paragraph (the strange exorcist) with no attested verse (METHOD §4.3). Tertullian passes from 9:48 (4.23.4) to 9:54 (4.23.8)."
+    },
+    {
+      "ref": "9:51",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Opens the attested pericope 9:51–56.",
+      "reconstruction": "chapter 7, verse 32"
+    },
+    {
+      "ref": "9:52",
+      "class": "A+",
+      "roth": "unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.8",
+          "evidence": "\"discipulos super illum viculum Samaritarum\" — the village of the Samaritans."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reason": "Tertullian names the Samaritan village of 9:52 when he discusses 9:54–55. Roth lists 9:49–53 as unattested; the allusion is sufficient for A+.",
+      "reconstruction": "chapter 7, verse 33"
+    },
+    {
+      "ref": "9:53",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:51–56.",
+      "reconstruction": "chapter 7, verse 34"
+    },
+    {
+      "ref": "9:54",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.8",
+          "evidence": "\"Repraesentat creator ignium plagam Helia postulante… e contrario Christi lenitatem, increpantis eandem animadversionem destinantes discipulos\"."
+        }
+      ],
+      "wording": "NA27. The addition \"as Elijah did\" (A C D W Θ Ψ 𝔐 it) is not in NA27's text; Tertullian brings Elijah in himself, as Marcion's Antitheses did, so his reference does not show that the text had the words.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 35"
+    },
+    {
+      "ref": "9:55",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.8–9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.9",
+          "evidence": "\"Nam et tunc ad Heliam, Non in igni, inquit, dominus sed in spiritu miti.\""
+        }
+      ],
+      "wording": "NA27. The longer text (\"You do not know of what spirit you are; for the son of man came not to destroy lives but to save them\", K Θ f1.13 700 it and others; D and Epiphanius have only the first part) is not attested for Marcion's text. Tertullian's \"not in fire but in a gentle spirit\" quotes 1 Kings 19:12.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 36"
+    },
+    {
+      "ref": "9:56",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 9:51–56.",
+      "reconstruction": "chapter 7, verse 37"
+    },
+    {
+      "ref": "9:57",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.9",
+          "evidence": "\"Sequar te quocunque ieris\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 38"
+    },
+    {
+      "ref": "9:58",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.9",
+          "evidence": "\"cur recusat eum qui se tam individuum illi comitem offert?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 39"
+    },
+    {
+      "ref": "9:59",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.10)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.10",
+          "evidence": "\"Illi autem causato patris sepulturam…\""
+        }
+      ],
+      "wording": "NA27, with its bracketed [κύριε] (Tertullian paraphrases the request and does not quote the address).",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 40"
+    },
+    {
+      "ref": "9:60",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.10; Clement, Strom. 3.4.25)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.10",
+          "evidence": "\"Sine mortui sepeliant mortuos suos, tu autem vade et annuntia regnum dei\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 41"
+    },
+    {
+      "ref": "9:61",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.11",
+          "evidence": "\"et tertium illum prius suis valedicere parantem\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 42"
+    },
+    {
+      "ref": "9:62",
+      "class": "A+",
+      "roth": "present (Marc. 4.23.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.23.11",
+          "evidence": "\"prohibet retro respectare\"."
+        }
+      ],
+      "wording": "NA27 with its bracketed [πρὸς αὐτόν] (SBLGNT omits it — checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 7, verse 43"
+    }
+  ]
+}

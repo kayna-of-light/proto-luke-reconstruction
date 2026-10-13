@@ -1,0 +1,3390 @@
+{
+ "protocol": "docs/research_questions.md Q8 (fixed 2026-10-13)",
+ "measure": "first",
+ "coverage_sections": {
+  "AC": [
+   10690,
+   1,
+   10837
+  ],
+  "AE": [
+   791,
+   2,
+   1232
+  ]
+ },
+ "results": [
+  {
+   "parable": "Good Samaritan",
+   "group": "absent",
+   "luke_or_main": [
+    "lk",
+    10,
+    29,
+    37
+   ],
+   "parallels": [],
+   "elements": {
+    "a": [
+     "a"
+    ],
+    "man": [
+     "man"
+    ],
+    "jerusalem": [
+     "jerusalem"
+    ],
+    "jericho": [
+     "jericho"
+    ],
+    "thief": [
+     "thief",
+     "thieves"
+    ],
+    "raiment": [
+     "raiment"
+    ],
+    "priest": [
+     "priest"
+    ],
+    "side": [
+     "side"
+    ],
+    "levite": [
+     "levite"
+    ],
+    "place": [
+     "place"
+    ],
+    "samaritan": [
+     "samaritan"
+    ],
+    "oil": [
+     "oil"
+    ],
+    "wine": [
+     "wine"
+    ],
+    "inn": [
+     "inn"
+    ],
+    "two": [
+     "two"
+    ],
+    "penny": [
+     "pence",
+     "penny"
+    ],
+    "host": [
+     "host"
+    ],
+    "take": [
+     "take"
+    ],
+    "which": [
+     "which"
+    ],
+    "three": [
+     "three"
+    ],
+    "thou": [
+     "thou"
+    ],
+    "go": [
+     "go"
+    ]
+   },
+   "n_elements": 22,
+   "citing_sections": 14,
+   "decoded_elements": {
+    "a": [
+     "AC 4314",
+     "AC 6377",
+     "AC 9057",
+     "AC 9780",
+     "AE 1152",
+     "AE 375",
+     "AE 444",
+     "AE 458",
+     "AE 622",
+     "AE 655",
+     "AE 704",
+     "AE 962"
+    ],
+    "which": [
+     "AC 4314",
+     "AC 6377",
+     "AC 9057",
+     "AC 9780",
+     "AE 1152",
+     "AE 375",
+     "AE 444",
+     "AE 458",
+     "AE 584",
+     "AE 622",
+     "AE 655",
+     "AE 704",
+     "AE 962"
+    ],
+    "man": [
+     "AC 6377",
+     "AC 9057",
+     "AC 9780",
+     "AE 1152",
+     "AE 375",
+     "AE 444",
+     "AE 458",
+     "AE 584",
+     "AE 622",
+     "AE 655",
+     "AE 704",
+     "AE 962"
+    ],
+    "oil": [
+     "AC 6377",
+     "AC 9057",
+     "AC 9780",
+     "AE 1152",
+     "AE 375",
+     "AE 444",
+     "AE 962"
+    ],
+    "wine": [
+     "AC 6377",
+     "AC 9057",
+     "AC 9780",
+     "AE 1152",
+     "AE 375",
+     "AE 444",
+     "AE 622",
+     "AE 655",
+     "AE 962"
+    ],
+    "go": [
+     "AC 6377",
+     "AE 622",
+     "AE 704"
+    ],
+    "samaritan": [
+     "AC 9057",
+     "AE 1152",
+     "AE 375",
+     "AE 458",
+     "AE 962"
+    ],
+    "jerusalem": [
+     "AC 9780",
+     "AE 1152",
+     "AE 375",
+     "AE 444",
+     "AE 458",
+     "AE 584",
+     "AE 622",
+     "AE 655",
+     "AE 704"
+    ],
+    "take": [
+     "AC 9780",
+     "AE 1152",
+     "AE 375",
+     "AE 444",
+     "AE 458",
+     "AE 704"
+    ],
+    "thou": [
+     "AC 9780",
+     "AE 1152",
+     "AE 375",
+     "AE 444",
+     "AE 622",
+     "AE 655",
+     "AE 704"
+    ],
+    "thief": [
+     "AE 375"
+    ],
+    "priest": [
+     "AE 375",
+     "AE 444",
+     "AE 622"
+    ],
+    "place": [
+     "AE 375",
+     "AE 444",
+     "AE 655",
+     "AE 704",
+     "AE 962"
+    ],
+    "inn": [
+     "AE 375",
+     "AE 444",
+     "AE 704"
+    ],
+    "two": [
+     "AE 1152",
+     "AE 375",
+     "AE 444",
+     "AE 655"
+    ],
+    "jericho": [
+     "AE 444",
+     "AE 458"
+    ],
+    "levite": [
+     "AE 444"
+    ],
+    "penny": [
+     "AE 444"
+    ],
+    "host": [
+     "AE 444"
+    ],
+    "three": [
+     "AE 1152",
+     "AE 444",
+     "AE 622",
+     "AE 655",
+     "AE 704"
+    ],
+    "raiment": [
+     "AE 622"
+    ]
+   },
+   "n_decoded": 21,
+   "share_decoded": 0.955
+  },
+  {
+   "parable": "Barren fig tree",
+   "group": "absent",
+   "luke_or_main": [
+    "lk",
+    13,
+    6,
+    9
+   ],
+   "parallels": [],
+   "elements": {
+    "man": [
+     "man"
+    ],
+    "tree": [
+     "tree"
+    ],
+    "vineyard": [
+     "vineyard"
+    ],
+    "fruit": [
+     "fruit"
+    ],
+    "dresser": [
+     "dresser"
+    ],
+    "behold": [
+     "behold"
+    ],
+    "three": [
+     "three"
+    ],
+    "ground": [
+     "ground"
+    ],
+    "till": [
+     "till"
+    ],
+    "well": [
+     "well"
+    ],
+    "thou": [
+     "thou"
+    ]
+   },
+   "n_elements": 11,
+   "citing_sections": 8,
+   "decoded_elements": {
+    "three": [
+     "AC 2788",
+     "AE 403"
+    ],
+    "tree": [
+     "AC 7690",
+     "AC 9337",
+     "AE 109",
+     "AE 403",
+     "AE 918"
+    ],
+    "fruit": [
+     "AC 7690",
+     "AC 9337",
+     "AE 109",
+     "AE 403",
+     "AE 918"
+    ],
+    "man": [
+     "AC 9337",
+     "AE 109",
+     "AE 403",
+     "AE 918"
+    ],
+    "thou": [
+     "AC 9337",
+     "AE 109",
+     "AE 403"
+    ],
+    "behold": [
+     "AE 109",
+     "AE 403"
+    ],
+    "till": [
+     "AE 109"
+    ],
+    "vineyard": [
+     "AE 403",
+     "AE 918"
+    ],
+    "dresser": [
+     "AE 403"
+    ],
+    "ground": [
+     "AE 403"
+    ],
+    "well": [
+     "AE 918"
+    ]
+   },
+   "n_decoded": 11,
+   "share_decoded": 1.0
+  },
+  {
+   "parable": "Two sons",
+   "group": "absent",
+   "luke_or_main": [
+    "lk",
+    15,
+    11,
+    32
+   ],
+   "parallels": [],
+   "elements": {
+    "a": [
+     "a"
+    ],
+    "man": [
+     "man"
+    ],
+    "two": [
+     "two"
+    ],
+    "son": [
+     "son",
+     "sons"
+    ],
+    "father": [
+     "father"
+    ],
+    "citizen": [
+     "citizen"
+    ],
+    "field": [
+     "field",
+     "fields"
+    ],
+    "swine": [
+     "swine"
+    ],
+    "husk": [
+     "husk",
+     "husks"
+    ],
+    "how": [
+     "how"
+    ],
+    "servant": [
+     "servant",
+     "servants"
+    ],
+    "heaven": [
+     "heaven"
+    ],
+    "one": [
+     "one"
+    ],
+    "neck": [
+     "neck"
+    ],
+    "bring": [
+     "bring"
+    ],
+    "robe": [
+     "robe"
+    ],
+    "hand": [
+     "hand"
+    ],
+    "shoe": [
+     "shoe",
+     "shoes"
+    ],
+    "foot": [
+     "feet",
+     "foot"
+    ],
+    "calf": [
+     "calf"
+    ],
+    "elder": [
+     "elder"
+    ],
+    "house": [
+     "house"
+    ],
+    "thy": [
+     "thy"
+    ],
+    "brother": [
+     "brother"
+    ],
+    "lo": [
+     "lo"
+    ],
+    "kid": [
+     "kid"
+    ],
+    "friend": [
+     "friend",
+     "friends"
+    ],
+    "harlot": [
+     "harlot",
+     "harlots"
+    ],
+    "art": [
+     "art"
+    ]
+   },
+   "n_elements": 29,
+   "citing_sections": 6,
+   "decoded_elements": {
+    "a": [
+     "AC 5317",
+     "AC 9391",
+     "AE 20",
+     "AE 325",
+     "AE 622",
+     "AE 785"
+    ],
+    "son": [
+     "AC 5317",
+     "AC 9391",
+     "AE 20",
+     "AE 325",
+     "AE 622",
+     "AE 785"
+    ],
+    "robe": [
+     "AC 5317",
+     "AC 9391"
+    ],
+    "hand": [
+     "AC 5317",
+     "AE 622"
+    ],
+    "shoe": [
+     "AC 5317",
+     "AC 9391"
+    ],
+    "foot": [
+     "AC 5317",
+     "AC 9391",
+     "AE 622"
+    ],
+    "house": [
+     "AC 5317",
+     "AE 325",
+     "AE 622"
+    ],
+    "man": [
+     "AC 9391",
+     "AE 20",
+     "AE 325",
+     "AE 622",
+     "AE 785"
+    ],
+    "two": [
+     "AC 9391",
+     "AE 20"
+    ],
+    "father": [
+     "AC 9391",
+     "AE 20",
+     "AE 622"
+    ],
+    "heaven": [
+     "AC 9391",
+     "AE 20",
+     "AE 622"
+    ],
+    "one": [
+     "AC 9391",
+     "AE 20",
+     "AE 622",
+     "AE 785"
+    ],
+    "bring": [
+     "AC 9391",
+     "AE 622"
+    ],
+    "calf": [
+     "AC 9391"
+    ],
+    "servant": [
+     "AE 20",
+     "AE 622"
+    ],
+    "thy": [
+     "AE 20",
+     "AE 325",
+     "AE 622",
+     "AE 785"
+    ],
+    "lo": [
+     "AE 20",
+     "AE 622"
+    ],
+    "art": [
+     "AE 20"
+    ],
+    "brother": [
+     "AE 325"
+    ],
+    "how": [
+     "AE 622"
+    ],
+    "harlot": [
+     "AE 622"
+    ]
+   },
+   "n_decoded": 21,
+   "share_decoded": 0.724
+  },
+  {
+   "parable": "Tenants",
+   "group": "absent",
+   "luke_or_main": [
+    "lk",
+    20,
+    9,
+    18
+   ],
+   "parallels": [
+    [
+     "mt",
+     21,
+     33,
+     46
+    ],
+    [
+     "mk",
+     12,
+     1,
+     12
+    ]
+   ],
+   "elements": {
+    "man": [
+     "man"
+    ],
+    "vineyard": [
+     "vineyard"
+    ],
+    "husbandman": [
+     "husbandman",
+     "husbandmen"
+    ],
+    "servant": [
+     "servant"
+    ],
+    "fruit": [
+     "fruit"
+    ],
+    "lord": [
+     "lord"
+    ],
+    "son": [
+     "son"
+    ],
+    "heir": [
+     "heir"
+    ],
+    "come": [
+     "come"
+    ],
+    "stone": [
+     "stone"
+    ],
+    "builder": [
+     "builder",
+     "builders"
+    ],
+    "head": [
+     "head"
+    ],
+    "corner": [
+     "corner"
+    ],
+    "whosoever": [
+     "whosoever"
+    ]
+   },
+   "n_elements": 14,
+   "citing_sections": 26,
+   "decoded_elements": {
+    "man": [
+     "AC 1069",
+     "AC 2162",
+     "AC 2701",
+     "AC 9139",
+     "AC 9163",
+     "AE 122",
+     "AE 1232",
+     "AE 310",
+     "AE 409",
+     "AE 531",
+     "AE 775",
+     "AE 918"
+    ],
+    "vineyard": [
+     "AC 1069",
+     "AC 4599",
+     "AC 9139",
+     "AE 310",
+     "AE 918"
+    ],
+    "fruit": [
+     "AC 1069",
+     "AC 4314",
+     "AC 7690",
+     "AE 1232",
+     "AE 48",
+     "AE 775",
+     "AE 918"
+    ],
+    "lord": [
+     "AC 1069",
+     "AC 2162",
+     "AC 2658",
+     "AC 2701",
+     "AC 2921",
+     "AC 4599",
+     "AC 6426",
+     "AC 9139",
+     "AC 9163",
+     "AC 9320",
+     "AC 9494",
+     "AE 122",
+     "AE 1232",
+     "AE 310",
+     "AE 409",
+     "AE 48",
+     "AE 531",
+     "AE 775",
+     "AE 918"
+    ],
+    "come": [
+     "AC 1069",
+     "AC 2162",
+     "AC 9139",
+     "AC 9494",
+     "AE 122",
+     "AE 1232",
+     "AE 310",
+     "AE 409",
+     "AE 48",
+     "AE 531",
+     "AE 775",
+     "AE 918"
+    ],
+    "son": [
+     "AC 2162",
+     "AC 2658",
+     "AC 2921",
+     "AC 9139",
+     "AE 1232",
+     "AE 310",
+     "AE 409",
+     "AE 775",
+     "AE 918"
+    ],
+    "stone": [
+     "AC 2162",
+     "AC 6426",
+     "AC 9163",
+     "AC 9494",
+     "AE 310",
+     "AE 409",
+     "AE 775"
+    ],
+    "head": [
+     "AC 2162",
+     "AC 6426",
+     "AE 1232",
+     "AE 409",
+     "AE 775",
+     "AE 918"
+    ],
+    "whosoever": [
+     "AC 4599",
+     "AC 6426",
+     "AE 409"
+    ],
+    "builder": [
+     "AC 6426"
+    ],
+    "corner": [
+     "AC 6426",
+     "AC 9163",
+     "AC 9494",
+     "AE 310"
+    ],
+    "servant": [
+     "AE 310",
+     "AE 409"
+    ]
+   },
+   "n_decoded": 12,
+   "share_decoded": 0.857
+  },
+  {
+   "parable": "Tower and king",
+   "group": "unattested",
+   "luke_or_main": [
+    "lk",
+    14,
+    28,
+    33
+   ],
+   "parallels": [],
+   "elements": {
+    "tower": [
+     "tower"
+    ],
+    "lest": [
+     "lest"
+    ],
+    "man": [
+     "man"
+    ],
+    "king": [
+     "king"
+    ],
+    "thousand": [
+     "thousand"
+    ],
+    "twenty": [
+     "twenty"
+    ],
+    "disciple": [
+     "disciple"
+    ]
+   },
+   "n_elements": 7,
+   "citing_sections": 9,
+   "decoded_elements": {
+    "tower": [
+     "AC 4599"
+    ],
+    "disciple": [
+     "AC 10227",
+     "AC 4599"
+    ],
+    "thousand": [
+     "AC 8715"
+    ],
+    "man": [
+     "AC 10227",
+     "AC 10300",
+     "AC 10490",
+     "AE 118",
+     "AE 236",
+     "AE 512"
+    ],
+    "king": [
+     "AC 10227",
+     "AE 236",
+     "AE 512"
+    ]
+   },
+   "n_decoded": 5,
+   "share_decoded": 0.714
+  },
+  {
+   "parable": "Unworthy servants",
+   "group": "unattested",
+   "luke_or_main": [
+    "lk",
+    17,
+    7,
+    10
+   ],
+   "parallels": [],
+   "elements": {
+    "cattle": [
+     "cattle"
+    ],
+    "field": [
+     "field"
+    ],
+    "go": [
+     "go"
+    ],
+    "make": [
+     "make"
+    ],
+    "till": [
+     "till"
+    ],
+    "doth": [
+     "doth"
+    ],
+    "servant": [
+     "servant",
+     "servants"
+    ]
+   },
+   "n_elements": 7,
+   "citing_sections": 2,
+   "decoded_elements": {
+    "make": [
+     "AE 1232",
+     "AE 794"
+    ],
+    "go": [
+     "AE 1232"
+    ]
+   },
+   "n_decoded": 2,
+   "share_decoded": 0.286
+  },
+  {
+   "parable": "Sower",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    8,
+    4,
+    8
+   ],
+   "parallels": [
+    [
+     "mt",
+     13,
+     1,
+     9
+    ],
+    [
+     "mk",
+     4,
+     1,
+     9
+    ]
+   ],
+   "elements": {
+    "city": [
+     "city"
+    ],
+    "sower": [
+     "sower"
+    ],
+    "seed": [
+     "seed"
+    ],
+    "side": [
+     "side"
+    ],
+    "fowl": [
+     "fowl",
+     "fowls"
+    ],
+    "air": [
+     "air"
+    ],
+    "rock": [
+     "rock"
+    ],
+    "ground": [
+     "ground"
+    ],
+    "fruit": [
+     "fruit"
+    ],
+    "ear": [
+     "ear",
+     "ears"
+    ]
+   },
+   "n_elements": 10,
+   "citing_sections": 26,
+   "decoded_elements": {
+    "seed": [
+     "AC 1940",
+     "AC 2636",
+     "AC 3301",
+     "AC 5335",
+     "AC 9144",
+     "AC 9272",
+     "AE 1099",
+     "AE 238",
+     "AE 400",
+     "AE 409",
+     "AE 632"
+    ],
+    "ground": [
+     "AC 1940",
+     "AC 2276",
+     "AC 3310",
+     "AC 5335",
+     "AC 9144",
+     "AC 9272",
+     "AE 1099",
+     "AE 238",
+     "AE 400",
+     "AE 409",
+     "AE 632"
+    ],
+    "fruit": [
+     "AC 2276",
+     "AC 2636",
+     "AC 5335",
+     "AE 1099",
+     "AE 250"
+    ],
+    "ear": [
+     "AC 2542",
+     "AC 3869",
+     "AC 9311",
+     "AC 9397",
+     "AE 107",
+     "AE 238"
+    ],
+    "city": [
+     "AC 2576",
+     "AE 238",
+     "AE 400",
+     "AE 409",
+     "AE 632",
+     "AE 655"
+    ],
+    "rock": [
+     "AC 3301",
+     "AE 409"
+    ],
+    "side": [
+     "AE 238"
+    ],
+    "fowl": [
+     "AE 1099",
+     "AE 632"
+    ]
+   },
+   "n_decoded": 8,
+   "share_decoded": 0.8
+  },
+  {
+   "parable": "Friend at midnight",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    11,
+    5,
+    8
+   ],
+   "parallels": [],
+   "elements": {
+    "which": [
+     "which"
+    ],
+    "friend": [
+     "friend"
+    ],
+    "three": [
+     "three"
+    ],
+    "loaf": [
+     "loaf",
+     "loaves"
+    ],
+    "mine": [
+     "mine"
+    ],
+    "nothing": [
+     "nothing"
+    ],
+    "door": [
+     "door"
+    ],
+    "child": [
+     "child",
+     "children"
+    ],
+    "bed": [
+     "bed"
+    ]
+   },
+   "n_elements": 9,
+   "citing_sections": 0,
+   "decoded_elements": {},
+   "n_decoded": 0,
+   "share_decoded": 0.0
+  },
+  {
+   "parable": "Rich fool",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    12,
+    16,
+    21
+   ],
+   "parallels": [],
+   "elements": {
+    "ground": [
+     "ground"
+    ],
+    "man": [
+     "man"
+    ],
+    "room": [
+     "room"
+    ],
+    "fruit": [
+     "fruit",
+     "fruits"
+    ],
+    "barn": [
+     "barn",
+     "barns"
+    ],
+    "soul": [
+     "soul"
+    ],
+    "drink": [
+     "drink"
+    ],
+    "thou": [
+     "thou"
+    ],
+    "fool": [
+     "fool"
+    ]
+   },
+   "n_elements": 9,
+   "citing_sections": 2,
+   "decoded_elements": {
+    "man": [
+     "AE 616",
+     "AE 750"
+    ],
+    "fruit": [
+     "AE 616"
+    ],
+    "soul": [
+     "AE 616",
+     "AE 750"
+    ],
+    "drink": [
+     "AE 616",
+     "AE 750"
+    ],
+    "thou": [
+     "AE 616",
+     "AE 750"
+    ],
+    "fool": [
+     "AE 750"
+    ]
+   },
+   "n_decoded": 6,
+   "share_decoded": 0.667
+  },
+  {
+   "parable": "Mustard seed and leaven",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    13,
+    18,
+    21
+   ],
+   "parallels": [
+    [
+     "mt",
+     13,
+     31,
+     33
+    ],
+    [
+     "mk",
+     4,
+     30,
+     32
+    ]
+   ],
+   "elements": {
+    "unto": [
+     "unto"
+    ],
+    "grain": [
+     "grain"
+    ],
+    "mustard": [
+     "mustard"
+    ],
+    "seed": [
+     "seed"
+    ],
+    "man": [
+     "man"
+    ],
+    "garden": [
+     "garden"
+    ],
+    "tree": [
+     "tree"
+    ],
+    "fowl": [
+     "fowl",
+     "fowls"
+    ],
+    "air": [
+     "air"
+    ],
+    "whereunto": [
+     "whereunto"
+    ],
+    "leaven": [
+     "leaven"
+    ],
+    "woman": [
+     "woman"
+    ],
+    "three": [
+     "three"
+    ],
+    "meal": [
+     "meal"
+    ]
+   },
+   "n_elements": 14,
+   "citing_sections": 11,
+   "decoded_elements": {
+    "man": [
+     "AC 2657",
+     "AC 5149",
+     "AC 776",
+     "AC 7906",
+     "AC 9258",
+     "AE 1099",
+     "AE 1232",
+     "AE 531"
+    ],
+    "tree": [
+     "AC 5149",
+     "AC 776",
+     "AC 9258",
+     "AE 1099",
+     "AE 1232",
+     "AE 531"
+    ],
+    "fowl": [
+     "AC 776",
+     "AE 1099"
+    ],
+    "unto": [
+     "AC 5149",
+     "AC 7906",
+     "AE 1099",
+     "AE 1232",
+     "AE 531",
+     "AE 684"
+    ],
+    "leaven": [
+     "AC 7906"
+    ],
+    "woman": [
+     "AC 7906",
+     "AE 1232"
+    ],
+    "three": [
+     "AC 7906",
+     "AE 1099",
+     "AE 1232",
+     "AE 531",
+     "AE 684"
+    ],
+    "meal": [
+     "AC 7906"
+    ],
+    "grain": [
+     "AC 9258",
+     "AE 1099"
+    ],
+    "mustard": [
+     "AC 9258",
+     "AE 1099"
+    ],
+    "seed": [
+     "AC 9258",
+     "AE 1099",
+     "AE 1232",
+     "AE 684"
+    ],
+    "garden": [
+     "AC 9258"
+    ],
+    "air": [
+     "AE 1232",
+     "AE 531"
+    ]
+   },
+   "n_decoded": 13,
+   "share_decoded": 0.929
+  },
+  {
+   "parable": "Great banquet",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    14,
+    16,
+    24
+   ],
+   "parallels": [
+    [
+     "mt",
+     22,
+     1,
+     10
+    ]
+   ],
+   "elements": {
+    "man": [
+     "man"
+    ],
+    "supper": [
+     "supper"
+    ],
+    "servant": [
+     "servant"
+    ],
+    "come": [
+     "come"
+    ],
+    "one": [
+     "one"
+    ],
+    "piece": [
+     "piece"
+    ],
+    "ground": [
+     "ground"
+    ],
+    "five": [
+     "five"
+    ],
+    "yoke": [
+     "yoke"
+    ],
+    "ox": [
+     "ox",
+     "oxen"
+    ],
+    "wife": [
+     "wife"
+    ],
+    "lord": [
+     "lord"
+    ],
+    "master": [
+     "master"
+    ],
+    "house": [
+     "house"
+    ],
+    "street": [
+     "street",
+     "streets"
+    ],
+    "lane": [
+     "lane",
+     "lanes"
+    ],
+    "city": [
+     "city"
+    ],
+    "thou": [
+     "thou"
+    ],
+    "room": [
+     "room"
+    ],
+    "highway": [
+     "highway",
+     "highways"
+    ],
+    "hedge": [
+     "hedge",
+     "hedges"
+    ]
+   },
+   "n_elements": 21,
+   "citing_sections": 20,
+   "decoded_elements": {
+    "servant": [
+     "AC 2336",
+     "AC 5291",
+     "AE 20"
+    ],
+    "street": [
+     "AC 10227",
+     "AC 10422",
+     "AC 2336",
+     "AE 222",
+     "AE 652"
+    ],
+    "lane": [
+     "AC 10422",
+     "AC 2336",
+     "AE 222"
+    ],
+    "city": [
+     "AC 2336",
+     "AC 2417",
+     "AC 4434",
+     "AE 1162",
+     "AE 222",
+     "AE 548",
+     "AE 652"
+    ],
+    "man": [
+     "AC 10227",
+     "AC 10422",
+     "AC 10579",
+     "AC 2417",
+     "AC 4302",
+     "AC 4434",
+     "AC 5291",
+     "AE 1162",
+     "AE 1232",
+     "AE 20",
+     "AE 222",
+     "AE 250",
+     "AE 512",
+     "AE 548",
+     "AE 652",
+     "AE 785"
+    ],
+    "one": [
+     "AC 10227",
+     "AC 10579",
+     "AC 2417",
+     "AC 4302",
+     "AC 4434",
+     "AC 5291",
+     "AE 1162",
+     "AE 1232",
+     "AE 20",
+     "AE 222",
+     "AE 250",
+     "AE 512",
+     "AE 548",
+     "AE 652",
+     "AE 785"
+    ],
+    "lord": [
+     "AC 10227",
+     "AC 10579",
+     "AC 2417",
+     "AC 4302",
+     "AC 5291",
+     "AC 9320",
+     "AE 1162",
+     "AE 1232",
+     "AE 20",
+     "AE 222",
+     "AE 250",
+     "AE 512",
+     "AE 548",
+     "AE 652",
+     "AE 785"
+    ],
+    "master": [
+     "AC 4302",
+     "AE 512"
+    ],
+    "house": [
+     "AC 4302",
+     "AE 222",
+     "AE 512",
+     "AE 548",
+     "AE 652"
+    ],
+    "wife": [
+     "AC 4434",
+     "AE 1232",
+     "AE 222"
+    ],
+    "five": [
+     "AC 5291",
+     "AE 1232",
+     "AE 222",
+     "AE 250",
+     "AE 548"
+    ],
+    "thou": [
+     "AC 9320",
+     "AE 1232",
+     "AE 20",
+     "AE 222",
+     "AE 250",
+     "AE 512",
+     "AE 652",
+     "AE 785"
+    ],
+    "come": [
+     "AE 1232",
+     "AE 20",
+     "AE 250",
+     "AE 512",
+     "AE 652"
+    ],
+    "ground": [
+     "AE 222",
+     "AE 548",
+     "AE 652"
+    ],
+    "supper": [
+     "AE 250",
+     "AE 548"
+    ],
+    "ox": [
+     "AE 548",
+     "AE 652"
+    ],
+    "room": [
+     "AE 1232"
+    ]
+   },
+   "n_decoded": 17,
+   "share_decoded": 0.81
+  },
+  {
+   "parable": "Lost sheep and coin",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    15,
+    3,
+    10
+   ],
+   "parallels": [
+    [
+     "mt",
+     18,
+     12,
+     14
+    ]
+   ],
+   "elements": {
+    "man": [
+     "man"
+    ],
+    "sheep": [
+     "sheep"
+    ],
+    "one": [
+     "one"
+    ],
+    "ninety": [
+     "ninety"
+    ],
+    "nine": [
+     "nine"
+    ],
+    "shoulder": [
+     "shoulder",
+     "shoulders"
+    ],
+    "home": [
+     "home"
+    ],
+    "friend": [
+     "friend",
+     "friends"
+    ],
+    "neighbour": [
+     "neighbour",
+     "neighbours"
+    ],
+    "rejoice": [
+     "rejoice"
+    ],
+    "heaven": [
+     "heaven"
+    ],
+    "sinner": [
+     "sinner"
+    ],
+    "woman": [
+     "woman"
+    ],
+    "piece": [
+     "piece",
+     "pieces"
+    ],
+    "silver": [
+     "silver"
+    ],
+    "candle": [
+     "candle"
+    ],
+    "house": [
+     "house"
+    ],
+    "likewise": [
+     "likewise"
+    ],
+    "angel": [
+     "angel",
+     "angels"
+    ]
+   },
+   "n_elements": 19,
+   "citing_sections": 13,
+   "decoded_elements": {
+    "man": [
+     "AC 1059",
+     "AC 9836",
+     "AE 1152",
+     "AE 1232",
+     "AE 20",
+     "AE 253",
+     "AE 295",
+     "AE 675",
+     "AE 785"
+    ],
+    "sheep": [
+     "AC 2661",
+     "AC 9836",
+     "AE 1152",
+     "AE 20",
+     "AE 675"
+    ],
+    "likewise": [
+     "AC 2661",
+     "AE 1232",
+     "AE 20",
+     "AE 253",
+     "AE 295"
+    ],
+    "angel": [
+     "AC 5992",
+     "AE 1152",
+     "AE 1232",
+     "AE 20",
+     "AE 253",
+     "AE 295"
+    ],
+    "heaven": [
+     "AC 8328",
+     "AE 1152",
+     "AE 1232",
+     "AE 20",
+     "AE 228",
+     "AE 253",
+     "AE 295",
+     "AE 675"
+    ],
+    "shoulder": [
+     "AC 9836",
+     "AE 1152"
+    ],
+    "silver": [
+     "AC 9836",
+     "AE 675"
+    ],
+    "house": [
+     "AC 9836",
+     "AE 1152",
+     "AE 675"
+    ],
+    "one": [
+     "AE 1152",
+     "AE 1232",
+     "AE 20",
+     "AE 253",
+     "AE 295",
+     "AE 675",
+     "AE 785"
+    ],
+    "home": [
+     "AE 20"
+    ],
+    "woman": [
+     "AE 1232",
+     "AE 20",
+     "AE 675",
+     "AE 785"
+    ],
+    "piece": [
+     "AE 675"
+    ],
+    "candle": [
+     "AE 675"
+    ],
+    "friend": [
+     "AE 1232"
+    ]
+   },
+   "n_decoded": 14,
+   "share_decoded": 0.737
+  },
+  {
+   "parable": "Unjust steward",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    16,
+    1,
+    8
+   ],
+   "parallels": [],
+   "elements": {
+    "disciple": [
+     "disciple",
+     "disciples"
+    ],
+    "man": [
+     "man"
+    ],
+    "steward": [
+     "steward"
+    ],
+    "thou": [
+     "thou"
+    ],
+    "lord": [
+     "lord"
+    ],
+    "house": [
+     "house",
+     "houses"
+    ],
+    "one": [
+     "one"
+    ],
+    "debtor": [
+     "debtor",
+     "debtors"
+    ],
+    "hundred": [
+     "hundred"
+    ],
+    "oil": [
+     "oil"
+    ],
+    "take": [
+     "take"
+    ],
+    "fifty": [
+     "fifty"
+    ],
+    "wheat": [
+     "wheat"
+    ],
+    "fourscore": [
+     "fourscore"
+    ],
+    "child": [
+     "child",
+     "children"
+    ],
+    "world": [
+     "world"
+    ]
+   },
+   "n_elements": 16,
+   "citing_sections": 8,
+   "decoded_elements": {
+    "hundred": [
+     "AC 2252",
+     "AC 2636"
+    ],
+    "oil": [
+     "AC 2252",
+     "AC 2636",
+     "AE 1232"
+    ],
+    "take": [
+     "AC 2252",
+     "AC 3900",
+     "AE 1232"
+    ],
+    "fifty": [
+     "AC 2252"
+    ],
+    "man": [
+     "AC 2636",
+     "AC 3900",
+     "AE 1232",
+     "AE 763"
+    ],
+    "lord": [
+     "AC 10248",
+     "AC 2636",
+     "AC 3900",
+     "AC 9820",
+     "AE 119",
+     "AE 1232"
+    ],
+    "one": [
+     "AC 10248",
+     "AC 2636",
+     "AC 3900",
+     "AE 119",
+     "AE 1232"
+    ],
+    "debtor": [
+     "AC 2636"
+    ],
+    "child": [
+     "AC 2636"
+    ],
+    "house": [
+     "AC 3900",
+     "AE 119",
+     "AE 1232"
+    ],
+    "world": [
+     "AC 10248",
+     "AC 3900",
+     "AE 119",
+     "AE 1232"
+    ],
+    "thou": [
+     "AE 119",
+     "AE 1232"
+    ],
+    "disciple": [
+     "AE 1232"
+    ]
+   },
+   "n_decoded": 13,
+   "share_decoded": 0.812
+  },
+  {
+   "parable": "Rich man and Lazarus",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    16,
+    19,
+    31
+   ],
+   "parallels": [],
+   "elements": {
+    "man": [
+     "man"
+    ],
+    "linen": [
+     "linen"
+    ],
+    "beggar": [
+     "beggar"
+    ],
+    "lazarus": [
+     "lazarus"
+    ],
+    "gate": [
+     "gate"
+    ],
+    "crumb": [
+     "crumb",
+     "crumbs"
+    ],
+    "dog": [
+     "dog",
+     "dogs"
+    ],
+    "angel": [
+     "angel",
+     "angels"
+    ],
+    "abraham": [
+     "abraham"
+    ],
+    "hell": [
+     "hell"
+    ],
+    "eye": [
+     "eye",
+     "eyes"
+    ],
+    "father": [
+     "father"
+    ],
+    "tip": [
+     "tip"
+    ],
+    "finger": [
+     "finger"
+    ],
+    "water": [
+     "water"
+    ],
+    "tongue": [
+     "tongue"
+    ],
+    "son": [
+     "son"
+    ],
+    "thou": [
+     "thou"
+    ],
+    "art": [
+     "art"
+    ],
+    "gulf": [
+     "gulf"
+    ],
+    "house": [
+     "house"
+    ],
+    "five": [
+     "five"
+    ],
+    "brother": [
+     "brethren",
+     "brother"
+    ],
+    "place": [
+     "place"
+    ],
+    "moses": [
+     "moses"
+    ],
+    "prophet": [
+     "prophet",
+     "prophets"
+    ],
+    "nay": [
+     "nay"
+    ],
+    "one": [
+     "one"
+    ]
+   },
+   "n_elements": 28,
+   "citing_sections": 29,
+   "decoded_elements": {
+    "man": [
+     "AC 10187",
+     "AC 10659",
+     "AC 1861",
+     "AC 3304",
+     "AC 3305",
+     "AC 5291",
+     "AC 6832",
+     "AC 6960",
+     "AC 7784",
+     "AC 9231",
+     "AC 9346",
+     "AC 9467",
+     "AE 1042",
+     "AE 1139",
+     "AE 1152",
+     "AE 118",
+     "AE 1232",
+     "AE 455",
+     "AE 548",
+     "AE 716",
+     "AE 962"
+    ],
+    "angel": [
+     "AC 1861",
+     "AC 3305",
+     "AC 6960",
+     "AE 1042",
+     "AE 1139",
+     "AE 1152",
+     "AE 118",
+     "AE 1232",
+     "AE 962"
+    ],
+    "hell": [
+     "AC 10187",
+     "AC 10659",
+     "AC 1861",
+     "AC 6832",
+     "AC 9346",
+     "AE 1042",
+     "AE 1139",
+     "AE 118",
+     "AE 1232",
+     "AE 455",
+     "AE 548"
+    ],
+    "son": [
+     "AC 1861",
+     "AC 3304",
+     "AC 6960",
+     "AE 1042",
+     "AE 1232",
+     "AE 455"
+    ],
+    "brother": [
+     "AC 1861",
+     "AC 3703",
+     "AC 6804",
+     "AE 1152",
+     "AE 1232",
+     "AE 548"
+    ],
+    "one": [
+     "AC 1861",
+     "AC 3304",
+     "AC 3305",
+     "AC 3703",
+     "AC 5078",
+     "AC 5291",
+     "AC 6804",
+     "AC 6832",
+     "AC 6960",
+     "AC 7784",
+     "AC 9231",
+     "AE 1139",
+     "AE 1152",
+     "AE 1232",
+     "AE 455",
+     "AE 548",
+     "AE 716",
+     "AE 962"
+    ],
+    "thou": [
+     "AC 10187",
+     "AC 10659",
+     "AC 3305",
+     "AC 3703",
+     "AC 6804",
+     "AC 7784",
+     "AE 1139",
+     "AE 1152",
+     "AE 118",
+     "AE 1232",
+     "AE 455",
+     "AE 716"
+    ],
+    "gate": [
+     "AC 3703",
+     "AE 118",
+     "AE 716",
+     "AE 962"
+    ],
+    "abraham": [
+     "AC 10187",
+     "AC 3703",
+     "AC 6804",
+     "AC 6960",
+     "AC 9346",
+     "AE 118",
+     "AE 455",
+     "AE 548"
+    ],
+    "father": [
+     "AC 3703",
+     "AC 6960",
+     "AE 1139",
+     "AE 1232"
+    ],
+    "house": [
+     "AC 3703",
+     "AC 9231",
+     "AE 1139",
+     "AE 1152",
+     "AE 548"
+    ],
+    "place": [
+     "AC 3703",
+     "AE 1232",
+     "AE 455",
+     "AE 716",
+     "AE 962"
+    ],
+    "moses": [
+     "AC 3703",
+     "AC 6832",
+     "AC 9231",
+     "AE 1139",
+     "AE 1152",
+     "AE 716",
+     "AE 962"
+    ],
+    "five": [
+     "AC 5291",
+     "AE 1232",
+     "AE 548"
+    ],
+    "water": [
+     "AC 6804",
+     "AE 1232",
+     "AE 455"
+    ],
+    "eye": [
+     "AC 6832",
+     "AE 1152",
+     "AE 1232",
+     "AE 455",
+     "AE 716"
+    ],
+    "lazarus": [
+     "AC 6960",
+     "AC 7784",
+     "AE 1139",
+     "AE 455",
+     "AE 548",
+     "AE 716"
+    ],
+    "dog": [
+     "AC 7784",
+     "AC 9231"
+    ],
+    "tongue": [
+     "AC 7784",
+     "AE 1232",
+     "AE 455"
+    ],
+    "linen": [
+     "AC 9231",
+     "AC 9467",
+     "AE 1042",
+     "AE 1139",
+     "AE 1152",
+     "AE 118",
+     "AE 716"
+    ],
+    "crumb": [
+     "AC 9231",
+     "AE 118"
+    ],
+    "gulf": [
+     "AC 10187",
+     "AC 9346"
+    ],
+    "art": [
+     "AE 1139",
+     "AE 118",
+     "AE 455"
+    ],
+    "tip": [
+     "AE 455"
+    ],
+    "finger": [
+     "AE 1232",
+     "AE 455"
+    ],
+    "prophet": [
+     "AE 1232"
+    ]
+   },
+   "n_decoded": 26,
+   "share_decoded": 0.929
+  },
+  {
+   "parable": "Unjust judge",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    18,
+    1,
+    8
+   ],
+   "parallels": [],
+   "elements": {
+    "end": [
+     "end"
+    ],
+    "city": [
+     "city"
+    ],
+    "judge": [
+     "judge"
+    ],
+    "man": [
+     "man"
+    ],
+    "widow": [
+     "widow"
+    ],
+    "avenge": [
+     "avenge"
+    ],
+    "adversary": [
+     "adversary"
+    ],
+    "hear": [
+     "hear"
+    ],
+    "son": [
+     "son"
+    ],
+    "earth": [
+     "earth"
+    ]
+   },
+   "n_elements": 10,
+   "citing_sections": 7,
+   "decoded_elements": {
+    "end": [
+     "AC 2826",
+     "AE 1232",
+     "AE 504",
+     "AE 63",
+     "AE 695",
+     "AE 803",
+     "AE 813"
+    ],
+    "city": [
+     "AC 2826",
+     "AE 504",
+     "AE 695",
+     "AE 813"
+    ],
+    "judge": [
+     "AC 2826"
+    ],
+    "man": [
+     "AC 2826",
+     "AE 1232",
+     "AE 504",
+     "AE 63",
+     "AE 695",
+     "AE 803",
+     "AE 813"
+    ],
+    "son": [
+     "AE 1232",
+     "AE 504",
+     "AE 63",
+     "AE 803"
+    ],
+    "earth": [
+     "AE 1232",
+     "AE 504",
+     "AE 63",
+     "AE 695",
+     "AE 803",
+     "AE 813"
+    ],
+    "hear": [
+     "AE 695",
+     "AE 803",
+     "AE 813"
+    ]
+   },
+   "n_decoded": 7,
+   "share_decoded": 0.7
+  },
+  {
+   "parable": "Pharisee and tax collector",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    18,
+    9,
+    14
+   ],
+   "parallels": [],
+   "elements": {
+    "two": [
+     "two"
+    ],
+    "temple": [
+     "temple"
+    ],
+    "one": [
+     "one"
+    ],
+    "pharisee": [
+     "pharisee"
+    ],
+    "extortioner": [
+     "extortioner",
+     "extortioners"
+    ],
+    "adulterer": [
+     "adulterer",
+     "adulterers"
+    ],
+    "eye": [
+     "eye",
+     "eyes"
+    ],
+    "heaven": [
+     "heaven"
+    ],
+    "breast": [
+     "breast"
+    ],
+    "sinner": [
+     "sinner"
+    ],
+    "man": [
+     "man"
+    ],
+    "house": [
+     "house"
+    ]
+   },
+   "n_elements": 12,
+   "citing_sections": 10,
+   "decoded_elements": {
+    "one": [
+     "AC 10248",
+     "AC 2701",
+     "AC 6405",
+     "AE 329",
+     "AE 504",
+     "AE 820"
+    ],
+    "eye": [
+     "AC 2701",
+     "AE 329"
+    ],
+    "heaven": [
+     "AC 10248",
+     "AC 2701",
+     "AE 329",
+     "AE 504",
+     "AE 820"
+    ],
+    "man": [
+     "AC 2701",
+     "AC 6405",
+     "AE 329",
+     "AE 504",
+     "AE 794",
+     "AE 820"
+    ],
+    "pharisee": [
+     "AC 6405"
+    ],
+    "two": [
+     "AE 329",
+     "AE 504"
+    ],
+    "temple": [
+     "AE 329"
+    ],
+    "breast": [
+     "AE 329"
+    ],
+    "house": [
+     "AE 504"
+    ]
+   },
+   "n_decoded": 9,
+   "share_decoded": 0.75
+  },
+  {
+   "parable": "Minas",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    19,
+    11,
+    27
+   ],
+   "parallels": [
+    [
+     "mt",
+     25,
+     14,
+     30
+    ]
+   ],
+   "elements": {
+    "jerusalem": [
+     "jerusalem"
+    ],
+    "a": [
+     "a"
+    ],
+    "ten": [
+     "ten"
+    ],
+    "servant": [
+     "servant",
+     "servants"
+    ],
+    "pound": [
+     "pound",
+     "pounds"
+    ],
+    "occupy": [
+     "occupy"
+    ],
+    "till": [
+     "till"
+    ],
+    "citizen": [
+     "citizen",
+     "citizens"
+    ],
+    "man": [
+     "man"
+    ],
+    "well": [
+     "well"
+    ],
+    "thou": [
+     "thou"
+    ],
+    "city": [
+     "cities",
+     "city"
+    ],
+    "five": [
+     "five"
+    ],
+    "be": [
+     "be"
+    ],
+    "napkin": [
+     "napkin"
+    ],
+    "art": [
+     "art"
+    ],
+    "out": [
+     "out"
+    ],
+    "mouth": [
+     "mouth"
+    ],
+    "bank": [
+     "bank"
+    ],
+    "one": [
+     "one"
+    ]
+   },
+   "n_elements": 20,
+   "citing_sections": 25,
+   "decoded_elements": {
+    "city": [
+     "AC 2449",
+     "AC 5297",
+     "AC 9039",
+     "AE 112",
+     "AE 192",
+     "AE 222",
+     "AE 409",
+     "AE 548",
+     "AE 609",
+     "AE 675"
+    ],
+    "be": [
+     "AC 2449",
+     "AC 2967",
+     "AC 4314",
+     "AC 4424",
+     "AC 5291",
+     "AC 5297",
+     "AC 7770",
+     "AC 7984",
+     "AC 9857",
+     "AE 112",
+     "AE 192",
+     "AE 222",
+     "AE 242",
+     "AE 409",
+     "AE 526",
+     "AE 548",
+     "AE 556",
+     "AE 609",
+     "AE 675",
+     "AE 782",
+     "AE 840"
+    ],
+    "a": [
+     "AC 2967",
+     "AC 4175",
+     "AC 4314",
+     "AC 4424",
+     "AC 5291",
+     "AC 5297",
+     "AC 7770",
+     "AC 7984",
+     "AC 9052",
+     "AC 9857",
+     "AE 112",
+     "AE 192",
+     "AE 222",
+     "AE 242",
+     "AE 409",
+     "AE 526",
+     "AE 548",
+     "AE 556",
+     "AE 609",
+     "AE 675",
+     "AE 782",
+     "AE 840"
+    ],
+    "ten": [
+     "AC 2967",
+     "AC 5291",
+     "AC 5297",
+     "AC 7984",
+     "AE 112",
+     "AE 222",
+     "AE 409",
+     "AE 548",
+     "AE 675"
+    ],
+    "servant": [
+     "AC 2967",
+     "AC 5291",
+     "AE 192",
+     "AE 409",
+     "AE 548",
+     "AE 609",
+     "AE 675"
+    ],
+    "pound": [
+     "AC 2967",
+     "AC 5291",
+     "AC 5297",
+     "AC 7984",
+     "AC 9039",
+     "AE 112",
+     "AE 192",
+     "AE 548",
+     "AE 675"
+    ],
+    "man": [
+     "AC 2967",
+     "AC 5291",
+     "AC 5297",
+     "AC 7770",
+     "AE 112",
+     "AE 192",
+     "AE 222",
+     "AE 242",
+     "AE 409",
+     "AE 526",
+     "AE 548",
+     "AE 556",
+     "AE 609",
+     "AE 675",
+     "AE 782",
+     "AE 840"
+    ],
+    "thou": [
+     "AC 2967",
+     "AC 5297",
+     "AC 9052",
+     "AC 9857",
+     "AE 112",
+     "AE 192",
+     "AE 222",
+     "AE 242",
+     "AE 409",
+     "AE 526",
+     "AE 556",
+     "AE 840"
+    ],
+    "out": [
+     "AC 2967",
+     "AC 4424",
+     "AC 5297",
+     "AE 192",
+     "AE 222",
+     "AE 242",
+     "AE 409",
+     "AE 526",
+     "AE 556",
+     "AE 609",
+     "AE 675",
+     "AE 840"
+    ],
+    "one": [
+     "AC 2967",
+     "AC 5291",
+     "AC 7770",
+     "AC 7984",
+     "AE 192",
+     "AE 222",
+     "AE 242",
+     "AE 409",
+     "AE 548",
+     "AE 556",
+     "AE 609",
+     "AE 675",
+     "AE 782",
+     "AE 840"
+    ],
+    "well": [
+     "AC 5291",
+     "AE 409",
+     "AE 675"
+    ],
+    "five": [
+     "AC 5291",
+     "AE 222",
+     "AE 548",
+     "AE 675"
+    ],
+    "napkin": [
+     "AC 5291",
+     "AE 192"
+    ],
+    "bank": [
+     "AE 192"
+    ],
+    "jerusalem": [
+     "AE 222",
+     "AE 242",
+     "AE 409",
+     "AE 548",
+     "AE 609",
+     "AE 675"
+    ],
+    "art": [
+     "AE 222",
+     "AE 409"
+    ],
+    "mouth": [
+     "AE 409",
+     "AE 556",
+     "AE 609",
+     "AE 782"
+    ],
+    "till": [
+     "AE 675"
+    ]
+   },
+   "n_decoded": 18,
+   "share_decoded": 0.9
+  },
+  {
+   "parable": "Fig tree in leaf",
+   "group": "attested",
+   "luke_or_main": [
+    "lk",
+    21,
+    29,
+    31
+   ],
+   "parallels": [
+    [
+     "mt",
+     24,
+     32,
+     35
+    ],
+    [
+     "mk",
+     13,
+     28,
+     31
+    ]
+   ],
+   "elements": {
+    "behold": [
+     "behold"
+    ],
+    "tree": [
+     "tree",
+     "trees"
+    ],
+    "forth": [
+     "forth"
+    ],
+    "see": [
+     "see"
+    ],
+    "hand": [
+     "hand"
+    ]
+   },
+   "n_elements": 5,
+   "citing_sections": 6,
+   "decoded_elements": {
+    "hand": [
+     "AC 2842",
+     "AE 303",
+     "AE 386"
+    ],
+    "behold": [
+     "AE 303",
+     "AE 386",
+     "AE 403"
+    ],
+    "tree": [
+     "AE 303",
+     "AE 386",
+     "AE 403"
+    ],
+    "forth": [
+     "AE 303",
+     "AE 386",
+     "AE 403"
+    ],
+    "see": [
+     "AE 303",
+     "AE 386",
+     "AE 403"
+    ]
+   },
+   "n_decoded": 5,
+   "share_decoded": 1.0
+  },
+  {
+   "parable": "Wheat and tares",
+   "group": "control",
+   "luke_or_main": [
+    "mt",
+    13,
+    24,
+    30
+   ],
+   "parallels": [],
+   "elements": {
+    "heaven": [
+     "heaven"
+    ],
+    "man": [
+     "man"
+    ],
+    "seed": [
+     "seed"
+    ],
+    "field": [
+     "field"
+    ],
+    "wheat": [
+     "wheat"
+    ],
+    "blade": [
+     "blade"
+    ],
+    "forth": [
+     "forth"
+    ],
+    "fruit": [
+     "fruit"
+    ],
+    "servant": [
+     "servant",
+     "servants"
+    ],
+    "householder": [
+     "householder"
+    ],
+    "sir": [
+     "sir"
+    ],
+    "wilt": [
+     "wilt"
+    ],
+    "thou": [
+     "thou"
+    ],
+    "nay": [
+     "nay"
+    ],
+    "harvest": [
+     "harvest"
+    ],
+    "reaper": [
+     "reaper",
+     "reapers"
+    ],
+    "gather": [
+     "gather"
+    ],
+    "barn": [
+     "barn"
+    ]
+   },
+   "n_elements": 18,
+   "citing_sections": 15,
+   "decoded_elements": {
+    "heaven": [
+     "AC 10303",
+     "AC 31",
+     "AE 1005",
+     "AE 185",
+     "AE 231",
+     "AE 237",
+     "AE 400",
+     "AE 422",
+     "AE 622",
+     "AE 849",
+     "AE 910"
+    ],
+    "man": [
+     "AC 10303",
+     "AC 31",
+     "AE 185",
+     "AE 231",
+     "AE 237",
+     "AE 400",
+     "AE 422",
+     "AE 426",
+     "AE 622",
+     "AE 849",
+     "AE 910"
+    ],
+    "blade": [
+     "AC 31",
+     "AE 910"
+    ],
+    "forth": [
+     "AC 10303",
+     "AC 31",
+     "AC 7571",
+     "AE 400",
+     "AE 422",
+     "AE 622",
+     "AE 910"
+    ],
+    "thou": [
+     "AC 10303",
+     "AC 31",
+     "AE 185",
+     "AE 237",
+     "AE 400",
+     "AE 622",
+     "AE 910"
+    ],
+    "harvest": [
+     "AC 2449",
+     "AC 3941",
+     "AE 426",
+     "AE 849",
+     "AE 910"
+    ],
+    "reaper": [
+     "AC 2449",
+     "AE 849",
+     "AE 910"
+    ],
+    "seed": [
+     "AC 3941",
+     "AE 1005",
+     "AE 185",
+     "AE 237",
+     "AE 400",
+     "AE 422",
+     "AE 426",
+     "AE 910"
+    ],
+    "field": [
+     "AC 3941",
+     "AC 7571",
+     "AE 185",
+     "AE 400",
+     "AE 426",
+     "AE 910"
+    ],
+    "wheat": [
+     "AC 10303",
+     "AC 3941",
+     "AE 426",
+     "AE 622",
+     "AE 849",
+     "AE 910"
+    ],
+    "gather": [
+     "AC 3941",
+     "AE 422",
+     "AE 426",
+     "AE 622",
+     "AE 849",
+     "AE 910"
+    ],
+    "fruit": [
+     "AC 7571",
+     "AE 422",
+     "AE 622",
+     "AE 910"
+    ],
+    "servant": [
+     "AE 426",
+     "AE 622",
+     "AE 910"
+    ],
+    "householder": [
+     "AE 426"
+    ],
+    "barn": [
+     "AE 426",
+     "AE 849",
+     "AE 910"
+    ],
+    "wilt": [
+     "AE 910"
+    ],
+    "nay": [
+     "AE 910"
+    ]
+   },
+   "n_decoded": 17,
+   "share_decoded": 0.944
+  },
+  {
+   "parable": "Treasure in the field",
+   "group": "control",
+   "luke_or_main": [
+    "mt",
+    13,
+    44,
+    44
+   ],
+   "parallels": [],
+   "elements": {
+    "heaven": [
+     "heaven"
+    ],
+    "field": [
+     "field"
+    ],
+    "man": [
+     "man"
+    ]
+   },
+   "n_elements": 3,
+   "citing_sections": 5,
+   "decoded_elements": {
+    "heaven": [
+     "AC 10227",
+     "AC 5886",
+     "AE 840",
+     "AE 863"
+    ],
+    "field": [
+     "AC 10227",
+     "AC 5886",
+     "AE 840",
+     "AE 863"
+    ],
+    "man": [
+     "AC 10227",
+     "AC 5886",
+     "AE 840",
+     "AE 863"
+    ]
+   },
+   "n_decoded": 3,
+   "share_decoded": 1.0
+  },
+  {
+   "parable": "Pearl",
+   "group": "control",
+   "luke_or_main": [
+    "mt",
+    13,
+    45,
+    46
+   ],
+   "parallels": [],
+   "elements": {
+    "heaven": [
+     "heaven"
+    ],
+    "merchant": [
+     "merchant"
+    ],
+    "man": [
+     "man"
+    ],
+    "who": [
+     "who"
+    ],
+    "one": [
+     "one"
+    ]
+   },
+   "n_elements": 5,
+   "citing_sections": 4,
+   "decoded_elements": {
+    "merchant": [
+     "AC 2967",
+     "AE 1043"
+    ],
+    "man": [
+     "AC 2967",
+     "AE 1043",
+     "AE 840",
+     "AE 863"
+    ],
+    "who": [
+     "AC 2967",
+     "AE 1043",
+     "AE 840",
+     "AE 863"
+    ],
+    "one": [
+     "AC 2967",
+     "AE 1043",
+     "AE 840",
+     "AE 863"
+    ],
+    "heaven": [
+     "AE 1043",
+     "AE 840",
+     "AE 863"
+    ]
+   },
+   "n_decoded": 5,
+   "share_decoded": 1.0
+  },
+  {
+   "parable": "Net",
+   "group": "control",
+   "luke_or_main": [
+    "mt",
+    13,
+    47,
+    50
+   ],
+   "parallels": [],
+   "elements": {
+    "heaven": [
+     "heaven"
+    ],
+    "sea": [
+     "sea"
+    ],
+    "which": [
+     "which"
+    ],
+    "vessel": [
+     "vessel",
+     "vessels"
+    ],
+    "end": [
+     "end"
+    ],
+    "world": [
+     "world"
+    ],
+    "angel": [
+     "angel",
+     "angels"
+    ],
+    "forth": [
+     "forth"
+    ],
+    "furnace": [
+     "furnace"
+    ],
+    "teeth": [
+     "teeth"
+    ]
+   },
+   "n_elements": 10,
+   "citing_sections": 11,
+   "decoded_elements": {
+    "which": [
+     "AC 10248",
+     "AC 1861",
+     "AC 4175",
+     "AC 4424",
+     "AC 9052",
+     "AC 9263",
+     "AE 129",
+     "AE 397",
+     "AE 512",
+     "AE 540",
+     "AE 556"
+    ],
+    "angel": [
+     "AC 1861",
+     "AC 9263",
+     "AE 129",
+     "AE 512",
+     "AE 540",
+     "AE 556"
+    ],
+    "forth": [
+     "AC 10248",
+     "AC 1861",
+     "AC 4424",
+     "AC 9263",
+     "AE 129",
+     "AE 512",
+     "AE 556"
+    ],
+    "furnace": [
+     "AC 1861",
+     "AE 540"
+    ],
+    "teeth": [
+     "AC 4175",
+     "AC 4424",
+     "AC 9052",
+     "AE 129",
+     "AE 540",
+     "AE 556"
+    ],
+    "heaven": [
+     "AC 10248",
+     "AC 9263",
+     "AE 129",
+     "AE 397",
+     "AE 512",
+     "AE 540",
+     "AE 556"
+    ],
+    "end": [
+     "AC 10248",
+     "AE 512"
+    ],
+    "world": [
+     "AC 10248",
+     "AE 129",
+     "AE 512",
+     "AE 540",
+     "AE 556"
+    ],
+    "sea": [
+     "AE 512",
+     "AE 556"
+    ]
+   },
+   "n_decoded": 9,
+   "share_decoded": 0.9
+  },
+  {
+   "parable": "Labourers in the vineyard",
+   "group": "control",
+   "luke_or_main": [
+    "mt",
+    20,
+    1,
+    16
+   ],
+   "parallels": [],
+   "elements": {
+    "heaven": [
+     "heaven"
+    ],
+    "man": [
+     "man"
+    ],
+    "householder": [
+     "householder"
+    ],
+    "labourer": [
+     "labourer",
+     "labourers"
+    ],
+    "vineyard": [
+     "vineyard"
+    ],
+    "penny": [
+     "penny"
+    ],
+    "go": [
+     "go"
+    ],
+    "lord": [
+     "lord"
+    ],
+    "steward": [
+     "steward"
+    ],
+    "hire": [
+     "hire"
+    ],
+    "goodman": [
+     "goodman"
+    ],
+    "house": [
+     "house"
+    ],
+    "one": [
+     "one"
+    ],
+    "thou": [
+     "thou"
+    ],
+    "friend": [
+     "friend"
+    ],
+    "eye": [
+     "eye"
+    ],
+    "chosen": [
+     "chosen"
+    ]
+   },
+   "n_elements": 17,
+   "citing_sections": 12,
+   "decoded_elements": {
+    "man": [
+     "AC 1069",
+     "AC 2534",
+     "AC 8002",
+     "AC 9139",
+     "AE 194",
+     "AE 618",
+     "AE 918"
+    ],
+    "vineyard": [
+     "AC 1069",
+     "AC 9139",
+     "AE 194",
+     "AE 918"
+    ],
+    "lord": [
+     "AC 1069",
+     "AC 2534",
+     "AC 3417",
+     "AC 5164",
+     "AC 9139",
+     "AE 194",
+     "AE 333",
+     "AE 618",
+     "AE 918"
+    ],
+    "house": [
+     "AC 1069",
+     "AC 8002"
+    ],
+    "thou": [
+     "AC 1069",
+     "AC 2534",
+     "AE 194",
+     "AE 618"
+    ],
+    "one": [
+     "AC 2534",
+     "AC 8002",
+     "AE 194",
+     "AE 618",
+     "AE 918"
+    ],
+    "heaven": [
+     "AC 2788",
+     "AC 8002",
+     "AC 9139",
+     "AE 194",
+     "AE 333",
+     "AE 618",
+     "AE 918"
+    ],
+    "hire": [
+     "AC 8002"
+    ],
+    "friend": [
+     "AC 9139"
+    ],
+    "householder": [
+     "AE 194"
+    ]
+   },
+   "n_decoded": 10,
+   "share_decoded": 0.588
+  },
+  {
+   "parable": "Ten virgins",
+   "group": "control",
+   "luke_or_main": [
+    "mt",
+    25,
+    1,
+    13
+   ],
+   "parallels": [],
+   "elements": {
+    "heaven": [
+     "heaven"
+    ],
+    "ten": [
+     "ten"
+    ],
+    "virgin": [
+     "virgin",
+     "virgins"
+    ],
+    "lamp": [
+     "lamp",
+     "lamps"
+    ],
+    "forth": [
+     "forth"
+    ],
+    "bridegroom": [
+     "bridegroom"
+    ],
+    "five": [
+     "five"
+    ],
+    "oil": [
+     "oil"
+    ],
+    "vessel": [
+     "vessel",
+     "vessels"
+    ],
+    "behold": [
+     "behold"
+    ],
+    "door": [
+     "door"
+    ],
+    "afterward": [
+     "afterward"
+    ],
+    "verily": [
+     "verily"
+    ],
+    "son": [
+     "son"
+    ],
+    "man": [
+     "man"
+    ]
+   },
+   "n_elements": 15,
+   "citing_sections": 19,
+   "decoded_elements": {
+    "ten": [
+     "AC 3079",
+     "AC 5291",
+     "AC 9182",
+     "AE 250"
+    ],
+    "virgin": [
+     "AC 3079",
+     "AC 6000",
+     "AC 8989",
+     "AC 9182",
+     "AC 9780",
+     "AE 212",
+     "AE 250",
+     "AE 504"
+    ],
+    "lamp": [
+     "AC 3079",
+     "AC 7778",
+     "AC 8989",
+     "AC 9182",
+     "AC 9192",
+     "AC 9780",
+     "AE 212",
+     "AE 250",
+     "AE 274",
+     "AE 504"
+    ],
+    "five": [
+     "AC 3079",
+     "AC 5291",
+     "AE 212",
+     "AE 250",
+     "AE 504"
+    ],
+    "oil": [
+     "AC 3079",
+     "AC 5374",
+     "AC 7778",
+     "AC 8989",
+     "AC 9182",
+     "AC 9192",
+     "AC 9780",
+     "AE 212",
+     "AE 250",
+     "AE 274",
+     "AE 504"
+    ],
+    "vessel": [
+     "AC 3079",
+     "AC 5291"
+    ],
+    "heaven": [
+     "AC 4434",
+     "AC 6000",
+     "AC 8989",
+     "AC 9182",
+     "AC 9192",
+     "AC 9780",
+     "AE 194",
+     "AE 207",
+     "AE 212",
+     "AE 250",
+     "AE 274",
+     "AE 504"
+    ],
+    "man": [
+     "AC 4434",
+     "AC 5291",
+     "AC 6000",
+     "AC 8989",
+     "AC 9182",
+     "AC 9780",
+     "AE 194",
+     "AE 250",
+     "AE 274",
+     "AE 504"
+    ],
+    "bridegroom": [
+     "AC 5374",
+     "AC 6000",
+     "AC 8989",
+     "AC 9182",
+     "AE 250",
+     "AE 274"
+    ],
+    "behold": [
+     "AC 6000",
+     "AC 8989",
+     "AE 207",
+     "AE 212"
+    ],
+    "door": [
+     "AC 8989",
+     "AE 207",
+     "AE 250"
+    ],
+    "verily": [
+     "AC 7778",
+     "AC 9192",
+     "AE 250"
+    ],
+    "forth": [
+     "AC 9182",
+     "AC 9780",
+     "AE 194",
+     "AE 212",
+     "AE 250",
+     "AE 274",
+     "AE 504"
+    ],
+    "son": [
+     "AE 504"
+    ]
+   },
+   "n_decoded": 14,
+   "share_decoded": 0.933
+  }
+ ],
+ "summary": {
+  "absent_median_share": 0.9059999999999999,
+  "attested_median_share": 0.805,
+  "U": 33.5,
+  "p_one_sided": 0.1357142857142857,
+  "n_absent": 4,
+  "n_attested": 12
+ }
+}

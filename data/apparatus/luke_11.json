@@ -1,0 +1,645 @@
+{
+  "luke_chapter": 11,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "11:1",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.1",
+          "evidence": "\"Cum in quodam loco orasset… aggressus eum ex discipulis quidam, Domine, inquit, doce nos orare, sicut et Ioannes discipulos suos docuit.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 1"
+    },
+    {
+      "ref": "11:2",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.3–5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.3",
+          "evidence": "\"Cui dicam, Pater?\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.26.4",
+          "evidence": "\"A quo spiritum sanctum postulem?… Eius regnum optabo venire…\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.26.5",
+          "evidence": "\"Hoc ordine qui alii deo supplicat…\" — Tertullian has gone through the petitions in their order: Father, holy spirit, kingdom, bread, sins, temptation."
+        }
+      ],
+      "wording": "Marcionite reading adopted in substance: a petition for the holy spirit stands where NA27 has \"hallowed be your name\". Tertullian turns each petition into a question, in the order of the prayer; the second question is \"From whom shall I ask the holy spirit?\", and there is none about the name. Roth: the holy spirit very likely, and \"some sort of request for the Spirit in place of the first petition\". NA27 itself cites Marcion (McionT, in parentheses: with differences) for the petition for the Spirit, which in 700 (162) and Gregory of Nyssa reads ἐλθέτω τὸ πνεῦμά σου τὸ ἅγιον ἐφ' ἡμᾶς καὶ καθαρισάτω ἡμᾶς and replaces \"your kingdom come\". Tertullian does not give the wording. The Greek printed takes the verb and word order of that manuscript form and only the elements Tertullian attests (\"your holy spirit\"); ἐφ' ἡμᾶς καὶ καθαρισάτω ἡμᾶς is not attested for this text and is not printed. Unlike the manuscripts, this text keeps \"your kingdom come\" (Tertullian: \"regnum optabo venire\"). The address is \"Father\" alone; NA27 cites McionT and Origen with 𝔓75 ℵ B for the text without \"our, who art in heaven\".",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 2"
+    },
+    {
+      "ref": "11:3",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.4; Origen, fragment on Luke 11:3)",
+      "witnesses": [
+        {
+          "source": "Origen, fragment on Luke 11:3 (Rauer, GCS 35, 1930, p. 254, fr. XLVI; 2nd ed. fr. 180)",
+          "evidence": "Ἐπεὶ δὲ οἱ ἀπὸ Μαρκίωνος ἔχουσι τὴν λέξιν οὕτως· »τὸν ἄρτον σου τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ' ἡμέραν«… τίς ἐστιν ὁ ἄρτος τοῦ θεοῦ; (read in the 1930 edition)"
+        },
+        {
+          "source": "Tertullian, Marc. 4.26.4",
+          "evidence": "\"Quis dabit mihi panem cotidianum?… qui etiam de caelo panem angelorum cotidianum populo suo praestitit?\""
+        }
+      ],
+      "wording": "Marcionite reading adopted: τὸν ἄρτον σου (\"your bread\") for τὸν ἄρτον ἡμῶν. Origen quotes the Marcionites' wording in Greek and asks them \"what is the bread of God?\"; Tertullian's question agrees in the rest. Roth: very likely. NA27 apparatus: σου McionOr. For ἐπιούσιος see the note.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 3"
+    },
+    {
+      "ref": "11:4",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.4–5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.4–5",
+          "evidence": "\"Quis mihi delicta dimittet?… Quis non sinet nos deduci in temptationem?\""
+        }
+      ],
+      "wording": "NA27. Tertullian's question \"Who will not let us be led into temptation?\" was long taken (Harnack) as a Marcionite reading μὴ ἄφες ἡμᾶς εἰσενεχθῆναι. Roth rates it possible only: Tertullian turns every petition into a question, and he glosses the canonical \"lead us not\" the same way in his own works: \"ne nos patiaris induci\" (Or. 8.1); cf. Fug. 2.5, \"ne nos induxeris in temptationem permittendo nos maligno\". Not adopted. The clause \"for we ourselves forgive…\" is not cited. NA27 cites McionT and Origen for the text without \"but deliver us from evil\".",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 4"
+    },
+    {
+      "ref": "11:5",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.8; Pan. 42.11.6, sch. 24)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 24",
+          "evidence": "»τίς ἐξ ὑμῶν ἕξει φίλον, καὶ πορεύσεται πρὸς αὐτὸν μεσονυκτίου, αἰτῶν τρεῖς ἄρτους;«"
+        },
+        {
+          "source": "Tertullian, Marc. 4.26.8",
+          "evidence": "\"Sic et praemissa similitudo nocturnum panis petitorem amicum facit…\""
+        }
+      ],
+      "wording": "NA27. Epiphanius summarizes the end of the verse (\"asking for three loaves\"); Roth: abbreviation.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 5"
+    },
+    {
+      "ref": "11:6",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 11:5–8.",
+      "reconstruction": "chapter 9, verse 6"
+    },
+    {
+      "ref": "11:7",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.8",
+          "evidence": "\"cubantem iam cum infantibus quos nasci voluerat… cuius ianuam norat\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 7"
+    },
+    {
+      "ref": "11:8",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.9",
+          "evidence": "\"is et exsurgit et dat, etsi iam non quasi amico… sed quasi molesto, inquit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 8"
+    },
+    {
+      "ref": "11:9",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.5–6; Pan. 42.11.6, sch. 24)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 24",
+          "evidence": "καὶ λοιπόν »αἰτεῖτε καὶ δοθήσεται«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.26.5",
+          "evidence": "\"Proinde a quo petam ut accipiam? apud quem quaeram ut inveniam? ad quem pulsabo ut aperiatur mihi?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 9"
+    },
+    {
+      "ref": "11:10",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested passage 11:9–13.",
+      "reconstruction": "chapter 9, verse 10"
+    },
+    {
+      "ref": "11:11",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.10; Pan. 42.11.6, sch. 24; Adam. 110,3–4)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 24",
+          "evidence": "»τίνα γὰρ ἐξ ὑμῶν τὸν πατέρα υἱὸς αἰτήσει ἰχθὺν καὶ ἀντὶ ἰχθύος ὄφιν ἐπιδώσει αὐτῷ«"
+        },
+        {
+          "source": "Tertullian, Marc. 4.26.9",
+          "evidence": "\"non serpentem pro pisce, nec scorpium pro ovo\"."
+        }
+      ],
+      "wording": "NA27. Epiphanius has γάρ and the order υἱὸς αἰτήσει (both found in 𝔓45); Roth: order uncertain, γάρ possible. Neither witness has the \"bread and stone\" pair that most manuscripts add here (NA27 cites McionE with 𝔓45.75 B for its absence).",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 11"
+    },
+    {
+      "ref": "11:12",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.10; Pan. 42.11.6, sch. 24; Adam. 110,4–5)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 24",
+          "evidence": "»ἢ ἀντὶ ᾠοῦ σκορπίον;«"
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 12"
+    },
+    {
+      "ref": "11:13",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.10; Pan. 42.11.6, sch. 24; Adam. 110,5–6)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 24",
+          "evidence": "»εἰ οὖν ὑμεῖς πονηροὶ οἴδατε δόματα ἀγαθά, πόσῳ μᾶλλον ὁ πατήρ;«"
+        },
+        {
+          "source": "Tertullian, Marc. 4.26.10",
+          "evidence": "\"Itaque et spiritum sanctum is dabit apud quem est et non sanctus.\""
+        }
+      ],
+      "wording": "NA27, with its bracketed [ὁ] before ἐξ οὐρανοῦ. Epiphanius' quotation stops at \"the Father\"; Tertullian attests \"will give the holy spirit\".",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 13"
+    },
+    {
+      "ref": "11:14",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.10",
+          "evidence": "\"Cum surdum daemonium expulisset…\""
+        }
+      ],
+      "wording": "NA27, including its bracketed [καὶ αὐτὸ ἦν] (\"and it was\"), which SBLGNT omits (checked on the page image). Tertullian's narrative summary does not show whether the words stood.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 14"
+    },
+    {
+      "ref": "11:15",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.11; 4.28.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.10",
+          "evidence": "\"in Beelzebub dictus eicere daemonia\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 15"
+    },
+    {
+      "ref": "11:16",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 11:14–23.",
+      "reconstruction": "chapter 9, verse 16"
+    },
+    {
+      "ref": "11:17",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 11:14–23.",
+      "reconstruction": "chapter 9, verse 17"
+    },
+    {
+      "ref": "11:18",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.11",
+          "evidence": "\"resistet tibi prior sensus, non posse satanam dividi adversus semetipsum\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 18"
+    },
+    {
+      "ref": "11:19",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.10",
+          "evidence": "\"Si ego, inquit, in Beelzebub eicio daemonia, filii vestri in quo eiciunt?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 19"
+    },
+    {
+      "ref": "11:20",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.11",
+          "evidence": "\"Quodsi ego in digito dei expello daemonia, ergone appropinquavit in vos regnum dei?\""
+        }
+      ],
+      "wording": "NA27, including its bracketed [ἐγώ] (\"I\"), which SBLGNT omits (checked on the page image); Tertullian has \"ego\". His \"appropinquavit\" (ἤγγικεν?) for ἔφθασεν is rated possible only; not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 20"
+    },
+    {
+      "ref": "11:21",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.12)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.12",
+          "evidence": "\"applicuit ad parabolam fortis illius armati…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 21"
+    },
+    {
+      "ref": "11:22",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.12)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.12",
+          "evidence": "\"quem validior alius oppressit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 22"
+    },
+    {
+      "ref": "11:23",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 11:14–23.",
+      "reconstruction": "chapter 9, verse 23"
+    },
+    {
+      "ref": "11:24–26",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The return of the unclean spirit. A separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 11:22 (4.26.12) to 11:27 (4.26.13)."
+    },
+    {
+      "ref": "11:27",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.13; 3.11.3; Ephrem, Comm. Diat. 11.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.13",
+          "evidence": "\"Exclamat mulier de turba beatum uterum qui illum portasset, et ubera quae illum educassent.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 24"
+    },
+    {
+      "ref": "11:28",
+      "class": "A+",
+      "roth": "present (Marc. 4.26.13)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.26.13",
+          "evidence": "\"Et dominus, Immo beati qui sermonem dei audiunt et faciunt\"."
+        }
+      ],
+      "wording": "NA27. Tertullian has \"and do it\" (ποιοῦντες?) for \"and keep it\"; Roth: possible only, since Tertullian links the saying at once to 8:21 (\"hear and do\"). Not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 25"
+    },
+    {
+      "ref": "11:29",
+      "class": "A+",
+      "roth": "present without the Jonah clause (Marc. 4.27.1; Pan. 42.11.6, sch. 25)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 25",
+          "evidence": "παρέκοπτε τὸ περὶ Ἰωνᾶ τοῦ προφήτου. εἶχεν γὰρ »ἡ γενεὰ αὕτη, σημεῖον οὐ δοθήσεται αὐτῇ«. οὐκ εἶχεν δὲ περὶ Νινευὴ καὶ βασιλίσσης νότου καὶ Σαλομῶνος."
+        },
+        {
+          "source": "Tertullian, Marc. 4.27.1",
+          "evidence": "\"iubet omni petenti dare, et ipse signum petentibus non dat\"."
+        }
+      ],
+      "wording": "Attested omission: εἰ μὴ τὸ σημεῖον Ἰωνᾶ (\"except the sign of Jonah\") is not printed. Epiphanius says the text lacked \"what is about Jonah the prophet\", \"for it had 'this generation — no sign will be given to it'\"; his quotation ends there in the scholion and again in his refutation. Tertullian says that Christ \"does not give a sign\" to those who ask, with no exception. The words between \"this generation\" and \"no sign\" are not quoted by either witness; Roth takes Epiphanius' quotation as abbreviated there, and they are printed in the NA27 wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 26"
+    },
+    {
+      "ref": "11:30–32",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 25",
+          "evidence": "παρέκοπτε τὸ περὶ Ἰωνᾶ τοῦ προφήτου… οὐκ εἶχεν δὲ περὶ Νινευὴ καὶ βασιλίσσης νότου καὶ Σαλομῶνος."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text did not have the sayings about Nineveh, the queen of the south and Solomon. Tertullian passes from 11:29 to 11:33 (4.27.1); Roth counts his silence as confirmation (tacitus)."
+    },
+    {
+      "ref": "11:33",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.27.1",
+          "evidence": "\"negat lucernam abstrudendam, sed confirmat super candelabrum proponendam, ut omnibus luceat\"."
+        }
+      ],
+      "wording": "NA27 (τὸ φῶς; SBLGNT τὸ φέγγος — checked on the page image), including its bracketed [οὐδὲ ὑπὸ τὸν μόδιον]. Tertullian's \"so that it may shine for all\" is the wording of Matthew 5:15, which he quotes elsewhere (Praescr. 26.4); Roth: possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 27"
+    },
+    {
+      "ref": "11:34–36",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The lamp of the body. A separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 11:33 (4.27.1) to 11:37 (4.27.2)."
+    },
+    {
+      "ref": "11:37",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.27.2",
+          "evidence": "\"pharisaeus, qui illum vocarat ad prandium… quam recubuisset\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 28"
+    },
+    {
+      "ref": "11:38",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.27.2",
+          "evidence": "\"retractabat penes se cur non prius tinctus esset quam recubuisset, secundum legem\"."
+        }
+      ],
+      "wording": "Marcionite reading adopted (retroversion): the Pharisee debating within himself why Jesus had not washed, for NA27's \"was amazed, seeing that he had not first washed\". Tertullian's Latin cannot render NA27's ἰδὼν ἐθαύμασεν. The Greek printed is that of codex D, whose reading Tertullian matches (NA27 apparatus: ἤρξατο διακρινόμενος ἐν ἑαυτῷ λέγειν διὰ τί D (pc) lat syc; (McionT)). Roth rates \"debating within himself\" and \"why… not first washed\" very likely; ἤρξατο and λέγειν are possible only, and the Old Latin has the words in a different order.",
+      "decision": "printed",
+      "western": "The reading of D, the Old Latin and the Old Syriac (syc).",
+      "reconstruction": "chapter 9, verse 29"
+    },
+    {
+      "ref": "11:39",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.2, 6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.27.2",
+          "evidence": "\"dicens illos calicis et catini exteriora emundare, interiora autem ipsorum plena esse rapina et iniquitate\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 30"
+    },
+    {
+      "ref": "11:40",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.27.2",
+          "evidence": "\"Nonne qui exteriora fecit, id est carnem, et interiora fecit, id est animam?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 31"
+    },
+    {
+      "ref": "11:41",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.3, 6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.27.3",
+          "evidence": "\"Date quae habetis eleemosynam, et omnia munda erunt vobis.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"erunt\" (ἔσται, the reading of 𝔓45 and D) and \"quae habetis\" are rated possible only by Roth; not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 32"
+    },
+    {
+      "ref": "11:42",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.4, 6; Pan. 42.11.6, sch. 26)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 26",
+          "evidence": "ἀντὶ τοῦ »παρέρχεσθε τὴν κρίσιν τοῦ θεοῦ« εἶχε »παρέρχεσθε τὴν κλῆσιν τοῦ θεοῦ«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.27.4",
+          "evidence": "\"Sic et holuscula decimantes, vocationem autem et dilectionem dei praetereuntes obiurgat. Cuius dei vocationem et dilectionem…?\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.27.6",
+          "evidence": "\"eleemosynam et vocationem et dilectionem dei\"."
+        }
+      ],
+      "wording": "Marcionite reading adopted: τὴν κλῆσιν (\"the calling\") for τὴν κρίσιν (\"justice\"). Epiphanius states the difference; Tertullian has vocationem twice. Roth: very likely (the reading is otherwise unattested in the manuscripts). The final clause (\"these you ought to have done…\") is not cited by either witness; it is lacking in D. It is printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 33"
+    },
+    {
+      "ref": "11:43",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.27.5",
+          "evidence": "\"Primatum quoque captantes locorum et honorem salutationum cum incusat\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 34"
+    },
+    {
+      "ref": "11:44",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 11:37–44.",
+      "reconstruction": "chapter 9, verse 35"
+    },
+    {
+      "ref": "11:45",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 11:45–52.",
+      "reconstruction": "chapter 9, verse 36"
+    },
+    {
+      "ref": "11:46",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.27.6",
+          "evidence": "\"Invehitur et in doctores ipsos legis, quod onerarent alios importabilibus oneribus, quae ipsi ne digito quidem aggredi auderent\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 37"
+    },
+    {
+      "ref": "11:47",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.8; Pan. 42.11.6, sch. 27)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 27",
+          "evidence": "»οὐαὶ ὑμῖν, ὅτι οἰκοδομεῖτε τὰ μνήματα τῶν προφητῶν καὶ οἱ πατέρες ὑμῶν ἀπέκτειναν αὐτούς«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.27.8",
+          "evidence": "\"Cur autem Vae audiunt etiam quod aedificarent prophetis monimenta interemptis a patribus eorum…\""
+        }
+      ],
+      "wording": "NA27. Epiphanius has τὰ μνήματα and καὶ οἱ for τὰ μνημεῖα and οἱ δέ; in his other quotation (33.10.4) he has τὰ μνημεῖα. Roth: possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 38"
+    },
+    {
+      "ref": "11:48",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.27.8",
+          "evidence": "\"laude potius digni, qui ex isto opere pietatis testabantur se non consentire factis patrum\"."
+        }
+      ],
+      "wording": "NA27. Tertullian's comment, that the builders \"testified that they did not consent to the deeds of their fathers\", matches the reading of D, μαρτυρεῖτε μὴ συνευδοκεῖν (\"you testify that you do not approve\"), and NA27 cites McionT for μὴ συνευδοκεῖν. But the words stand in Tertullian's own argument, not in a quotation, and Roth rates the reading probable only. Not adopted; recorded.",
+      "decision": "printed",
+      "western": "D (it) read \"you testify that you do not approve\".",
+      "reconstruction": "chapter 9, verse 39"
+    },
+    {
+      "ref": "11:49–51",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 28",
+          "evidence": "οὐκ εἶχεν »διὰ τοῦτο εἶπεν ἡ σοφία τοῦ θεοῦ· ἀποστελῶ εἰς αὐτοὺς προφήτας« καὶ περὶ αἵματος Ζαχαρίου καὶ Ἄβελ καὶ τῶν προφητῶν ὅτι ἐκζητηθήσεται ἐκ τῆς γενεᾶς ταύτης."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text did not have the saying of \"the wisdom of God\" or the blood of the prophets from Abel to Zechariah required of this generation. Tertullian passes from 11:48 (4.27.8) to 11:52 (4.27.9)."
+    },
+    {
+      "ref": "11:52",
+      "class": "A+",
+      "roth": "present (Marc. 4.27.9; 4.28.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.27.9",
+          "evidence": "\"Quam vero clavem habebant legis doctores nisi interpretationem legis? ad cuius intellectum neque ipsi adibant… neque alios admittebant\"."
+        },
+        {
+          "source": "Tertullian, Marc. 4.28.2",
+          "evidence": "\"quae clavem agnitionis habens nec ipsa introiret nec alios sineret\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 9, verse 40"
+    },
+    {
+      "ref": "11:53–54",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The scribes and Pharisees begin to press him hard. A separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 11:52 (4.27.9) to 12:1 (4.28.1)."
+    }
+  ]
+}

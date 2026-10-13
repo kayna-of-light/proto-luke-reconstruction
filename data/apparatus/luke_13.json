@@ -1,0 +1,271 @@
+{
+  "luke_chapter": 13,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "13:1–9",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 38",
+          "evidence": "ἦν παρακεκομμένον ἀπὸ τοῦ »ἦλθόν τινες ἀναγγέλλοντες αὐτῷ περὶ τῶν Γαλιλαίων…« ἕως ὅπου λέγει περὶ τῶν ἐν τῷ Σιλωὰμ δεκαοκτὼ ἀποθανόντων ἐν τῷ πύργῳ, καὶ τὸ »ἐὰν μὴ μετανοήσητε« καὶ τὰ ἑξῆς ἕως τῆς παραβολῆς τῆς συκῆς…"
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that everything from the report about the Galileans whose blood Pilate mixed with their sacrifices, through the tower in Siloam and \"unless you repent\", to the parable of the fig tree, was not in the text. Tertullian passes from 12:59 (4.29.16) to 13:14 (4.30.1); Roth counts his silence as confirmation (tacitus)."
+    },
+    {
+      "ref": "13:10",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Opens the attested pericope 13:10–17.",
+      "reconstruction": "chapter 11, verse 1"
+    },
+    {
+      "ref": "13:11",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 13:10–17.",
+      "reconstruction": "chapter 11, verse 2"
+    },
+    {
+      "ref": "13:12",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 13:10–17.",
+      "reconstruction": "chapter 11, verse 3"
+    },
+    {
+      "ref": "13:13",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 13:10–17.",
+      "reconstruction": "chapter 11, verse 4"
+    },
+    {
+      "ref": "13:14",
+      "class": "A+",
+      "roth": "present (Marc. 4.30.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.30.1",
+          "evidence": "\"Quaestionem rursus de curatione sabbato facta quomodo discussit?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 11, verse 5"
+    },
+    {
+      "ref": "13:15",
+      "class": "A+",
+      "roth": "present (Marc. 4.30.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.30.1",
+          "evidence": "\"Unusquisque vestrum sabbatis non solvit asinum aut bovem suum a praesepi et ducit ad potum?\""
+        }
+      ],
+      "wording": "NA27. Tertullian names the donkey first and has \"on the sabbaths\"; Roth: order uncertain, plural possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 11, verse 6"
+    },
+    {
+      "ref": "13:16",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 39)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 39",
+          "evidence": "»ταύτην δὲ θυγατέρα Ἀβραάμ, ἣν ἔδησεν ὁ Σατανᾶς«."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 11, verse 7"
+    },
+    {
+      "ref": "13:17",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 13:10–17.",
+      "reconstruction": "chapter 11, verse 8"
+    },
+    {
+      "ref": "13:18",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 13:18–19.",
+      "reconstruction": "chapter 11, verse 9"
+    },
+    {
+      "ref": "13:19",
+      "class": "A+",
+      "roth": "present (Marc. 4.30.1–2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.30.1",
+          "evidence": "\"Simile est regnum dei, inquit, grano sinapis, quod accepit homo et seminavit in horto suo.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"seminavit in horto suo\" (ἔσπειρεν ἐν τῷ κήπῳ αὐτοῦ?) is rated possible only by Roth; not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 11, verse 10"
+    },
+    {
+      "ref": "13:20",
+      "class": "A+",
+      "roth": "present (Marc. 4.30.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.30.3",
+          "evidence": "\"De sequenti plane similitudine… Fermento enim comparavit illud\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 11, verse 11"
+    },
+    {
+      "ref": "13:21",
+      "class": "A+",
+      "roth": "present (Marc. 4.30.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.30.3",
+          "evidence": "\"Fermento enim comparavit illud, non azymis quae familiariora sunt creatori.\""
+        }
+      ],
+      "wording": "NA27 [ἐν]έκρυψεν, printed without the brackets (SBLGNT ἔκρυψεν — checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 11, verse 12"
+    },
+    {
+      "ref": "13:22",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"He went through towns and villages, teaching and journeying toward Jerusalem.\" A one-verse NA27 paragraph with no attested verse (METHOD §4.3)."
+    },
+    {
+      "ref": "13:23",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 13:23–30.",
+      "reconstruction": "chapter 11, verse 13"
+    },
+    {
+      "ref": "13:24",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 13:23–30.",
+      "reconstruction": "chapter 11, verse 14"
+    },
+    {
+      "ref": "13:25",
+      "class": "A+",
+      "roth": "present (Marc. 4.30.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.30.4",
+          "evidence": "\"Cum surrexerit, inquit, pater familiae… et cluserit ostium… Quibus pulsantibus respondebit, Nescio unde sitis\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 11, verse 15"
+    },
+    {
+      "ref": "13:26",
+      "class": "A+",
+      "roth": "present (Marc. 4.30.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.30.4",
+          "evidence": "\"et rursus enumerantibus quod coram illo ederint et biberint et in plateis eorum docuerit\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 11, verse 16"
+    },
+    {
+      "ref": "13:27",
+      "class": "A+",
+      "roth": "present (Marc. 4.30.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.30.4",
+          "evidence": "\"adiciet, Recedite a me omnes operarii iniquitatis.\""
+        }
+      ],
+      "wording": "NA27, including its bracketed [ὑμᾶς] (SBLGNT omits it — checked on the page image). Tertullian's iniquitatis may render ἀνομίας (Ps 6:9; D); Roth: possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 11, verse 17"
+    },
+    {
+      "ref": "13:28",
+      "class": "A+",
+      "roth": "present (Marc. 4.30.4–5; Pan. 42.11.6, sch. 40)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 40",
+          "evidence": "παρέκοψε πάλιν τὸ »τότε ὄψεσθε Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακὼβ καὶ πάντας τοὺς προφήτας ἐν τῇ βασιλείᾳ τοῦ θεοῦ«· ἀντὶ δὲ τούτου ἐποίησεν »ὅτε πάντας τοὺς δικαίους ἴδητε ἐν τῇ βασιλείᾳ τοῦ θεοῦ, ὑμᾶς δὲ ἐκβαλλομένους« — ἐποίησε δὲ »κρατουμένους« — »ἔξω«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.30.4–5",
+          "evidence": "\"Illic erit fletus et frendor dentium. Ubi? foris scilicet, ubi erunt exclusi… cum videbunt iustos introeuntes in regnum dei, se vero detineri foris.\""
+        }
+      ],
+      "wording": "Marcionite readings adopted: \"all the righteous\" for \"Abraham and Isaac and Jacob and all the prophets\", and κρατουμένους (\"held\") for ἐκβαλλομένους (\"thrown out\"). Epiphanius states both, correcting himself in the scholion from ἐκβαλλομένους to κρατουμένους; Tertullian has \"iustos\" and \"se vero detineri foris\". Roth: secure. Tertullian's \"introeuntes\" (\"entering\") is rated possible only and is not printed; \"all\" is Epiphanius' and stood in NA27's phrase.",
+      "decision": "printed",
+      "reconstruction": "chapter 11, verse 18"
+    },
+    {
+      "ref": "13:29–35",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 41",
+          "evidence": "παρέκοψε πάλιν τὸ »ἥξουσιν ἀπὸ ἀνατολῶν καὶ δυσμῶν…« καὶ τὸ »οἱ ἔσχατοι ἔσονται πρῶτοι« καὶ τὸ »προσῆλθον οἱ Φαρισαῖοι λέγοντες, ἔξελθε καὶ πορεύου, ὅτι Ἡρῴδης σε θέλει ἀποκτεῖναι«… ἕως ὅπου εἶπεν »οὐκ ἐνδέχεται προφήτην ἀπολέσθαι ἔξω Ἱερουσαλήμ« καὶ τὸ »Ἱερουσαλήμ, Ἱερουσαλήμ…« … καὶ τὸ »οὐ μὴ ἴδητέ με, ἕως οὗ εἴπητε· εὐλογημένος«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius lists each saying of 13:29–35 as absent: the many coming from east and west, the last who will be first, the warning about Herod and the reply to \"that fox\", no prophet perishing outside Jerusalem, and the lament over Jerusalem. Tertullian passes from 13:28 (4.30.6) to 14:12 (4.31.1); Roth counts his silence as confirmation (tacitus)."
+    }
+  ]
+}
