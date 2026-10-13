@@ -586,3 +586,202 @@ At its place, after 4:37, it would be the first rising of a person in the text, 
 - the road;
 - the meal;
 - the mountain: going up to pray, coming down with others.
+
+---
+
+## Chapter 4
+
+### 7:1 (grey)
+
+*Ἐπειδὴ ἐπλήρωσεν πάντα τὰ ῥήματα αὐτοῦ εἰς τὰς ἀκοὰς τοῦ λαοῦ, εἰσῆλθεν εἰς Καφαρναούμ.*
+
+- **"when he had filled all his words into the hearing of the people"** (ἐπλήρωσεν): filling again, now with his words, and into the hearing. Until now people were filled with rage, fear and folly (4:28; 5:26; 6:11), and the boats with fish (5:7). Here the hearing is filled with the word.
+- **"he entered Capernaum"**: back to the city of the descent (4:31).
+
+### 7:2–5 (7:3–5 grey)
+
+*Ἑκατοντάρχου δέ τινος δοῦλος κακῶς ἔχων ἤμελλεν τελευτᾶν, ὃς ἦν αὐτῷ ἔντιμος. ἀκούσας δὲ περὶ τοῦ Ἰησοῦ… ὅπως ἐλθὼν διασώσῃ τὸν δοῦλον αὐτοῦ… Ἄξιός ἐστιν ᾧ παρέξῃ τοῦτο, ἀγαπᾷ γὰρ τὸ ἔθνος ἡμῶν καὶ τὴν συναγωγὴν αὐτὸς ᾠκοδόμησεν ἡμῖν.*
+
+- **"a centurion"** (ἑκατοντάρχης, "ruler of a hundred"): a ruler again, as in 3:1, and a foreigner. A hundred is fullness.
+- **"his slave… about to reach the end"** (τελευτᾶν): the part of him that serves is at the end of its life. "Precious to him".
+- **"hearing about Jesus"** (ἀκούσας): Nazareth heard of the works and demanded them (ἠκούσαμεν, 4:23). The centurion hears and asks.
+- **"to come and save his slave through"** (διασώσῃ): saving, the verb of the question "to save a soul or destroy it" (6:9).
+- **"he is worthy"** (ἄξιος): the elders' judgement, made on his behalf. **"for he loves our nation, and he built the assembly for us"** (ᾠκοδόμησεν): building again. Nazareth's city was built on the hill (4:29); the wise man built his house on the rock (6:48); this ruler from outside built the assembly itself.
+
+### 7:6–8 (grey)
+
+*ὁ δὲ Ἰησοῦς ἐπορεύετο σὺν αὐτοῖς… Κύριε, μὴ σκύλλου, οὐ γὰρ ἱκανός εἰμι ἵνα ὑπὸ τὴν στέγην μου εἰσέλθῃς· διὸ οὐδὲ ἐμαυτὸν ἠξίωσα πρὸς σὲ ἐλθεῖν· ἀλλὰ εἰπὲ λόγῳ… καὶ γὰρ ἐγὼ ἄνθρωπός εἰμι ὑπὸ ἐξουσίαν τασσόμενος… καὶ λέγω τούτῳ· Πορεύθητι, καὶ πορεύεται, καὶ ἄλλῳ· Ἔρχου, καὶ ἔρχεται, καὶ τῷ δούλῳ μου· Ποίησον τοῦτο, καὶ ποιεῖ.*
+
+- **"Jesus went with them"** (ἐπορεύετο): the road goes toward the outsider's house.
+- **"I am not sufficient for you to come under my roof"**: the roof that was opened to let the paralysed man down into the midst (5:19). This man does not open his roof. He knows the Divine does not need to come in to act.
+- **"therefore I did not count myself worthy (ἠξίωσα) to come to you"**: the elders said he was worthy (ἄξιος); he does not count himself so. The worth is given by others; he takes none of it. As Simon: "I am a sinful man" (5:8).
+- **"but say it with a word, and let my servant be healed"** (εἰπὲ λόγῳ): the word with authority (ἐν ἐξουσίᾳ ὁ λόγος, 4:32). He knows what the word is.
+- **"I too am a man set under authority"** (ὑπὸ ἐξουσίαν): the rulers of 3:1 governed from outside. This ruler knows that he is himself under authority. Because he knows it, he knows the authority of the word.
+- **"I say to one 'Go', and he goes; to another 'Come', and he comes; to my slave 'Do this', and he does it"**: going, coming, doing. The sermon ended with "coming to me, hearing my words and doing them" (6:47). The order of obedience that the centurion commands is the order the sermon asked for.
+
+### 7:9–10 (7:10 grey)
+
+*ἐθαύμασεν αὐτόν, καὶ στραφεὶς τῷ ἀκολουθοῦντι αὐτῷ ὄχλῳ εἶπεν· Λέγω ὑμῖν, τοσαύτην πίστιν οὐδὲ ἐν τῷ Ἰσραὴλ εὗρον. καὶ ὑποστρέψαντες εἰς τὸν οἶκον οἱ πεμφθέντες εὗρον τὸν δοῦλον ὑγιαίνοντα.*
+
+- **"he marvelled at him"**: the only time in the text so far that the Divine marvels. Until now others marvelled at him.
+- **"turning to the crowd following"** (στραφεὶς): turning. *Thread: turning (στρέφω, ὑποστρέφω).*
+- **"not even in Israel have I found such faith"**: faith is found outside.
+- **"those sent, turning back to the house"** (ὑποστρέψαντες): *thread: the Samaritan leper "turned back" (ὑπέστρεψεν, 17:15).*
+- **"found the slave healthy"** (ὑγιαίνοντα): the word of "those who are healthy do not need a physician" (οἱ ὑγιαίνοντες, 5:31). The physician did not enter; the word made the slave healthy.
+
+### 7:11–15 (7:11, 7:13 grey)
+
+*ἐπορεύθη εἰς πόλιν καλουμένην Ναΐν… ὡς δὲ ἤγγισεν τῇ πύλῃ τῆς πόλεως, καὶ ἰδοὺ ἐξεκομίζετο τεθνηκὼς μονογενὴς υἱὸς τῇ μητρὶ αὐτοῦ, καὶ αὐτὴ ἦν χήρα… καὶ ἰδὼν αὐτὴν ὁ κύριος ἐσπλαγχνίσθη ἐπ’ αὐτῇ καὶ εἶπεν αὐτῇ· Μὴ κλαῖε. καὶ προσελθὼν ἥψατο τῆς σοροῦ, οἱ δὲ βαστάζοντες ἔστησαν, καὶ εἶπεν· Νεανίσκε, σοὶ λέγω, ἐγέρθητι. καὶ ἀνεκάθισεν ὁ νεκρὸς καὶ ἤρξατο λαλεῖν, καὶ ἔδωκεν αὐτὸν τῇ μητρὶ αὐτοῦ.*
+
+- **"he went to a city called Nain"** (ἐπορεύθη); disciples and crowd go with him (συνεπορεύοντο): the road is now shared.
+- **"as he came near the gate of the city"**: a gate is the way in. He comes to the way in.
+- **"a dead man was being carried out"** (ἐξεκομίζετο): carried out, as he is coming in. The two movements meet at the gate.
+- **"the only son (μονογενής) of his mother, and she was a widow"**: a widow is good without truth, longing for it; a son is truth. Her only truth has died and is being carried out of the city. *Thread: the only child (an only daughter, 8:42; an only son, 9:38).*
+- **"the Lord, seeing her, was moved in his inward parts"** (ἐσπλαγχνίσθη).
+- **"Do not weep"** (μὴ κλαῖε): "blessed are you who weep now, for you will laugh" (6:21). *Thread: weeping (κλαίω).*
+- **"he touched the bier, and the bearers stood still"** (ἔστησαν): touch is communication. Those carrying death out stand.
+- **"Young man, I say to you, be raised"** (ἐγέρθητι): **rising has reached the dead.**
+  - The own rose against him (4:29).
+  - The one who could not move was told to rise (5:24); the one who sat rose (5:28); the man with no power rose and stood (6:8).
+  - Here the dead is told to be raised.
+- **"the dead sat up and began to speak"**: the dead speaks. The falsity that spoke was muzzled (4:35); the raised truth speaks.
+- **"he gave him to his mother"**: truth given back to the good it belongs to.
+
+### 7:16–17 (7:17 grey)
+
+*Προφήτης μέγας ἠγέρθη ἐν ἡμῖν, καὶ ὅτι Ἐπεσκέψατο ὁ θεὸς τὸν λαὸν αὐτοῦ. καὶ ἐξῆλθεν ὁ λόγος οὗτος…*
+
+- **"a great prophet has been raised among us"** (ἠγέρθη): the people use for the prophet the verb just used for the dead (ἐγέρθητι, 7:14). It is also the angel's word at the tomb, "he has been raised" (ἠγέρθη, 24:6). *The verb of rising is now the verb of the prophet's appearing.*
+- **"among us"**: no prophet was received in his fatherland (4:24); here a prophet is acknowledged "among us".
+- **"God has visited his people"**.
+- **"this word went out"** (ἐξῆλθεν): coming out, again of the word.
+
+### 7:18–23 (7:21 grey)
+
+*Σὺ εἶ ὁ ἐρχόμενος ἢ ἄλλον προσδοκῶμεν;… τυφλοῖς πολλοῖς ἐχαρίσατο βλέπειν… Πορευθέντες ἀπαγγείλατε Ἰωάννῃ ἃ εἴδετε καὶ ἠκούσατε· τυφλοὶ ἀναβλέπουσιν, χωλοὶ περιπατοῦσιν, λεπροὶ καθαρίζονται καὶ κωφοὶ ἀκούουσιν, νεκροὶ ἐγείρονται, πτωχοὶ εὐαγγελίζονται· καὶ μακάριός ἐστιν ὃς ἐὰν μὴ σκανδαλισθῇ ἐν ἐμοί.*
+
+- **"John"**: he appears through his disciples, as at 5:33. John is the literal sense of the Word, which prepares (7:27).
+- **"are you the one who is coming (ὁ ἐρχόμενος)?"**: "coming", the first step of 6:47.
+- **"to many blind he granted (ἐχαρίσατο) to see"**: χαρίζομαι, "give as grace". *Thread: grace (χάρις, 6:32–34; the debts "graced", 7:42–43).*
+- **"Go and tell John what you have seen and heard"**, then the list:
+  - "the blind look up" (ἀναβλέπουσιν);
+  - "the lame walk" (as "rise and walk", 5:23);
+  - "lepers are cleansed" (5:13);
+  - "the deaf hear";
+  - "the dead are raised" (ἐγείρονται; 7:14);
+  - "the poor are given the good news" (6:20).
+
+  The list gathers what the text has shown so far. "Look up" (ἀνα-βλέπω) is sight as a rising: the blind see by looking up.
+- **"blessed is whoever is not made to stumble in me"** (σκανδαλισθῇ).
+
+### 7:24–28 (7:25 grey)
+
+*Τί ἐξήλθατε εἰς τὴν ἔρημον θεάσασθαι; κάλαμον ὑπὸ ἀνέμου σαλευόμενον;… ἄνθρωπον ἐν μαλακοῖς ἱματίοις ἠμφιεσμένον;… προφήτην; ναί… καὶ περισσότερον προφήτου. οὗτός ἐστιν περὶ οὗ γέγραπται· Ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου. λέγω ὑμῖν, μείζων ἐν γεννητοῖς γυναικῶν Ἰωάννου οὐδείς ἐστιν· ὁ δὲ μικρότερος ἐν τῇ βασιλείᾳ τοῦ θεοῦ μείζων αὐτοῦ ἐστιν.*
+
+- **"a reed shaken (σαλευόμενον) by the wind?"**: shaking again. The measure "shaken" so as to hold more (6:38); the founded house "not shaken" (6:48). John is no reed that shakes.
+- **"a man clothed in soft garments?"** (ἱματίοις): the garments of 5:36 and 6:29. John is not clothed in what pleases.
+- **"more than a prophet"** (περισσότερον): the overflow (6:38; 6:45).
+- **"I send my messenger before your face, who will prepare your way (ὁδόν) before you"**: **the way is named.** The road (πορεύομαι) has been walked since 4:30. Here it is called ὁδός, and it is prepared by John, the letter of the Word, ahead of the Divine.
+- **"none born of women is greater than John; yet the least in the kingdom of God is greater than he"**: the letter is the greatest of what is born naturally. The least state of the kingdom within is greater. *Thread: greatest and least (9:46–48).*
+
+### Test: 7:29–35 (U−)
+
+*Καὶ πᾶς ὁ λαὸς ἀκούσας καὶ οἱ τελῶναι ἐδικαίωσαν τὸν θεόν, βαπτισθέντες τὸ βάπτισμα Ἰωάννου· οἱ δὲ Φαρισαῖοι καὶ οἱ νομικοὶ τὴν βουλὴν τοῦ θεοῦ ἠθέτησαν εἰς ἑαυτούς… ὅμοιοί εἰσιν παιδίοις τοῖς ἐν ἀγορᾷ καθημένοις… Ηὐλήσαμεν ὑμῖν καὶ οὐκ ὠρχήσασθε· ἐθρηνήσαμεν καὶ οὐκ ἐκλαύσατε. ἐλήλυθεν γὰρ Ἰωάννης ὁ βαπτιστὴς μὴ ἐσθίων ἄρτον μήτε πίνων οἶνον, καὶ λέγετε· Δαιμόνιον ἔχει. ἐλήλυθεν ὁ υἱὸς τοῦ ἀνθρώπου ἐσθίων καὶ πίνων, καὶ λέγετε· Ἰδοὺ ἄνθρωπος φάγος καὶ οἰνοπότης, φίλος τελωνῶν καὶ ἁμαρτωλῶν. καὶ ἐδικαιώθη ἡ σοφία ἀπὸ πάντων τῶν τέκνων αὐτῆς.*
+
+- **"the people hearing, and the tax collectors, justified God"** (ἐδικαίωσαν): *thread: justifying, "you who justify yourselves" (16:15); the tax collector "went down justified" (18:14).*
+- **"the Pharisees rejected the counsel of God for themselves"**.
+- **"children sitting in the market-place"**: sitting (5:17; 5:27).
+- **"we piped and you did not dance; we wailed and you did not weep"** (ἐκλαύσατε): weeping (6:21; 7:13; 7:38).
+- **"John came neither eating bread nor drinking wine… the son of man came eating and drinking"**: the exchange of 5:33–34 ("John's disciples fast… yours eat and drink") taken up word for word.
+- **"you say, 'He has a daimon'… 'a glutton and a drunkard, a friend of tax collectors and sinners'"**: the charge of 5:30, and the word "friend" (φίλος). The centurion sent "friends" (φίλους, 7:6).
+- **"wisdom is justified by all her children"**.
+
+**Verdict: continues.** Its words belong to the threads already running, and it takes up 5:30–34 directly. By its words it belongs where it stands.
+
+### 7:36–38
+
+*Ἠρώτα δέ τις αὐτὸν τῶν Φαρισαίων ἵνα φάγῃ μετ’ αὐτοῦ… καὶ ἰδοὺ γυνὴ ἥτις ἦν ἐν τῇ πόλει ἁμαρτωλός, καὶ ἐπιγνοῦσα ὅτι κατάκειται ἐν τῇ οἰκίᾳ τοῦ Φαρισαίου, κομίσασα ἀλάβαστρον μύρου καὶ στᾶσα ὀπίσω παρὰ τοὺς πόδας αὐτοῦ κλαίουσα, τοῖς δάκρυσιν ἤρξατο βρέχειν τοὺς πόδας αὐτοῦ καὶ ταῖς θριξὶν τῆς κεφαλῆς αὐτῆς ἐξέμασσεν, καὶ κατεφίλει τοὺς πόδας αὐτοῦ καὶ ἤλειφεν τῷ μύρῳ.*
+
+- **"a Pharisee asked him to eat with him"**: the meal, now at the table of external worship.
+- **"a woman who was a sinner in the city"**: a woman is affection; this one knows itself as sinful.
+- **"knowing (ἐπιγνοῦσα) that he was reclining there"**: she knows where he is. The falsities knew who he was (4:34); she knows where he is, and comes.
+- **"an alabaster jar of ointment"** (μύρου): ointment is the good of love.
+- **"standing behind, at his feet, weeping"**: the feet are the lowest, the natural. She stands behind him, not before.
+- **"with her tears she began to wet (βρέχειν, 'rain on') his feet"**: tears are truths that come from grief over evil.
+- **"and wiped them with the hair of her head"**: the hair is the outermost truths. With her outermost, she wipes his lowest.
+- **"she kissed his feet and anointed them with the ointment"**: a kiss is conjunction from affection.
+
+### 7:39–43 (grey)
+
+*Οὗτος εἰ ἦν προφήτης, ἐγίνωσκεν ἂν τίς καὶ ποταπὴ ἡ γυνὴ ἥτις ἅπτεται αὐτοῦ… Σίμων, ἔχω σοί τι εἰπεῖν… δύο χρεοφειλέται ἦσαν δανιστῇ τινι… μὴ ἐχόντων αὐτῶν ἀποδοῦναι ἀμφοτέροις ἐχαρίσατο. τίς οὖν αὐτῶν πλεῖον ἀγαπήσει αὐτόν;… Ὀρθῶς ἔκρινας.*
+
+- **"if this man were a prophet, he would know who and what kind of woman this is who is touching him"**: the Pharisee reasons about knowing. In chapter 2 Jesus knew the Pharisees' reasonings (5:22; 6:8); this one reasons that a prophet would know. He does.
+- **"who is touching him"**: the crowd sought to touch him (6:19). Here it is a sinner who touches him.
+- **"Simon"**: the Pharisee is named Simon, the name of hearing, like Simon who was named Peter (6:14). Two Simons: one who heard and became the rock, and one who hears and is now told something.
+- **"a lender had two debtors"** (δανιστῇ): lending, as in "lend, expecting nothing back" (6:35).
+- **"since they had nothing to repay, he graced both"** (ἐχαρίσατο): grace, the word of the sight "granted" to the blind (7:21). The Most High is kind to the ungrateful (6:35).
+- **"which will love him more?"… "You have judged rightly"** (ἔκρινας): "do not judge" (6:37); here a judgement asked for and found right.
+
+### 7:44–46
+
+*καὶ στραφεὶς πρὸς τὴν γυναῖκα… εἰσῆλθόν σου εἰς τὴν οἰκίαν, ὕδωρ μοι ἐπὶ πόδας οὐκ ἔδωκας· αὕτη δὲ τοῖς δάκρυσιν ἔβρεξέν μου τοὺς πόδας… φίλημά μοι οὐκ ἔδωκας· αὕτη δὲ… οὐ διέλιπεν καταφιλοῦσά μου τοὺς πόδας. ἐλαίῳ τὴν κεφαλήν μου οὐκ ἤλειψας· αὕτη δὲ μύρῳ ἤλειψεν τοὺς πόδας μου.*
+
+- **"turning to the woman"** (στραφεὶς): he turned to the crowd at the centurion's faith (7:9); here he turns to the woman.
+- **Three gifts the host did not give and she did:**
+  - water for the feet; she gave tears (water is truth);
+  - a kiss; she gave kisses without ceasing (conjunction);
+  - oil for the head; she gave ointment for the feet (oil is the good of love).
+- **The host's gifts would have been for the head; hers are all for the feet.** Truth, conjunction and good, given by the one who knows herself sinful, from her own body, to the lowest of him.
+
+### 7:47–50 (7:49 grey)
+
+*οὗ χάριν, λέγω σοι, ἀφέωνται αἱ ἁμαρτίαι αὐτῆς αἱ πολλαί, ὅτι ἠγάπησεν πολύ· ᾧ δὲ ὀλίγον ἀφίεται, ὀλίγον ἀγαπᾷ… Ἀφέωνταί σου αἱ ἁμαρτίαι… Τίς οὗτός ἐστιν ὃς καὶ ἁμαρτίας ἀφίησιν;… Ἡ πίστις σου σέσωκέν σε· πορεύου εἰς εἰρήνην.*
+
+- **"for which reason (οὗ χάριν)"**: χάρις again.
+- **"her many sins are let go, because she loved much; the one to whom little is let go loves little"** (ἀφέωνται): letting go (5:11; 5:20). The measure of 6:38 stated as love: as much as is let go, so much love. The Pharisee, who thinks he has little to be let go, loves little.
+- **"Who is this who even lets sins go?"**: as at 5:21.
+- **"Your faith has saved you"** (σέσωκεν): saving (6:9; 7:3).
+- **"go into peace"** (πορεύου): the road verb, given to her, as it was given to the paralysed man ("go to your house", 5:24).
+
+### What came out of the reading of chapter 4
+
+**Rising reaches the dead, and the verb becomes the prophet's word.**
+- The widow's only son, being carried out at the gate as the Divine comes in, is told "be raised" (7:14).
+- The people say "a great prophet has been raised among us" (7:16), the verb the angels will use at the tomb (24:6).
+- The sequence of rising is now: the own against him (4:29); the one who cannot move, the one who sits, the one with no power (5–6); the dead (7:14).
+
+**Two outsiders receive what the insiders do not, each by counting themselves unworthy.**
+- The centurion is called worthy by others and does not count himself so (7:4, 7:7). He knows that he is under authority, so he knows the word. His faith is greater than Israel's.
+- The woman knows herself a sinner. She gives truth, conjunction and good to the feet, where the host gave nothing to the head.
+- Both are measured by 6:38: love in the measure of what is let go (7:47).
+
+**The way is named, and the one who prepares it.** "He will prepare your way (ὁδόν)" (7:27). The letter of the Word (John) is the greatest of the natural, and the least of the kingdom is greater.
+
+**Sight as rising.** "The blind look up" (ἀναβλέπουσιν, 7:22).
+
+**Grace (χαρίζομαι).** Sight given as grace (7:21); debts given as grace (7:42–43).
+
+**The road is given to people, not only walked by him.** "Go" to the centurion's slave, by the centurion's own word (7:8); "go into peace" to the woman (7:50).
+
+**Filling.** The hearing is filled with the word (7:1).
+
+**The test of 7:29–35.** Its words take up 5:30–34 and the threads of weeping, sitting, friends and justifying. It continues.
+
+### Threads, carried forward and added
+
+- rising (now: the dead raised; the prophet raised);
+- looking up (ἀναβλέπω);
+- the way (ὁδός) prepared;
+- greatest and least;
+- worth (ἄξιος) given by others and not taken;
+- grace (χάρις, χαρίζομαι);
+- turning (στρέφω, ὑποστρέφω);
+- the feet;
+- the only child;
+- weeping;
+- saving: "your faith has saved you";
+- touching;
+- the meal;
+- letting go;
+- the measure;
+- authority, and being under it.
