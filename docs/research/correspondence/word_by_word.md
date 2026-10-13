@@ -2147,3 +2147,495 @@ In this chapter the passages that are not printed carry more of the up-and-down 
 - lifted up and brought down (→ 18:14);
 - the inn that receives all;
 - the good part not taken away (→ 16:3).
+
+---
+
+## Chapter 9
+
+*11:1–52. Grey: 11:6, 11:10, 11:16–17, 11:23, 11:44–45. Not printed: 11:24–26 (U?); 11:29b "except the sign of Jonah" (attested omission); 11:30–32 (A−); 11:34–36 (U?); 11:49–51 (A−); 11:53–54 (U?). Adopted Marcionite wordings: 11:2 a petition for the holy spirit where NA27 has "hallowed be your name"; 11:3 "your bread"; 11:38 "debating within himself"; 11:42 "the calling" for "justice".*
+
+### 11:1
+
+*Καὶ ἐγένετο ἐν τῷ εἶναι αὐτὸν ἐν τόπῳ τινὶ προσευχόμενον, ὡς ἐπαύσατο, εἶπέν τις τῶν μαθητῶν αὐτοῦ πρὸς αὐτόν· Κύριε, δίδαξον ἡμᾶς προσεύχεσθαι, καθὼς καὶ Ἰωάννης ἐδίδαξεν τοὺς μαθητὰς αὐτοῦ.*
+
+- **"as he was praying in a certain place"**: prayer.
+  - *Thread:* 5:16; 6:12; 9:18; 9:28–29, where his face changed.
+  - The disciples have watched him pray. Now they ask to be taught.
+- **"as John taught his disciples"**: John's disciples fast and pray (5:33). The one who prepared the way also taught prayer.
+
+### 11:2
+
+*Ὅταν προσεύχησθε, λέγετε· Πάτερ, ἐλθέτω τὸ πνεῦμά σου τὸ ἅγιον· ἐλθέτω ἡ βασιλεία σου·*
+
+- **"Father"**: the Father revealed through the son (10:22), now addressed by those to whom he reveals.
+- **"let your holy spirit come"**: the adopted Marcionite reading. NA27 has "let your name be hallowed".
+  - By its words, the spirit petition is answered within the passage: "how much more will the Father from heaven give the holy spirit to those who ask him" (11:13).
+  - The name would join the thread of the name: "in your name" (9:48; 10:17); "your names are written in the heavens" (10:20).
+  - **Neutral:** each reading continues.
+- **"let your kingdom come"** (ἐλθέτω): coming.
+  - The kingdom "has come near" (ἤγγικεν, 10:9, 10:11); it "has arrived upon you" (ἔφθασεν, 11:20). Both petitions ask for something to come down.
+
+### 11:3
+
+*τὸν ἄρτον σου τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ’ ἡμέραν·*
+
+- **"your bread"**: the adopted Marcionite reading; NA27 has "our bread".
+  - "Your bread" joins the bread he takes, blesses, breaks and gives (9:16), and "this is my body" (22:19).
+  - "Our bread" joins the three loaves the friend asks for (11:5).
+  - **Neutral.**
+- **"give us daily"** (τὸ καθ’ ἡμέραν): *the words of 9:23: "let him take up his cross daily (καθ’ ἡμέραν)".* The cross is taken up daily and the bread is given daily. The day as state (9:28): each state has its bread.
+
+### 11:4
+
+*καὶ ἄφες ἡμῖν τὰς ἁμαρτίας ἡμῶν, καὶ γὰρ αὐτοὶ ἀφίομεν παντὶ ὀφείλοντι ἡμῖν· καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν.*
+
+- **"let go (ἄφες) our sins, for we ourselves let go (ἀφίομεν) everyone who owes (ὀφείλοντι) us"**:
+  - *ἀφίημι:* sins let go (5:20–24; 7:47–49); Levi left all (5:28); "let the dead bury their dead" (9:60).
+  - *Owing:* the two debtors (7:41–43), forgiven, love in the measure of what is let go. *Forward:* "how much do you owe (ὀφείλεις)?" (16:5, 16:7).
+  - The letting go asked for is the letting go that is done (6:37: "release, and you will be released").
+- **"and do not bring (εἰσενέγκῃς) us into temptation"**: εἰσφέρω.
+  - The friends sought to bring in (εἰσενεγκεῖν) the paralysed man to him (5:18–19). One can be carried in to healing, or into temptation.
+  - Temptation: the lawyer "testing" (10:25). *Forward:* 11:16; "pray that you may not enter into temptation" (22:40, 22:46).
+
+### 11:5–6 (11:6 grey)
+
+*Τίς ἐξ ὑμῶν ἕξει φίλον καὶ πορεύσεται πρὸς αὐτὸν μεσονυκτίου καὶ εἴπῃ αὐτῷ· Φίλε, χρῆσόν μοι τρεῖς ἄρτους, ἐπειδὴ φίλος μου παρεγένετο ἐξ ὁδοῦ πρός με καὶ οὐκ ἔχω ὃ παραθήσω αὐτῷ·*
+
+- **"a friend"**: the centurion's friends (7:6). *Forward:* the friends who rejoice (15:6, 15:9); "make friends for yourselves" (16:9).
+- **"he goes (πορεύσεται) to him at midnight (μεσονυκτίου)"**: the road (πορεύομαι), at the middle (μέσος) of the night.
+  - The night: his night of prayer (6:12). *Forward:* "this night your soul is required" (12:20); "in this night two in one bed" (17:34).
+  - The midst, now of the night.
+- **"lend me three loaves"**: bread, the good. Three: the whole (?).
+- **"a friend of mine has come from the way (ἐξ ὁδοῦ)"**: one who comes from the road.
+- **"and I have nothing to set before (παραθήσω) him"**:
+  - παρατίθημι: the bread given "to set before" (παραθεῖναι) the crowd (9:16); "eat what is set before (παρατιθέμενα) you" (10:8).
+  - The one asking has nothing of his own to set before the one from the way: "we have no more than five loaves" (9:13).
+
+### 11:7–8
+
+*κἀκεῖνος ἔσωθεν ἀποκριθεὶς εἴπῃ· Μή μοι κόπους πάρεχε· ἤδη ἡ θύρα κέκλεισται, καὶ τὰ παιδία μου μετ’ ἐμοῦ εἰς τὴν κοίτην εἰσίν· οὐ δύναμαι ἀναστὰς δοῦναί σοι. λέγω ὑμῖν, εἰ καὶ οὐ δώσει αὐτῷ ἀναστὰς διὰ τὸ εἶναι φίλον αὐτοῦ, διά γε τὴν ἀναίδειαν αὐτοῦ ἐγερθεὶς δώσει αὐτῷ ὅσων χρῄζει.*
+
+- **"the one inside (ἔσωθεν)"**: the inside. *Thread: "the inside (ἔσωθεν) of you is full of plunder… did not the one who made the outside make the inside also?" (11:39–40).*
+- **"the door is already shut (κέκλεισται)"**: the door.
+  - *Forward:* "strive to enter through the narrow door… once the master of the house has risen (ἐγερθῇ) and shut (ἀποκλείσῃ) the door, and you begin to stand outside and knock at the door, saying, Lord, open to us" (13:24–25).
+  - The door, the one inside who rises, the knocking and the opening are all here first, and all come back in 13:25, reversed.
+- **"my children are with me in bed (κοίτην)"**: at rest.
+- **"I cannot rise (ἀναστάς) and give"**.
+- **"though he will not rise (ἀναστάς) and give because he is his friend, because of his shamelessness, being raised (ἐγερθείς), he will give him as much as he needs (χρῄζει)"**:
+  - *Both rising verbs, ἀνίστημι and ἐγείρω, are said of one who gets up in order to give.*
+  - Rising has gone with something done ever since the text began:
+    - "rising, she served" (4:39, test);
+    - "rising, he followed" (5:28);
+    - "rise and walk… rising, he took up his bed" (5:23–25);
+    - "rise and stand" (6:8).
+  - Here rising is for giving.
+  - Need (χρεία, 5:31; 9:11; χρῄζω here): he gives as much as is needed.
+
+### 11:9–10 (11:10 grey)
+
+*Κἀγὼ ὑμῖν λέγω, αἰτεῖτε, καὶ δοθήσεται ὑμῖν· ζητεῖτε, καὶ εὑρήσετε· κρούετε, καὶ ἀνοιγήσεται ὑμῖν· πᾶς γὰρ ὁ αἰτῶν λαμβάνει, καὶ ὁ ζητῶν εὑρίσκει, καὶ τῷ κρούοντι ἀνοιγήσεται.*
+
+- **"ask, and it will be given to you"**: "give, and it will be given to you" (6:38). The same passive, the same measure.
+- **"seek, and you will find"**: seeking.
+  - The crowds sought him to hold him back (4:42). Herod sought to see him (9:9). Others seek a sign (11:16, 11:29).
+  - *Forward:* "the Son of Man came to seek and to save the lost" (19:10); "why do you seek the Living One among the dead?" (24:5).
+  - Seeking can be for holding, for seeing, for a sign, or for finding. Only the last is promised.
+- **"knock, and it will be opened"**: the door of 11:7. *Forward:* the eyes "were opened" (διηνοίχθησαν, 24:31).
+- **"everyone who asks receives (λαμβάνει)"**: λαμβάνω.
+  - He took the bread (9:16). A spirit takes the boy (9:39). The days of his being taken up (ἀνάλημψις, 9:51).
+
+### 11:11–13
+
+*τίνα δὲ ἐξ ὑμῶν τὸν πατέρα αἰτήσει ὁ υἱὸς ἰχθύν, καὶ ἀντὶ ἰχθύος ὄφιν αὐτῷ ἐπιδώσει; ἢ καὶ αἰτήσει ᾠόν, ἐπιδώσει αὐτῷ σκορπίον; εἰ οὖν ὑμεῖς πονηροὶ ὑπάρχοντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὁ ἐξ οὐρανοῦ δώσει πνεῦμα ἅγιον τοῖς αἰτοῦσιν αὐτόν.*
+
+- **"a fish… a snake; an egg… a scorpion"**:
+  - *Snakes and scorpions are the pair of 10:19, trodden underfoot by the seventy.* What is trodden on the way is not what the Father gives.
+  - Fish are the truths of the natural (5:6; 9:13). An egg is life still enclosed, a beginning (?).
+- **"if you, being evil (πονηροί), know how to give good gifts"**:
+  - Evil: "the evil man out of the evil treasure" (6:45); "he is kind to the ungrateful and evil" (6:35).
+  - The own is evil, and still knows how to give good gifts. The giving does not come from the own.
+- **"how much more will the Father from heaven give the holy spirit to those who ask him"**:
+  - The earthly father and the Father from heaven: the natural father left (9:59–60), the Father revealed (10:21–22).
+  - What is given from heaven is the holy spirit, the spirit asked for in 11:2.
+
+### 11:14
+
+*Καὶ ἦν ἐκβάλλων δαιμόνιον καὶ αὐτὸ ἦν κωφόν· ἐγένετο δὲ τοῦ δαιμονίου ἐξελθόντος ἐλάλησεν ὁ κωφός.*
+
+- **"a daimon, and it was mute"**: κωφός, deaf or mute. "The deaf (κωφοί) hear" (7:22). A falsity that makes one unable to hear or speak.
+- **"when the daimon had gone out, the mute spoke"**: coming out (4:35; 8:2; 8:33). The dead young man "began to speak" (7:15).
+
+### 11:15–16 (11:16 grey)
+
+*τινὲς δὲ ἐξ αὐτῶν εἶπον· Ἐν Βεελζεβοὺλ τῷ ἄρχοντι τῶν δαιμονίων ἐκβάλλει τὰ δαιμόνια· ἕτεροι δὲ πειράζοντες σημεῖον ἐξ οὐρανοῦ ἐζήτουν παρ’ αὐτοῦ.*
+
+- **"by Beelzebul, the ruler (ἄρχοντι) of the daimons"**: the rulers of 3:1; the ruler of the synagogue (8:41). Falsity is given a ruler.
+- **"testing, they sought from him a sign from heaven"**:
+  - "From heaven": fire from heaven (9:54).
+  - *Forward: Herod "hoped to see some sign (σημεῖον) done by him" (23:8), and he answered him nothing (23:9).*
+  - A sign is sought, as Herod sought to see (9:9). Seeking for the wrong thing.
+
+### 11:17–18 (11:17 grey)
+
+*αὐτὸς δὲ εἰδὼς αὐτῶν τὰ διανοήματα εἶπεν αὐτοῖς· Πᾶσα βασιλεία ἐφ’ ἑαυτὴν διαμερισθεῖσα ἐρημοῦται, καὶ οἶκος ἐπὶ οἶκον πίπτει. εἰ δὲ καὶ ὁ Σατανᾶς ἐφ’ ἑαυτὸν διεμερίσθη, πῶς σταθήσεται ἡ βασιλεία αὐτοῦ;*
+
+- **"knowing their thoughts"** (διανοήματα): the mind (διάνοια, 10:27), here the thoughts behind the testing. He knows the reasonings (5:22; 6:8; 9:47).
+- **"every kingdom divided against itself (ἐφ’ ἑαυτήν) is made desert (ἐρημοῦται)"**:
+  - Division. *Forward:* "who made me a divider (μεριστήν)" (12:14); "not peace but division (διαμερισμόν)" (12:51); "take this and divide (διαμερίσατε) it among yourselves" (22:17).
+  - The desert (4:42; 8:29; 9:12). *Forward:* "its desolation (ἐρήμωσις) has come near" (21:20).
+  - Against itself: the self divided.
+- **"house falls on house"**: the house that fell (6:49).
+- **"how will his kingdom stand (σταθήσεται)?"**: standing (6:8; 8:44; 9:47). Satan is named here, in the printed text.
+
+### 11:19–20
+
+*εἰ δὲ ἐγὼ ἐν Βεελζεβοὺλ ἐκβάλλω τὰ δαιμόνια, οἱ υἱοὶ ὑμῶν ἐν τίνι ἐκβάλλουσιν; διὰ τοῦτο αὐτοὶ ὑμῶν κριταὶ ἔσονται. εἰ δὲ ἐν δακτύλῳ θεοῦ ἐγὼ ἐκβάλλω τὰ δαιμόνια, ἄρα ἔφθασεν ἐφ’ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ.*
+
+- **"your sons… will be your judges (κριταί)"**:
+  - The judges are not imposed from outside. They are one's own: those who do the same thing.
+  - *This is the form judgement takes in the printed text:*
+    - "do not judge, and you will not be judged" (6:37);
+    - "why do you not judge for yourselves what is right?" (12:57);
+    - "out of your own mouth I will judge you" (19:22).
+- **"by the finger of God"**: the finger is power in its outermost, the smallest part of the hand (?).
+  - *Thread of the finger:* the lawyers "do not touch the burdens with one of your fingers" (11:46); "that he may dip the tip of his finger in water and cool my tongue" (16:24).
+  - The finger of God frees. The lawyers' finger does not touch.
+- **"then the kingdom of God has arrived (ἔφθασεν) upon you"**: "it has come near (ἤγγικεν) upon you" (10:9). Here it has arrived.
+
+### 11:21–22
+
+*ὅταν ὁ ἰσχυρὸς καθωπλισμένος φυλάσσῃ τὴν ἑαυτοῦ αὐλήν, ἐν εἰρήνῃ ἐστὶν τὰ ὑπάρχοντα αὐτοῦ· ἐπὰν δὲ ἰσχυρότερος αὐτοῦ ἐπελθὼν νικήσῃ αὐτόν, τὴν πανοπλίαν αὐτοῦ αἴρει ἐφ’ ᾗ ἐπεποίθει, καὶ τὰ σκῦλα αὐτοῦ διαδίδωσιν.*
+
+- **"the strong man (ἰσχυρός), fully armed, guards (φυλάσσῃ) his own (ἑαυτοῦ) courtyard"**:
+  - Strength: "love with your whole strength (ἰσχύϊ)" (10:27). The river "had no strength" against the house on the rock (6:48).
+  - Guarding: Legion was "guarded" (φυλασσόμενος) in chains (8:29). *Against it: "blessed are those who hear the word of God and guard (φυλάσσοντες) it" (11:28).*
+  - The courtyard (αὐλή). *Forward: the courtyard where Peter denies him (22:55, in the unprinted 22:54–62).*
+  - "His own": the own, armed.
+- **"his possessions (τὰ ὑπάρχοντα) are in peace"**:
+  - Possessions: the women served from their possessions (8:3). *Forward:* "life is not from possessions (ὑπαρχόντων)" (12:15); "he was squandering his possessions" (16:1); "half of my possessions" (19:8).
+  - The peace of the own over what it holds. Against it, the peace given to a house (10:5–6).
+- **"when one stronger than he comes upon him and conquers him, he takes away (αἴρει) the armour he had trusted in (ἐπεποίθει)"**:
+  - *αἴρω:*
+    - what one only seems to have is taken (8:18);
+    - "take nothing for the way" (9:3);
+    - "take up the cross" (9:23).
+  - *Trust: "some who trusted (πεποιθότας) in themselves that they were righteous" (18:9).*
+  - The armour that the own trusted in is taken off it.
+- **"and distributes (διαδίδωσιν) his spoils"**:
+  - *Forward: "sell all that you have and distribute (διάδος) to the poor" (18:22).*
+  - What the own held is given out.
+
+*Here the text says in a parable, at the level of the soul, what it has been doing since 4:31:*
+- the own, armed and at peace over its possessions;
+- the coming of one stronger;
+- the taking away of what it trusted in;
+- the giving out of what it held.
+
+### 11:23 (grey)
+
+*ὁ μὴ ὢν μετ’ ἐμοῦ κατ’ ἐμοῦ ἐστιν, καὶ ὁ μὴ συνάγων μετ’ ἐμοῦ σκορπίζει.*
+
+- **"whoever is not with me is against me"**:
+  - The test passage 9:50 has the opposite saying: "whoever is not against you is for you".
+  - The two are not about the same thing. 9:50 is about someone the disciples would shut out of their group. 11:23 is about the self in relation to him.
+  - Toward others, wide. Toward oneself, no middle.
+- **"whoever does not gather (συνάγων) with me scatters"**: gathering. *Forward:* "where to gather (συνάξω) my fruits" (12:17–18), the rich man who gathers for himself.
+
+### Test: 11:24–26 (U?)
+
+*Ὅταν τὸ ἀκάθαρτον πνεῦμα ἐξέλθῃ ἀπὸ τοῦ ἀνθρώπου, διέρχεται δι’ ἀνύδρων τόπων ζητοῦν ἀνάπαυσιν, καὶ μὴ εὑρίσκον λέγει· Ὑποστρέψω εἰς τὸν οἶκόν μου ὅθεν ἐξῆλθον· καὶ ἐλθὸν εὑρίσκει σεσαρωμένον καὶ κεκοσμημένον. τότε πορεύεται καὶ παραλαμβάνει ἕτερα πνεύματα πονηρότερα ἑαυτοῦ ἑπτά, καὶ εἰσελθόντα κατοικεῖ ἐκεῖ, καὶ γίνεται τὰ ἔσχατα τοῦ ἀνθρώπου ἐκείνου χείρονα τῶν πρώτων.*
+
+- **"when the unclean spirit has gone out (ἐξέλθῃ)"**: coming out.
+- **"it passes through (διέρχεται) waterless places"**:
+  - Passing through (4:30; 8:22; 9:6).
+  - Waterless: the seed on the rock "dried, for lack of moisture" (8:6). The deserts (8:29).
+- **"seeking rest (ἀνάπαυσιν), and not finding"**:
+  - Rest: peace "will rest" (ἐπαναπαήσεται) on the son of peace (10:6). *Forward:* "soul… rest (ἀναπαύου), eat, drink" (12:19).
+  - Seeking and not finding: against "seek and you will find" (11:9).
+- **"I will return (ὑποστρέψω) to my house from which I came out"**: returning (8:37–40; 9:10; 10:17), said by the falsity.
+- **"it finds it swept (σεσαρωμένον) and adorned"**:
+  - *Forward: the woman "sweeps (σαροῖ) the house and seeks until she finds" (15:8).* There the sweeping is in order to find what was lost. Here the house is swept, and nothing is in it.
+  - Adorned (κεκοσμημένον): the world (κόσμος, 9:25).
+- **"it takes along seven other spirits more evil than itself"**: "seven daimons had gone out" of Mary Magdalene (8:2). Seven, the whole.
+- **"the last state of that man becomes worse than the first"**.
+
+**Verdict: continues.**
+- It is the sequel of 11:21–22. The armour is taken and the spoils distributed. If the house is then left swept and empty, what went out comes back with more.
+- It is the inner law of the new skins (5:37–38): what is emptied must be filled.
+- 11:28 answers it: the house is kept by hearing the word and guarding it.
+- 11:23 → 11:27 runs ("as he was saying these things…"), so it does not close a gap.
+
+### 11:27–28
+
+*ἐπάρασά τις φωνὴν γυνὴ ἐκ τοῦ ὄχλου εἶπεν αὐτῷ· Μακαρία ἡ κοιλία ἡ βαστάσασά σε καὶ μαστοὶ οὓς ἐθήλασας· αὐτὸς δὲ εἶπεν· Μενοῦν μακάριοι οἱ ἀκούοντες τὸν λόγον τοῦ θεοῦ καὶ φυλάσσοντες.*
+
+- **"blessed the womb that carried (βαστάσασα) you"**:
+  - The natural origin blessed. Nazareth, "where he had been brought up" (4:16); mother and brothers standing outside (8:20).
+  - Carrying (βαστάζω): the bearers of the bier (7:14); "carry no purse" (10:4); "burdens hard to carry" (11:46). *Forward:* the man carrying a jar of water (22:10).
+- **"blessed rather those who hear the word of God and guard (φυλάσσοντες) it"**:
+  - 8:21 again: "my mother and brothers are those who hear the word and do it".
+  - *Guarding:* the strong man guards his court (11:21); the hearer guards the word.
+  - What the own guarded is taken. What the hearer guards is kept (10:42: "it will not be taken away").
+
+### 11:29
+
+*Τῶν δὲ ὄχλων ἐπαθροιζομένων ἤρξατο λέγειν· Ἡ γενεὰ αὕτη γενεὰ πονηρά ἐστιν· σημεῖον ζητεῖ, καὶ σημεῖον οὐ δοθήσεται αὐτῇ.*
+
+- **"this generation is an evil generation"**: "O faithless generation" (9:41).
+- **"it seeks a sign, and a sign will not be given to it"**:
+  - Seeking the wrong thing (11:16).
+  - "Will not be given" (οὐ δοθήσεται) is the reverse of "ask, and it will be given" (δοθήσεται, 11:9). What is asked in need is given; what is sought in testing is not.
+  - *The sign that is given in the printed text is at the end, unsought:* "great signs from heaven" (21:11); "signs in sun and moon and stars" (21:25). Herod, who hoped for a sign, gets no answer (23:8–9).
+
+### Test: 11:29b–32 (attested omission and A−)
+
+*εἰ μὴ τὸ σημεῖον Ἰωνᾶ. καθὼς γὰρ ἐγένετο Ἰωνᾶς τοῖς Νινευίταις σημεῖον, οὕτως ἔσται καὶ ὁ υἱὸς τοῦ ἀνθρώπου τῇ γενεᾷ ταύτῃ. βασίλισσα νότου ἐγερθήσεται ἐν τῇ κρίσει μετὰ τῶν ἀνδρῶν τῆς γενεᾶς ταύτης καὶ κατακρινεῖ αὐτούς· ὅτι ἦλθεν ἐκ τῶν περάτων τῆς γῆς ἀκοῦσαι τὴν σοφίαν Σολομῶνος, καὶ ἰδοὺ πλεῖον Σολομῶνος ὧδε. ἄνδρες Νινευῖται ἀναστήσονται ἐν τῇ κρίσει μετὰ τῆς γενεᾶς ταύτης καὶ κατακρινοῦσιν αὐτήν· ὅτι μετενόησαν εἰς τὸ κήρυγμα Ἰωνᾶ, καὶ ἰδοὺ πλεῖον Ἰωνᾶ ὧδε.*
+
+- **"except the sign of Jonah… so will the Son of Man be to this generation"**:
+  - The sign that is given is the Son of Man himself.
+  - Jonah is the one who went down into the deep and came up (?). That would join "after three days be raised" (9:22).
+- **"the queen of the south will be raised (ἐγερθήσεται)… the men of Nineveh will rise (ἀναστήσονται)"**: *both rising verbs, said of the dead rising "in the judgement".* Rising "from the dead" had been in the text only as Herod's rumour (9:7).
+- **"and will condemn (κατακρινεῖ) them"**:
+  - The judges are those who heard and turned. *This is the form of 11:19: "your sons will be your judges".* The judgement is not brought from outside.
+- **"she came from the ends of the earth to hear the wisdom"**: hearing (11:28); the earth; wisdom (σοφία; "hidden from the wise", 10:21).
+- **"they repented at the proclamation (κήρυγμα) of Jonah"**:
+  - Proclaiming (κηρύσσω: 4:44; 8:1; 8:39; 9:2) and repenting.
+  - *Forward, in the printed text: "and repentance… be proclaimed (κηρυχθῆναι) in his name to all the nations" (24:47).* The Ninevites are a nation.
+- **"behold, more than Solomon… more than Jonah is here"**: greatness (7:28; 9:46–48).
+
+**Verdict: continues.**
+- Its words take up the rising verbs and the form of judgement of 11:19, and they reach 24:47 (proclamation and repentance to the nations).
+- *The pericope pass (`proto_luke_in_correspondence.md`) marked 11:30–32 as an inserted passage that breaks. Read by its words, it does not break. That earlier verdict was drawn from the letter.*
+- 11:29 → 11:33 runs: no sign is given to the seekers; the lamp is not hidden from those who enter. So it does not close a gap.
+
+### 11:33
+
+*Οὐδεὶς λύχνον ἅψας εἰς κρύπτην τίθησιν οὐδὲ ὑπὸ τὸν μόδιον ἀλλ’ ἐπὶ τὴν λυχνίαν, ἵνα οἱ εἰσπορευόμενοι τὸ φῶς βλέπωσιν.*
+
+- **"no one puts a lamp in a hidden place (κρύπτην)"**: 8:16 again, now with "hidden" (κρυπτός, 8:17; 10:21).
+- **"nor under the measure (μόδιον)"**: the measure (6:38) is for giving, not for hiding the light under.
+- **"so that those coming in (εἰσπορευόμενοι) may see the light"**:
+  - The light is for those who come in.
+  - No sign is given to the seekers outside (11:29), but the light is not hidden from those who enter.
+  - *Against it: "you did not enter, and you hindered those entering (εἰσερχομένους)" (11:52).*
+
+### Test: 11:34–36 (U?)
+
+*ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός σου. ὅταν ὁ ὀφθαλμός σου ἁπλοῦς ᾖ, καὶ ὅλον τὸ σῶμά σου φωτεινόν ἐστιν· ἐπὰν δὲ πονηρὸς ᾖ, καὶ τὸ σῶμά σου σκοτεινόν. σκόπει οὖν μὴ τὸ φῶς τὸ ἐν σοὶ σκότος ἐστίν. εἰ οὖν τὸ σῶμά σου ὅλον φωτεινόν, μὴ ἔχον μέρος τι σκοτεινόν, ἔσται φωτεινὸν ὅλον ὡς ὅταν ὁ λύχνος τῇ ἀστραπῇ φωτίζῃ σε.*
+
+- **"the lamp of the body is your eye"**:
+  - The lamp of 11:33, turned inward.
+  - The eye: the beam "in your own eye" (6:41–42); "blessed are the eyes" (10:23). *Forward:* the eyes held, then opened (24:16, 24:31).
+- **"when your eye is single (ἁπλοῦς)… when it is evil (πονηρός)"**: a single eye looks one way (?). Evil: "being evil" (11:13); "an evil generation" (11:29).
+- **"see whether the light in you is darkness"**: the light inside (ἐν σοί), against the inside full of plunder (11:39).
+- **"as when the lamp lights you with its flash (ἀστραπῇ)"**: *the flashing of 9:29 (ἐξαστράπτων), 17:24 and 24:4.*
+
+**Verdict: continues.**
+- It carries the lamp of 11:33 inward to the "inside" (ἔσωθεν) of 11:39–41: lamp for those entering → light in you → inside of the cup.
+- This is the turn the text made at 6:42, from the other's eye to one's own.
+- 11:33 → 11:37 runs, so it does not close a gap. Without it, the turn inward is made at 11:39 alone.
+
+### 11:37–38
+
+*Ἐν δὲ τῷ λαλῆσαι ἐρωτᾷ αὐτὸν Φαρισαῖος ὅπως ἀριστήσῃ παρ’ αὐτῷ· εἰσελθὼν δὲ ἀνέπεσεν. ὁ δὲ Φαρισαῖος ἤρξατο διακρινόμενος ἐν ἑαυτῷ λέγειν διὰ τί οὐ πρῶτον ἐβαπτίσθη πρὸ τοῦ ἀρίστου.*
+
+- **"entering, he reclined (ἀνέπεσεν)"**: ἀνα-πίπτω, "fall back", the posture at table. *Forward: "when the hour came, he reclined (ἀνέπεσεν), and the apostles with him" (22:14).*
+- **"the Pharisee began debating within himself (ἐν ἑαυτῷ)"**:
+  - The adopted Marcionite (D) wording. It joins the Pharisee at the first meal: "he said within himself (ἐν ἑαυτῷ)" (7:39).
+  - NA27's "seeing, he marvelled" joins the thread of marvelling.
+  - **Neutral.**
+- **"why he did not first (πρῶτον) wash (ἐβαπτίσθη)"**:
+  - "First": the own's "first" (9:59, 9:61), against the "first" of peace (10:5).
+  - Washing as an outward act.
+  - *Forward:* "I have a baptism (βάπτισμα) to be baptized with, and how I am held fast (συνέχομαι) until it is accomplished!" (12:50). The washing that matters is his own passage.
+
+### 11:39–41
+
+*Νῦν ὑμεῖς οἱ Φαρισαῖοι τὸ ἔξωθεν τοῦ ποτηρίου καὶ τοῦ πίνακος καθαρίζετε, τὸ δὲ ἔσωθεν ὑμῶν γέμει ἁρπαγῆς καὶ πονηρίας. ἄφρονες, οὐχ ὁ ποιήσας τὸ ἔξωθεν καὶ τὸ ἔσωθεν ἐποίησεν; πλὴν τὰ ἐνόντα δότε ἐλεημοσύνην, καὶ ἰδοὺ πάντα καθαρὰ ὑμῖν ἐστιν.*
+
+- **"you cleanse (καθαρίζετε) the outside (ἔξωθεν) of the cup and the dish"**:
+  - Cleansing: the leper (5:12–14); "lepers are cleansed" (7:22).
+  - The outside: "outside" (ἔξω, 4:29; 8:20).
+  - The cup is a vessel (σκεῦος, 8:16; the skins, 5:37). *Forward:* "this cup is the new covenant in my blood" (22:20); "Father, if you will, remove this cup from me" (22:42).
+- **"but your inside (ἔσωθεν) is full (γέμει) of plunder and evil"**:
+  - The inside: the one inside who rises to give (11:7).
+  - Filling: the nets filled (5:7), the boat filling (8:23), the days filling (9:51). Here the inside is filled with plunder.
+- **"did not the one who made the outside also make the inside?"**:
+  - One maker, of both.
+  - *This is the sentence in the printed text against separating the outer from the inner. It is the same relation the reading found strained by "Lord of heaven" without "and of the earth" (10:21).*
+- **"give as alms (ἐλεημοσύνην) the things within (τὰ ἐνόντα), and see, all things are clean for you"**:
+  - The inside is cleansed by giving it out.
+  - Alms is mercy (ἔλεος: "the one who did mercy", 10:37, test).
+  - This is 11:22 again, from the inside: the spoils distributed.
+
+### 11:42–44 (11:44 grey)
+
+*Ἀλλὰ οὐαὶ ὑμῖν τοῖς Φαρισαίοις, ὅτι ἀποδεκατοῦτε τὸ ἡδύοσμον καὶ τὸ πήγανον καὶ πᾶν λάχανον, καὶ παρέρχεσθε τὴν κλῆσιν καὶ τὴν ἀγάπην τοῦ θεοῦ· ταῦτα δὲ ἔδει ποιῆσαι κἀκεῖνα μὴ παρεῖναι. οὐαὶ ὑμῖν τοῖς Φαρισαίοις, ὅτι ἀγαπᾶτε τὴν πρωτοκαθεδρίαν ἐν ταῖς συναγωγαῖς καὶ τοὺς ἀσπασμοὺς ἐν ταῖς ἀγοραῖς. οὐαὶ ὑμῖν, ὅτι ἐστὲ ὡς τὰ μνημεῖα τὰ ἄδηλα, καὶ οἱ ἄνθρωποι οἱ περιπατοῦντες ἐπάνω οὐκ οἴδασιν.*
+
+- **"you tithe mint and rue"**: *forward: the Pharisee in the temple, "I tithe (ἀποδεκατῶ) all that I acquire" (18:12).*
+- **"and pass by (παρέρχεσθε) the calling and the love of God"**:
+  - Passing by: the priest and the Levite "passed by on the other side" (10:31–32, test).
+  - "The calling" (κλῆσιν) is the adopted Marcionite reading; NA27 has "justice" (κρίσιν). By their words:
+    - "calling" joins "call the poor" (14:13) and "he called many" (14:16);
+    - "justice" joins the judging of 6:37, 11:19 and 12:57.
+  - **Neutral.**
+- **"you love the first seat (πρωτοκαθεδρίαν)"**: "first" again. Love turned to the first place, against loving God with the whole heart (10:27). *The first places at table are the subject of the unprinted 14:7–11.*
+- **"the greetings in the marketplaces"**: "greet no one along the way" (10:4).
+- **"you are like unseen tombs (μνημεῖα), and people walking over them do not know"**:
+  - The tombs: Legion lived among them (8:27). *Forward: the tomb of the end (24:2, 24:9, 24:22).*
+  - Hidden death: "nothing hidden that will not become manifest" (8:17).
+
+### 11:45–46 (11:45 grey)
+
+*Διδάσκαλε, ταῦτα λέγων καὶ ἡμᾶς ὑβρίζεις. ὁ δὲ εἶπεν· Καὶ ὑμῖν τοῖς νομικοῖς οὐαί, ὅτι φορτίζετε τοὺς ἀνθρώπους φορτία δυσβάστακτα, καὶ αὐτοὶ ἑνὶ τῶν δακτύλων ὑμῶν οὐ προσψαύετε τοῖς φορτίοις.*
+
+- **"burdens hard to carry"** (δυσβάστακτα): carrying (11:27).
+- **"you do not touch the burdens with one of your fingers"**:
+  - *The finger of God casts out daimons (11:20). The lawyers' finger does not touch.*
+  - Touching (5:13; 8:44–47).
+
+### 11:47–48
+
+*οὐαὶ ὑμῖν, ὅτι οἰκοδομεῖτε τὰ μνημεῖα τῶν προφητῶν οἱ δὲ πατέρες ὑμῶν ἀπέκτειναν αὐτούς. ἄρα μάρτυρές ἐστε καὶ συνευδοκεῖτε τοῖς ἔργοις τῶν πατέρων ὑμῶν, ὅτι αὐτοὶ μὲν ἀπέκτειναν αὐτοὺς ὑμεῖς δὲ οἰκοδομεῖτε.*
+
+- **"you build (οἰκοδομεῖτε) the tombs of the prophets"**:
+  - *Building:* the house on the rock and the house on the earth (6:48–49). *Forward:* "I will pull down my barns and build (οἰκοδομήσω) greater" (12:18).
+  - Here what is built is tombs: building over the dead.
+- **"your fathers killed them"**:
+  - "Their fathers did the same to the prophets" (6:23, 6:26).
+  - "The Son of Man must… be killed" (9:22).
+  - The fathers: the natural origin, left to bury its dead (9:59–60).
+- **"you are witnesses and you approve (συνευδοκεῖτε)"**: approving, εὐδοκία, the word of the Father's good pleasure (10:21). Their good pleasure is in the works of the fathers.
+
+### Test: 11:49–51 (A−)
+
+*διὰ τοῦτο καὶ ἡ σοφία τοῦ θεοῦ εἶπεν· Ἀποστελῶ εἰς αὐτοὺς προφήτας καὶ ἀποστόλους, καὶ ἐξ αὐτῶν ἀποκτενοῦσιν καὶ διώξουσιν, ἵνα ἐκζητηθῇ τὸ αἷμα πάντων τῶν προφητῶν τὸ ἐκκεχυμένον ἀπὸ καταβολῆς κόσμου ἀπὸ τῆς γενεᾶς ταύτης, ἀπὸ αἵματος Ἅβελ ἕως αἵματος Ζαχαρίου τοῦ ἀπολομένου μεταξὺ τοῦ θυσιαστηρίου καὶ τοῦ οἴκου· ναί, λέγω ὑμῖν, ἐκζητηθήσεται ἀπὸ τῆς γενεᾶς ταύτης.*
+
+- **"therefore the Wisdom of God said"**: it follows straight on from 11:47–48 ("therefore"). Wisdom (10:21; *forward:* "I will give you a mouth and wisdom", 21:15).
+- **"I will send (ἀποστελῶ) them prophets and apostles, and some of them they will kill and persecute (διώξουσιν)"**:
+  - Sending: "I send you as lambs in the midst of wolves" (10:3). Apostles (6:13; 9:10).
+  - *Forward:* "they will lay their hands on you and persecute (διώξουσιν) you" (21:12).
+- **"the blood of all the prophets, poured out (ἐκκεχυμένον)"**:
+  - *Pouring:* the new wine "poured out" from old skins (5:37); the measure "poured over" (6:38).
+  - *Forward: "the new covenant in my blood, poured out (ἐκχυννόμενον) for you" (22:20).* The blood of the prophets poured out, and his blood poured out: one verb.
+  - Blood is truth (8:43–44). Truth's blood shed is truth killed (?).
+- **"from the foundation (καταβολῆς, 'down-casting') of the world"**: the world (9:25).
+- **"Zechariah, who perished (ἀπολομένου) between the altar and the house"**: perishing (4:34; 8:24; 9:24).
+- **"it will be sought out (ἐκζητηθήσεται) from this generation"**:
+  - Seeking (11:9–10; 11:16; 11:29).
+  - The generation that approves the killing (11:48) takes on what it approves. That is the form of 11:19 and 11:31–32, and the measure of 6:38.
+
+**Verdict: continues.**
+- It follows 11:47–48 with "therefore". Its words reach 10:3 (sending among wolves), 21:12 (persecution) and 22:20 (blood poured out).
+- *The pericope pass marked 11:49–51 as an inserted passage that breaks. Read by its words, it does not.*
+- 11:48 → 11:52 runs, so it does not close a gap.
+
+### 11:52
+
+*οὐαὶ ὑμῖν τοῖς νομικοῖς, ὅτι ἤρατε τὴν κλεῖδα τῆς γνώσεως· αὐτοὶ οὐκ εἰσήλθατε καὶ τοὺς εἰσερχομένους ἐκωλύσατε.*
+
+- **"you took away (ἤρατε) the key of knowledge"**:
+  - αἴρω again: the armour taken from the strong man (11:22).
+  - Here the lawyers take away the key.
+  - The key opens the door: the door shut (11:7); "knock, and it will be opened" (11:9–10). Knowledge: knowing the Father and the son (10:22).
+- **"you did not enter yourselves, and you hindered (ἐκωλύσατε) those entering (εἰσερχομένους)"**:
+  - The light is for "those coming in" (11:33).
+  - κωλύω: "do not forbid" (9:50, test); "do not hinder" (18:16).
+
+### Test: 11:53–54 (U?)
+
+*Κἀκεῖθεν ἐξελθόντος αὐτοῦ ἤρξαντο οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι δεινῶς ἐνέχειν καὶ ἀποστοματίζειν αὐτὸν περὶ πλειόνων, ἐνεδρεύοντες αὐτὸν θηρεῦσαί τι ἐκ τοῦ στόματος αὐτοῦ.*
+
+- **"to press hard (ἐνέχειν)"**: holding against him, of the family of holding fast (συνέχω, 8:37, 8:45; 12:50).
+- **"lying in wait to catch (θηρεῦσαι) something out of his mouth"**:
+  - *Forward:* "watching, they sent spies… so that they might take hold of his word" (20:20); "they could not take hold of his saying" (20:26); "we have heard it ourselves from his mouth (στόματος)" (22:71).
+  - The mouth: "out of the overflow of the heart the mouth speaks" (6:45).
+
+**Verdict: continues.** It begins the lying in wait that runs to 20:20 and 22:71. 11:52 → 12:1 runs ("in these circumstances…"), so it does not close a gap.
+
+### What came out of the reading of chapter 9
+
+**Rising is for giving.**
+- In the parable of the friend at midnight, both rising verbs (ἀνίστημι, ἐγείρω) are said of the one inside who gets up to give bread (11:7–8).
+- Since 4:39 (test), every rising in this text has been toward something done: serving, following, walking, standing, giving.
+- The door, the one inside, the rising, the knocking and the opening all return, reversed, at 13:24–25.
+
+**The prayer.**
+- Father; the spirit or the name; the kingdom coming down.
+- Bread given daily, in the words of the cross taken up daily (9:23).
+- Letting go as we let go.
+- Not being carried into temptation.
+
+**Ask and it will be given; seek; knock.**
+- What the Father gives is not the snake and the scorpion trodden on the way (10:19), but the holy spirit.
+- The own is evil and still gives good gifts. The good does not come from it.
+
+**The strong man (11:21–22) is the mechanic of the soul, said outright.**
+- The own, armed, guards its own court, and its possessions are at peace.
+- One stronger comes, takes away the armour it trusted in, and distributes the spoils.
+- It is followed by:
+  - "whoever does not gather with me scatters";
+  - (in the test passage 11:24–26) the house swept and empty, reoccupied by worse;
+  - "blessed are those who hear the word and guard it".
+- What the own guards is taken. What the hearer guards is kept.
+
+**Inside and outside.**
+- The lamp is not hidden, nor put under the measure.
+- (In the test passage 11:34–36) the lamp of the body is the eye, and the light in you.
+- The outside of the cup is cleansed while the inside is full of plunder.
+- "Did not the one who made the outside make the inside also?" The inside is cleansed by giving it out as alms.
+- The printed text here says outright that the outer and the inner have one maker. That is why the reading weighed "Lord of heaven" without "and of the earth" as a strain (10:21).
+
+**Judgement in this text is the measure returning, and the judges are one's own.**
+- "Your sons will be your judges" (11:19). The verb κρίνω is printed (6:37; 12:57; 19:22).
+- The noun κρίσις ("judgement", "justice") does not occur anywhere in the printed text. Its places are:
+  - 10:14 (test);
+  - 11:31–32 (test);
+  - 11:42, where the adopted reading has κλῆσις.
+- The passages not printed in this chapter and the last that speak of judgement — 10:12–15; 11:29b–32; 11:49–51 — state it in the printed text's own form:
+  - the city that lifts itself up goes down;
+  - those who heard condemn those who did not;
+  - the generation that approves the killing takes on the blood.
+- *What this pattern means for the history of the text (excision from, or addition to, an earlier form) is a separate question, which the reading does not decide.*
+- By their words, the passages continue the line.
+
+**The two "breaks" of the pericope pass do not hold.** 11:30–32 and 11:49–51 were marked there as inserted passages that break. Read word by word, both continue:
+- the first through the rising verbs, the form of judgement, and the proclamation to the nations (24:47);
+- the second through "poured out", which joins the blood of the prophets to "my blood poured out for you" (22:20).
+
+The earlier verdicts were drawn from the letter.
+
+**The key taken away.** The lawyers take away the key of knowledge, do not enter, and hinder those entering. The lamp is for those who enter.
+
+### Threads, carried forward and added
+
+- rising to give (→ 13:25);
+- the door, knocking, opening (→ 13:24–25; 24:31);
+- inside and outside (ἔσωθεν / ἔξωθεν), one maker;
+- daily (the cross, the bread);
+- letting go and owing (→ 16:5–7);
+- temptation (→ 22:40, 22:46);
+- midnight; the midst of the night;
+- setting before (παρατίθημι);
+- seeking: for holding, for a sign, for finding (→ 19:10; 24:5);
+- the holy spirit given;
+- snakes and scorpions;
+- the finger (of God, of the lawyers, → 16:24);
+- the strong man: guarding, possessions, trust (→ 18:9), the armour taken, the spoils distributed (→ 18:22);
+- gathering and scattering (→ 12:17–18);
+- the swept house (→ 15:8);
+- guarding the word;
+- signs (→ 21:11, 21:25; 23:8–9);
+- the lamp and the measure;
+- the eye (→ 24:16, 24:31);
+- the cup (→ 22:17–20, 22:42);
+- alms and mercy;
+- the first seat (→ 14:7–11, unprinted);
+- tombs (→ 24:2–22);
+- building (→ 12:18);
+- the fathers who killed the prophets (6:23, 6:26);
+- blood poured out (→ 22:20);
+- the key and entering (→ 13:24; 18:17; 24:26);
+- lying in wait for his mouth (→ 20:20–26; 22:71);
+- judgement as one's own measure;
+- κρίσις absent from the printed text.
