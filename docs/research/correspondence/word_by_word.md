@@ -845,6 +845,13 @@ At its place, after 4:37, it would be the first rising of a person in the text, 
 
 The next printed verses say that a lamp is not put under a vessel, and that nothing hidden will not be made manifest (8:16–17). This passage says the opposite: the parable is given "so that" seeing they may not see. That is withholding sight on purpose. In Swedenborg's doctrine the inner sense is veiled to keep it from being profaned, and that would reconcile the two. But in this text the mind is always being opened, and this is the only place where it is closed on purpose. It strains against the movement on both sides of it.
 
+**Revised at 9:45: continues.** The ground for the strain was that the text never closes the mind on purpose. That is not so. The printed text does it at 9:45 (grey):
+- The saying about the handing-over "was veiled (παρακεκαλυμμένον) from them, so that (ἵνα) they should not perceive it".
+- The verb is the lamp's "cover" (καλύπτει, 8:16), with "so that", said of the disciples themselves.
+- The veil is lifted at the end: "their eyes were held (ἐκρατοῦντο) so that they did not recognize him" (24:16); "their eyes were opened (διηνοίχθησαν) and they recognized him" (24:31).
+
+So the text has a law of veiling: what cannot yet be received is covered, and it is uncovered when it can be. 8:17 states the second half: "nothing hidden that will not become manifest". Read with 8:17 and 9:45, 8:9–10 states the first half, and continues the line.
+
 ### Test: 8:11–15 (U?)
 
 *Ἔστιν δὲ αὕτη ἡ παραβολή· Ὁ σπόρος ἐστὶν ὁ λόγος τοῦ θεοῦ… εἶτα ἔρχεται ὁ διάβολος καὶ αἴρει τὸν λόγον ἀπὸ τῆς καρδίας αὐτῶν… οἱ δὲ ἐπὶ τῆς πέτρας οἳ ὅταν ἀκούσωσιν μετὰ χαρᾶς δέχονται τὸν λόγον, καὶ οὗτοι ῥίζαν οὐκ ἔχουσιν… καὶ ἐν καιρῷ πειρασμοῦ ἀφίστανται… ὑπὸ μεριμνῶν καὶ πλούτου καὶ ἡδονῶν τοῦ βίου πορευόμενοι συμπνίγονται… τὸ δὲ ἐν τῇ καλῇ γῇ, οὗτοί εἰσιν οἵτινες ἐν καρδίᾳ καλῇ καὶ ἀγαθῇ ἀκούσαντες τὸν λόγον κατέχουσιν καὶ καρποφοροῦσιν ἐν ὑπομονῇ.*
@@ -945,7 +952,7 @@ Growth is the first rising that is not a person's.
 
 **Holding.** The crowds held him back (4:42); the good heart holds the word fast (8:15, left out). Read by its words, 8:11–15 continues the line.
 
-**Hiding.** 8:9–10 is the one place where the Divine would withhold sight on purpose. It strains against the movement on both sides of it (6:42; 7:21–22; 8:16–17).
+**Hiding.** At first reading, 8:9–10 seemed the one place where the Divine withholds sight on purpose, and it was marked as a strain. *Revised at 9:45:* the printed text veils on purpose too, and lifts the veil at 24:16 and 24:31. 8:9–10 continues the line.
 
 ### Threads, carried forward and added
 
@@ -1355,3 +1362,441 @@ Growth is the first rising that is not a person's.
 - Herod seeking to see (→ 23:8);
 - fear and believing;
 - "who is this?".
+
+---
+
+## Chapter 7
+
+*9:18–62. Grey: 9:23, 9:25, 9:27, 9:36–39, 9:42–43, 9:45, 9:51, 9:53, 9:56. Not printed: 9:31b (A−) and 9:49–50 (U?). Adopted Marcionite wordings: 9:22 "after three days"; 9:35 "the beloved"; 9:41 without "and perverse".*
+
+### 9:18–19
+
+*Καὶ ἐγένετο ἐν τῷ εἶναι αὐτὸν προσευχόμενον κατὰ μόνας συνῆσαν αὐτῷ οἱ μαθηταί, καὶ ἐπηρώτησεν αὐτοὺς λέγων· Τίνα με λέγουσιν οἱ ὄχλοι εἶναι; οἱ δὲ ἀποκριθέντες εἶπαν· Ἰωάννην τὸν βαπτιστήν, ἄλλοι δὲ Ἠλίαν, ἄλλοι δὲ ὅτι προφήτης τις τῶν ἀρχαίων ἀνέστη.*
+
+- **"as he was praying alone"** (κατὰ μόνας): prayer.
+  - *Thread:* the desert prayer (5:16); the night on the mountain (6:12).
+  - Alone: at the end of 9:36 "Jesus was found alone (μόνος)". This chapter's first scene and its height both close on "alone".
+- **"Who do the crowds say that I am?"**: the question "who is this?" (5:21; 7:49; 8:25; 9:9) is now his to ask.
+- **"John… Elijah… a prophet of the ancients rose (ἀνέστη)"**: Herod's rumour (9:7–8), repeated. The crowds' answer is the same as the ruler's: the past rising again.
+
+### 9:20–21
+
+*Ὑμεῖς δὲ τίνα με λέγετε εἶναι; Πέτρος δὲ ἀποκριθεὶς εἶπεν· Τὸν χριστὸν τοῦ θεοῦ. Ὁ δὲ ἐπιτιμήσας αὐτοῖς παρήγγειλεν μηδενὶ λέγειν τοῦτο,*
+
+- **"Peter answered: the Anointed One of God"**: faith names him.
+  - The first naming by one of his own.
+  - Until now, only the falsity knew it: the daimons "knew that he was the Anointed One" (ᾔδεισαν τὸν χριστὸν αὐτὸν εἶναι, 4:41).
+- **"rebuking (ἐπιτιμήσας) them, he ordered them to tell no one"**: *the same two acts as 4:41: "rebuking, he did not let them speak, because they knew he was the Anointed One".*
+  - What was done to the falsity's knowing is done to faith's knowing.
+  - What is known before it is lived is held back, whether it is known by falsity or by faith. The law of veiling (8:10, revised; 9:45) works from both sides. Here the knower is silenced; at 9:45 the hearers are covered.
+
+### 9:22
+
+*Δεῖ τὸν υἱὸν τοῦ ἀνθρώπου πολλὰ παθεῖν καὶ ἀποδοκιμασθῆναι ἀπὸ τῶν πρεσβυτέρων καὶ ἀρχιερέων καὶ γραμματέων καὶ ἀποκτανθῆναι καὶ μετὰ τρεῖς ἡμέρας ἐγερθῆναι.*
+
+- **"must"** (δεῖ): "I must (δεῖ) proclaim the kingdom to the other cities" (4:43). The necessity of the sending is now the necessity of suffering. *Forward:* "the Son of Man must (δεῖ) be handed over" (24:7); "was it not necessary (ἔδει) that the Anointed One suffer these things and enter into his glory?" (24:26).
+- **"suffer many things and be rejected by the elders and chief priests and scribes"**:
+  - The chief priests are named for the first time. The opening (3:1) named only rulers, no priest.
+  - The scribes have been reasoning since 5:21. Elders, priests and scribes: the church as to its doctrine, in its heads (?).
+  - The rejection comes from the height of the church, not from the natural.
+- **"and be killed, and after three days be raised (ἐγερθῆναι)"**:
+  - The rising verb, said of the Son of Man in the future, after killing. Three days: the full period, the complete state (?).
+  - Herod and the crowds speak of a past figure rising (9:7–8; 9:19). He speaks of his own rising, through death.
+
+### 9:23 (grey)
+
+*Εἴ τις θέλει ὀπίσω μου ἔρχεσθαι, ἀρνησάσθω ἑαυτὸν καὶ ἀράτω τὸν σταυρὸν αὐτοῦ καθ’ ἡμέραν, καὶ ἀκολουθείτω μοι.*
+
+- **"to come behind me"** (ὀπίσω μου): behind.
+  - The woman stood behind, at his feet (ὀπίσω, 7:38); the woman came from behind (ὄπισθεν, 8:44).
+  - Coming behind him is following. *Against it: "looking at the things behind (τὰ ὀπίσω)" (9:62).*
+  - Behind him is the place to go; behind oneself is the place not to look.
+- **"let him deny himself"** (ἀρνησάσθω ἑαυτόν): denial.
+  - All denied that they had touched him (8:45).
+  - Here what is denied is the self, the own (proprium). This is the first time the text names the own as something to be refused.
+- **"and take up (ἀράτω) his cross daily"**: αἴρω, taking.
+  - "Take nothing for the way" (9:3); the overflow taken up (9:17).
+  - The one thing taken on the way is the cross: temptation, the fight against the own (?).
+  - "Daily" (καθ’ ἡμέραν): day after day, state after state.
+- **"and follow me"**: following (5:11; 5:27; 9:11).
+
+### 9:24–25 (9:25 grey)
+
+*ὃς γὰρ ἂν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι, ἀπολέσει αὐτήν· ὃς δ’ ἂν ἀπολέσῃ τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ, οὗτος σώσει αὐτήν. τί γὰρ ὠφελεῖται ἄνθρωπος κερδήσας τὸν κόσμον ὅλον ἑαυτὸν δὲ ἀπολέσας ἢ ζημιωθείς;*
+
+- **"whoever wills to save his soul will lose it"**:
+  - *The pair of 6:9: "to save a soul or destroy it?" (ψυχὴν σῶσαι ἢ ἀπολέσαι).* There it was asked of the sabbath; here it is turned on the one who asks.
+  - The own that saves itself destroys itself. Losing it "for my sake" saves it.
+  - ἀπόλλυμι: the daimon's fear (4:34) and the disciples' cry (8:24).
+- **"gaining the whole world, but losing himself"**:
+  - Gaining is acquiring, the disciples' "buy" (9:13).
+  - The world (κόσμος) is named for the first time.
+  - "Himself" (ἑαυτόν) is the same self that is to be denied (9:23). Denied, it is kept; kept, it is lost.
+
+### 9:26–27 (9:27 grey)
+
+*ὃς γὰρ ἂν ἐπαισχυνθῇ με καὶ τοὺς ἐμοὺς λόγους, τοῦτον ὁ υἱὸς τοῦ ἀνθρώπου ἐπαισχυνθήσεται, ὅταν ἔλθῃ ἐν τῇ δόξῃ αὐτοῦ καὶ τοῦ πατρὸς καὶ τῶν ἁγίων ἀγγέλων. λέγω δὲ ὑμῖν ἀληθῶς, εἰσίν τινες τῶν αὐτοῦ ἑστηκότων οἳ οὐ μὴ γεύσωνται θανάτου ἕως ἂν ἴδωσιν τὴν βασιλείαν τοῦ θεοῦ.*
+
+- **"ashamed of me and of my words"**: the measure (6:38). As one does, it is done to one.
+- **"when he comes in his glory"** (δόξῃ): glory.
+  - Until now, glory was what people gave to God when they saw healing (5:25–26; 7:16).
+  - Here it is his own, for the first time, and it comes in 9:31–32. *Forward: "to enter into his glory" (24:26).*
+- **"some of those standing (ἑστηκότων) here… will see the kingdom"**: standing; seeing. Eight days later, three of those standing see his glory (9:32).
+
+### 9:28
+
+*Ἐγένετο δὲ μετὰ τοὺς λόγους τούτους ὡσεὶ ἡμέραι ὀκτὼ καὶ παραλαβὼν Πέτρον καὶ Ἰωάννην καὶ Ἰάκωβον ἀνέβη εἰς τὸ ὄρος προσεύξασθαι.*
+
+- **"after these words, about eight days"**:
+  - The eighth day is the beginning of a new state (?).
+  - Days count the states in this chapter: "after three days" (9:22), "daily" (9:23), "eight days" (9:28), "in those days" (9:36), "the next day" (9:37), "the days of his taking up" (9:51).
+- **"taking Peter and John and James"**: the three who went in to the girl (8:51) — faith, works, charity — taken up with him.
+- **"he went up (ἀνέβη) into the mountain"**: *ἀναβαίνω, said of him, for the first time in the text.*
+  - Others had gone up before: the friends "went up onto the roof" with the paralysed man (ἀναβάντες, 5:19).
+  - He himself had "gone out" to the mountain (6:12) and come down (6:17). Now he goes *up*.
+  - *Thread of the mountain:* Nazareth's hill (4:29); prayer (6:12); the swine's pasture (8:32); now the ascent.
+  - *Forward:* "two men went up (ἀνέβησαν) into the temple to pray" (18:10). The same words, "went up… to pray".
+- **"to pray"**: the going up is for prayer.
+
+### 9:29
+
+*καὶ ἐγένετο ἐν τῷ προσεύχεσθαι αὐτὸν τὸ εἶδος τοῦ προσώπου αὐτοῦ ἕτερον καὶ ὁ ἱματισμὸς αὐτοῦ λευκὸς ἐξαστράπτων.*
+
+- **"as he prayed, the appearance of his face became other"**: the face is the interiors as they show (?). In prayer, the inner shows on the outside.
+  - *Thread of the face (πρόσωπον):*
+    - "I send my messenger before your face" (7:27);
+    - here the face changes;
+    - then three times in 9:51–53: he set his face; messengers before his face; "his face was going to Jerusalem".
+  - The face that changes on the mountain is the face set toward Jerusalem.
+- **"his clothing white, flashing"** (ἱματισμὸς λευκὸς ἐξαστράπτων): the garment.
+  - The garment is truth; white is truth from the Divine shining (?).
+  - The man freed from Legion was "clothed" (ἱματισμένον, 8:35). The fringe of this garment healed the woman (8:44).
+  - *Forward: "two men stood by them in flashing (ἀστραπτούσῃ) clothing" (24:4).*
+
+### 9:30–31
+
+*καὶ ἰδοὺ ἄνδρες δύο συνελάλουν αὐτῷ, οἵτινες ἦσαν Μωϋσῆς καὶ Ἠλίας, οἳ ὀφθέντες ἐν δόξῃ.*
+
+- **"two men were talking with him, Moses and Elijah"**: the Law and the Prophets, the Word in its two parts (?).
+  - *Forward:* "two men (ἄνδρες δύο)… in flashing clothing" at the tomb (24:4); "they have Moses and the prophets; let them hear them" (16:29, 16:31).
+  - The two men on the mountain and the two men at the tomb have the same words, and the same flashing.
+- **"who appeared in glory"**: the glory of 9:26.
+
+### Test: 9:31b (A−)
+
+*ἔλεγον τὴν ἔξοδον αὐτοῦ ἣν ἤμελλεν πληροῦν ἐν Ἰερουσαλήμ.* "They spoke of his departure, which he was about to fulfil in Jerusalem."
+
+- **"his departure"** (ἔξοδον): the noun of going out (ἐξέρχομαι). This is the coming-out thread (daimons 4:35, power 8:46) made into his own exit.
+- **"fulfil"** (πληροῦν): filling (5:7; 8:23).
+- **"in Jerusalem"**.
+
+**Verdict: continues, but nothing is missing without it.** Every word of it is said again at 9:51, in the printed text: "when the days of his taking up were being fulfilled (συμπληροῦσθαι), he set his face to go to Jerusalem". 9:31 → 9:32 runs without a gap: they appeared in glory; Peter saw the glory. With the clause, the mountain would announce what 9:51 begins. Without it, 9:51 announces it.
+
+### 9:32
+
+*ὁ δὲ Πέτρος καὶ οἱ σὺν αὐτῷ ἦσαν βεβαρημένοι ὕπνῳ· διαγρηγορήσαντες δὲ εἶδον τὴν δόξαν αὐτοῦ καὶ τοὺς δύο ἄνδρας τοὺς συνεστῶτας αὐτῷ.*
+
+- **"weighed down with sleep"**: sleep.
+  - He slept in the boat (8:23); the girl "sleeps" (8:52). Now it is the three who are heavy with sleep.
+  - On the height, the natural is heavy.
+- **"but keeping fully awake (διαγρηγορήσαντες), they saw his glory"**: waking; seeing.
+  - "Some standing here will see" (9:27): it is fulfilled for the ones who stay awake.
+  - *Forward: "Watch (ἀγρυπνεῖτε) at all times… to stand before the Son of Man" (21:36).*
+- **"the two men standing with him"** (συνεστῶτας): standing.
+
+### 9:33
+
+*καὶ ἐγένετο ἐν τῷ διαχωρίζεσθαι αὐτοὺς ἀπ’ αὐτοῦ εἶπεν ὁ Πέτρος πρὸς τὸν Ἰησοῦν· Ἐπιστάτα, καλόν ἐστιν ἡμᾶς ὧδε εἶναι, καὶ ποιήσωμεν σκηνὰς τρεῖς, μίαν σοὶ καὶ μίαν Μωϋσεῖ καὶ μίαν Ἠλίᾳ, μὴ εἰδὼς ὃ λέγει.*
+
+- **"as they were parting from him"**: the state passes.
+- **"Master, it is good for us to be here; let us make three tents"**: tents are dwellings.
+  - Faith wants to stay on the height and to give the state a house.
+  - *This is the holding of 4:42: the crowds "held him back from going".*
+  - *Thread of the tent (σκηνή):*
+    - "the birds of heaven have dwellings (κατασκηνώσεις), but the Son of Man has nowhere to lay his head" (9:58);
+    - "that they may receive you into the eternal tents (σκηνάς)" (16:9).
+  - A dwelling is not made on the mountain. It is given at the end of the way.
+- **"not knowing what he said"**: faith's speech, without knowing.
+
+### 9:34–35
+
+*ἐγένετο νεφέλη καὶ ἐπεσκίαζεν αὐτούς· ἐφοβήθησαν δὲ ἐν τῷ εἰσελθεῖν αὐτοὺς εἰς τὴν νεφέλην. καὶ φωνὴ ἐγένετο ἐκ τῆς νεφέλης λέγουσα· Οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, αὐτοῦ ἀκούετε.*
+
+- **"a cloud came and overshadowed them"**: a cloud is the letter that covers the glory and holds it (?).
+  - Faith asks for tents; it is given a cloud.
+  - The covering again: the law of veiling (9:45), now as the shelter in which the voice is heard.
+- **"they were afraid as they went into the cloud"**: fear (8:25; 8:35–37; 8:50).
+- **"a voice from the cloud"**: out of the covering, a voice.
+- **"This is my son, the beloved; hear him"** (αὐτοῦ ἀκούετε):
+  - Hearing is the thread that holds everything: hearing and doing (6:47); "he who has ears" (8:8); "see how you hear" (8:18); "those who hear and do" (8:21); wind and water "hear under" (8:25).
+  - The voice does not show; it tells them to hear.
+  - *"The beloved" (ἀγαπητός)* is the adopted Marcionite reading. NA27 has "the chosen" (ἐκλελεγμένος). By their words both continue:
+    - "the beloved" joins the thread of love (6:27–35; 7:42–47);
+    - "the chosen" joins his choosing of the twelve (ἐκλεξάμενος, 6:13).
+  - **Neutral.**
+
+### 9:36 (grey)
+
+*καὶ ἐν τῷ γενέσθαι τὴν φωνὴν εὑρέθη Ἰησοῦς μόνος. καὶ αὐτοὶ ἐσίγησαν καὶ οὐδενὶ ἀπήγγειλαν ἐν ἐκείναις ταῖς ἡμέραις οὐδὲν ὧν ἑώρακαν.*
+
+- **"Jesus was found alone"**: the Law and the Prophets withdraw. What remains is him (9:18: alone at prayer).
+- **"they were silent… in those days"**: the silence ordered in 9:21 is now kept by the three of their own accord.
+
+### 9:37–39 (grey)
+
+*Ἐγένετο δὲ τῇ ἑξῆς ἡμέρᾳ κατελθόντων αὐτῶν ἀπὸ τοῦ ὄρους συνήντησεν αὐτῷ ὄχλος πολύς. καὶ ἰδοὺ ἀνὴρ ἀπὸ τοῦ ὄχλου ἐβόησεν λέγων· Διδάσκαλε, δέομαί σου ἐπιβλέψαι ἐπὶ τὸν υἱόν μου, ὅτι μονογενής μοί ἐστιν, καὶ ἰδοὺ πνεῦμα λαμβάνει αὐτόν, καὶ ἐξαίφνης κράζει, καὶ σπαράσσει αὐτὸν μετὰ ἀφροῦ καὶ μόγις ἀποχωρεῖ ἀπ’ αὐτοῦ συντρῖβον αὐτόν·*
+
+- **"as they came down (κατελθόντων) from the mountain"**:
+  - *κατέρχομαι, the verb of the opening: "he came down (κατῆλθεν) to Capernaum" (4:31). The only two places it occurs.*
+  - The first coming down was from where the word came from; this one is from the mountain of glory.
+  - As in 6:12 → 6:17, ascent is followed by descent, and the descent meets the crowd and the sick.
+- **"look upon my son, for he is my only-begotten"** (μονογενής): the third only one.
+  - The widow's son (7:12), Jairus' daughter (8:42), this son.
+  - The only one left, held by death or by a spirit.
+- **"a spirit takes (λαμβάνει) him"**: taking.
+  - *Against it, the noun of 9:51: ἀνάλημψις, "being taken up" (ἀνα-λαμβάνω).*
+  - The spirit takes the boy; the days of his own being taken up are being filled.
+- **"he cries out"** (κράζει): the cry of falsity (4:33; 8:28).
+- **"it convulses him… and scarcely departs, crushing him"**.
+
+### 9:40–41
+
+*καὶ ἐδεήθην τῶν μαθητῶν σου ἵνα ἐκβάλωσιν αὐτό, καὶ οὐκ ἠδυνήθησαν. ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν· Ὦ γενεὰ ἄπιστος, ἕως πότε ἔσομαι πρὸς ὑμᾶς καὶ ἀνέξομαι ὑμῶν; προσάγαγε ὧδε τὸν υἱόν σου.*
+
+- **"your disciples could not (οὐκ ἠδυνήθησαν)"**:
+  - They were given power (δύναμιν) over all daimons (9:1), and they could not. Power given is not power held.
+  - Of the three who had gone up, Peter (faith) had named him and been silenced. The rest, below, could not.
+- **"O faithless generation"** (ἄπιστος): faith. "Where is your faith?" (8:25); "only believe" (8:50).
+  - The adopted shorter address, without "and perverse", is attested by omission (METHOD §5.3). **Neutral.**
+- **"how long shall I be with you and bear with you?"**: the Divine bearing with the natural.
+- **"bring your son here"**: to him.
+
+### 9:42–43 (grey)
+
+*ἔτι δὲ προσερχομένου αὐτοῦ ἔρρηξεν αὐτὸν τὸ δαιμόνιον καὶ συνεσπάραξεν· ἐπετίμησεν δὲ ὁ Ἰησοῦς τῷ πνεύματι τῷ ἀκαθάρτῳ, καὶ ἰάσατο τὸν παῖδα καὶ ἀπέδωκεν αὐτὸν τῷ πατρὶ αὐτοῦ. ἐξεπλήσσοντο δὲ πάντες ἐπὶ τῇ μεγαλειότητι τοῦ θεοῦ.*
+
+- **"while he was coming, the daimon tore (ἔρρηξεν) him"**: ῥήγνυμι, bursting.
+  - The nets (5:6), the skins (5:37), the house (6:48–49), Legion's bonds (8:29).
+  - As the boy comes near, the falsity tears hardest. The approach is the moment of the worst tearing, as at 4:35, where the daimon threw the man "into the midst".
+- **"Jesus rebuked the unclean spirit"**: rebuking (4:35; 4:41; 8:24; 9:21).
+- **"he healed the child and gave him back (ἀπέδωκεν) to his father"**: the widow's son "he gave (ἔδωκεν) to his mother" (7:15). The only one, given back.
+- **"at the greatness of God"** (μεγαλειότητι): the greatness. *Thread: "who is greater (μείζων)" (9:46); "the least… is great (μέγας)" (9:48).*
+
+### 9:43b–45 (9:45 grey)
+
+*Πάντων δὲ θαυμαζόντων… Θέσθε ὑμεῖς εἰς τὰ ὦτα ὑμῶν τοὺς λόγους τούτους, ὁ γὰρ υἱὸς τοῦ ἀνθρώπου μέλλει παραδίδοσθαι εἰς χεῖρας ἀνθρώπων. οἱ δὲ ἠγνόουν τὸ ῥῆμα τοῦτο, καὶ ἦν παρακεκαλυμμένον ἀπ’ αὐτῶν ἵνα μὴ αἴσθωνται αὐτό, καὶ ἐφοβοῦντο ἐρωτῆσαι αὐτὸν περὶ τοῦ ῥήματος τούτου.*
+
+- **"while all were marvelling"**: amid the greatness, the saying about being handed over.
+- **"put these words into your ears"**: hearing (9:35, "hear him").
+- **"to be handed over into the hands of men"** (παραδίδοσθαι εἰς χεῖρας):
+  - The hand. He took the leper with his hand (5:13), the girl's hand (8:54). Now the Son of Man is handed over into hands.
+  - *Forward:* παραδίδωμι runs through Judas (22:4, 22:6, 22:21–22, 22:48); "must be handed over into the hands of sinful men" (24:7).
+- **"it was veiled (παρακεκαλυμμένον) from them, so that they should not perceive it"**: the veil.
+  - The lamp is not covered (καλύπτει, 8:16); the saying is.
+  - Veiled so that it is not perceived until it can be. *It is lifted at 24:16 → 24:31.*
+- **"they feared to ask"**: fear.
+
+### 9:46–48
+
+*Εἰσῆλθεν δὲ διαλογισμὸς ἐν αὐτοῖς, τὸ τίς ἂν εἴη μείζων αὐτῶν. ὁ δὲ Ἰησοῦς εἰδὼς τὸν διαλογισμὸν τῆς καρδίας αὐτῶν ἐπιλαβόμενος παιδίον ἔστησεν αὐτὸ παρ’ ἑαυτῷ, καὶ εἶπεν αὐτοῖς· Ὃς ἐὰν δέξηται τοῦτο τὸ παιδίον ἐπὶ τῷ ὀνόματί μου ἐμὲ δέχεται, καὶ ὃς ἂν ἐμὲ δέξηται δέχεται τὸν ἀποστείλαντά με· ὁ γὰρ μικρότερος ἐν πᾶσιν ὑμῖν ὑπάρχων οὗτός ἐστιν μέγας.*
+
+- **"a reasoning (διαλογισμός) entered into them"**: "entered" (εἰσῆλθεν) is the verb of the daimons entering the man (8:30) and the swine (8:33).
+  - Reasoning is that of the scribes (5:21–22) and of the sabbath (6:8).
+  - The question is "who is greater". Straight after the saying of the handing-over, the own's question enters the disciples.
+- **"knowing the reasoning of their heart"**: he knew their reasonings (5:22; 6:8).
+- **"taking hold (ἐπιλαβόμενος) of a child, he stood (ἔστησεν) it beside himself"**:
+  - The child is innocence (?).
+  - He takes the child, as he took the girl's hand (8:54), and makes it stand: "stand into the midst" (6:8).
+- **"whoever receives (δέξηται) this child in my name receives me, and… the one who sent me"**:
+  - Reception (4:24; 8:40; 9:5; 9:11) as a chain: child → him → the one who sent.
+  - "Sent" (ἀποστείλαντα) is the sending of 4:43 and 9:2.
+- **"the lesser among you all, this one is great"**: "the lesser (μικρότερος) in the kingdom is greater (μείζων) than he" (7:28). Greatness is measured downward.
+
+### Test: 9:49–50 (U?)
+
+*Ἀποκριθεὶς δὲ Ἰωάννης εἶπεν· Ἐπιστάτα, εἴδομέν τινα ἐν τῷ ὀνόματί σου ἐκβάλλοντα δαιμόνια, καὶ ἐκωλύομεν αὐτὸν ὅτι οὐκ ἀκολουθεῖ μεθ’ ἡμῶν. εἶπεν δὲ πρὸς αὐτὸν ὁ Ἰησοῦς· Μὴ κωλύετε, ὃς γὰρ οὐκ ἔστιν καθ’ ὑμῶν, ὑπὲρ ὑμῶν ἐστιν.*
+
+- **"John"**: the goods of charity, works.
+- **"in your name"**: *the words of 9:48, "in my name".*
+- **"casting out (ἐκβάλλοντα) daimons"**: *the verb of 9:40. The disciples could not cast out; someone else, in his name, does.*
+- **"we forbade (ἐκωλύομεν) him, because he does not follow with us"**:
+  - κωλύω: "do not withhold (μὴ κωλύσῃς) the tunic" (6:29).
+  - *Forward:* "do not hinder (μὴ κωλύετε) them" (18:16, the children, the same command); "you hindered (ἐκωλύσατε) those entering" (11:52).
+  - Following (9:23) is claimed for "us".
+- **"Do not forbid; whoever is not against you is for you"**.
+
+**Verdict: continues.**
+- Its words take up 9:40 (casting out), 9:48 (in my name) and 9:23 (following), and they reach 18:16 with the same command.
+- The inner movement is the one of 9:46–48, carried one step further. The own asks who is greater inside the group; then it claims the name and the power for the group. 9:54 is its third step: charity and works call down fire on those who do not receive.
+- 9:48 → 9:51 runs without it, so it is not needed to close a gap.
+
+### 9:51
+
+*Ἐγένετο δὲ ἐν τῷ συμπληροῦσθαι τὰς ἡμέρας τῆς ἀναλήμψεως αὐτοῦ καὶ αὐτὸς τὸ πρόσωπον ἐστήρισεν τοῦ πορεύεσθαι εἰς Ἰερουσαλήμ,*
+
+- **"as the days were being filled"** (συμπληροῦσθαι):
+  - *συμπληρόω, the verb of the boat "being filled" (συνεπληροῦντο) in the storm (8:23). The only two places.* There the boat filled with water and they were in danger. Here the days fill.
+  - The filling thread: the boats filled to sinking (5:7); the measure pressed down and running over (6:38).
+- **"of his taking up"** (ἀναλήμψεως): ἀνα-λαμβάνω, "to take up".
+  - *The text names the ascent with this one word.* It is his, and it is a being taken up.
+  - The spirit "takes" (λαμβάνει) the boy (9:39); he "took" (λαβών) the bread (9:16), and "taking hold of" (ἐπιλαβόμενος) the child (9:47) he made it stand.
+  - What is ascending, in the text's own word, is he, and the ascent is a being taken up, not a climbing.
+  - *The taking up itself is not narrated in the printed text: 24:48–53 is unprinted, and the text ends at 24:47. To be followed at chapter 22.*
+- **"he set firm (ἐστήρισεν) his face"**: the face that changed in prayer (9:29). It is set firm toward the goal.
+  - *Thread of στηρίζω:* "a great chasm has been fixed (ἐστήρικται)" (16:26); "strengthen (στήρισον) your brothers" (22:32).
+- **"to go (πορεύεσθαι) to Jerusalem"**: the road.
+  - First named at Nazareth (ἐπορεύετο, 4:30). The crowds held him back "from going" (τοῦ μὴ πορεύεσθαι, 4:42): *the same infinitive, now with its goal.*
+  - Jerusalem, the church as to its doctrine, had until now appeared only as a place people came *from* (5:17; 6:17).
+
+### 9:52–53 (9:53 grey)
+
+*καὶ ἀπέστειλεν ἀγγέλους πρὸ προσώπου αὐτοῦ. καὶ πορευθέντες εἰσῆλθον εἰς κώμην Σαμαριτῶν, ὡς ἑτοιμάσαι αὐτῷ· καὶ οὐκ ἐδέξαντο αὐτόν, ὅτι τὸ πρόσωπον αὐτοῦ ἦν πορευόμενον εἰς Ἰερουσαλήμ.*
+
+- **"he sent messengers before his face… to prepare for him"**:
+  - *The words of 7:27: "I send my messenger before your face (πρὸ προσώπου σου), who will prepare your way".* What was said of John is now done by him.
+  - The messengers prepare (ἑτοιμάζω). *Forward: "prepare the Passover" (22:8–12); "Lord, I am ready (ἕτοιμος)" (22:33).*
+- **"a village of the Samaritans"**: Samaria (?). *Forward:* the Samaritan who shows mercy (10:33, in the unprinted 10:29–37); the Samaritan who returns (17:16).
+- **"they did not receive (ἐδέξαντο) him, because his face was going to Jerusalem"**: reception refused.
+  - Nazareth would not receive him because he would not be theirs (4:24). Samaria will not receive him because of where he is going.
+  - The direction of the face is itself what is refused.
+
+### 9:54–56 (9:56 grey)
+
+*ἰδόντες δὲ οἱ μαθηταὶ Ἰάκωβος καὶ Ἰωάννης εἶπαν· Κύριε, θέλεις εἴπωμεν πῦρ καταβῆναι ἀπὸ τοῦ οὐρανοῦ καὶ ἀναλῶσαι αὐτούς; στραφεὶς δὲ ἐπετίμησεν αὐτοῖς. καὶ ἐπορεύθησαν εἰς ἑτέραν κώμην.*
+
+- **"James and John"**: charity and works.
+- **"fire to come down from heaven"** (καταβῆναι): down.
+  - Fire is love; in its opposite, burning anger.
+  - Charity, refused, turns to anger and wants something to come down on the one who refused.
+  - 9:5 had given the rule: whoever does not receive, shake off the dust. One is not to burn them.
+- **"and consume (ἀναλῶσαι) them"**: *ἀναλίσκω, the woman who "had spent" (προσαναλώσασα) her whole living on physicians (8:43). The only two places.* What consumes, consumes the one who uses it.
+- **"turning, he rebuked them"**:
+  - Turning: he turned to the crowd (7:9), to the woman (7:44).
+  - The rebuke: daimons, wind, fever, Peter's naming (9:21), and now charity's anger.
+  - Everything he rebukes is something that must not speak or act yet. When it is good turned to anger, it is rebuked like a falsity.
+- **"they went to another village"**: the road goes on.
+
+### 9:57–58
+
+*Καὶ πορευομένων αὐτῶν ἐν τῇ ὁδῷ εἶπέν τις πρὸς αὐτόν· Ἀκολουθήσω σοι ὅπου ἐὰν ἀπέρχῃ. καὶ εἶπεν αὐτῷ ὁ Ἰησοῦς· Αἱ ἀλώπεκες φωλεοὺς ἔχουσιν καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνώσεις, ὁ δὲ υἱὸς τοῦ ἀνθρώπου οὐκ ἔχει ποῦ τὴν κεφαλὴν κλίνῃ.*
+
+- **"as they were going on the way"** (ἐν τῇ ὁδῷ): the first time the text puts them "on the way" with Jerusalem as its end.
+  - The way: John prepared it (7:27); the seed beside it was trodden (8:5); nothing was to be taken for it (9:3).
+- **"I will follow you wherever you go"**: the own's offer.
+- **"foxes have holes, and the birds of heaven have dwellings"**:
+  - Foxes are cunning (?).
+  - The birds of heaven ate the seed by the way (8:5): thoughts that take the word away.
+  - Both have dwellings (κατασκηνώσεις, the word of Peter's tents, 9:33).
+- **"the Son of Man has nowhere to lay (κλίνῃ) his head"**:
+  - *The κλίνω family:* the bed (5:18; 8:16), the day declining and the crowd reclining (9:12–15).
+  - On the way, the Divine has no place to lay his head.
+  - *Forward: "the day has already declined (κέκλικεν)… stay with us… and when he had reclined (κατακλιθῆναι) with them" (24:29–30).* At the end of the way there is a place to recline.
+  - The head: John's was cut off (9:9); the host did not anoint his (7:46).
+
+### 9:59–60
+
+*εἶπεν δὲ πρὸς ἕτερον· Ἀκολούθει μοι. ὁ δὲ εἶπεν· Κύριε, ἐπίτρεψόν μοι ἀπελθόντι πρῶτον θάψαι τὸν πατέρα μου. εἶπεν δὲ αὐτῷ· Ἄφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς, σὺ δὲ ἀπελθὼν διάγγελλε τὴν βασιλείαν τοῦ θεοῦ.*
+
+- **"permit me (ἐπίτρεψόν) first"**: permitting. He permitted the daimons to go into the swine (8:32). Here it is asked for the own's "first".
+- **"to bury my father"**: the father is the natural origin. Burying is caring for what is dead in it.
+- **"Let (ἄφες) the dead bury their own dead"**:
+  - ἀφίημι: sins are let go (5:20–24); Levi left all (5:28); "she loved much, her sins are let go" (7:47).
+  - The dead are left to the dead: the tombs (8:27); "she is not dead" (8:52).
+- **"you go and announce (διάγγελλε) the kingdom"**: proclaiming, as the man from Legion did (8:39) and the twelve (9:2).
+
+### 9:61–62
+
+*Ἀκολουθήσω σοι, κύριε· πρῶτον δὲ ἐπίτρεψόν μοι ἀποτάξασθαι τοῖς εἰς τὸν οἶκόν μου. εἶπεν δὲ πρὸς αὐτὸν ὁ Ἰησοῦς· Οὐδεὶς ἐπιβαλὼν τὴν χεῖρα ἐπ’ ἄροτρον καὶ βλέπων εἰς τὰ ὀπίσω εὔθετός ἐστιν τῇ βασιλείᾳ τοῦ θεοῦ.*
+
+- **"first, permit me to say farewell to those in my house"**: the house.
+  - The man from Legion was sent back to his house (8:39). This one asks to go back to his.
+  - What restores one is sent home; what wants to follow cannot turn home "first".
+- **"putting his hand to the plough"**: the hand (power to act); the plough is the working of the earth so that it can receive seed (the good earth, 8:8).
+- **"and looking (βλέπων) at the things behind (τὰ ὀπίσω)"**:
+  - *Behind:* "come behind me" (9:23) against "the things behind".
+  - *Forward:* "let him not turn back to the things behind (εἰς τὰ ὀπίσω)… remember Lot's wife" (17:31–32).
+  - Looking: "see how you hear" (8:18).
+- **"is fit (εὔθετος, 'well placed') for the kingdom"**.
+
+### What came out of the reading of chapter 7
+
+**The ascent is named.**
+- At 9:51 the text names its own movement with one word: the days of "his taking up" (ἀναλήμψεως) are being filled. He sets his face to go to Jerusalem.
+- In the text's own word, what ascends is he, and the ascent is a being taken up (ἀνα-λαμβάνω), not a climbing.
+- The days "fill" with the verb of the boat that filled in the storm (8:23).
+- The going (πορεύεσθαι) is the infinitive the crowds held him back from at 4:42, now given its goal.
+
+**The first going up comes before it.**
+- At 9:28, after eight days, he goes up (ἀνέβη, the first time the text says this of him) into the mountain to pray, with faith, works and charity.
+- In prayer his face becomes other, and his garment flashes white.
+- Two men speak with him in glory; the same two men in flashing clothing stand at the tomb (24:4).
+- Faith, heavy with sleep, stays awake and sees the glory. It wants to build tents and hold the state. It is given a cloud, and from the cloud a voice says "hear him". He is found alone.
+- Then they come down (κατελθόντων), the verb of 4:31.
+- Going up is to pray, and it is followed by a coming down to the sick.
+
+**How one follows.**
+- Coming behind him (ὀπίσω), denying the self (the own named for the first time as something to refuse), taking up (αἴρω) the cross daily.
+- Whoever wills to save his soul loses it (the pair of 6:9 turned on the one who asks).
+- Not looking at the things behind (9:62). Letting the dead bury the dead. Not turning home "first".
+- The Son of Man has nowhere to lay his head on the way. The tents and dwellings of 9:33 and 9:58 come only at the end (16:9; 24:29–30).
+
+**Faith's knowing is silenced as falsity's was.** Peter names the Anointed One, and is rebuked and ordered to silence, with the acts and words of 4:41. The saying of the handing-over is veiled so that it is not perceived (9:45). This led to revising 8:9–10: the text veils on purpose, and unveils at 24:16 → 24:31.
+
+**Necessity.** "The Son of Man must suffer, be rejected by the elders, chief priests and scribes, be killed, and after three days be raised" (9:22).
+- The first time the rising verb is said of him in the future.
+- The first time the heads of the church are named, as the ones who reject.
+- Herod and the crowds think of rising as the past returning (9:7–8; 9:19). He speaks of it as passing through death.
+
+**The own enters the disciples, three times, after each saying about the passion.**
+- Who is greater (9:46).
+- (In the test passage 9:49–50) the name and the power claimed for "us".
+- Fire down on the village that did not receive (9:54).
+- Each time the answer is the downward measure:
+  - a child made to stand, the least is great;
+  - "do not forbid";
+  - a rebuke.
+
+**Below the mountain.** The disciples, given power, cannot cast out. The daimon tears the boy as he comes near; he is healed and given back. The third only one (7:12; 8:42; 9:38).
+
+**What is refused.** Samaria does not receive him because his face is going to Jerusalem: the direction itself is refused. Charity and works, refused, want fire to come down; that is rebuked.
+
+### Threads, carried forward and added
+
+- the taking up (ἀνάλημψις): to be followed to the end;
+- the face (πρόσωπον): changed, set, going;
+- going up (ἀναβαίνω, → 18:10, 19:4) and coming down (κατέρχομαι, 4:31 / 9:37);
+- the mountain;
+- prayer and being alone;
+- glory (δόξα, → 24:26);
+- the two men in flashing clothing (→ 24:4);
+- Moses and Elijah (→ 16:29–31);
+- the cloud and the voice;
+- hearing;
+- sleep and waking;
+- tents and dwellings (σκηνή, → 16:9);
+- the κλίνω family (→ 24:29–30);
+- the head;
+- behind (ὀπίσω: following, against looking back, → 17:31–32);
+- denial of the self (→ 12:9; 22:34);
+- the cross (→ 23:21–23, 23:33, 24:7, 24:20);
+- αἴρω (the cross taken up);
+- "must" (δεῖ, → 24:7, 24:26);
+- handing over into hands (→ 22; 24:7);
+- the veil (→ 24:16, 24:31);
+- the rebuke (now of faith's naming and of charity's anger);
+- greatness and the least;
+- the child (→ 18:16);
+- reception as a chain (child, him, the sender);
+- κωλύω (→ 11:52; 18:16);
+- the third only one;
+- tearing (ῥήγνυμι);
+- consuming (ἀναλίσκω);
+- days as states;
+- filling (συμπληρόω, 8:23 / 9:51);
+- the way;
+- the house left;
+- the dead left to the dead;
+- the plough;
+- Samaria (→ 10:33 unprinted, 17:16);
+- preparing (ἑτοιμάζω, → 22:8–12, 22:33);
+- setting firm (στηρίζω, → 16:26, 22:32).
