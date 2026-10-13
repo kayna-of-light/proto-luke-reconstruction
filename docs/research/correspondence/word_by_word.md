@@ -3141,3 +3141,312 @@ The earlier verdicts were drawn from the letter.
 - the adversary (→ 18:3);
 - the prison (→ 21:12; 22:33; 23:19);
 - giving back the last coin (→ 19:8).
+
+---
+
+## Chapter 11
+
+*13:10–28. Grey: 13:10–13, 13:17–18, 13:23–24. Not printed, and tested at their places: 13:1–9 (A−), before 13:10; 13:22 (U?); 13:29–35 (A−) and 14:1–11 (U?), between 13:28 and 14:12. Adopted Marcionite wordings at 13:28: "all the righteous" for "Abraham and Isaac and Jacob and all the prophets", and "held" for "thrown out".*
+
+### Test: 13:1–9 (A−)
+
+*Παρῆσαν δέ τινες… ἀπαγγέλλοντες αὐτῷ περὶ τῶν Γαλιλαίων ὧν τὸ αἷμα Πιλᾶτος ἔμιξεν μετὰ τῶν θυσιῶν αὐτῶν… Δοκεῖτε ὅτι οἱ Γαλιλαῖοι οὗτοι ἁμαρτωλοὶ… ὅτι ταῦτα πεπόνθασιν; οὐχί, λέγω ὑμῖν, ἀλλ’ ἐὰν μὴ μετανοῆτε πάντες ὁμοίως ἀπολεῖσθε. ἢ ἐκεῖνοι οἱ δεκαοκτὼ ἐφ’ οὓς ἔπεσεν ὁ πύργος ἐν τῷ Σιλωὰμ καὶ ἀπέκτεινεν αὐτούς, δοκεῖτε ὅτι αὐτοὶ ὀφειλέται ἐγένοντο… Συκῆν εἶχέν τις πεφυτευμένην ἐν τῷ ἀμπελῶνι αὐτοῦ, καὶ ἦλθεν ζητῶν καρπὸν ἐν αὐτῇ καὶ οὐχ εὗρεν… Ἰδοὺ τρία ἔτη… ἔκκοψον αὐτήν· ἱνατί καὶ τὴν γῆν καταργεῖ; … Κύριε, ἄφες αὐτὴν καὶ τοῦτο τὸ ἔτος, ἕως ὅτου σκάψω περὶ αὐτὴν καὶ βάλω κόπρια…*
+
+- **"the Galileans whose blood Pilate mixed with their sacrifices"**:
+  - Blood (8:43–44; 11:50–51, test; 22:20).
+  - Pilate, named in the opening (3:1) and at the end (23:1–24).
+- **"do you think they were sinners… because they suffered (πεπόνθασιν) these things?"**:
+  - Suffering is not proof of sin.
+  - "The Son of Man must suffer (παθεῖν)" (9:22). *Forward:* 22:15; 24:26.
+- **"unless you repent (μετανοῆτε), you will all likewise perish"**: repenting (11:32, test). *Forward:* 15:7, 15:10; 17:3–4; 24:47. Perishing (9:24; 8:24).
+- **"those eighteen (δεκαοκτώ) on whom the tower fell (ἔπεσεν)"**:
+  - *Eighteen: the bent woman of the printed 13:11, 13:16 has been bound "eighteen years". The only other places the number occurs.*
+  - The tower fell and killed eighteen. She, bound eighteen years, is straightened up.
+  - Falling: the house that fell (6:49); house on house (11:17).
+- **"debtors (ὀφειλέται)"**: owing (7:41; 11:4).
+- **"a fig tree planted in his vineyard; he came seeking fruit and found none"**:
+  - Fruit (6:43–44; 8:8; 12:17).
+  - *Forward:* "look at the fig tree and all the trees" (21:29); Zacchaeus' sycamore-fig (συκομορέα, 19:4).
+- **"three years"**: three, the full period (9:22).
+- **"cut it down; why should it use up the earth?"**: the earth (8:8).
+- **"Lord, let it be (ἄφες) this year too, until I dig (σκάψω) around it and put on manure (κόπρια)"**:
+  - ἀφίημι: letting go, here letting be.
+  - Digging: the builder "dug (ἔσκαψεν) and went deep" (6:48).
+  - Manure: *the salt fit "neither for the earth nor for the dunghill (κοπρίαν)" (14:35, test).*
+
+**Verdict: continues.**
+- Every word is in a thread.
+- Its "eighteen" and "fell" lie directly against the printed 13:11–16: eighteen killed by a fall, and a woman bound eighteen years, made straight.
+- 12:59 → 13:10 runs (a new scene, in a synagogue), so it does not close a gap.
+
+### 13:10–11 (grey)
+
+*Ἦν δὲ διδάσκων ἐν μιᾷ τῶν συναγωγῶν ἐν τοῖς σάββασιν. καὶ ἰδοὺ γυνὴ πνεῦμα ἔχουσα ἀσθενείας ἔτη δεκαοκτώ, καὶ ἦν συγκύπτουσα καὶ μὴ δυναμένη ἀνακύψαι εἰς τὸ παντελές.*
+
+- **"teaching in one of the synagogues on the sabbaths"**: the assembly (4:33; 6:6).
+- **"a woman having a spirit of weakness eighteen years"**: having (8:18; 8:27).
+- **"bent together (συγκύπτουσα), and unable to straighten up (ἀνακύψαι) at all"**:
+  - *ἀνακύπτω, "bend up, straighten up": the only other place is 21:28: "straighten up (ἀνακύψατε) and lift up your heads, because your redemption draws near".*
+  - The woman who cannot straighten up, and the command at the end to straighten up.
+  - Bent toward the earth: the natural turned in on itself, unable to look up (?).
+
+### 13:12–13 (grey)
+
+*ἰδὼν δὲ αὐτὴν ὁ Ἰησοῦς προσεφώνησεν καὶ εἶπεν αὐτῇ· Γύναι, ἀπολέλυσαι τῆς ἀσθενείας σου, καὶ ἐπέθηκεν αὐτῇ τὰς χεῖρας· καὶ παραχρῆμα ἀνωρθώθη, καὶ ἐδόξαζεν τὸν θεόν.*
+
+- **"he called to her"**: calling (6:13; 8:54).
+- **"Woman, you are loosed (ἀπολέλυσαι) from your weakness"**:
+  - *The λύω family, loosing:*
+    - "release (ἀπολύετε), and you will be released" (6:37);
+    - the ox loosed (λύει, 13:15); "must she not be loosed (λυθῆναι) from this bond" (13:16).
+  - *Forward:* "your redemption (ἀπολύτρωσις) draws near" (21:28); Pilate wills to release (ἀπολῦσαι) him (23:16–22); "we hoped he was the one to redeem (λυτροῦσθαι) Israel" (24:21).
+  - The bent woman is the first one "loosed" in this sense. The word runs to the redemption that "draws near" at the end.
+- **"he laid his hands on her"**: the hand (5:13; 8:54).
+- **"and at once she was made straight (ἀνωρθώθη)"**:
+  - ἀν-ορθόω, "set upright again": *"you answered rightly (ὀρθῶς); do this and you will live" (10:28).*
+  - Straightness given back. She stands up straight, not by her own power ("unable").
+- **"and she glorified God"**: glory (5:25–26; 7:16). *Forward:* the Samaritan who returns "glorifying God" (17:15); the blind man (18:43).
+
+### 13:14–16
+
+*ἀποκριθεὶς δὲ ὁ ἀρχισυνάγωγος, ἀγανακτῶν ὅτι τῷ σαββάτῳ ἐθεράπευσεν ὁ Ἰησοῦς, ἔλεγεν τῷ ὄχλῳ ὅτι Ἓξ ἡμέραι εἰσὶν ἐν αἷς δεῖ ἐργάζεσθαι· ἐν αὐταῖς οὖν ἐρχόμενοι θεραπεύεσθε καὶ μὴ τῇ ἡμέρᾳ τοῦ σαββάτου. ἀπεκρίθη δὲ αὐτῷ ὁ κύριος καὶ εἶπεν· Ὑποκριταί, ἕκαστος ὑμῶν τῷ σαββάτῳ οὐ λύει τὸν βοῦν αὐτοῦ ἢ τὸν ὄνον ἀπὸ τῆς φάτνης καὶ ἀπαγαγὼν ποτίζει; ταύτην δὲ θυγατέρα Ἀβραὰμ οὖσαν, ἣν ἔδησεν ὁ Σατανᾶς ἰδοὺ δέκα καὶ ὀκτὼ ἔτη, οὐκ ἔδει λυθῆναι ἀπὸ τοῦ δεσμοῦ τούτου τῇ ἡμέρᾳ τοῦ σαββάτου;*
+
+- **"the ruler of the synagogue"**: the rulers (3:1). Jairus, a ruler of a synagogue, fell at his feet (8:41). This one is indignant.
+- **"six days in which one must (δεῖ) work"**:
+  - The ruler's "must", against his "must" (9:22) and against the "must" (ἔδει) of 13:16.
+  - The six days are the days of labour; the sabbath is rest (?).
+- **"Hypocrites"**: 12:1, 12:56.
+- **"does not each loose (λύει) his ox or donkey from the manger and lead it away to water it?"**: loosing, and watering. The animal is led from the manger to water.
+- **"this daughter of Abraham"**:
+  - Daughter: "Daughter, your faith has saved you" (8:48); Jairus' daughter (8:42).
+  - Abraham. *Forward:* "son of Abraham" (19:9); Abraham's bosom (16:22–30).
+- **"whom Satan bound (ἔδησεν)… must (ἔδει) she not be loosed (λυθῆναι) from this bond (δεσμοῦ)?"**:
+  - *The bond: Legion "was bound with chains… and bursting the bonds (δεσμά)" (8:29). The only other place δεσμός occurs.*
+  - Legion burst outward bonds by the daimon's force. She is loosed from Satan's bond by the word.
+  - "Must" (ἔδει): *the necessity of the passion (9:22; 24:7, 24:26) is here a necessity of loosing.*
+
+### 13:17–19 (13:17–18 grey)
+
+*καὶ ταῦτα λέγοντος αὐτοῦ κατῃσχύνοντο πάντες οἱ ἀντικείμενοι αὐτῷ, καὶ πᾶς ὁ ὄχλος ἔχαιρεν ἐπὶ πᾶσιν τοῖς ἐνδόξοις τοῖς γινομένοις ὑπ’ αὐτοῦ. Ἔλεγεν οὖν· Τίνι ὁμοία ἐστὶν ἡ βασιλεία τοῦ θεοῦ, καὶ τίνι ὁμοιώσω αὐτήν; ὁμοία ἐστὶν κόκκῳ σινάπεως, ὃν λαβὼν ἄνθρωπος ἔβαλεν εἰς κῆπον ἑαυτοῦ, καὶ ηὔξησεν καὶ ἐγένετο εἰς δένδρον, καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατεσκήνωσεν ἐν τοῖς κλάδοις αὐτοῦ.*
+
+- **"all who opposed him were put to shame"**: shame (9:26). *Forward:* "with shame (αἰσχύνης) to take the last place" (14:9, test).
+- **"the crowd rejoiced at the glorious things"**: joy (10:17, 10:21).
+- **"a grain of mustard seed, which a man took and cast (ἔβαλεν) into his own garden"**:
+  - The seed (8:5–8). Casting: "I came to cast (βαλεῖν) fire on the earth" (12:49).
+  - The garden: a place of growth inside one's own (ἑαυτοῦ) ground.
+- **"and it grew and became a tree"**:
+  - *Growth upward, from the smallest thing.* The seed in the good earth grew (φυέν) and bore fruit (8:8).
+  - The tree: known by its fruit (6:43–44). *Forward:* "the fig tree and all the trees" (21:29).
+- **"and the birds of heaven dwelt (κατεσκήνωσεν) in its branches"**:
+  - *The birds of heaven ate the seed by the way (8:5).* "The birds of heaven have dwellings (κατασκηνώσεις), but the Son of Man has nowhere to lay his head" (9:58). Peter wanted to make dwellings (σκηνάς) on the mountain (9:33).
+  - The birds that took the seed away now dwell in what the seed has become. The thoughts that carried off the word are housed in the tree grown from it.
+
+### 13:20–21
+
+*Τίνι ὁμοιώσω τὴν βασιλείαν τοῦ θεοῦ; ὁμοία ἐστὶν ζύμῃ, ἣν λαβοῦσα γυνὴ ἐνέκρυψεν εἰς ἀλεύρου σάτα τρία ἕως οὗ ἐζυμώθη ὅλον.*
+
+- **"leaven, which a woman took and hid (ἐνέκρυψεν)"**:
+  - The leaven of the Pharisees (12:1); here, the kingdom as leaven.
+  - Hidden: the law of veiling (8:17; 10:21; 12:2). The kingdom is hidden, and works until the whole is changed.
+- **"in three measures of flour, until the whole was leavened"**: three (11:5, three loaves); the measure (6:38). The whole (ὅλον: 10:27 "with the whole heart").
+
+### Test: 13:22 (U?)
+
+*Καὶ διεπορεύετο κατὰ πόλεις καὶ κώμας διδάσκων καὶ πορείαν ποιούμενος εἰς Ἱεροσόλυμα.*
+
+- **"he went through (διεπορεύετο) cities and villages"**: through-going (8:1; 9:6).
+- **"teaching, and making his journey (πορείαν) to Jerusalem"**: the road and its goal, restated (9:51).
+
+**Verdict: continues.** It marks the road at its middle. 13:21 → 13:23 runs, so it does not close a gap.
+
+*An observation to carry forward. In the printed text, after 9:51–53, the road is named with Jerusalem as its goal only at 17:11 ("as he was going to Jerusalem") and 19:11 ("because he was near Jerusalem"). The other places where NA27 names Jerusalem on the road are not printed: 13:22, 13:33–34, 18:31, 19:28, and 19:41 (in 19:29–46).*
+
+### 13:23–24 (grey)
+
+*Κύριε, εἰ ὀλίγοι οἱ σῳζόμενοι; … Ἀγωνίζεσθε εἰσελθεῖν διὰ τῆς στενῆς θύρας, ὅτι πολλοί, λέγω ὑμῖν, ζητήσουσιν εἰσελθεῖν καὶ οὐκ ἰσχύσουσιν,*
+
+- **"are those being saved few?"**: saving (6:9; 7:50; 8:48, 8:50; 9:24).
+- **"strive (ἀγωνίζεσθε) to enter (εἰσελθεῖν) through the narrow door (θύρας)"**:
+  - Entering: "you did not enter, and you hindered those entering" (11:52); "the light for those coming in" (11:33).
+  - The door: 11:7 (shut, with the one inside); 12:36 (opened to the lord who knocks).
+  - Narrow: what the own cannot pass through with its possessions (?).
+- **"many will seek to enter and will not have the strength (ἰσχύσουσιν)"**:
+  - Seeking (11:9: "seek, and you will find").
+  - *Strength:* the strong man (11:21–22); "love with your whole strength" (10:27); the woman who "had no strength" to be healed (8:43).
+  - Many seek with their own strength, and it is not enough.
+
+### 13:25
+
+*ἀφ’ οὗ ἂν ἐγερθῇ ὁ οἰκοδεσπότης καὶ ἀποκλείσῃ τὴν θύραν, καὶ ἄρξησθε ἔξω ἑστάναι καὶ κρούειν τὴν θύραν λέγοντες· Κύριε, ἄνοιξον ἡμῖν· καὶ ἀποκριθεὶς ἐρεῖ ὑμῖν· Οὐκ οἶδα ὑμᾶς πόθεν ἐστέ.*
+
+- **"once the master of the house has risen (ἐγερθῇ) and shut the door"**:
+  - *The parable of 11:5–8, reversed.* There, the one inside, behind a shut door, was raised (ἐγερθείς) to give. Here the master rises to shut.
+  - The master of the house (12:39).
+- **"you begin to stand outside (ἔξω ἑστάναι)"**:
+  - The mother and brothers "stand outside" (8:20). Nazareth cast him "outside" (4:29).
+  - Now those who claimed him stand outside.
+- **"and to knock at the door, saying, Lord, open to us"**:
+  - "Knock, and it will be opened" (11:9–10). The lord knocks, and the watchful open (12:36).
+  - Here the knocking comes after the door is shut.
+- **"I do not know you, where you are from (πόθεν)"**:
+  - *Origin.* Nazareth claimed him by origin, "where he had been brought up" (4:16), "your fatherland" (4:23–24).
+  - Here origin is not recognized. *Forward:* the chief priests answer that they do not know "where from" (πόθεν) John's baptism was (20:7).
+
+### 13:26–27
+
+*τότε ἄρξεσθε λέγειν· Ἐφάγομεν ἐνώπιόν σου καὶ ἐπίομεν, καὶ ἐν ταῖς πλατείαις ἡμῶν ἐδίδαξας· καὶ ἐρεῖ λέγων ὑμῖν· Οὐκ οἶδα ὑμᾶς πόθεν ἐστέ· ἀπόστητε ἀπ’ ἐμοῦ, πάντες ἐργάται ἀδικίας.*
+
+- **"we ate and drank before you, and you taught in our streets"**:
+  - They claim him by nearness: eating with him (5:30), his teaching in "our" streets. "Our" is the own's claim.
+  - The streets: the seventy go out into the streets of the city that does not receive (10:10). *Forward: the poor are brought in from the streets (14:21).*
+- **"depart (ἀπόστητε) from me"**:
+  - ἀφίστημι: those on the rock "stand away (ἀφίστανται) in time of temptation" (8:13, test).
+  - Simon said "go out from me" (5:8). Here he says "depart from me".
+- **"all workers (ἐργάται) of unrighteousness"**: the workers of the harvest (10:2, 10:7). *Forward:* "the steward of unrighteousness" (16:8); "the mammon of unrighteousness" (16:9).
+
+### 13:28
+
+*ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων, ὅταν ὄψησθε πάντας τοὺς δικαίους ἐν τῇ βασιλείᾳ τοῦ θεοῦ, ὑμᾶς δὲ κρατουμένους ἔξω.*
+
+- **"weeping (κλαυθμός)"**: "blessed who weep now" (6:21); "do not weep" (7:13; 8:52). The weeping that comes too late.
+- **"when you see all the righteous in the kingdom"**:
+  - The adopted Marcionite reading. "All the righteous" joins the printed 14:14, "the resurrection of the righteous".
+  - NA27's "Abraham and Isaac and Jacob and all the prophets" would join 16:23, the rich man who "sees Abraham from afar".
+  - **Neutral.**
+- **"and yourselves held (κρατουμένους) outside"**:
+  - The adopted Marcionite reading, for NA27's "thrown out".
+  - κρατέω occurs in the printed text only at 8:54 ("taking hold of her hand"), here, and 24:16 ("their eyes were held so that they did not recognize him").
+  - "Held outside" joins the held eyes of 24:16. NA27's "thrown out" joins the casting out of 4:29.
+  - **Neutral.**
+
+### Test: 13:29–35 (A−)
+
+*καὶ ἥξουσιν ἀπὸ ἀνατολῶν καὶ δυσμῶν καὶ ἀπὸ βορρᾶ καὶ νότου καὶ ἀνακλιθήσονται ἐν τῇ βασιλείᾳ τοῦ θεοῦ. καὶ ἰδοὺ εἰσὶν ἔσχατοι οἳ ἔσονται πρῶτοι, καὶ εἰσὶν πρῶτοι οἳ ἔσονται ἔσχατοι. Ἐν αὐτῇ τῇ ὥρᾳ προσῆλθάν τινες Φαρισαῖοι λέγοντες αὐτῷ· Ἔξελθε καὶ πορεύου ἐντεῦθεν, ὅτι Ἡρῴδης θέλει σε ἀποκτεῖναι. καὶ εἶπεν αὐτοῖς· Πορευθέντες εἴπατε τῇ ἀλώπεκι ταύτῃ· Ἰδοὺ ἐκβάλλω δαιμόνια καὶ ἰάσεις ἀποτελῶ σήμερον καὶ αὔριον, καὶ τῇ τρίτῃ τελειοῦμαι. πλὴν δεῖ με σήμερον καὶ αὔριον καὶ τῇ ἐχομένῃ πορεύεσθαι, ὅτι οὐκ ἐνδέχεται προφήτην ἀπολέσθαι ἔξω Ἰερουσαλήμ. Ἰερουσαλὴμ Ἰερουσαλήμ, ἡ ἀποκτείνουσα τοὺς προφήτας καὶ λιθοβολοῦσα τοὺς ἀπεσταλμένους πρὸς αὐτήν— ποσάκις ἠθέλησα ἐπισυνάξαι τὰ τέκνα σου ὃν τρόπον ὄρνις τὴν ἑαυτῆς νοσσιὰν ὑπὸ τὰς πτέρυγας, καὶ οὐκ ἠθελήσατε. ἰδοὺ ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν. λέγω δὲ ὑμῖν, οὐ μὴ ἴδητέ με ἕως ἥξει ὅτε εἴπητε· Εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου.*
+
+- **"they will come from east and west… and recline (ἀνακλιθήσονται) in the kingdom"**:
+  - *The κλίνω family:* the lord "will make them recline (ἀνακλινεῖ)" (12:37); 9:14–15; 24:30.
+  - Against "held outside" (13:28): others come in and recline.
+- **"the last (ἔσχατοι) will be first (πρῶτοι)"**:
+  - "First": the own's first (9:59–61), the first seat (11:43).
+  - *Forward:* "the last place (ἔσχατον τόπον)" (14:9–10, test).
+- **"Herod wants to kill you… tell that fox (ἀλώπεκι)"**:
+  - Herod (3:1; 9:7–9). *Forward:* 23:6–12.
+  - Foxes "have holes" (9:58).
+- **"I cast out daimons and perform cures today and tomorrow (σήμερον καὶ αὔριον)"**: today and tomorrow (12:28a, test). *Forward:* "today salvation" (19:9).
+- **"and on the third I am perfected (τελειοῦμαι)"**:
+  - The third: "after three days" (9:22). *Forward:* "the third day" (24:7, 24:21).
+  - Perfected: "until it is accomplished (τελεσθῇ)" (12:50).
+  - *The end of the road named as being perfected, made complete.*
+- **"I must (δεῖ) go (πορεύεσθαι) today and tomorrow and the next day"**:
+  - *The road's own infinitive:* the crowds held him back "from going" (4:42); he set his face "to go" to Jerusalem (9:51).
+  - The "must" of 9:22.
+- **"for it cannot be that a prophet perishes outside (ἔξω) Jerusalem"**:
+  - *Why the road goes to Jerusalem:* it is the place where the prophet perishes.
+  - "No prophet is accepted in his fatherland" (4:24); the fathers killed the prophets (11:47–48).
+- **"Jerusalem, Jerusalem, killing the prophets and stoning those sent (ἀπεσταλμένους)"**: the sent (9:2; 10:1–3; 11:49, test).
+- **"how often I wanted (ἠθέλησα) to gather (ἐπισυνάξαι) your children… and you did not want"**:
+  - Gathering: "whoever does not gather with me scatters" (11:23); the rich man gathering for himself (12:17–18).
+  - His will against theirs: "the will of his lord" (12:47).
+- **"your house is left (ἀφίεται) to you"**: ἀφίημι, letting go. The house left, as the dead are left to the dead (9:60).
+- **"you will not see me until you say, Blessed is the one who comes in the name of the Lord"**:
+  - "The coming one" (ὁ ἐρχόμενος): "are you the coming one?" (7:19–20).
+  - *Forward: in the unprinted 19:29–46, the crowd says "Blessed is the coming king in the name of the Lord" (19:38).*
+
+**Verdict: continues.**
+- Its words are in the threads throughout, and it reaches 9:22, 12:50 and the third day of 24:7, 24:21.
+- *It is the passage that says why the road goes to Jerusalem: a prophet perishes there, and on the third day he is perfected.* The printed text has the necessity (9:22; 24:7, 24:26), but not the reason the place is Jerusalem.
+- It does not close a gap. With 14:1–11 restored (below), 13:28 → 14:1 runs. Its first two verses would lead into 14:7–11: those who come in and recline, the last who will be first.
+
+### Test: 14:1–11 (U?)
+
+*Καὶ ἐγένετο ἐν τῷ ἐλθεῖν αὐτὸν εἰς οἶκόν τινος τῶν ἀρχόντων τῶν Φαρισαίων σαββάτῳ φαγεῖν ἄρτον καὶ αὐτοὶ ἦσαν παρατηρούμενοι αὐτόν. καὶ ἰδοὺ ἄνθρωπός τις ἦν ὑδρωπικὸς ἔμπροσθεν αὐτοῦ… Ἔξεστιν τῷ σαββάτῳ θεραπεῦσαι ἢ οὔ; οἱ δὲ ἡσύχασαν. καὶ ἐπιλαβόμενος ἰάσατο αὐτὸν καὶ ἀπέλυσεν. καὶ πρὸς αὐτοὺς εἶπεν· Τίνος ὑμῶν υἱὸς ἢ βοῦς εἰς φρέαρ πεσεῖται, καὶ οὐκ εὐθέως ἀνασπάσει αὐτὸν ἐν ἡμέρᾳ τοῦ σαββάτου; … Ἔλεγεν δὲ πρὸς τοὺς κεκλημένους παραβολήν, ἐπέχων πῶς τὰς πρωτοκλισίας ἐξελέγοντο… Ὅταν κληθῇς ὑπό τινος εἰς γάμους, μὴ κατακλιθῇς εἰς τὴν πρωτοκλισίαν… καὶ τότε ἄρξῃ μετὰ αἰσχύνης τὸν ἔσχατον τόπον κατέχειν. ἀλλ’ ὅταν κληθῇς πορευθεὶς ἀνάπεσε εἰς τὸν ἔσχατον τόπον, ἵνα ὅταν ἔλθῃ ὁ κεκληκώς σε ἐρεῖ σοι· Φίλε, προσανάβηθι ἀνώτερον· τότε ἔσται σοι δόξα ἐνώπιον πάντων τῶν συνανακειμένων σοι. ὅτι πᾶς ὁ ὑψῶν ἑαυτὸν ταπεινωθήσεται καὶ ὁ ταπεινῶν ἑαυτὸν ὑψωθήσεται.*
+
+- **"into the house of a ruler of the Pharisees, on a sabbath, to eat bread"**: the ruler (13:14); the meal (7:36; 11:37).
+- **"they were watching (παρατηρούμενοι) him"**: *forward: "watching (παρατηρήσαντες), they sent spies" (20:20).*
+- **"a man with dropsy"**: swollen with water that does not satisfy (?). *The ox is led to water (13:15); the son or ox fallen into a well is drawn up (14:5).*
+- **"they were silent (ἡσύχασαν)"**: *forward: "on the sabbath they rested (ἡσύχασαν)" (23:56).*
+- **"taking hold (ἐπιλαβόμενος) of him, he healed him and released (ἀπέλυσεν) him"**: taking hold of the child (9:47); loosing (13:12).
+- **"a son or an ox fallen (πεσεῖται) into a well, will he not at once draw him up (ἀνασπάσει)?"**:
+  - Falling (6:39: the blind "fall into a pit"). Drawing up: ἀνα-σπάω, up.
+  - *13:15 (printed) leads the ox to water; 14:5 draws the son up out of the well.*
+- **"the invited (κεκλημένους)… choosing (ἐξελέγοντο) the first places (πρωτοκλισίας)"**:
+  - Calling (5:32). *The printed great supper uses the same participle: "to say to the invited (κεκλημένοις)" (14:17, 14:24).*
+  - Choosing: Mary "chose the good part" (10:42, test). The first places: the first seat (11:43). πρωτο-κλισία is of the κλίνω family: the first reclining place.
+- **"do not recline (κατακλιθῇς) in the first place… then with shame you begin to hold (κατέχειν) the last place (ἔσχατον τόπον)"**:
+  - Shame (13:17).
+  - Holding (κατέχω): the crowds held him back (4:42); the good heart holds the word fast (8:15, test). Here one is reduced to holding the last place.
+- **"but when you are invited, go and recline (ἀνάπεσε) in the last place"**: *the posture of 11:37 and 22:14 (ἀνέπεσεν).*
+- **"so that when the one who invited you (ὁ κεκληκώς σε) comes, he will say to you, Friend, go up higher (προσανάβηθι ἀνώτερον)"**:
+  - *Here the text says how one goes up.* One goes up by being called up by the host, from the last place. It is not taken by oneself.
+  - Friend (11:5–8; 12:4).
+  - ἀναβαίνω: he "went up" to the mountain to pray (9:28).
+- **"then you will have glory (δόξα) before all who recline with you (συνανακειμένων)"**: glory (9:26, 9:31–32). *Forward:* "to enter into his glory" (24:26).
+- **"everyone who lifts himself up (ὑψῶν) will be brought low, and whoever brings himself low will be lifted up (ὑψωθήσεται)"**:
+  - *The same words in the printed 18:14.*
+  - Capernaum, lifted to heaven and going down (10:15, test).
+
+**Verdict: continues, and the printed text needs it.**
+- *By its words.* The printed 14:12 begins "he said also to the one who had invited him (τῷ κεκληκότι αὐτόν)". That is the participle of 14:10 ("the one who invited you", ὁ κεκληκώς σε). The printed text has no host and no meal since 11:37.
+  - The printed 14:15, "one of those reclining with him (συνανακειμένων)", takes up 14:10's word.
+  - Its "eat bread in the kingdom" (φάγεται ἄρτον) takes up 14:1's "to eat bread" (φαγεῖν ἄρτον).
+  - Three of the printed words point back to this passage.
+- *By its mechanics.* 14:7–14 is one teaching about the meal, in two halves:
+  - the guest's half (14:7–11): take the last place, and be called up higher, to glory;
+  - the host's half (14:12–14): call those who cannot repay, and be repaid "at the resurrection of the righteous".
+  - The printed text has the host's half without the guest's. That is: it has the giving, but not the way one is raised.
+- *It is the one place where the text says "go up" of a person, as an invitation from above to the lowest place.* For the question of what ascends and how, this is the text's own answer in one sentence.
+- U?, not A−: restoring it is not against a witness of absence. *Recorded for task 14.*
+
+### What came out of the reading of chapter 11
+
+**Straightened up, and loosed.**
+- A woman bound eighteen years, unable to straighten up (ἀνακύψαι), is loosed (ἀπολέλυσαι) and made straight (ἀνωρθώθη). Then she glorifies God.
+- *ἀνακύπτω returns only at 21:28: "straighten up and lift up your heads, because your redemption (ἀπολύτρωσις) draws near".* The loosing (λύω) runs to redemption (21:28; 24:21) and to Pilate's will to release (23:16–22).
+- She is bound by Satan with a bond (δεσμός). The only other bonds are Legion's (8:29), which he burst by force.
+- (In the test passage 13:1–9, eighteen are killed by a falling tower.)
+
+**The kingdom grows up and is hidden.**
+- A seed cast into one's own garden grows into a tree. The birds of heaven, which took the seed (8:5) and have dwellings (9:58), dwell in its branches.
+- Leaven hidden in three measures works until all is leavened.
+
+**The door shut.**
+- The master of the house rises (ἐγερθῇ) to shut, the reverse of 11:8.
+- Those outside knock, and are not known "where they are from".
+- They claim him by nearness: "we ate before you, you taught in our streets".
+- They are held outside (κρατουμένους). That is the word of the eyes "held" at 24:16, so that they did not recognize him.
+
+**The road is named little in the printed text.** After 9:51–53, the printed text names Jerusalem on the road only at 17:11 and 19:11. The unprinted 13:22, 13:33–34, 18:31, 19:28 and 19:41 carry the rest. The one that gives the road its reason — "I must go… a prophet cannot perish outside Jerusalem… on the third I am perfected" — is the unprinted 13:31–35.
+
+**The second passage the printed text needs: 14:1–11.**
+- Its words are pointed to by the printed 14:12 ("the one who had invited him") and 14:15 ("those reclining with him"; "eat bread").
+- Its mechanics are the guest's half of the teaching whose host's half is printed.
+- It is the text's own sentence on ascent: "Friend, go up higher", said by the host to the one who took the last place. Then glory. Then the law: whoever brings himself low will be lifted up (= the printed 18:14).
+
+### Threads, carried forward and added
+
+- straightening up (ἀνακύπτω, → 21:28);
+- loosing and redemption (λύω, → 21:28; 23:16–25; 24:21);
+- bonds (8:29 / 13:16);
+- eighteen (13:4 / 13:11, 13:16);
+- the ox, and water, and the well;
+- the sabbath and its rest (→ 23:56);
+- daughter of Abraham (→ 16:22–30; 19:9);
+- the mustard seed and the tree;
+- the birds that dwell;
+- leaven hidden;
+- the road to Jerusalem: printed at 9:51–53, 17:11, 19:11; the rest unprinted;
+- the narrow door, entering, strength;
+- the master who rises to shut;
+- knocking after;
+- "where from" (πόθεν, → 20:7);
+- "depart from me";
+- workers of unrighteousness (→ 16:8–9);
+- held outside (κρατέω, → 24:16);
+- first and last, and the last place;
+- "go up higher";
+- glory (→ 24:26);
+- lifting up and bringing low (→ 18:14);
+- "perfected on the third day";
+- "a prophet cannot perish outside Jerusalem";
+- the house left;
+- "Blessed is the one who comes" (→ 19:38, unprinted).
