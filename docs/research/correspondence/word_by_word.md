@@ -415,3 +415,174 @@ At its place, after 4:37, it would be the first rising of a person in the text, 
 - repentance (μετάνοια);
 - the sabbath and the assembly;
 - hands, stretched out.
+
+---
+
+## Chapter 3
+
+### 6:12
+
+*ἐξελθεῖν αὐτὸν εἰς τὸ ὄρος προσεύξασθαι, καὶ ἦν διανυκτερεύων ἐν τῇ προσευχῇ τοῦ θεοῦ.*
+
+- **"he went out to the mountain"** (εἰς τὸ ὄρος): the same word as the hill at Nazareth on which "their city was built" (ὄρους, 4:29). There the own's mountain was the edge from which the Divine was to be thrown down. Here he goes up the mountain himself. A mountain is love; this is the first upward movement of Jesus in the text.
+- **"to pray"**: conjunction with the Divine.
+- **"he spent the whole night in the prayer of God"** (διανυκτερεύων): night again. Simon "laboured the whole night and took nothing" (5:5); here the whole night is spent in prayer. The night of one's own labour and the night of prayer are set against each other.
+
+### 6:13–16 (6:15 grey)
+
+*καὶ ὅτε ἐγένετο ἡμέρα, προσεφώνησεν τοὺς μαθητὰς… ἐκλεξάμενος ἀπ’ αὐτῶν δώδεκα, οὓς καὶ ἀποστόλους ὠνόμασεν, Σίμωνα ὃν καὶ ὠνόμασεν Πέτρον… καὶ Ἰούδαν Ἰσκαριὼθ ὃς ἐγένετο προδότης.*
+
+- **"when day came"**: a new state, out of the night of prayer.
+- **"he chose twelve"**: twelve is all truths and goods together. What the night of prayer produces is order: the whole set of principles chosen and called around him.
+- **"whom he also named apostles"** (ἀποστόλους, "sent ones"): named with his own word. He was "sent" (ἀπεστάλην, 4:43); now he names others as sent.
+- **"Simon, whom he also named Peter"** (Πέτρον): a name is a quality. Hearing and obedience (Simon) is given the name of the rock (πέτρος); Peter is faith. *Thread: the chapter ends with a house founded on the rock (πέτραν, 6:48).*
+- **"Judas Iscariot, who became a traitor"**: within the chosen order, from the start, the one who will hand him over.
+
+### 6:17–19 (6:18 grey)
+
+*Καὶ καταβὰς μετ’ αὐτῶν ἔστη ἐπὶ τόπου πεδινοῦ… οἳ ἦλθον ἀκοῦσαι αὐτοῦ καὶ ἰαθῆναι… καὶ πᾶς ὁ ὄχλος ἐζήτει ἅπτεσθαι αὐτοῦ, ὅτι δύναμις παρ’ αὐτοῦ ἐξήρχετο καὶ ἰᾶτο πάντας.*
+
+- **"coming down with them"** (καταβὰς): descent again. Down (κατ-) is now the movement of the Divine with the twelve. He went up alone; he comes down with all the principles.
+- **"he stood on a level place"** (ἔστη): he stands, as the man with the restored hand stood (ἔστη, 6:8). A level place: the plain, the natural, where the work is done.
+- **"from all Judea and Jerusalem, and the coast of Tyre and Sidon"**: the celestial, the church as to doctrine, and the coast of the nations outside. Every part comes.
+- **"to hear and to be healed"**: in this order.
+- **"the whole crowd sought to touch him"**: in chapter 1 the crowds held him back (4:42); here they seek to touch him, which is communication.
+- **"for power went out from him"** (δύναμις… ἐξήρχετο): the verb of coming out once more. Falsities came out of people (4:35, 4:41); now power comes out of him. What comes out of the person is evil; what comes out of the Divine is power.
+
+### 6:20
+
+*Καὶ αὐτὸς ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τοὺς μαθητὰς αὐτοῦ ἔλεγεν· Μακάριοι οἱ πτωχοί, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τοῦ θεοῦ.*
+
+- **"lifting up his eyes to his disciples"** (ἐπάρας τοὺς ὀφθαλμοὺς): the first lifting (ἐπαίρω) in the text, of the eyes, which are understanding. He lifts them toward the disciples, not toward heaven. *Thread: lifting the eyes or the head; to be followed.*
+- **"Blessed are the poor, for theirs is the kingdom of God"**: the poor are those who know they have nothing of truth of their own. The kingdom, set against the rulers of 3:1, is theirs, not as a reward to come but in the present tense: "is".
+
+### 6:21
+
+*μακάριοι οἱ πεινῶντες νῦν, ὅτι χορτασθήσεσθε. μακάριοι οἱ κλαίοντες νῦν, ὅτι γελάσετε.*
+
+- **"blessed are you who hunger now, for you will be filled"** (χορτασθήσεσθε, "fed to fullness"): hunger is the desire for good; to be fed to fullness is to receive it. *Thread: χορτάζω returns at the feeding, "they all ate and were filled" (9:17).*
+- **"weep now… laugh"**.
+
+### 6:22–23
+
+*ὅταν μισήσωσιν ὑμᾶς… καὶ ἐκβάλωσιν τὸ ὄνομα ὑμῶν ὡς πονηρὸν… κατὰ τὰ αὐτὰ γὰρ ἐποίουν τοῖς προφήταις οἱ πατέρες αὐτῶν.*
+
+- **"when they cast out your name as evil"** (ἐκβάλωσιν): Nazareth "cast him out" (ἐξέβαλον, 4:29). What was done to him will be done to the quality (name) of those who are his.
+- **"so their fathers did to the prophets"**: the prophet not received in his fatherland (4:24). The fathers are the own's line.
+- **"leap for joy… your reward is great in heaven"**.
+
+### 6:24–26
+
+*πλὴν οὐαὶ ὑμῖν τοῖς πλουσίοις, ὅτι ἀπέχετε τὴν παράκλησιν ὑμῶν. οὐαὶ ὑμῖν, οἱ ἐμπεπλησμένοι νῦν, ὅτι πεινάσετε…*
+
+- **"woe to you rich, for you have received your consolation"** (ἀπέχετε): the rich are full of what they claim as their own; they already have, and so cannot receive. As Nazareth already "had" him as its own and could not receive him.
+- **"woe to you who are filled now"** (ἐμπεπλησμένοι): the filling thread turns here. Until now the text showed people filled with rage, with leprosy, with fear, with folly (4:28; 5:12; 5:26; 6:11). Now the principle is stated: to be filled now is the woe, and to be empty now is the condition of being fed.
+- **"when all speak well of you"**: false prophets, received by everyone.
+
+### 6:27–31
+
+*Ἀλλὰ ὑμῖν λέγω τοῖς ἀκούουσιν, ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν… τῷ τύπτοντί σε ἐπὶ τὴν σιαγόνα πάρεχε καὶ τὴν ἄλλην, καὶ ἀπὸ τοῦ αἴροντός σου τὸ ἱμάτιον καὶ τὸν χιτῶνα μὴ κωλύσῃς. παντὶ αἰτοῦντί σε δίδου, καὶ ἀπὸ τοῦ αἴροντος τὰ σὰ μὴ ἀπαίτει.*
+
+- **"to you who hear I say"**: the hearers, the condition of the whole sermon.
+- **"love your enemies… bless those who curse you"**: love that does not depend on what comes back.
+- **"from the one who takes your garment, do not withhold your tunic"** (ἱμάτιον): the garment of 5:36, the truths that clothe the mind. What clothes the mind is not to be held against the one who takes it. The outer truths are not one's own property.
+- **"from the one who takes what is yours, do not ask it back"** (τὰ σά, "your things"): what is "yours". Nazareth said "your fatherland" (4:23) and claimed him; here "your things" are to be let go without return. *Thread: letting go (5:11, 5:20).*
+
+### 6:32–35 (6:32–33 grey)
+
+*ποία ὑμῖν χάρις ἐστίν;… πλὴν ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ ἀγαθοποιεῖτε καὶ δανίζετε μηδὲν ἀπελπίζοντες· καὶ ἔσται ὁ μισθὸς ὑμῶν πολύς, καὶ ἔσεσθε υἱοὶ Ὑψίστου, ὅτι αὐτὸς χρηστός ἐστιν ἐπὶ τοὺς ἀχαρίστους καὶ πονηρούς.*
+
+- **"what grace (χάρις) is that to you?"**: love that returns what it receives is no grace. Sinners do the same.
+- **"lend, expecting nothing back"**.
+- **"and you will be sons of the Most High"** (υἱοὶ Ὑψίστου): **the first time the text names the height.** It names it as a sonship, not a place. Its condition is giving without return. *Thread: the Most High (8:28; 1:32 is absent).*
+- **"for he is kind (χρηστός) to the ungrateful and the evil"**: χρηστός, the word of the left-out saying "the old is good (χρηστός)" (5:39). In that saying the mind settled in the old calls its old wine χρηστός; here the Most High is χρηστός to those without grace (ἀχαρίστους). The two sentences answer each other across one paragraph. This bears on the test of 5:39: the word joins it to its context.
+
+### 6:36–38
+
+*γίνεσθε οἰκτίρμονες καθὼς ὁ πατὴρ ὑμῶν… ἀπολύετε, καὶ ἀπολυθήσεσθε· δίδοτε, καὶ δοθήσεται ὑμῖν· μέτρον καλὸν πεπιεσμένον σεσαλευμένον ὑπερεκχυννόμενον δώσουσιν εἰς τὸν κόλπον ὑμῶν· τῷ γὰρ αὐτῷ μέτρῳ ᾧ μετρεῖτε ἀντιμετρηθήσεται ὑμῖν.*
+
+- **"be merciful, as your Father is merciful"**: the Father named for the first time in the text, as the measure of mercy.
+- **"release, and you will be released"** (ἀπολύετε): letting go, in another verb.
+- **"give, and it will be given to you"**: what is passed on is received.
+- **"a good measure, pressed down, shaken, running over"** (ὑπερεκχυννόμενον, "poured out over"): the verb of the new wine that is "poured out" and lost from old skins (ἐκχυθήσεται, 5:37). The same pouring is loss when the vessel holds on, and fullness when the vessel gives.
+- **"into your bosom"** (εἰς τὸν κόλπον): *thread: Lazarus is carried into Abraham's bosom (κόλπον, 16:22–23).*
+- **"with the measure you measure it will be measured back"**: reception is in the measure of what is given. This states the law of the vessel.
+
+### 6:39–42
+
+*Μήτι δύναται τυφλὸς τυφλὸν ὁδηγεῖν; οὐχὶ ἀμφότεροι εἰς βόθυνον ἐμπεσοῦνται;… Ἀδελφέ, ἄφες ἐκβάλω τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ σου… ὑποκριτά, ἔκβαλε πρῶτον τὴν δοκὸν ἐκ τοῦ ὀφθαλμοῦ σου, καὶ τότε διαβλέψεις…*
+
+- **"can a blind man lead a blind man? Will they not both fall into a pit?"**: the eyes are understanding, and blindness is not seeing truth. To fall into a pit is the downward movement that Nazareth intended for him (4:29), now befalling those who lead without sight.
+- **"the disciple is not above the teacher; fully trained, he will be like his teacher"**.
+- **"the speck in your brother's eye, the beam in your own"** (τῷ ἰδίῳ ὀφθαλμῷ): "own" (ἴδιος) again.
+- **"let me cast out the speck… first cast out the beam from your own eye"** (ἐκβάλω… ἔκβαλε): the verb of casting out.
+  - Nazareth cast the Divine out of its city (4:29).
+  - Those who are his will have their name cast out (6:22).
+  - Here the casting out is turned inward, on one's own eye.
+  - What the Divine did in the assembly (taking a falsity out of a man) is now asked of the disciple toward himself, first, before his brother.
+- **"then you will see clearly"** (διαβλέψεις): sight follows the removal.
+
+### 6:43–45 (6:44 grey)
+
+*Οὐ γάρ ἐστιν δένδρον καλὸν ποιοῦν καρπὸν σαπρόν… ἕκαστον γὰρ δένδρον ἐκ τοῦ ἰδίου καρποῦ γινώσκεται… ὁ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ τῆς καρδίας προφέρει τὸ ἀγαθόν… ἐκ γὰρ περισσεύματος καρδίας λαλεῖ τὸ στόμα αὐτοῦ.*
+
+- **"a good tree does not bear rotten fruit"**: a tree is a person; its fruit is works.
+- **"each tree is known by its own fruit"**: knowing, now from the works. The falsities knew him by name (4:34); a tree is known by its fruit. Knowledge from works replaces knowledge from words.
+- **"figs from thorns… grapes from brambles"**: natural good (figs) and spiritual good (grapes) do not come from what is born of cares and lusts (thorns).
+- **"from the good treasure of the heart… from the overflow of the heart the mouth speaks"** (περισσεύματος): the overflow, as the measure "running over" (6:38). What comes out is what fills.
+
+### 6:46–49 (6:47–49 grey)
+
+*Τί δέ με καλεῖτε· Κύριε κύριε, καὶ οὐ ποιεῖτε ἃ λέγω; πᾶς ὁ ἐρχόμενος πρός με καὶ ἀκούων μου τῶν λόγων καὶ ποιῶν αὐτούς… ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν ὃς ἔσκαψεν καὶ ἐβάθυνεν καὶ ἔθηκεν θεμέλιον ἐπὶ τὴν πέτραν· πλημμύρης δὲ γενομένης προσέρηξεν ὁ ποταμὸς τῇ οἰκίᾳ ἐκείνῃ, καὶ οὐκ ἴσχυσεν σαλεῦσαι αὐτὴν… ὁ δὲ ἀκούσας καὶ μὴ ποιήσας… οἰκοδομήσαντι οἰκίαν ἐπὶ τὴν γῆν χωρὶς θεμελίου, ᾗ προσέρηξεν ὁ ποταμός, καὶ εὐθὺς συνέπεσεν, καὶ ἐγένετο τὸ ῥῆγμα τῆς οἰκίας ἐκείνης μέγα.*
+
+- **"why do you call me 'Lord, Lord', and do not do what I say?"**: naming without doing. The falsities named him correctly (4:34, 4:41) and were silenced.
+- **"coming to me, hearing my words and doing them"**: coming, hearing, doing. Three steps.
+- **"a man building a house"**: a house is the mind.
+- **"he dug and went deep"** (ἐβάθυνεν): the deep of 5:4 ("put out into the deep", εἰς τὸ βάθος). The catch came from going into the deep at the word; the house stands by going deep to the rock. Before anything rises, it goes down.
+- **"and laid the foundation on the rock"** (ἐπὶ τὴν πέτραν): the rock is the name given to Simon at the start of this chapter (Πέτρον, 6:14). The rock is faith, from the Divine. The chapter is bounded by the naming of the rock and the foundation on the rock.
+- **"a flood came, the river burst against that house, and could not shake it"**: a flood or river is temptation. "Shake" (σαλεῦσαι) is the word of the measure "shaken" (σεσαλευμένον, 6:38). The measure that is given is shaken down to hold more; the house that is founded is not shaken.
+- **"because it was well built"**.
+- **"the one who heard and did not do… built on the ground, without foundation"**: the ground is the natural alone, with nothing beneath.
+- **"the river burst against it, and at once it fell, and the ruin (ῥῆγμα) of that house was great"**: ῥήγνυμι, "burst", the verb of:
+  - the nets "breaking" (διερρήσσετο, 5:6);
+  - the new wine that "bursts" (ῥήξει) old skins (5:37);
+  - the river that "burst against" (προσέρηξεν) the house.
+- **What the bursting shows.** What cannot hold, bursts. The torn nets, the burst skins and the ruined house are one image across three passages: a vessel that has no ground to receive what comes.
+
+### What came out of the reading of chapter 3
+
+**The first ascent in the text is the Divine's own.** He goes up the mountain, the word used for the own's hill at Nazareth, and prays through the night. At day he chooses and names the twelve and gives Simon the name of the rock. Then he comes down with them and stands on the level ground, and power comes out from him. Going up is for prayer; coming down is with the order he has chosen.
+
+**The height is named, as sonship.** "You will be sons of the Most High" (6:35). The way to it is stated inside the sentence: love enemies, do good, lend expecting nothing. The height is reached by giving without return.
+
+**The laws of the vessel are stated.**
+- To be filled now is the woe; to be empty now is the condition of being filled (6:21, 6:25).
+- What is given is poured back over into the bosom (6:38), the same verb as the wine lost from old skins (5:37).
+- What cannot hold, bursts: the nets, the skins, the house (5:6; 5:37; 6:49).
+- The measure given is shaken down to hold more; the founded house is not shaken (6:38; 6:48).
+
+**Down before up.** The catch came from the deep (5:4). The house stands because it was dug deep to the rock (6:48). The rock is the name given to faith at the chapter's start.
+
+**Casting out turns inward.** The own cast the Divine out (4:29); the disciple must cast out the beam from his own eye first (6:42). The removal that the Divine performs in the assembly becomes the disciple's own act toward himself, and sight follows (6:42).
+
+**Knowing.** It now comes from fruit (6:44), not from naming (6:46).
+
+**The test of 5:39 is confirmed by a word.** The own calls its old wine χρηστός (5:39); the Most High is χρηστός to the ungrateful (6:35).
+
+### Threads, carried forward and added
+
+- rising;
+- lifting the eyes (ἐπαίρω);
+- the Most High;
+- the midst;
+- letting go (ἀφίημι, ἀπολύω);
+- casting out (ἐκβάλλω);
+- reception;
+- knowing, by fruit;
+- filling and being fed (χορτάζω);
+- the vessel: holding, bursting (ῥήγνυμι), pouring (ἐκχύννω);
+- the bosom (κόλπος);
+- the deep and the rock;
+- the road;
+- the meal;
+- the mountain: going up to pray, coming down with others.
