@@ -5452,3 +5452,316 @@ The earlier verdicts were drawn from the letter.
   - the whole living (8:43 / 21:4);
   - the adorned house thrown down (11:25 / 21:5–6);
   - stone on stone (19:44 / 21:6 → 24:2).
+
+---
+
+## Chapter 19
+
+*21:7–38. Grey: 21:23–24, 21:36. Not printed: 21:18 (A−); 21:21–22 (A−). Adopted Marcionite wording: 21:27 "coming from the heavens with great power", for NA27's "coming in a cloud with power and great glory".*
+
+### 21:7–9
+
+*Διδάσκαλε, πότε οὖν ταῦτα ἔσται, καὶ τί τὸ σημεῖον ὅταν μέλλῃ ταῦτα γίνεσθαι; ὁ δὲ εἶπεν· Βλέπετε μὴ πλανηθῆτε· πολλοὶ γὰρ ἐλεύσονται ἐπὶ τῷ ὀνόματί μου λέγοντες· Ἐγώ εἰμι καί· Ὁ καιρὸς ἤγγικεν· μὴ πορευθῆτε ὀπίσω αὐτῶν. ὅταν δὲ ἀκούσητε πολέμους καὶ ἀκαταστασίας, μὴ πτοηθῆτε· δεῖ γὰρ ταῦτα γενέσθαι πρῶτον, ἀλλ’ οὐκ εὐθέως τὸ τέλος.*
+
+- **"when then will these things be, and what is the sign?"**:
+  - "These things": see 21:5–6 (chapter 18).
+  - The sign: none given to those who seek (11:16, 11:29). *Herod hoped for one (23:8).* Here the disciples ask.
+- **"see that you are not led astray"**: seeing (8:18; 10:23).
+- **"many will come in my name, saying, I am"**:
+  - The name (9:48–49; 10:17).
+  - "I am": *forward: "you say that I am" (22:70); "it is I myself" (24:39).*
+- **"and, The time has drawn near (ἤγγικεν)"**: the verb of the kingdom (10:9, 10:11). Others will use it.
+- **"do not go behind them (μὴ πορευθῆτε ὀπίσω αὐτῶν)"**:
+  - *The road and "behind": "if anyone wants to come behind me (ὀπίσω μου)" (9:23).*
+  - One goes behind him, not behind those who say "I am".
+- **"these things must (δεῖ) happen first (πρῶτον), but the end is not at once"**: *"first he must suffer" (17:25). The same "must… first".*
+
+### 21:10–11
+
+*Ἐγερθήσεται ἔθνος ἐπ’ ἔθνος καὶ βασιλεία ἐπὶ βασιλείαν, σεισμοί τε μεγάλοι καὶ κατὰ τόπους λιμοὶ καὶ λοιμοὶ ἔσονται, φόβητρά τε καὶ ἀπ’ οὐρανοῦ σημεῖα μεγάλα ἔσται.*
+
+- **"nation will rise (ἐγερθήσεται) against nation, and kingdom against kingdom"**:
+  - *The rising verb, used of nations rising against one another.*
+  - *"Every kingdom divided against itself is made desert" (11:17).*
+- **"great shakings (σεισμοί)"**: *the shaking thread:* the measure "shaken" (6:38); the house the river could not "shake" (6:48); "a reed shaken by the wind" (7:24). *Forward:* "the powers of the heavens will be shaken" (21:26).
+- **"famines"**: the famine in the far country (15:14, test).
+- **"great signs from heaven"**: the sign from heaven sought in testing (11:16) is not given on demand. Here it comes, unsought.
+
+### 21:12–15
+
+*Πρὸ δὲ τούτων πάντων ἐπιβαλοῦσιν ἐφ’ ὑμᾶς τὰς χεῖρας αὐτῶν καὶ διώξουσιν, παραδιδόντες εἰς τὰς συναγωγὰς καὶ φυλακάς, ἀπαγομένους ἐπὶ βασιλεῖς καὶ ἡγεμόνας ἕνεκεν τοῦ ὀνόματός μου· ἀποβήσεται ὑμῖν εἰς μαρτύριον. θέτε οὖν ἐν ταῖς καρδίαις ὑμῶν μὴ προμελετᾶν ἀπολογηθῆναι, ἐγὼ γὰρ δώσω ὑμῖν στόμα καὶ σοφίαν ᾗ οὐ δυνήσονται ἀντιστῆναι ἢ ἀντειπεῖν ἅπαντες οἱ ἀντικείμενοι ὑμῖν.*
+
+- **"they will lay their hands on you"**: *what they sought to do to him (20:19).* The disciples are brought into his way.
+- **"handing you over (παραδιδόντες) to synagogues and prisons (φυλακάς)"**:
+  - Handing over (9:44).
+  - The prison (12:58). *Forward:* "Lord, I am ready to go with you to prison" (22:33).
+- **"led away to kings and governors (ἡγεμόνας)"**: the governor (20:20; 3:1).
+- **"it will turn out for you as a testimony"**: testimony (5:14; 9:5).
+- **"not to prepare your defence beforehand; for I will give you a mouth (στόμα) and wisdom (σοφίαν)"**:
+  - *"Do not be anxious how you will defend yourselves… the holy spirit will teach you" (12:11–12).*
+  - The mouth: the servant judged "out of your own mouth" (19:22). Here the mouth is given.
+  - Wisdom: "hidden from the wise" (10:21).
+- **"which all who oppose (ἀντικείμενοι) you will not be able to resist"**: *"all who opposed (ἀντικείμενοι) him were put to shame" (13:17).*
+
+### 21:16–17
+
+*παραδοθήσεσθε δὲ καὶ ὑπὸ γονέων καὶ ἀδελφῶν καὶ συγγενῶν καὶ φίλων, καὶ θανατώσουσιν ἐξ ὑμῶν, καὶ ἔσεσθε μισούμενοι ὑπὸ πάντων διὰ τὸ ὄνομά μου.*
+
+- **"handed over even by parents and brothers and relatives and friends"**:
+  - *The house divided (12:52–53).*
+  - The ones not to be called to the dinner: "your friends, your brothers, your relatives" (14:12).
+- **"hated by all because of my name"**: *"blessed are you when men hate you… and cast out your name as evil" (6:22).* The citizens who hated (19:14).
+
+### Test: 21:18 (A−)
+
+*καὶ θρὶξ ἐκ τῆς κεφαλῆς ὑμῶν οὐ μὴ ἀπόληται.*
+
+- **"not a hair of your head will perish"**:
+  - *"The hairs of your head are all numbered" (12:7, test).*
+  - The woman's hair (7:38, 7:44).
+  - Perishing (9:24; 17:33).
+
+**Verdict: continues.** By its words it is in the threads. It stands between "they will put some of you to death" (21:16) and "by your endurance gain your souls" (21:19). What is not lost is the least and outermost. 21:17 → 21:19 runs, so it does not close a gap.
+
+### 21:19
+
+*ἐν τῇ ὑπομονῇ ὑμῶν κτήσασθε τὰς ψυχὰς ὑμῶν.*
+
+- **"by your endurance (ὑπομονῇ)"**: *"those in the good earth… hold the word fast and bear fruit with endurance (ὑπομονῇ)" (8:15, test).* The good earth's endurance.
+- **"gain (κτήσασθε) your souls"**:
+  - *Acquiring: the Pharisee, "I tithe all that I acquire (κτῶμαι)" (18:12).*
+  - The soul (9:24; 12:19–20; 17:33).
+  - What is acquired here is not possessions. It is the soul, and it is acquired by enduring, not by holding.
+
+### 21:20
+
+*Ὅταν δὲ ἴδητε κυκλουμένην ὑπὸ στρατοπέδων Ἰερουσαλήμ, τότε γνῶτε ὅτι ἤγγικεν ἡ ἐρήμωσις αὐτῆς.*
+
+- **"when you see Jerusalem surrounded"**:
+  - *Jerusalem: the goal of the road (9:51; 17:11; 19:11).*
+  - "Surrounded": "your enemies… will surround you" (19:43, test).
+- **"then know that its desolation (ἐρήμωσις) has drawn near (ἤγγικεν)"**:
+  - *The desert:* he went into the desert (4:42); Legion was driven into the deserts (8:29); "here we are in a desert place" (9:12); "every kingdom divided against itself is made desert (ἐρημοῦται)" (11:17).
+  - *Drawing near: "the kingdom of God has drawn near (ἤγγικεν)" (10:9, 10:11).*
+  - Two things draw near along the road: the kingdom, to those who receive, and desolation, to the city.
+  - *The road's goal is a city whose desolation has come near. Jerusalem is the church as to doctrine. What the road comes to is the doctrine of the church laid waste.*
+
+### Test: 21:21–22 (A−)
+
+*τότε οἱ ἐν τῇ Ἰουδαίᾳ φευγέτωσαν εἰς τὰ ὄρη, καὶ οἱ ἐν μέσῳ αὐτῆς ἐκχωρείτωσαν, καὶ οἱ ἐν ταῖς χώραις μὴ εἰσερχέσθωσαν εἰς αὐτήν, ὅτι ἡμέραι ἐκδικήσεως αὗταί εἰσιν τοῦ πλησθῆναι πάντα τὰ γεγραμμένα.*
+
+- **"let those in Judea flee to the mountains (ὄρη)"**:
+  - The mountain: the ascent and prayer (6:12; 9:28).
+  - *Forward:* "he lodged on the mountain called of Olives" (21:37).
+  - When the city is laid waste, the flight is up.
+- **"those in its midst (ἐν μέσῳ) depart"**: *the midst:* he passed "through the midst" (4:30; 17:11).
+- **"those in the fields not enter it"**: *"whoever is in the field, let him not turn back" (17:31).*
+- **"days of vindication (ἐκδικήσεως)"**: *the widow, "vindicate me"; "will not God make vindication for his chosen?" (18:3–8).*
+- **"that all that is written may be fulfilled (πλησθῆναι)"**:
+  - Filling (9:51).
+  - What is written (18:31, test). *Forward: 24:44 (unprinted).*
+
+**Verdict: continues.** Its words are in the threads; it doubles 17:31. 21:20 → 21:23 runs ("in those days" refers to the days of 21:20), so it does not close a gap.
+
+### 21:23–24 (grey)
+
+*οὐαὶ ταῖς ἐν γαστρὶ ἐχούσαις καὶ ταῖς θηλαζούσαις ἐν ἐκείναις ταῖς ἡμέραις· ἔσται γὰρ ἀνάγκη μεγάλη ἐπὶ τῆς γῆς καὶ ὀργὴ τῷ λαῷ τούτῳ, καὶ πεσοῦνται στόματι μαχαίρης καὶ αἰχμαλωτισθήσονται εἰς τὰ ἔθνη πάντα, καὶ Ἰερουσαλὴμ ἔσται πατουμένη ὑπὸ ἐθνῶν, ἄχρι οὗ πληρωθῶσιν καιροὶ ἐθνῶν.*
+
+- **"woe to those with child, and those nursing"**: *"blessed the womb that carried you, and the breasts you sucked" (11:27).* The woe on what the woman blessed.
+- **"great necessity (ἀνάγκη) on the earth, and wrath"**: *the own's "necessity" (14:18).* Wrath: the master's anger (14:21).
+- **"they will fall (πεσοῦνται) by the mouth of the sword"**: falling (6:49; 8:5–8). The mouth: here the sword's mouth, against the mouth given (21:15).
+- **"Jerusalem will be trodden (πατουμένη) by nations"**:
+  - *Treading:* the seed beside the way "was trodden down (κατεπατήθη)" (8:5); "authority to tread (πατεῖν) on snakes" (10:19); the crowd "trampling (καταπατεῖν) one another" (12:1).
+  - *The city that was the road's goal becomes trodden, like the seed beside the way.*
+- **"until the times of the nations are fulfilled (πληρωθῶσιν)"**: filling. *"The days of his taking up were being filled" (9:51).*
+
+### 21:25–26
+
+*Καὶ ἔσονται σημεῖα ἐν ἡλίῳ καὶ σελήνῃ καὶ ἄστροις, καὶ ἐπὶ τῆς γῆς συνοχὴ ἐθνῶν ἐν ἀπορίᾳ ἤχους θαλάσσης καὶ σάλου, ἀποψυχόντων ἀνθρώπων ἀπὸ φόβου καὶ προσδοκίας τῶν ἐπερχομένων τῇ οἰκουμένῃ, αἱ γὰρ δυνάμεις τῶν οὐρανῶν σαλευθήσονται.*
+
+- **"signs in sun and moon and stars"**: the lights of heaven. Sun, moon and stars are love, faith, and knowledges of good and truth (?).
+- **"on the earth, distress (συνοχή) of nations"**:
+  - *συν-έχω, "holding fast":* Simon's mother-in-law "held fast by a great fever" (4:38, test); the Gerasenes "held fast by great fear" (8:37); "how I am held fast (συνέχομαι) until it is accomplished" (12:50).
+  - *Forward: "the men holding him fast (συνέχοντες)" (22:63).*
+- **"in perplexity (ἀπορίᾳ)"**:
+  - *Without a way through:* Herod "was perplexed (διηπόρει)" (9:7).
+  - *Forward: the women "being perplexed (ἀπορεῖσθαι)" at the tomb (24:4).*
+- **"at the roar of the sea and the surge"**: the sea (17:2, 17:6, test).
+- **"men fainting (ἀποψυχόντων) from fear"**: ἀπο-ψύχω, "breathing out the soul". *Against "by your endurance gain your souls" (21:19).*
+- **"and expectation (προσδοκίας)"**: expecting (7:19–20; 8:40; 12:46).
+- **"for the powers of the heavens will be shaken (σαλευθήσονται)"**:
+  - *Shaking:* the house built on the rock "could not be shaken" (6:48). The measure "shaken" into the bosom (6:38).
+  - When the heavens are shaken, what is founded on the rock is not.
+
+### 21:27
+
+*καὶ τότε ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἀπὸ τῶν οὐρανῶν μετὰ δυνάμεως πολλῆς.*
+
+- **"they will see the Son of Man coming"**: the coming one (7:19–20). The lord who returns (12:36; 19:15).
+- **"from the heavens, with great power"**: the adopted Marcionite reading (Roth: "from the heavens" very likely, "and glory likely not present"). NA27: "in a cloud (ἐν νεφέλῃ) with power and great glory (δόξης)".
+  - *The reading has to weigh this.*
+    - **Glory.** *The printed 9:26 announces the coming of the Son of Man "in his glory and the Father's and the holy angels'" (ὅταν ἔλθῃ ἐν τῇ δόξῃ αὐτοῦ).* Glory was seen on the mountain (9:31–32). "To enter into his glory" (24:26). NA27's 21:27 is the coming in glory that 9:26 announces. The adopted wording shows the coming without the glory 9:26 announced.
+    - **The cloud.** *On the mountain a cloud overshadowed them, and from the cloud came the voice: "hear him" (9:34–35).* The coming "in a cloud" joins the mountain. The adopted wording has no cloud.
+    - **What the cloud and glory are.** In Swedenborg's exposition of these words ("the Son of Man coming in the clouds of heaven with power and great glory", *Arcana Coelestia* 4060, on Matt 24:30), the cloud is the sense of the letter of the Word and the glory is its internal sense. The coming is the Lord revealed in the Word, the letter holding the inner sense.
+  - **Strain.** The adopted wording drops the two elements that carry the inner content of the coming:
+    - the cloud, the covering in which the voice was heard (9:34–35), the law of veiling at its height;
+    - the glory, which 9:26 promised and 24:26 names as where he enters.
+  - It keeps the outward event ("from the heavens") and the power. *This is the third wording the reading marks as a strain (after 10:21 and 18:19). Recorded for task 14.*
+
+### 21:28
+
+*ἀρχομένων δὲ τούτων γίνεσθαι ἀνακύψατε καὶ ἐπάρατε τὰς κεφαλὰς ὑμῶν, διότι ἐγγίζει ἡ ἀπολύτρωσις ὑμῶν.*
+
+- **"when these things begin to happen, straighten up (ἀνακύψατε)"**:
+  - *The bent woman, "unable to straighten up (ἀνακύψαι) at all" (13:11), loosed and made straight. The only other place.*
+  - What was done for one woman is now commanded to all.
+- **"and lift up (ἐπάρατε) your heads"**:
+  - *Lifting up:* he lifted up his eyes on his disciples (6:20). The rich man lifted up his eyes in Hades (16:23). The tax collector would not lift up his eyes to heaven (18:13), and went down justified.
+  - *The head:* the rejected stone become head (20:17, test); "nowhere to lay his head" (9:58).
+  - The one who did not lift up his eyes was lifted up. Now: lift up your heads.
+- **"because your redemption (ἀπολύτρωσις) draws near (ἐγγίζει)"**:
+  - *The λύω family, loosing:* the bent woman "loosed" (13:12, 13:16). *Forward:* "the one who was to redeem (λυτροῦσθαι) Israel" (24:21).
+  - Drawing near: the kingdom (10:9); desolation (21:20); here, the loosing.
+- *Here the printed text gives, as a command to the disciples, the movement the bent woman underwent. It is given at the moment when everything else is falling: nations rising against nations, Jerusalem trodden, the powers of the heavens shaken. While the outside falls, they straighten up and lift their heads, because their loosing is near.*
+
+### 21:29–31
+
+*Καὶ εἶπεν παραβολὴν αὐτοῖς· Ἴδετε τὴν συκῆν καὶ πάντα τὰ δένδρα· ὅταν προβάλωσιν ἤδη, βλέποντες ἀφ’ ἑαυτῶν γινώσκετε ὅτι ἤδη ἐγγὺς τὸ θέρος ἐστίν· οὕτως καὶ ὑμεῖς, ὅταν ἴδητε ταῦτα γινόμενα, γινώσκετε ὅτι ἐγγύς ἐστιν ἡ βασιλεία τοῦ θεοῦ.*
+
+- **"look at the fig tree and all the trees"**:
+  - *The fig tree that bore no fruit for three years (13:6–9, test).*
+  - *The sycamore-fig Zacchaeus went up (19:4).*
+  - The mustard seed become a tree (13:19).
+- **"when they put forth"**: new growth.
+- **"seeing for yourselves (ἀφ’ ἑαυτῶν), you know that summer is near"**:
+  - *"Why do you not judge for yourselves (ἀφ’ ἑαυτῶν) what is right?" (12:57).*
+  - Summer: the harvest (θερισμός, 10:2).
+- **"the kingdom of God is near (ἐγγύς)"**: *near Jerusalem (19:11); the kingdom drawn near (10:9).* When everything falls, what is near is the kingdom.
+
+### 21:32–33
+
+*ἀμὴν λέγω ὑμῖν ὅτι οὐ μὴ παρέλθῃ ἡ γενεὰ αὕτη ἕως ἂν πάντα γένηται. ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται, οἱ δὲ λόγοι μου οὐ μὴ παρελεύσονται.*
+
+- **"heaven and earth will pass away, but my words will not pass away"**:
+  - *"Easier for heaven and earth to pass away than for one stroke of my words to fall" (16:17, adopted).*
+  - *My words:* "everyone who hears my words (λόγων) and does them… is like a man building a house… on the rock… and the river could not shake it" (6:47–48). "Whoever is ashamed of me and my words" (9:26).
+  - The heavens are shaken (21:26); the words are not. The house built on the words is the house that is not shaken.
+
+### 21:34–35
+
+*Προσέχετε δὲ ἑαυτοῖς μήποτε βαρηθῶσιν ὑμῶν αἱ καρδίαι ἐν κραιπάλῃ καὶ μέθῃ καὶ μερίμναις βιωτικαῖς, καὶ ἐπιστῇ ἐφ’ ὑμᾶς αἰφνίδιος ἡ ἡμέρα ἐκείνη ὡς παγίς· ἐπεισελεύσεται γὰρ ἐπὶ πάντας τοὺς καθημένους ἐπὶ πρόσωπον πάσης τῆς γῆς.*
+
+- **"take heed to yourselves"**: 12:1; 17:3.
+- **"lest your hearts be weighed down (βαρηθῶσιν)"**: *"Peter and those with him were weighed down (βεβαρημένοι) with sleep; but staying awake, they saw his glory" (9:32). The only other place.*
+- **"with dissipation and drunkenness"**: *the servant who says "my lord delays" and begins "to eat and drink and get drunk" (12:45).*
+- **"and cares of life (μερίμναις βιωτικαῖς)"**: *"choked by cares (μεριμνῶν) and riches and pleasures of life (βίου)" (8:14, test).* Anxiety (12:22–26).
+- **"that day come upon you suddenly, like a snare"**: the day of Noah and Lot (17:26–30).
+- **"upon all who sit on the face of all the earth"**: sitting. The face (πρόσωπον) of the earth (12:56).
+
+### 21:36 (grey)
+
+*ἀγρυπνεῖτε δὲ ἐν παντὶ καιρῷ δεόμενοι ἵνα κατισχύσητε ἐκφυγεῖν ταῦτα πάντα τὰ μέλλοντα γίνεσθαι, καὶ σταθῆναι ἔμπροσθεν τοῦ υἱοῦ τοῦ ἀνθρώπου.*
+
+- **"stay awake (ἀγρυπνεῖτε) at every time"**: *waking:* "staying awake, they saw his glory" (9:32); "blessed are those servants whom the lord finds awake" (12:37).
+- **"praying (δεόμενοι)"**: *forward: "I have prayed (ἐδεήθην) for you, that your faith may not fail" (22:32).*
+- **"that you may have the strength (κατισχύσητε)"**:
+  - *Strength:* many "will not have the strength" (13:24); "to dig I have not the strength" (16:3); "they had not the strength to take hold of his saying" (20:26).
+  - Strength that is not one's own is given in prayer.
+- **"to escape all these things"**.
+- **"and to stand (σταθῆναι) before the Son of Man"**:
+  - *Standing:* "rise and stand (στῆθι) into the midst" (6:8); "the flow of her blood stood" (8:44); "she was made straight" (13:13); Zacchaeus "standing" before the Lord (19:8).
+  - *Forward: "he himself stood (ἔστη) in their midst" (24:36).*
+  - *The end of the disciples' movement in this discourse: to stand before the Son of Man.*
+
+### 21:37–38
+
+*Ἦν δὲ τὰς ἡμέρας ἐν τῷ ἱερῷ διδάσκων, τὰς δὲ νύκτας ἐξερχόμενος ηὐλίζετο εἰς τὸ ὄρος τὸ καλούμενον Ἐλαιῶν· καὶ πᾶς ὁ λαὸς ὤρθριζεν πρὸς αὐτὸν ἐν τῷ ἱερῷ ἀκούειν αὐτοῦ.*
+
+- **"by day teaching in the temple; by night going out, he lodged on the mountain called of Olives"**:
+  - *The mountain at night: "he went out to the mountain to pray, and spent the night (διανυκτερεύων) in prayer" (6:12).*
+  - *The Mount of Olives: in the printed text, first named here. Its approach and descent are in the unprinted 19:29–37.*
+  - *Forward: "going out, he went, as was his custom, to the Mount of Olives" (22:39).*
+- **"all the people came early in the morning (ὤρθριζεν) to him in the temple to hear him"**:
+  - *Dawn (ὄρθρος): forward: "at deep dawn (ὄρθρου βαθέως) they came to the tomb" (24:1); "women… who were at the tomb early (ὀρθριναί)" (24:22).*
+  - The people at dawn to hear him; the women at dawn to the tomb.
+  - Hearing (9:35).
+
+### What came out of the reading of chapter 19
+
+**The road's goal laid waste.**
+- Jerusalem, the goal set at 9:51, is surrounded, and "its desolation has drawn near", with the verb of the kingdom drawn near (10:9).
+- It is trodden by nations, as the seed beside the way was trodden (8:5).
+- Everything outside falls or shakes:
+  - nations rise against nations (the rising verb turned against itself);
+  - the powers of the heavens are shaken;
+  - men breathe out their souls in fear.
+- *The road comes to the end of the outward church.*
+
+**What stands while it falls.**
+- The soul gained by endurance (21:19): the endurance of the good earth (8:15, test), against the Pharisee's acquiring (18:12).
+- The words that do not pass, against the heaven and earth that do (21:33). That is the house on the rock that the river cannot shake (6:47–48).
+
+**Straighten up, lift up your heads (21:28).**
+- *The printed text gives here, to all, the movement of the bent woman (13:11–13): straightening up (ἀνακύπτω, the only other place), lifting the head, because their loosing (ἀπολύτρωσις, the λύω of 13:12–16) draws near.*
+- It is given when everything else is falling.
+- The fig tree puts forth, and the kingdom is near.
+
+**Awake, praying, given strength, standing (21:34–36).**
+- Hearts not weighed down: the verb of the sleep on the mountain (9:32), where those who stayed awake saw his glory.
+- Not with drunkenness (12:45), nor with the cares of life (8:14, test).
+- Praying for strength not one's own.
+- *To stand before the Son of Man.* At 24:36 he stands in their midst.
+
+**The coming without its cloud and glory.** The adopted 21:27 has the Son of Man come "from the heavens with great power". The cloud and the glory are dropped:
+- the glory that 9:26 announced for his coming;
+- the cloud from which the voice said "hear him" (9:34–35).
+- *In Swedenborg's exposition these are the letter and the inner sense of the Word.*
+- *The third wording the reading marks as a strain.*
+
+**By day the temple, by night the mountain, at dawn the people.** He lodges on the Mount of Olives. The people come at dawn to hear him. Dawn returns at the tomb (24:1, 24:22).
+
+### Threads, carried forward and added
+
+- "I am" (→ 22:70; 24:39);
+- "do not go behind them";
+- "must… first" (17:25 / 21:9);
+- nations rising;
+- shaking (6:38; 6:48; 7:24 / 21:11, 21:26);
+- signs from heaven, unsought;
+- hands laid on the disciples (20:19 / 21:12);
+- prisons (→ 22:33);
+- the mouth and wisdom given;
+- those who oppose (13:17 / 21:15);
+- the house divided (12:52–53 / 21:16);
+- hated for the name (6:22);
+- (test) the hair of the head (12:7, test);
+- endurance (8:15, test / 21:19);
+- acquiring (18:12 / 21:19);
+- Jerusalem surrounded and its desolation near;
+- the desert (4:42 → 21:20);
+- (test) flight to the mountains;
+- woe on the womb (11:27 / 21:23);
+- necessity;
+- falling by the sword;
+- trodden (8:5; 10:19; 12:1 / 21:24);
+- times fulfilled (9:51 / 21:24);
+- distress, holding fast (συνέχω, → 22:63);
+- perplexity (9:7 → 24:4);
+- breathing out the soul;
+- the powers of heaven shaken;
+- the coming (9:26 / 21:27), and its cloud and glory;
+- straightening up (13:11 / 21:28);
+- lifting the head (18:13 / 21:28);
+- redemption (13:12–16 / 21:28 → 24:21);
+- the fig tree and the trees (13:6, test; 19:4 / 21:29);
+- judging for oneself (12:57 / 21:30);
+- the kingdom near;
+- my words that do not pass (6:47; 16:17 / 21:33);
+- hearts weighed down (9:32 / 21:34);
+- drunkenness and cares (12:45; 8:14, test);
+- the snare;
+- staying awake (9:32; 12:37 / 21:36);
+- praying for strength;
+- standing before the Son of Man (→ 24:36);
+- the Mount of Olives at night (6:12 / 21:37 → 22:39);
+- dawn (21:38 → 24:1, 24:22).
