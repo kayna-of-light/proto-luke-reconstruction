@@ -28,7 +28,7 @@ ENTRIES = [
    wording='Marcionite reading adopted: τὸν ἄρτον σου ("your bread") for τὸν ἄρτον ἡμῶν. Origen quotes the Marcionites\' wording in Greek and asks them "what is the bread of God?"; Tertullian\'s question agrees in the rest. Roth: very likely. NA27 apparatus: σου McionOr. For ἐπιούσιος see the note.'),
  A('11:4', G('11:4'), 'and forgive us our sins, for we ourselves forgive everyone indebted to us; and do not bring us into temptation."',
    'present (Marc. 4.26.4–5)', [T('4.26.4–5', '"Quis mihi delicta dimittet?… Quis non sinet nos deduci in temptationem?"')],
-   wording=('NA27. Tertullian\'s question "Who will not let us be led into temptation?" was long taken (Harnack) as a Marcionite reading μὴ ἄφες ἡμᾶς εἰσενεχθῆναι. Roth rates it possible only: Tertullian turns every petition into a question, and he glosses the canonical "lead us not" in the same passive way in his own works (Or. 8.1–3, Fug. 2.5: "ne nos patiaris induci"). Not adopted. '
+   wording=('NA27. Tertullian\'s question "Who will not let us be led into temptation?" was long taken (Harnack) as a Marcionite reading μὴ ἄφες ἡμᾶς εἰσενεχθῆναι. Roth rates it possible only: Tertullian turns every petition into a question, and he glosses the canonical "lead us not" the same way in his own works: "ne nos patiaris induci" (Or. 8.1); cf. Fug. 2.5, "ne nos induxeris in temptationem permittendo nos maligno". Not adopted. '
             'The clause "for we ourselves forgive…" is not cited. NA27 cites McionT and Origen for the text without "but deliver us from evil".')),
  A('11:5', G('11:5'), 'And he said to them, "Which of you has a friend, and goes to him at midnight and says to him, \'Friend, lend me three loaves,',
    'present (Marc. 4.26.8; Pan. 42.11.6, sch. 24)',
