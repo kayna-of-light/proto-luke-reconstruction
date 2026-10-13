@@ -569,7 +569,7 @@ METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 alrea
 ### Weaker attestations, recorded as such
 
 - **24:42–43 (the fish).** Roth classes them present on Eznik alone. They are printed in grey, since Eznik was not checked here. Tertullian's "he asked for food to show that he had teeth" (24:41) is attested.
-- **24:19b ("a prophet mighty in deed and word").** Unattested, inside the attested verse 24:19. The library's *A Prophet Mighty in Deed and Word* takes its title from it (working document §10.3).
+- **24:19b ("a prophet mighty in deed and word").** Unattested, inside the attested verse 24:19; class `U?`, not `U−`. Tertullian (4.43.3–4) paraphrases 24:15–19a and quotes 24:21 ("redeemer of Israel") for the argument 19b would also have served, so his passing over it is not the silence of a witness who needed it; Epiphanius (sch. 77) is silent on 24:19–20. Printed under METHOD §5.3, the same rule as the other unattested clauses inside attested verses (22:19 "do this in remembrance of me", 22:20 "poured out for you", 24:41 "for joy and marvelling"). The library's *A Prophet Mighty in Deed and Word* takes its title from it (working document §10.3, resolved 2026-10-13).
 - **Not adopted (Roth "probable"/"possible", or one witness):**
   - 22:8, Epiphanius' wording;
   - 22:14, "the twelve apostles" (NA27: McionE);
