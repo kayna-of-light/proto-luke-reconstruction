@@ -174,3 +174,244 @@ Threads the Greek carries, to be followed in the chapters ahead:
 - **Feeding (τρέφω).** "Where he had been fed", to be followed.
 
 **What this chapter does not show yet: anything ascending.** The only rising in it is the own rising against the Divine (4:29). The movement so far is descent, the exposure and removal of falsity, rejection by the own, and the beginning of a road. What ascends, if anything, has to come out of the chapters that follow.
+
+---
+
+## Chapter 2
+
+*A correction to one function used in the earlier pass: in Swedenborg Peter is faith, James charity, and John the goods of charity, works.*
+
+### 5:1–3 (5:1, 5:3 grey)
+
+*ἐν τῷ τὸν ὄχλον ἐπικεῖσθαι αὐτῷ καὶ ἀκούειν τὸν λόγον τοῦ θεοῦ καὶ αὐτὸς ἦν ἑστὼς παρὰ τὴν λίμνην… καὶ εἶδεν δύο πλοῖα ἑστῶτα… οἱ δὲ ἁλιεῖς… ἔπλυνον τὰ δίκτυα… καθίσας δὲ ἐκ τοῦ πλοίου ἐδίδασκεν*
+
+- **"the crowd pressing on him to hear the word of God"**: in chapter 1 the crowds held him back (κατεῖχον); here they press in to hear. The wish to keep him has become a wish to hear.
+- **"he was standing beside the lake"**: the lake, or sea, is the natural memory with its knowledges. He stands at its edge.
+- **"two boats standing"**: boats are knowledges of truth and good from the Word, what carries the mind over its sea. They are standing, idle.
+- **"the fishermen had got out and were washing their nets"**: those who gather natural truths have left their knowledges and are cleaning the instruments of gathering. (?) for the nets.
+- **"he got into one of the boats, Simon's… sat down and taught from the boat"**: the Divine enters the mind's own knowledge and teaches from inside it. Simon is hearing and obedience; Simon's boat is the knowledge that belongs to the obedient.
+
+### 5:4–5 (grey)
+
+*Ἐπανάγαγε εἰς τὸ βάθος καὶ χαλάσατε τὰ δίκτυα ὑμῶν εἰς ἄγραν… Ἐπιστάτα, δι’ ὅλης νυκτὸς κοπιάσαντες οὐδὲν ἐλάβομεν, ἐπὶ δὲ τῷ ῥήματί σου χαλάσω τὰ δίκτυα.*
+
+- **"put out into the deep"** (ἐπανάγαγε εἰς τὸ βάθος, "lead up into the depth"): (?) for the deep in its good sense. The gathering is to go further in.
+- **"through the whole night we laboured and took nothing"**: night is the absence of faith's light. Gathering by its own labour in the dark yields nothing.
+- **"but at your word I will let down the nets"** (ἐπὶ τῷ ῥήματί σου): obedience to the word in place of one's own labour.
+
+### 5:6–7 (grey)
+
+*συνέκλεισαν πλῆθος ἰχθύων πολύ, διερρήσσετο δὲ τὰ δίκτυα… καὶ ἔπλησαν ἀμφότερα τὰ πλοῖα ὥστε βυθίζεσθαι αὐτά.*
+
+- **"a great multitude of fish"**: fish are natural truths. At the word they come in a quantity the instruments cannot hold: the nets tear.
+- **"they filled both boats, so that they began to sink"**: the knowledges are filled past what they can carry. *Filled (πίμπλημι) is a thread: in 4:28 the assembly was filled with rage; here the boats are filled with fish.*
+
+### 5:8 (grey)
+
+*ἰδὼν δὲ Σίμων Πέτρος προσέπεσεν τοῖς γόνασιν Ἰησοῦ λέγων· Ἔξελθε ἀπ’ ἐμοῦ, ὅτι ἀνὴρ ἁμαρτωλός εἰμι, κύριε·*
+
+- **"Simon Peter"**: hearing and obedience (Simon), and faith (Peter).
+- **"fell at the knees of Jesus"**: humiliation.
+- **"Go out from me"** (Ἔξελθε ἀπ’ ἐμοῦ): the exact words Jesus spoke to the daimon (Ἔξελθε ἀπ’ αὐτοῦ, 4:35). Faith, seeing the Divine, puts itself where the falsity stood, and asks the Divine to go out from it, "for I am a sinful man".
+- **The contrast with 4:34.** The falsity knew who the Divine was and was silenced and removed. Simon knows who he himself is, and is not removed.
+
+### 5:9–11
+
+*θάμβος γὰρ περιέσχεν αὐτὸν… Μὴ φοβοῦ· ἀπὸ τοῦ νῦν ἀνθρώπους ἔσῃ ζωγρῶν. καὶ καταγαγόντες τὰ πλοῖα ἐπὶ τὴν γῆν ἀφέντες πάντα ἠκολούθησαν αὐτῷ.*
+
+- **"amazement seized him"**: θάμβος, the word of 4:36.
+- **"James and John, partners with Simon"**: charity and its works joined to faith.
+- **"Do not fear; from now on you will be taking people alive"** (ζωγρῶν): in place of gathering natural truths that die in the net, faith is to gather people, alive.
+- **"bringing the boats down to land"** (καταγαγόντες): the knowledges are brought down and set on the ground. They are not taken further.
+- **"leaving everything"** (ἀφέντες πάντα): *ἀφίημι, "let go". The same verb is used of sins forgiven in 5:20–24.*
+- **"they followed him"**: the first following.
+
+### 5:12–14
+
+*ἀνὴρ πλήρης λέπρας… Κύριε, ἐὰν θέλῃς δύνασαί με καθαρίσαι. καὶ ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ λέγων· Θέλω, καθαρίσθητι· καὶ εὐθέως ἡ λέπρα ἀπῆλθεν ἀπ’ αὐτοῦ.*
+
+- **"a man full of leprosy"**: leprosy is profanation. "Full" (πλήρης) again, a man filled with it. *(?) Whether this is the Levitical rule that one covered wholly is clean (Leviticus 13:12–13), meaning the evil wholly brought out to the surface; not yet established in Swedenborg.*
+- **"falling on his face"**: humiliation, as Simon's.
+- **"if you will, you can cleanse me"**: the will of the Divine is asked, not demanded. Against Nazareth: "do here".
+- **"stretching out his hand he touched him"**: hands are power; touch is communication.
+- **"I will"**.
+- **"the leprosy went away from him"** (ἀπῆλθεν ἀπ’ αὐτοῦ): as the daimon came out from the man, without harm to him.
+- **"show yourself to the priest, and offer for your cleansing as Moses commanded, for a testimony"**: the priest is the good of the church; Moses is the Word. The cleansed state is brought back into the order of the Word, and becomes a witness. Nothing of the law is set aside.
+
+### 5:15–16 (grey)
+
+*διήρχετο δὲ μᾶλλον ὁ λόγος… αὐτὸς δὲ ἦν ὑποχωρῶν ἐν ταῖς ἐρήμοις καὶ προσευχόμενος.*
+
+- **The word spreads; crowds come to hear and be healed.**
+- **He withdraws to deserted places and prays**: as at 4:42, where nothing of the mind's own is present.
+
+### 5:17–19 (5:19 grey)
+
+*ἦσαν καθήμενοι Φαρισαῖοι καὶ νομοδιδάσκαλοι… ἐκ πάσης κώμης τῆς Γαλιλαίας καὶ Ἰουδαίας καὶ Ἰερουσαλήμ· καὶ δύναμις κυρίου ἦν εἰς τὸ ἰᾶσθαι αὐτόν. καὶ ἰδοὺ ἄνδρες φέροντες ἐπὶ κλίνης ἄνθρωπον ὃς ἦν παραλελυμένος… ἀναβάντες ἐπὶ τὸ δῶμα διὰ τῶν κεράμων καθῆκαν αὐτὸν σὺν τῷ κλινιδίῳ εἰς τὸ μέσον ἔμπροσθεν τοῦ Ἰησοῦ.*
+
+- **"Pharisees and teachers of the law sitting"**: from every village of Galilee, Judea and Jerusalem, every level of the land. They are sitting.
+- **"the power of the Lord was there to heal"**.
+- **"men carrying on a bed a man who was paralysed"**: he cannot move himself, cannot act. He is carried by others; it is their faith (5:20). The bed: (?) Swedenborg reads the bed as doctrine, or the natural on which one rests; it is not fixed here.
+- **"going up onto the roof"** (ἀναβάντες): the first going up in the text. It is done by the bearers, in order to let the man down.
+- **"they let him down… into the midst before Jesus"** (καθῆκαν… εἰς τὸ μέσον): into the midst, the inmost, for the third time. At Capernaum the daimon threw the man into the midst (4:35); at Nazareth he passed through their midst (4:30). Here the man is let down into the midst, carefully, by others, to be placed before the Divine.
+
+### 5:20–21
+
+*καὶ ἰδὼν τὴν πίστιν αὐτῶν εἶπεν· Ἄνθρωπε, ἀφέωνταί σοι αἱ ἁμαρτίαι σου… τίς δύναται ἁμαρτίας ἀφεῖναι εἰ μὴ μόνος ὁ θεός;*
+
+- **"seeing their faith"**: the bearers' faith, seen.
+- **"Man, your sins are let go from you"** (ἀφέωνται): sins are evils; they are let go, removed. First the evil is removed, before any movement.
+- **"Who can let sins go but God alone?"**: the scribes know correctly, as the daimon knew correctly (4:34). Their knowledge is right and does not receive.
+
+### 5:22–23 (grey)
+
+*ἐπιγνοὺς δὲ ὁ Ἰησοῦς τοὺς διαλογισμοὺς αὐτῶν… τί ἐστιν εὐκοπώτερον, εἰπεῖν· Ἀφέωνταί σοι… ἢ εἰπεῖν· Ἔγειρε καὶ περιπάτει;*
+
+- **"Jesus, knowing their reasonings"**: in chapter 1 the falsities knew him; here he knows them.
+- **"which is easier: 'your sins are let go', or 'rise and walk'?"**: the two are set side by side, the removal and the rising.
+
+### 5:24–26 (5:25 grey)
+
+*ἵνα δὲ εἰδῆτε ὅτι ὁ υἱὸς τοῦ ἀνθρώπου ἐξουσίαν ἔχει ἐπὶ τῆς γῆς ἀφιέναι ἁμαρτίας… Σοὶ λέγω, ἔγειρε καὶ ἆρον τὸν κράβαττόν σου καὶ πορεύου εἰς τὸν οἶκόν σου. καὶ παραχρῆμα ἀναστὰς ἐνώπιον αὐτῶν… ἀπῆλθεν εἰς τὸν οἶκον αὐτοῦ δοξάζων τὸν θεόν… Εἴδομεν παράδοξα σήμερον.*
+
+- **"so that you may know"**: the falsity's knowing was muzzled (4:35, 4:41); the scribes' knowing is answered.
+- **"authority on earth to let sins go"**: the authority of the word (4:32, 4:36), now over sin.
+- **"Rise"** (ἔγειρε): **this is the first rising given to a person.** In chapter 1 the only human rising was the own rising against the Divine (ἀναστάντες, 4:29). Here the man who could not move is told to rise, and "rising" (ἀναστὰς) he does. The rising comes after the sins are let go, and by the word.
+- **"take up your bed"**: what carried him, he now carries.
+- **"go to your house"** (πορεύου): the road verb, given to him. The house is his own mind. He goes home, not away.
+- **"glorifying God… we have seen things beyond belief today"** (παράδοξα, "beyond opinion"): beyond what was held.
+
+### 5:27–28 (5:28 grey)
+
+*ἐθεάσατο τελώνην ὀνόματι Λευὶν καθήμενον ἐπὶ τὸ τελώνιον, καὶ εἶπεν αὐτῷ· Ἀκολούθει μοι. καὶ καταλιπὼν πάντα ἀναστὰς ἠκολούθει αὐτῷ.*
+
+- **"a tax collector, sitting at the tax booth"**: one who lives by taking toll on what passes, sitting. The Pharisees were sitting too (5:17).
+- **"Follow me"**.
+- **"leaving everything, rising, he followed"** (καταλιπὼν πάντα ἀναστὰς ἠκολούθει): the second rising, again after a letting go. The one who sat takes up the road.
+
+### 5:29–32 (5:29, 5:32 grey)
+
+*Καὶ ἐποίησεν δοχὴν μεγάλην Λευὶς αὐτῷ ἐν τῇ οἰκίᾳ αὐτοῦ… Διὰ τί μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίετε καὶ πίνετε;… Οὐ χρείαν ἔχουσιν οἱ ὑγιαίνοντες ἰατροῦ ἀλλὰ οἱ κακῶς ἔχοντες· οὐκ ἐλήλυθα καλέσαι δικαίους ἀλλὰ ἁμαρτωλοὺς εἰς μετάνοιαν.*
+
+- **"Levi made a great reception (δοχή) for him in his house"**: δοχή is the noun of δέχομαι, "receive". At Nazareth no prophet is "received" (δεκτός, 4:24). Here a tax collector makes a great reception in his own house. The text uses the same word for refusal and for reception.
+- **"eating and drinking with tax collectors and sinners"**: appropriation and conjunction, the first meal. Those who know they are sinners receive.
+- **"Those who are well do not need a physician, but the sick"**: this answers Nazareth's "Physician, heal yourself" (4:23). The physician is not for himself, and not for those who think themselves well; he is for those who know they are ill.
+- **"to call sinners to repentance"** (εἰς μετάνοιαν): the first mention of repentance in this text. The text ends with repentance proclaimed to all nations (24:47).
+
+### 5:33–35
+
+*Οἱ μαθηταὶ Ἰωάννου νηστεύουσιν πυκνὰ… οἱ δὲ σοὶ ἐσθίουσιν καὶ πίνουσιν… τοὺς υἱοὺς τοῦ νυμφῶνος ἐν ᾧ ὁ νυμφίος μετ’ αὐτῶν ἐστιν… ὅταν ἀπαρθῇ ἀπ’ αὐτῶν ὁ νυμφίος τότε νηστεύσουσιν*
+
+- **"John's disciples and the Pharisees' fast and pray; yours eat and drink"**: John appears here for the first time in the text. He is known only through his disciples' fasting.
+- **"the sons of the bridal chamber, while the bridegroom is with them"**: the wedding is the conjunction of good and truth; the bridegroom is the Divine. While he is present, there is no fasting.
+- **"when the bridegroom is taken away (ἀπαρθῇ), they will fast"**: the first indication that he will be taken away.
+
+### 5:36–38
+
+*Οὐδεὶς ἐπίβλημα ἀπὸ ἱματίου καινοῦ σχίσας ἐπιβάλλει ἐπὶ ἱμάτιον παλαιόν… οὐδεὶς βάλλει οἶνον νέον εἰς ἀσκοὺς παλαιούς… ἀλλὰ οἶνον νέον εἰς ἀσκοὺς καινοὺς βλητέον.*
+
+- **"No one tears a patch from a new garment to put on an old one"**: garments are the truths that clothe the mind. A piece of the new torn off to mend the old ruins the new and does not match the old.
+- **"new wine into old skins"**: wine is truth from good; skins are the vessels that hold it, the knowledges of the natural. New wine bursts old vessels; it is lost and they are lost.
+- **"new wine must be put into new skins"**: what has been received cannot be added to what the mind already was. The vessel itself must be new.
+- **The chapter's movements read this way.** The boats sank under the catch (5:7); the patch, the old garment and the old skins cannot take the new; the one who was carried now carries his bed. The text has already shown vessels that could not hold what came.
+
+### Test: 5:39 (U−)
+
+*καὶ οὐδεὶς πιὼν παλαιὸν θέλει νέον· λέγει γάρ· Ὁ παλαιὸς χρηστός ἐστιν.*
+
+- **"No one who has drunk old wine wants new; he says, 'the old is good'"**: the mind settled in the old truths prefers what it has. This is Nazareth's position in one sentence.
+
+**Verdict: continues.** It completes the saying.
+
+### 6:1–5
+
+*Ἐγένετο δὲ ἐν σαββάτῳ διαπορεύεσθαι αὐτὸν διὰ σπορίμων, καὶ ἔτιλλον οἱ μαθηταὶ αὐτοῦ καὶ ἤσθιον τοὺς στάχυας ψώχοντες ταῖς χερσίν… ὡς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ καὶ τοὺς ἄρτους τῆς προθέσεως λαβὼν ἔφαγεν καὶ ἔδωκεν… Κύριός ἐστιν ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου.*
+
+- **"on a sabbath he was going through the sown fields"** (διαπορεύεσθαι): the road again, now through what has been sown.
+- **"the disciples plucked the ears and ate, rubbing them in their hands"**: grain is good, the stuff of bread. They take it with their own hands and eat: appropriation of good, in the state of rest.
+- **"What is not lawful on the sabbaths"**.
+- **"David… entered the house of God, took the bread of the presence, ate and gave to those with him"**: the bread set before God, holy good, given to the hungry. What is given is passed on.
+- **"The son of man is lord of the sabbath"**: the state of rest and conjunction belongs to the Divine, not to the rule that guards it.
+
+### 6:6–7
+
+*εἰσελθεῖν αὐτὸν εἰς τὴν συναγωγὴν καὶ διδάσκειν· καὶ ἦν ἄνθρωπος ἐκεῖ καὶ ἡ χεὶρ αὐτοῦ ἡ δεξιὰ ἦν ξηρά· παρετηροῦντο δὲ οἱ γραμματεῖς… ἵνα εὕρωσιν κατηγορεῖν αὐτοῦ.*
+
+- **"on another sabbath he entered the assembly and taught; a man was there"**: the same setting as the first scene of the text (4:31–33): a sabbath, the assembly, teaching, and a man.
+- **"his right hand was dry"**: the right hand is power from good; dry, without life. He has no power to act. At 4:33 the man was held by a falsity; this man is lacking.
+- **"they watched to find how to accuse him"**.
+
+### 6:8 (grey)
+
+*αὐτὸς δὲ ᾔδει τοὺς διαλογισμοὺς αὐτῶν, εἶπεν δὲ τῷ ἀνδρὶ… Ἔγειρε καὶ στῆθι εἰς τὸ μέσον· καὶ ἀναστὰς ἔστη.*
+
+- **"he knew their reasonings"**: as at 5:22.
+- **"Rise and stand into the midst"** (Ἔγειρε καὶ στῆθι εἰς τὸ μέσον): the midst for the fourth time, and now the man stands in it. In the first synagogue (4:35) the man was thrown down into the midst by the falsity; at the house (5:19) the paralysed man was let down into the midst by others; here the man rises and stands in the midst himself.
+- **"and rising, he stood"** (ἀναστὰς ἔστη): the third rising given to a person.
+
+### 6:9
+
+*Ἐπερωτῶ ὑμᾶς, εἰ ἔξεστιν τῷ σαββάτῳ ἀγαθοποιῆσαι ἢ κακοποιῆσαι, ψυχὴν σῶσαι ἢ ἀπολέσαι;*
+
+- **"to save a soul or to destroy it"** (ἀπολέσαι): the daimon's word. "Have you come to destroy (ἀπολέσαι) us?" (4:34). The falsity feared destruction and was right; the soul is to be saved. What the Divine destroys is the falsity, never the soul.
+
+### 6:10–11 (grey)
+
+*καὶ περιβλεψάμενος πάντας αὐτοὺς εἶπεν αὐτῷ· Ἔκτεινον τὴν χεῖρά σου· ὁ δὲ ἐποίησεν, καὶ ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ. αὐτοὶ δὲ ἐπλήσθησαν ἀνοίας…*
+
+- **"Stretch out your hand"** (Ἔκτεινον τὴν χεῖρά σου): the gesture Jesus made to cleanse the leper (ἐκτείνας τὴν χεῖρα, 5:13). Now the man is told to make it himself.
+- **"he did so, and his hand was restored"**: the power that was dry is given back. The man acts.
+- **"they were filled with folly"** (ἀνοίας, "without mind"): filled again. The assembly at Nazareth was filled with rage (4:28); this one with folly.
+
+### What came out of the reading of chapter 2
+
+**Rising begins, and it begins as a gift.** In chapter 1 the only person who rose was the own, rising against the Divine (4:29). In this chapter three people rise:
+- the paralysed man, after his sins are let go (5:24–25);
+- Levi, after leaving everything (5:28);
+- the man with the dry hand, into the midst (6:8).
+
+Each rising comes after a letting go, and by the word, never of the man's own accord.
+
+**The sequence of the midst.**
+- Thrown down into it by a falsity (4:35).
+- Let down into it by others' faith (5:19).
+- Standing up in it oneself (6:8).
+
+The midst is the place of the inmost, and the person comes to stand there.
+
+**Letting go (ἀφίημι).** "Leaving everything" (5:11) and "your sins are let go" (5:20–24) are one verb. What is let go of is both the evil and everything one held.
+
+**Reception (δέχομαι).** Nazareth does not receive (δεκτός, 4:24); Levi makes a great reception (δοχή, 5:29).
+
+**Knowing.** The falsities knew him and were muzzled (chapter 1). The scribes know correctly and are answered (5:21, 5:24). Simon knows himself (5:8) and is called.
+
+**The physician.** Nazareth demanded that the physician heal himself (4:23). Here the physician is for those who know they are ill (5:31).
+
+**Filling.** With rage (4:28), with fish (5:7), with leprosy (5:12), with fear (5:26), with folly (6:11).
+
+**The vessel.** Nothing new can be put into the old: the sinking boats, the torn nets, the old garment and the old skins.
+
+**What is ascending.** It is beginning to show. The person, cast down by falsity, is brought to stand at the centre. He rises only after what holds him (sin, possessions) is let go, and only at the word. The own rose too, in chapter 1, but against the Divine; here the rising is received.
+
+**Test: 4:38–39 (U?), read again by its words.** *ἐπιστὰς ἐπάνω αὐτῆς ἐπετίμησεν τῷ πυρετῷ, καὶ ἀφῆκεν αὐτήν· παραχρῆμα δὲ ἀναστᾶσα διηκόνει αὐτοῖς* ("standing over her, he rebuked the fever, and it let her go; at once rising, she served them").
+- "Rebuked" (ἐπετίμησεν) is the verb used of the daimon (4:35).
+- "Let her go" (ἀφῆκεν) is the verb of letting go (5:11, 5:20).
+- "Rising" (ἀναστᾶσα) is the rising verb.
+
+At its place, after 4:37, it would be the first rising of a person in the text, by a woman (an affection), into service. **Verdict: continues.** Every one of its verbs belongs to the threads, and it would open the line that chapter 2 develops.
+
+### Threads to carry forward
+
+- rising (ἀνίστημι, ἐγείρω);
+- the midst (μέσον);
+- letting go (ἀφίημι);
+- reception (δέχομαι);
+- knowing;
+- filling;
+- the vessel, new and old;
+- the road (πορεύομαι);
+- the meal (eating and drinking);
+- the bridegroom "taken away";
+- repentance (μετάνοια);
+- the sabbath and the assembly;
+- hands, stretched out.
