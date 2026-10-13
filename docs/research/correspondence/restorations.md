@@ -17,7 +17,7 @@ The reading then asks whether the printed text needs the passage. This has two l
 - **Needed.** The printed text's own words point to the missing passage, or the printed text sets up a movement and never completes it without the passage. Both are given wherever they apply.
 - **Leans on.** The printed text opens a strand or a clause that only the passage closes, but the printed line still runs without it.
 
-## 1. Needed (approved for printing as restored by method)
+## 1. Needed (approved, and printed as restored by method on 2026-10-13: METHOD §11; AUDIT_LOG)
 
 | Passage | Class | By its words | By its mechanics | Chapter of the reading |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@ The reading then asks whether the printed text needs the passage. This has two l
 - 19:29–46 and the Marcionite parts are restored *against* Marcion's text, and the notes say so.
 - 4:17–21 and 24:44–46 are restored against their class (U−: probably absent by the witnesses' silence), not against a statement of absence.
 - 24:48–53 is restored against METHOD §10's default ending.
+- 24:47b ("beginning from Jerusalem") is printed with 24:48–53, and 24:47 loses its ellipsis.
 
 ## 2. Leans on (for the owner's decision)
 

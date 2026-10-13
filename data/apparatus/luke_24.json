@@ -425,12 +425,34 @@
       "reason": "\"Did not our hearts burn within us… while he opened to us the scriptures?\" Unattested; for the same reason as 24:27 it would have been cited if present. Classed probably absent."
     },
     {
-      "ref": "24:33–35",
+      "ref": "24:33",
       "class": "U?",
       "roth": "unattested",
       "witnesses": [],
-      "decision": "not printed",
-      "reason": "The return to Jerusalem; \"The Lord has risen indeed, and has appeared to Simon!\" A paragraph with no attested verse (METHOD §4.3)."
+      "wording": "NA27 (checked on the page image, p. 244).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: The return to Jerusalem; \"The Lord has risen indeed, and has appeared to Simon!\" A paragraph with no attested verse (METHOD §4.3). Restored by method (METHOD §11): by its words, the printed 24:36 opens \"as they were saying these things (ταῦτα δὲ αὐτῶν λαλούντων), he himself stood in their midst\", and in the printed text no one says anything after 24:31; \"these things\" are what is told in 24:35, and \"their midst\" is the eleven gathered (24:33). Without it, those who are terrified and think they see a spirit (24:37) are the two who have just recognized him at the bread. By its mechanics: the road of the text goes to Jerusalem (9:51); after the cross two go away from it (24:13), and 24:33 brings them back (\"rising, they returned to Jerusalem\"); 24:34 \"he has appeared to Simon\" is the \"turning back\" of 22:32. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:32–35.",
+      "reconstruction": "chapter 22, verse 29"
+    },
+    {
+      "ref": "24:34",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 244).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: The return to Jerusalem; \"The Lord has risen indeed, and has appeared to Simon!\" A paragraph with no attested verse (METHOD §4.3). Restored by method (METHOD §11): by its words, the printed 24:36 opens \"as they were saying these things (ταῦτα δὲ αὐτῶν λαλούντων), he himself stood in their midst\", and in the printed text no one says anything after 24:31; \"these things\" are what is told in 24:35, and \"their midst\" is the eleven gathered (24:33). Without it, those who are terrified and think they see a spirit (24:37) are the two who have just recognized him at the bread. By its mechanics: the road of the text goes to Jerusalem (9:51); after the cross two go away from it (24:13), and 24:33 brings them back (\"rising, they returned to Jerusalem\"); 24:34 \"he has appeared to Simon\" is the \"turning back\" of 22:32. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:32–35.",
+      "reconstruction": "chapter 22, verse 30"
+    },
+    {
+      "ref": "24:35",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 244).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: The return to Jerusalem; \"The Lord has risen indeed, and has appeared to Simon!\" A paragraph with no attested verse (METHOD §4.3). Restored by method (METHOD §11): by its words, the printed 24:36 opens \"as they were saying these things (ταῦτα δὲ αὐτῶν λαλούντων), he himself stood in their midst\", and in the printed text no one says anything after 24:31; \"these things\" are what is told in 24:35, and \"their midst\" is the eleven gathered (24:33). Without it, those who are terrified and think they see a spirit (24:37) are the two who have just recognized him at the bread. By its mechanics: the road of the text goes to Jerusalem (9:51); after the cross two go away from it (24:13), and 24:33 brings them back (\"rising, they returned to Jerusalem\"); 24:34 \"he has appeared to Simon\" is the \"turning back\" of 22:32. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:32–35.",
+      "reconstruction": "chapter 22, verse 31"
     },
     {
       "ref": "24:36",
@@ -440,7 +462,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Opens the attested paragraph 24:36–43.",
-      "reconstruction": "chapter 22, verse 29"
+      "reconstruction": "chapter 22, verse 32"
     },
     {
       "ref": "24:37",
@@ -454,7 +476,7 @@
       ],
       "wording": "NA27. Tertullian: \"when they hesitated whether he was a phantom, or rather believed him a phantom\". D d read φάντασμα (\"phantom\") for πνεῦμα. \"Phantom\" (phantasma) is Tertullian's standing word for the Marcionite Christ (4.40.3; 4.42.7–8; 4.43.8), so his use of it here does not show the wording of the verse; Roth: possible only. Not adopted.",
       "decision": "printed",
-      "reconstruction": "chapter 22, verse 30"
+      "reconstruction": "chapter 22, verse 33"
     },
     {
       "ref": "24:38",
@@ -472,7 +494,7 @@
       ],
       "wording": "NA27. Both witnesses quote the question.",
       "decision": "printed",
-      "reconstruction": "chapter 22, verse 31"
+      "reconstruction": "chapter 22, verse 34"
     },
     {
       "ref": "24:39",
@@ -498,7 +520,7 @@
       ],
       "wording": "NA27 without \"handle me and see\" and without \"flesh and\" (attested omissions, METHOD §5.3). \"Flesh and\": both witnesses quote \"a spirit does not have bones\" (Tertullian twice). Epiphanius, when he cites the verse himself, has \"flesh and bones\" (Ancor. 91.6; Pan. 64.64.7; 77.9.5, as quoted by Roth), and in his elenchus here says that the Saviour has \"bones and flesh\"; his scholion has only \"bones\". NA27 cites McionT,E for the omission. \"Handle me and see\": Tertullian's quotation runs on from \"it is I myself\" to \"for a spirit\"; he argues from this verse that the body was real (\"what could be clearer about the truth of the body?\") and speaks only of hands and feet offered \"for inspection\" (4.43.8). An invitation to touch would have been his strongest evidence. Epiphanius' quotation also lacks it, but he also skips \"that it is I myself\", so his evidence is weaker here. Roth rates both omissions \"may not have been present\"; the departure rests on the witnesses' arguments and citation habits. Tertullian also cites the verse without both elements in Carn. Chr. 5.9 (as quoted by Roth), so the shorter form may not have been confined to Marcion's text.",
       "decision": "printed",
-      "reconstruction": "chapter 22, verse 32"
+      "reconstruction": "chapter 22, verse 35"
     },
     {
       "ref": "24:40",
@@ -508,7 +530,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested paragraph 24:36–43. Tertullian's \"he offers his hands and feet for inspection\" (4.43.8) refers to 24:39 (Roth).",
-      "reconstruction": "chapter 22, verse 33"
+      "reconstruction": "chapter 22, verse 36"
     },
     {
       "ref": "24:41",
@@ -522,7 +544,7 @@
       ],
       "wording": "NA27. Tertullian attests the disbelief and the request for food (Roth: very likely). \"For joy and marvelling\" is unattested.",
       "decision": "printed",
-      "reconstruction": "chapter 22, verse 34"
+      "reconstruction": "chapter 22, verse 37"
     },
     {
       "ref": "24:42",
@@ -532,7 +554,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested paragraph 24:36–43. Roth classes the verse present on Eznik, De Deo 407 (Marcionites abstain from fish now, \"just as he too after his resurrection ate the fish\"). The Armenian text was not checked here, so the verse is printed as unattested.",
-      "reconstruction": "chapter 22, verse 35"
+      "reconstruction": "chapter 22, verse 38"
     },
     {
       "ref": "24:43",
@@ -542,15 +564,37 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested paragraph 24:36–43. See 24:42 (Eznik, as quoted by Roth). Tertullian's \"he asked for food to show that he had teeth\" (4.43.8) points to the eating.",
-      "reconstruction": "chapter 22, verse 36"
+      "reconstruction": "chapter 22, verse 39"
     },
     {
-      "ref": "24:44–46",
+      "ref": "24:44",
       "class": "U−",
       "roth": "unattested",
       "witnesses": [],
-      "decision": "not printed",
-      "reason": "\"Everything written about me in the law of Moses and the prophets and the psalms must be fulfilled… Then he opened their minds to understand the scriptures… Thus it is written, that the Christ should suffer and on the third day rise.\" Tertullian passes from the request for food (24:41; 4.43.8) to the sending to the nations (24:47; 4.43.9) and ends his book by claiming that he has shown Jesus to be the Christ of the prophets; these verses would have been his proof text. Epiphanius does not cite them either. Classed probably absent."
+      "wording": "NA27 (checked on the page image, p. 245). καὶ τοῖς προφήταις (SBLGNT καὶ προφήταις).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U−: Tertullian passes from the request for food (24:41; 4.43.8) to the sending to the nations (24:47; 4.43.9) and ends his book by claiming that he has shown Jesus to be the Christ of the prophets; these verses would have been his proof text. Epiphanius does not cite them either. Restored by method (METHOD §11): by its words, the printed 24:47 \"and that repentance… be proclaimed (καὶ κηρυχθῆναι)\" is an infinitive that depends on 24:46 \"thus it is written that\"; without it the verse hangs, and the previous text marked the gap with an ellipsis. By its mechanics: the text veils the understanding on purpose (9:45) and lifts the veil in stages (24:8 remembering; 23:45 the veil of the sanctuary torn; 24:31 the eyes opened at the bread); the opening of the mind to understand the scriptures is the last stage. And 16:31 sets the condition that rising from the dead persuades only those who hear Moses and the prophets; in the printed text Moses and the prophets are never opened about rising except here. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:44–46.",
+      "reconstruction": "chapter 22, verse 40"
+    },
+    {
+      "ref": "24:45",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 245).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U−: Tertullian passes from the request for food (24:41; 4.43.8) to the sending to the nations (24:47; 4.43.9) and ends his book by claiming that he has shown Jesus to be the Christ of the prophets; these verses would have been his proof text. Epiphanius does not cite them either. Restored by method (METHOD §11): by its words, the printed 24:47 \"and that repentance… be proclaimed (καὶ κηρυχθῆναι)\" is an infinitive that depends on 24:46 \"thus it is written that\"; without it the verse hangs, and the previous text marked the gap with an ellipsis. By its mechanics: the text veils the understanding on purpose (9:45) and lifts the veil in stages (24:8 remembering; 23:45 the veil of the sanctuary torn; 24:31 the eyes opened at the bread); the opening of the mind to understand the scriptures is the last stage. And 16:31 sets the condition that rising from the dead persuades only those who hear Moses and the prophets; in the printed text Moses and the prophets are never opened about rising except here. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:44–46.",
+      "reconstruction": "chapter 22, verse 41"
+    },
+    {
+      "ref": "24:46",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 245).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U−: Tertullian passes from the request for food (24:41; 4.43.8) to the sending to the nations (24:47; 4.43.9) and ends his book by claiming that he has shown Jesus to be the Christ of the prophets; these verses would have been his proof text. Epiphanius does not cite them either. Restored by method (METHOD §11): by its words, the printed 24:47 \"and that repentance… be proclaimed (καὶ κηρυχθῆναι)\" is an infinitive that depends on 24:46 \"thus it is written that\"; without it the verse hangs, and the previous text marked the gap with an ellipsis. By its mechanics: the text veils the understanding on purpose (9:45) and lifts the veil in stages (24:8 remembering; 23:45 the veil of the sanctuary torn; 24:31 the eyes opened at the bread); the opening of the mind to understand the scriptures is the last stage. And 16:31 sets the condition that rising from the dead persuades only those who hear Moses and the prophets; in the printed text Moses and the prophets are never opened about rising except here. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:44–46.",
+      "reconstruction": "chapter 22, verse 42"
     },
     {
       "ref": "24:47",
@@ -562,17 +606,69 @@
           "evidence": "\"siquidem et apostolos mittens ad praedicandum universis nationibus, in omnem terram exire sonum eorum et in terminos terrae voces eorum, psalmum adimplendo praecepit.\""
         }
       ],
-      "wording": "NA27 (εἰς ἄφεσιν, as NA27; SBLGNT καὶ ἄφεσιν). Tertullian attests the sending to preach to all the nations, as Jesus' command; Roth: κηρυχθῆναι… εἰς πάντα τὰ ἔθνη very likely. In NA27 the infinitive depends on \"thus it is written\" in 24:46, which is not printed (see the notes); how this text introduced the command is not attested, and the ellipsis marks the gap. \"Beginning from Jerusalem\", which NA27 punctuates with 24:48, is unattested and not printed. 24:47 is the last attested verse (METHOD §10).",
+      "wording": "NA27 (εἰς ἄφεσιν, as NA27; SBLGNT καὶ ἄφεσιν; NA27 punctuation, with \"beginning from Jerusalem\" opening the sentence of 24:48). Tertullian attests the sending to preach to all the nations, as Jesus' command; Roth: κηρυχθῆναι… εἰς πάντα τὰ ἔθνη very likely. The infinitive depends on \"thus it is written\" in 24:46, printed as restored by method. 24:47b (\"beginning from Jerusalem\") is unattested and is printed as restored by method with 24:48–53 (METHOD §11); the previous text ended here with an ellipsis before the verse.",
       "decision": "printed",
-      "reconstruction": "chapter 22, verse 37"
+      "reconstruction": "chapter 22, verse 43"
     },
     {
-      "ref": "24:48–53",
+      "ref": "24:48",
       "class": "U?",
       "roth": "unattested",
       "witnesses": [],
-      "decision": "not printed",
-      "reason": "\"You are witnesses of these things… stay in the city until you are clothed with power from on high.\" The departure at Bethany, the parting, the return to Jerusalem and the temple. No witness cites anything after 24:47. Under METHOD §10 the text ends with the last attested verse. 24:51b (\"and was carried up into heaven\") and 24:52a (\"worshipped him\") are Western non-interpolations."
+      "wording": "NA27 (checked on the page image, p. 245). Without ἐστε (SBLGNT has it).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: No witness cites anything after 24:47, and METHOD §10 ends the text at the last attested verse by default. 24:51b (\"and was carried up into heaven\") and 24:52a (\"worshipped him\") are Western non-interpolations (lacking in ℵ* D it sys), printed by NA27 without brackets. Restored by method (METHOD §11): by its mechanics, at 9:51 the text names its own end: \"the days of his taking up (ἀνάλημψις) were being fulfilled, and he set his face to go to Jerusalem\". In the printed text the taking up is never told; the text stops at the command (24:47), before the end it announced. 24:50–51 is that end: the hands lifted, the blessing, the parting while he blesses, carried up into heaven; and the disciples return to Jerusalem with joy, to the temple. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:48–53. This also departs from the default ending of METHOD §10 (overridden by the owner).",
+      "reconstruction": "chapter 22, verse 44"
+    },
+    {
+      "ref": "24:49",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 245). ἀποστέλλω (SBLGNT ἐξαποστέλλω); NA27 [ἰδού] printed without the brackets (METHOD §5.7).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: No witness cites anything after 24:47, and METHOD §10 ends the text at the last attested verse by default. 24:51b (\"and was carried up into heaven\") and 24:52a (\"worshipped him\") are Western non-interpolations (lacking in ℵ* D it sys), printed by NA27 without brackets. Restored by method (METHOD §11): by its mechanics, at 9:51 the text names its own end: \"the days of his taking up (ἀνάλημψις) were being fulfilled, and he set his face to go to Jerusalem\". In the printed text the taking up is never told; the text stops at the command (24:47), before the end it announced. 24:50–51 is that end: the hands lifted, the blessing, the parting while he blesses, carried up into heaven; and the disciples return to Jerusalem with joy, to the temple. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:48–53. This also departs from the default ending of METHOD §10 (overridden by the owner).",
+      "reconstruction": "chapter 22, verse 45"
+    },
+    {
+      "ref": "24:50",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 246). NA27 [ἔξω] printed without the brackets (METHOD §5.7).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: No witness cites anything after 24:47, and METHOD §10 ends the text at the last attested verse by default. 24:51b (\"and was carried up into heaven\") and 24:52a (\"worshipped him\") are Western non-interpolations (lacking in ℵ* D it sys), printed by NA27 without brackets. Restored by method (METHOD §11): by its mechanics, at 9:51 the text names its own end: \"the days of his taking up (ἀνάλημψις) were being fulfilled, and he set his face to go to Jerusalem\". In the printed text the taking up is never told; the text stops at the command (24:47), before the end it announced. 24:50–51 is that end: the hands lifted, the blessing, the parting while he blesses, carried up into heaven; and the disciples return to Jerusalem with joy, to the temple. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:48–53. This also departs from the default ending of METHOD §10 (overridden by the owner).",
+      "reconstruction": "chapter 22, verse 46"
+    },
+    {
+      "ref": "24:51",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 246). NA27 prints 51b without brackets (SBLGNT brackets it).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: No witness cites anything after 24:47, and METHOD §10 ends the text at the last attested verse by default. 24:51b (\"and was carried up into heaven\") and 24:52a (\"worshipped him\") are Western non-interpolations (lacking in ℵ* D it sys), printed by NA27 without brackets. Restored by method (METHOD §11): by its mechanics, at 9:51 the text names its own end: \"the days of his taking up (ἀνάλημψις) were being fulfilled, and he set his face to go to Jerusalem\". In the printed text the taking up is never told; the text stops at the command (24:47), before the end it announced. 24:50–51 is that end: the hands lifted, the blessing, the parting while he blesses, carried up into heaven; and the disciples return to Jerusalem with joy, to the temple. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:48–53. This also departs from the default ending of METHOD §10 (overridden by the owner).",
+      "reconstruction": "chapter 22, verse 47"
+    },
+    {
+      "ref": "24:52",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 246). NA27 prints 52a without brackets (SBLGNT brackets it).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: No witness cites anything after 24:47, and METHOD §10 ends the text at the last attested verse by default. 24:51b (\"and was carried up into heaven\") and 24:52a (\"worshipped him\") are Western non-interpolations (lacking in ℵ* D it sys), printed by NA27 without brackets. Restored by method (METHOD §11): by its mechanics, at 9:51 the text names its own end: \"the days of his taking up (ἀνάλημψις) were being fulfilled, and he set his face to go to Jerusalem\". In the printed text the taking up is never told; the text stops at the command (24:47), before the end it announced. 24:50–51 is that end: the hands lifted, the blessing, the parting while he blesses, carried up into heaven; and the disciples return to Jerusalem with joy, to the temple. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:48–53. This also departs from the default ending of METHOD §10 (overridden by the owner).",
+      "reconstruction": "chapter 22, verse 48"
+    },
+    {
+      "ref": "24:53",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 246).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: No witness cites anything after 24:47, and METHOD §10 ends the text at the last attested verse by default. 24:51b (\"and was carried up into heaven\") and 24:52a (\"worshipped him\") are Western non-interpolations (lacking in ℵ* D it sys), printed by NA27 without brackets. Restored by method (METHOD §11): by its mechanics, at 9:51 the text names its own end: \"the days of his taking up (ἀνάλημψις) were being fulfilled, and he set his face to go to Jerusalem\". In the printed text the taking up is never told; the text stops at the command (24:47), before the end it announced. 24:50–51 is that end: the hands lifted, the blessing, the parting while he blesses, carried up into heaven; and the disciples return to Jerusalem with joy, to the temple. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:48–53. This also departs from the default ending of METHOD §10 (overridden by the owner).",
+      "reconstruction": "chapter 22, verse 49"
     }
   ]
 }

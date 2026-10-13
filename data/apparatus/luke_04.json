@@ -55,17 +55,79 @@
       "reconstruction": "chapter 1, verse 9"
     },
     {
-      "ref": "4:17–21",
+      "ref": "4:17",
       "class": "U−",
       "roth": "unattested (\"possibly not present\")",
       "witnesses": [
         {
           "source": "Tertullian, Marc. 4.8.2",
-          "evidence": "\"nihil novi notatur praedicasse\"."
+          "evidence": "\"nihil novi notatur praedicasse\" (the class U− rests on this silence; see the reason)."
         }
       ],
-      "decision": "not printed",
-      "reason": "Tertullian works through the Nazareth visit (4.8.2–3) and his whole case in book IV is that Jesus fulfils the Creator's prophets. A reading of Isaiah 61 announced as fulfilled \"today\" would have been his strongest proof; he says only that Jesus preached \"nothing new\". Silence where the passage would have served him (METHOD §3, U−)."
+      "wording": "NA27 (checked on the page image, p. 164).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U−: Tertullian works through the Nazareth visit (4.8.2–3), and his case in book IV is that Jesus fulfils the Creator's prophets; a reading of Isaiah 61 announced as fulfilled \"today\" would have been his strongest proof, and he says only that Jesus preached \"nothing new\". Restored by method (METHOD §11). By its words, the printed text needs the passage: 4:16 ends \"stood up to read\" and nothing is read; 4:23 \"surely you will say this parable to me\" answers something he said; 4:24 \"accepted\" (δεκτός) answers 4:19 \"the acceptable (δεκτόν) year\". By its mechanics: the first rising in the text is rising to read the Word, and the proclamation of release (4:18) is the first of which 24:47 is the last. Reading: docs/research/correspondence/word_by_word.md, chapter 1, test of 4:17–22. Printed against the class U− (the silence of Tertullian), not against an attested absence.",
+      "reconstruction": "chapter 1, verse 10"
+    },
+    {
+      "ref": "4:18",
+      "class": "U−",
+      "roth": "unattested (\"possibly not present\")",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.2",
+          "evidence": "\"nihil novi notatur praedicasse\" (the class U− rests on this silence; see the reason)."
+        }
+      ],
+      "wording": "NA27 (p. 164). NA27 prints the quotation of Isaiah 61:1–2 (with 58:6) as verse lines.",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U−: Tertullian works through the Nazareth visit (4.8.2–3), and his case in book IV is that Jesus fulfils the Creator's prophets; a reading of Isaiah 61 announced as fulfilled \"today\" would have been his strongest proof, and he says only that Jesus preached \"nothing new\". Restored by method (METHOD §11). By its words, the printed text needs the passage: 4:16 ends \"stood up to read\" and nothing is read; 4:23 \"surely you will say this parable to me\" answers something he said; 4:24 \"accepted\" (δεκτός) answers 4:19 \"the acceptable (δεκτόν) year\". By its mechanics: the first rising in the text is rising to read the Word, and the proclamation of release (4:18) is the first of which 24:47 is the last. Reading: docs/research/correspondence/word_by_word.md, chapter 1, test of 4:17–22. Printed against the class U− (the silence of Tertullian), not against an attested absence.",
+      "reconstruction": "chapter 1, verse 11"
+    },
+    {
+      "ref": "4:19",
+      "class": "U−",
+      "roth": "unattested (\"possibly not present\")",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.2",
+          "evidence": "\"nihil novi notatur praedicasse\" (the class U− rests on this silence; see the reason)."
+        }
+      ],
+      "wording": "NA27 (p. 164).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U−: Tertullian works through the Nazareth visit (4.8.2–3), and his case in book IV is that Jesus fulfils the Creator's prophets; a reading of Isaiah 61 announced as fulfilled \"today\" would have been his strongest proof, and he says only that Jesus preached \"nothing new\". Restored by method (METHOD §11). By its words, the printed text needs the passage: 4:16 ends \"stood up to read\" and nothing is read; 4:23 \"surely you will say this parable to me\" answers something he said; 4:24 \"accepted\" (δεκτός) answers 4:19 \"the acceptable (δεκτόν) year\". By its mechanics: the first rising in the text is rising to read the Word, and the proclamation of release (4:18) is the first of which 24:47 is the last. Reading: docs/research/correspondence/word_by_word.md, chapter 1, test of 4:17–22. Printed against the class U− (the silence of Tertullian), not against an attested absence.",
+      "reconstruction": "chapter 1, verse 12"
+    },
+    {
+      "ref": "4:20",
+      "class": "U−",
+      "roth": "unattested (\"possibly not present\")",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.2",
+          "evidence": "\"nihil novi notatur praedicasse\" (the class U− rests on this silence; see the reason)."
+        }
+      ],
+      "wording": "NA27 (p. 164).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U−: Tertullian works through the Nazareth visit (4.8.2–3), and his case in book IV is that Jesus fulfils the Creator's prophets; a reading of Isaiah 61 announced as fulfilled \"today\" would have been his strongest proof, and he says only that Jesus preached \"nothing new\". Restored by method (METHOD §11). By its words, the printed text needs the passage: 4:16 ends \"stood up to read\" and nothing is read; 4:23 \"surely you will say this parable to me\" answers something he said; 4:24 \"accepted\" (δεκτός) answers 4:19 \"the acceptable (δεκτόν) year\". By its mechanics: the first rising in the text is rising to read the Word, and the proclamation of release (4:18) is the first of which 24:47 is the last. Reading: docs/research/correspondence/word_by_word.md, chapter 1, test of 4:17–22. Printed against the class U− (the silence of Tertullian), not against an attested absence.",
+      "reconstruction": "chapter 1, verse 13"
+    },
+    {
+      "ref": "4:21",
+      "class": "U−",
+      "roth": "unattested (\"possibly not present\")",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.8.2",
+          "evidence": "\"nihil novi notatur praedicasse\" (the class U− rests on this silence; see the reason)."
+        }
+      ],
+      "wording": "NA27 (p. 164).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U−: Tertullian works through the Nazareth visit (4.8.2–3), and his case in book IV is that Jesus fulfils the Creator's prophets; a reading of Isaiah 61 announced as fulfilled \"today\" would have been his strongest proof, and he says only that Jesus preached \"nothing new\". Restored by method (METHOD §11). By its words, the printed text needs the passage: 4:16 ends \"stood up to read\" and nothing is read; 4:23 \"surely you will say this parable to me\" answers something he said; 4:24 \"accepted\" (δεκτός) answers 4:19 \"the acceptable (δεκτόν) year\". By its mechanics: the first rising in the text is rising to read the Word, and the proclamation of release (4:18) is the first of which 24:47 is the last. Reading: docs/research/correspondence/word_by_word.md, chapter 1, test of 4:17–22. Printed against the class U− (the silence of Tertullian), not against an attested absence.",
+      "reconstruction": "chapter 1, verse 14"
     },
     {
       "ref": "4:22",
@@ -92,7 +154,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 1, verse 10"
+      "reconstruction": "chapter 1, verse 15"
     },
     {
       "ref": "4:24",
@@ -102,7 +164,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested Nazareth pericope. Tertullian's \"unius proverbii\" may refer to this saying rather than to 4:23; it cannot be decided.",
-      "reconstruction": "chapter 1, verse 11"
+      "reconstruction": "chapter 1, verse 16"
     },
     {
       "ref": "4:25–26",
@@ -143,7 +205,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested Nazareth pericope; Tertullian reports the ejection but not the rage.",
-      "reconstruction": "chapter 1, verse 12"
+      "reconstruction": "chapter 1, verse 17"
     },
     {
       "ref": "4:29",
@@ -157,7 +219,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 1, verse 13"
+      "reconstruction": "chapter 1, verse 18"
     },
     {
       "ref": "4:30",
@@ -171,7 +233,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 1, verse 14"
+      "reconstruction": "chapter 1, verse 19"
     },
     {
       "ref": "4:31",
@@ -288,7 +350,7 @@
       ],
       "wording": "NA27 (εἶχον, ἐθεράπευεν; checked on the page image).",
       "decision": "printed",
-      "reconstruction": "chapter 1, verse 15"
+      "reconstruction": "chapter 1, verse 20"
     },
     {
       "ref": "4:41",
@@ -302,7 +364,7 @@
       ],
       "wording": "NA27. NA27 cites McionT for its text against the addition ὁ χριστός after εἶ (A Q Θ Ψ 0102 f1.13 𝔐). κραυγάζοντα is NA27 text (κράζοντα ℵ B C …).",
       "decision": "printed",
-      "reconstruction": "chapter 1, verse 16"
+      "reconstruction": "chapter 1, verse 21"
     },
     {
       "ref": "4:42",
@@ -316,7 +378,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 1, verse 17"
+      "reconstruction": "chapter 1, verse 22"
     },
     {
       "ref": "4:43",
@@ -330,7 +392,7 @@
       ],
       "wording": "NA27. Tertullian's order \"oportet me… et aliis civitatibus\" is rated very likely by Roth for δεῖ με only; word order in a Latin citation is not evidence for Greek order, so NA27 is kept.",
       "decision": "printed",
-      "reconstruction": "chapter 1, verse 18"
+      "reconstruction": "chapter 1, verse 23"
     },
     {
       "ref": "4:44",
@@ -340,7 +402,7 @@
       "wording": "NA27 (Ἰουδαίας; Γαλιλαίας A D Θ Ψ f13 𝔐).",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested pericope 4:42–44.",
-      "reconstruction": "chapter 1, verse 19"
+      "reconstruction": "chapter 1, verse 24"
     }
   ]
 }

@@ -1,10 +1,23 @@
-"""Batch 5, chapter 17 of the reconstruction: Luke 19:1–48 (19:1–26 printed)."""
-from buildlib import greek
+"""Batch 5, chapter 17 of the reconstruction: Luke 19:1–48 (19:1–26 printed; 19:28–46 restored by method, METHOD §11)."""
+from buildlib import greek, R
 from batch1_ch2 import U, A
 from batch5_patches import G
 
 T = lambda loc, ev: {'source': f'Tertullian, Marc. {loc}', 'evidence': ev}
 E = lambda n, ev: {'source': f'Epiphanius, Pan. 42.11.6, sch. {n}', 'evidence': ev}
+
+E53 = E(53, 'παρέκοψεν τὸ κεφάλαιον τὸ περὶ τῆς ὄνου καὶ Βηθφαγὴ καὶ τὸ περὶ τῆς πόλεως καὶ τοῦ ἱεροῦ, ὅτι γεγραμμένον ἦν »ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται, καὶ ποιεῖτε αὐτὸν σπήλαιον λῃστῶν«.')
+CR_19_28 = '"After he had said this, he went on ahead, going up to Jerusalem." A one-verse NA27 paragraph with no attested verse; it introduces the entry (19:29–46).'
+CR_19_29 = ('Epiphanius (sch. 53) states that the text lacked the section on the colt and Bethphage, the lament over the city, and the cleansing of the temple with its quotation '
+            '"my house shall be called a house of prayer". Tertullian passes from 19:26 (4.37.4) to 20:1–8 (4.38.1); Roth counts his silence as confirmation (tacitus).')
+GR_19 = ('by its mechanics, the road set at 9:51 ("he set his face to go to Jerusalem") is named again at 17:11 and 19:11 ("because he was near Jerusalem"), and without '
+         '19:28–46 it never arrives: from "near Jerusalem" the text goes to "in the temple" (20:1), with no going up, no descent of the mountain with "peace in heaven, '
+         'and glory in the highest", no weeping over the city whose peace is hidden from its eyes, and no entering the house of prayer. By its words, 20:2 "by what authority '
+         'do you do these things?" has its first object in 19:45–46. Reading: docs/research/correspondence/word_by_word.md, chapter 17, tests of 19:28 and 19:29–46.')
+W28 = lambda ref, en: R(ref, G(ref), en, 'U?', 'unattested', CR_19_28, GR_19, wording='NA27 (checked on the page image, p. 223).')
+AGAINST = (' Printed against Marcion\'s text: the witnesses state that the passage was not in it.')
+WA = lambda ref, en, page='224', note='': R(ref, G(ref), en, 'A−', 'absent', CR_19_29, GR_19 + AGAINST, witnesses=[E53],
+                                         wording=f'NA27 (checked on the page image, p. {page}).{note}')
 
 T371 = T('4.37.1', '"Consequitur et Zachaei domus salutem… exceptum domo sua pascens dominum… in omnia misericordiae opera dimidium substantiae offerens… dicendo, Et si cui quid per calumniam eripui, quadruplum reddo. Itaque dominus, Hodie, inquit, salus huic domui."')
 T374 = T('4.37.4', '"Servorum quoque parabola, qui secundum rationem feneratae pecuniae dominicae diiudicantur, iudicem ostendit deum, etiam ex parte severitatis, non tantum honorantem verum et auferentem quod quis videatur habuisse. Aut si et hic creatorem finxerit austerum, tollentem quod non posuerit et metentem quod non severit…"')
@@ -48,17 +61,31 @@ ENTRIES = [
  A('19:26', G('19:26'), '\'I tell you that to everyone who has, more will be given; but from the one who has not, even what he has will be taken away.',
    'present (Marc. 4.37.4)', [T374],
    wording='NA27. Tertullian\'s "what he seems to have" (quod quis videatur habuisse) is cited by NA27 for Marcion (ὃ δοκεῖ ἔχειν, with Θ 69 syc.h**); Roth: possible only (cf. 8:18). Not adopted.'),
+ W28('19:28', 'After he had said this, he went on ahead, going up to Jerusalem.'),
+ WA('19:29', 'When he drew near to Bethphage and Bethany, at the mountain called the Mount of Olives, he sent two of the disciples,', page='223', note=' NA27 prints Βηθανία[ν]; printed without the brackets (METHOD §5.7).'),
+ WA('19:30', 'saying, "Go into the village opposite, where as you enter you will find a colt tied, on which no one has ever sat; untie it and bring it.', page='223–224'),
+ WA('19:31', 'If anyone asks you, \'Why are you untying it?\' you shall say this: \'The Lord has need of it.\'"'),
+ WA('19:32', 'Those who were sent went away and found it as he had told them.'),
+ WA('19:33', 'As they were untying the colt, its owners said to them, "Why are you untying the colt?"'),
+ WA('19:34', 'They said, "The Lord has need of it."'),
+ WA('19:35', 'And they brought it to Jesus, and throwing their cloaks on the colt they set Jesus on it.'),
+ WA('19:36', 'As he went along, they spread their cloaks on the road.', note=' αὐτῶν (SBLGNT ἑαυτῶν).'),
+ WA('19:37', 'As he was now drawing near, at the descent of the Mount of Olives, the whole multitude of the disciples began to praise God joyfully with a loud voice for all the deeds of power they had seen,'),
+ WA('19:38', 'saying, "Blessed is the one who comes, the king, in the name of the Lord! Peace in heaven, and glory in the highest!"', note=' ὁ ἐρχόμενος ὁ βασιλεύς (SBLGNT ὁ ἐρχόμενος βασιλεύς).'),
+ WA('19:39', 'And some of the Pharisees in the crowd said to him, "Teacher, rebuke your disciples."'),
+ WA('19:40', 'He answered, "I tell you, if these are silent, the stones will cry out."', note=' Without ὅτι (SBLGNT has it).'),
+ WA('19:41', 'And as he drew near and saw the city, he wept over it,'),
+ WA('19:42', 'saying, "If you, even you, had known on this day the things that make for peace! But now they are hidden from your eyes.'),
+ WA('19:43', 'For days will come upon you when your enemies will set up a palisade against you and surround you and hem you in on every side,', page='225'),
+ WA('19:44', 'and they will dash you to the ground, you and your children within you, and they will not leave within you one stone upon another, because you did not know the time of your visitation."', page='225'),
+ WA('19:45', 'And he entered the temple and began to drive out those who were selling,', page='225'),
+ WA('19:46', 'saying to them, "It is written, \'And my house shall be a house of prayer,\' but you have made it a den of robbers."', page='225'),
 ]
 
 OMITTED = [
  dict(ref='19:27', cls='U−', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason=('"But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me." Tertullian\'s point in 4.37.4 is that the parable shows God as a judge "even on the side of severity", and he finds that severity in the master taking away what the servant seemed to have (19:26). '
               'The command to slaughter the master\'s enemies would have been his strongest evidence, and he does not cite it. The verse ends the NA27 paragraph 19:11–27.'))),
- dict(ref='19:28', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason='"After he had said this, he went on ahead, going up to Jerusalem." A one-verse NA27 paragraph with no attested verse; it introduces the entry (19:29–46), which Epiphanius says was absent.')),
- dict(ref='19:29–46', cls='A−', app=dict(roth='absent', witnesses=[
-      E(53, 'παρέκοψεν τὸ κεφάλαιον τὸ περὶ τῆς ὄνου καὶ Βηθφαγὴ καὶ τὸ περὶ τῆς πόλεως καὶ τοῦ ἱεροῦ, ὅτι γεγραμμένον ἦν »ὁ οἶκός μου οἶκος προσευχῆς κληθήσεται, καὶ ποιεῖτε αὐτὸν σπήλαιον λῃστῶν«.')],
-      decision='not printed', reason='Epiphanius states that the text lacked the section on the colt and Bethphage, the lament over the city, and the cleansing of the temple with its quotation "my house shall be called a house of prayer". Tertullian passes from 19:26 (4.37.4) to 20:1–8 (4.38.1); Roth counts his silence as confirmation (tacitus).')),
  dict(ref='19:47–48', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='"He was teaching daily in the temple…" A separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian refers to his teaching by day in the temple only at 21:37 (4.39.19).')),
 ]
@@ -69,8 +96,10 @@ PREAMBLE = (
  "this house… for the son of man came to seek and to save the lost.\" Jesus then tells of a nobleman who gives his servants "
  "money to trade with and, on his return, judges them by what they have done with it. In this text the parable ends with "
  "\"from the one who has not, even what he has will be taken away\". The slaughter of the master's enemies (19:27) is not "
- "cited. The entry into Jerusalem, the lament over the city and the cleansing of the temple (19:29–46) are absent: "
- "Epiphanius states that the text lacked them."
+ "cited. Then Jesus goes up to Jerusalem: the colt, the descent of the Mount of Olives with \"peace in heaven, and glory in the "
+ "highest\", the weeping over the city, and the entry into the temple (19:28–46). Epiphanius states that Marcion's text lacked "
+ "19:29–46. The passage is printed here as restored by method, against Marcion's text, because the reading of the printed "
+ "text shows that it needs the arrival (METHOD §11; see the notes)."
 )
 
 NOTES = [
@@ -85,16 +114,31 @@ NOTES = [
   "lent at interest shows God as judge, even on the side of severity\". He has the \"austere\" master \"taking what he did not "
   "deposit and reaping what he did not sow\", and taking away \"what one seemed to have\". He mentions the parable again at "
   "4.39.11 (\"leaving money with his servants to trade with\"). The unattested verses of the parable are printed in grey.")),
- dict(term='Not printed: 19:27–48', cat='excision', refs=['19:26'], text=(
+ dict(term='Restored by method, against Marcion\'s text: 19:28–46', cat='textual', refs=['19:28', '19:29', '19:37', '19:38', '19:41', '19:45', '19:46'], text=(
+  "Epiphanius, Pan. 42.11.6, sch. 53: παρέκοψεν τὸ κεφάλαιον τὸ περὶ τῆς ὄνου καὶ Βηθφαγὴ καὶ τὸ περὶ τῆς πόλεως καὶ τοῦ "
+  "ἱεροῦ — the section on the colt and Bethphage, the city, and the temple with \"my house shall be called a house of prayer\" "
+  "were not in Marcion's text. Tertullian passes from 19:26 (4.37.4) to 20:1–8 (4.38.1), and Roth counts his silence as "
+  "confirmation. 19:28 (\"he went on ahead, going up to Jerusalem\") is not cited by any witness (U?). The whole of 19:28–46 is "
+  "printed as restored by method (METHOD §11), and 19:29–46 is printed against Marcion's text as the witnesses report it. "
+  "The grounds are in the printed text. By its mechanics: the road set at 9:51 (\"he set his face to go to Jerusalem\") is "
+  "named again at 17:11 and 19:11 (\"because he was near Jerusalem\"), and without this passage it never arrives. From \"near "
+  "Jerusalem\" the text would go straight to \"in the temple\" (20:1): no going up, no descent of the mountain with \"peace in "
+  "heaven, and glory in the highest\", no weeping over the city whose peace is hidden from its eyes, no entering the house of "
+  "prayer. By its words: 20:2, \"by what authority do you do these things?\", has its first object in 19:45–46. The reading is in "
+  "docs/research/correspondence/word_by_word.md (chapter 17, tests of 19:28 and 19:29–46). The Greek is NA27, checked on the page "
+  "images (pp. 223–225); it differs from SBLGNT at 19:36 (αὐτῶν), 19:38 (ὁ ἐρχόμενος ὁ βασιλεύς) and 19:40 (without ὅτι).")),
+ dict(term='Not printed: 19:27 and 19:47–48', cat='excision', refs=['19:26', '19:46'], text=(
   "19:27, the slaughter of the enemies who did not want the nobleman to reign, is not cited by Tertullian, though his point "
-  "was the master's severity; it is classed probably absent. 19:29–46 are absent by Epiphanius' statement (sch. 53): the "
-  "colt and Bethphage, the city, and the temple with \"my house shall be called a house of prayer\". 19:28 and 19:47–48, the "
-  "verses that frame them, form paragraphs with no attested verse. In this text Jesus goes from the parable to the question "
-  "about his authority (20:1–8) without a royal entry into Jerusalem or the cleansing of the temple.")),
- dict(term='No triumphal entry', cat='theological', refs=['19:26'], text=(
-  "Interpretation. Without 19:29–46, the text has no royal entry on a colt and no action against the traders in the temple, "
-  "the scenes in which canonical Luke presents Jesus as king and judge of the temple. In the attested text Jesus is in the "
-  "temple teaching (20:1; 21:37), and the authorities question his authority there. Epiphanius' charge is that Marcion cut "
-  "these scenes out. On the Marcionite-priority view, canonical Luke added them. The witnesses establish only that they were "
-  "absent from the text.")),
+  "was the master's severity; it is classed probably absent. 19:47–48 (\"he was teaching daily in the temple…\") forms a "
+  "paragraph with no attested verse. The correspondential reading tested both at their places. 19:47–48 continues the line "
+  "but closes no gap: 20:1 opens \"as he was teaching the people in the temple\". 19:27 is listed for the owner as a passage "
+  "the printed text leans on (docs/research/correspondence/restorations.md).")),
+ dict(term='The entry in this text', cat='theological', refs=['19:28', '19:38', '19:46'], text=(
+  "Interpretation. In Marcion's text as the witnesses report it there is no entry on a colt and no action in the temple: "
+  "Epiphanius' charge is that Marcion cut these scenes out, and on the Marcionite-priority view canonical Luke added them. "
+  "The witnesses establish only that they were absent from Marcion's copy. This edition prints them on another ground, the "
+  "reading of its own printed text (METHOD §11): the road to Jerusalem is the line the whole text runs on, and the passage is "
+  "its arrival. Read so, the entry is not a royal claim. He goes up; he comes down the mountain to the praise of \"peace in "
+  "heaven\"; he weeps over the city because its peace is hidden from its eyes; and he enters the house that is to be a house of "
+  "prayer.")),
 ]

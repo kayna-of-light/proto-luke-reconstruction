@@ -6,6 +6,14 @@ W_EP_INC = {'source': 'Epiphanius, Pan. 42.11.4–5 (Holl 107–108)',
 W_TE_471 = {'source': 'Tertullian, Marc. 4.7.1',
             'evidence': '"Anno quintodecimo principatus Tiberiani proponit eum descendisse in civitatem Galilaeae Capharnaum" — the date and the descent to Capernaum stated as one sentence.'}
 
+REST_4_17 = ('Class U−: Tertullian works through the Nazareth visit (4.8.2–3), and his case in book IV is that Jesus fulfils the Creator\'s prophets; '
+             'a reading of Isaiah 61 announced as fulfilled "today" would have been his strongest proof, and he says only that Jesus preached "nothing new". '
+             'Restored by method (METHOD §11). By its words, the printed text needs the passage: 4:16 ends "stood up to read" and nothing is read; '
+             '4:23 "surely you will say this parable to me" answers something he said; 4:24 "accepted" (δεκτός) answers 4:19 "the acceptable (δεκτόν) year". '
+             'By its mechanics: the first rising in the text is rising to read the Word, and the proclamation of release (4:18) is the first of which 24:47 is the last. '
+             'Reading: docs/research/correspondence/word_by_word.md, chapter 1, test of 4:17–22. Printed against the class U− (the silence of Tertullian), not against an attested absence.')
+W_TE_482_SILENT = {'source': 'Tertullian, Marc. 4.8.2', 'evidence': '"nihil novi notatur praedicasse" (the class U− rests on this silence; see the reason).'}
+
 ENTRIES = [
  dict(ref='3:1', cls='A+',
       gr=greek('3:1', [('Ἐν ἔτει δὲ', 'Ἐν ἔτει')]),
@@ -60,6 +68,26 @@ ENTRIES = [
                wording='NA27 (Ναζαρά). The visit and preaching are attested; the details "as was his custom", "sabbath", "stood up to read" are not.',
                position='After 4:37: Tertullian treats the Capernaum episode (4.7) before Nazareth (4.8.2), and 4:23 refers back to deeds already done at Capernaum.',
                decision='printed')),
+ dict(ref='4:17', cls='U−', restored=True, gr=greek('4:17'),
+      en='And the scroll of the prophet Isaiah was handed to him; and unrolling the scroll he found the place where it was written:',
+      app=dict(roth='unattested ("possibly not present")', witnesses=[W_TE_482_SILENT],
+               wording='NA27 (checked on the page image, p. 164).', decision='printed, restored by method (correspondential reading)', reason=REST_4_17)),
+ dict(ref='4:18', cls='U−', restored=True, gr=greek('4:18'),
+      en='"The spirit of the Lord is upon me, because he has anointed me to bring good news to the poor; he has sent me to proclaim release to captives and recovery of sight to the blind, to send away the broken in release,',
+      app=dict(roth='unattested ("possibly not present")', witnesses=[W_TE_482_SILENT],
+               wording='NA27 (p. 164). NA27 prints the quotation of Isaiah 61:1–2 (with 58:6) as verse lines.', decision='printed, restored by method (correspondential reading)', reason=REST_4_17)),
+ dict(ref='4:19', cls='U−', restored=True, gr=greek('4:19'),
+      en='to proclaim the acceptable year of the Lord."',
+      app=dict(roth='unattested ("possibly not present")', witnesses=[W_TE_482_SILENT],
+               wording='NA27 (p. 164).', decision='printed, restored by method (correspondential reading)', reason=REST_4_17)),
+ dict(ref='4:20', cls='U−', restored=True, gr=greek('4:20'),
+      en='And rolling up the scroll, he gave it back to the attendant and sat down; and the eyes of all in the assembly were fixed on him.',
+      app=dict(roth='unattested ("possibly not present")', witnesses=[W_TE_482_SILENT],
+               wording='NA27 (p. 164).', decision='printed, restored by method (correspondential reading)', reason=REST_4_17)),
+ dict(ref='4:21', cls='U−', restored=True, gr=greek('4:21'),
+      en='And he began to say to them, "Today this scripture has been fulfilled in your ears."',
+      app=dict(roth='unattested ("possibly not present")', witnesses=[W_TE_482_SILENT],
+               wording='NA27 (p. 164).', decision='printed, restored by method (correspondential reading)', reason=REST_4_17)),
  dict(ref='4:23', cls='A+', gr=greek('4:23'),
       en='And he said to them, "Doubtless you will quote this proverb to me: \'Physician, heal yourself.\' Whatever we heard was done at Capernaum, do here also in your home town."',
       app=dict(roth='present (Marc. 4.8.2; Ephrem, Comm. Diat. 11.23)',
@@ -125,9 +153,6 @@ OMITTED = [
       decision='not printed', reason='Excluded by the 3:1 → 4:31 junction. The temptation is also listed as absent in the library (Dancing with Fire §5.2).')),
  dict(ref='4:14–15', cls='A−', app=dict(roth='unattested', witnesses=[W_TE_471], decision='not printed',
       reason='Excluded by the 3:1 → 4:31 junction (Roth: unattested; difference recorded).')),
- dict(ref='4:17–21', cls='U−', app=dict(roth='unattested ("possibly not present")', witnesses=[
-      {'source': 'Tertullian, Marc. 4.8.2', 'evidence': '"nihil novi notatur praedicasse".'}], decision='not printed',
-      reason='Tertullian works through the Nazareth visit (4.8.2–3) and his whole case in book IV is that Jesus fulfils the Creator\'s prophets. A reading of Isaiah 61 announced as fulfilled "today" would have been his strongest proof; he says only that Jesus preached "nothing new". Silence where the passage would have served him (METHOD §3, U−).')),
  dict(ref='4:22', cls='U−', app=dict(roth='unattested ("possibly not present")', witnesses=[
       {'source': 'Tertullian, Marc. 4.7.7', 'evidence': '"cuius nemo adhuc certus de tribu, de populo, de domo" — no one yet knew his tribe, people or house.'}], decision='not printed',
       reason='Tertullian argues that Jesus\' descent was unknown to his hearers; "Is not this Joseph\'s son?" would have contradicted the Marcionite reading and served Tertullian in 4.7–4.8 and in his arguments on the birth. He does not cite it. The previous text printed 4:22a; it is removed.')),
@@ -147,10 +172,11 @@ PREAMBLE = (
  "directly to the descent to Capernaum (Marc. 4.7.1). There is no preface, no John the Baptist preaching, no baptism, no "
  "genealogy and no temptation. Jesus enters the narrative as an adult teacher in the synagogue of a Galilean town. "
  "The order also differs from canonical Luke. Tertullian treats the exorcism at Capernaum before the visit to Nazareth, and the "
- "Nazareth scene presupposes it (\"whatever we heard was done at Capernaum\", 4:23). The Nazareth visit itself is short. It has "
- "no reading from Isaiah, no question about Joseph's son and no Elijah and Elisha sayings, and Jesus is driven out over a single "
- "proverb. Verses printed in grey are not cited by any witness but stand inside a passage the witnesses attest; the notes list "
- "what is absent and why."
+ "Nazareth scene presupposes it (\"whatever we heard was done at Capernaum\", 4:23). As the witnesses report it, the Nazareth "
+ "visit is short: they cite no reading from Isaiah, no question about Joseph's son and no Elijah and Elisha sayings, and Jesus is "
+ "driven out over a single proverb. The reading from Isaiah (4:17–21) is printed as restored by method: the printed text needs it "
+ "(METHOD §11; see the notes). Verses printed in grey are not cited by any witness but stand inside a passage the witnesses "
+ "attest; the notes list what is absent and why."
 )
 
 NOTES = [
@@ -192,16 +218,24 @@ NOTES = [
   "single proverb\"; hands were laid on him, he was held, seized and dragged to the precipice, and he escaped \"through their "
   "midst\". This attests 4:16 (the visit and his preaching), a proverb (4:23, or 4:24), 4:29 and 4:30. 4:24 and 4:28 are not "
   "cited and are printed in grey.")),
- dict(term='Absent from the Nazareth visit: 4:17–22 and 4:25–26', cat='excision', refs=['4:16', '4:23'], text=(
-  "4:17–21 (the reading of Isaiah 61 and \"today this scripture is fulfilled\"): Tertullian's case in Marc. IV is that Jesus "
-  "fulfils the Creator's prophets. A fulfilment of Isaiah announced in the synagogue would have been his best proof, and he says "
-  "instead that Jesus preached \"nothing new\" there. 4:22 (\"Is not this Joseph's son?\"): Tertullian argues (4.7.7) that no one "
-  "knew Jesus' tribe, people or house; the question would have served him and is not cited. 4:25–26 (Elijah and the widow of "
-  "Sarepta): Tertullian names one proverb as the cause of the ejection, whereas in canonical Luke the Elijah and Elisha sayings "
-  "provoke it. All three are classed \"unattested, probably absent\" (METHOD §3). 4:27 (Naaman) is attested, but inside the "
-  "healing of the ten lepers (Epiphanius, sch. 48; Tertullian, Marc. 4.35.6); it is printed there. The previous text printed "
-  "4:22a; it is removed. The previous note headed \"Excision of Biological Paternity\" stated a motive for a change; the witnesses "
-  "show only that the verse is absent.")),
+ dict(term='Restored by method: the reading from Isaiah (4:17–21)', cat='textual', refs=['4:16', '4:17', '4:18', '4:19', '4:20', '4:21', '4:23', '4:24'], text=(
+  "No witness cites 4:17–21, and the class is U−: Tertullian works through the Nazareth visit (Marc. 4.8.2–3), his case in "
+  "book IV is that Jesus fulfils the Creator's prophets, and he says only that Jesus preached \"nothing new\" there. The passage "
+  "is printed as restored by method (METHOD §11), against that class. The grounds are in the printed text. By its words: 4:16 "
+  "ends \"he stood up to read\" and nothing is read; 4:23 \"surely you will say this parable to me\" answers something he has said; "
+  "4:24 \"no prophet is accepted (δεκτός)\" answers 4:19 \"the acceptable (δεκτόν) year of the Lord\". By its mechanics: the first "
+  "rising in the text (ἀνέστη, 4:16) is rising to read, and the proclamation of release (κηρύξαι… ἄφεσιν, 4:18) is the first of "
+  "which 24:47 (κηρυχθῆναι… εἰς ἄφεσιν) is the last. The reading is in docs/research/correspondence/word_by_word.md (chapter 1, "
+  "test of 4:17–22). The Greek is NA27, checked on the page image (p. 164).")),
+ dict(term='Absent from the Nazareth visit: 4:22 and 4:25–26', cat='excision', refs=['4:21', '4:23'], text=(
+  "4:22 (\"Is not this Joseph's son?\"): Tertullian argues (4.7.7) that no one knew Jesus' tribe, people or house; the question "
+  "would have served him and is not cited. 4:25–26 (Elijah and the widow of Sarepta): Tertullian names one proverb as the cause "
+  "of the ejection, whereas in canonical Luke the Elijah and Elisha sayings provoke it. Both are classed \"unattested, probably "
+  "absent\" (METHOD §3). The correspondential reading tested both at their places: they continue the line, but the printed text "
+  "does not need them, so they are not restored. 4:27 (Naaman) is attested, but inside the healing of the ten lepers "
+  "(Epiphanius, sch. 48; Tertullian, Marc. 4.35.6); it is printed there. The previous text printed 4:22a; it is removed. The "
+  "previous note headed \"Excision of Biological Paternity\" stated a motive for a change; the witnesses show only that the verse "
+  "is absent.")),
  dict(term='4:41: "the son of God"', cat='textual', refs=['4:41'], text=(
   "Tertullian, Marc. 4.8.5: the spirits came out \"vociferantes, Tu es filius dei\" and were ordered to be silent. NA27 cites "
   "Marcion (McionT) with ℵ B C D L W and others against the addition of ὁ χριστός (\"you are the Christ, the son of God\") in "

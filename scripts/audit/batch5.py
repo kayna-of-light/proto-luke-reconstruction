@@ -31,9 +31,13 @@ def main():
             records.setdefault(lc, []).append(rec)
             for cv in expand(e['ref']):
                 covered.setdefault(cv, []).append(e['ref'])
-            if e['cls'] in ('A−', 'U−'):
+            if e.get('restored'):
+                # printed by METHOD §11: keeps its class; must carry the reason and must not also be flagged
+                if e.get('flag') or not e['app'].get('decision', '').startswith('printed, restored by method'):
+                    problems.append(f'{e["ref"]} restored without the §11 decision, or also flagged')
+            elif e['cls'] in ('A−', 'U−'):
                 problems.append(f'{e["ref"]} printed but class {e["cls"]}')
-            if e['cls'] == 'U?' and not e.get('flag'):
+            elif e['cls'] == 'U?' and not e.get('flag'):
                 problems.append(f'{e["ref"]} U? printed without flag')
             if e['cls'] == 'A+' and e.get('flag'):
                 problems.append(f'{e["ref"]} A+ flagged')
@@ -78,8 +82,9 @@ def main():
             data['chapters'][i] = new_chapters[ch['chapter']]
     dump_json(data, f'{REPO}/data/proto_luke.json')
     for num, ch in new_chapters.items():
-        fl = sum(1 for v in ch['verses'] if v.get('attestation'))
-        print(f'chapter {num}: {len(ch["verses"])} verses ({fl} flagged), {len(ch["notes"])} notes')
+        fl = sum(1 for v in ch['verses'] if v.get('attestation') == 'unattested')
+        rs = sum(1 for v in ch['verses'] if v.get('attestation') == 'restored')
+        print(f'chapter {num}: {len(ch["verses"])} verses ({fl} flagged, {rs} restored), {len(ch["notes"])} notes')
     print('apparatus:', sorted(records))
 
 if __name__ == '__main__':

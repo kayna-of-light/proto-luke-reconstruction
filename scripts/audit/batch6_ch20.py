@@ -1,5 +1,5 @@
-"""Batch 6, chapter 20 of the reconstruction: Luke 22:1–71."""
-from buildlib import greek
+"""Batch 6, chapter 20 of the reconstruction: Luke 22:1–71 (22:54–62 restored by method, METHOD §11)."""
+from buildlib import greek, R
 from batch1_ch2 import U, A
 from batch6_patches import G
 
@@ -9,6 +9,15 @@ E = lambda n, ev: {'source': f'Epiphanius, Pan. 42.11.6, sch. {n}', 'evidence': 
 T402 = T('4.40.2', '"Poterat et ab extraneo quolibet tradi: ne dicerem et in hoc psalmum expunctum: Qui mecum panem edit, levabit in me plantam. Poterat et sine praemio tradi."')
 T403 = T('4.40.3', '"acceptum panem et distributum discipulis corpus suum illum fecit, Hoc est corpus meum dicendo, id est figura corporis mei… Aut si propterea panem corpus sibi finxit quia corporis carebat veritate, ergo panem debuit tradere pro nobis."')
 T412 = T('4.41.2', '"Nam et Petrum praesumptorie aliquid elocutum negationi potius destinando, zeloten deum tibi ostendit. Debuit etiam osculo tradi…"')
+
+CR_22_54 = ('Peter\'s denial in the high priest\'s courtyard: a paragraph with no attested verse. The prediction of the denial (22:34) is attested; '
+            'its fulfilment is not cited by either witness.')
+GR_22_54 = ('by its words, the printed 22:63, "the men holding him (οἱ συνέχοντες αὐτόν)", needs someone to have taken hold of him, and in the printed text no one has '
+            '(22:48 ends with the kiss); the seizing and the leading into the high priest\'s house are 22:54. The printed 22:66, "as it became day", follows a night '
+            'the printed text does not tell. By its mechanics: the printed text sets up faith\'s failure and return three times (22:32 "when once you have turned back, '
+            'strengthen your brothers"; 22:33; 22:34 "you will deny three times") and never shows them; 22:54–62 is the failure, the Lord\'s look, the remembering '
+            'of his word, and the weeping. Reading: docs/research/correspondence/word_by_word.md, chapter 20, test of 22:54–62.')
+W54 = lambda ref, en: R(ref, G(ref), en, 'U?', 'unattested', CR_22_54, GR_22_54, wording='NA27 (checked on the page image, p. 236).')
 
 ENTRIES = [
  A('22:1', G('22:1'), 'Now the feast of Unleavened Bread drew near, which is called the Passover.',
@@ -90,6 +99,15 @@ ENTRIES = [
    wording='NA27. Epiphanius\' καταφιλῆσαι and "and said" have no manuscript support in Luke and follow Matt 26:49 (Roth). Not adopted. His point is that Judas kissed real lips (elenchus 66).'),
  A('22:48', G('22:48'), 'but Jesus said to him, "Judas, would you betray the son of man with a kiss?"',
    'present (Marc. 4.41.2)', [T412], wording='NA27. Tertullian attests the kiss and the betrayal.'),
+ W54('22:54', 'Then they seized him and led him away and brought him into the house of the high priest. And Peter was following at a distance.'),
+ W54('22:55', 'When they had kindled a fire in the middle of the courtyard and sat down together, Peter sat in their midst.'),
+ W54('22:56', 'And a servant girl, seeing him seated toward the light and looking intently at him, said, "This man also was with him."'),
+ W54('22:57', 'But he denied it, saying, "Woman, I do not know him."'),
+ W54('22:58', 'And a little later someone else saw him and said, "You also are one of them." But Peter said, "Man, I am not."'),
+ W54('22:59', 'And after about an hour had passed, another kept insisting, saying, "Certainly this man also was with him, for he too is a Galilean."'),
+ W54('22:60', 'But Peter said, "Man, I do not know what you are saying." And at once, while he was still speaking, the cock crowed.'),
+ W54('22:61', 'And the Lord turned and looked at Peter. And Peter remembered the word of the Lord, how he had said to him, "Before the cock crows today, you will deny me three times."'),
+ W54('22:62', 'And he went outside and wept bitterly.'),
  A('22:63', G('22:63'), 'Now the men who were holding Jesus in custody were mocking him as they beat him.',
    'present (Pan. 42.11.6, sch. 68)', [E(68, '»οἱ συνέχοντες ἐνέπαιζον δέροντες καὶ τύπτοντες καὶ λέγοντες· προφήτευσον, τίς ἐστιν ὁ παίσας σε;«')],
    wording='NA27. Epiphanius abbreviates; the elements he quotes agree with NA27 (Roth: very likely).'),
@@ -135,8 +153,6 @@ OMITTED = [
       decision='not printed', reason='Epiphanius states that the text lacked the cutting off of the servant\'s ear; his elenchus adds that the Lord healed it, so 22:51 was also absent (Roth). Tertullian passes from the kiss (22:48) to the council (22:66; 4.41.2–3).')),
  dict(ref='22:52–53', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='"Have you come out as against a robber…?" A separate NA27 paragraph with no attested verse.')),
- dict(ref='22:54–62', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason='Peter\'s denial in the high priest\'s courtyard: a paragraph with no attested verse. The prediction of the denial (22:34) is attested; its fulfilment is not cited by either witness.')),
 ]
 
 PREAMBLE = (
@@ -145,7 +161,8 @@ PREAMBLE = (
  "(Tertullian, Marc. 5.6.7). Jesus has the Passover prepared and eats it with the apostles: \"I have earnestly desired to "
  "eat this Passover with you before I suffer.\" He gives the bread as his body and the cup as the covenant in his blood "
  "(Tertullian, Marc. 4.40.3–6). He foretells Peter's denial, prays kneeling a stone's throw from the disciples, and is "
- "betrayed with a kiss. He is mocked and beaten, and before the council says that from now on the son of man will be "
+ "betrayed with a kiss. He is seized and led to the high priest's house, where Peter denies him three times, and the "
+ "Lord turns and looks at Peter (22:54–62, printed as restored by method; see the notes). He is mocked and beaten, and before the council says that from now on the son of man will be "
  "seated at the right hand of the power of God. Epiphanius states that the text lacked the saying about not eating the "
  "Passover again until the kingdom (22:16), the purse and the swords with \"he was counted among the lawless\" "
  "(22:35–38), and the servant's ear (22:50–51)."
@@ -183,8 +200,19 @@ NOTES = [
   "in double brackets as not part of its text, and no witness cites them for this text; they are not printed. Judas draws "
   "near to kiss Jesus (sch. 66), and Tertullian notes that he was to be betrayed \"with a kiss\" (4.41.2). Epiphanius states "
   "that the cutting off of the servant's ear and its healing were not in the text (sch. 67); 22:49, which asks whether to "
-  "strike with the sword, depends on the absent swords (22:38) and the absent blow and is not printed. 22:52–53 and Peter's "
-  "denial (22:54–62) form paragraphs with no attested verse.")),
+  "strike with the sword, depends on the absent swords (22:38) and the absent blow and is not printed. 22:52–53 forms a "
+  "paragraph with no attested verse and is not printed; the correspondential reading tested it and it closes no gap.")),
+ dict(term='Restored by method: Peter\'s denial (22:54–62)', cat='textual', refs=['22:34', '22:54', '22:61', '22:62', '22:63', '22:66'], text=(
+  "No witness cites Peter's denial in the high priest's courtyard; it forms a paragraph with no attested verse, and its "
+  "absence is undetermined (U?). The prediction (22:34) is attested (Tertullian, Marc. 4.41.2). The passage is printed as "
+  "restored by method (METHOD §11). By its words, the printed text needs it: 22:63, \"the men holding him (οἱ συνέχοντες "
+  "αὐτόν)\", presupposes that someone has taken hold of him, and in the printed text no one has (22:48 ends with the kiss); the "
+  "seizing and the leading into the high priest's house are 22:54. 22:66, \"as it became day\", follows a night the printed "
+  "text does not otherwise tell. By its mechanics: the printed text sets up faith's failure and return three times — \"when once "
+  "you have turned back, strengthen your brothers\" (22:32), \"I am ready to go with you to prison and to death\" (22:33), \"you "
+  "will deny three times\" (22:34) — and without this passage never shows them. Here faith fails; the Lord turns and looks; "
+  "Peter remembers his word, goes outside and weeps. The reading is in docs/research/correspondence/word_by_word.md (chapter 20, "
+  "test of 22:54–62). The Greek is NA27, checked on the page image (p. 236); at 22:61 NA27 reads ῥήματος (SBLGNT λόγου).")),
  dict(term='Mockery and council (22:63–71)', cat='textual', refs=['22:63', '22:64', '22:66', '22:67', '22:69', '22:70', '22:71'], text=(
   "Epiphanius quotes the mockery, the beating and \"Prophesy, who is it that struck you?\" (sch. 68), as proof of a body that "
   "could be struck. Tertullian (4.41.3–5) follows the council: asked whether he is the Christ, Jesus answers \"if I tell you, "

@@ -40,6 +40,8 @@ def build_chapter(number, preamble, entries, notes, title=None):
              'english': e['en'], 'greek': e['gr']}
         if e.get('flag'):
             v['attestation'] = 'unattested'
+        elif e.get('restored'):
+            v['attestation'] = 'restored'
         verses.append(v)
     index = {e['ref']: i for i, e in enumerate(entries, 1)}
     out_notes = []
@@ -65,3 +67,14 @@ def write_apparatus(luke_ch, records, path):
         'records': records,
     }
     dump_json(doc, path)
+
+
+RESTORED = 'printed, restored by method (correspondential reading)'
+
+
+def R(ref, gr, en, cls, roth, class_reason, grounds, witnesses=(), wording='NA27 (checked on the page image).'):
+    """A verse printed by METHOD §11: it keeps its class and its evidence; the reason gives
+    both the class and the reading's grounds for printing it."""
+    return dict(ref=ref, cls=cls, restored=True, gr=gr, en=en,
+                app=dict(roth=roth, witnesses=list(witnesses), wording=wording, decision=RESTORED,
+                         reason=f'Class {cls}: {class_reason} Restored by method (METHOD §11): {grounds}'))

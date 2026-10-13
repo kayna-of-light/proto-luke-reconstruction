@@ -1,5 +1,5 @@
-"""Batch 6, chapter 22 of the reconstruction: Luke 24:1–53 (printed to 24:47)."""
-from buildlib import greek
+"""Batch 6, chapter 22 of the reconstruction: Luke 24:1–53 (24:33–35, 24:44–46 and 24:47b–53 restored by method, METHOD §11)."""
+from buildlib import greek, R
 from batch1_ch2 import U, A
 from batch6_patches import G
 
@@ -14,6 +14,29 @@ T436 = T('4.43.6', '"cum haesitantibus eis ne phantasma esset, immo phantasma cr
 E76 = E(76, '»εἶπαν οἱ ἐν ἐσθῆτι λαμπρᾷ· τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν; ἠγέρθη, μνήσθητε ὅσα ἐλάλησεν ἔτι ὢν μεθ\' ὑμῶν, ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου παθεῖν καὶ παραδοθῆναι«.')
 E77 = E(77, 'παρέκοψε τὸ εἰρημένον πρὸς Κλεόπαν καὶ τὸν ἄλλον, ὅτε συνήντησεν αὐτοῖς, τὸ »ὦ ἀνόητοι καὶ βραδεῖς τοῦ πιστεύειν πᾶσιν, οἷς ἐλάλησαν οἱ προφῆται· οὐχὶ ταῦτα ἔδει παθεῖν;« καὶ ἀντὶ δὲ τοῦ »ἐφ\' οἷς ἐλάλησαν οἱ προφῆται« ἐποίησεν »ἐφ\' οἷς ἐλάλησα ὑμῖν«. ἐλέγχεται δὲ ὅτι »ὅτε ἔκλασε τὸν ἄρτον, ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν«.')
 E78 = E(78, '»τί τεταραγμένοι ἐστέ; ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου, ὅτι πνεῦμα ὀστέα οὐκ ἔχει, καθὼς ἐμὲ θεωρεῖτε ἔχοντα«.')
+
+CR_24_33 = 'The return to Jerusalem; "The Lord has risen indeed, and has appeared to Simon!" A paragraph with no attested verse (METHOD §4.3).'
+GR_24_33 = ('by its words, the printed 24:36 opens "as they were saying these things (ταῦτα δὲ αὐτῶν λαλούντων), he himself stood in their midst", and in the printed '
+            'text no one says anything after 24:31; "these things" are what is told in 24:35, and "their midst" is the eleven gathered (24:33). Without it, those who '
+            'are terrified and think they see a spirit (24:37) are the two who have just recognized him at the bread. By its mechanics: the road of the text goes to '
+            'Jerusalem (9:51); after the cross two go away from it (24:13), and 24:33 brings them back ("rising, they returned to Jerusalem"); 24:34 "he has appeared '
+            'to Simon" is the "turning back" of 22:32. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:32–35.')
+CR_24_44 = ('Tertullian passes from the request for food (24:41; 4.43.8) to the sending to the nations (24:47; 4.43.9) and ends his book by claiming that he has shown '
+            'Jesus to be the Christ of the prophets; these verses would have been his proof text. Epiphanius does not cite them either.')
+GR_24_44 = ('by its words, the printed 24:47 "and that repentance… be proclaimed (καὶ κηρυχθῆναι)" is an infinitive that depends on 24:46 "thus it is written that"; '
+            'without it the verse hangs, and the previous text marked the gap with an ellipsis. By its mechanics: the text veils the understanding on purpose (9:45) '
+            'and lifts the veil in stages (24:8 remembering; 23:45 the veil of the sanctuary torn; 24:31 the eyes opened at the bread); the opening of the mind to '
+            'understand the scriptures is the last stage. And 16:31 sets the condition that rising from the dead persuades only those who hear Moses and the prophets; '
+            'in the printed text Moses and the prophets are never opened about rising except here. Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:44–46.')
+CR_24_48 = ('No witness cites anything after 24:47, and METHOD §10 ends the text at the last attested verse by default. '
+            '24:51b ("and was carried up into heaven") and 24:52a ("worshipped him") are Western non-interpolations (lacking in ℵ* D it sys), printed by NA27 without brackets.')
+GR_24_48 = ('by its mechanics, at 9:51 the text names its own end: "the days of his taking up (ἀνάλημψις) were being fulfilled, and he set his face to go to Jerusalem". '
+            'In the printed text the taking up is never told; the text stops at the command (24:47), before the end it announced. 24:50–51 is that end: the hands '
+            'lifted, the blessing, the parting while he blesses, carried up into heaven; and the disciples return to Jerusalem with joy, to the temple. '
+            'Reading: docs/research/correspondence/word_by_word.md, chapter 22, test of 24:48–53. This also departs from the default ending of METHOD §10 (overridden by the owner).')
+W33 = lambda ref, en: R(ref, G(ref), en, 'U?', 'unattested', CR_24_33, GR_24_33, wording='NA27 (checked on the page image, p. 244).')
+W44 = lambda ref, en, note='': R(ref, G(ref), en, 'U−', 'unattested', CR_24_44, GR_24_44, wording='NA27 (checked on the page image, p. 245).' + note)
+W48 = lambda ref, en, page='245', note='': R(ref, G(ref), en, 'U?', 'unattested', CR_24_48, GR_24_48, wording=f'NA27 (checked on the page image, p. {page}).' + note)
 
 ENTRIES = [
  A('24:1', G('24:1'), 'But on the first day of the week, at early dawn, they went to the tomb, taking the spices they had prepared.',
@@ -83,6 +106,9 @@ ENTRIES = [
  A('24:31', G('24:31'), 'And their eyes were opened, and they recognized him. And he vanished from their sight.',
    'present for 24:31a (Pan. 42.11.6, sch. 77)', [E77],
    wording='NA27. Epiphanius quotes "their eyes were opened and they recognized him". "He vanished" appears only in his elenchus, which he expands for his argument (Roth); it is unattested and printed as part of the verse.'),
+ W33('24:33', 'And they rose that same hour and returned to Jerusalem, and they found the eleven and those with them gathered together,'),
+ W33('24:34', 'saying, "The Lord has really been raised, and has appeared to Simon!"'),
+ W33('24:35', 'And they told what had happened on the road, and how he had been made known to them in the breaking of the bread.'),
  U('24:36', G('24:36'), 'As they were talking about these things, he himself stood among them, and said to them, "Peace to you!"', 'Opens the attested paragraph 24:36–43.'),
  A('24:37', G('24:37'), 'But they were startled and frightened and thought they saw a spirit.',
    'present (Marc. 4.43.6)', [T436],
@@ -107,11 +133,21 @@ ENTRIES = [
    'Inside the attested paragraph 24:36–43. Roth classes the verse present on Eznik, De Deo 407 (Marcionites abstain from fish now, "just as he too after his resurrection ate the fish"). The Armenian text was not checked here, so the verse is printed as unattested.'),
  U('24:43', G('24:43'), 'and he took it and ate before them.',
    'Inside the attested paragraph 24:36–43. See 24:42 (Eznik, as quoted by Roth). Tertullian\'s "he asked for food to show that he had teeth" (4.43.8) points to the eating.'),
- A('24:47', greek('24:47', text='… καὶ κηρυχθῆναι ἐπὶ τῷ ὀνόματι αὐτοῦ μετάνοιαν εἰς ἄφεσιν ἁμαρτιῶν εἰς πάντα τὰ ἔθνη.'),
-   '… and that repentance for the forgiveness of sins should be proclaimed in his name to all the nations.',
+ W44('24:44', 'Then he said to them, "These are my words that I spoke to you while I was still with you, that everything written about me in the law of Moses and the prophets and the psalms must be fulfilled."',
+     note=' καὶ τοῖς προφήταις (SBLGNT καὶ προφήταις).'),
+ W44('24:45', 'Then he opened their minds to understand the scriptures,'),
+ W44('24:46', 'and he said to them, "Thus it is written, that the Anointed One should suffer and rise from the dead on the third day,'),
+ A('24:47', G('24:47'),
+   'and that repentance for the forgiveness of sins should be proclaimed in his name to all the nations. Beginning from Jerusalem,',
    'present (Marc. 4.43.9)', [T('4.43.9', '"siquidem et apostolos mittens ad praedicandum universis nationibus, in omnem terram exire sonum eorum et in terminos terrae voces eorum, psalmum adimplendo praecepit."')],
-   wording=('NA27 (εἰς ἄφεσιν, as NA27; SBLGNT καὶ ἄφεσιν). Tertullian attests the sending to preach to all the nations, as Jesus\' command; Roth: κηρυχθῆναι… εἰς πάντα τὰ ἔθνη very likely. '
-            'In NA27 the infinitive depends on "thus it is written" in 24:46, which is not printed (see the notes); how this text introduced the command is not attested, and the ellipsis marks the gap. "Beginning from Jerusalem", which NA27 punctuates with 24:48, is unattested and not printed. 24:47 is the last attested verse (METHOD §10).')),
+   wording=('NA27 (εἰς ἄφεσιν, as NA27; SBLGNT καὶ ἄφεσιν; NA27 punctuation, with "beginning from Jerusalem" opening the sentence of 24:48). Tertullian attests the sending to preach to all the nations, as Jesus\' command; Roth: κηρυχθῆναι… εἰς πάντα τὰ ἔθνη very likely. '
+            'The infinitive depends on "thus it is written" in 24:46, printed as restored by method. 24:47b ("beginning from Jerusalem") is unattested and is printed as restored by method with 24:48–53 (METHOD §11); the previous text ended here with an ellipsis before the verse.')),
+ W48('24:48', 'you are witnesses of these things.', note=' Without ἐστε (SBLGNT has it).'),
+ W48('24:49', 'And look, I am sending the promise of my Father upon you; but stay in the city until you are clothed with power from on high."', note=' ἀποστέλλω (SBLGNT ἐξαποστέλλω); NA27 [ἰδού] printed without the brackets (METHOD §5.7).'),
+ W48('24:50', 'Then he led them out as far as Bethany, and lifting up his hands he blessed them.', page='246', note=' NA27 [ἔξω] printed without the brackets (METHOD §5.7).'),
+ W48('24:51', 'And while he was blessing them, he parted from them and was carried up into heaven.', page='246', note=' NA27 prints 51b without brackets (SBLGNT brackets it).'),
+ W48('24:52', 'And they worshipped him and returned to Jerusalem with great joy,', page='246', note=' NA27 prints 52a without brackets (SBLGNT brackets it).'),
+ W48('24:53', 'and they were continually in the temple blessing God.', page='246'),
 ]
 
 OMITTED = [
@@ -124,14 +160,6 @@ OMITTED = [
       reason=('"Beginning with Moses and all the prophets, he interpreted to them in all the scriptures the things concerning himself." Tertullian\'s thesis in book 4 is that Jesus is the Christ of the prophets, and he closes it at this chapter (4.43.9: "I have shown Jesus Christ… from the teachings of the prophets"); Epiphanius\' scholion 77 turns on "the prophets" at 24:25. Neither cites the verse that would have proved their point. Classed probably absent.'))),
  dict(ref='24:32', cls='U−', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='"Did not our hearts burn within us… while he opened to us the scriptures?" Unattested; for the same reason as 24:27 it would have been cited if present. Classed probably absent.')),
- dict(ref='24:33–35', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason='The return to Jerusalem; "The Lord has risen indeed, and has appeared to Simon!" A paragraph with no attested verse (METHOD §4.3).')),
- dict(ref='24:44–46', cls='U−', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason=('"Everything written about me in the law of Moses and the prophets and the psalms must be fulfilled… Then he opened their minds to understand the scriptures… Thus it is written, that the Christ should suffer and on the third day rise." '
-              'Tertullian passes from the request for food (24:41; 4.43.8) to the sending to the nations (24:47; 4.43.9) and ends his book by claiming that he has shown Jesus to be the Christ of the prophets; these verses would have been his proof text. Epiphanius does not cite them either. Classed probably absent.'))),
- dict(ref='24:48–53', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason=('"You are witnesses of these things… stay in the city until you are clothed with power from on high." The departure at Bethany, the parting, the return to Jerusalem and the temple. No witness cites anything after 24:47. Under METHOD §10 the text ends with the last attested verse. '
-              '24:51b ("and was carried up into heaven") and 24:52a ("worshipped him") are Western non-interpolations.'))),
 ]
 
 PREAMBLE = (
@@ -140,9 +168,14 @@ PREAMBLE = (
  "still in Galilee.\" The women report it, and the disciples do not believe them. On the road to Emmaus Jesus joins two of them, "
  "Cleopas and another, who do not recognize him. They say: \"We thought that he was the one to redeem Israel.\" He answers: "
  "\"O foolish ones, and slow of heart to believe all that he spoke to you!\" At table he breaks the bread, and their eyes are "
- "opened. Then he stands among the disciples. They are afraid and think they see a spirit. He says: \"See my hands and my feet, "
- "that it is I myself; for a spirit does not have bones as you see that I have.\" He asks for food. He sends them to proclaim "
- "repentance for the forgiveness of sins in his name to all the nations. No witness cites the text beyond this point."
+ "opened. They rise and return to Jerusalem, where the eleven say \"the Lord has really been raised, and has appeared to "
+ "Simon\" (24:33–35). Then he stands among the disciples. They are afraid and think they see a spirit. He says: \"See my hands and my feet, "
+ "that it is I myself; for a spirit does not have bones as you see that I have.\" He asks for food. He opens their minds to "
+ "understand the scriptures (24:44–46) and sends them to proclaim repentance for the forgiveness of sins in his name to all the "
+ "nations. No witness cites the text beyond this point. The text continues to its end: he leads them out to Bethany, blesses "
+ "them, parts from them and is carried up into heaven, and they return to Jerusalem with great joy (24:47b–53). The return "
+ "(24:33–35), the opening of the scriptures (24:44–46) and the ending (24:47b–53) are printed as restored by method, because "
+ "the printed text needs them (METHOD §11; see the notes)."
 )
 
 NOTES = [
@@ -170,27 +203,52 @@ NOTES = [
   "spirit, that is, \"not having bones, as a spirit has none\" (4.43.7). Eznik reports that the Marcionites based their "
   "abstinence from fish on Jesus' eating fish after his resurrection (De Deo 407, as quoted by Roth). \"Peace to you\" (24:36) "
   "and the showing of hands and feet (24:40), both lacking in D and the Old Latin, are not cited and are printed in grey.")),
- dict(term='Not printed: 24:12, 24, 27, 32–35, 44–46, 48–53', cat='excision', refs=['24:11', '24:23', '24:26', '24:31', '24:43', '24:47'], text=(
+ dict(term='Not printed: 24:12, 24, 27, 32', cat='excision', refs=['24:11', '24:23', '24:26', '24:31'], text=(
   "No witness cites Peter's visit to the tomb (24:12) or the report of it (24:24); both are classed probably absent, since the "
   "linen cloths would have served Tertullian's argument and 24:12 is also lacking in D and the Old Latin. The interpretation "
-  "of \"Moses and all the prophets\" (24:27), the burning hearts \"while he opened to us the scriptures\" (24:32) and \"everything "
-  "written about me in the law of Moses and the prophets and the psalms\" with the opening of their minds (24:44–46) would have "
+  "of \"Moses and all the prophets\" (24:27) and the burning hearts \"while he opened to us the scriptures\" (24:32) would have "
   "been Tertullian's proof that Jesus is the Christ of the prophets, the thesis with which he ends his book; neither witness "
-  "cites them, and they are classed probably absent. The return to Jerusalem and the appearance to Simon (24:33–35) form a "
-  "paragraph with no attested verse. Nothing after 24:47 is cited.")),
- dict(term='The ending', cat='textual', refs=['24:47'], text=(
-  "Tertullian ends his commentary on the gospel with Jesus \"sending the apostles to preach to all the nations\" (4.43.9). "
-  "Whether the text went on, and how (the parting at Bethany, 24:50–51, or an ending like Acts 1:8–11), is not attested; the "
-  "text is printed to the last attested verse. In canonical Luke 24:47 is governed by \"thus it is written\" (24:46); the "
-  "words that introduced it in this text are not known.")),
+  "cites them, and they are classed probably absent. The correspondential reading tested all four at their places; they "
+  "continue the line, but the printed text does not need them (24:27 is not needed once 24:44–46 is printed).")),
+ dict(term='Restored by method: the return to Jerusalem (24:33–35)', cat='textual', refs=['24:31', '24:33', '24:34', '24:35', '24:36', '24:37'], text=(
+  "No witness cites 24:33–35; it forms a paragraph with no attested verse (U?). It is printed as restored by method (METHOD "
+  "§11). By its words: 24:36 opens \"as they were saying these things, he himself stood in their midst\", and without 24:33–35 "
+  "no one says anything after 24:31; \"these things\" are what is told in 24:35, and \"their midst\" is the eleven gathered "
+  "(24:33). Without it, those who are terrified and think they see a spirit (24:37) would be the two who have just recognized "
+  "him at the bread. By its mechanics: the text's road goes to Jerusalem (9:51), and after the cross two go away from it "
+  "(24:13); \"rising that same hour, they returned to Jerusalem\" brings them back, and \"he has appeared to Simon\" is the "
+  "turning back foretold at 22:32. The Greek is NA27, checked on the page image (p. 244).")),
+ dict(term='Restored by method: the scriptures opened (24:44–46)', cat='textual', refs=['24:44', '24:45', '24:46', '24:47'], text=(
+  "No witness cites 24:44–46, and the class is U−: Tertullian passes from the request for food (24:41; 4.43.8) to the "
+  "sending to the nations (24:47; 4.43.9) and ends his book by claiming that he has shown Jesus to be the Christ of the "
+  "prophets, for which these verses would have been his proof text. The passage is printed as restored by method (METHOD "
+  "§11), against that class. By its words: the attested 24:47, \"and that repentance… be proclaimed\", is an infinitive that "
+  "depends on 24:46, \"thus it is written that…\"; the previous text printed it after an ellipsis. By its mechanics: the text "
+  "veils the understanding on purpose (9:45; 18:34) and lifts the veil in stages — remembering (24:8), the veil of the "
+  "sanctuary torn (23:45), the eyes opened at the bread (24:31). \"He opened their minds to understand the scriptures\" is "
+  "the last stage. And 16:31 sets the condition that rising from the dead persuades only those who hear Moses and the "
+  "prophets; here Moses and the prophets are opened about rising \"from the dead on the third day\". The Greek is NA27, checked "
+  "on the page image (p. 245); at 24:44 NA27 reads καὶ τοῖς προφήταις.")),
+ dict(term='Restored by method: the ending (24:47b–53)', cat='textual', refs=['24:47', '24:48', '24:49', '24:50', '24:51', '24:52', '24:53'], text=(
+  "Tertullian ends his commentary on the gospel with Jesus \"sending the apostles to preach to all the nations\" (4.43.9), and "
+  "no witness cites anything after 24:47. METHOD §10 ended the text at the last attested verse by default; the owner has "
+  "overridden that default, and 24:47b–53 is printed as restored by method (METHOD §11). By its mechanics: at 9:51 the text "
+  "names its own end, \"the days of his taking up (ἀνάλημψις) were being fulfilled, and he set his face to go to Jerusalem\". "
+  "Without 24:50–51 the taking up is never told and the text stops at the command, before the end it announced. Here he "
+  "lifts his hands and blesses them, parts from them while blessing, and is carried up into heaven; they return to Jerusalem "
+  "with great joy and are continually in the temple. The Greek is NA27, checked on the page images (pp. 245–246): NA27 punctuates "
+  "\"beginning from Jerusalem\" with 24:48 and reads ὑμεῖς μάρτυρες (without ἐστε), ἀποστέλλω, [ἰδού] and [ἔξω] (printed without "
+  "brackets, METHOD §5.7). 24:51b (\"and was carried up into heaven\") and 24:52a (\"worshipped him\") are lacking in ℵ* D and the "
+  "Old Latin (Western non-interpolations); NA27 prints them in its text, and a Western omission does not by itself remove "
+  "words from this text.")),
  dict(term='The Living One', cat='theological', refs=['24:5', '24:6', '24:25', '24:31', '24:39', '24:41'], text=(
   "Interpretation. Three layers are kept apart. (a) Text: the two men at the tomb call Jesus \"the Living One\" and say \"he has been "
   "raised\"; the disciples recognize him in the breaking of the bread; he answers their fear of a spirit by showing hands and "
   "feet and saying that a spirit does not have bones \"as you see that I have\"; he asks for food; he sends them to all the "
   "nations; the rebuke on the road is about believing his own words. (b) Canonical Luke has in addition the touch and the "
-  "flesh (24:39), Peter at the tomb and the appearance to Simon (24:12, 24, 34), and the proof from Moses, the prophets and the "
-  "psalms with the commissioning of the Eleven (24:27, 32, 44–49). On the Semler model these are a common original's; on the "
-  "Schwegler model, additions; the witnesses show only that the text attested here lacked them. (c) Reception: the Marcionites "
+  "flesh (24:39), Peter at the tomb (24:12, 24), the proof from Moses and the prophets on the road (24:27, 32), and the passages "
+  "this edition prints as restored by method (24:33–35, 44–46, 47b–53). On the Semler model these are a common original's; on "
+  "the Schwegler model, additions; the witnesses show only that they do not cite them. (c) Reception: the Marcionites "
   "read 24:39 as Jesus saying that he had no bones, like a spirit (Tertullian 4.43.7), and kept the meal of fish as the basis "
   "of their own practice (Eznik). The text itself holds together the Living One who is not found among the dead and a risen "
   "Jesus who can be seen, who eats, and who is recognized at table.")),

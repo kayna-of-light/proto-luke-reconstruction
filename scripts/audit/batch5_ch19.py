@@ -1,5 +1,5 @@
-"""Batch 5, chapter 19 of the reconstruction: Luke 21:1–38 (21:7–38 printed)."""
-from buildlib import greek
+"""Batch 5, chapter 19 of the reconstruction: Luke 21:1–38 (21:7–38 printed; 21:5–6 restored by method, METHOD §11)."""
+from buildlib import greek, R
 from batch1_ch2 import U, A
 from batch5_patches import G
 
@@ -9,8 +9,19 @@ E = lambda n, ev: {'source': f'Epiphanius, Pan. 42.11.6, sch. {n}', 'evidence': 
 T393 = T('4.39.3', '"Videamus et quae signa temporibus imponat. Bella, opinor, et regnum super regnum, et gentem super gentem, et pestem, et fames terraeque motus, et formidines, et prodigia de caelo… Haec cum adicit etiam oportere fieri…"')
 T399 = T('4.39.9', '"signa iam ultimi finis enarrat, solis et lunae siderumque prodigia, et in terra angustias nationum obstupescentium velut a sonitu maris fluctuantis, pro expectatione imminentium orbi malorum. Quod et ipsae vires caelorum concuti habeant…"')
 
+CR_21_5 = ('The temple\'s stones that will be thrown down: a separate NA27 paragraph with no attested verse. Tertullian\'s survey of the discourse begins '
+           '"from the disciples\' question" (21:7; 4.39.13).')
+GR_21_5 = ('by its words, the printed 21:7, "Teacher, when then (οὖν) will these things (ταῦτα) be?", has its "then" and its "these things" only in 21:6; '
+           'without it the disciples ask about nothing (21:7 would follow 20:44). By its mechanics: the discourse of 21:8–36 answers when "these things" will be, '
+           'and what is thrown down is the adorned house, the outside of 11:39–40; without it the printed 21:20 ("its desolation has come near") has no beginning. '
+           'Reading: docs/research/correspondence/word_by_word.md, chapter 18, test of 21:5–6.')
+
 ENTRIES = [
- A('21:7', G('21:7'), 'And they asked him, "Teacher, when will these things be, and what will be the sign when these things are about to take place?"',
+ R('21:5', G('21:5'), 'And when some were speaking about the temple, how it was adorned with beautiful stones and offerings, he said,',
+   'U?', 'unattested', CR_21_5, GR_21_5, wording='NA27 (checked on the page image, p. 229).'),
+ R('21:6', G('21:6'), '"As for these things that you see, the days will come when not one stone will be left upon another that will not be thrown down."',
+   'U?', 'unattested', CR_21_5, GR_21_5, wording='NA27 (checked on the page image, p. 229).'),
+ A('21:7', G('21:7'), 'And they asked him, "Teacher, when then will these things be, and what will be the sign when these things are about to take place?"',
    'present (Marc. 4.39.13)', [T('4.39.13', '"Ipsum decursum scripturae evangelicae ab interrogatione discipulorum usque ad parabolam fici…"')],
    wording='NA27. Tertullian attests the disciples\' question, not its wording; Roth rates "the disciples" as subject possible only (NA27: οἱ μαθηταί added by D). In this text "these things" has no antecedent, since 21:5–6, the prediction about the temple stones, are not printed.'),
  A('21:8', G('21:8'), 'And he said, "See that you are not led astray. For many will come in my name, saying, \'I am he!\' and, \'The time is at hand!\' Do not go after them.',
@@ -83,8 +94,6 @@ ENTRIES = [
 OMITTED = [
  dict(ref='21:1–4', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='The widow\'s two coins: a separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 20:44 (4.38.10) to 21:8 (4.39.1).')),
- dict(ref='21:5–6', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason='The temple\'s stones that will be thrown down: a separate NA27 paragraph with no attested verse. Tertullian\'s survey of the discourse begins "from the disciples\' question" (21:7; 4.39.13).')),
  dict(ref='21:18', cls='A−', app=dict(roth='absent', witnesses=[
       E(58, 'πάλιν παρέκοψε τὸ »θρὶξ ἐκ τῆς κεφαλῆς ὑμῶν οὐ μὴ ἀπόληται«.')],
       decision='not printed', reason='Epiphanius states that the text lacked "not a hair of your head will perish"; NA27 cites the omission for Marcion (McionE), with syc. Tertullian goes from 21:17 to 21:19 (4.39.8).')),
@@ -94,7 +103,8 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The signs of the end. The disciples ask when these things will be. Jesus warns them against those who will come in his "
+ "The signs of the end. Some speak of the temple adorned with beautiful stones and offerings, and Jesus says that not one "
+ "stone will be left upon another (21:5–6, printed as restored by method; see the notes). The disciples ask when these things will be. Jesus warns them against those who will come in his "
  "name, and speaks of wars, earthquakes, famines, terrors and signs from heaven, and of persecution before kings and "
  "governors, \"for my name's sake\". He tells them not to prepare their defence, for he will give them wisdom, and that by "
  "endurance they will gain their lives. He speaks of Jerusalem surrounded by armies, of signs in sun, moon and stars, and of "
@@ -106,10 +116,18 @@ PREAMBLE = (
 )
 
 NOTES = [
- dict(term='Not printed: 21:1–6', cat='excision', refs=['21:7'], text=(
-  "The widow's two coins (21:1–4) and the prediction that not one stone of the temple will be left on another (21:5–6) are not "
-  "cited by any witness. Each is a separate NA27 paragraph, and they are not printed. Tertullian describes the discourse as "
-  "running \"from the disciples' question to the parable of the fig tree\" (4.39.13), so his account begins at 21:7.")),
+ dict(term='Not printed: 21:1–4', cat='excision', refs=['21:5'], text=(
+  "The widow's two coins (21:1–4) is not cited by any witness. It is a separate NA27 paragraph and is not printed (METHOD "
+  "§4.3). Tertullian describes the discourse as running \"from the disciples' question to the parable of the fig tree\" "
+  "(4.39.13), so his account begins at 21:7.")),
+ dict(term='Restored by method: 21:5–6', cat='textual', refs=['21:5', '21:6', '21:7', '21:20'], text=(
+  "The prediction that not one stone of the temple will be left on another (21:5–6) is not cited by any witness; it is a "
+  "separate NA27 paragraph, and its absence is undetermined (U?). It is printed as restored by method (METHOD §11). By its words, "
+  "the printed text needs it: 21:7, \"Teacher, when then (οὖν) will these things (ταῦτα) be?\", has its \"then\" and its \"these "
+  "things\" only in 21:6. Without it the question follows 20:44 and asks about nothing. By its mechanics: the discourse of "
+  "21:8–36 answers when \"these things\" will be, and what is thrown down is the adorned house, beautiful outside (cf. 11:39–40); "
+  "without it the printed 21:20, \"its desolation has come near\", has no beginning. The reading is in "
+  "docs/research/correspondence/word_by_word.md (chapter 18, test of 21:5–6). The Greek is NA27, checked on the page image (p. 229).")),
  dict(term='Signs and persecutions (21:7–19)', cat='textual', refs=['21:8', '21:9', '21:10', '21:11', '21:12', '21:14', '21:15', '21:17', '21:19'], text=(
   "Tertullian, Marc. 4.39.1–8 goes through the discourse in order. Those who \"come in my name\" use a name that belongs to "
   "the Creator's Christ. The wars, famines, earthquakes and portents \"must take place\". The persecutions come \"before these "

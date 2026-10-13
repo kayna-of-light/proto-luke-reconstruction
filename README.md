@@ -21,16 +21,18 @@ This project reconstructs the gospel read in Marcion's church in the second cent
 
 ## Results in brief
 
+- **Restoration by method.** The printed text was read by correspondence from beginning to end, word by word (`docs/research/correspondence/word_by_word.md`). Where the printed text's own words point to a passage it does not print, or a movement it sets going is not completed without it, the passage is printed as restored by method, in green, with the grounds in the notes (METHOD §11). Eight passages: 4:17–21, 14:1–11, 19:28–46, 21:5–6, 22:54–62, 24:33–35, 24:44–46, 24:47b–53. Their class in the apparatus does not change.
+
 - **Coverage.** Of the 1,017 verses of Luke 3–24:
   - 485 are attested present;
   - 143 attested absent;
   - 44 probably absent;
   - 345 undetermined.
-  The text prints 708 verses, 223 of them in grey.
-- **Beginning and end.** The text began at 3:1 + 4:31 (the fifteenth year of Tiberius; Jesus comes down to Capernaum) and had no Luke 1–2. It is printed to 24:47, the last verse any witness cites.
+  The text prints 766 verses: 223 of them in grey, and 58 in green, restored by method (below).
+- **Beginning and end.** The text began at 3:1 + 4:31 (the fifteenth year of Tiberius; Jesus comes down to Capernaum) and had no Luke 1–2. The last verse any witness cites is 24:47; the text is printed to 24:53, with the ending restored by method.
 - **Absent by the witnesses' statements:**
   - the parable of the two sons (15:11–32);
-  - the entry into Jerusalem and the cleansing of the temple (19:29–46);
+  - the entry into Jerusalem and the cleansing of the temple (19:29–46; printed here as restored by method, against Marcion's text);
   - the tenants (20:9–17);
   - "Today you will be with me in paradise" (23:43).
 - **Attested and printed:**

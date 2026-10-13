@@ -18,12 +18,24 @@
       "reason": "The widow's two coins: a separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 20:44 (4.38.10) to 21:8 (4.39.1)."
     },
     {
-      "ref": "21:5–6",
+      "ref": "21:5",
       "class": "U?",
       "roth": "unattested",
       "witnesses": [],
-      "decision": "not printed",
-      "reason": "The temple's stones that will be thrown down: a separate NA27 paragraph with no attested verse. Tertullian's survey of the discourse begins \"from the disciples' question\" (21:7; 4.39.13)."
+      "wording": "NA27 (checked on the page image, p. 229).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: The temple's stones that will be thrown down: a separate NA27 paragraph with no attested verse. Tertullian's survey of the discourse begins \"from the disciples' question\" (21:7; 4.39.13). Restored by method (METHOD §11): by its words, the printed 21:7, \"Teacher, when then (οὖν) will these things (ταῦτα) be?\", has its \"then\" and its \"these things\" only in 21:6; without it the disciples ask about nothing (21:7 would follow 20:44). By its mechanics: the discourse of 21:8–36 answers when \"these things\" will be, and what is thrown down is the adorned house, the outside of 11:39–40; without it the printed 21:20 (\"its desolation has come near\") has no beginning. Reading: docs/research/correspondence/word_by_word.md, chapter 18, test of 21:5–6.",
+      "reconstruction": "chapter 19, verse 1"
+    },
+    {
+      "ref": "21:6",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27 (checked on the page image, p. 229).",
+      "decision": "printed, restored by method (correspondential reading)",
+      "reason": "Class U?: The temple's stones that will be thrown down: a separate NA27 paragraph with no attested verse. Tertullian's survey of the discourse begins \"from the disciples' question\" (21:7; 4.39.13). Restored by method (METHOD §11): by its words, the printed 21:7, \"Teacher, when then (οὖν) will these things (ταῦτα) be?\", has its \"then\" and its \"these things\" only in 21:6; without it the disciples ask about nothing (21:7 would follow 20:44). By its mechanics: the discourse of 21:8–36 answers when \"these things\" will be, and what is thrown down is the adorned house, the outside of 11:39–40; without it the printed 21:20 (\"its desolation has come near\") has no beginning. Reading: docs/research/correspondence/word_by_word.md, chapter 18, test of 21:5–6.",
+      "reconstruction": "chapter 19, verse 2"
     },
     {
       "ref": "21:7",
@@ -37,7 +49,7 @@
       ],
       "wording": "NA27. Tertullian attests the disciples' question, not its wording; Roth rates \"the disciples\" as subject possible only (NA27: οἱ μαθηταί added by D). In this text \"these things\" has no antecedent, since 21:5–6, the prediction about the temple stones, are not printed.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 1"
+      "reconstruction": "chapter 19, verse 3"
     },
     {
       "ref": "21:8",
@@ -55,7 +67,7 @@
       ],
       "wording": "NA27. Tertullian's \"I am the Christ\" is Matthew's wording (Matt 24:5); Roth: possible only.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 2"
+      "reconstruction": "chapter 19, verse 4"
     },
     {
       "ref": "21:9",
@@ -69,7 +81,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 3"
+      "reconstruction": "chapter 19, verse 5"
     },
     {
       "ref": "21:10",
@@ -83,7 +95,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 4"
+      "reconstruction": "chapter 19, verse 6"
     },
     {
       "ref": "21:11",
@@ -97,7 +109,7 @@
       ],
       "wording": "NA27 (ἀπ' οὐρανοῦ σημεῖα; SBLGNT σημεῖα ἀπ' οὐρανοῦ — checked on the page image).",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 5"
+      "reconstruction": "chapter 19, verse 7"
     },
     {
       "ref": "21:12",
@@ -111,7 +123,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 6"
+      "reconstruction": "chapter 19, verse 8"
     },
     {
       "ref": "21:13",
@@ -125,7 +137,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 7"
+      "reconstruction": "chapter 19, verse 9"
     },
     {
       "ref": "21:14",
@@ -139,7 +151,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 8"
+      "reconstruction": "chapter 19, verse 10"
     },
     {
       "ref": "21:15",
@@ -153,7 +165,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 9"
+      "reconstruction": "chapter 19, verse 11"
     },
     {
       "ref": "21:16",
@@ -167,7 +179,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 10"
+      "reconstruction": "chapter 19, verse 12"
     },
     {
       "ref": "21:17",
@@ -181,7 +193,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 11"
+      "reconstruction": "chapter 19, verse 13"
     },
     {
       "ref": "21:18",
@@ -208,7 +220,7 @@
       ],
       "wording": "NA27. Tertullian's \"you will save yourselves\" (NA27 apparatus: σώσετε McionT) is rated possible only by Roth; not adopted.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 12"
+      "reconstruction": "chapter 19, verse 14"
     },
     {
       "ref": "21:20",
@@ -222,7 +234,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 13"
+      "reconstruction": "chapter 19, verse 15"
     },
     {
       "ref": "21:21–22",
@@ -245,7 +257,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested paragraph 21:20–24.",
-      "reconstruction": "chapter 19, verse 14"
+      "reconstruction": "chapter 19, verse 16"
     },
     {
       "ref": "21:24",
@@ -255,7 +267,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested paragraph 21:20–24.",
-      "reconstruction": "chapter 19, verse 15"
+      "reconstruction": "chapter 19, verse 17"
     },
     {
       "ref": "21:25",
@@ -269,7 +281,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 16"
+      "reconstruction": "chapter 19, verse 18"
     },
     {
       "ref": "21:26",
@@ -283,7 +295,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 17"
+      "reconstruction": "chapter 19, verse 19"
     },
     {
       "ref": "21:27",
@@ -301,7 +313,7 @@
       ],
       "wording": "Marcionite reading adopted (retroversion): \"coming from the heavens with great power\" for NA27 \"coming in a cloud with power and great glory\". Tertullian quotes the verse as the Lord's words (\"Post haec quid dominus?\", 4.39.10) and repeats \"coming from the heavens\" (4.39.11); Roth: \"from the heavens\" very likely, \"with power… great\" secure, \"and glory likely not present\". His Latin \"cum plurima virtute\" cannot render NA27's two nouns. The cloud he brings in himself, from Daniel 7:13, as a separate text. NA27 apparatus: καὶ δυνάμει πολλῇ καὶ δόξῃ D e (sys.c).",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 18"
+      "reconstruction": "chapter 19, verse 20"
     },
     {
       "ref": "21:28",
@@ -315,7 +327,7 @@
       ],
       "wording": "NA27. Tertullian lacks \"your\" with \"heads\"; Roth: likely not present, because Tertullian has \"capita vestra\" when he cites the verse in Res. 22.6, and D d omit the pronoun (Roth n. 434; not in the NA27 apparatus). Latin can leave the possessive unexpressed, so his \"capita\" can render NA27 (METHOD §5.4). Printed.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 19"
+      "reconstruction": "chapter 19, verse 21"
     },
     {
       "ref": "21:29",
@@ -329,7 +341,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 20"
+      "reconstruction": "chapter 19, verse 22"
     },
     {
       "ref": "21:30",
@@ -343,7 +355,7 @@
       ],
       "wording": "NA27. Tertullian's \"when they bear fruit, people know\" is rated possible only.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 21"
+      "reconstruction": "chapter 19, verse 23"
     },
     {
       "ref": "21:31",
@@ -361,7 +373,7 @@
       ],
       "wording": "NA27. Tertullian cites the verse twice; 4.39.16 renders NA27 exactly, while 4.39.11 has Matthew's \"all\" (Matt 24:33). Roth: secure, as NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 22"
+      "reconstruction": "chapter 19, verse 24"
     },
     {
       "ref": "21:32",
@@ -375,7 +387,7 @@
       ],
       "wording": "NA27. Tertullian has \"heaven and earth will not pass away until all is accomplished\" (cf. Matt 5:18); Roth: possible only. Not adopted.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 23"
+      "reconstruction": "chapter 19, verse 25"
     },
     {
       "ref": "21:33",
@@ -389,7 +401,7 @@
       ],
       "wording": "NA27. Tertullian joins Isa 40:8 (\"the word… abides for ever\"); Roth rates \"my word abides\" possible only.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 24"
+      "reconstruction": "chapter 19, verse 26"
     },
     {
       "ref": "21:34",
@@ -403,7 +415,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 25"
+      "reconstruction": "chapter 19, verse 27"
     },
     {
       "ref": "21:35",
@@ -417,7 +429,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 26"
+      "reconstruction": "chapter 19, verse 28"
     },
     {
       "ref": "21:36",
@@ -427,7 +439,7 @@
       "wording": "NA27.",
       "decision": "printed, flagged unattested",
       "reason": "Inside the attested paragraph 21:34–36.",
-      "reconstruction": "chapter 19, verse 27"
+      "reconstruction": "chapter 19, verse 29"
     },
     {
       "ref": "21:37",
@@ -441,7 +453,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 28"
+      "reconstruction": "chapter 19, verse 30"
     },
     {
       "ref": "21:38",
@@ -455,7 +467,7 @@
       ],
       "wording": "NA27.",
       "decision": "printed",
-      "reconstruction": "chapter 19, verse 29"
+      "reconstruction": "chapter 19, verse 31"
     }
   ]
 }

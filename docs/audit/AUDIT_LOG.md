@@ -622,3 +622,34 @@ METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 alrea
 - **Q5 checked.** No "spiritual body" language occurs. "The Living One" is used at 24:5.
 - **All six batch scripts were rerun in order.** The JSON and apparatus they produce are identical to the committed files except for the Q4 translations.
 - **README and CLAUDE.md** now describe the actual schema, the apparatus, the build and the decision rules.
+
+## Restoration by method (2026-10-13)
+
+The owner approved printing the passages the correspondential reading shows the printed text needs (`docs/research/correspondence/restorations.md` §1). METHOD gains §11, "Restoration by method"; the §10 default ending is overridden.
+
+- **What changed in the build.**
+  - `buildlib.R()` makes a restored entry. It keeps the class and the witnesses, and its decision reads "printed, restored by method (correspondential reading)". The reason gives the class's grounds first, then the reading's.
+  - `build_chapter` writes `attestation: "restored"`.
+  - The six batch drivers accept a printed `A−`/`U−` verse only if it carries the §11 decision and is not also flagged grey.
+  - `json_to_pdf.py` prints restored verses in green, with a legend in each chapter that has them.
+- **The passages.** Each was read in the page images of NA27; the differences from SBLGNT are patched in `batchN_patches.py`.
+
+  | Passage | Class | Chapter | NA27 page | NA27 differs from SBLGNT |
+  |---|---|---|---|---|
+  | 4:17–21 | U− | 1 | 164 | — |
+  | 14:1–11 | U? | 12 | 208 | — (14:1 [τῶν] printed) |
+  | 19:28 | U? | 17 | 223 | — |
+  | 19:29–46 | A− (Epiph. sch. 53) | 17 | 223–225 | 19:36 αὐτῶν; 19:38 ὁ ἐρχόμενος ὁ βασιλεύς; 19:40 without ὅτι; 19:29 Βηθανία[ν] printed |
+  | 21:5–6 | U? | 19 | 229 | — |
+  | 22:54–62 | U? | 20 | 236 | 22:61 ῥήματος |
+  | 24:33–35 | U? | 22 | 244 | — |
+  | 24:44–46 | U− | 22 | 245 | 24:44 καὶ τοῖς προφήταις |
+  | 24:47b–53 | U? | 22 | 245–246 | 24:47 NA27 punctuation (47b with 48); 24:48 without ἐστε; 24:49 ἀποστέλλω, [ἰδού] printed; 24:50 [ἔξω] printed; 24:51b and 24:52a printed without brackets (NA27 text; WNI) |
+
+  19:29–46 is printed against Marcion's text, and its notes say so. 4:17–21 and 24:44–46 are printed against their class U−, not against an attested absence.
+- **24:47.** The ellipsis is removed: the infinitive now depends on the printed 24:46. 47b ("beginning from Jerusalem") is printed with 24:48–53, and the apparatus wording says so. The verse stays `A+`.
+- **21:7.** The English now renders οὖν ("when then will these things be"), which the restored 21:6 answers.
+- **Notes and preambles** of chapters 1, 12, 17, 19, 20 and 22 are rewritten where they said the passages were absent. Each restored passage has a textual note with the class, the witnesses' evidence and the reading's grounds. The passages tested and not restored keep their excision notes; these now say that the reading found them not needed.
+- **Totals.** The classes are unchanged (1,017 verses: 485 A+, 143 A−, 44 U−, 345 U?). 766 verses are printed: 223 grey and 58 restored (32 U?, 18 A−, 8 U−). The preface, README and CLAUDE.md are updated.
+- **Not restored, left for the owner:** the passages the printed text only leans on (12:28a, 19:27, 23:13–16, 23:39–43), and three adopted wordings the reading marks as strains (10:21, 18:19, 21:27). See `restorations.md` §§2–3.
+- **Rebuild.** All six batch scripts and `frontmatter.py` were rerun in order, and the PDF was regenerated.

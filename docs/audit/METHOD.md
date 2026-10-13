@@ -124,4 +124,26 @@ It does not supply readings. Where a library document makes a factual claim abou
 - **(default)** `U?` verses inside attested pericopes are printed and flagged. Whole unattested pericopes are not printed. *(Working document §10.2.)*
 - **(default)** The order of the witnesses is kept. The model question (Schwegler or Semler) is left open, and notes say "canonical Luke has / lacks". They do not say "Luke added" except where both models agree.
 - **(default)** Readings at Roth's "probable / possible" level stay in the notes.
-- **(default)** The ending follows the attestation. 24:47 is the last attested verse. 24:48–53 is unattested and not printed as text unless the owner decides otherwise (working document §10.5).
+- **(default)** The ending follows the attestation. 24:47 is the last attested verse. 24:48–53 is unattested and not printed as text unless the owner decides otherwise (working document §10.5). **Overridden 2026-10-13:** 24:47b–53 is printed as restored by method (§11).
+
+## 11. Restoration by method (added 2026-10-13)
+
+The witnesses decide what is attested. They cannot show a passage they never quote, and a hostile witness's silence (`U−`) or a whole unattested pericope (`U?`) leaves a gap that §4 does not fill. §11 is a second method for that gap. It applies only where no witness and nothing else decides the question.
+
+**The method.** The printed text is read by correspondence, from beginning to end, word by word and sentence by sentence, as Swedenborg reads the letter: every element is taken as the spiritual function it names, with no structure decided in advance. The reading is in `docs/research/correspondence/word_by_word.md`. Each unprinted passage is read at its place by its own words.
+
+**When a passage is restored.** Only when the reading shows the printed text needs it. That means one of the following:
+- the printed words point to the missing passage (a reference, a pronoun, or a reply that has nothing to answer); or
+- the printed text sets a movement going and does not complete it without the passage.
+
+A passage that only continues the line is not restored. Neither is one the printed text only leans on. These are listed for the owner in `docs/research/correspondence/restorations.md`.
+
+**What restoration does not change.**
+- The witnesses' evidence and the class (`A+`, `A−`, `U−`, `U?`) stay in the apparatus as they are.
+- The decision reads "printed, restored by method (correspondential reading)", and the `reason` gives the reading's grounds.
+- Where the class is `A−`, the note says that the passage is printed against Marcion's text as the witnesses report it.
+- The Greek is NA27 checked on the page image (§5). No Marcionite reading is adopted inside a restored passage.
+
+**How it is shown.** In the JSON, a restored verse has `attestation: "restored"`. In the PDF it is printed in a distinct colour, and the chapter notes give the grounds. The batch scripts check that every restored verse carries the §11 decision.
+
+The first application (eight passages: 4:17–21, 14:1–11, 19:28–46, 21:5–6, 22:54–62, 24:33–35, 24:44–46, 24:47b–53) was approved by the owner on 2026-10-13.

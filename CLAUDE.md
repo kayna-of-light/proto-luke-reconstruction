@@ -89,7 +89,7 @@ The primary data file is `data/proto_luke.json`. It is built by the audit script
 }
 ```
 
-`attestation: "unattested"` appears only on verses printed in grey (unattested verses inside an attested paragraph).
+`attestation: "unattested"` appears only on verses printed in grey (unattested verses inside an attested paragraph). `attestation: "restored"` marks verses printed in green as restored by method (`docs/audit/METHOD.md` §11): the correspondential reading of the printed text shows that it needs them; their apparatus class is unchanged and the decision reads "printed, restored by method (correspondential reading)".
 
 ### Apparatus
 
@@ -177,7 +177,7 @@ Before committing, verify:
 - [ ] No Pauline "Soma Pneumatikon" language
 - [ ] Greek text properly formatted (NTG 27 base)
 - [ ] Citations follow scholarly convention
-- [ ] Every printed verse has an apparatus record; no `A−`/`U−` verse is printed (the batch scripts check this)
+- [ ] Every printed verse has an apparatus record; no `A−`/`U−` verse is printed unless restored by method under METHOD §11 (the batch scripts check this)
 
 ### Quality Assurance
 - Regenerate PDF after JSON changes
