@@ -4758,3 +4758,380 @@ The earlier verdicts were drawn from the letter.
 - being led to him;
 - looking up (7:22; 9:16 / 18:41–43 → 19:5);
 - praise (→ 19:37, unprinted).
+
+---
+
+## Chapter 17
+
+*19:1–26. Grey: 19:1, 19:3–5, 19:7, 19:12, 19:14–21, 19:24–25. Not printed, after 19:26: 19:27 (U−), 19:28 (U?), 19:29–46 (A−), 19:47–48 (U?).*
+
+### 19:1–2 (19:1 grey)
+
+*Καὶ εἰσελθὼν διήρχετο τὴν Ἰεριχώ. καὶ ἰδοὺ ἀνὴρ ὀνόματι καλούμενος Ζακχαῖος, καὶ αὐτὸς ἦν ἀρχιτελώνης καὶ αὐτὸς πλούσιος·*
+
+- **"entering, he was passing through (διήρχετο) Jericho"**: *passing through: 4:30; 17:11.*
+- **"a chief tax collector (ἀρχιτελώνης), and he was rich (πλούσιος)"**:
+  - Tax collectors: Levi (5:27–30); those who drew near to hear (15:1); the tax collector who went down justified (18:13–14).
+  - A "chief" (ἀρχι-), as the rich man of 18:18 was a "ruler" (ἄρχων). *The rich ruler went away sorrowful (18:23).* Here a second rich man with a ruler's title.
+
+### 19:3–4 (grey)
+
+*καὶ ἐζήτει ἰδεῖν τὸν Ἰησοῦν τίς ἐστιν, καὶ οὐκ ἠδύνατο ἀπὸ τοῦ ὄχλου ὅτι τῇ ἡλικίᾳ μικρὸς ἦν. καὶ προδραμὼν εἰς τὸ ἔμπροσθεν ἀνέβη ἐπὶ συκομορέαν ἵνα ἴδῃ αὐτόν, ὅτι ἐκείνης ἤμελλεν διέρχεσθαι.*
+
+- **"he sought to see (ἐζήτει ἰδεῖν) Jesus, who he is (τίς ἐστιν)"**:
+  - *Herod "sought to see (ἐζήτει ἰδεῖν) him" and asked "who is this?" (9:9). Forward: Herod "had long wanted to see him" (23:8).*
+  - The question "who is this?" (5:21; 7:49; 8:25; 9:9; 9:18–20).
+- **"and could not (οὐκ ἠδύνατο), because of the crowd"**:
+  - *The friends of the paralysed man, "not finding how to bring him in because of the crowd (διὰ τὸν ὄχλον), went up (ἀναβάντες) onto the roof" (5:19).*
+  - The crowd that presses (8:42, 8:45).
+- **"because he was small in stature (τῇ ἡλικίᾳ μικρός)"**:
+  - *Stature: "who by being anxious can add a cubit to his stature (ἡλικίαν)?" (12:25), the only other place.*
+  - Small: "the least among you is great" (9:48); "little flock" (12:32); "these little ones" (17:2).
+  - The one who cannot add to his height.
+- **"running ahead (προδραμών)"**: *the father "running" (δραμών) to the son (15:20, test).*
+- **"he went up (ἀνέβη) onto a sycamore-fig, to see him"**:
+  - *Going up.* He went up the mountain to pray (9:28). Two men went up to the temple to pray (18:10). The friends went up onto the roof because of the crowd (5:19).
+  - Here the small man goes up a tree to see.
+  - The tree: the mustard seed became a tree, and the birds dwelt in it (13:19). The fig tree that bore no fruit (13:6–9, test). "Look at the fig tree" (21:29).
+- **"because he was about to pass through (διέρχεσθαι) that way"**: passing through. He goes up where the way passes.
+
+### 19:5–6 (19:5 grey)
+
+*καὶ ὡς ἦλθεν ἐπὶ τὸν τόπον, ἀναβλέψας ὁ Ἰησοῦς εἶπεν πρὸς αὐτόν· Ζακχαῖε, σπεύσας κατάβηθι, σήμερον γὰρ ἐν τῷ οἴκῳ σου δεῖ με μεῖναι. καὶ σπεύσας κατέβη, καὶ ὑπεδέξατο αὐτὸν χαίρων.*
+
+- **"looking up (ἀναβλέψας), Jesus said"**:
+  - *Looking up:* the blind man "looked up" (18:41–43), the verb of the healing just before. "Looking up into heaven, he blessed" (9:16).
+  - *He looks up at the one who went up.*
+- **"Zacchaeus, hurry and come down (κατάβηθι)"**:
+  - *Coming down:* the tax collector "went down (κατέβη) to his house justified" (18:14). He came down from the mountain (6:17). "Let him not go down (μὴ καταβάτω) to take" (17:31).
+  - The paralysed man was let down (καθῆκαν) to him from the roof (5:19).
+  - The one who went up to see is called down.
+- **"for today (σήμερον) I must (δεῖ) remain (μεῖναι) in your house"**:
+  - *"Must" (δεῖ), the necessity of the passion (9:22; 17:25), here the necessity of remaining in a sinner's house.*
+  - Remaining (μένω):
+    - Legion "did not remain in a house" (8:27);
+    - "remain in that house" (9:4; 10:7).
+  - *Forward: at Emmaus, "Remain (μεῖνον) with us, for it is toward evening… and he went in to remain (μεῖναι) with them" (24:29).*
+  - Today: today and tomorrow (13:32–33, test). *Forward:* "today salvation" (19:9).
+- **"and hurrying, he came down (κατέβη), and received (ὑπεδέξατο) him rejoicing"**:
+  - *Receiving: Martha "received (ὑπεδέξατο) him" (10:38, test). The reception of Levi (δοχή, 5:29); of the poor (14:13).*
+  - Rejoicing: the shepherd "rejoicing" (15:5).
+
+### 19:7 (grey)
+
+*καὶ ἰδόντες πάντες διεγόγγυζον λέγοντες ὅτι Παρὰ ἁμαρτωλῷ ἀνδρὶ εἰσῆλθεν καταλῦσαι.*
+
+- **"all grumbled (διεγόγγυζον)"**: *the third of the three: 5:30; 15:2; 19:7.*
+- **"he has gone in to lodge (καταλῦσαι) with a sinful man"**:
+  - *Lodging: "that they may lodge (καταλύσωσιν) and find provisions" (9:12). Forward: "where is the guest room (κατάλυμα) where I may eat the Passover?" (22:11).*
+  - The Son of Man "has nowhere to lay his head" (9:58). He lodges with a sinner.
+
+### 19:8
+
+*σταθεὶς δὲ Ζακχαῖος εἶπεν πρὸς τὸν κύριον· Ἰδοὺ τὰ ἡμίσιά μου τῶν ὑπαρχόντων, κύριε, τοῖς πτωχοῖς δίδωμι, καὶ εἴ τινός τι ἐσυκοφάντησα ἀποδίδωμι τετραπλοῦν.*
+
+- **"standing (σταθείς)"**:
+  - *The Pharisee "standing (σταθείς), prayed to himself", listing his fasting and tithing (18:11–12).*
+  - Jesus "standing (σταθείς)" for the blind man (18:40).
+  - Zacchaeus stands and speaks "to the Lord", not to himself.
+- **"half of my possessions (ὑπαρχόντων), Lord, I give (δίδωμι) to the poor"**:
+  - *The ruler was told "sell all that you have and give (δός) to the poor" (18:22), and did not.* The chief tax collector gives, now.
+  - *The strong man's spoils given out (11:22).* "Give as alms the things within" (11:41).
+  - Possessions (12:15; 16:1).
+- **"if I have extorted (ἐσυκοφάντησα) anything"**: συκο-φαντέω. *Its first part is the fig (σῦκον) of the sycamore-fig (συκομορέα) he went up (19:4).*
+- **"I give back (ἀποδίδωμι) fourfold"**:
+  - *Giving back: "until you give back (ἀποδῷς) the last coin" (12:59); "give back (ἀπόδος) the account" (16:2).*
+  - He gives back more than what was taken. The measure running over (6:38).
+
+### 19:9–10
+
+*εἶπεν δὲ πρὸς αὐτὸν ὁ Ἰησοῦς ὅτι Σήμερον σωτηρία τῷ οἴκῳ τούτῳ ἐγένετο, καθότι καὶ αὐτὸς υἱὸς Ἀβραάμ ἐστιν· ἦλθεν γὰρ ὁ υἱὸς τοῦ ἀνθρώπου ζητῆσαι καὶ σῶσαι τὸ ἀπολωλός.*
+
+- **"today salvation (σωτηρία) has come to this house"**:
+  - *Salvation:* "your faith has saved you" (7:50; 8:48; 17:19; 18:42).
+  - *The house:* "peace to this house" (10:5); "went down to his house justified" (18:14).
+- **"since he also is a son of Abraham"**: *"this daughter of Abraham", the bent woman loosed (13:16).* Son and daughter of Abraham: the loosed and the saved. Lazarus in Abraham's bosom (16:22).
+- **"the Son of Man came to seek (ζητῆσαι) and to save the lost (τὸ ἀπολωλός)"**:
+  - *Zacchaeus "sought (ἐζήτει) to see" him (19:3). The Son of Man came to seek him. The seeking goes both ways, as the reception did (8:40 / 9:11).*
+  - *The lost: the lost sheep (τὸ ἀπολωλός, 15:4–6); "was lost and is found" (15:24, 15:32, test).*
+
+### 19:11–12 (19:12 grey)
+
+*Ἀκουόντων δὲ αὐτῶν ταῦτα προσθεὶς εἶπεν παραβολὴν διὰ τὸ ἐγγὺς εἶναι Ἰερουσαλὴμ αὐτὸν καὶ δοκεῖν αὐτοὺς ὅτι παραχρῆμα μέλλει ἡ βασιλεία τοῦ θεοῦ ἀναφαίνεσθαι· εἶπεν οὖν· Ἄνθρωπός τις εὐγενὴς ἐπορεύθη εἰς χώραν μακρὰν λαβεῖν ἑαυτῷ βασιλείαν καὶ ὑποστρέψαι.*
+
+- **"adding (προσθείς)"**: adding (12:25, 12:31).
+- **"because he was near (ἐγγύς) Jerusalem"**:
+  - *The road, near its goal. The second time since 9:53 that the printed text names Jerusalem on the road (17:11; 19:11).*
+  - Drawing near (18:35, 18:40).
+- **"they thought (δοκεῖν) that the kingdom of God was about to shine up (ἀναφαίνεσθαι) at once"**:
+  - *ἀνα-φαίνω, "appear up, shine forth".* The expectation is of a rising appearance, at once.
+  - Seeming (δοκέω): "what he seems to have" (8:18); "in an hour you do not think" (12:40).
+- **"a man of noble birth (εὐγενής)"**:
+  - *Birth, origin:* "this foreigner (ἀλλογενής)" (17:18); "I do not know where you are from" (13:25).
+  - The well-born is the one who goes away.
+- **"went (ἐπορεύθη) into a far country (χώραν μακράν)"**:
+  - *The younger son "went away into a far country (χώραν μακράν)" (15:13, test). The same words.*
+  - The son went to scatter. The nobleman goes to receive.
+- **"to receive (λαβεῖν) a kingdom for himself, and to return (ὑποστρέψαι)"**:
+  - *λαμβάνω. The days of "his being taken up" (ἀνάλημψις, 9:51).*
+  - *Here the going away is to receive a kingdom.* "Having received (λαβόντα) the kingdom" (19:15).
+  - Returning (8:37–40; 10:17; 17:15–18). The lord returning from the wedding (12:36).
+- *The parable answers the thought of a kingdom shining up at once. There is a going away to receive, and a return.*
+
+### 19:13–14 (19:14 grey)
+
+*καλέσας δὲ δέκα δούλους ἑαυτοῦ ἔδωκεν αὐτοῖς δέκα μνᾶς καὶ εἶπεν πρὸς αὐτούς· Πραγματεύσασθε ἐν ᾧ ἔρχομαι. οἱ δὲ πολῖται αὐτοῦ ἐμίσουν αὐτόν, καὶ ἀπέστειλαν πρεσβείαν ὀπίσω αὐτοῦ λέγοντες· Οὐ θέλομεν τοῦτον βασιλεῦσαι ἐφ’ ἡμᾶς.*
+
+- **"ten servants… ten minas"**: ten (15:8; 17:12).
+- **"trade while I am coming"**: what is given is to be worked with in the absence. The steward of 12:42–48 ("my lord delays").
+- **"his citizens (πολῖται) hated (ἐμίσουν) him"**:
+  - *The younger son "joined himself to one of the citizens (πολιτῶν)" of the far country (15:15, test).*
+  - Hating (6:22, 6:27; 16:13). *Forward:* "you will be hated by all" (21:17).
+- **"they sent an embassy (πρεσβείαν) after (ὀπίσω) him"**:
+  - *The king who "sends an embassy (πρεσβείαν) and asks the terms of peace" (14:32, test).* Here the embassy is sent to refuse.
+  - Behind him: "come behind me" (9:23).
+- **"we do not want (οὐ θέλομεν) this man to reign over us"**:
+  - *"How often I wanted… and you did not want (οὐκ ἠθελήσατε)" (13:34, test).* The elder son "did not want (οὐκ ἤθελεν) to go in" (15:28, test).
+  - The will that refuses his reign.
+
+### 19:15–19 (grey)
+
+*καὶ ἐγένετο ἐν τῷ ἐπανελθεῖν αὐτὸν λαβόντα τὴν βασιλείαν… παρεγένετο δὲ ὁ πρῶτος λέγων· Κύριε, ἡ μνᾶ σου δέκα προσηργάσατο μνᾶς. καὶ εἶπεν αὐτῷ· Εὖγε, ἀγαθὲ δοῦλε, ὅτι ἐν ἐλαχίστῳ πιστὸς ἐγένου, ἴσθι ἐξουσίαν ἔχων ἐπάνω δέκα πόλεων…*
+
+- **"when he returned (ἐπανελθεῖν), having received (λαβόντα) the kingdom"**:
+  - *The Samaritan: "when I return (ἐπανέρχεσθαι), I will repay you" (10:35, test).*
+  - Having received the kingdom: the going away is complete.
+- **"the silver (ἀργύριον)"**: "take no silver" for the way (9:3). What is given is his.
+- **"Lord, your mina has worked to gain ten minas"**: "your mina". The servant claims nothing as his. *It is the opposite of the Pharisee's "I fast, I tithe" (18:12).*
+- **"Well done, good (ἀγαθέ) servant"**:
+  - *Good: "no one is good except one" (18:19).* The servant is called good for what he did with what was given.
+- **"because you were faithful in a very little (ἐλαχίστῳ)"**: *16:10.*
+- **"have authority (ἐξουσίαν) over ten cities"**:
+  - *Authority:* his authority (4:36; 5:24); given to the twelve (9:1) and the seventy (10:19).
+  - Set over all the possessions (12:44).
+- **"your mina made five… be over five cities"**: the measure, according to what was done.
+
+### 19:20–23 (19:20–21 grey)
+
+*Κύριε, ἰδοὺ ἡ μνᾶ σου ἣν εἶχον ἀποκειμένην ἐν σουδαρίῳ· ἐφοβούμην γάρ σε ὅτι ἄνθρωπος αὐστηρὸς εἶ, αἴρεις ὃ οὐκ ἔθηκας καὶ θερίζεις ὃ οὐκ ἔσπειρας. λέγει αὐτῷ· Ἐκ τοῦ στόματός σου κρίνω σε, πονηρὲ δοῦλε… καὶ διὰ τί οὐκ ἔδωκάς μου τὸ ἀργύριον ἐπὶ τράπεζαν; κἀγὼ ἐλθὼν σὺν τόκῳ ἂν αὐτὸ ἔπραξα.*
+
+- **"which I had laid away (ἀποκειμένην) in a cloth"**:
+  - *κεῖμαι, "lie, be laid up": the rich man's "goods laid up (κείμενα) for many years" (12:19).*
+  - The gift laid away, kept, not worked with.
+- **"for I was afraid of you, because you are a severe man"**:
+  - Fear (12:4–5, 12:32): the fear that is not of the right object.
+  - The servant's picture of his lord: severe.
+- **"you take (αἴρεις) what you did not lay down, and reap (θερίζεις) what you did not sow"**: taking (αἴρω: 8:18; 9:3; 11:22, 11:52); reaping and sowing (8:5; 10:2; 12:24).
+- **"out of your own mouth I will judge you, evil (πονηρέ) servant"**:
+  - *Judgement as one's own:*
+    - "your sons will be your judges" (11:19);
+    - "why do you not judge for yourselves?" (12:57);
+    - "with the measure you measure" (6:38).
+  - *The mouth:* "out of the overflow of the heart the mouth speaks" (6:45).
+  - He is judged by the picture he holds of his lord.
+- **"why did you not give my silver to the table (τράπεζαν)?"**: *the rich man's table (16:21).* Forward: "the hand… on the table" (22:21).
+
+### 19:24–26 (19:24–25 grey)
+
+*καὶ τοῖς παρεστῶσιν εἶπεν· Ἄρατε ἀπ’ αὐτοῦ τὴν μνᾶν καὶ δότε τῷ τὰς δέκα μνᾶς ἔχοντι— καὶ εἶπαν αὐτῷ· Κύριε, ἔχει δέκα μνᾶς— λέγω ὑμῖν ὅτι παντὶ τῷ ἔχοντι δοθήσεται, ἀπὸ δὲ τοῦ μὴ ἔχοντος καὶ ὃ ἔχει ἀρθήσεται.*
+
+- **"take (ἄρατε) the mina from him and give it to the one who has ten"**: taking and giving.
+- **"to everyone who has, more will be given; from the one who has not, even what he has will be taken (ἀρθήσεται)"**:
+  - *The law of 8:18, the second time.* There: "even what he seems (δοκεῖ) to have". Here: "even what he has".
+  - What is held and not worked with is not had.
+
+### Test: 19:27 (U−)
+
+*πλὴν τοὺς ἐχθρούς μου τούτους τοὺς μὴ θελήσαντάς με βασιλεῦσαι ἐπ’ αὐτοὺς ἀγάγετε ὧδε καὶ κατασφάξατε αὐτοὺς ἔμπροσθέν μου.*
+
+- **"these enemies (ἐχθρούς) of mine, who did not want me to reign over them"**:
+  - *The citizens of 19:14 ("we do not want this man to reign over us").*
+  - Enemies: "love your enemies" (6:27, 6:35); "authority over all the power of the enemy" (10:19). *The printed 20:43: "until I put your enemies (ἐχθρούς) as a footstool for your feet".*
+- **"bring them here and slaughter them before me"**.
+
+*The reading.*
+- Read by the letter, the master's order to slaughter stands against how the text forms judgement elsewhere:
+  - from one's own mouth (19:22);
+  - one's own measure (6:38);
+  - the rebuke of the fire charity wanted (9:54–55).
+- Read by the method, as the text's persons are read throughout, the "enemies who did not want me to reign" are what in a person refuses his reign. Their being put to death "before him" is the removal of the refusal in his presence. That is:
+  - the treading of the enemy's power (10:19);
+  - the enemies put under his feet (20:43);
+  - "whoever loses his soul will make it live" (17:33).
+- *The enemy as person is loved (6:27). The enemy as power in oneself is put under foot (10:19), and, here, put to death.*
+
+**Verdict: continues, and the printed parable leans on it.**
+- The printed text carries the strand of the kingdom: received (19:12), refused by the citizens (19:14), "having received the kingdom" (19:15).
+- It never brings back the citizens who refused. Their end is 19:27, the only place the strand closes.
+- U−. *Recorded for task 14.*
+
+### Test: 19:28 (U?)
+
+*Καὶ εἰπὼν ταῦτα ἐπορεύετο ἔμπροσθεν ἀναβαίνων εἰς Ἱεροσόλυμα.*
+
+- **"he went on ahead (ἐπορεύετο ἔμπροσθεν)"**: the road. Zacchaeus "ran ahead" (19:4).
+- **"going up (ἀναβαίνων) to Jerusalem"**: *the road's verb "go up", with its goal. With 18:31 (test), the only places it is said.*
+
+**Verdict: continues.** It introduces 19:29–46.
+
+### Test: 19:29–46 (A−)
+
+*Καὶ ἐγένετο ὡς ἤγγισεν εἰς Βηθφαγὴ καὶ Βηθανίαν πρὸς τὸ ὄρος τὸ καλούμενον Ἐλαιῶν, ἀπέστειλεν δύο τῶν μαθητῶν λέγων· Ὑπάγετε εἰς τὴν κατέναντι κώμην, ἐν ᾗ εἰσπορευόμενοι εὑρήσετε πῶλον δεδεμένον, ἐφ’ ὃν οὐδεὶς πώποτε ἀνθρώπων ἐκάθισεν, καὶ λύσαντες αὐτὸν ἀγάγετε. καὶ ἐάν τις ὑμᾶς ἐρωτᾷ· Διὰ τί λύετε; οὕτως ἐρεῖτε ὅτι Ὁ κύριος αὐτοῦ χρείαν ἔχει… καὶ ἤγαγον αὐτὸν πρὸς τὸν Ἰησοῦν, καὶ ἐπιρίψαντες αὐτῶν τὰ ἱμάτια ἐπὶ τὸν πῶλον ἐπεβίβασαν τὸν Ἰησοῦν· πορευομένου δὲ αὐτοῦ ὑπεστρώννυον τὰ ἱμάτια ἑαυτῶν ἐν τῇ ὁδῷ. ἐγγίζοντος δὲ αὐτοῦ ἤδη πρὸς τῇ καταβάσει τοῦ Ὄρους τῶν Ἐλαιῶν ἤρξαντο ἅπαν τὸ πλῆθος τῶν μαθητῶν χαίροντες αἰνεῖν τὸν θεὸν φωνῇ μεγάλῃ περὶ πασῶν ὧν εἶδον δυνάμεων, λέγοντες· Εὐλογημένος ὁ ἐρχόμενος βασιλεὺς ἐν ὀνόματι κυρίου· ἐν οὐρανῷ εἰρήνη καὶ δόξα ἐν ὑψίστοις. καί τινες τῶν Φαρισαίων… εἶπαν πρὸς αὐτόν· Διδάσκαλε, ἐπιτίμησον τοῖς μαθηταῖς σου. καὶ ἀποκριθεὶς εἶπεν· Λέγω ὑμῖν, ὅτι ἐὰν οὗτοι σιωπήσουσιν, οἱ λίθοι κράξουσιν. Καὶ ὡς ἤγγισεν, ἰδὼν τὴν πόλιν ἔκλαυσεν ἐπ’ αὐτήν, λέγων ὅτι Εἰ ἔγνως ἐν τῇ ἡμέρᾳ ταύτῃ καὶ σὺ τὰ πρὸς εἰρήνην— νῦν δὲ ἐκρύβη ἀπὸ ὀφθαλμῶν σου. ὅτι ἥξουσιν ἡμέραι ἐπὶ σὲ καὶ παρεμβαλοῦσιν οἱ ἐχθροί σου χάρακά σοι καὶ περικυκλώσουσίν σε καὶ συνέξουσίν σε πάντοθεν, καὶ ἐδαφιοῦσίν σε καὶ τὰ τέκνα σου ἐν σοί, καὶ οὐκ ἀφήσουσιν λίθον ἐπὶ λίθον ἐν σοί, ἀνθ’ ὧν οὐκ ἔγνως τὸν καιρὸν τῆς ἐπισκοπῆς σου. Καὶ εἰσελθὼν εἰς τὸ ἱερὸν ἤρξατο ἐκβάλλειν τοὺς πωλοῦντας, λέγων αὐτοῖς· Γέγραπται· Καὶ ἔσται ὁ οἶκός μου οἶκος προσευχῆς, ὑμεῖς δὲ αὐτὸν ἐποιήσατε σπήλαιον λῃστῶν.*
+
+- **"as he drew near (ἤγγισεν)… to the mountain called of Olives (Ἐλαιῶν)"**:
+  - Drawing near (10:9; 18:35).
+  - *The mountain:* Nazareth's hill (4:29), prayer (6:12), the swine (8:32), the going up (9:28).
+  - Olives: oil (7:46; 16:6). *The printed text names the Mount of Olives at 21:37 and 22:39, as the place he goes out to at night and to pray. It never says how he came there.*
+- **"a colt bound (δεδεμένον)… loose (λύσαντες) it… Why are you loosing it? The Lord has need (χρείαν) of it"**:
+  - *Loosing what is bound:* "does not each of you loose (λύει) his ox or donkey…?"; "must she not be loosed (λυθῆναι) from this bond?" (13:15–16).
+  - Need (5:31; 9:11; 15:7).
+- **"on which no one of men has ever sat"**: *the tomb "where no one had yet been laid" (23:53).* What is new, at the entry and at the burial.
+- **"throwing their garments on the colt, they set (ἐπεβίβασαν) Jesus on it"**:
+  - *ἐπιβιβάζω: the Samaritan "set (ἐπιβιβάσας) him on his own animal" (10:34, test). The only other place.*
+  - The one going down from Jerusalem was set on an animal by the Samaritan. Here Jesus is set on a colt going to Jerusalem.
+  - Garments: truth that clothes (8:35; 9:29).
+- **"as he went (πορευομένου), they spread their garments in the way (ἐν τῇ ὁδῷ)"**: the road, laid with garments.
+- **"at the descent (καταβάσει) of the Mount of Olives"**: *going down: the descent from the mountain (6:17; 9:37).* The arrival at Jerusalem is a descent.
+- **"the whole multitude of disciples began, rejoicing, to praise (αἰνεῖν) God with a loud voice, for all the powers (δυνάμεων) they had seen"**:
+  - *"All the people gave praise (αἶνον) to God" (18:43).* The loud voice: the Samaritan (17:15).
+  - Powers (4:36; 6:19; 8:46; 10:13, test).
+- **"Blessed is the coming king (ὁ ἐρχόμενος βασιλεύς) in the name of the Lord"**:
+  - *"Are you the coming one (ὁ ἐρχόμενος)?" (7:19–20).* "Until you say, Blessed is the coming one in the name of the Lord" (13:35, test).
+  - *The king: the nobleman who went "to receive a kingdom" (19:12, 19:15).*
+- **"in heaven peace, and glory in the highest (ὑψίστοις)"**:
+  - *Peace:* "do you think I came to give peace on the earth?" (12:51). Here, peace in heaven.
+  - *Glory (9:26, 9:31–32). The highest: "sons of the Most High (Ὑψίστου)" (6:35); "Son of God the Most High" (8:28).*
+  - *At the descent of the mountain, glory in the highest.*
+- **"Teacher, rebuke (ἐπιτίμησον) your disciples… if these are silent (σιωπήσουσιν), the stones (λίθοι) will cry out (κράξουσιν)"**:
+  - *The blind man: those in front rebuked him to be silent (σιγήσῃ), and he cried out (ἔκραζεν) all the more (18:39).*
+  - The stones: a stone's throw, where he prays (22:41); *the stone rolled away (24:2).*
+- **"as he drew near, seeing the city, he wept (ἔκλαυσεν) over it"**: weeping (7:13, 7:38; 8:52; 13:28).
+- **"if you had known… the things for peace; but now they are hidden (ἐκρύβη) from your eyes"**:
+  - *The law of veiling:* "hidden" (8:17; 10:21; 12:2; 18:34, test). *The eyes held (24:16), and opened (24:31).*
+- **"your enemies (ἐχθροί) will… surround you and hold you in (συνέξουσιν) on every side"**:
+  - Enemies (19:27, test; 20:43).
+  - *Holding in (συνέχω):* "how I am held fast (συνέχομαι) until it is accomplished" (12:50); "the men holding (συνέχοντες) him" (22:63).
+  - *The printed 21:20: "when you see Jerusalem surrounded (κυκλουμένην)… its desolation has come near".*
+- **"they will not leave stone upon stone, because you did not know the time (καιρόν) of your visitation"**:
+  - *"This time (καιρόν) how do you not know how to test?" (12:56).*
+  - Visitation: "God has visited (ἐπεσκέψατο) his people" (7:16).
+- **"entering the temple, he began to cast out (ἐκβάλλειν) those selling (πωλοῦντας)"**:
+  - *Casting out: the daimons (4:35; 11:14–20); the beam from one's own eye (6:42).*
+  - Selling: "they bought, they sold" (17:28).
+  - The temple: "two men went up into the temple to pray" (18:10).
+- **"It is written: My house will be a house of prayer (οἶκος προσευχῆς); but you have made it a den of robbers (λῃστῶν)"**:
+  - *Prayer:* going up to pray (9:28; 18:10).
+  - *Robbers: the man going down from Jerusalem "fell among robbers (λῃσταῖς)" (10:30, test).*
+  - The house: "your house is left to you" (13:35, test); "today salvation has come to this house" (19:9).
+
+**Verdict: continues, and the printed text needs it.**
+- *By its words.* Every phrase is in a thread of the printed text. It joins the printed 21:20 (Jerusalem surrounded) and 21:37 / 22:39 (the Mount of Olives).
+  - *The printed 20:2 asks "by what authority do you do these things (ταῦτα ποιεῖς)?" Its "these things" has its first object in 19:45–46.*
+- *By its mechanics — and this is the reason that matters.*
+  - The road set at 9:51 ("he set his face to go to Jerusalem") is named again at 17:11 ("as he was going to Jerusalem") and 19:11 ("because he was near Jerusalem"). In the printed text it never arrives.
+  - From "near Jerusalem" (19:11) the printed text goes to "in the temple" (20:1). There is:
+    - no going up (19:28);
+    - no drawing near to the mountain;
+    - no descent of the mountain with "peace in heaven, and glory in the highest";
+    - no weeping over the city whose peace is hidden from its eyes;
+    - no entering the house of prayer.
+  - *The inner story of the whole text is a road to Jerusalem, and the printed text leaves out the arrival.*
+- A−: restoring it is against Marcion's text. The user has already approved that, and it must say so. *Recorded for task 14.*
+
+### Test: 19:47–48 (U?)
+
+*Καὶ ἦν διδάσκων τὸ καθ’ ἡμέραν ἐν τῷ ἱερῷ· οἱ δὲ ἀρχιερεῖς καὶ οἱ γραμματεῖς ἐζήτουν αὐτὸν ἀπολέσαι καὶ οἱ πρῶτοι τοῦ λαοῦ, καὶ οὐχ εὕρισκον τὸ τί ποιήσωσιν, ὁ λαὸς γὰρ ἅπας ἐξεκρέματο αὐτοῦ ἀκούων.*
+
+- **"teaching daily (τὸ καθ’ ἡμέραν) in the temple"**: daily (9:23; 11:3; 16:19). *Forward: "by day he was teaching in the temple" (21:37).*
+- **"the chief priests and the scribes sought to destroy (ἀπολέσαι) him, and the first of the people"**:
+  - *"Rejected by the elders and chief priests and scribes" (9:22).* *Forward: "the chief priests and scribes sought how to kill him" (22:2).*
+  - The first (πρῶτοι): the own's first.
+- **"all the people hung on him, listening"**: hearing (9:35).
+
+**Verdict: continues.** It does not close a gap: 20:1 opens "on one of the days, as he was teaching the people in the temple".
+
+### What came out of the reading of chapter 17
+
+**Up to see, down to receive (19:1–10).**
+- A rich chief tax collector seeks to see who Jesus is, as Herod did (9:9). He cannot, because of the crowd, as the friends of the paralysed man could not (5:19). He is small in stature: no one adds to his own height (12:25).
+- He runs ahead and goes up a tree to see.
+- Jesus, coming to the place, looks up — the verb of the blind man's healing — and says: "Hurry, come down; today I must remain in your house."
+- He hurries, comes down, and receives him rejoicing.
+- He stands, not to himself as the Pharisee did, but to the Lord. He gives half of what he has to the poor, and gives back fourfold.
+- "Today salvation has come to this house… The Son of Man came to seek and to save the lost."
+- *Here the printed text acts out 18:14 in an event:*
+  - the small one goes up, as the two went up to pray;
+  - he is called down, as the tax collector went down to his house;
+  - salvation comes to his house, as the tax collector went down justified.
+- *Going up is to see. Coming down is to receive. What is given is salvation, in the house, "today". The "must" of the passion is here the "must" of remaining with the sinner. It returns at Emmaus: "remain with us… and he went in to remain with them" (24:29).*
+
+**The kingdom received by going away (19:11–26).**
+- They think the kingdom will "shine up" at once.
+- The parable: a well-born man goes into a far country — the words of the younger son's going (15:13, test) — to receive a kingdom, and to return.
+- His servants work with what he gave: "your mina has gained". They are given authority over cities.
+- The one who laid it away in fear is judged out of his own mouth. What he has is taken.
+- The citizens who will not have him reign are introduced (19:14). In the printed text they are not brought back.
+
+**The arrival is missing.**
+- The printed text names the road's goal at 9:51, 17:11 and 19:11, and does not arrive.
+- The unprinted 19:28–46 is the arrival:
+  - going up;
+  - the bound colt loosed because the Lord has need of it;
+  - garments on the way;
+  - the descent of the Mount of Olives with "peace in heaven, and glory in the highest";
+  - the stones that would cry;
+  - the weeping over the city whose peace is hidden from its eyes;
+  - the house of prayer cleansed of those who sell.
+- *By the mechanics of the whole text it is needed.* It is the third passage the reading finds needed, and the one the user has already approved restoring against Marcion's text.
+- 19:27 closes the strand of the citizens who refuse his reign. Read inwardly, it is the refusal itself put to death before him (10:19; 20:43). The printed parable leans on it.
+
+### Threads, carried forward and added
+
+- the chief tax collector;
+- seeking to see who he is (9:9 / 19:3 → 23:8);
+- because of the crowd (5:19 / 19:3);
+- stature (12:25 / 19:3);
+- running (15:20, test);
+- going up to see;
+- looking up (18:41–43 / 19:5);
+- coming down (18:14 / 19:5–6);
+- "today";
+- "I must remain" (→ 24:29);
+- receiving (10:38, test / 19:6);
+- grumbling (5:30; 15:2; 19:7);
+- lodging (9:12 / 19:7 → 22:11);
+- standing to the Lord, not to oneself;
+- half given, fourfold given back;
+- salvation to the house;
+- son and daughter of Abraham;
+- seeking and saving the lost;
+- the kingdom shining up;
+- the far country (15:13, test / 19:12);
+- receiving a kingdom (λαμβάνω, 9:51);
+- returning (10:35, test / 19:15);
+- the citizens who hate;
+- "we do not want";
+- "your mina";
+- good servant;
+- faithful in the least;
+- authority over cities;
+- laid away (12:19 / 19:20);
+- judged out of one's own mouth;
+- the law of having (8:18 / 19:26);
+- (test) the enemies, their end (→ 20:43);
+- (test) going up to Jerusalem;
+- (test) the arrival:
+  - the Mount of Olives (→ 21:37; 22:39);
+  - loosing;
+  - the colt no one had sat on (→ 23:53);
+  - set on an animal (10:34, test);
+  - the descent;
+  - praise;
+  - the coming king;
+  - peace in heaven, glory in the highest;
+  - silence and the stones (→ 24:2);
+  - weeping over the city;
+  - hidden from the eyes (→ 24:16, 24:31);
+  - surrounded and held in (→ 21:20; 22:63);
+  - the time of visitation;
+  - the house of prayer and the robbers.
