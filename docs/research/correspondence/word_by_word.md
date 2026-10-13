@@ -82,6 +82,47 @@
 - **"as was his custom… on the sabbath day, into the assembly"**: the same holy state and the same gathering as at Capernaum. The setting is the same, so the difference must lie in the receivers.
 - **"he stood up to read"** (ἀνέστη ἀναγνῶναι): he rises in order to read the Word. *Rising (ἀνίστημι) is used here of rising to read the Word; the same verb comes back in 4:29.*
 
+### Test: 4:17–22 (U−)
+
+*Added when the reading reached 24:47. Chapter 1 noted the gap after 4:16 without reading the passage word by word.*
+
+*καὶ ἐπεδόθη αὐτῷ βιβλίον τοῦ προφήτου Ἠσαΐου καὶ ἀναπτύξας τὸ βιβλίον εὗρεν τὸν τόπον οὗ ἦν γεγραμμένον· Πνεῦμα κυρίου ἐπ’ ἐμέ, οὗ εἵνεκεν ἔχρισέν με εὐαγγελίσασθαι πτωχοῖς, ἀπέσταλκέν με κηρύξαι αἰχμαλώτοις ἄφεσιν καὶ τυφλοῖς ἀνάβλεψιν, ἀποστεῖλαι τεθραυσμένους ἐν ἀφέσει, κηρύξαι ἐνιαυτὸν κυρίου δεκτόν. καὶ πτύξας τὸ βιβλίον ἀποδοὺς τῷ ὑπηρέτῃ ἐκάθισεν· καὶ πάντων οἱ ὀφθαλμοὶ ἐν τῇ συναγωγῇ ἦσαν ἀτενίζοντες αὐτῷ. ἤρξατο δὲ λέγειν πρὸς αὐτοὺς ὅτι Σήμερον πεπλήρωται ἡ γραφὴ αὕτη ἐν τοῖς ὠσὶν ὑμῶν. καὶ πάντες ἐμαρτύρουν αὐτῷ καὶ ἐθαύμαζον ἐπὶ τοῖς λόγοις τῆς χάριτος τοῖς ἐκπορευομένοις ἐκ τοῦ στόματος αὐτοῦ, καὶ ἔλεγον· Οὐχὶ υἱός ἐστιν Ἰωσὴφ οὗτος;*
+
+- **"the book was given (ἐπεδόθη) to him"**: *forward: "breaking, he gave (ἐπεδίδου) to them" (24:30); "they gave (ἐπέδωκαν) him a piece of fish" (24:42).*
+- **"unrolling (ἀναπτύξας) the book"**:
+  - ἀνα-πτύσσω, "unfold, open up": the Word opened.
+  - *Forward: "he opened (διήνοιξεν) their mind to understand the scriptures" (24:45, unprinted); "their eyes were opened (διηνοίχθησαν)" (24:31).*
+- **"he found the place where it was written"**: what is written. *Forward:* 18:31 (test); 24:44, 24:46 (unprinted).
+- **"the Spirit of the Lord is upon me, because he anointed (ἔχρισεν) me"**: *the Anointed One (ὁ χριστός): 4:41; 9:20; 22:67; 24:26.* The anointing, said by him of himself.
+- **"to bring good news to the poor"**: *"the poor have good news" (7:22); "blessed are the poor" (6:20); the poor called in (14:13, 14:21).*
+- **"he has sent (ἀπέσταλκεν) me"**: *"for this I was sent (ἀπεστάλην)" (4:43).*
+- **"to proclaim (κηρύξαι) release (ἄφεσιν) to the captives (αἰχμαλώτοις)"**:
+  - *The last printed verse: "that repentance for release (ἄφεσιν) of sins be proclaimed (κηρυχθῆναι)… to all the nations" (24:47).* The proclamation of release is the text's first word and its last.
+  - Captives: "they will be led captive (αἰχμαλωτισθήσονται) into all the nations" (21:24).
+- **"and recovery of sight (ἀνάβλεψιν) to the blind"**: *looking up: "the blind look up" (7:22); the blind man "looked up" (18:41–43); "looking up, Jesus saw" Zacchaeus (19:5).*
+- **"to send away the broken in release (ἐν ἀφέσει)"**: release, twice.
+- **"to proclaim the acceptable (δεκτόν) year of the Lord"**: *"no prophet is accepted (δεκτός) in his fatherland" (the printed 4:24). The printed verse answers this word.*
+- **"rolling up the book, he gave it back (ἀποδούς)"**: giving back (19:8; 20:25).
+- **"the eyes of all were fixed on him"**: the eyes (10:23; 24:16, 24:31).
+- **"Today (Σήμερον) this scripture (γραφή) has been fulfilled (πεπλήρωται) in your ears"**:
+  - *Today: "today salvation has come to this house" (19:9).*
+  - *The scripture fulfilled: "everything written… must be fulfilled (πληρωθῆναι)" (24:44, unprinted); "the scriptures" opened (24:27, 24:32, 24:45, all unprinted).*
+  - Ears: hearing (8:8).
+- **"words of grace (χάριτος) coming out (ἐκπορευομένοις) of his mouth"**: grace (6:32–35; 7:42). *The mouth: "we have heard it from his mouth" (22:71).*
+- **"Is not this Joseph's son?"**: *origin: "how is he his son?" (20:41–44).*
+
+**Verdict: continues, and the printed text needs 4:17–21.**
+- *By its words.*
+  - The printed 4:16 ends "he stood up to read (ἀνέστη ἀναγνῶναι)", and nothing is read.
+  - The printed 4:23 opens "surely you will say this parable to me", in answer to something he said.
+  - The printed 4:24's "accepted" (δεκτός) answers 4:19's "acceptable year" (δεκτόν).
+- *By its mechanics.*
+  - The first rising in the text (ἀνίστημι) is rising to read the Word. The reading — the book unrolled, the scripture declared fulfilled "today" — is the act the whole text closes on: "he opened their mind to understand the scriptures" (24:45) and "that release be proclaimed" (24:47).
+  - The printed text keeps the end of that ring (24:47, "proclaim release") and drops its beginning (4:18, "proclaim release"). It also drops the opening of the scripture at both ends (4:17; 24:45).
+  - *It is the place where the text shows the Divine reading the Word and saying it is fulfilled: the act the method itself is.*
+- 4:22 (U−) continues, and is not needed: 4:23's "in your fatherland" does not depend on it.
+- U−: restoring 4:17–21 is against the class, not against an attested absence. *Recorded for task 14.*
+
 ### 4:23
 
 *Πάντως ἐρεῖτέ μοι τὴν παραβολὴν ταύτην· Ἰατρέ, θεράπευσον σεαυτόν· ὅσα ἠκούσαμεν γενόμενα εἰς τὴν Καφαρναοὺμ ποίησον καὶ ὧδε ἐν τῇ πατρίδι σου.*
@@ -95,6 +136,15 @@
 *οὐδεὶς προφήτης δεκτός ἐστιν ἐν τῇ πατρίδι αὐτοῦ.*
 
 - **"accepted"** (δεκτός): received. What has always been one's own cannot receive the one who comes out of it. It thinks it has him already.
+
+### Test: 4:25–26 (U−)
+
+*ἐπ’ ἀληθείας δὲ λέγω ὑμῖν, πολλαὶ χῆραι ἦσαν ἐν ταῖς ἡμέραις Ἠλίου ἐν τῷ Ἰσραήλ, ὅτε ἐκλείσθη ὁ οὐρανὸς ἐπὶ ἔτη τρία καὶ μῆνας ἕξ, ὡς ἐγένετο λιμὸς μέγας ἐπὶ πᾶσαν τὴν γῆν, καὶ πρὸς οὐδεμίαν αὐτῶν ἐπέμφθη Ἠλίας εἰ μὴ εἰς Σάρεπτα τῆς Σιδωνίας πρὸς γυναῖκα χήραν.*
+
+- Widows (7:12; 18:3). Heaven shut. Famine (15:14, test; 21:11). Elijah sent to a foreign widow.
+- *The pair verse, 4:27 (Elisha and Naaman), is printed at 17:12, where both witnesses place it.*
+
+**Verdict: continues.** 4:24 → 4:28 runs, so it does not close a gap. *(Added when the reading reached 24:47.)*
 
 ### 4:28 (grey)
 
@@ -6723,3 +6773,490 @@ The earlier verdicts were drawn from the letter.
 - the women from Galilee (8:2–3);
 - ointment (7:37–46 / 23:56);
 - the sabbath rest.
+
+---
+
+## Chapter 22
+
+*24:1–47 (the printed text ends at 24:47, the last attested verse). Grey: 24:2, 24:8, 24:10, 24:14, 24:17, 24:20, 24:22–23, 24:28–29, 24:36, 24:40, 24:42–43. Not printed, tested at their places: 24:12 (U−); 24:24 (U−); 24:27 (U−); 24:32 (U−); 24:33–35 (U?); 24:44–46 (U−); 24:48–53 (U?). Adopted Marcionite wordings: 24:6 "remember all that he told you", and "he has been raised" without "he is not here, but"; 24:21 "we thought"; 24:25 "all that he spoke to you" for "all that the prophets have spoken"; 24:39 without "handle me and see" and without "flesh and".*
+
+### 24:1–3 (24:2 grey)
+
+*τῇ δὲ μιᾷ τῶν σαββάτων ὄρθρου βαθέως ἐπὶ τὸ μνῆμα ἦλθον φέρουσαι ἃ ἡτοίμασαν ἀρώματα. εὗρον δὲ τὸν λίθον ἀποκεκυλισμένον ἀπὸ τοῦ μνημείου, εἰσελθοῦσαι δὲ οὐχ εὗρον τὸ σῶμα τοῦ κυρίου Ἰησοῦ.*
+
+- **"on the first of the sabbath"**: the first day after the rest.
+- **"at deep (βαθέως) dawn (ὄρθρου)"**:
+  - *Dawn: "all the people came at dawn (ὤρθριζεν) to him in the temple to hear him" (21:38).*
+  - *Deep (βάθος):*
+    - "put out into the deep (εἰς τὸ βάθος) and let down your nets" (5:4), the first call;
+    - "he dug and went deep (ἐβάθυνεν) and laid the foundation on the rock" (6:48).
+  - *The only places. The deep of the first call, the deep of the foundation on the rock, and the deep of the dawn at the tomb hewn in rock (23:53).*
+- **"carrying the spices they had prepared"**: preparing (23:56).
+- **"they found the stone rolled away"**:
+  - *Stones:* "the stones will cry out" (19:40, test); the rejected stone made head (20:17, test); stone upon stone (21:6, test); a stone's throw (22:41).
+  - The stone that covered the tomb is moved.
+- **"entering (εἰσελθοῦσαι), they did not find the body (σῶμα) of the Lord Jesus"**:
+  - *The body:*
+    - "this is my body, given for you" (22:19);
+    - Joseph asked for it (23:52);
+    - the women saw how it was laid (23:55).
+  - *"Where, Lord? — Where the body is, there the eagles will be gathered" (17:37).* The body is not where it was laid.
+
+### 24:4–5
+
+*καὶ ἐγένετο ἐν τῷ ἀπορεῖσθαι αὐτὰς περὶ τούτου καὶ ἰδοὺ ἄνδρες δύο ἐπέστησαν αὐταῖς ἐν ἐσθῆτι ἀστραπτούσῃ. ἐμφόβων δὲ γενομένων αὐτῶν καὶ κλινουσῶν τὰ πρόσωπα εἰς τὴν γῆν εἶπαν πρὸς αὐτάς· Τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν;*
+
+- **"while they were perplexed (ἀπορεῖσθαι)"**: *no way through:* Herod "was perplexed" (9:7); "distress of nations in perplexity" (21:25).
+- **"behold, two men (ἄνδρες δύο) stood by them in flashing (ἀστραπτούσῃ) clothing (ἐσθῆτι)"**:
+  - *On the mountain: "two men (ἄνδρες δύο) were talking with him" (9:30); "his clothing, white, flashing (ἐξαστράπτων)" (9:29).*
+  - *Herod's "bright clothing (ἐσθῆτα λαμπράν)", put on him in mockery (23:11).*
+  - The two men of the mountain, in the flashing of the mountain, at the tomb.
+- **"bowing (κλινουσῶν) their faces (πρόσωπα) to the earth (εἰς τὴν γῆν)"**:
+  - *The κλίνω family:* the bed (5:18); the day declining and the crowd reclining (9:12–15); "nowhere to lay (κλίνῃ) his head" (9:58).
+  - *The face:* the leper and the Samaritan fell on their faces (5:12; 17:16); his face changed and set (9:29, 9:51).
+  - The posture of the one who does not lift his eyes (18:13).
+- **"why do you seek (ζητεῖτε) the Living One (τὸν ζῶντα) among the dead (νεκρῶν)?"**:
+  - *Seeking:* "seek, and you will find" (11:9); "the Son of Man came to seek" (19:10).
+  - *The Living One:* "do this and you will live" (10:28); "whoever loses his soul will make it live" (17:33); "he was dead and lives again" (15:24, test); "God of the living" (20:38, test).
+  - *The dead: "let the dead bury their own dead" (9:60).* The Living One is not sought among them.
+
+### 24:6–8 (24:8 grey)
+
+*ἠγέρθη. μνήσθητε ὅσα ἐλάλησεν ὑμῖν ἔτι ὢν ἐν τῇ Γαλιλαίᾳ, λέγων τὸν υἱὸν τοῦ ἀνθρώπου ὅτι δεῖ παραδοθῆναι εἰς χεῖρας ἀνθρώπων ἁμαρτωλῶν καὶ σταυρωθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστῆναι. καὶ ἐμνήσθησαν τῶν ῥημάτων αὐτοῦ,*
+
+- **"He has been raised (ἠγέρθη)"**:
+  - *The same form twice before:*
+    - the people at Nain: "a great prophet has been raised (ἠγέρθη) among us" (7:16);
+    - Herod's rumour: "John has been raised (ἠγέρθη) from the dead" (9:7).
+  - *What the people said of a prophet and the rumour said of John, the angels say of him.*
+  - The adopted wording has no "he is not here, but". NA27's "he is not here (οὐκ ἔστιν ὧδε)" would join "they will not say, Look, here (ὧδε)" (17:21, 17:23). **Neutral.**
+- **"remember (μνήσθητε) all that he told you while he was still in Galilee"**:
+  - *Remembering:*
+    - "Child, remember" (16:25);
+    - "do this in remembrance of me" (22:19);
+    - Peter remembered the word of the Lord (22:61, test);
+    - "Jesus, remember me" (23:42, test).
+  - Galilee: "beginning from Galilee to here" (23:5).
+  - "All that" (ὅσα) is the adopted Marcionite reading. **Neutral.**
+- **"that the Son of Man must (δεῖ) be handed over into the hands of sinful men, and be crucified, and on the third day rise (ἀναστῆναι)"**:
+  - *9:22 (must, suffer, be killed, after three days be raised) and 9:44 (handed over into the hands of men), both said in Galilee.*
+  - Rising (ἀνίστημι).
+- **"they remembered his sayings (ῥημάτων)"**:
+  - *"They did not know this saying (ῥῆμα), and it was veiled from them… and they were afraid to ask about this saying" (9:45).*
+  - *The veil of 9:45 is lifted by remembering.*
+
+### 24:9–11 (24:10 grey)
+
+*καὶ ὑποστρέψασαι ἀπὸ τοῦ μνημείου ἀπήγγειλαν ταῦτα πάντα τοῖς ἕνδεκα καὶ πᾶσιν τοῖς λοιποῖς. ἦσαν δὲ ἡ Μαγδαληνὴ Μαρία καὶ Ἰωάννα καὶ Μαρία ἡ Ἰακώβου… καὶ ἐφάνησαν ἐνώπιον αὐτῶν ὡσεὶ λῆρος τὰ ῥήματα ταῦτα, καὶ ἠπίστουν αὐταῖς.*
+
+- **"returning (ὑποστρέψασαι) from the tomb"**: returning (17:15; 23:56).
+- **"to the eleven"**: the twelve, less one.
+- **"Mary Magdalene and Joanna"**:
+  - *8:2–3: Mary "from whom seven daimons had gone out"; Joanna, "wife of Chuza, Herod's steward".*
+  - The affections freed at the first are first at the tomb.
+- **"their words seemed (ἐφάνησαν) to them like nonsense, and they disbelieved (ἠπίστουν)"**:
+  - *"Neither will they be persuaded if someone rises from the dead" (16:31).* The report of the rising does not persuade.
+  - Unbelief (9:41; 12:46).
+
+### Test: 24:12 (U−)
+
+*Ὁ δὲ Πέτρος ἀναστὰς ἔδραμεν ἐπὶ τὸ μνημεῖον· καὶ παρακύψας βλέπει τὰ ὀθόνια μόνα· καὶ ἀπῆλθεν πρὸς αὑτὸν θαυμάζων τὸ γεγονός.*
+
+- **"Peter, rising (ἀναστάς), ran to the tomb"**:
+  - *Faith rises, after its denial (22:54–62, test). "When you have turned back" (22:32).*
+  - Running: the father ran (15:20, test); Zacchaeus ran ahead (19:4).
+- **"stooping (παρακύψας), he sees the linen cloths alone"**: *κύπτω: the bent woman, "bent together" (συγκύπτουσα) (13:11); "straighten up (ἀνακύψατε)" (21:28).*
+- **"he went away to himself (πρὸς αὑτόν), marvelling"**: *"to himself": the Pharisee prayed "to himself" (18:11).*
+
+**Verdict: continues.** It shows faith rising after the denial. 24:11 → 24:13 runs, so it does not close a gap. *It is lacking also in D and the Old Latin (a Western non-interpolation).*
+
+### 24:13–16 (24:14 grey)
+
+*Καὶ ἰδοὺ δύο ἐξ αὐτῶν ἐν αὐτῇ τῇ ἡμέρᾳ ἦσαν πορευόμενοι εἰς κώμην ἀπέχουσαν σταδίους ἑξήκοντα ἀπὸ Ἰερουσαλήμ, ᾗ ὄνομα Ἐμμαοῦς, καὶ αὐτοὶ ὡμίλουν πρὸς ἀλλήλους περὶ πάντων τῶν συμβεβηκότων τούτων. καὶ ἐγένετο ἐν τῷ ὁμιλεῖν αὐτοὺς καὶ συζητεῖν καὶ αὐτὸς Ἰησοῦς ἐγγίσας συνεπορεύετο αὐτοῖς, οἱ δὲ ὀφθαλμοὶ αὐτῶν ἐκρατοῦντο τοῦ μὴ ἐπιγνῶναι αὐτόν.*
+
+- **"two of them that same day were going (πορευόμενοι)"**:
+  - *The road (πορεύομαι), the text's verb since 4:30.* Two: two by two (10:1).
+- **"to a village sixty stadia distant (ἀπέχουσαν) from Jerusalem"**:
+  - *Away from Jerusalem.* The road that went to Jerusalem (9:51 → 19:11) is now walked away from it.
+  - *The man "going down from Jerusalem to Jericho" (10:30, test).*
+  - Distant: "when he was not far distant (ἀπέχοντος)" (7:6).
+- **"while they talked and discussed (συζητεῖν)"**: *"they began to discuss (συζητεῖν) among themselves which of them" (22:23).*
+- **"Jesus himself, drawing near (ἐγγίσας)"**:
+  - *Drawing near, the last time:*
+    - the kingdom "has drawn near" (10:9);
+    - the sinners "drew near" to hear (15:1);
+    - the blind man drew near (18:40);
+    - Judas "drew near" to kiss (22:47);
+    - redemption "draws near" (21:28).
+  - *Here he himself draws near.*
+- **"went along with them (συνεπορεύετο)"**: *the road verb, with "with".* He walks the road with them.
+- **"but their eyes were held (ἐκρατοῦντο) so that they did not recognize him"**:
+  - *Held (κρατέω):* he held the girl's hand (8:54); "yourselves held (κρατουμένους) outside" (13:28, adopted).
+  - *The veil:* "it was veiled from them, so that they should not perceive it" (9:45); "hidden from your eyes" (19:42, test).
+
+### 24:17–21 (24:17, 24:20 grey)
+
+*Τίνες οἱ λόγοι οὗτοι οὓς ἀντιβάλλετε πρὸς ἀλλήλους περιπατοῦντες; καὶ ἐστάθησαν σκυθρωποί. ἀποκριθεὶς δὲ εἷς ὀνόματι Κλεοπᾶς εἶπεν πρὸς αὐτόν· Σὺ μόνος παροικεῖς Ἰερουσαλὴμ καὶ οὐκ ἔγνως τὰ γενόμενα ἐν αὐτῇ ἐν ταῖς ἡμέραις ταύταις; … Τὰ περὶ Ἰησοῦ τοῦ Ναζαρηνοῦ, ὃς ἐγένετο ἀνὴρ προφήτης δυνατὸς ἐν ἔργῳ καὶ λόγῳ ἐναντίον τοῦ θεοῦ καὶ παντὸς τοῦ λαοῦ, ὅπως τε παρέδωκαν αὐτὸν οἱ ἀρχιερεῖς καὶ οἱ ἄρχοντες ἡμῶν εἰς κρίμα θανάτου καὶ ἐσταύρωσαν αὐτόν. ἡμεῖς δὲ ἐνομίζομεν ὅτι αὐτός ἐστιν ὁ μέλλων λυτροῦσθαι τὸν Ἰσραήλ· ἀλλά γε καὶ σὺν πᾶσιν τούτοις τρίτην ταύτην ἡμέραν ἄγει ἀφ’ οὗ ταῦτα ἐγένετο.*
+
+- **"as you walk (περιπατοῦντες)… they stood still, gloomy"**: walking: "rise and walk (περιπάτει)" (5:23).
+- **"are you the only one sojourning in Jerusalem who does not know (ἔγνως)?"**: *"if you had known… you did not know (ἔγνως) the time of your visitation" (19:42–44, test).* The one who knows is called the one who does not.
+- **"Jesus the Nazarene, a man, a prophet (προφήτης)"**:
+  - *Nazareth (4:16): "no prophet is accepted in his fatherland" (4:24).*
+  - "A great prophet has been raised" (7:16). "Prophesy!" (22:64).
+- **"mighty (δυνατός) in deed and word"**: *"hears my words and does them" (6:47).*
+- **"our chief priests and rulers handed him over"**: the heads of the church (9:22; 20:1; 22:66).
+- **"we thought (ἐνομίζομεν) that he was the one who would redeem (λυτροῦσθαι) Israel"**:
+  - *Redemption, loosing (λύω): "your redemption (ἀπολύτρωσις) draws near" (21:28); the bent woman loosed (13:12–16).*
+  - "We thought" is the adopted reading; NA27 "we hoped" would join Herod's "hoped" (23:8). **Neutral.**
+- **"this is the third day (τρίτην ταύτην ἡμέραν)"**: *"on the third day rise" (24:7); "after three days" (9:22).* They name the day without knowing what it is.
+
+### 24:22–23 (grey)
+
+*ἀλλὰ καὶ γυναῖκές τινες ἐξ ἡμῶν ἐξέστησαν ἡμᾶς, γενόμεναι ὀρθριναὶ ἐπὶ τὸ μνημεῖον καὶ μὴ εὑροῦσαι τὸ σῶμα αὐτοῦ ἦλθον λέγουσαι καὶ ὀπτασίαν ἀγγέλων ἑωρακέναι, οἳ λέγουσιν αὐτὸν ζῆν.*
+
+- **"at the tomb early (ὀρθριναί)"**: dawn (21:38; 24:1).
+- **"not finding his body"**: 24:3.
+- **"a vision of angels, who say that he lives (ζῆν)"**: *"equal to angels" (20:36); living (24:5).*
+
+### Test: 24:24 (U−)
+
+*καὶ ἀπῆλθόν τινες τῶν σὺν ἡμῖν ἐπὶ τὸ μνημεῖον, καὶ εὗρον οὕτως καθὼς καὶ αἱ γυναῖκες εἶπον, αὐτὸν δὲ οὐκ εἶδον.*
+
+**Verdict: continues.** It reports the visit of 24:12. 24:23 → 24:25 runs, so it does not close a gap.
+
+### 24:25–26
+
+*καὶ αὐτὸς εἶπεν πρὸς αὐτούς· Ὦ ἀνόητοι καὶ βραδεῖς τῇ καρδίᾳ τοῦ πιστεύειν ἐπὶ πᾶσιν οἷς ἐλάλησεν πρὸς ὑμᾶς· οὐχὶ ταῦτα ἔδει παθεῖν τὸν χριστὸν καὶ εἰσελθεῖν εἰς τὴν δόξαν αὐτοῦ;*
+
+- **"O mindless (ἀνόητοι)"**: without understanding (νοῦς). *Forward: "he opened their mind (νοῦν) to understand the scriptures" (24:45, unprinted).*
+- **"slow of heart (καρδίᾳ) to believe"**: "lest your hearts be weighed down" (21:34).
+- **"all that he spoke to you"** (adopted Marcionite reading; NA27: "all that the prophets have spoken"):
+  - "He spoke to you" joins 24:6 ("remember all that he spoke to you").
+  - "The prophets" joins 16:29–31 ("they have Moses and the prophets").
+  - *The unprinted 24:44 has both: "my words that I spoke to you… everything written in the law of Moses and the prophets".*
+  - **Neutral** by its words. The mechanic it touches is decided at 24:44–46.
+- **"was it not necessary (ἔδει) that the Anointed One should suffer these things and enter (εἰσελθεῖν) into his glory (δόξαν)?"**:
+  - *Must:* 9:22; 17:25; 24:7.
+  - *Entering:* "strive to enter (εἰσελθεῖν) through the narrow door" (13:24); "whoever does not receive the kingdom as a child will not enter it" (18:17).
+  - *Glory:*
+    - "when he comes in his glory" (9:26);
+    - "they saw his glory" on the mountain (9:32);
+    - "then you will have glory" (14:10, test).
+  - *Here the printed text names the end of the movement: suffering, and entering into his glory.* With 22:69 ("seated at the right hand of the power of God") and 20:42.
+
+### Test: 24:27 (U−)
+
+*καὶ ἀρξάμενος ἀπὸ Μωϋσέως καὶ ἀπὸ πάντων τῶν προφητῶν διερμήνευσεν αὐτοῖς ἐν πάσαις ταῖς γραφαῖς τὰ περὶ ἑαυτοῦ.*
+
+- **"beginning from Moses and from all the prophets, he interpreted to them in all the scriptures the things concerning himself"**: *"they have Moses and the prophets; let them hear them" (16:29–31).*
+
+**Verdict: continues.** It meets the condition of 16:31 at Emmaus. 24:26 → 24:28 runs. Whether something in its place is needed is decided at 24:44–46: if those are printed, this is not needed.
+
+### 24:28–29 (grey)
+
+*Καὶ ἤγγισαν εἰς τὴν κώμην οὗ ἐπορεύοντο, καὶ αὐτὸς προσεποιήσατο πορρώτερον πορεύεσθαι. καὶ παρεβιάσαντο αὐτὸν λέγοντες· Μεῖνον μεθ’ ἡμῶν, ὅτι πρὸς ἑσπέραν ἐστὶν καὶ κέκλικεν ἤδη ἡ ἡμέρα. καὶ εἰσῆλθεν τοῦ μεῖναι σὺν αὐτοῖς.*
+
+- **"they drew near (ἤγγισαν) the village"**: drawing near.
+- **"he made as if to go (πορεύεσθαι) further (πορρώτερον)"**:
+  - *The road's infinitive:*
+    - "the crowds held him back from going (τοῦ μὴ πορεύεσθαι) away from them" (4:42);
+    - "he set his face to go (πορεύεσθαι)" (9:51);
+    - "I must go (πορεύεσθαι)" (13:33, test).
+  - *The road goes on, further.*
+- **"they constrained (παρεβιάσαντο) him"**: *"everyone forces (βιάζεται) his way into the kingdom" (16:16).*
+- **"Remain (μεῖνον) with us"**:
+  - *Remaining:* "today I must remain (μεῖναι) in your house" (19:5); "remain in that house" (9:4; 10:7). Legion "did not remain in a house" (8:27).
+  - *At the beginning the crowds held him back from going (4:42), and he would not stay: "I must proclaim… to the other cities" (4:43). At the end the two constrain him to remain, and he stays.*
+- **"for it is toward evening (ἑσπέραν)"**: *"in the evening watch" (12:38, adopted).*
+- **"and the day has already declined (κέκλικεν)"**: *"the day began to decline (κλίνειν)" (9:12), before the feeding. The κλίνω family.*
+- **"and he went in to remain (μεῖναι) with them"**.
+
+### 24:30–31
+
+*καὶ ἐγένετο ἐν τῷ κατακλιθῆναι αὐτὸν μετ’ αὐτῶν λαβὼν τὸν ἄρτον εὐλόγησεν καὶ κλάσας ἐπεδίδου αὐτοῖς· αὐτῶν δὲ διηνοίχθησαν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν· καὶ αὐτὸς ἄφαντος ἐγένετο ἀπ’ αὐτῶν.*
+
+- **"as he reclined (κατακλιθῆναι) with them"**:
+  - *"The Son of Man has nowhere to lay (κλίνῃ) his head" (9:58). Here he reclines.*
+  - The crowd made to recline (9:14–15); the lord who "will make them recline" (12:37).
+- **"taking the bread, he blessed, and breaking, he gave (ἐπεδίδου) to them"**:
+  - *The third time:* the feeding, at the declining of the day (9:16); the supper (22:19); here.
+  - Giving: the book "was given (ἐπεδόθη)" to him at Nazareth (4:17, test).
+- **"their eyes were opened (διηνοίχθησαν), and they recognized (ἐπέγνωσαν) him"**:
+  - *The veil lifted:*
+    - held (24:16) → opened;
+    - "veiled… so that they should not perceive" (9:45);
+    - "nothing covered that will not be uncovered" (12:2);
+    - the veil of the sanctuary torn (23:45).
+  - *Opening:* "knock, and it will be opened (ἀνοιγήσεται)" (11:9–10); "Lord, open (ἄνοιξον) to us" (13:25), unanswered. Here, opened.
+- **"and he became invisible (ἄφαντος) to them"**:
+  - *Recognized, he is no longer seen.* On the mountain, when the voice had spoken, "Jesus was found alone" (9:36).
+  - What is recognized within no longer needs the outward sight.
+
+### Test: 24:32–35 (24:32 U−; 24:33–35 U?)
+
+*καὶ εἶπαν πρὸς ἀλλήλους· Οὐχὶ ἡ καρδία ἡμῶν καιομένη ἦν ἐν ἡμῖν ὡς ἐλάλει ἡμῖν ἐν τῇ ὁδῷ, ὡς διήνοιγεν ἡμῖν τὰς γραφάς; καὶ ἀναστάντες αὐτῇ τῇ ὥρᾳ ὑπέστρεψαν εἰς Ἰερουσαλήμ, καὶ εὗρον ἠθροισμένους τοὺς ἕνδεκα καὶ τοὺς σὺν αὐτοῖς, λέγοντας ὅτι ὄντως ἠγέρθη ὁ κύριος καὶ ὤφθη Σίμωνι. καὶ αὐτοὶ ἐξηγοῦντο τὰ ἐν τῇ ὁδῷ καὶ ὡς ἐγνώσθη αὐτοῖς ἐν τῇ κλάσει τοῦ ἄρτου.*
+
+- **"was not our heart burning (καιομένη) in us"**:
+  - *Burning: "let your lamps be burning (καιόμενοι)" (12:35).*
+  - *"I came to cast fire on the earth, and how I wish it were already kindled" (12:49).*
+- **"as he spoke to us on the way (ἐν τῇ ὁδῷ), as he opened (διήνοιγεν) to us the scriptures?"**:
+  - *The way:* John prepared it (7:27); "on the way" (9:57); the blind man beside it (18:35).
+  - *Here the way is where the scriptures are opened and the heart burns.*
+- **"and rising (ἀναστάντες) that same hour, they returned (ὑπέστρεψαν) to Jerusalem"**:
+  - *Rising and returning, toward Jerusalem.*
+  - "Rising, I will go to my father" (15:18, test); "rise, go" (17:19).
+  - *The two who had gone away from Jerusalem (24:13) rise and return to it.*
+- **"they found the eleven gathered (ἠθροισμένους)"**.
+- **"The Lord has truly been raised (ἠγέρθη), and has appeared to Simon"**:
+  - *Simon: faith. "When once you have turned back, strengthen your brothers" (22:32).*
+  - *Faith, which denied (22:54–62, test), is the first of the eleven to whom he appears.*
+- **"they told the things on the way, and how he was known to them in the breaking of the bread"**: the way; the breaking (24:30).
+
+**Verdict: 24:32 continues. 24:33–35 continues, and the printed text needs it.**
+- *By its words.*
+  - The printed 24:36 opens "as they were saying these things (ταῦτα δὲ αὐτῶν λαλούντων), he himself stood in their midst". In the printed text, after 24:31 no one says anything. "These things" are the things told in 24:35.
+  - "Their midst" is the eleven and those with them, gathered (24:33).
+  - Without 24:33–35, the ones who are "terrified" and think they see a spirit (24:37) are the two who have just recognized him at the bread (24:31).
+- *By its mechanics.*
+  - The text's road goes to Jerusalem (9:51). After the cross, the printed text sends two away from it (24:13), and does not bring them back.
+  - 24:33 is the turn: "rising, they returned to Jerusalem". The same rising (ἀνίστημι) and returning (ὑποστρέφω) that the reading has followed through the text.
+  - 24:34 is faith's restoration: "he has appeared to Simon", the "turning back" of 22:32.
+- U?: restoring it is not against a witness of absence. *Recorded for task 14.*
+
+### 24:36
+
+*Ταῦτα δὲ αὐτῶν λαλούντων αὐτὸς ἔστη ἐν μέσῳ αὐτῶν καὶ λέγει αὐτοῖς· Εἰρήνη ὑμῖν.*
+
+- **"he himself stood (ἔστη) in their midst (ἐν μέσῳ αὐτῶν)"**:
+  - *The midst, from the first step to the last:*
+    - "passing through their midst (διὰ μέσου αὐτῶν), he went on" (4:30);
+    - the daimon threw the man "into the midst" (4:35);
+    - the paralysed man let down "into the midst" (5:19);
+    - "rise and stand (στῆθι) into the midst… and rising he stood (ἔστη)" (6:8);
+    - thorns "in the midst" (8:7);
+    - lambs "in the midst" of wolves (10:3);
+    - "through the midst" of Samaria and Galilee (17:11);
+    - "I am in your midst as the one who serves" (22:27, test);
+    - Peter sat "in the midst" of the courtyard (22:55, test);
+    - the veil torn "in the midst" (23:45).
+  - *He passed through the midst of those who would cast him down. Now he stands in the midst of his own. The verb is the verb of the man with the dry hand, "and he stood".*
+  - *Standing: "pray… that you may have strength… to stand (σταθῆναι) before the Son of Man" (21:36). Here he stands before them.*
+- **"Peace to you (εἰρήνη ὑμῖν)"**:
+  - *"Whatever house you enter, first say: Peace (εἰρήνη) to this house" (10:5).*
+  - "Go into peace" (7:50; 8:48). "Do you think I came to give peace on the earth? No, but division" (12:51). "Peace in heaven" (19:38, test). "The things for peace — now hidden from your eyes" (19:42, test).
+  - *The first word the seventy were to say at every house is his word at the end, in their midst.*
+
+### 24:37–38
+
+*πτοηθέντες δὲ καὶ ἔμφοβοι γενόμενοι ἐδόκουν πνεῦμα θεωρεῖν. καὶ εἶπεν αὐτοῖς· Τί τεταραγμένοι ἐστέ, καὶ διὰ τί διαλογισμοὶ ἀναβαίνουσιν ἐν τῇ καρδίᾳ ὑμῶν;*
+
+- **"terrified… they thought (ἐδόκουν) they saw a spirit (πνεῦμα)"**:
+  - Seeming: "what he seems to have" (8:18).
+  - *The spirit: "into your hands I set my spirit (πνεῦμα)" (23:46).*
+- **"why do reasonings (διαλογισμοί) go up (ἀναβαίνουσιν) in your heart (καρδίᾳ)?"**:
+  - *Reasonings:* the scribes' (5:22); "a reasoning entered into them, which of them was greater" (9:46); the rich man "reasoned within himself" (12:17).
+  - *Going up (ἀναβαίνω).* In the printed text he went up the mountain to pray (9:28); two men went up to the temple to pray (18:10); Zacchaeus went up the tree to see (19:4).
+  - *The last "going up" in the printed text is of reasonings rising in the heart: the own's doubt rising.* It is answered by hands and feet, and by eating.
+
+### 24:39–40 (24:40 grey)
+
+*ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου ὅτι ἐγώ εἰμι αὐτός· ὅτι πνεῦμα ὀστέα οὐκ ἔχει καθὼς ἐμὲ θεωρεῖτε ἔχοντα. καὶ τοῦτο εἰπὼν ἔδειξεν αὐτοῖς τὰς χεῖρας καὶ τοὺς πόδας.*
+
+- **"see my hands (χεῖράς)"**:
+  - *"Handed over into the hands of men" (9:44; 24:7); "into your hands I set my spirit" (23:46).*
+  - The hand stretched out to the leper (5:13); the hand taken at "rise" (8:54).
+- **"and my feet (πόδας)"**:
+  - *At his feet: the woman (7:38); the healed man (8:35); the Samaritan (17:16).*
+  - "Your enemies a footstool for your feet" (20:43).
+- **"that it is I myself (ἐγώ εἰμι αὐτός)"**:
+  - *"I am": "many will come in my name saying, I am" (21:8); "you say that I am" (22:70).*
+  - *The question "who is this?" (5:21; 7:49; 8:25; 9:9; 9:18–20; 19:3; 22:64) is answered: "it is I myself".*
+  - *The identity is shown in the hands and the feet: in the outermost, the ultimates.* The text began with "he came down" (4:31). It ends with the Divine known in hands and feet.
+- **"a spirit does not have bones, as you see that I have (ἔχοντα)"**:
+  - Having (8:18; 19:26).
+  - The adopted wording (without "handle me and see", without "flesh and") is attested by both witnesses. The words it lacks have no thread in the printed text: "flesh" (σάρξ) does not occur in it. **Neutral.**
+- **"he showed (ἔδειξεν) them his hands and his feet"**: showing (5:14; 17:14; 20:24).
+
+### 24:41–43 (24:42–43 grey)
+
+*ἔτι δὲ ἀπιστούντων αὐτῶν ἀπὸ τῆς χαρᾶς καὶ θαυμαζόντων εἶπεν αὐτοῖς· Ἔχετέ τι βρώσιμον ἐνθάδε; οἱ δὲ ἐπέδωκαν αὐτῷ ἰχθύος ὀπτοῦ μέρος· καὶ λαβὼν ἐνώπιον αὐτῶν ἔφαγεν.*
+
+- **"while they still disbelieved for joy (χαρᾶς)"**: *joy: "joy in heaven" (15:7, 15:10); Zacchaeus received him "rejoicing" (19:6).* Joy too great to believe.
+- **"have you anything to eat here?"**: eating (5:30; 9:13; 14:15).
+- **"they gave (ἐπέδωκαν) him a part (μέρος) of a broiled fish (ἰχθύος)"**:
+  - *Fish:*
+    - the catch that began the call (5:6, 5:9);
+    - the two fish of the feeding (9:13, 9:16);
+    - *"which of you, if his son asks for a fish (ἰχθύν), will give (ἐπιδώσει) him a snake?" (11:11).*
+  - *At the end, they give him a fish.* He gave them bread (24:30, ἐπεδίδου); they give him fish (ἐπέδωκαν).
+  - *The part: "the good part, which will not be taken away" (10:42, test).*
+- **"and taking it, he ate before them"**:
+  - *"I will not drink from now on… until the kingdom of God comes" (22:18).* He eats. "The kingdom of God is within you" (17:21).
+  - *He receives what they give.*
+
+### Test: 24:44–46 (U−)
+
+*Εἶπεν δὲ πρὸς αὐτούς· Οὗτοι οἱ λόγοι μου οὓς ἐλάλησα πρὸς ὑμᾶς ἔτι ὢν σὺν ὑμῖν, ὅτι δεῖ πληρωθῆναι πάντα τὰ γεγραμμένα ἐν τῷ νόμῳ Μωϋσέως καὶ προφήταις καὶ ψαλμοῖς περὶ ἐμοῦ. τότε διήνοιξεν αὐτῶν τὸν νοῦν τοῦ συνιέναι τὰς γραφάς, καὶ εἶπεν αὐτοῖς ὅτι οὕτως γέγραπται παθεῖν τὸν χριστὸν καὶ ἀναστῆναι ἐκ νεκρῶν τῇ τρίτῃ ἡμέρᾳ,*
+
+- **"these are my words (οἱ λόγοι μου) which I spoke to you while still with you"**:
+  - *"My words will not pass away" (21:33); "all that he spoke to you" (24:25, adopted); "remember all that he spoke to you" (24:6).*
+- **"everything written in the law of Moses and the prophets and the psalms about me must (δεῖ) be fulfilled (πληρωθῆναι)"**:
+  - *Moses and the prophets: "they have Moses and the prophets; let them hear them" (16:29–31).*
+  - *The psalms: "David himself says in the book of psalms (ψαλμῶν)" (20:42).*
+  - *Fulfilled: "today this scripture has been fulfilled" (4:21, test); "the days of his taking up were being filled" (9:51).*
+- **"then he opened (διήνοιξεν) their mind (νοῦν) to understand (συνιέναι) the scriptures"**:
+  - *Opening:* "their eyes were opened (διηνοίχθησαν)" (24:31). "Unrolling the book" (4:17, test).
+  - *Mind: "O mindless (ἀνόητοι)" (24:25).*
+  - *Understanding:*
+    - "so that hearing they may not understand (συνιῶσιν)" (8:10, test);
+    - "they understood (συνῆκαν) none of these things" (18:34, test);
+    - "it was veiled from them, so that they should not perceive it" (9:45).
+  - *The law of veiling ends here: what was given in parables so that they would not understand is opened to the mind so that they understand.*
+- **"thus it is written that the Anointed One should suffer and rise from the dead (ἀναστῆναι ἐκ νεκρῶν) on the third day"**:
+  - *"If they do not hear Moses and the prophets, neither will they be persuaded if someone rises from the dead (ἐκ νεκρῶν ἀναστῇ)" (16:31).*
+  - Moses, the prophets, and rising from the dead, together.
+
+**Verdict: continues, and the printed text needs it.**
+- *By its words.* The printed 24:47 begins "… and that repentance… be proclaimed (καὶ κηρυχθῆναι)". The infinitive depends on 24:46's "thus it is written that…". The printed text marks the gap with an ellipsis.
+- *By its mechanics.*
+  - *The veil.* The text has veiled the understanding on purpose (8:10, test; 9:45; 18:34, test), and lifted the veil by stages:
+    - remembering (24:8);
+    - the veil of the sanctuary torn (23:45);
+    - the eyes opened at the bread (24:31).
+  - The last stage, the opening of the mind to understand the scriptures, is this passage. *It is also the act of the method itself: the Word opened to its sense.*
+  - *The condition of 16:31.* Rising from the dead persuades only those who hear Moses and the prophets. In the printed text, Moses and the prophets are never opened about rising: 20:37–38, 24:27 and 24:44–46 are all unprinted. The report of the rising does not persuade (24:11), and the two do not recognize the risen one on the road (24:16). The condition is met here, in the words of 16:31: Moses, the prophets, "rise from the dead".
+  - With 24:44–46 printed, 20:37–38 and 24:27 are not needed.
+- U−: restoring it is against the class, not against an attested absence. *Recorded for task 14.*
+
+### 24:47
+
+*… καὶ κηρυχθῆναι ἐπὶ τῷ ὀνόματι αὐτοῦ μετάνοιαν εἰς ἄφεσιν ἁμαρτιῶν εἰς πάντα τὰ ἔθνη.*
+
+- **"and that repentance (μετάνοιαν) be proclaimed"**:
+  - *Repentance:* "I came to call… sinners to repentance" (5:32); "joy… over one sinner who repents" (15:7, 15:10); "if he repents, let go to him" (17:3–4).
+- **"for the release (ἄφεσιν) of sins"**:
+  - *ἄφεσις: "to proclaim release (κηρύξαι… ἄφεσιν) to the captives… to send away the broken in release" (4:18, test).*
+  - ἀφίημι: "your sins are let go" (5:20); "let go our sins" (11:4).
+  - *The text's first proclamation (4:18) and its last (24:47) are of release.*
+- **"in his name"**: the name (9:48; 10:17, 10:20; 21:12, 21:17).
+- **"to all the nations"**:
+  - *The nations: "the nations of the world seek these things" (12:30); "trodden by the nations, until the times of the nations are fulfilled" (21:24).*
+  - The captives of 4:18 and the nations of 21:24.
+- *NA27's "beginning from Jerusalem" is unattested and not printed. "Beginning (ἀρξάμενος) from Galilee to here" (23:5) was the road. "Beginning (ἀρξάμενοι) from Jerusalem" would be the road that goes out from where this one ended.*
+
+### Test: 24:48–53 (U?)
+
+*ὑμεῖς ἐστε μάρτυρες τούτων. καὶ ἰδοὺ ἐγὼ ἐξαποστέλλω τὴν ἐπαγγελίαν τοῦ πατρός μου ἐφ’ ὑμᾶς· ὑμεῖς δὲ καθίσατε ἐν τῇ πόλει ἕως οὗ ἐνδύσησθε ἐξ ὕψους δύναμιν. Ἐξήγαγεν δὲ αὐτοὺς ἕως πρὸς Βηθανίαν, καὶ ἐπάρας τὰς χεῖρας αὐτοῦ εὐλόγησεν αὐτούς. καὶ ἐγένετο ἐν τῷ εὐλογεῖν αὐτὸν αὐτοὺς διέστη ἀπ’ αὐτῶν καὶ ἀνεφέρετο εἰς τὸν οὐρανόν. καὶ αὐτοὶ προσκυνήσαντες αὐτὸν ὑπέστρεψαν εἰς Ἰερουσαλὴμ μετὰ χαρᾶς μεγάλης, καὶ ἦσαν διὰ παντὸς ἐν τῷ ἱερῷ εὐλογοῦντες τὸν θεόν.*
+
+- **"you are witnesses (μάρτυρες)"**: *"you are witnesses and approve the works of your fathers" (11:48).* Testimony (5:14; 9:5; 21:13).
+- **"I send (ἐξαποστέλλω) the promise of my Father upon you"**:
+  - Sending (4:43; 9:2; 10:1, 10:3).
+  - *The Father who gives the holy spirit to those who ask (11:13).*
+- **"stay in the city until you are clothed (ἐνδύσησθε) with power from on high (ἐξ ὕψους)"**:
+  - *Clothing:*
+    - Legion, clothed (8:27, 8:35);
+    - "do not be anxious… what you will put on (ἐνδύσησθε)" (12:22);
+    - "God so clothes" (12:28a, test);
+    - the first robe put on the son (15:22, test).
+  - *Power:* given to the twelve (9:1); "power went out from me" (8:46); "the right hand of the power of God" (22:69).
+  - *From the height (ὕψος):*
+    - "sons of the Most High (Ὑψίστου)" (6:35);
+    - "what is high (ὑψηλόν) among men is an abomination before God" (16:15);
+    - "whoever brings himself low will be lifted up (ὑψωθήσεται)" (18:14);
+    - "glory in the highest (ὑψίστοις)" (19:38, test).
+  - *The height men give themselves is rejected (16:15). The height that clothes is given, from above.*
+- **"he led them out as far as Bethany"**: *Bethany, at the Mount of Olives (19:29, test).*
+- **"lifting up (ἐπάρας) his hands, he blessed them"**:
+  - *Lifting up: "he lifted up (ἐπάρας) his eyes on his disciples" and said "Blessed are the poor" (6:20). "Lift up (ἐπάρατε) your heads" (21:28).*
+  - The hands (23:46; 24:39). *Blessing:* the bread (9:16; 24:30); "bless those who curse you" (6:28).
+  - *His first teaching began with his eyes lifted on the disciples and "blessed". His last act is his hands lifted over them, blessing.*
+- **"while he was blessing them, he parted from them, and was carried up (ἀνεφέρετο) into heaven"**:
+  - *ἀνα-φέρω, "carry up": the poor man "was carried away (ἀπενεχθῆναι) by the angels into Abraham's bosom" (16:22).*
+  - The lost sheep carried on the shoulders (15:5).
+  - *This is the "taking up" (ἀνάλημψις) whose days were being filled when he set his face to go to Jerusalem (9:51).*
+  - (24:51b and 24:52a are lacking in D and the Old Latin, Western non-interpolations. NA27 prints them.)
+- **"they returned (ὑπέστρεψαν) to Jerusalem with great joy"**: returning; joy (24:41).
+- **"they were continually in the temple, blessing God"**:
+  - *The temple: "two men went up into the temple to pray" (18:10); "my house shall be a house of prayer" (19:46, test).*
+  - The blessing returned: he blessed them; they bless God.
+
+**Verdict: continues, and the printed text needs it.**
+- *By its mechanics — the reason that matters most in the whole reading.*
+  - *At 9:51 the text names its own movement: "the days of his taking up (ἀνάλημψις) were being filled, and he set his face to go to Jerusalem".* Every later mark of the road points to that end.
+  - *In the printed text the taking up is never told. The text stops at 24:47, with the command, before the end it announced.*
+  - 24:50–51 is that end:
+    - his hands lifted, blessing;
+    - parting while he blesses;
+    - carried up into heaven.
+  - With it, the disciples return to Jerusalem with joy, to the house of prayer. They are told they will be clothed "with power from the height": the height given, against the height of men (16:15).
+- *By its words.* Its words join 6:20, 8:35, 9:51, 12:22, 16:15, 16:22, 18:14, 21:28, 22:69 and 23:46.
+- U?. No witness cites anything after 24:47, and METHOD §10 ends the text at the last attested verse. Restoring it is a departure from that rule, not from a witness of absence. *Recorded for task 14.*
+
+### What came out of the reading of chapter 22
+
+**At deep dawn, at the rock.** The women come at "deep" dawn: the deep of the first call (5:4) and of the foundation on the rock (6:48). The stone is moved; the body given (22:19) is not found where it was laid. The two men of the mountain, in its flashing (9:29–30), ask why they seek the Living One among the dead. "He has been raised": the form the people used of a prophet at Nain (7:16) and the rumour used of John (9:7). The women remember his sayings, and the veil of 9:45 is lifted by remembering. The apostles are not persuaded by the report (16:31).
+
+**On the road, away and back.**
+- Two go away from Jerusalem.
+- Jesus himself draws near (the last ἐγγίζω) and walks the road with them, and their eyes are held.
+- They name him a prophet from Nazareth, and the third day, without knowing what they say.
+- "Was it not necessary that the Anointed One should suffer these things and enter into his glory?"
+- He makes as if to go further. They constrain him to remain, as the crowds held him at the start (4:42), and now he stays.
+- The day has declined (9:12). He reclines — he who had nowhere to lay his head (9:58).
+- He takes, blesses, breaks, gives (9:16; 22:19). Their eyes are opened. He is no longer seen.
+- (In the test passages, on which the printed text leans: their hearts burned as he opened the scriptures on the way; they rise and return to Jerusalem; "he has appeared to Simon", faith restored.)
+
+**In the midst, "Peace to you."** He stands in their midst: the end of the thread of the midst, from 4:30 to the veil torn in the midst (23:45). His word is the first word the seventy were to say at every house (10:5). Reasonings "go up" in their hearts — the last "going up" of the printed text. He answers with hands and feet: "it is I myself". He eats the fish they give him.
+
+**What the printed text leaves out at the end.**
+- *24:44–46:* the opening of the mind to the scriptures. That is the end of the veil, and the meeting of the condition of 16:31. The printed 24:47 hangs on it ("… and that… be proclaimed").
+- *24:48–53:* the taking up named at 9:51, told; the hands lifted in blessing; carried up into heaven; clothed with power from the height; the return to Jerusalem; the temple.
+- Both are needed. With 24:33–35 they are the sixth, seventh and eighth needed passages.
+
+**The ring with the beginning.** The test of 4:17–21 was added to chapter 1 when the reading reached 24:47:
+- he rose to read the Word;
+- he unrolled the book;
+- he read "to proclaim release";
+- he said "today this scripture has been fulfilled in your ears".
+The printed text keeps the last proclamation of release (24:47) and drops the first (4:18). It drops the opening of the scripture at both ends (4:17; 24:45). By its words — 4:16, "stood up to read"; 4:23–24, "you will say to me", "acceptable" — and by this ring, 4:17–21 is needed.
+
+### Threads, ended
+
+- dawn;
+- the deep;
+- the stone;
+- the body not found (17:37);
+- the two men in flashing clothing (9:29–30);
+- bowing the face;
+- the Living One;
+- "he has been raised" (7:16; 9:7);
+- remembering (the veil of 9:45 lifted);
+- unbelief at the report (16:31);
+- the road away and (test) back;
+- he draws near;
+- held eyes, opened eyes;
+- the prophet of Nazareth;
+- redemption;
+- the third day;
+- suffering and entering glory;
+- going further;
+- remaining (4:42 / 24:29);
+- the declining day (9:12 / 24:29);
+- reclining (9:58 / 24:30);
+- taking, blessing, breaking, giving (9:16; 22:19 / 24:30);
+- invisible when known;
+- (test) the burning heart and the opened scriptures on the way;
+- (test) rising and returning to Jerusalem;
+- (test) appeared to Simon (22:32);
+- standing in the midst (4:30 → 24:36);
+- "Peace to you" (10:5);
+- reasonings going up;
+- hands and feet;
+- "I myself";
+- the fish given to him (11:11);
+- eating (22:18);
+- (test) the mind opened (8:10; 9:45; 18:34);
+- (test) Moses, the prophets, rising from the dead (16:31);
+- repentance and release proclaimed (4:18, test / 24:47);
+- the nations;
+- (test) witnesses, the Father's promise, clothed with power from on high, hands lifted in blessing, carried up (9:51; 16:22), returned with joy, the temple.
