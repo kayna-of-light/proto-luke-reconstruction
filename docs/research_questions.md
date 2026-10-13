@@ -308,7 +308,7 @@ The measure as fixed does not measure what it was meant to. The first result is 
 - **Inventory.** As before, without cardinal numbers, without WordNet noun.quantity, and without closed-class words mis-tagged as nouns (thou, thee, ye, one, out, forth, well).
 - **Precision check.** The same check is repeated on 30 new hits before the result is read.
 
-**Editions actually used.** The 1940s editions named in item 1 are lending-restricted on the Internet Archive. The public-domain editions were used instead: *Arcana Coelestia* (1870 and 1915 English editions; where both are present, the first copy of a section is kept) and *Apocalypse Explained* (1890, 6 vols).
+**Editions actually used.** Several volumes of the editions named in item 1 are lending-restricted on the Internet Archive. The readable copies were used: *Arcana Coelestia* in the 1870 American edition (10 vols.) and the Potts Standard Edition (printings of 1915–1941, the volumes that could be read); where both are present, the first copy of a section is kept and *Apocalypse Explained* (1890, 6 vols).
 
 **Parser correction (2026-10-13, before the revised run).** The first parser read a bare reference ("xv. 22, 23") only inside parentheses. The 1870 AC prints such references without them, so most AC citations were missed. For example, AC 9391 quotes Luke 15:22–23 and expounds the robe, the ring, the shoes and the calf. A bare reference now belongs to the nearest book named before it. Both measures were rerun on the corrected parser; the figures below are those reruns.
 
