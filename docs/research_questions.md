@@ -308,4 +308,50 @@ The measure as fixed does not measure what it was meant to. The first result is 
 - **Inventory.** As before, without cardinal numbers, without WordNet noun.quantity, and without closed-class words mis-tagged as nouns (thou, thee, ye, one, out, forth, well).
 - **Precision check.** The same check is repeated on 30 new hits before the result is read.
 
-**Status.** First run done (measure invalid); revised run to follow.
+**Editions actually used.** The 1940s editions named in item 1 are lending-restricted on the Internet Archive. The public-domain editions were used instead: *Arcana Coelestia* (1870 and 1915 English editions; where both are present, the first copy of a section is kept) and *Apocalypse Explained* (1890, 6 vols).
+
+**Parser correction (2026-10-13, before the revised run).** The first parser read a bare reference ("xv. 22, 23") only inside parentheses. The 1870 AC prints such references without them, so most AC citations were missed. For example, AC 9391 quotes Luke 15:22–23 and expounds the robe, the ring, the shoes and the calf. A bare reference now belongs to the nearest book named before it. Both measures were rerun on the corrected parser; the figures below are those reruns.
+
+**Precision check of the revised measure (before its result was read).** 30 new hits were drawn at random (seed 20261014), with the parable withheld. 21 of 30 state the element's sense, e.g.:
+- "the merchant means those who acquire…" (AE 1043);
+- "to pour in oil and wine signifies providing a remedy…" (AE 444);
+- "five yoke of oxen signify all those affections…" (AE 548).
+
+9 of 30 do not:
+- the title "Lord", 3 hits;
+- tagger errors, 3 hits ("be", "see", "which");
+- a neighbouring noun, 2 hits;
+- no decoding at all, 1 hit.
+
+Precision is about 70%, against about 33% for the first measure. The sample was drawn before the parser correction.
+
+**Results (both measures, corrected parser).** Files: `docs/research/q8/`.
+
+| | First measure (25-word window) | Revised measure |
+|---|---|---|
+| Absent (4): median share decoded | 0.91 | 0.56 |
+| Attested (12): median share decoded | 0.81 | 0.43 |
+| One-sided Mann–Whitney | U = 33.5, p = 0.14 | U = 33, p = 0.16 |
+
+Revised measure by parable (share of elements decoded; citing sections in brackets):
+
+| Group | Parables |
+|---|---|
+| Absent | Samaritan 0.61 (14); barren fig tree 0.62 (8); two sons 0.30 (6); tenants 0.50 (26) |
+| Unattested U−/U? | tower and king 0.40 (9); unworthy servants 0.00 (2) |
+| Attested | sower 0.40 (26); friend at midnight 0.00 (0); rich fool 0.11 (2); mustard seed and leaven 0.46 (11); banquet 0.56 (20); lost sheep and coin 0.62 (13); unjust steward 0.00 (8); rich man and Lazarus 0.62 (29); unjust judge 0.20 (7); Pharisee and tax collector 0.30 (10); minas 0.50 (25); fig tree in leaf 0.50 (6) |
+| Matthean controls | 0.21–1.00 (median 0.54) |
+
+**Descriptive, chosen after seeing the data (not a test).** The largest number of a parable's elements decoded in one section:
+- **Absent parables:** Samaritan 6 (AE 375); barren fig tree 5 (AE 403); two sons 4 (AC 9391); tenants 3 (AC 1069). All four are expounded element by element somewhere in the corpus.
+- **Attested parables:** 5 of the 12 reach 3 or more: Lazarus 6, lost sheep and coin 5, mustard seed 4, banquet 4, minas 3.
+
+If this threshold had been fixed in advance, the probability of the split (4/4 against 5/12) would be 0.07. It was not fixed in advance.
+
+**What the data show.**
+1. The observation that prompted Q8 holds as a description. Swedenborg expounds each of the four parables Marcion's text lacks, element by element. The passages are AE 375 and 444 (Samaritan), AE 403 (barren fig tree), AC 9391 (prodigal son) and AC 1069 (tenants).
+2. The absent group scores higher than the attested group on both measures, but not significantly (p ≈ 0.15; n = 4 against 12). The attested parables and the Matthean controls are decoded at similar rates. On these data, the correspondential reading does not separate the two layers of the text.
+3. The design has a limit that more data would not remove. Swedenborg treats the whole canonical text as the Word and decodes whatever he cites. His rate for a parable therefore measures how often he cited it: across the 24 parables, share decoded correlates with the number of citing sections (Spearman ρ = 0.44, p = 0.03). What he decodes is shaped by what he chose to cite. It does not show whether the text was written correspondentially.
+4. A test of whether the Lukan author composed correspondentially would have to measure the text itself, not a reader's treatment of it. An example is the density, per parable and by attestation class, of the nouns Swedenborg's dictionary of correspondences assigns a fixed sense, with the dictionary fixed before the parables are scored. This is open, if wanted.
+
+**Status.** Protocol run complete, with a revised measure and a parser correction, both documented above. Result: not significant; direction absent > attested; the design cannot separate composition from reception. Question left open for the text-internal test in item 4.

@@ -15,9 +15,22 @@ Conventions fixed with the protocol:
   {person, animal, plant, artifact, object, location, food, body, substance, quantity}, plus proper
   nouns and cardinal numbers. Fixed by rule, before extraction; the inventory is written to the output.
 - Citing section: a numbered section of the corpus that cites, by book chapter verse, any verse of
-  the parable or of its NA27 parallels.
+  the parable or of its NA27 parallels. A bare reference ("xv. 22, 23", with or without parentheses)
+  belongs to the nearest book named before it (parser corrected 2026-10-13: the first version read
+  only parenthesized bare references and so missed most of the 1870 AC, e.g. AC 9391 on Luke 15:22-23).
 - Decoded element: the element's word (singular or plural) within 25 words of one of: signifies,
   signified, denotes, "is meant", "are meant", means, represents, corresponds, in a citing section.
+
+Revised measure (--revised; fixed 2026-10-13 after the precision check of the first run showed that
+measure to be mostly noise, and before the revised run):
+- Window: 300 words either side of each reference to a verse of the parable or its parallels.
+- Decoded: the element's word stands within 6 words before a signification verb (signifies, signify,
+  signified, denotes, denote, denoted, means, mean, "is/are meant", represents, represent,
+  corresponds, correspond), or in "by ... X ... is/are meant/signified/denoted" with at most 12 words
+  from "by" to the verb.
+- Inventory: as above, without cardinal numbers, noun.quantity, and the closed-class words the tagger
+  takes for nouns (thou, thee, ye, one, out, forth, well).
+- --sample writes 30 random hits (seed 20261014, parable withheld) for the precision check and stops.
 """
 import glob, json, os, re, sys
 from collections import defaultdict
@@ -74,7 +87,11 @@ def kjv_text(kjv, book, ch, a, b):
     return ' '.join(re.sub(r'[{}]', '', v) for v in verses)
 
 
-def inventory(text):
+STOP = {'thou', 'thee', 'ye', 'one', 'out', 'forth', 'well'}
+SIGNIF2 = re.compile(r"^(signifies|signify|signified|denotes|denote|denoted|means|mean|represents|represent|corresponds|correspond)$")
+
+
+def inventory(text, revised=False):
     from nltk import pos_tag, word_tokenize
     from nltk.corpus import wordnet as wn
     from nltk.stem import WordNetLemmatizer
@@ -84,9 +101,11 @@ def inventory(text):
             out.setdefault(w.lower(), {w.lower()})
         elif t in ('NN', 'NNS'):
             base = lem.lemmatize(w.lower(), 'n'); syn = wn.synsets(base, 'n')
+            if revised and (base in STOP or w.lower() in STOP or (syn and syn[0].lexname() == 'noun.quantity')):
+                continue
             if syn and syn[0].lexname() in CONCRETE:
                 out.setdefault(base, set()).update({base, w.lower()})
-        elif t == 'CD' and w.isalpha():
+        elif t == 'CD' and w.isalpha() and not revised:
             out.setdefault(w.lower(), {w.lower()})
     return {k: sorted(v) for k, v in out.items()}
 
@@ -120,14 +139,20 @@ CITE = re.compile(r"\b(Luke|Luk\.|Matt\.?|Matthew|Mark)\s*[\(\[]?\s*([ivxlc]{1,7
 
 
 INTRO = re.compile(r"\b(?:in|by)\s+(Luke|Matthew|Mark)\b", re.I)
-BARE = re.compile(r"\(\s*([ivxlc]{1,7})\s*[\.,]\s*([\d\s,\-–]+)\)", re.I)
+# a bare reference, with or without parentheses (the 1870 AC prints '..." xv. 22, 23.')
+BARE = re.compile(r"(?<![A-Za-z])\(?\s*([ivxlc]{1,7})\s*[\.,]\s*(\d[\d\s,\-–]*)", re.I)
+BOOKS = re.compile(r"\b(Luke|Matthew|Matt|Mark|John|Acts|Genesis|Gen|Exodus|Exod|Leviticus|Levit|Lev|Numbers|Num|"
+                   r"Deuteronomy|Deut|Joshua|Josh|Judges|Judg|Ruth|Samuel|Sam|Kings|Chronicles|Job|Psalms?|Ps|Proverbs|"
+                   r"Prov|Lamentations|Lam|Isaiah|Isa|Jeremiah|Jer|Ezekiel|Ezek|Daniel|Dan|Hosea|Hos|Joel|Amos|Obadiah|"
+                   r"Jonah|Micah|Nahum|Habakkuk|Zephaniah|Haggai|Zechariah|Zech|Malachi|Mal|Moses|David|Revelation|"
+                   r"Apocalypse|Apoc|Romans|Rom)\b")
 
 
-def cited_verses(sec):
-    found = set()
+def cited_verses(sec, positions=False):
+    found = set(); pos_of = defaultdict(set)
     # "In Luke: '...' (xv. 11-32)": a bare reference applies to the last Gospel named before it
     intros = [(m.start(), m.group(1).lower()) for m in INTRO.finditer(sec)]
-    named = [(m.start(), m.group(1).lower()) for m in re.finditer(r"\b(Luke|Matthew|Matt|Mark|John|Isaiah|Jeremiah|Ezekiel|Daniel|Moses|David|Hosea|Zechariah|Psalms?|Revelation|Apocalypse|Genesis|Exodus)\b", sec)]
+    named = [(m.start(), m.group(1).lower()) for m in BOOKS.finditer(sec)]
     for m in BARE.finditer(sec):
         prev = [b for (pos, b) in named if pos < m.start() and m.start() - pos < 3000]
         if prev and prev[-1] in ('luke', 'matthew', 'matt', 'mark'):
@@ -139,7 +164,7 @@ def cited_verses(sec):
                     a = int(r.group(1)); b = int(r.group(2) or a)
                     if 0 < a <= b <= a + 60:
                         for v in range(a, b + 1):
-                            found.add((book, ch, v))
+                            found.add((book, ch, v)); pos_of[(book, ch, v)].add(m.start())
     for m in CITE.finditer(sec):
         book = {'luke': 'lk', 'luk.': 'lk', 'matt': 'mt', 'matt.': 'mt', 'matthew': 'mt', 'mark': 'mk'}[m.group(1).lower()]
         groups = [(m.group(2), m.group(3))]
@@ -159,11 +184,36 @@ def cited_verses(sec):
                     a = int(r.group(1)); b = int(r.group(2) or a)
                     if 0 < a <= b <= a + 60:
                         for v in range(a, b + 1):
-                            found.add((book, ch, v))
-    return found
+                            found.add((book, ch, v)); pos_of[(book, ch, v)].add(m.start())
+    return pos_of if positions else found
+
+
+def revised_hits(sec, ref_pos, forms):
+    """Word positions of `forms` that count as decoded under the revised measure, inside the windows."""
+    toks = [(m.start(), m.group().lower()) for m in re.finditer(r"[A-Za-z']+", sec)]
+    starts = [p for p, _ in toks]; low = [w for _, w in toks]
+    import bisect
+    inwin = set()
+    for p in ref_pos:
+        i = bisect.bisect_left(starts, p)
+        inwin.update(range(max(0, i - 300), min(len(low), i + 301)))
+    verbs = [i for i in range(len(low)) if SIGNIF2.match(low[i])
+             or (low[i] in ('is', 'are') and i + 1 < len(low) and low[i + 1] == 'meant')]
+    pas = [i for i in range(len(low) - 1) if low[i] in ('is', 'are') and low[i + 1] in ('meant', 'signified', 'denoted')]
+    hits = []
+    for i in sorted(inwin):
+        if low[i] not in forms:
+            continue
+        if any(0 < j - i <= 6 for j in verbs):
+            hits.append(i); continue
+        for j in pas:
+            if 0 < j - i <= 12 and 'by' in low[max(0, j - 12):i]:
+                hits.append(i); break
+    return hits, toks
 
 
 def main():
+    revised = '--revised' in sys.argv or '--sample' in sys.argv
     kjv = json.load(open(f'{SRC}/kjv/kjv.json', encoding='utf-8-sig'))
     files = sorted(glob.glob(f'{SRC}/swedenborg/arcanacoelestiah*.txt')) + sorted(glob.glob(f'{SRC}/swedenborg/apocalypseexplained0*.txt'))
     corpus = []
@@ -175,17 +225,26 @@ def main():
             if key in seen:       # AC volumes from two editions overlap: keep the first copy
                 continue
             seen.add(key)
-            corpus.append((work, n, sec, cited_verses(sec)))
+            corpus.append((work, n, sec, cited_verses(sec, positions=True)))
     coverage = {w: sorted(n for (ww, n) in seen if ww == w) for w in ('AC', 'AE')}
 
-    results, citing_dump = [], {}
+    results, citing_dump, samples = [], {}, []
     for name, group, main_rng, par in PARABLES:
         rngs = [main_rng] + par
         targets = {(b, c, v) for (b, c, a, z) in rngs for v in range(a, z + 1)}
-        inv = inventory(kjv_text(kjv, *main_rng))
-        citing = [(w, n, sec) for (w, n, sec, cv) in corpus if cv & targets]
+        inv = inventory(kjv_text(kjv, *main_rng), revised)
+        citing = [(w, n, sec, set().union(*(cv[t] for t in targets if t in cv)))
+                  for (w, n, sec, cv) in corpus if targets & set(cv)]
         decoded = defaultdict(list)
-        for w, n, sec in citing:
+        for w, n, sec, refpos in citing:
+            if revised:
+                for el, forms in inv.items():
+                    hits, toks = revised_hits(sec, refpos, set(forms))
+                    if hits:
+                        decoded[el].append(f'{w} {n}')
+                        for i in hits:
+                            samples.append((name, el, f'{w} {n}', ' '.join(t for _, t in toks[max(0, i - 30):i + 30])))
+                continue
             words = re.findall(r"[A-Za-z']+", sec)
             low = [x.lower() for x in words]
             sig_pos = [i for i in range(len(low)) if SIGNIF.match(' '.join(low[i:i + 2]))]
@@ -199,7 +258,19 @@ def main():
                         'elements': inv, 'n_elements': len(inv), 'citing_sections': len(citing),
                         'decoded_elements': {k: sorted(set(v)) for k, v in decoded.items()},
                         'n_decoded': len(decoded), 'share_decoded': round(share, 3)})
-        citing_dump[name] = [f'{w} {n}' for w, n, _ in citing]
+        citing_dump[name] = [f'{w} {n}' for w, n, _, _ in citing]
+
+    if '--sample' in sys.argv:
+        import random
+        rnd = random.Random(20261014); pick = rnd.sample(samples, 30)
+        path = sys.argv[sys.argv.index('--sample') + 1]
+        with open(path, 'w', encoding='utf-8') as f:
+            for k, (_, el, loc, ctx) in enumerate(pick, 1):
+                f.write(f'#{k} [{el}] {loc}: {ctx}\n\n')
+        with open(path + '.key', 'w', encoding='utf-8') as f:
+            for k, (nm, el, loc, _) in enumerate(pick, 1):
+                f.write(f'#{k} {nm}\n')
+        print(len(samples), 'hits; sample written'); return
 
     # comparison: absent vs attested, one-sided Mann-Whitney (exact permutation over group labels)
     import itertools
@@ -215,9 +286,10 @@ def main():
     summary = {'absent_median_share': med(A), 'attested_median_share': med(P), 'U': obs, 'p_one_sided': cnt / tot,
                'n_absent': len(A), 'n_attested': len(P)}
     os.makedirs(OUT, exist_ok=True)
-    json.dump({'protocol': 'docs/research_questions.md Q8 (fixed 2026-10-13)', 'coverage_sections': {w: [len(v), v[0], v[-1]] for w, v in coverage.items()},
-               'results': results, 'summary': summary}, open(f'{OUT}/q8_results.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    json.dump(citing_dump, open(f'{OUT}/q8_sections.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    tag = '_revised' if revised else ''
+    json.dump({'protocol': 'docs/research_questions.md Q8 (fixed 2026-10-13)', 'measure': 'revised' if revised else 'first', 'coverage_sections': {w: [len(v), v[0], v[-1]] for w, v in coverage.items()},
+               'results': results, 'summary': summary}, open(f'{OUT}/q8_results{tag}.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    json.dump(citing_dump, open(f'{OUT}/q8_sections{tag}.json', 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print('coverage', {w: (len(v), v[0], v[-1]) for w, v in coverage.items()})
     for r in results:
         print(f"{r['group']:10s} {r['parable']:28s} elements {r['n_elements']:3d}  citing {r['citing_sections']:3d}  decoded {r['n_decoded']:3d}  share {r['share_decoded']:.2f}")
