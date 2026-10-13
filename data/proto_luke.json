@@ -1,6 +1,6 @@
 {
   "title": "THE GOSPEL (PROTO-LUKE)",
-  "description": "This edition presents the gospel read in Marcion's church in the second century, the text its opponents called his Evangelion, reconstructed verse by verse from the writers who quote it. The working premise of the project is that this text is not an abridgement of canonical Luke but an earlier form of it, here called Proto-Luke. A second premise, that it comes from the Jewish-Christian circle of James the Just, is treated as a hypothesis: the chapter notes describe what the attested text contains and say where it supports that identification and where it does not.\n\nThe witnesses. Marcion's gospel survives only in quotation. The principal witnesses are Tertullian, Against Marcion, book 4 (c. 207), who works through the text in order, in Latin; and Epiphanius, Panarion 42 (c. 375), whose 78 scholia quote it in Greek and state where it lacked passages of canonical Luke. The Dialogue of Adamantius is used only where its Marcionite speaker quotes the gospel. Other Fathers (Origen, Hippolytus, Ephrem, Eznik) are cited where they bear on a verse. All of them were hostile. What they report the text to have contained is treated as evidence; what they say about why it was so (\"Marcion cut it\") is polemic and is not used.\n\nHow each verse is decided. Every verse of Luke 3–24 has a record in the apparatus (data/apparatus/luke_03.json to luke_24.json), with the witnesses quoted from their primary texts and a class: attested present; attested absent; unattested but probably absent (where a witness who works through that stretch of text would have used the verse against Marcion and does not cite it); or unattested and undetermined. Of the 1,017 verses of Luke 3–24, 485 are attested present, 143 attested absent, 44 probably absent and 345 undetermined. Attested verses are printed. Undetermined verses are printed only inside a paragraph that contains an attested verse, and are set in grey: they are the canonical text where the witnesses are silent, not attested text. Of the 780 verses printed, 223 are grey and 72 are restored by method (below). Passages attested absent or probably absent are not printed, and each chapter's notes say what is missing and on whose evidence.\n\nThe wording. The Greek is that of Nestle–Aland, 27th edition, checked against the printed page. A reading of Marcion's text replaces it only where a witness attests it in its own words and the evidence makes it very likely: a Greek quotation, agreement of two witnesses, or a witness's habit of citation that rules out its own paraphrase. Where only Tertullian's Latin attests a reading and the Latin cannot render the Nestle–Aland Greek, the Greek is a retroversion, and the note says so. Weaker readings are recorded in the notes and do not change the text. Roth's graded reconstruction (2015) is the second judgement for every reading; where this edition departs from it, the reason is given.\n\nRestoration by method. The witnesses cannot show what they never quote. A second method is used for that gap, and only where nothing else decides it: the printed text was read by correspondence from beginning to end, word by word and sentence by sentence (docs/research/correspondence/word_by_word.md), and every passage it does not print was read at its place. Where the printed text's own words point to a missing passage, or a movement the text sets going is not completed without it, the passage is printed as restored by method, in a distinct colour, and the notes give the grounds (METHOD §11). The passages restored are: the reading from Isaiah at Nazareth (4:17–21); God clothing the grass (12:28a); the meal at the Pharisee's house with \"Friend, go up higher\" (14:1–11); the third prediction of the passion (18:31–34); the citizens who refused his reign and the going up to Jerusalem, with the entry into the temple (19:27–46); the stones of the temple (21:5–6); Peter's denial (22:54–62); Pilate's second finding (23:13–16); the two beside him on the cross (23:39–43); the return from Emmaus (24:33–35); the opening of the scriptures (24:44–46); and the ending with the taking up (24:47b–53). Their class in the apparatus does not change. 12:28a, 18:31–33, 19:29–46 and 23:43 are printed against Marcion's text, which the witnesses state lacked them. The same reading tests the Marcionite readings: at 10:21 (\"Lord of heaven and of earth\"), 18:19 (\"one, God\") and 21:27 (\"in a cloud with power and great glory\") the attested wording breaks the inner line and the Nestle–Aland wording is printed; the attested readings are given in the notes.\n\nWhat the witnesses show. The text began with the fifteenth year of Tiberius and Jesus' coming down to Capernaum (3:1; 4:31), and had no birth narratives (Luke 1–2). Passages the witnesses state were absent include the parable of the two sons (15:11–32), the entry into Jerusalem and the cleansing of the temple (19:29–46), the tenants of the vineyard (20:9–17), and \"Today you will be with me in paradise\" (23:43); the first and the last are printed in this edition as restored by method. Some readings are not those of canonical Luke: in the Lord's prayer a petition for the holy spirit stands in place of \"hallowed be your name\" (11:2); before Pilate the accusers add that Jesus is \"destroying the law and the prophets\" and \"turning away the women and the children\" (23:2); on the road to Emmaus the disciples are rebuked for not believing \"all that he spoke to you\", not \"all that the prophets spoke\" (24:25). Other passages that have been thought foreign to this text are attested in it: the cup of the covenant in Jesus' blood (22:20); and, after the resurrection, \"See my hands and my feet, that it is I myself; for a spirit does not have bones as you see that I have\" (24:39), followed by a request for food (24:41). The words \"handle me and see\" and \"flesh and\" were not in that verse.\n\nPriority. The witnesses give no sign that the absences follow a single doctrine, and canonical Luke contains a seam where the shorter text does not (the Capernaum reference of 4:23, which in Marcion's order follows the visit to Capernaum). A stylometric test of the published editions of Marcion's gospel (docs/stylometry) finds Luke 1–2 and the genealogy distinct in style from the rest of Luke. Outside them it finds no measurable stylistic difference between the passages Marcion's text lacked and those it kept, so style alone does not decide the direction of change. Whether canonical Luke expanded this text, or both derive from a common original, is left open; the notes say what canonical Luke \"has\" or \"lacks\" rather than what it \"added\".\n\nTerminology. Jesus is named as in the Greek; ὁ χριστός is rendered \"the Anointed One\"; ὁ ζῶν at 24:5 is \"the Living One\". The last verse any witness cites is 24:47; the text is printed to 24:53, with the ending restored by method.\n\nSources. Tertullian, Adversus Marcionem, ed. and trans. E. Evans (Oxford, 1972). Epiphanius, Panarion, ed. K. Holl, GCS 31 (Leipzig, 1922). Der Dialog des Adamantius, ed. W. H. van de Sande Bakhuyzen, GCS 4 (Leipzig, 1901). Novum Testamentum Graece, 27th ed. (Stuttgart, 1993). The SBL Greek New Testament (2010), as a machine-readable control. D. T. Roth, The Text of Marcion's Gospel (Leiden: Brill, 2015). A. von Harnack, Marcion: Das Evangelium vom fremden Gott, 2nd ed. (Leipzig, 1924). The method, the record of every decision and the corrections made to the previous edition are in docs/audit (METHOD.md, AUDIT_LOG.md).",
+  "description": "This edition presents the gospel read in Marcion's church in the second century, the text its opponents called his Evangelion, reconstructed verse by verse from the writers who quote it. The working premise of the project is that this text is not an abridgement of canonical Luke but an earlier form of it, here called Proto-Luke. A second premise, that it comes from the Jewish-Christian circle of James the Just, is treated as a hypothesis: the chapter notes describe what the attested text contains and say where it supports that identification and where it does not.\n\nThe witnesses. Marcion's gospel survives only in quotation. The principal witnesses are Tertullian, Against Marcion, book 4 (c. 207), who works through the text in order, in Latin; and Epiphanius, Panarion 42 (c. 375), whose 78 scholia quote it in Greek and state where it lacked passages of canonical Luke. The Dialogue of Adamantius is used only where its Marcionite speaker quotes the gospel. Other Fathers (Origen, Hippolytus, Ephrem, Eznik) are cited where they bear on a verse. All of them were hostile. What they report the text to have contained is treated as evidence; what they say about why it was so (\"Marcion cut it\") is polemic and is not used.\n\nHow each verse is decided. Every verse of Luke 3–24 has a record in the apparatus (data/apparatus/luke_03.json to luke_24.json), with the witnesses quoted from their primary texts and a class: attested present; attested absent; unattested but probably absent (where a witness who works through that stretch of text would have used the verse against Marcion and does not cite it); or unattested and undetermined. Of the 1,017 verses of Luke 3–24, 485 are attested present, 143 attested absent, 44 probably absent and 345 undetermined. Attested verses are printed. Undetermined verses are printed only inside a paragraph that contains an attested verse, and are set in grey: they are the canonical text where the witnesses are silent, not attested text. Of the 802 verses printed, 223 are grey and 94 are restored by method (below). Passages attested absent or probably absent are not printed, and each chapter's notes say what is missing and on whose evidence.\n\nThe wording. The Greek is that of Nestle–Aland, 27th edition, checked against the printed page. A reading of Marcion's text replaces it only where a witness attests it in its own words and the evidence makes it very likely: a Greek quotation, agreement of two witnesses, or a witness's habit of citation that rules out its own paraphrase. Where only Tertullian's Latin attests a reading and the Latin cannot render the Nestle–Aland Greek, the Greek is a retroversion, and the note says so. Weaker readings are recorded in the notes and do not change the text. Roth's graded reconstruction (2015) is the second judgement for every reading; where this edition departs from it, the reason is given.\n\nRestoration by method. The witnesses cannot show what they never quote. A second method is used for that gap, and only where nothing else decides it: the printed text was read by correspondence from beginning to end, word by word and sentence by sentence (docs/research/correspondence/word_by_word.md), and every passage it does not print was read at its place. Where the printed text's own words point to a missing passage, or a movement the text sets going is not completed without it, the passage is printed as restored by method, in a distinct colour, and the notes give the grounds (METHOD §11). The passages restored are: the reading from Isaiah at Nazareth (4:17–21); God clothing the grass (12:28a); the meal at the Pharisee's house with \"Friend, go up higher\" (14:1–11); the two sons (15:11–32); the third prediction of the passion (18:31–34); the citizens who refused his reign and the going up to Jerusalem, with the entry into the temple (19:27–46); the stones of the temple (21:5–6); Peter's denial (22:54–62); Pilate's second finding (23:13–16); the two beside him on the cross (23:39–43); the return from Emmaus (24:33–35); the opening of the scriptures (24:44–46); and the ending with the taking up (24:47b–53). Their class in the apparatus does not change. 12:28a, 15:11–32, 18:31–33, 19:29–46 and 23:43 are printed against Marcion's text, which the witnesses state lacked them. The same reading tests the Marcionite readings: at 10:21 (\"Lord of heaven and of earth\"), 18:19 (\"one, God\") and 21:27 (\"in a cloud with power and great glory\") the attested wording breaks the inner line and the Nestle–Aland wording is printed; the attested readings are given in the notes.\n\nWhat the witnesses show. The text began with the fifteenth year of Tiberius and Jesus' coming down to Capernaum (3:1; 4:31), and had no birth narratives (Luke 1–2). Passages the witnesses state were absent include the parable of the two sons (15:11–32), the entry into Jerusalem and the cleansing of the temple (19:29–46), the tenants of the vineyard (20:9–17), and \"Today you will be with me in paradise\" (23:43); all but the tenants are printed in this edition as restored by method. Some readings are not those of canonical Luke: in the Lord's prayer a petition for the holy spirit stands in place of \"hallowed be your name\" (11:2); before Pilate the accusers add that Jesus is \"destroying the law and the prophets\" and \"turning away the women and the children\" (23:2); on the road to Emmaus the disciples are rebuked for not believing \"all that he spoke to you\", not \"all that the prophets spoke\" (24:25). Other passages that have been thought foreign to this text are attested in it: the cup of the covenant in Jesus' blood (22:20); and, after the resurrection, \"See my hands and my feet, that it is I myself; for a spirit does not have bones as you see that I have\" (24:39), followed by a request for food (24:41). The words \"handle me and see\" and \"flesh and\" were not in that verse.\n\nPriority. The witnesses give no sign that the absences follow a single doctrine, and canonical Luke contains a seam where the shorter text does not (the Capernaum reference of 4:23, which in Marcion's order follows the visit to Capernaum). A stylometric test of the published editions of Marcion's gospel (docs/stylometry) finds Luke 1–2 and the genealogy distinct in style from the rest of Luke. Outside them it finds no measurable stylistic difference between the passages Marcion's text lacked and those it kept, so style alone does not decide the direction of change. Whether canonical Luke expanded this text, or both derive from a common original, is left open; the notes say what canonical Luke \"has\" or \"lacks\" rather than what it \"added\".\n\nTerminology. Jesus is named as in the Greek; ὁ χριστός is rendered \"the Anointed One\"; ὁ ζῶν at 24:5 is \"the Living One\". The last verse any witness cites is 24:47; the text is printed to 24:53, with the ending restored by method.\n\nSources. Tertullian, Adversus Marcionem, ed. and trans. E. Evans (Oxford, 1972). Epiphanius, Panarion, ed. K. Holl, GCS 31 (Leipzig, 1922). Der Dialog des Adamantius, ed. W. H. van de Sande Bakhuyzen, GCS 4 (Leipzig, 1901). Novum Testamentum Graece, 27th ed. (Stuttgart, 1993). The SBL Greek New Testament (2010), as a machine-readable control. D. T. Roth, The Text of Marcion's Gospel (Leiden: Brill, 2015). A. von Harnack, Marcion: Das Evangelium vom fremden Gott, 2nd ed. (Leipzig, 1924). The method, the record of every decision and the corrections made to the previous edition are in docs/audit (METHOD.md, AUDIT_LOG.md).",
   "chapters": [
     {
       "chapter": 1,
@@ -3494,7 +3494,7 @@
     {
       "chapter": 13,
       "title": "Proto-Luke Chapter 13",
-      "preamble": "The lost found. Tax collectors and sinners come to listen to Jesus, and the Pharisees complain that he eats with them. He answers with two parables: a man who leaves the ninety-nine sheep to look for the one that is lost, and a woman who sweeps the house for a lost coin. Each rejoices with friends at finding it, and so there is joy over one sinner who repents. Tertullian's point is that only the one who owned what was lost could look for it (Marc. 4.32). The parable of the two sons (15:11–32) is not in this text: Epiphanius states that \"the whole parable of the two sons\" was absent.",
+      "preamble": "The lost found. Tax collectors and sinners come to listen to Jesus, and the Pharisees complain that he eats with them. He answers with two parables: a man who leaves the ninety-nine sheep to look for the one that is lost, and a woman who sweeps the house for a lost coin. Each rejoices with friends at finding it, and so there is joy over one sinner who repents. Tertullian's point is that only the one who owned what was lost could look for it (Marc. 4.32). Then the parable of the two sons: the younger takes his share, scatters it in a far country, comes to himself, rises and goes to his father, who runs to meet him, clothes him and holds a feast; the elder will not go in, and the father comes out and pleads with him (15:11–32). Epiphanius states that \"the whole parable of the two sons\" was absent from Marcion's text; it is printed as restored by method (METHOD §11; see the notes).",
       "verses": [
         {
           "verse": 1,
@@ -3555,8 +3555,162 @@
         {
           "verse": 10,
           "canonical_ref": "Luke 15:10",
-          "english": "Just so, I tell you, there is joy before the angels of God over one sinner who repents.\"",
+          "english": "Just so, I tell you, there is joy before the angels of God over one sinner who repents.",
           "greek": "οὕτως, λέγω ὑμῖν, γίνεται χαρὰ ἐνώπιον τῶν ἀγγέλων τοῦ θεοῦ ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι."
+        },
+        {
+          "verse": 11,
+          "canonical_ref": "Luke 15:11",
+          "english": "Then he said, \"There was a man who had two sons.",
+          "greek": "Εἶπεν δέ· Ἄνθρωπός τις εἶχεν δύο υἱούς.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 12,
+          "canonical_ref": "Luke 15:12",
+          "english": "The younger of them said to his father, 'Father, give me the share of the property that falls to me.' So he divided his living between them.",
+          "greek": "καὶ εἶπεν ὁ νεώτερος αὐτῶν τῷ πατρί· Πάτερ, δός μοι τὸ ἐπιβάλλον μέρος τῆς οὐσίας· ὁ δὲ διεῖλεν αὐτοῖς τὸν βίον.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 13,
+          "canonical_ref": "Luke 15:13",
+          "english": "Not many days later the younger son gathered everything together and travelled to a far country, and there he scattered his property in reckless living.",
+          "greek": "καὶ μετ’ οὐ πολλὰς ἡμέρας συναγαγὼν πάντα ὁ νεώτερος υἱὸς ἀπεδήμησεν εἰς χώραν μακράν, καὶ ἐκεῖ διεσκόρπισεν τὴν οὐσίαν αὐτοῦ ζῶν ἀσώτως.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 14,
+          "canonical_ref": "Luke 15:14",
+          "english": "When he had spent everything, a severe famine came over that country, and he began to be in need.",
+          "greek": "δαπανήσαντος δὲ αὐτοῦ πάντα ἐγένετο λιμὸς ἰσχυρὰ κατὰ τὴν χώραν ἐκείνην, καὶ αὐτὸς ἤρξατο ὑστερεῖσθαι.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 15,
+          "canonical_ref": "Luke 15:15",
+          "english": "So he went and joined himself to one of the citizens of that country, who sent him into his fields to feed pigs.",
+          "greek": "καὶ πορευθεὶς ἐκολλήθη ἑνὶ τῶν πολιτῶν τῆς χώρας ἐκείνης, καὶ ἔπεμψεν αὐτὸν εἰς τοὺς ἀγροὺς αὐτοῦ βόσκειν χοίρους·",
+          "attestation": "restored"
+        },
+        {
+          "verse": 16,
+          "canonical_ref": "Luke 15:16",
+          "english": "And he longed to be filled with the pods that the pigs were eating, and no one gave him anything.",
+          "greek": "καὶ ἐπεθύμει χορτασθῆναι ἐκ τῶν κερατίων ὧν ἤσθιον οἱ χοῖροι, καὶ οὐδεὶς ἐδίδου αὐτῷ.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 17,
+          "canonical_ref": "Luke 15:17",
+          "english": "But coming to himself he said, 'How many of my father's hired workers have bread in abundance, and I am perishing here with hunger!",
+          "greek": "εἰς ἑαυτὸν δὲ ἐλθὼν ἔφη· Πόσοι μίσθιοι τοῦ πατρός μου περισσεύονται ἄρτων, ἐγὼ δὲ λιμῷ ὧδε ἀπόλλυμαι·",
+          "attestation": "restored"
+        },
+        {
+          "verse": 18,
+          "canonical_ref": "Luke 15:18",
+          "english": "Rising, I will go to my father and say to him, \"Father, I have sinned against heaven and before you;",
+          "greek": "ἀναστὰς πορεύσομαι πρὸς τὸν πατέρα μου καὶ ἐρῶ αὐτῷ· Πάτερ, ἥμαρτον εἰς τὸν οὐρανὸν καὶ ἐνώπιόν σου,",
+          "attestation": "restored"
+        },
+        {
+          "verse": 19,
+          "canonical_ref": "Luke 15:19",
+          "english": "I am no longer worthy to be called your son; make me as one of your hired workers.\"'",
+          "greek": "οὐκέτι εἰμὶ ἄξιος κληθῆναι υἱός σου· ποίησόν με ὡς ἕνα τῶν μισθίων σου.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 20,
+          "canonical_ref": "Luke 15:20",
+          "english": "And rising he went to his father. But while he was still far off, his father saw him and was moved with compassion; he ran and fell on his neck and kissed him.",
+          "greek": "καὶ ἀναστὰς ἦλθεν πρὸς τὸν πατέρα ἑαυτοῦ. ἔτι δὲ αὐτοῦ μακρὰν ἀπέχοντος εἶδεν αὐτὸν ὁ πατὴρ αὐτοῦ καὶ ἐσπλαγχνίσθη καὶ δραμὼν ἐπέπεσεν ἐπὶ τὸν τράχηλον αὐτοῦ καὶ κατεφίλησεν αὐτόν.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 21,
+          "canonical_ref": "Luke 15:21",
+          "english": "And the son said to him, 'Father, I have sinned against heaven and before you; I am no longer worthy to be called your son.'",
+          "greek": "εἶπεν δὲ ὁ υἱὸς αὐτῷ· Πάτερ, ἥμαρτον εἰς τὸν οὐρανὸν καὶ ἐνώπιόν σου, οὐκέτι εἰμὶ ἄξιος κληθῆναι υἱός σου.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 22,
+          "canonical_ref": "Luke 15:22",
+          "english": "But the father said to his servants, 'Quickly, bring out the first robe and clothe him with it, and put a ring on his hand and sandals on his feet;",
+          "greek": "εἶπεν δὲ ὁ πατὴρ πρὸς τοὺς δούλους αὐτοῦ· Ταχὺ ἐξενέγκατε στολὴν τὴν πρώτην καὶ ἐνδύσατε αὐτόν, καὶ δότε δακτύλιον εἰς τὴν χεῖρα αὐτοῦ καὶ ὑποδήματα εἰς τοὺς πόδας,",
+          "attestation": "restored"
+        },
+        {
+          "verse": 23,
+          "canonical_ref": "Luke 15:23",
+          "english": "and bring the fattened calf and kill it, and let us eat and celebrate;",
+          "greek": "καὶ φέρετε τὸν μόσχον τὸν σιτευτόν, θύσατε, καὶ φαγόντες εὐφρανθῶμεν,",
+          "attestation": "restored"
+        },
+        {
+          "verse": 24,
+          "canonical_ref": "Luke 15:24",
+          "english": "for this son of mine was dead and is alive again; he was lost and is found.' And they began to celebrate.",
+          "greek": "ὅτι οὗτος ὁ υἱός μου νεκρὸς ἦν καὶ ἀνέζησεν, ἦν ἀπολωλὼς καὶ εὑρέθη. καὶ ἤρξαντο εὐφραίνεσθαι.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 25,
+          "canonical_ref": "Luke 15:25",
+          "english": "Now his elder son was in the field; and as he came and drew near to the house, he heard music and dancing.",
+          "greek": "Ἦν δὲ ὁ υἱὸς αὐτοῦ ὁ πρεσβύτερος ἐν ἀγρῷ· καὶ ὡς ἐρχόμενος ἤγγισεν τῇ οἰκίᾳ, ἤκουσεν συμφωνίας καὶ χορῶν,",
+          "attestation": "restored"
+        },
+        {
+          "verse": 26,
+          "canonical_ref": "Luke 15:26",
+          "english": "He called one of the servants and asked what these things might be.",
+          "greek": "καὶ προσκαλεσάμενος ἕνα τῶν παίδων ἐπυνθάνετο τί ἂν εἴη ταῦτα·",
+          "attestation": "restored"
+        },
+        {
+          "verse": 27,
+          "canonical_ref": "Luke 15:27",
+          "english": "He said to him, 'Your brother has come, and your father has killed the fattened calf, because he has received him back safe and sound.'",
+          "greek": "ὁ δὲ εἶπεν αὐτῷ ὅτι Ὁ ἀδελφός σου ἥκει, καὶ ἔθυσεν ὁ πατήρ σου τὸν μόσχον τὸν σιτευτόν, ὅτι ὑγιαίνοντα αὐτὸν ἀπέλαβεν.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 28,
+          "canonical_ref": "Luke 15:28",
+          "english": "But he was angry and would not go in. His father came out and began to plead with him.",
+          "greek": "ὠργίσθη δὲ καὶ οὐκ ἤθελεν εἰσελθεῖν. ὁ δὲ πατὴρ αὐτοῦ ἐξελθὼν παρεκάλει αὐτόν.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 29,
+          "canonical_ref": "Luke 15:29",
+          "english": "But he answered his father, 'Look, all these years I have been serving you, and I have never disobeyed your command; yet you have never given me a young goat so that I might celebrate with my friends.",
+          "greek": "ὁ δὲ ἀποκριθεὶς εἶπεν τῷ πατρὶ αὐτοῦ· Ἰδοὺ τοσαῦτα ἔτη δουλεύω σοι καὶ οὐδέποτε ἐντολήν σου παρῆλθον, καὶ ἐμοὶ οὐδέποτε ἔδωκας ἔριφον ἵνα μετὰ τῶν φίλων μου εὐφρανθῶ·",
+          "attestation": "restored"
+        },
+        {
+          "verse": 30,
+          "canonical_ref": "Luke 15:30",
+          "english": "But when this son of yours came, who has devoured your living with prostitutes, you killed the fattened calf for him!'",
+          "greek": "ὅτε δὲ ὁ υἱός σου οὗτος ὁ καταφαγών σου τὸν βίον μετὰ πορνῶν ἦλθεν, ἔθυσας αὐτῷ τὸν σιτευτὸν μόσχον.",
+          "attestation": "restored"
+        },
+        {
+          "verse": 31,
+          "canonical_ref": "Luke 15:31",
+          "english": "And he said to him, 'Child, you are always with me, and all that is mine is yours.",
+          "greek": "ὁ δὲ εἶπεν αὐτῷ· Τέκνον, σὺ πάντοτε μετ’ ἐμοῦ εἶ, καὶ πάντα τὰ ἐμὰ σά ἐστιν·",
+          "attestation": "restored"
+        },
+        {
+          "verse": 32,
+          "canonical_ref": "Luke 15:32",
+          "english": "But it was right to celebrate and rejoice, because this brother of yours was dead and has come to life; he was lost and is found.'\"",
+          "greek": "εὐφρανθῆναι δὲ καὶ χαρῆναι ἔδει, ὅτι ὁ ἀδελφός σου οὗτος νεκρὸς ἦν καὶ ἔζησεν, καὶ ἀπολωλὼς καὶ εὑρέθη.",
+          "attestation": "restored"
         }
       ],
       "notes": [
@@ -3569,17 +3723,17 @@
         },
         {
           "id": 2,
-          "term": "Not printed: 15:11–32",
-          "verse_refs": [10],
-          "category": "excision",
-          "explanation": "Epiphanius, sch. 42: \"again he cut out the whole parable of the two sons, the one who took his share of the property and spent it wastefully, and the other\". Tertullian, after the coin, goes to the two masters (16:13). The parable would have served him: its father receives back a son who left his house, the Creator's own image of repentance. Two witnesses agree that it was not there. \"Cut out\" is Epiphanius' charge; the content of his statement is that the parable was absent."
+          "term": "Restored by method, against Marcion's text: the two sons (15:11–32)",
+          "verse_refs": [2, 7, 10, 17, 18, 20, 23, 24, 28],
+          "category": "textual",
+          "explanation": "Epiphanius, sch. 42: \"again he cut out the whole parable of the two sons, the one who took his share of the property and spent it wastefully, and the other\". Tertullian, after the coin, goes to the two masters (16:13); the parable would have served him. The witnesses agree that it was not in Marcion's text. It is printed as restored by method (METHOD §11), against Marcion's text. By its words: 15:1–2 sets two movements going, the sinners received and the Pharisees and scribes grumbling \"this man welcomes sinners and eats with them\". The sheep and the coin answer the welcoming. Only this parable answers the eating (\"let us eat and celebrate\", 15:23) and the grumblers, in the elder son who \"would not go in\" and is pleaded with (15:28). 15:7 and 15:10 name \"a sinner who repents\", but the sheep and the coin are found and do not repent; the turn itself is shown only here: \"coming to himself… rising, I will go to my father\" (15:17–20). By its mechanics: it is the text's fullest statement of the rising (ἀναστάς) that goes to the father, of the son clothed by the father (ἐνδύσατε, 15:22; cf. 12:22, 12:28, 24:49), and of \"was dead and is alive again\" (cf. \"the Living One\", 24:5). Reading: docs/research/correspondence/word_by_word.md (chapter 13); third_pass.md. The Greek is NA27, checked on the page images (pp. 211–213); at 15:16 NA27 reads χορτασθῆναι ἐκ, \"to be filled with\"."
         },
         {
           "id": 3,
           "term": "Owner and lost",
           "verse_refs": [4, 6, 7],
           "category": "theological",
-          "explanation": "Interpretation. Tertullian's argument, \"no one looks for what he never had\", is aimed at the Marcionite claim that a stranger God redeems humans who were not his. The attested parables themselves say only that the one who lost the sheep or coin is the one who looks for it and rejoices. The Prodigal Son, which carries the theme of return most fully in canonical Luke, is absent here; in this text the theme rests on the two short parables alone."
+          "explanation": "Interpretation. Tertullian's argument, \"no one looks for what he never had\", is aimed at the Marcionite claim that a stranger God redeems humans who were not his. The attested parables themselves say only that the one who lost the sheep or coin is the one who looks for it and rejoices. The two sons, absent from Marcion's copy and printed here by method, carries the theme of return from the side of the one who returns: the own asks for its share, scatters it, comes to itself, rises and goes to the father, and is met while still far off."
         }
       ]
     },

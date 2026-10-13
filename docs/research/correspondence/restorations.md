@@ -63,3 +63,7 @@ NA27 prints 22:43–44 and 23:34a in double brackets, outside its text. They con
 ## 5. Second pass
 
 The reading was run again on the final text (`second_pass.md`). It drops "leans on" as a category, because "the printed line still runs" is a test of the letter. It prints 12:28a, 19:27, 23:13–16 and 23:39–43, and also 18:31–34, to which the restored 24:44–45 points. At 10:21, 18:19 and 21:27 it prints NA27's wording.
+
+## 6. Third pass
+
+Every remaining unprinted passage was re-read by the inner test alone (`third_pass.md`). It prints 15:11–32. The reading is finished.

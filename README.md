@@ -21,17 +21,17 @@ This project reconstructs the gospel read in Marcion's church in the second cent
 
 ## Results in brief
 
-- **Restoration by method.** The printed text was read by correspondence from beginning to end, word by word (`docs/research/correspondence/word_by_word.md`). Where the printed text's own words point to a passage it does not print, or a movement it sets going is not completed without it, the passage is printed as restored by method, in green, with the grounds in the notes (METHOD §11). Passages: 4:17–21, 12:28a, 14:1–11, 18:31–34, 19:27–46, 21:5–6, 22:54–62, 23:13–16, 23:39–43, 24:33–35, 24:44–46, 24:47b–53 (first and second pass: `docs/research/correspondence/restorations.md`, `second_pass.md`). Their class in the apparatus does not change. The same reading tests the adopted Marcionite wordings: at 10:21, 18:19 and 21:27 the attested wording breaks the inner line, and NA27 is printed.
+- **Restoration by method.** The printed text was read by correspondence from beginning to end, word by word (`docs/research/correspondence/word_by_word.md`). Where the printed text's own words point to a passage it does not print, or a movement it sets going is not completed without it, the passage is printed as restored by method, in green, with the grounds in the notes (METHOD §11). Passages: 4:17–21, 12:28a, 14:1–11, 15:11–32, 18:31–34, 19:27–46, 21:5–6, 22:54–62, 23:13–16, 23:39–43, 24:33–35, 24:44–46, 24:47b–53 (three passes: `docs/research/correspondence/restorations.md`, `second_pass.md`, `third_pass.md`). Their class in the apparatus does not change. The same reading tests the adopted Marcionite wordings: at 10:21, 18:19 and 21:27 the attested wording breaks the inner line, and NA27 is printed.
 
 - **Coverage.** Of the 1,017 verses of Luke 3–24:
   - 485 are attested present;
   - 143 attested absent;
   - 44 probably absent;
   - 345 undetermined.
-  The text prints 780 verses: 223 of them in grey, and 72 in green, restored by method (below).
+  The text prints 802 verses: 223 of them in grey, and 94 in green, restored by method (below).
 - **Beginning and end.** The text began at 3:1 + 4:31 (the fifteenth year of Tiberius; Jesus comes down to Capernaum) and had no Luke 1–2. The last verse any witness cites is 24:47; the text is printed to 24:53, with the ending restored by method.
 - **Absent by the witnesses' statements:**
-  - the parable of the two sons (15:11–32);
+  - the parable of the two sons (15:11–32; printed here as restored by method, against Marcion's text);
   - the entry into Jerusalem and the cleansing of the temple (19:29–46; printed here as restored by method, against Marcion's text);
   - the tenants (20:9–17);
   - "Today you will be with me in paradise" (23:43; printed here as restored by method, against Marcion's text).

@@ -156,3 +156,6 @@ A passage that only continues the line is not restored. Neither is one the print
   - "Leans on" is dropped as a category.
   - Printed: 12:28a, 18:31–34, 19:27, 23:13–16 and 23:39–43.
   - NA27 wording printed at 10:21 ("and of the earth"), 18:19 ("God") and 21:27 ("in a cloud with power and great glory").
+- The third re-reads every remaining unprinted passage by the inner test alone (`third_pass.md`).
+  - Printed: 15:11–32.
+  - Every other passage continues the line but completes nothing, and is not printed. With this the reading is finished: the witnesses come first, and the reading is the final pass over what they leave unattested or report absent.

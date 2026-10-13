@@ -682,3 +682,16 @@ The owner's instruction: the correspondential reading, run on the final text, de
   - Notes and preambles of chapters 8, 10, 16, 17, 19 and 21 are rewritten.
 - **Totals.** 780 verses are printed: 223 grey and 72 restored (40 U?, 22 A−, 10 U−). The classes are unchanged.
 - **Left open.** Most first-pass verdicts of "continues, does not close a gap" were reached by the literal "X → Y runs". Only the passages the restored text touches were re-tested. A full third pass by the inner test alone has not been done.
+
+## Restoration by method, third pass (2026-10-13)
+
+Every remaining unprinted passage was re-read at its place in the final text by the inner test alone (`docs/research/correspondence/third_pass.md`). The first-pass "X → Y runs" verdicts were set aside.
+
+- **Printed:** 15:11–32, the two sons. Class A− (Epiphanius, sch. 42); printed against Marcion's text.
+  - The printed 15:2 ("eats with them") and 15:7, 15:10 ("a sinner who repents") are answered only by it.
+  - 15:1–2 sets two parties going, and only the elder son meets the grumblers.
+  - NA27 pp. 211–213. 15:16 reads χορτασθῆναι ἐκ (SBLGNT γεμίσαι τὴν κοιλίαν αὐτοῦ ἀπό).
+  - 15:10's English no longer closes the quotation, since the discourse continues.
+- **Not printed.** Every other passage continues the line but completes nothing. The grounds are given passage by passage in `third_pass.md`.
+- **Totals.** 802 verses are printed: 223 grey and 94 restored. The classes are unchanged.
+- **The reading is finished.** The witnesses decide what is attested. The correspondential reading is the final pass over the unattested and the reported absent.
