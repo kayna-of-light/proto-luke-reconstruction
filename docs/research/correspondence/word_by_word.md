@@ -968,3 +968,390 @@ Growth is the first rising that is not a person's.
 - filling;
 - coming down;
 - passing through.
+
+---
+
+## Chapter 6
+
+*8:26–9:17. Every verse in this range is printed, so there are no tests. Grey verses: 8:26, 8:29, 8:33–41, 8:47, 8:49–56, 9:4, 9:9–11, 9:15.*
+
+### 8:26–27 (8:26 grey)
+
+*Καὶ κατέπλευσαν εἰς τὴν χώραν τῶν Γερασηνῶν, ἥτις ἐστὶν ἀντιπέρα τῆς Γαλιλαίας. ἐξελθόντι δὲ αὐτῷ ἐπὶ τὴν γῆν ὑπήντησεν ἀνήρ τις ἐκ τῆς πόλεως ἔχων δαιμόνια· καὶ χρόνῳ ἱκανῷ οὐκ ἐνεδύσατο ἱμάτιον, καὶ ἐν οἰκίᾳ οὐκ ἔμενεν ἀλλ’ ἐν τοῖς μνήμασιν.*
+
+- **"they sailed down (κατέπλευσαν)"**: they set out by being "led up" (ἀνήχθησαν, 8:22), and they arrive by sailing *down*. The crossing goes up and comes down.
+- **"opposite Galilee"** (ἀντιπέρα): the other side (πέραν) of 8:22, reached. It lies over against the place where the word first came down.
+- **"as he came out onto the earth"** (ἐπὶ τὴν γῆν): the earth of the parable (8:8) and of the house built "on the earth" (6:49).
+- **"a man from the city, having daimons"** (ἔχων): having. *Thread: "whoever has… even what he seems to have" (8:18).* This man "has" what has him.
+- **"for a long time he had not put on a garment"** (ἱμάτιον): a garment is truth clothing the good. *Thread: the old garment and the patch (5:36); "the one who takes your garment" (6:29).* Without truths he is naked.
+- **"and did not remain (ἔμενεν) in a house, but in the tombs"** (μνήμασιν): he has no house, the dwelling of the mind (6:48–49). He lives among the dead. *Thread: "into whatever house you enter, there remain (μένετε)" (9:4).*
+
+### 8:28
+
+*ἰδὼν δὲ τὸν Ἰησοῦν ἀνακράξας προσέπεσεν αὐτῷ καὶ φωνῇ μεγάλῃ εἶπεν· Τί ἐμοὶ καὶ σοί, Ἰησοῦ υἱὲ τοῦ θεοῦ τοῦ ὑψίστου; δέομαί σου, μή με βασανίσῃς·*
+
+- **"crying out, he fell before him"** (ἀνακράξας προσέπεσεν): the cry of the falsity in the assembly (ἀνέκραξεν, 4:33), and falling (8:5–8; 5:8; 5:12).
+- **"What to me and to you"**: the falsity's words of 4:34, repeated exactly.
+- **"Jesus, Son of God the Most High"** (ὑψίστου): the height is named by the falsity. The only other place the text names the Most High is the sonship reached by giving without return (6:35). The falsity knows him as it knew him in 4:34 and 4:41, and names the height to keep him away.
+- **"do not torment me"**: the presence of the Divine is torment to falsity.
+
+### 8:29 (grey)
+
+*παρήγγελλεν γὰρ τῷ πνεύματι τῷ ἀκαθάρτῳ ἐξελθεῖν ἀπὸ τοῦ ἀνθρώπου. πολλοῖς γὰρ χρόνοις συνηρπάκει αὐτόν, καὶ ἐδεσμεύετο ἁλύσεσιν καὶ πέδαις φυλασσόμενος, καὶ διαρρήσσων τὰ δεσμὰ ἠλαύνετο ὑπὸ τοῦ δαιμονίου εἰς τὰς ἐρήμους.*
+
+- **"he was commanding the unclean spirit to come out"**: coming out (4:35; 4:41; 8:2).
+- **"he was bound with chains and fetters, guarded"**: bonds from outside. These are external restraints, a binding laid on him by others.
+- **"and bursting (διαρρήσσων) the bonds"**: διαρρήγνυμι, the verb of the nets that "were bursting" (διερρήσσετο, 5:6). *Thread of bursting:*
+  - the nets (5:6);
+  - the new wine bursting the old skins (ῥήξει, 5:37);
+  - the river bursting on the house (προσέρηξεν, 6:48–49), and the great ruin (ῥῆγμα).
+
+  Here falsity bursts the bonds put on it from outside. External binding does not hold it.
+- **"he was driven by the daimon into the deserts"** (ἐρήμους): the desert is where there is no good and no truth.
+  - He went himself into a desert place (4:42), and withdrew into the deserts to pray (5:16).
+  - This man is driven there.
+  - *Thread: "here we are in a desert place" (9:12), where the crowd is fed.*
+
+### 8:30–31
+
+*Τί σοι ὄνομά ἐστιν; ὁ δὲ εἶπεν· Λεγιών, ὅτι εἰσῆλθεν δαιμόνια πολλὰ εἰς αὐτόν. καὶ παρεκάλουν αὐτὸν ἵνα μὴ ἐπιτάξῃ αὐτοῖς εἰς τὴν ἄβυσσον ἀπελθεῖν.*
+
+- **"What is your name?"**: a name is a quality. The question makes the hidden manifest (8:17).
+- **"Legion, for many daimons had entered into him"**: a multitude, entered from outside. The man has no name of his own; the name he gives is theirs.
+- **"they begged him not to command (ἐπιτάξῃ) them to go away into the abyss"**: command, the verb of 4:36 and 8:25. Falsities and winds obey the same command. The abyss is hell. The falsities know where the command would send them.
+
+### 8:32–33 (8:33 grey)
+
+*Ἦν δὲ ἐκεῖ ἀγέλη χοίρων ἱκανῶν βοσκομένη ἐν τῷ ὄρει· καὶ παρεκάλεσαν αὐτὸν ἵνα ἐπιτρέψῃ αὐτοῖς εἰς ἐκείνους εἰσελθεῖν· καὶ ἐπέτρεψεν αὐτοῖς. ἐξελθόντα δὲ τὰ δαιμόνια ἀπὸ τοῦ ἀνθρώπου εἰσῆλθον εἰς τοὺς χοίρους, καὶ ὥρμησεν ἡ ἀγέλη κατὰ τοῦ κρημνοῦ εἰς τὴν λίμνην καὶ ἀπεπνίγη.*
+
+- **"a herd of swine feeding on the mountain"** (ἐν τῷ ὄρει): swine are filthy and avaricious loves (?).
+  - *Thread of the mountain:* Nazareth's city was built on the brow of the hill (τοῦ ὄρους, 4:29); he went out to the mountain to pray (6:12).
+  - Here the height is a pasture for swine. A height can be held by prayer, or grazed by the lowest loves.
+- **"he permitted them"** (ἐπέτρεψεν): permission. Falsity goes where it belongs: out of the man and into the loves that match it.
+- **"the herd rushed down the cliff (κατὰ τοῦ κρημνοῦ) into the lake"**: κρημνός, the cliff. *This is the word of Nazareth's intent: "to cast him down the cliff" (κατακρημνίσαι, 4:29), the only other place it occurs.* The downward fall that the own meant for him happens to the falsities and the swine. He passed through the midst (4:30); they go down.
+- **"and was choked"** (ἀπεπνίγη): *thread of choking:*
+  - the thorns choked the seed (ἀπέπνιξαν, 8:7);
+  - the swine are choked in the lake;
+  - the crowds choke him (συνέπνιγον, 8:42).
+- **The lake:** it was the lake where the disciples cried "we are perishing" (8:24); there wind and water obeyed him. Here the swine perish in it.
+
+### 8:34–36 (grey)
+
+*Ἰδόντες δὲ οἱ βόσκοντες τὸ γεγονὸς ἔφυγον… ἐξῆλθον δὲ ἰδεῖν τὸ γεγονὸς καὶ ἦλθον πρὸς τὸν Ἰησοῦν, καὶ εὗρον καθήμενον τὸν ἄνθρωπον ἀφ’ οὗ τὰ δαιμόνια ἐξῆλθεν ἱματισμένον καὶ σωφρονοῦντα παρὰ τοὺς πόδας τοῦ Ἰησοῦ, καὶ ἐφοβήθησαν. ἀπήγγειλαν δὲ αὐτοῖς οἱ ἰδόντες πῶς ἐσώθη ὁ δαιμονισθείς.*
+
+- **"those feeding them fled"**: whatever fed the swine flees.
+- **"they found the man sitting, clothed, and of sound mind"**: three states replace three:
+  - **sitting** replaces being driven into the deserts;
+  - **clothed** (ἱματισμένον) replaces having no garment: truths put on;
+  - **of sound mind** (σωφρονοῦντα) replaces being seized: the understanding is his own again.
+- **"at the feet of Jesus"**: the place of the woman who stood behind at his feet (7:38). The lowest place is the place of the restored.
+- **"how the one possessed by daimons was saved"** (ἐσώθη): saving. *Thread: "to save a soul" (6:9); "your faith has saved you" (7:50).*
+
+### 8:37 (grey)
+
+*καὶ ἠρώτησεν αὐτὸν ἅπαν τὸ πλῆθος τῆς περιχώρου τῶν Γερασηνῶν ἀπελθεῖν ἀπ’ αὐτῶν, ὅτι φόβῳ μεγάλῳ συνείχοντο· αὐτὸς δὲ ἐμβὰς εἰς πλοῖον ὑπέστρεψεν.*
+
+- **"they asked him to go away from them"** (ἀπελθεῖν ἀπ’ αὐτῶν): the daimons asked not to "go away" (ἀπελθεῖν) into the abyss (8:31). The region asks the Divine to go away from it.
+  - This is Simon's "go out from me" (5:8) said by a whole region.
+  - Simon said it at his knees and was kept. The region says it out of fear, and he goes.
+- **"they were held fast by great fear"** (φόβῳ μεγάλῳ συνείχοντο): συνέχω.
+  - *These are the words of the left-out 4:38: Simon's mother-in-law "was held fast by a great fever" (συνεχομένη πυρετῷ μεγάλῳ).*
+  - Fever there and fear here hold the same way. The fever was rebuked and let go (4:39); the fear is not.
+  - *Thread: "the crowds hold you fast" (συνέχουσιν, 8:45).*
+- **"getting into the boat, he returned"** (ὑπέστρεψεν): returning. *Thread of returning (ὑποστρέφω):* 7:10, 8:39, 8:40, 9:10, then 17:18, 19:12, 23:56, 24:9.
+
+### 8:38–39 (grey)
+
+*ἐδεῖτο δὲ αὐτοῦ ὁ ἀνὴρ… εἶναι σὺν αὐτῷ· ἀπέλυσεν δὲ αὐτὸν λέγων· Ὑπόστρεφε εἰς τὸν οἶκόν σου, καὶ διηγοῦ ὅσα σοι ἐποίησεν ὁ θεός. καὶ ἀπῆλθεν καθ’ ὅλην τὴν πόλιν κηρύσσων ὅσα ἐποίησεν αὐτῷ ὁ Ἰησοῦς.*
+
+- **"to be with him"** (σὺν αὐτῷ): the twelve and the women were "with him" (8:1).
+- **"Return to your house"**: the man who "did not remain in a house" (8:27) is sent to his house. The restored state goes back to its own dwelling instead of following. It is not taken along on the road.
+- **"recount what God did for you"** → **"proclaiming (κηρύσσων) through the whole city what Jesus did for him"**:
+  - He is told "God"; he proclaims "Jesus". The text sets the two side by side without comment.
+  - κηρύσσω is his own verb (4:44; 8:1). The one freed from Legion proclaims as he does.
+
+### 8:40–42 (8:40–41 grey)
+
+*Ἐν δὲ τῷ ὑποστρέφειν τὸν Ἰησοῦν ἀπεδέξατο αὐτὸν ὁ ὄχλος, ἦσαν γὰρ πάντες προσδοκῶντες αὐτόν. καὶ ἰδοὺ ἦλθεν ἀνὴρ ᾧ ὄνομα Ἰάϊρος, καὶ οὗτος ἄρχων τῆς συναγωγῆς ὑπῆρχεν, καὶ πεσὼν παρὰ τοὺς πόδας τοῦ Ἰησοῦ παρεκάλει αὐτὸν εἰσελθεῖν εἰς τὸν οἶκον αὐτοῦ, ὅτι θυγάτηρ μονογενὴς ἦν αὐτῷ ὡς ἐτῶν δώδεκα καὶ αὐτὴ ἀπέθνῃσκεν. Ἐν δὲ τῷ ὑπάγειν αὐτὸν οἱ ὄχλοι συνέπνιγον αὐτόν.*
+
+- **"the crowd welcomed (ἀπεδέξατο) him"**: reception.
+  - Nazareth would not receive him (οὐδεὶς προφήτης δεκτός, 4:24); Levi made a reception (δοχή, 5:29).
+  - On this side of the lake he is received. *The same verb returns in 9:11 with him as subject.*
+- **"for all were expecting (προσδοκῶντες) him"**: John's question, "or do we expect (προσδοκῶμεν) another?" (7:19–20). Here they expect him.
+- **"a ruler of the synagogue"** (ἄρχων τῆς συναγωγῆς):
+  - The first ruler who comes to him. The rulers of 3:1 were only named.
+  - The synagogue is the assembly where the falsity cried out (4:33).
+  - He falls at the feet, the place of 7:38 and 8:35.
+- **"to come into his house"**: the centurion, "I am not worthy that you come under my roof" (7:6).
+- **"an only-begotten (μονογενὴς) daughter, about twelve years, and she was dying"**:
+  - μονογενής is the word of the widow's only son (7:12). The only one that is left, at the point of death.
+  - A daughter is the affection of truth in the church (?).
+  - Twelve is all, the whole.
+- **"the crowds were choking him"** (συνέπνιγον): choking (8:7; 8:33). The thorns choked the seed. Now the press of the crowd chokes the word on its way.
+
+### 8:43–44
+
+*καὶ γυνὴ οὖσα ἐν ῥύσει αἵματος ἀπὸ ἐτῶν δώδεκα, ἥτις ἰατροῖς προσαναλώσασα ὅλον τὸν βίον οὐκ ἴσχυσεν ἀπ’ οὐδενὸς θεραπευθῆναι, προσελθοῦσα ὄπισθεν ἥψατο τοῦ κρασπέδου τοῦ ἱματίου αὐτοῦ, καὶ παραχρῆμα ἔστη ἡ ῥύσις τοῦ αἵματος αὐτῆς.*
+
+- **"a woman in a flow of blood for twelve years"**: blood is truth. A flow of blood is truth running out and not held (?). Twelve years again: the same span as the daughter's whole life.
+- **"having spent her whole living (βίον) on physicians"** (ἰατροῖς): physicians.
+  - "Physician, heal yourself" (4:23); "those who are well have no need of a physician" (5:31).
+  - Physicians other than him take her whole living and cannot heal.
+- **"from behind"** (ὄπισθεν): the woman "stood behind" (ὀπίσω, 7:38).
+- **"she touched the fringe of his garment"** (κρασπέδου τοῦ ἱματίου): the garment, the truth that clothes. Its fringe is the outermost part, the ultimate. She reaches the Divine at its outermost, and that is enough.
+- **"at once the flow of her blood stood"** (ἔστη): standing.
+  - *Thread: "rise and stand (στῆθι) into the midst… and rising he stood (ἔστη)" (6:8); the house that was not shaken (6:48).*
+  - What was running out stands.
+
+### 8:45–46
+
+*Τίς μου ἥψατο; ἀρνουμένων δὲ πάντων εἶπεν ὁ Πέτρος· Ἐπιστάτα, οἱ ὄχλοι συνέχουσίν σε καὶ ἀποθλίβουσιν. ὁ δὲ Ἰησοῦς εἶπεν· Ἥψατό μού τις, ἐγὼ γὰρ ἔγνων δύναμιν ἐξεληλυθυῖαν ἀπ’ ἐμοῦ.*
+
+- **"Who touched me?"**: touching (5:13, he touched the leper; 6:19, all sought to touch him; 7:14, he touched the bier; 7:39, "who is this who touches him").
+- **"all denying"** (ἀρνουμένων): the first denial. *Thread: "let him deny (ἀρνησάσθω) himself" (9:23); "whoever denies me" (12:9); "you will deny me three times" (22:34).*
+- **"Peter said: Master, the crowds hold you fast and press you"**: faith says the press is touching. It does not tell crowding from touching.
+- **"I knew power (δύναμιν) gone out (ἐξεληλυθυῖαν) from me"**:
+  - Coming out, now said of power.
+  - Daimons go out of a person (4:35; 8:2; 8:33); power goes out of the Divine (6:19: "power went out from him and healed all").
+  - He knows the difference between crowding and touching.
+
+### 8:47–48 (8:47 grey)
+
+*ἰδοῦσα δὲ ἡ γυνὴ ὅτι οὐκ ἔλαθεν τρέμουσα ἦλθεν καὶ προσπεσοῦσα αὐτῷ… ἀπήγγειλεν ἐνώπιον παντὸς τοῦ λαοῦ… ὁ δὲ εἶπεν αὐτῇ· Θυγάτηρ, ἡ πίστις σου σέσωκέν σε· πορεύου εἰς εἰρήνην.*
+
+- **"seeing that she was not hidden"** (οὐκ ἔλαθεν): "nothing hidden that will not be made manifest" (8:17). The law of the lamp, applied to one woman.
+- **"trembling, she fell before him and declared before all the people"**: falling; the hidden made manifest.
+- **"Daughter"**: the woman of twelve years of flowing is named a daughter, as the girl of twelve years is a daughter.
+- **"your faith has saved you; go into peace"**: the words to the sinful woman (7:50), word for word. The two women at the feet are given one sentence.
+
+### 8:49–50 (grey)
+
+*Τέθνηκεν ἡ θυγάτηρ σου, μηκέτι σκύλλε τὸν διδάσκαλον. ὁ δὲ Ἰησοῦς ἀκούσας ἀπεκρίθη αὐτῷ· Μὴ φοβοῦ, μόνον πίστευσον, καὶ σωθήσεται.*
+
+- **"do not trouble (σκύλλε) the teacher any more"**: the centurion's "do not trouble yourself" (μὴ σκύλλου, 7:6). There it was humility; here it is giving up.
+- **"Do not fear; only believe, and she will be saved"**: fear.
+  - *Thread:* "do not fear" to Simon (5:10); the disciples feared (8:25); the Gerasenes feared (8:35, 8:37); the woman trembled (8:47).
+  - Fear is turned into believing. Saving: the word given to the woman (8:48) is promised for the daughter.
+
+### 8:51–53 (grey)
+
+*ἐλθὼν δὲ εἰς τὴν οἰκίαν οὐκ ἀφῆκεν εἰσελθεῖν τινα σὺν αὐτῷ εἰ μὴ Πέτρον καὶ Ἰωάννην καὶ Ἰάκωβον καὶ τὸν πατέρα τῆς παιδὸς καὶ τὴν μητέρα. ἔκλαιον δὲ πάντες… Μὴ κλαίετε, οὐ γὰρ ἀπέθανεν ἀλλὰ καθεύδει. καὶ κατεγέλων αὐτοῦ, εἰδότες ὅτι ἀπέθανεν.*
+
+- **"he let no one go in with him except Peter and John and James, and the father and mother"**:
+  - The first time three are taken apart: faith, the goods of charity (works), charity.
+  - With them go the father and mother of the child, the good and the truth (?) from which the affection was born.
+  - Into the inmost room only these go in.
+- **"Do not weep"**: the word to the widow at Nain (μὴ κλαῖε, 7:13).
+- **"she did not die, but sleeps"** (καθεύδει): he slept in the boat (ἀφύπνωσεν, 8:23) and was raised. What looks like death is sleep.
+- **"they laughed him down"** (κατεγέλων): laughing, with "down" (κατα-).
+  - "Blessed who weep now, for you will laugh" (6:21); "woe to you who laugh now" (6:25).
+  - Those who weep (ἔκλαιον) turn to laughing down.
+- **"knowing (εἰδότες) that she had died"**: knowing.
+  - The falsity "knew" him (οἶδα, 4:34; 4:41).
+  - The knowing that holds to what appears laughs at what it cannot see.
+
+### 8:54–56 (grey)
+
+*αὐτὸς δὲ κρατήσας τῆς χειρὸς αὐτῆς ἐφώνησεν λέγων· Ἡ παῖς, ἔγειρε. καὶ ἐπέστρεψεν τὸ πνεῦμα αὐτῆς, καὶ ἀνέστη παραχρῆμα, καὶ διέταξεν αὐτῇ δοθῆναι φαγεῖν. καὶ ἐξέστησαν οἱ γονεῖς αὐτῆς· ὁ δὲ παρήγγειλεν αὐτοῖς μηδενὶ εἰπεῖν τὸ γεγονός.*
+
+- **"taking hold of her hand"** (χειρὸς): the hand is power.
+  - *Thread:* the hand stretched out to the leper (5:13); the dry right hand, stretched out (6:6–10).
+  - He takes the hand, the power to act.
+- **"he called out (ἐφώνησεν)"**: the calling of 8:8, "he who has ears to hear".
+- **"Child, rise"** (ἔγειρε): rising. It has been said:
+  - to the paralysed man (5:23–24);
+  - to the man with the dry hand (6:8);
+  - to the dead young man (7:14);
+  - and of him, raised from sleep (8:24).
+- **"her spirit returned (ἐπέστρεψεν)"**: turning back. The spirit returns as he returned (8:37, 8:40).
+- **"she rose up at once"** (ἀνέστη): ἀνίστημι, the second rising verb. *Thread:* "rising (ἀναστάς), he stood" (6:8); Levi "rising, followed" (5:28).
+- **"he ordered that she be given to eat"** (δοθῆναι φαγεῖν): *these are the words of 9:13: "you give them to eat" (δότε αὐτοῖς ὑμεῖς φαγεῖν).* The one who has been raised is fed. Then the crowd is fed.
+- **"tell no one what has happened"**: the leper (5:14).
+
+### 9:1–2
+
+*Συγκαλεσάμενος δὲ τοὺς δώδεκα ἔδωκεν αὐτοῖς δύναμιν καὶ ἐξουσίαν ἐπὶ πάντα τὰ δαιμόνια καὶ νόσους θεραπεύειν, καὶ ἀπέστειλεν αὐτοὺς κηρύσσειν τὴν βασιλείαν τοῦ θεοῦ καὶ ἰᾶσθαι,*
+
+- **"he gave them power and authority over all the daimons"**:
+  - The power that went out from him (8:46) is now given.
+  - "Authority and power" were the words the assembly used of his command (ἐν ἐξουσίᾳ καὶ δυνάμει, 4:36).
+  - What was his alone is given to all the principles (the twelve).
+- **"he sent (ἀπέστειλεν) them to proclaim"**:
+  - "for this I was sent (ἀπεστάλην)" (4:43). The one sent sends.
+  - κηρύσσειν, his own verb, given to them as it was taken up by the man from Legion (8:39).
+
+### 9:3–5 (9:4 grey)
+
+*Μηδὲν αἴρετε εἰς τὴν ὁδόν, μήτε ῥάβδον μήτε πήραν μήτε ἄρτον μήτε ἀργύριον, μήτε ἀνὰ δύο χιτῶνας ἔχειν. καὶ εἰς ἣν ἂν οἰκίαν εἰσέλθητε, ἐκεῖ μένετε καὶ ἐκεῖθεν ἐξέρχεσθε. καὶ ὅσοι ἂν μὴ δέχωνται ὑμᾶς, ἐξερχόμενοι ἀπὸ τῆς πόλεως ἐκείνης τὸν κονιορτὸν ἀπὸ τῶν ποδῶν ὑμῶν ἀποτινάσσετε εἰς μαρτύριον ἐπ’ αὐτούς.*
+
+- **"take (αἴρετε) nothing for the way (εἰς τὴν ὁδόν)"**: taking and the way.
+  - "Even what he seems to have will be taken (ἀρθήσεται)" (8:18). On the way, nothing of one's own is taken.
+  - No staff (one's own power to lean on), no bag, no bread, no silver: no good or truth of one's own provision.
+  - Not two tunics (χιτῶνας): "from the one who takes your garment, do not hold back the tunic" (6:29).
+  - The road is walked with nothing one has.
+- **"there remain (μένετε)"**: the Gerasene "did not remain in a house" (8:27).
+- **"whoever does not receive (δέχωνται) you"**: reception (4:24; 5:29; 8:40).
+- **"shake off the dust from your feet as a testimony (εἰς μαρτύριον)"**:
+  - Feet are the natural, the lowest.
+  - Dust is the damned, what is dead in the natural (?). What has not received is shaken off and not carried.
+  - "As a testimony to them": the leper's offering (5:14).
+
+### 9:6
+
+*ἐξερχόμενοι δὲ διήρχοντο κατὰ τὰς κώμας εὐαγγελιζόμενοι καὶ θεραπεύοντες πανταχοῦ.*
+
+- **"they passed through (διήρχοντο) the villages"**: passing through (4:30; 8:22). They now do what he did.
+
+### 9:7–9 (9:9 grey)
+
+*Ἤκουσεν δὲ Ἡρῴδης ὁ τετραάρχης τὰ γινόμενα πάντα, καὶ διηπόρει διὰ τὸ λέγεσθαι ὑπό τινων ὅτι Ἰωάννης ἠγέρθη ἐκ νεκρῶν, ὑπό τινων δὲ ὅτι Ἠλίας ἐφάνη, ἄλλων δὲ ὅτι προφήτης τις τῶν ἀρχαίων ἀνέστη. εἶπεν δὲ ὁ Ἡρῴδης· Ἰωάννην ἐγὼ ἀπεκεφάλισα· τίς δέ ἐστιν οὗτος περὶ οὗ ἀκούω τοιαῦτα; καὶ ἐζήτει ἰδεῖν αὐτόν.*
+
+- **"Herod the tetrarch heard"**: the ruler of 3:1, the ruler of the natural, hears. The first ruler of the opening returns.
+- **"he was perplexed"** (διηπόρει): with no way through (ἀ-πορία). He cannot pass through.
+- **"John was raised (ἠγέρθη) from the dead… Elijah appeared (ἐφάνη)… a prophet of the ancients rose (ἀνέστη)"**:
+  - Both rising verbs, ἐγείρω and ἀνίστημι, are put in the mouths of rumour.
+  - "Raised from the dead" (ἐκ νεκρῶν) is here for the first time in the text, as opinion, and of the wrong person.
+  - ἠγέρθη is the people's word at Nain (7:16) and the word of the end (24:6).
+  - The ruler of the natural hears of rising and thinks of the past returning.
+- **"John I beheaded"**: the head is the inmost and highest. The natural ruler cuts off the head of the one who prepared the way (7:27).
+- **"who is this?"**: the question of the scribes (5:21), of the guests (7:49), and of the disciples (8:25), now asked by the ruler.
+- **"and he sought to see him"** (ἐζήτει ἰδεῖν αὐτόν):
+  - The mother and brothers "wanting to see you" stood outside (8:20).
+  - *Thread: "Herod… had long been wanting to see him (ἰδεῖν αὐτόν)" (23:8).* The desire comes back at the end.
+
+### 9:10–11 (grey)
+
+*Καὶ ὑποστρέψαντες οἱ ἀπόστολοι διηγήσαντο αὐτῷ ὅσα ἐποίησαν. καὶ παραλαβὼν αὐτοὺς ὑπεχώρησεν κατ’ ἰδίαν εἰς πόλιν καλουμένην Βηθσαϊδά. οἱ δὲ ὄχλοι γνόντες ἠκολούθησαν αὐτῷ· καὶ ἀποδεξάμενος αὐτοὺς ἐλάλει αὐτοῖς περὶ τῆς βασιλείας τοῦ θεοῦ, καὶ τοὺς χρείαν ἔχοντας θεραπείας ἰᾶτο.*
+
+- **"returning, the apostles recounted (διηγήσαντο) what they had done"**: returning; recounting (διηγοῦ, 8:39).
+- **"he withdrew privately to a city called Bethsaida"**: a withdrawal apart (5:16). Bethsaida is "house of fishing" (?), which recalls the catch of 5:1–11.
+- **"the crowds followed (ἠκολούθησαν)"**: following (5:11; 5:27–28).
+- **"welcoming (ἀποδεξάμενος) them"**: *the crowd welcomed him (ἀπεδέξατο, 8:40); now he welcomes them.* Reception goes both ways.
+- **"those who had need (χρείαν ἔχοντας) of healing"**: "not those who are well have need of a physician, but those who are sick" (5:31). Need is the condition for healing.
+
+### 9:12
+
+*Ἡ δὲ ἡμέρα ἤρξατο κλίνειν· προσελθόντες δὲ οἱ δώδεκα εἶπαν αὐτῷ· Ἀπόλυσον τὸν ὄχλον, ἵνα πορευθέντες εἰς τὰς κύκλῳ κώμας καὶ ἀγροὺς καταλύσωσιν καὶ εὕρωσιν ἐπισιτισμόν, ὅτι ὧδε ἐν ἐρήμῳ τόπῳ ἐσμέν.*
+
+- **"the day began to decline (κλίνειν)"**: the day declining is a state drawing toward its end; evening.
+  - *Thread of κλίνω:*
+    - the bed (κλίνη) of the paralysed man (5:18), let down "with the little bed" (κλινιδίῳ, 5:19), and taken up;
+    - the lamp not put under a bed (8:16);
+    - here the day declines, and the crowd is made to recline (κατακλίνατε, 9:14).
+  - *Forward:* "the Son of Man has nowhere to lay (κλίνῃ) his head" (9:58); "when he had reclined (κατακλιθῆναι) with them, taking the bread he blessed and broke" (24:30); the women "bowing (κλινουσῶν) their faces to the earth" (24:5).
+- **"send the crowd away, that going (πορευθέντες) they may lodge (καταλύσωσιν)"**: lodging.
+  - *Thread:* "he has gone in to lodge (καταλῦσαι) with a sinful man" (19:7); "where is the guest room (κατάλυμα) where I may eat the Passover?" (22:11).
+  - The twelve would send them elsewhere to lodge and eat.
+- **"for here we are in a desert place (ἐν ἐρήμῳ τόπῳ)"**: the desert of 4:42 (where the crowds held him back), and of 8:29 (where Legion drove the man). It is the place with no provision. Here they are fed.
+
+### 9:13–14
+
+*Δότε αὐτοῖς ὑμεῖς φαγεῖν. οἱ δὲ εἶπαν· Οὐκ εἰσὶν ἡμῖν πλεῖον ἢ ἄρτοι πέντε καὶ ἰχθύες δύο, εἰ μήτι πορευθέντες ἡμεῖς ἀγοράσωμεν εἰς πάντα τὸν λαὸν τοῦτον βρώματα. ἦσαν γὰρ ὡσεὶ ἄνδρες πεντακισχίλιοι. εἶπεν δὲ πρὸς τοὺς μαθητὰς αὐτοῦ· Κατακλίνατε αὐτοὺς κλισίας ὡσεὶ ἀνὰ πεντήκοντα.*
+
+- **"You give them to eat"**: the girl's "to be given to eat" (8:55). Giving (6:30; 6:38: "give, and it will be given to you").
+- **"we have no more than five loaves and two fish"**:
+  - Bread is good. Fish are truths of the natural, the knowledges the fishermen were drawn from (5:6–10).
+  - Five is a few, what is left (remains) (?). Two is conjunction (?).
+  - What the disciples have is little.
+- **"unless we go (πορευθέντες) and buy (ἀγοράσωμεν) food"**: buying is acquiring for oneself, making something one's own by payment. The disciples think of the road (πορεύομαι) as a way to buy. He says give.
+- **"make them recline in companies of about fifty"**: reclining (κλίνω). The declining day, the crowd laid down.
+
+### 9:15–16 (9:15 grey)
+
+*καὶ ἐποίησαν οὕτως καὶ κατέκλιναν ἅπαντας. λαβὼν δὲ τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν ἐπ’ αὐτοὺς καὶ κατέκλασεν καὶ ἐδίδου τοῖς μαθηταῖς παραθεῖναι τῷ ὄχλῳ.*
+
+- **"looking up into heaven"** (ἀναβλέψας εἰς τὸν οὐρανόν):
+  - *Thread of looking up:* "the blind look up (ἀναβλέπουσιν)" (7:22). He lifted his eyes onto the disciples (ἐπάρας τοὺς ὀφθαλμούς, 6:20).
+  - Here, for the first time, he looks up into heaven.
+  - *Forward:* the blind man, "Lord, that I may look up" (ἀναβλέψω, 18:41–42); "Jesus, looking up (ἀναβλέψας), saw" Zacchaeus in the tree (19:5).
+- **"he blessed them"** (εὐλόγησεν): "bless those who curse you" (6:28). *Forward: 24:30, the same three acts at Emmaus.*
+- **"and broke them down"** (κατέκλασεν): down (κατα-). The bread is broken down so that it can be given. *Forward:* "he broke (ἔκλασεν) and gave… this is my body given (διδόμενον) for you" (22:19); "breaking (κλάσας), he gave to them" (24:30).
+- **"and gave to the disciples to set before the crowd"**: what he gives passes through the principles to the many.
+
+### 9:17
+
+*καὶ ἔφαγον καὶ ἐχορτάσθησαν πάντες, καὶ ἤρθη τὸ περισσεῦσαν αὐτοῖς κλασμάτων κόφινοι δώδεκα.*
+
+- **"all were filled"** (ἐχορτάσθησαν): "blessed who hunger now, for you will be filled (χορτασθήσεσθε)" (6:21). The first beatitude to be kept in the letter.
+- **"what was over (τὸ περισσεῦσαν)"**:
+  - The overflow: "out of the overflow (περισσεύματος) of the heart the mouth speaks" (6:45).
+  - The measure "running over" (ὑπερεκχυννόμενον, 6:38).
+  - Giving produces surplus.
+- **"was taken up"** (ἤρθη): αἴρω, the taking verb.
+  - The devil takes the word (8:12, test); what one seems to have is taken (8:18); "take nothing for the way" (9:3).
+  - Now what is left over from giving is taken up.
+  - Taking from the one who holds is loss. Taking up the overflow of what was given is gathering.
+- **"twelve baskets of fragments"** (κλασμάτων, from κλάω, the breaking): twelve, the whole.
+  - What is broken and given comes back as a whole.
+  - The twelve to whom power was given (9:1) and the twelve baskets.
+
+### What came out of the reading of chapter 6
+
+**The cliff.** The fall down the cliff that Nazareth meant for him (κατακρημνίσαι, 4:29) takes place here, and only here: the herd that the falsities entered rushes down the cliff (κατὰ τοῦ κρημνοῦ, 8:33). He passed through the midst; what is cast down is what belongs below. Swine graze on the mountain (8:32), the same word as Nazareth's hill and his place of prayer. A height can be grazed.
+
+**Bonds from outside do not hold.** The man possessed bursts chains and fetters (διαρρήσσων, the bursting of nets and skins and houses). Only the command (ἐπιτάσσω, 4:36; 8:25; 8:31) frees him.
+
+**What replaces possession.** He is then sitting, clothed, of sound mind, at the feet (8:35). He wants to go with him, but is sent back to his house. He proclaims (κηρύσσω, the Divine's own verb). The restored state goes home; it is not made to walk the road.
+
+**Reception becomes mutual.** The crowd welcomes him (ἀπεδέξατο, 8:40); he welcomes them (ἀποδεξάμενος, 9:11). Nazareth did not receive (4:24). Whoever does not receive the twelve is shaken off like dust (9:5).
+
+**Two daughters of twelve.**
+- One is an only daughter, dying. The other is a woman whose truth has run out for twelve years.
+- The press of crowds chokes him (the thorns' verb, 8:7, 8:33, 8:42).
+- The woman reaches the outermost fringe; what was running out stands (ἔστη).
+- Power goes out of him (as daimons go out of people). Nothing is hidden.
+- "Daughter, your faith has saved you; go into peace": the words to the sinful woman (7:50).
+- The girl: faith, works and charity alone go in with the father and mother. "Do not weep." Death is sleep, as his own sleep in the boat was. Those who know (εἰδότες) laugh him down.
+- "Child, rise": the spirit returns, she stands up, and she is given to eat.
+
+**Fear turns to believing.** The Gerasenes, held fast by great fear (συνείχοντο, the fever verb of the left-out 4:38), ask him to go away. The woman trembles and tells. To Jairus: "do not fear, only believe".
+
+**What was his is given.** The power that went out from him (8:46) is given to the twelve (9:1). His sending (4:43) becomes theirs (9:2), and so does his proclaiming. The road is walked taking nothing one has (9:3: αἴρω, the verb of 8:18).
+
+**The ruler of the natural hears of rising.** Herod hears "raised from the dead" and "rose" — both rising verbs, for the first time with "from the dead" — and takes them as the past coming back. He beheaded the one who prepared the way. He asks "who is this?", and seeks to see him (→ 23:8).
+
+**The feeding.**
+- The day declines (κλίνω) and the crowd is made to lie down (κατακλίνω), the family of the bed.
+- In the desert, the twelve propose to buy. He says "you give".
+- He looks up into heaven, the first time he does. He blesses, breaks down, and gives through the disciples. All are filled (6:21 kept).
+- The overflow is taken up (αἴρω reversed), twelve baskets of the broken.
+- The four acts — reclining, taking bread, blessing, breaking and giving — return at 24:30. The words "given" and "broke" return at 22:19.
+
+**Movement in this chapter:**
+- Led up to cross, sailed down to arrive. Falsity driven down the cliff.
+- A girl raised (ἔγειρε, ἀνέστη). A woman's flow made to stand.
+- The Divine looks up into heaven. The overflow is taken up.
+- What is raised in this chapter is raised by him, and then it is fed.
+
+### Threads, carried forward and added
+
+- rising (ἐγείρω, ἀνίστημι), now with "from the dead" in rumour;
+- the cliff (κρημνός), 4:29 and 8:33;
+- the mountain: hill of the own, prayer, pasture of swine (→ 9:28);
+- the desert: 4:42, 5:16, 8:29, 9:12;
+- bursting (ῥήγνυμι);
+- choking (πνίγω);
+- holding fast (συνέχω), with the left-out 4:38;
+- reception (δέχομαι), both ways;
+- returning (ὑποστρέφω);
+- house and remaining (μένω), against the tombs;
+- the garment and its fringe; the tunic;
+- standing (ἵστημι);
+- going out of power and of daimons;
+- touching;
+- denying (ἀρνέομαι, → 9:23, 12:9, 22:34);
+- daughter, only-begotten;
+- sleep and death; weeping and laughing;
+- the hand;
+- giving to eat;
+- taking (αἴρω): loss, nothing for the way, gathering the overflow;
+- the κλίνω family (bed, declining, reclining, laying the head, bowing);
+- looking up (ἀναβλέπω, → 18:41, 19:5);
+- blessing and breaking (→ 22:19, 24:30);
+- filling (χορτάζω);
+- overflow (περισσεύω);
+- buying against giving;
+- lodging (καταλύω, → 19:7, 22:11);
+- Herod seeking to see (→ 23:8);
+- fear and believing;
+- "who is this?".
