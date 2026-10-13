@@ -4114,3 +4114,318 @@ The earlier verdicts were drawn from the letter.
 - crossing;
 - Moses and the prophets, heard (→ 24:27, 24:44, unprinted);
 - rising from the dead as a condition (→ 24:46, unprinted).
+
+---
+
+## Chapter 15
+
+*17:1–37, with 4:27 printed between 17:12 and 17:14, where both witnesses place it. Grey: 17:23–24, 17:27, 17:29–31, 17:33–35, 17:37. Not printed: 17:5–10 (U?; 17:10b A−); 17:12b–13 (A−). Adopted Marcionite wordings: 4:27 at this place, with "in the days of"; 17:21 "Look… or, Look…".*
+
+### 17:1–2
+
+*Ἀνένδεκτόν ἐστιν τοῦ τὰ σκάνδαλα μὴ ἐλθεῖν, πλὴν οὐαὶ δι’ οὗ ἔρχεται· λυσιτελεῖ αὐτῷ εἰ λίθος μυλικὸς περίκειται περὶ τὸν τράχηλον αὐτοῦ καὶ ἔρριπται εἰς τὴν θάλασσαν ἢ ἵνα σκανδαλίσῃ τῶν μικρῶν τούτων ἕνα.*
+
+- **"stumbling blocks (σκάνδαλα) must come"**: "blessed is whoever is not made to stumble (σκανδαλισθῇ) in me" (7:23).
+- **"a millstone around his neck, thrown into the sea"**:
+  - Downward, into the deep: the herd ran down into the lake and was choked (8:33).
+  - The millstone: *"two women grinding (ἀλήθουσαι) together" (17:35).*
+  - The neck: *the father "fell on his neck" (15:20, test).*
+- **"one of these little ones (μικρῶν)"**: "the least among you is great" (9:48); "little flock" (12:32). *Forward: Zacchaeus, "small" (19:3).*
+
+### 17:3–4
+
+*προσέχετε ἑαυτοῖς. ἐὰν ἁμάρτῃ ὁ ἀδελφός σου ἐπιτίμησον αὐτῷ, καὶ ἐὰν μετανοήσῃ ἄφες αὐτῷ· καὶ ἐὰν ἑπτάκις τῆς ἡμέρας ἁμαρτήσῃ εἰς σὲ καὶ ἑπτάκις ἐπιστρέψῃ πρὸς σὲ λέγων· Μετανοῶ, ἀφήσεις αὐτῷ.*
+
+- **"take heed to yourselves (προσέχετε ἑαυτοῖς)"**: *12:1, the leaven. Forward: 21:34, "take heed to yourselves, lest your hearts be weighed down".*
+- **"rebuke (ἐπιτίμησον) him"**: the rebuke is now given to the disciples. It was his against the daimons (4:35, 4:41), the wind (8:24), faith's naming (9:21), and the anger of charity (9:55).
+- **"and if he repents (μετανοήσῃ), let go (ἄφες) to him"**: repenting (15:7, 15:10); letting go (11:4).
+- **"seven times a day… and seven times turns back (ἐπιστρέψῃ) to you"**:
+  - Seven: the whole (8:2).
+  - Turning back (ἐπιστρέφω): the girl's spirit "returned" (8:55). *Forward:* "let him not turn back to the things behind" (17:31); "when you have turned back (ἐπιστρέψας), strengthen your brothers" (22:32).
+  - The turning back is met each time with letting go.
+
+### Test: 17:5–10 (U?; 17:10b A−)
+
+*Καὶ εἶπαν οἱ ἀπόστολοι τῷ κυρίῳ· Πρόσθες ἡμῖν πίστιν. εἶπεν δὲ ὁ κύριος· Εἰ ἔχετε πίστιν ὡς κόκκον σινάπεως, ἐλέγετε ἂν τῇ συκαμίνῳ ταύτῃ· Ἐκριζώθητι καὶ φυτεύθητι ἐν τῇ θαλάσσῃ· καὶ ὑπήκουσεν ἂν ὑμῖν. Τίς δὲ ἐξ ὑμῶν δοῦλον ἔχων ἀροτριῶντα ἢ ποιμαίνοντα, ὃς εἰσελθόντι ἐκ τοῦ ἀγροῦ ἐρεῖ αὐτῷ· Εὐθέως παρελθὼν ἀνάπεσε, ἀλλ’ οὐχὶ ἐρεῖ αὐτῷ· Ἑτοίμασον τί δειπνήσω καὶ περιζωσάμενος διακόνει μοι ἕως φάγω καὶ πίω… οὕτως καὶ ὑμεῖς, ὅταν ποιήσητε πάντα τὰ διαταχθέντα ὑμῖν, λέγετε ὅτι Δοῦλοι ἀχρεῖοί ἐσμεν, ὃ ὠφείλομεν ποιῆσαι πεποιήκαμεν.*
+
+- **"add (πρόσθες) faith to us"**:
+  - *Adding:* no one can "add" a cubit to his stature (12:25); "these things will be added (προστεθήσεται) to you" (12:31). *Forward:* "adding (προσθείς), he told a parable" (19:11).
+  - Faith is asked to be added.
+- **"faith like a grain of mustard seed"**: *the mustard seed that grew into a tree for the birds (13:19).*
+- **"you would say to this mulberry tree, Be uprooted and planted in the sea, and it would obey (ὑπήκουσεν) you"**:
+  - "Hear under": the winds and water "obey" him (8:25).
+  - The sea: the millstone (17:2).
+- **"a servant ploughing (ἀροτριῶντα) or shepherding (ποιμαίνοντα)"**: *the plough (9:62); the shepherd (15:4–6).*
+- **"Come at once and recline (ἀνάπεσε)"**: *the posture of 14:10 (test, "recline in the last place") and 11:37.*
+- **"Prepare (ἑτοίμασον) what I shall dine (δειπνήσω), and girding yourself (περιζωσάμενος), serve (διακόνει) me"**:
+  - *The reverse of 12:37 (printed), where the lord "will gird himself (περιζώσεται), make them recline, and… serve (διακονήσει) them".*
+  - There the lord serves the watchful. Here the servant serves the lord.
+  - Preparing (9:52; 12:20; 14:17). Dining (14:12–24).
+- **"say: We are servants without need (ἀχρεῖοι); we have done what we owed (ὠφείλομεν) to do"** (17:10b, A−):
+  - *ἀ-χρεῖος, "of no need":*
+    - "those who are well have no need (χρείαν) of a physician" (5:31);
+    - "ninety-nine righteous who have no need (χρείαν) of repentance" (15:7).
+  - Owing (11:4; 16:5–7).
+  - The servant claims nothing for what he did. *Against it, the elder son: "so many years I serve you, and never… and you never gave me" (15:29, test). Forward: the Pharisee who thanks God that he is not like other men (18:11–12).*
+
+**Verdict: continues.**
+- Its words are in the threads. It is the other side of 12:37: the lord serves those who watch, and the servant who serves claims no merit.
+- *It joins the line at the point the text keeps returning to: receiving, against claiming as one's own.*
+- 17:4 → 17:11 runs, so it does not close a gap.
+
+### 17:11
+
+*Καὶ ἐγένετο ἐν τῷ πορεύεσθαι εἰς Ἰερουσαλὴμ καὶ αὐτὸς διήρχετο διὰ μέσον Σαμαρείας καὶ Γαλιλαίας.*
+
+- **"as he was going (πορεύεσθαι) to Jerusalem"**:
+  - The road's infinitive (4:42; 9:51).
+  - The first time since 9:53 that the printed text names Jerusalem as the goal.
+- **"he himself was passing through (διήρχετο) through the midst (διὰ μέσον)"**:
+  - *The words of 4:30: "but he himself, passing through (διελθών) through their midst (διὰ μέσου αὐτῶν), went on (ἐπορεύετο)".* The same four elements: he himself, passing through, through the midst, going.
+  - At Nazareth he passed through the midst of those who would cast him down. Here he passes through the midst of Samaria and Galilee.
+  - *The road is marked by the same sentence at its first step and here.*
+- **"Samaria and Galilee"**:
+  - Samaria: it did not receive him because his face was going to Jerusalem (9:52–53). The Samaritan (10:33, test).
+  - Galilee: where the word came down (4:31).
+
+### 17:12 and 4:27
+
+*καὶ εἰσερχομένου αὐτοῦ εἴς τινα κώμην ἀπήντησαν αὐτῷ δέκα λεπροὶ ἄνδρες. πολλοὶ λεπροὶ ἦσαν ἐν τῷ Ἰσραὴλ ἐν ἡμέραις Ἐλισαίου τοῦ προφήτου, καὶ οὐδεὶς αὐτῶν ἐκαθαρίσθη εἰ μὴ Νεεμὰν ὁ Σύρος.*
+
+- **"ten leprous men met him"**:
+  - Ten (15:8). *Forward:* "ten servants… ten minas… ten cities" (19:13–17).
+  - Leprosy is truth profaned, the uncleanness that spreads over the whole (?). The leper "full of leprosy" fell on his face (5:12).
+- **(4:27) "many lepers were in Israel in the days of Elisha the prophet, and none of them was cleansed (ἐκαθαρίσθη) except Naaman the Syrian"**:
+  - Cleansing: the leper (5:12–14); "lepers are cleansed" (7:22); "you cleanse the outside of the cup" (11:39).
+  - *Elisha:* the prophet who followed Elijah. Elijah is named on the mountain (9:30–33) and in the rumours (9:8, 9:19).
+  - *Naaman the Syrian: one foreigner among many. Forward: "this foreigner" (17:18).*
+  - Read in this place, the verse states ahead of time what 17:15–18 will show: of many unclean, the one cleansed and turned is the foreigner.
+  - **Neutral, with the thread.** The placement is the one both witnesses attest. *(At Nazareth, the place NA27 gives it, the printed text runs 4:24 → 4:28. That was read in chapter 1.)*
+
+### Test: 17:12b–13 (A−)
+
+*οἳ ἔστησαν πόρρωθεν, καὶ αὐτοὶ ἦραν φωνὴν λέγοντες· Ἰησοῦ ἐπιστάτα, ἐλέησον ἡμᾶς.*
+
+- **"who stood far off (πόρρωθεν)"**:
+  - "While he was still far off" (15:20, test); the rich man sees "from far off" (16:23).
+  - *Forward: the tax collector "standing far off (μακρόθεν)" (18:13).*
+- **"they lifted up (ἦραν) their voice"**: αἴρω, lifting up.
+- **"Jesus, master (ἐπιστάτα)"**: 5:5; 8:24, 8:45; 9:33.
+- **"have mercy (ἐλέησον) on us"**: the rich man, "Father Abraham, have mercy on me" (16:24). *Forward: the blind man, "son of David, have mercy on me" (18:38–39).*
+
+**Verdict: continues.**
+- Standing far off and crying for mercy is the state the text shows in the printed 16:23–24, 18:13 and 18:38–39.
+- 17:12 → 17:14 runs: "seeing (ἰδών), he said to them". The healing comes unasked, as at Nain (7:13–14) and for the bent woman (13:12). So it does not close a gap.
+
+### 17:14
+
+*καὶ ἰδὼν εἶπεν αὐτοῖς· Πορευθέντες ἐπιδείξατε ἑαυτοὺς τοῖς ἱερεῦσιν. καὶ ἐγένετο ἐν τῷ ὑπάγειν αὐτοὺς ἐκαθαρίσθησαν.*
+
+- **"seeing, he said: Go (πορευθέντες) and show yourselves to the priests"**: *the word to the first leper: "go, show yourself (δεῖξον σεαυτόν) to the priest" (5:14).*
+- **"and as they went (ἐν τῷ ὑπάγειν αὐτούς), they were cleansed"**:
+  - *Cleansed on the way.* The going is where the cleansing takes place.
+  - The road heals as it is walked.
+
+### 17:15–16
+
+*εἷς δὲ ἐξ αὐτῶν, ἰδὼν ὅτι ἰάθη, ὑπέστρεψεν μετὰ φωνῆς μεγάλης δοξάζων τὸν θεόν, καὶ ἔπεσεν ἐπὶ πρόσωπον παρὰ τοὺς πόδας αὐτοῦ εὐχαριστῶν αὐτῷ· καὶ αὐτὸς ἦν Σαμαρίτης.*
+
+- **"one of them, seeing that he was healed, turned back (ὑπέστρεψεν)"**: *returning (8:37–40; 9:10; 10:17).* The others go on to the priests. One turns back to him.
+- **"with a loud voice glorifying God"**: *the bent woman "glorified God" (13:13). Forward: the blind man (18:43).*
+- **"and fell on his face (ἐπὶ πρόσωπον) at his feet"**:
+  - *The first leper, "falling on his face (πεσὼν ἐπὶ πρόσωπον)" (5:12).* The leper of the first stretch and the leper of the road fall the same way.
+  - The face (9:29, 9:51–53). At his feet (7:38; 8:35; 8:41).
+- **"giving thanks (εὐχαριστῶν) to him"**:
+  - Thanksgiving: his own (10:21, adopted).
+  - *Forward: the Pharisee's "I thank (εὐχαριστῶ) you that I am not like other men" (18:11); "having given thanks (εὐχαριστήσας)" over the cup and the bread (22:17, 22:19).*
+- **"and he was a Samaritan"**: *the village of the Samaritans did not receive him (9:52–53). The Samaritan of 10:33 (test) received the half-dead man.* Here the Samaritan turns back and gives thanks.
+
+### 17:17–19
+
+*Οὐχὶ οἱ δέκα ἐκαθαρίσθησαν; οἱ δὲ ἐννέα ποῦ; οὐχ εὑρέθησαν ὑποστρέψαντες δοῦναι δόξαν τῷ θεῷ εἰ μὴ ὁ ἀλλογενὴς οὗτος; καὶ εἶπεν αὐτῷ· Ἀναστὰς πορεύου· ἡ πίστις σου σέσωκέν σε.*
+
+- **"where are the nine?"**: "the ninety-nine" (15:4, 15:7).
+- **"were none found (εὑρέθησαν) returning to give glory to God, except this foreigner (ἀλλογενής)?"**:
+  - Found: the lost sheep, the coin (15:5–9); "was lost and is found" (15:24, 15:32, test).
+  - *"Other-born", a foreigner by origin:*
+    - Nazareth claimed him by origin (4:23–24);
+    - the master does not know those outside "where they are from" (13:25);
+    - Naaman the Syrian (4:27).
+  - The one who turns back is the one not of the origin.
+- **"Rising, go (Ἀναστὰς πορεύου)"**:
+  - *Rising and going, joined, said by him to the one who turned back.*
+  - *The paralysed man: "rise, take up your bed, and go (πορεύου) to your house" (5:24). The younger son: "rising, I will go (ἀναστὰς πορεύσομαι) to my father" (15:18, test).*
+  - In the printed text the one who turned back is told to rise and go.
+  - The order: cleansed on the way; turning back; falling on the face at the feet; thanks; then "rise, go".
+- **"your faith has saved you"**: *to the sinful woman (7:50) and to the woman with the flow (8:48). Forward: to the blind man (18:42).*
+
+### 17:20–21
+
+*Ἐπερωτηθεὶς δὲ ὑπὸ τῶν Φαρισαίων πότε ἔρχεται ἡ βασιλεία τοῦ θεοῦ ἀπεκρίθη αὐτοῖς καὶ εἶπεν· Οὐκ ἔρχεται ἡ βασιλεία τοῦ θεοῦ μετὰ παρατηρήσεως, οὐδὲ ἐροῦσιν· Ἰδοὺ ὧδε ἤ· Ἰδοὺ ἐκεῖ· ἰδοὺ γὰρ ἡ βασιλεία τοῦ θεοῦ ἐντὸς ὑμῶν ἐστιν.*
+
+- **"when does the kingdom of God come?"**: coming (11:2: "let your kingdom come").
+- **"the kingdom of God does not come with watching (παρατηρήσεως)"**:
+  - *Watching: the scribes and Pharisees "watched (παρετηροῦντο) him" to accuse him (6:7). Forward: "watching (παρατηρήσαντες), they sent spies" (20:20).*
+  - The kingdom does not come to the watching of those who watch in order to catch.
+- **"nor will they say: Look, here! or, Look, there!"**: the double "look" is the adopted Marcionite reading. **Neutral.**
+- **"for behold, the kingdom of God is within (ἐντός) you"**:
+  - *Within.* The inside (ἔσωθεν): "did not the one who made the outside make the inside also?" (11:40); "give as alms the things within" (11:41). "The one inside" who rises to give (11:7–8). "Coming into himself" (15:17, test).
+  - *Here the text says where the kingdom is: inside.*
+
+### 17:22–24 (17:23–24 grey)
+
+*Ἐλεύσονται ἡμέραι ὅτε ἐπιθυμήσετε μίαν τῶν ἡμερῶν τοῦ υἱοῦ τοῦ ἀνθρώπου ἰδεῖν καὶ οὐκ ὄψεσθε. καὶ ἐροῦσιν ὑμῖν· Ἰδοὺ ἐκεῖ, ἤ· Ἰδοὺ ὧδε· μὴ ἀπέλθητε μηδὲ διώξητε. ὥσπερ γὰρ ἡ ἀστραπὴ ἀστράπτουσα ἐκ τῆς ὑπὸ τὸν οὐρανὸν εἰς τὴν ὑπ’ οὐρανὸν λάμπει, οὕτως ἔσται ὁ υἱὸς τοῦ ἀνθρώπου ἐν τῇ ἡμέρᾳ αὐτοῦ.*
+
+- **"you will long (ἐπιθυμήσετε) to see one of the days of the Son of Man"**: longing (16:21; 15:16, test). *Forward:* "with longing I have longed (ἐπιθυμίᾳ ἐπεθύμησα)" (22:15).
+- **"do not go away, nor pursue"**: no road "here" or "there". The road is not to an outward place.
+- **"as the lightning (ἀστραπή) flashing (ἀστράπτουσα)… shines (λάμπει)"**:
+  - *Flashing:*
+    - his garment "flashing" (ἐξαστράπτων) on the mountain (9:29);
+    - Satan falling "like lightning" (10:18, test);
+    - the lamp "with its flash" (11:36, test).
+  - *Forward:* "two men in flashing (ἀστραπτούσῃ) clothing" (24:4).
+  - Shining: "brightly" (λαμπρῶς) for the rich man's feasting (16:19).
+- **"so will the Son of Man be in his day"**.
+
+### 17:25
+
+*πρῶτον δὲ δεῖ αὐτὸν πολλὰ παθεῖν καὶ ἀποδοκιμασθῆναι ἀπὸ τῆς γενεᾶς ταύτης.*
+
+- **"but first (πρῶτον) he must suffer many things and be rejected"**:
+  - *The words of 9:22: δεῖ… πολλὰ παθεῖν καὶ ἀποδοκιμασθῆναι.*
+  - "First": *his "first", against the own's "first" (9:59–61; 14:18).* Before the day like lightning, suffering.
+- **"by this generation"**: the generation that seeks a sign (11:29), that tests the face of the sky (12:56).
+
+### 17:26–29 (17:27, 17:29 grey)
+
+*καὶ καθὼς ἐγένετο ἐν ταῖς ἡμέραις Νῶε… ἤσθιον, ἔπινον, ἐγάμουν, ἐγαμίζοντο, ἄχρι ἧς ἡμέρας εἰσῆλθεν Νῶε εἰς τὴν κιβωτόν, καὶ ἦλθεν ὁ κατακλυσμὸς καὶ ἀπώλεσεν πάντας. ὁμοίως καθὼς ἐγένετο ἐν ταῖς ἡμέραις Λώτ· ἤσθιον, ἔπινον, ἠγόραζον, ἐπώλουν, ἐφύτευον, ᾠκοδόμουν· ᾗ δὲ ἡμέρᾳ ἐξῆλθεν Λὼτ ἀπὸ Σοδόμων, ἔβρεξεν πῦρ καὶ θεῖον ἀπ’ οὐρανοῦ καὶ ἀπώλεσεν πάντας.*
+
+- **"they ate, they drank, they married… they bought, they sold, they planted, they built"**:
+  - *The own's occupations:*
+    - the rich man's "eat, drink, be merry" and "I will build" (12:18–19);
+    - the excuses, "I bought a field… I married a wife" (14:18–20).
+  - The days pass in these, without turning.
+- **"until the day Noah entered (εἰσῆλθεν) the ark"**: entering (13:24; 14:23). The ark is a vessel that holds (?).
+- **"the flood came down (κατακλυσμός) and destroyed all"**: *the flood (πλημμύρα) burst on the house built without a foundation (6:48–49).*
+- **"the day Lot went out (ἐξῆλθεν) from Sodom"**: coming out. Sodom (10:12, test).
+- **"it rained fire and sulphur from heaven"**:
+  - *Fire from heaven: what James and John wanted to call down on the village (9:54), and were rebuked.*
+  - Here it comes on the day of going out. It is the end of the own's days, not a punishment called down by charity.
+
+### 17:30–32 (17:30–31 grey)
+
+*κατὰ τὰ αὐτὰ ἔσται ᾗ ἡμέρᾳ ὁ υἱὸς τοῦ ἀνθρώπου ἀποκαλύπτεται. ἐν ἐκείνῃ τῇ ἡμέρᾳ ὃς ἔσται ἐπὶ τοῦ δώματος καὶ τὰ σκεύη αὐτοῦ ἐν τῇ οἰκίᾳ, μὴ καταβάτω ἆραι αὐτά, καὶ ὁ ἐν ἀγρῷ ὁμοίως μὴ ἐπιστρεψάτω εἰς τὰ ὀπίσω. μνημονεύετε τῆς γυναικὸς Λώτ.*
+
+- **"the day the Son of Man is revealed (ἀποκαλύπτεται)"**: *the law of veiling, at its end:* 8:17; 9:45; 10:21–22; 12:2. What was covered is uncovered, and what is uncovered is the Son of Man.
+- **"whoever is on the roof (δώματος), with his vessels (σκεύη) in the house, let him not go down (μὴ καταβάτω) to take (ἆραι) them"**:
+  - *The roof:* the friends "went up onto the roof" (ἀναβάντες ἐπὶ τὸ δῶμα) and let the paralysed man down (5:19); what was whispered is proclaimed "on the roofs" (12:3).
+  - *Not going down to take:* the possessions (the vessels) are below. The one who is up does not go down to take them.
+  - "Take nothing for the way" (9:3); "take up (ἆρον) your bed and go" (5:24).
+  - *Here staying up is not going down to take what one has.*
+- **"whoever is in the field, let him not turn back (ἐπιστρεψάτω) to the things behind (εἰς τὰ ὀπίσω)"**:
+  - *"No one who puts his hand to the plough and looks at the things behind (τὰ ὀπίσω)" (9:62).*
+  - The field: the excuse of the field (14:18).
+  - Turning back is good toward him (17:4, 17:15). It is not good toward what is behind.
+- **"remember Lot's wife"**: who looked back. Remembering (16:25). *Forward:* 24:6–8.
+
+### 17:33 (grey)
+
+*ὃς ἐὰν ζητήσῃ τὴν ψυχὴν αὐτοῦ περιποιήσασθαι ἀπολέσει αὐτήν, ὃς δ’ ἂν ἀπολέσῃ ζῳογονήσει αὐτήν.*
+
+- **"whoever seeks to keep his soul will lose it"**: *9:24 again.*
+- **"whoever loses it will make it live (ζῳογονήσει)"**:
+  - *ζῳο-γονέω, "beget alive".* The life thread:
+    - "do this and you will live" (10:28);
+    - "he was dead and lives again" (15:24, test);
+    - "the Living One" (24:5).
+  - At 9:24 the soul lost is "saved". Here it is made alive.
+
+### 17:34–35 (grey)
+
+*ταύτῃ τῇ νυκτὶ ἔσονται δύο ἐπὶ κλίνης μιᾶς, ὁ εἷς παραλημφθήσεται καὶ ὁ ἕτερος ἀφεθήσεται· ἔσονται δύο ἀλήθουσαι ἐπὶ τὸ αὐτό, ἡ μία παραλημφθήσεται ἡ δὲ ἑτέρα ἀφεθήσεται.*
+
+- **"this night (νυκτί)"**: *"this night your soul is demanded back" (12:20).*
+- **"two on one bed (κλίνης)"**: the bed (5:18; 8:16). The κλίνω family.
+- **"one will be taken along (παραλημφθήσεται)"**:
+  - *παραλαμβάνω, "take along": the only other places are 9:10 (taking the apostles, he withdrew) and 9:28, "taking along (παραλαβών) Peter and John and James, he went up (ἀνέβη) into the mountain".*
+  - The word of being taken along with him in the going up.
+  - The λαμβάνω family: being taken up (ἀνάλημψις, 9:51); the spirit that "takes" the boy (9:39); "everyone who asks receives (λαμβάνει)" (11:10).
+- **"and the other will be left (ἀφεθήσεται)"**: ἀφίημι, let go, left. "Let the dead bury their dead" (9:60); "your house is left to you" (13:35, test).
+- **"two grinding together"**: the millstone (17:2).
+
+### 17:37 (grey)
+
+*καὶ ἀποκριθέντες λέγουσιν αὐτῷ· Ποῦ, κύριε; ὁ δὲ εἶπεν αὐτοῖς· Ὅπου τὸ σῶμα, ἐκεῖ καὶ οἱ ἀετοὶ ἐπισυναχθήσονται.*
+
+- **"Where, Lord?"**: the question of place, after "not here or there" (17:21, 17:23).
+- **"where the body (σῶμα) is, there the eagles will be gathered"**:
+  - *The body:* "do not fear those who kill the body" (12:4). *Forward:* "this is my body" (22:19); his body laid (23:52, 23:55); not found (24:3, 24:23).
+  - The eagles fly high. They are the understanding raised up (?).
+  - Gathering (ἐπισυνάγω): the crowds gathered (12:1); "how often I wanted to gather your children" (13:34, test).
+  - The answer to "where?" is not a place but the body.
+
+### What came out of the reading of chapter 15
+
+**The road is marked with the sentence of 4:30.** "As he was going to Jerusalem, he himself was passing through the midst" (17:11). These are the words of his passing "through the midst" of Nazareth and going on (4:30). The road began there, and the text marks it there again.
+
+**Cleansed on the way; then turning back; then rising and going.**
+- Ten lepers are sent to the priests, and are cleansed "as they went".
+- One turns back, glorifying God, falls on his face at his feet, and gives thanks. He is the foreigner, the Samaritan.
+- To him alone: "Rising, go; your faith has saved you."
+- *Rising and going are joined in the printed text (17:19; 5:24) as they are in the test passage of the younger son (15:18).* In this printed passage the rising comes after the turning back and the falling down.
+- (4:27, here: of many lepers, the foreigner alone cleansed. Neutral, with the thread.)
+
+**The kingdom within (17:21).** It does not come to those who watch to catch him. It is not here or there. It is "within you". Inside is where the kingdom is.
+
+**The day.**
+- Like lightning, the flashing of his garment on the mountain (9:29).
+- But "first he must suffer many things and be rejected": 9:22, with his own "first".
+- The own's days (eating, drinking, marrying, buying, selling, planting, building) go on until the going out. Then fire from heaven, which charity was rebuked for wanting (9:54).
+
+**Staying up and not turning back.**
+- On the roof, do not go down to take your vessels.
+- In the field, do not turn back to the things behind (9:62).
+- Remember Lot's wife.
+- Losing the soul makes it live (ζῳογονήσει).
+
+**Taken along, or left.** "One will be taken along (παραλημφθήσεται), the other left." *The verb is the one of 9:28: "taking along Peter and John and James, he went up into the mountain."* Where the body is, the eagles gather.
+
+**The servant's side (test passage 17:5–10).** The servant who has done all that was commanded says "we are servants of no need; we have done what we owed". It is the other side of 12:37, where the lord serves those who watch. And it is the claim that the elder son (15:29, test) and the Pharisee (18:11) make.
+
+### Threads, carried forward and added
+
+- stumbling;
+- the millstone and the sea;
+- the little ones;
+- rebuke given to the disciples;
+- turning back (ἐπιστρέφω, → 22:32), against turning back to what is behind;
+- seven times;
+- adding faith;
+- the servant who claims nothing (17:10b, A−; → 18:11–12);
+- "through the midst" (4:30 / 17:11);
+- ten;
+- lepers and cleansing (5:12–14 / 17:12–17);
+- Naaman, the foreigner;
+- cleansed on the way;
+- turning back to give glory;
+- falling on the face (5:12 / 17:16 → 24:5);
+- thanksgiving (→ 18:11; 22:17–19);
+- the Samaritan;
+- "Rising, go" (5:24 / 17:19; 15:18, test);
+- faith that saves (→ 18:42);
+- the kingdom within;
+- watching to catch (6:7 → 20:20);
+- longing to see (→ 22:15);
+- lightning (→ 24:4);
+- "first he must suffer" (9:22 / 17:25);
+- Noah and Lot;
+- fire from heaven (9:54 / 17:29);
+- the day of revealing;
+- the roof (5:19 / 12:3 / 17:31);
+- not going down to take;
+- the things behind (9:62 / 17:31);
+- Lot's wife;
+- making the soul live;
+- taken along (9:28 / 17:34–35);
+- left;
+- the body and the eagles (→ 22:19; 23:52–24:23).
