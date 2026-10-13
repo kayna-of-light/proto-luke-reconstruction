@@ -5135,3 +5135,320 @@ The earlier verdicts were drawn from the letter.
   - surrounded and held in (→ 21:20; 22:63);
   - the time of visitation;
   - the house of prayer and the robbers.
+
+---
+
+## Chapter 18
+
+*20:1–44. Grey: 20:2–3, 20:20–23, 20:26, 20:32, 20:40, 20:42–43. Not printed, tested at their places: 20:9–17 (A−) and 20:18 (U−), with the last clause of 20:19; 20:37–38 (A−); and, after 20:44, 20:45–47, 21:1–4 and 21:5–6 (U?). Adopted Marcionite wording: 20:35 "those whom God has deemed worthy".*
+
+### 20:1–2 (20:2 grey)
+
+*Καὶ ἐγένετο ἐν μιᾷ τῶν ἡμερῶν διδάσκοντος αὐτοῦ τὸν λαὸν ἐν τῷ ἱερῷ καὶ εὐαγγελιζομένου ἐπέστησαν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς σὺν τοῖς πρεσβυτέροις, καὶ εἶπαν λέγοντες πρὸς αὐτόν· Εἰπὸν ἡμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς, ἢ τίς ἐστιν ὁ δούς σοι τὴν ἐξουσίαν ταύτην;*
+
+- **"teaching the people in the temple"**:
+  - The temple, where two went up to pray (18:10).
+  - *In the printed text he is in the temple without having come to Jerusalem (19:11 → 20:1). See chapter 17.*
+- **"the chief priests and the scribes, with the elders"**: *the three named in 9:22 as those by whom the Son of Man "must be rejected". They are here together for the first time.*
+- **"by what authority (ἐξουσίᾳ) do you do these things (ταῦτα)?"**:
+  - Authority:
+    - "with authority and power he commands the unclean spirits" (4:36);
+    - "authority on the earth to let go sins" (5:24);
+    - given to the twelve and to the seventy (9:1; 10:19);
+    - "authority over ten cities" (19:17).
+  - "These things": see chapter 17 (19:45–46).
+- **"who gave (ὁ δούς) you this authority?"**: *"All things were handed over to me by my Father" (10:22).* The origin of his authority, asked by those who will reject him.
+
+### 20:3–8 (20:3 grey)
+
+*Ἐρωτήσω ὑμᾶς κἀγὼ λόγον… Τὸ βάπτισμα Ἰωάννου ἐξ οὐρανοῦ ἦν ἢ ἐξ ἀνθρώπων; οἱ δὲ συνελογίσαντο πρὸς ἑαυτοὺς… ἐὰν δὲ εἴπωμεν· Ἐξ ἀνθρώπων, ὁ λαὸς ἅπας καταλιθάσει ἡμᾶς, πεπεισμένος γάρ ἐστιν Ἰωάννην προφήτην εἶναι· καὶ ἀπεκρίθησαν μὴ εἰδέναι πόθεν. καὶ ὁ Ἰησοῦς εἶπεν αὐτοῖς· Οὐδὲ ἐγὼ λέγω ὑμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ.*
+
+- **"John's baptism: from heaven, or from men?"**:
+  - Baptism: "I have a baptism to be baptized with" (12:50).
+  - From heaven: the sign "from heaven" (11:16); fire "from heaven" (9:54).
+  - The origin of John's washing stands for the origin of his own authority.
+- **"they reasoned among themselves (πρὸς ἑαυτούς)"**: *the Pharisee prayed "to himself" (πρὸς ἑαυτόν, 18:11).* Reasoning (5:21–22; 12:17).
+- **"the people will stone us, for they are persuaded (πεπεισμένος) that John was a prophet"**:
+  - *Persuaded: "neither will they be persuaded (πεισθήσονται) if someone rises from the dead" (16:31).* The people are persuaded about John.
+  - Stoning: Jerusalem "stoning those sent to her" (13:34, test).
+- **"they answered that they did not know where from (πόθεν)"**:
+  - *The master to those outside: "I do not know you, where (πόθεν) you are from" (13:25, 13:27).*
+  - Those who will not know where he is from are told "I do not know where you are from". Here they say they do not know where John is from.
+- **"neither will I tell you by what authority I do these things"**:
+  - *The law of veiling: the son reveals to whom he wills (10:22).* To those who will not say what they know, he does not say.
+  - The question "who is this?" stays closed to the testers.
+
+### Test: 20:9–19 (20:9–17 A−; 20:18 U−; last clause of 20:19)
+
+*Ἄνθρωπος ἐφύτευσεν ἀμπελῶνα, καὶ ἐξέδετο αὐτὸν γεωργοῖς, καὶ ἀπεδήμησεν χρόνους ἱκανούς. καὶ καιρῷ ἀπέστειλεν πρὸς τοὺς γεωργοὺς δοῦλον, ἵνα ἀπὸ τοῦ καρποῦ τοῦ ἀμπελῶνος δώσουσιν αὐτῷ· οἱ δὲ γεωργοὶ ἐξαπέστειλαν αὐτὸν δείραντες κενόν… τρίτον… τραυματίσαντες ἐξέβαλον. εἶπεν δὲ ὁ κύριος τοῦ ἀμπελῶνος· Τί ποιήσω; πέμψω τὸν υἱόν μου τὸν ἀγαπητόν· ἴσως τοῦτον ἐντραπήσονται. ἰδόντες δὲ αὐτὸν οἱ γεωργοὶ διελογίζοντο πρὸς ἀλλήλους λέγοντες· Οὗτός ἐστιν ὁ κληρονόμος· ἀποκτείνωμεν αὐτόν, ἵνα ἡμῶν γένηται ἡ κληρονομία· καὶ ἐκβαλόντες αὐτὸν ἔξω τοῦ ἀμπελῶνος ἀπέκτειναν… Λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες, οὗτος ἐγενήθη εἰς κεφαλὴν γωνίας; πᾶς ὁ πεσὼν ἐπ’ ἐκεῖνον τὸν λίθον συνθλασθήσεται· ἐφ’ ὃν δ’ ἂν πέσῃ, λικμήσει αὐτόν… ἔγνωσαν γὰρ ὅτι πρὸς αὐτοὺς εἶπεν τὴν παραβολὴν ταύτην.*
+
+- **"a man planted (ἐφύτευσεν) a vineyard… and went abroad (ἀπεδήμησεν)"**:
+  - The fig tree "planted in his vineyard" (13:6, test).
+  - *Going abroad: the younger son "went abroad (ἀπεδήμησεν)" (15:13, test); the nobleman "went into a far country" (19:12).*
+- **"in season he sent a servant… that they might give him from the fruit"**:
+  - Season (12:42, 12:56). Fruit: the fig tree sought three years for fruit (13:6–9, test).
+- **"they beat (δείραντες) him and sent him away empty"**: *beating: "he will be beaten (δαρήσεται) with many" (12:47). Forward: "the men holding him mocked him, beating (δέροντες) him" (22:63).*
+- **"he added (προσέθετο) to send… wounding (τραυματίσαντες), they cast him out"**: adding (19:11). *Wounds: the Samaritan bound his wounds (τραύματα) (10:34, test).*
+- **"What shall I do (Τί ποιήσω)?"**: *the rich man (12:17); the steward (16:3).*
+- **"I will send my son, the beloved (τὸν υἱόν μου τὸν ἀγαπητόν)"**:
+  - *These are the words of the voice on the mountain in the adopted Marcionite reading: "this is my son, the beloved (ὁ υἱός μου ὁ ἀγαπητός)" (9:35).* The printed text has the beloved son on the mountain, and not the beloved son sent and killed.
+- **"they reasoned (διελογίζοντο) with one another: This is the heir; let us kill him, that the inheritance may be ours (ἡμῶν)"**:
+  - *Reasoning: the rich man "reasoned within himself (διελογίζετο)" (12:17).*
+  - Inheritance (10:25; 12:13; 18:18). "Ours": the own's claim, "our streets" (13:26).
+- **"casting him out (ἐκβαλόντες) outside (ἔξω) the vineyard, they killed him"**:
+  - *Nazareth: "they cast him out (ἐξέβαλον) outside (ἔξω) the city" (4:29). The same two words.*
+  - The first rejection and the last are told with one phrase.
+- **"the stone which the builders rejected (ἀπεδοκίμασαν) has become the head (κεφαλήν) of the corner"**:
+  - *Rejected: "the Son of Man must… be rejected (ἀποδοκιμασθῆναι) by the elders and chief priests and scribes" (9:22); "be rejected by this generation" (17:25). The same verb.*
+  - The builders: the house on the rock (6:48–49); the tombs of the prophets built (11:47–48); the barns built greater (12:18).
+  - *The head: "lift up your heads" (21:28).*
+  - *The rejected becomes the head: what is cast down is set highest.*
+- **"everyone who falls on that stone will be broken"**: falling (6:49; 8:5–8).
+
+**Verdict: continues.**
+- Every word is in a thread. The parable is the rejection of 9:22, told: the son is cast outside as at Nazareth (4:29) and killed, and the rejected stone becomes the head.
+- 20:8 → 20:19 runs: "the scribes and chief priests sought to lay hands on him in that very hour". The apparatus notes that the hostility answers 20:1–8. So it does not close a gap.
+- *It is one of the places where the text says, in a single image, that the one rejected is raised to the head. In the printed text the same movement is said by 18:14 and by the right hand of 20:42 and 22:69.*
+
+### 20:19
+
+*καὶ ἐζήτησαν οἱ γραμματεῖς καὶ οἱ ἀρχιερεῖς ἐπιβαλεῖν ἐπ’ αὐτὸν τὰς χεῖρας ἐν αὐτῇ τῇ ὥρᾳ, καὶ ἐφοβήθησαν τὸν λαόν.*
+
+- **"they sought to lay their hands (ἐπιβαλεῖν… τὰς χεῖρας) on him"**:
+  - *"The Son of Man is about to be handed over into the hands of men" (9:44). Forward: "they will lay their hands on you" (21:12); "into the hands of sinful men" (24:7).*
+  - Seeking, for holding: 4:42.
+- **"in that very hour, and they feared the people"**: fear of the people (20:6). *Forward:* "they feared the people" (22:2).
+
+### 20:20–21 (grey)
+
+*Καὶ παρατηρήσαντες ἀπέστειλαν ἐγκαθέτους ὑποκρινομένους ἑαυτοὺς δικαίους εἶναι, ἵνα ἐπιλάβωνται αὐτοῦ λόγου, ὥστε παραδοῦναι αὐτὸν τῇ ἀρχῇ καὶ τῇ ἐξουσίᾳ τοῦ ἡγεμόνος. καὶ ἐπηρώτησαν αὐτὸν λέγοντες· Διδάσκαλε, οἴδαμεν ὅτι ὀρθῶς λέγεις καὶ διδάσκεις καὶ οὐ λαμβάνεις πρόσωπον, ἀλλ’ ἐπ’ ἀληθείας τὴν ὁδὸν τοῦ θεοῦ διδάσκεις·*
+
+- **"watching (παρατηρήσαντες)"**:
+  - *"The scribes and Pharisees watched (παρετηροῦντο) him, to find a way to accuse him" (6:7).*
+  - *"The kingdom of God does not come with watching (παρατηρήσεως)" (17:20).*
+- **"spies pretending (ὑποκρινομένους) to be righteous"**:
+  - Hypocrisy, the leaven (12:1).
+  - "Trusting in themselves that they were righteous" (18:9).
+  - The outside is made to look righteous.
+- **"to take hold of (ἐπιλάβωνται) his word"**: *lying in wait to catch something from his mouth (11:53–54, test).*
+- **"so as to hand him over (παραδοῦναι) to the rule and authority of the governor (ἡγεμόνος)"**:
+  - Handing over (9:44).
+  - *The rulers and authorities (ἀρχὰς καὶ ἐξουσίας) before whom the disciples will be brought (12:11).*
+  - *The governor: the opening, "when Pontius Pilate was governing (ἡγεμονεύοντος)" (3:1).*
+- **"we know (οἴδαμεν) that you speak and teach rightly (ὀρθῶς)"**:
+  - *Knowing: the falsity's "I know (οἶδα) who you are" (4:34).*
+  - Rightly (10:28).
+  - The spies, like the falsity at the start, say what is true in order to hold him.
+- **"you do not receive a face (οὐ λαμβάνεις πρόσωπον)"**: *the face:* he set his face (9:51). He does not take the face of anyone.
+- **"you teach the way (ὁδόν) of God in truth"**:
+  - *The way.* The way John prepared (7:27); the way walked (9:57); the way "beside which" the blind man sat (18:35).
+  - Said by spies, the way of God is named truly.
+
+### 20:22–26 (20:22–23, 20:26 grey)
+
+*ἔξεστιν ἡμᾶς Καίσαρι φόρον δοῦναι ἢ οὔ; κατανοήσας δὲ αὐτῶν τὴν πανουργίαν εἶπεν πρὸς αὐτούς· Δείξατέ μοι δηνάριον· τίνος ἔχει εἰκόνα καὶ ἐπιγραφήν; οἱ δὲ εἶπαν· Καίσαρος. ὁ δὲ εἶπεν πρὸς αὐτούς· Τοίνυν ἀπόδοτε τὰ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ. καὶ οὐκ ἴσχυσαν ἐπιλαβέσθαι αὐτοῦ ῥήματος ἐναντίον τοῦ λαοῦ, καὶ θαυμάσαντες ἐπὶ τῇ ἀποκρίσει αὐτοῦ ἐσίγησαν.*
+
+- **"to give tribute to Caesar"**: *Caesar, the first name of the opening (3:1). Forward: the accusation, "forbidding to give tribute to Caesar" (23:2).*
+- **"whose image (εἰκόνα) and inscription does it have?"**: image. What bears an image belongs to the one whose image it bears.
+- **"give back (ἀπόδοτε) the things of Caesar to Caesar, and the things of God to God"**:
+  - *Giving back:*
+    - "until you give back the last coin" (12:59);
+    - "give back the account" (16:2);
+    - "I give back fourfold" (19:8).
+  - What the natural has from the natural goes back to it. What is God's goes back to God.
+  - "Give back", not "give". What is given back is owed, because it was received.
+- **"they did not have the strength (ἴσχυσαν) to take hold of his saying… and they fell silent (ἐσίγησαν)"**:
+  - Strength (13:24).
+  - Silence: the silence imposed on the blind man (18:39). Here the testers fall silent.
+
+### 20:27–33 (20:32 grey)
+
+*Προσελθόντες δέ τινες τῶν Σαδδουκαίων, οἱ ἀντιλέγοντες ἀνάστασιν μὴ εἶναι… Μωϋσῆς ἔγραψεν ἡμῖν, ἐάν τινος ἀδελφὸς ἀποθάνῃ ἔχων γυναῖκα, καὶ οὗτος ἄτεκνος ᾖ, ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ. ἑπτὰ οὖν ἀδελφοὶ ἦσαν… ἡ γυνὴ οὖν ἐν τῇ ἀναστάσει τίνος αὐτῶν γίνεται γυνή; οἱ γὰρ ἑπτὰ ἔσχον αὐτὴν γυναῖκα.*
+
+- **"who speak against there being a resurrection (ἀνάστασιν)"**: *"you will be repaid at the resurrection of the righteous" (14:14).*
+- **"Moses wrote for us"**:
+  - *Moses: "they have Moses and the prophets; let them hear them… if they do not hear Moses and the prophets, neither will they be persuaded if someone rises from the dead" (16:29–31).*
+  - The Sadducees bring Moses against rising.
+- **"that his brother should take the wife and raise up (ἐξαναστήσῃ) seed"**: *the rising verb, used of raising offspring.*
+- **"seven brothers… died childless"**: seven, the whole (8:2; 17:4).
+- **"in the resurrection, whose wife will she be? For the seven had (ἔσχον) her"**:
+  - Having (8:18; 19:26). The question is asked in terms of possession.
+  - Marrying: "I married a wife, and I cannot come" (14:20); "they married… until the flood" (17:27).
+
+### 20:34–36
+
+*Οἱ υἱοὶ τοῦ αἰῶνος τούτου γαμοῦσιν καὶ γαμίσκονται, οὓς δὲ κατηξίωσεν ὁ θεὸς τοῦ αἰῶνος ἐκείνου τυχεῖν καὶ τῆς ἀναστάσεως τῆς ἐκ νεκρῶν οὔτε γαμοῦσιν οὔτε γαμίζονται· οὐδὲ γὰρ ἀποθανεῖν ἔτι δύνανται, ἰσάγγελοι γάρ εἰσιν καὶ υἱοί εἰσιν θεοῦ τῆς ἀναστάσεως υἱοὶ ὄντες.*
+
+- **"the sons of this age (αἰῶνος τούτου) marry"**: *"the sons of this age are more prudent than the sons of light" (16:8).*
+- **"those whom God has deemed worthy (κατηξίωσεν)"**:
+  - The adopted Marcionite reading (God as subject); NA27 has "those deemed worthy" (passive).
+  - Worthiness is given:
+    - the centurion, "I am not worthy" (7:6–7);
+    - "no longer worthy to be called your son" (15:19, test).
+  - By its words the wording is **neutral**. The apparatus records that the Marcionites read "the God of that age" together, as a second God. The text nowhere else supports that separation, and NA27's passive does not allow it.
+- **"to obtain that age (αἰῶνος ἐκείνου) and the resurrection from the dead (ἐκ νεκρῶν)"**:
+  - "From the dead": Herod's rumour (9:7); *"if someone rises from the dead" (16:30–31). Forward: "why do you seek the Living One among the dead?" (24:5).*
+- **"they neither marry nor are given in marriage; for they can no longer die"**: the poor man died and the rich man died (16:22). In that state, no more dying.
+- **"they are equal to angels (ἰσάγγελοι)"**:
+  - *Angels: the poor man "carried away by the angels" (16:22); "joy before the angels of God" (15:10). Forward: "a vision of angels, who say that he lives" (24:23).*
+- **"and are sons of God, being sons of the resurrection"**:
+  - *"You will be sons of the Most High" (6:35), by loving enemies and lending expecting nothing.*
+  - *Here the printed text names the end state of rising: sons of God, sons of the resurrection, equal to angels, no longer able to die.*
+
+### Test: 20:37–38 (A−)
+
+*ὅτι δὲ ἐγείρονται οἱ νεκροὶ καὶ Μωϋσῆς ἐμήνυσεν ἐπὶ τῆς βάτου, ὡς λέγει κύριον τὸν θεὸν Ἀβραὰμ καὶ θεὸν Ἰσαὰκ καὶ θεὸν Ἰακώβ· θεὸς δὲ οὐκ ἔστιν νεκρῶν ἀλλὰ ζώντων, πάντες γὰρ αὐτῷ ζῶσιν.*
+
+- **"that the dead are raised (ἐγείρονται οἱ νεκροί)"**: *the words of the printed 7:22, "the dead are raised (νεκροὶ ἐγείρονται)".*
+- **"even Moses showed it, at the bush"**:
+  - *The Sadducees brought Moses against rising (20:28). Here Moses is brought for it.*
+  - *It is the condition of 16:29–31 met: Moses heard on rising from the dead.*
+- **"the God of Abraham and God of Isaac and God of Jacob"**: Abraham (13:16; 16:22–31; 19:9).
+- **"not God of the dead, but of the living (ζώντων), for all live (ζῶσιν) to him"**:
+  - *Living:*
+    - "do this and you will live" (10:28);
+    - "whoever loses his soul will make it live" (17:33).
+  - *Forward: "the Living One" (24:5); "angels who say that he lives (ζῆν)" (24:23).*
+
+**Verdict: continues, and the printed text leans on it, or on what stands in its place at the end.**
+- *16:29–31 makes hearing Moses and the prophets the condition for being persuaded by someone rising from the dead.*
+- In the printed text Moses is brought into the question of rising only by the Sadducees, against it (20:28). The answer the printed text gives (20:34–36) is not from Moses.
+- The places where Moses and the prophets are opened about the rising — 20:37–38, and 24:27 and 24:44–46 — are all unprinted.
+- So the condition 16:31 sets is never met in the printed text. Whether this passage, or 24:27 / 24:44–46, is the one needed is decided at chapter 22.
+- 20:36 → 20:39 runs ("Teacher, you have spoken well"). A−. *Recorded for task 14.*
+
+### 20:39–40 (20:40 grey)
+
+*ἀποκριθέντες δέ τινες τῶν γραμματέων εἶπαν· Διδάσκαλε, καλῶς εἶπας· οὐκέτι γὰρ ἐτόλμων ἐπερωτᾶν αὐτὸν οὐδέν.*
+
+- **"some of the scribes: Teacher, you have spoken well"**: even the scribes assent.
+- **"they no longer dared to ask him anything"**: the questions end.
+
+### 20:41–44 (20:42–43 grey)
+
+*Πῶς λέγουσιν τὸν χριστὸν εἶναι Δαυὶδ υἱόν; αὐτὸς γὰρ Δαυὶδ λέγει ἐν βίβλῳ ψαλμῶν· Εἶπεν κύριος τῷ κυρίῳ μου· Κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου. Δαυὶδ οὖν κύριον αὐτὸν καλεῖ, καὶ πῶς αὐτοῦ υἱός ἐστιν;*
+
+- **"how do they say that the Anointed One is David's son?"**:
+  - The Anointed One: Peter's naming (9:20); the daimons knew (4:41).
+  - *Son of David: the blind man's cry (18:38–39).*
+  - *The question of origin:* Nazareth (4:23–24); "where from?" (13:25; 20:7); "this foreigner" (17:18); "well-born" (19:12).
+- **"The Lord said to my lord: Sit at my right hand (ἐκ δεξιῶν μου)"**:
+  - *The right hand: the man whose "right hand" was dry, told to stretch it out (6:6–10).*
+  - *Forward: "from now on the Son of Man will be seated at the right hand (ἐκ δεξιῶν) of the power of God" (22:69).*
+  - *Here the printed text names where the movement ends: seated at the right hand.*
+- **"until I put your enemies (ἐχθρούς) as a footstool for your feet"**:
+  - *Enemies: "authority… over all the power of the enemy" (10:19); "these enemies of mine" (19:27, test).*
+  - The feet: the woman at his feet (7:38); the healed man sitting at his feet (8:35); the Samaritan fallen at his feet (17:16). *Those who were his are at his feet in love; his enemies are put under them.*
+- **"David calls him Lord; how then is he his son?"**:
+  - The origin does not account for him. Son by line, Lord by what he is.
+  - *The question "who is this?" (5:21 → 9:20) is answered by a question, and the answer is the right hand.*
+
+### Test: 20:45–47 (U?)
+
+*Προσέχετε ἀπὸ τῶν γραμματέων τῶν θελόντων περιπατεῖν ἐν στολαῖς καὶ φιλούντων ἀσπασμοὺς ἐν ταῖς ἀγοραῖς καὶ πρωτοκαθεδρίας ἐν ταῖς συναγωγαῖς καὶ πρωτοκλισίας ἐν τοῖς δείπνοις, οἳ κατεσθίουσιν τὰς οἰκίας τῶν χηρῶν καὶ προφάσει μακρὰ προσεύχονται· οὗτοι λήμψονται περισσότερον κρίμα.*
+
+- **"beware (προσέχετε)"**: 12:1; 17:3.
+- **"walking in robes (στολαῖς)"**: *the first robe given to the son who returned (15:22, test).*
+- **"loving greetings in the marketplaces and first seats in the synagogues"**: *the woe of 11:43, word for word.*
+- **"and first places (πρωτοκλισίας) at dinners"**: *the first places of 14:7–8 (test).*
+- **"who devour (κατεσθίουσιν) widows' houses"**:
+  - Devouring: the birds "ate down" the seed (8:5); "who devoured your living" (15:30, test).
+  - Widows (7:12; 18:3–5).
+- **"they will receive greater judgement (κρίμα)"**: *forward: "handed him over to the judgement (κρίμα) of death" (24:20).*
+
+**Verdict: continues.** 11:43 again, with 14:7–8 and 18:3. It does not close a gap on its own (see 21:5–6).
+
+### Test: 21:1–4 (U?)
+
+*Ἀναβλέψας δὲ εἶδεν τοὺς βάλλοντας εἰς τὸ γαζοφυλάκιον τὰ δῶρα αὐτῶν πλουσίους. εἶδεν δέ τινα χήραν πενιχρὰν βάλλουσαν ἐκεῖ λεπτὰ δύο, καὶ εἶπεν· Ἀληθῶς λέγω ὑμῖν ὅτι ἡ χήρα ἡ πτωχὴ αὕτη πλεῖον πάντων ἔβαλεν· πάντες γὰρ οὗτοι ἐκ τοῦ περισσεύοντος αὐτοῖς ἔβαλον εἰς τὰ δῶρα, αὕτη δὲ ἐκ τοῦ ὑστερήματος αὐτῆς πάντα τὸν βίον ὃν εἶχεν ἔβαλεν.*
+
+- **"looking up (ἀναβλέψας), he saw"**: *the looking up (9:16; 18:41–43; 19:5).*
+- **"the rich casting their gifts into the treasury"**:
+  - The rich (6:24; 18:23; 19:2).
+  - The treasury (γαζο-φυλάκιον), "treasure-guard": guarding (11:21; 12:15).
+- **"a poor widow casting two coins (λεπτά)"**: *"until you give back the last coin (λεπτόν)" (12:59).*
+- **"from their overflow (περισσεύοντος)… she from her lack (ὑστερήματος)"**:
+  - *Overflow: "not in abounding (περισσεύειν) is life" (12:15).*
+  - *Lack: the son "began to lack (ὑστερεῖσθαι)" (15:14, test).*
+- **"she cast all the living (πάντα τὸν βίον) she had"**: *the woman with the flow had "spent her whole living (ὅλον τὸν βίον) on physicians" and was not healed (8:43).* Here the whole living is given.
+
+**Verdict: continues.** It does not close a gap.
+
+### Test: 21:5–6 (U?)
+
+*Καί τινων λεγόντων περὶ τοῦ ἱεροῦ, ὅτι λίθοις καλοῖς καὶ ἀναθήμασιν κεκόσμηται εἶπεν· Ταῦτα ἃ θεωρεῖτε, ἐλεύσονται ἡμέραι ἐν αἷς οὐκ ἀφεθήσεται λίθος ἐπὶ λίθῳ ὃς οὐ καταλυθήσεται.*
+
+- **"the temple, adorned (κεκόσμηται) with beautiful stones"**: *the house "swept and adorned (κεκοσμημένον)", empty, and reoccupied by worse (11:25, test).* The outside adorned (11:39).
+- **"these things (ταῦτα) which you see"**: *the antecedent of the printed 21:7.*
+- **"days will come in which stone will not be left upon stone that will not be thrown down (καταλυθήσεται)"**:
+  - *"They will not leave stone upon stone in you" (19:44, test).*
+  - The stones: "the stones will cry out" (19:40, test); the rejected stone (20:17, test). *Forward: the stone rolled away (24:2).*
+  - καταλύω: the word of "lodging" (9:12; 19:7). Here: loosed down, thrown down.
+
+**Verdict: continues, and the printed text needs it.**
+- *By its words.* The printed 21:7 opens "Teacher, when then (οὖν) will these things (ταῦτα) be, and what is the sign when these things are about to happen?" Its "then" and its "these things" have their object only in 21:6. In the printed text, 21:7 follows 20:44 ("how then is he his son?"), and the disciples ask about nothing.
+- *By its mechanics.* The whole discourse of 21:8–36 answers the question of when "these things" will be. What is thrown down is the adorned house: the outside, beautiful and empty, of 11:25 and 11:39–40. That is what the discourse is about. Without it the printed 21:20 (Jerusalem surrounded, "its desolation has come near") has no beginning.
+- U?: restoring it is not against a witness of absence. *This is the 20:44 → 21:7 break of the pericope pass, caused by METHOD §4.3. Recorded for task 14.*
+
+### What came out of the reading of chapter 18
+
+**Rejected by those named in 9:22.**
+- The chief priests, scribes and elders come together, and ask by what authority he acts and who gave it.
+- He asks back where John's baptism is from. They will not say "where from"; he does not tell them. The question "who is this?" stays closed to those who test.
+- They seek to lay hands on him. Spies, pretending righteousness, say the truth — "you teach the way of God in truth" — in order to hold him, as the falsity said the truth at the start (4:34).
+- (In the test passage 20:9–19, the beloved son of the mountain (9:35) is sent, cast outside as at Nazareth (4:29), and killed. The stone the builders rejected (9:22, the same verb) becomes the head.)
+
+**Give back.** What bears Caesar's image goes back to Caesar; what is God's goes back to God. Giving back, the verb of the last coin (12:59) and of Zacchaeus' fourfold (19:8).
+
+**Resurrection, named.**
+- The Sadducees bring Moses against rising.
+- The answer names the end state: those deemed worthy of that age and of the resurrection from the dead do not marry, can no longer die, are equal to angels, and are sons of God, sons of the resurrection.
+- *The answer from Moses himself (20:37–38) is not printed. In the printed text, the condition of 16:31 — hear Moses about one rising from the dead — is never met. Decided at chapter 22, with 24:27 and 24:44–46.*
+
+**The right hand.**
+- "The Lord said to my lord: Sit at my right hand, until I put your enemies under your feet."
+- The son of David is David's Lord; the origin does not account for him.
+- *Here, and at 22:69, the printed text names where the movement ends: seated at the right hand.*
+
+**The fourth passage the printed text needs: 21:5–6.**
+- The printed 21:7 asks "when then will these things be?", and its "these things" has no object without 21:5–6.
+- By the mechanics, the adorned house, thrown down stone from stone, is what the discourse of chapter 21 answers.
+
+### Threads, carried forward and added
+
+- the chief priests, scribes and elders (9:22 / 20:1);
+- authority and who gave it;
+- from heaven or from men;
+- "where from" (13:25 / 20:7);
+- not telling (the veil);
+- the beloved son (9:35 / 20:13, test);
+- cast outside (4:29 / 20:15, test);
+- the rejected stone, the head (9:22; 17:25 / 20:17, test → 21:28);
+- hands laid on him (→ 21:12; 24:7);
+- fear of the people (→ 22:2);
+- watching to catch (6:7; 17:20 / 20:20);
+- pretending righteousness;
+- the governor (3:1 / 20:20 → 23);
+- the true words of the false;
+- the way of God;
+- the face not taken;
+- Caesar (3:1 / 20:22–25 → 23:2);
+- image;
+- giving back;
+- silence;
+- resurrection (14:14 / 20:27–36);
+- Moses against and for rising (16:29–31 / 20:28 / 20:37, test);
+- seven, having;
+- sons of this age and that age (16:8 / 20:34–35);
+- equal to angels (→ 24:23);
+- sons of God (6:35 / 20:36);
+- "God of the living" (test, → 24:5);
+- son of David (18:38 / 20:41);
+- the right hand (6:6 / 20:42 → 22:69);
+- enemies under the feet (10:19 / 20:43);
+- and, from the tests:
+  - the first seats and places (11:43; 14:7);
+  - widows (→ 21:2);
+  - the whole living (8:43 / 21:4);
+  - the adorned house thrown down (11:25 / 21:5–6);
+  - stone on stone (19:44 / 21:6 → 24:2).
