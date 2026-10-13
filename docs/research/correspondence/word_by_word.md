@@ -2322,7 +2322,7 @@ In this chapter the passages that are not printed carry more of the up-and-down 
   - *Trust: "some who trusted (πεποιθότας) in themselves that they were righteous" (18:9).*
   - The armour that the own trusted in is taken off it.
 - **"and distributes (διαδίδωσιν) his spoils"**:
-  - *Forward: "sell all that you have and distribute (διάδος) to the poor" (18:22).*
+  - *Forward: "sell all that you have and give to the poor" (18:22). The printed text has δός ("give"), the adopted Marcionite reading; NA27 has διάδος ("distribute"), the verb of 11:22.*
   - What the own held is given out.
 
 *Here the text says in a parable, at the level of the soul, what it has been doing since 4:31:*
@@ -2898,7 +2898,7 @@ The earlier verdicts were drawn from the letter.
 - **"sell your possessions (ὑπάρχοντα) and give alms (ἐλεημοσύνην)"**:
   - Possessions (11:21; 12:15).
   - Alms: "give as alms the things within" (11:41).
-  - *The printed 18:22 gives the same instruction: "sell all that you have and distribute to the poor, and you will have treasure in heaven."*
+  - *The printed 18:22 gives the same instruction: "sell all that you have and give to the poor, and you will have treasure in heaven."*
 - **"purses that do not grow old (μὴ παλαιούμενα)"**:
   - "Carry no purse" (10:4).
   - *Old:* the old garment, the old wine, the old skins (5:36–39).
@@ -4429,3 +4429,332 @@ The earlier verdicts were drawn from the letter.
 - taken along (9:28 / 17:34–35);
 - left;
 - the body and the eagles (→ 22:19; 23:52–24:23).
+
+---
+
+## Chapter 16
+
+*18:1–43. Grey: 18:4, 18:6, 18:8–9, 18:15, 18:17. Not printed: 18:24–30 (U?), 18:31–33 (A−), 18:34 (U−), between 18:23 and 18:35. Adopted Marcionite wordings: 18:19 "God the Father" (Epiphanius: Marcion "added 'the Father'"); 18:20 the order of the commandments; 18:22 no "still", "give" for "distribute", "in heaven" (singular).*
+
+### 18:1–5 (18:4 grey)
+
+*Ἔλεγεν δὲ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι αὐτοὺς καὶ μὴ ἐγκακεῖν, λέγων· Κριτής τις ἦν ἔν τινι πόλει τὸν θεὸν μὴ φοβούμενος καὶ ἄνθρωπον μὴ ἐντρεπόμενος. χήρα δὲ ἦν ἐν τῇ πόλει ἐκείνῃ καὶ ἤρχετο πρὸς αὐτὸν λέγουσα· Ἐκδίκησόν με ἀπὸ τοῦ ἀντιδίκου μου. καὶ οὐκ ἤθελεν ἐπὶ χρόνον, μετὰ ταῦτα δὲ εἶπεν ἐν ἑαυτῷ· Εἰ καὶ τὸν θεὸν οὐ φοβοῦμαι οὐδὲ ἄνθρωπον ἐντρέπομαι, διά γε τὸ παρέχειν μοι κόπον τὴν χήραν ταύτην ἐκδικήσω αὐτήν ἵνα μὴ εἰς τέλος ἐρχομένη ὑπωπιάζῃ με.*
+
+- **"the need (δεῖν) to pray always and not lose heart"**:
+  - "Must" (δεῖ): of the passion (9:22; 17:25), of the loosing (13:16), and here of prayer.
+  - Prayer (11:1–13).
+- **"a judge (κριτής)… a widow… Vindicate me against my adversary (ἀντιδίκου)"**:
+  - The judge (12:14, 12:58).
+  - *The adversary on the way (12:58).*
+  - The widow: the widow of Nain (7:12).
+- **"he said within himself (ἐν ἑαυτῷ)"**: the rich man (12:17), the steward (16:3).
+- **"because this widow gives me trouble (κόπον)"**:
+  - *The friend at midnight: "do not give me trouble (κόπους)… because of his shamelessness, being raised, he will give" (11:7–8).*
+  - The same mechanic: the one inside is moved by persistence.
+
+### 18:6–8 (18:6, 18:8 grey)
+
+*Ἀκούσατε τί ὁ κριτὴς τῆς ἀδικίας λέγει· ὁ δὲ θεὸς οὐ μὴ ποιήσῃ τὴν ἐκδίκησιν τῶν ἐκλεκτῶν αὐτοῦ τῶν βοώντων αὐτῷ ἡμέρας καὶ νυκτός, καὶ μακροθυμεῖ ἐπ’ αὐτοῖς; λέγω ὑμῖν ὅτι ποιήσει τὴν ἐκδίκησιν αὐτῶν ἐν τάχει. πλὴν ὁ υἱὸς τοῦ ἀνθρώπου ἐλθὼν ἆρα εὑρήσει τὴν πίστιν ἐπὶ τῆς γῆς;*
+
+- **"the judge of unrighteousness"**: the steward of unrighteousness (16:8).
+- **"his chosen (ἐκλεκτῶν), who cry (βοώντων) to him day and night"**:
+  - The chosen: he chose (ἐκλεξάμενος) the twelve (6:13).
+  - *Crying: the blind man "cried out (ἐβόησεν)" (18:38).*
+- **"will the Son of Man, when he comes, find faith on the earth (ἐπὶ τῆς γῆς)?"**: faith (17:19). *The earth:* authority "on the earth" (5:24); fire "on the earth" (12:49).
+
+### 18:9–10 (18:9 grey)
+
+*Εἶπεν δὲ καὶ πρός τινας τοὺς πεποιθότας ἐφ’ ἑαυτοῖς ὅτι εἰσὶν δίκαιοι καὶ ἐξουθενοῦντας τοὺς λοιποὺς τὴν παραβολὴν ταύτην· Ἄνθρωποι δύο ἀνέβησαν εἰς τὸ ἱερὸν προσεύξασθαι, ὁ εἷς Φαρισαῖος καὶ ὁ ἕτερος τελώνης.*
+
+- **"those who trusted (πεποιθότας) in themselves (ἐφ’ ἑαυτοῖς) that they were righteous"**:
+  - *The strong man's armour, "in which he trusted (ἐπεποίθει)" (11:22).*
+  - "You are those who justify yourselves" (16:15).
+- **"and despised (ἐξουθενοῦντας) the rest"**: *forward: "Herod, despising (ἐξουθενήσας) him" (23:11).*
+- **"two men went up (ἀνέβησαν) into the temple to pray (προσεύξασθαι)"**:
+  - *The words of 9:28: "he went up (ἀνέβη) into the mountain to pray (προσεύξασθαι)".*
+  - Going up to pray, now said of two men. The temple, the first time in the printed text.
+
+### 18:11–12
+
+*ὁ Φαρισαῖος σταθεὶς πρὸς ἑαυτὸν ταῦτα προσηύχετο· Ὁ θεός, εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων, ἅρπαγες, ἄδικοι, μοιχοί, ἢ καὶ ὡς οὗτος ὁ τελώνης· νηστεύω δὶς τοῦ σαββάτου, ἀποδεκατῶ πάντα ὅσα κτῶμαι.*
+
+- **"standing, he prayed these things to himself (πρὸς ἑαυτόν)"**: the prayer is turned to himself.
+- **"God, I thank (εὐχαριστῶ) you that I am not like the rest"**:
+  - *Thanksgiving:* the Samaritan at his feet, "giving thanks" (17:16).
+  - Here the thanks is for oneself.
+- **"robbers (ἅρπαγες)"**: *"your inside is full of plunder (ἁρπαγῆς)" (11:39).* The Pharisee names in others what was named in the Pharisees.
+- **"adulterers"**: 16:18.
+- **"I fast twice a week; I tithe (ἀποδεκατῶ) all that I acquire"**:
+  - Fasting: John's disciples and the Pharisees fast (5:33). "When the bridegroom is taken away, then they will fast" (5:35).
+  - *Tithing: "you tithe (ἀποδεκατοῦτε) mint and rue, and pass by the calling and the love of God" (11:42).*
+  - "All that I acquire": what is held as one's own.
+  - *The claim of merit: the elder son (15:29, test). Against the servant who says "we have done what we owed" (17:10, test).*
+
+### 18:13
+
+*ὁ δὲ τελώνης μακρόθεν ἑστὼς οὐκ ἤθελεν οὐδὲ τοὺς ὀφθαλμοὺς ἐπᾶραι εἰς τὸν οὐρανόν, ἀλλ’ ἔτυπτεν τὸ στῆθος αὐτοῦ λέγων· Ὁ θεός, ἱλάσθητί μοι τῷ ἁμαρτωλῷ.*
+
+- **"standing far off (μακρόθεν)"**:
+  - *The rich man "sees Abraham from far off (μακρόθεν)" (16:23).* The lepers "stood far off" (17:12b, test). "While he was still far off" (15:20, test).
+  - Distance, acknowledged.
+- **"would not even lift up his eyes (ἐπᾶραι) to heaven"**:
+  - *The rich man in Hades "lifted up (ἐπάρας) his eyes" (16:23).*
+  - He looked up into heaven over the bread (9:16).
+  - The tax collector does not lift his eyes.
+- **"but beat (ἔτυπτεν) his breast"**: beating. The servant who "began to beat (τύπτειν)" the children (12:45). Here the beating is turned on one's own breast.
+- **"God, be merciful to me, the sinner"**: mercy (16:24; 18:38). "The sinner": the sinner who repents (15:7, 15:10).
+
+### 18:14
+
+*λέγω ὑμῖν, κατέβη οὗτος δεδικαιωμένος εἰς τὸν οἶκον αὐτοῦ παρ’ ἐκεῖνον· ὅτι πᾶς ὁ ὑψῶν ἑαυτὸν ταπεινωθήσεται, ὁ δὲ ταπεινῶν ἑαυτὸν ὑψωθήσεται.*
+
+- **"this man went down (κατέβη) to his house justified"**:
+  - *Two went up (18:10). The one who did not lift his eyes goes down justified.*
+  - Going down: he "came down" from the mountain (καταβάς, 6:17). "He came down" (κατῆλθεν, 4:31).
+  - *Forward: "Zacchaeus, hurry and come down (κατάβηθι)… and he hurried and came down (κατέβη)… Today salvation has come to this house" (19:5–9).* A tax collector goes down to his house justified in the parable. A chief tax collector comes down, and salvation comes to his house, in the event.
+- **"justified (δεδικαιωμένος)"**: *against "you who justify yourselves" (16:15).* He does not justify himself; he goes down justified.
+- **"everyone who lifts himself up (ὑψῶν) will be brought low, and whoever brings himself low (ταπεινῶν) will be lifted up (ὑψωθήσεται)"**:
+  - *The law, printed. It is the same as the unprinted 14:11. Capernaum (10:15, test); "what is high among men" (16:15).*
+  - "Will be lifted up" is passive: one does not lift oneself up. One is lifted.
+  - *In this parable the printed text puts the ascent in its own terms:*
+    - two go up to pray;
+    - the one who lifts himself remains with himself ("to himself");
+    - the one who does not lift his eyes goes down justified;
+    - and the law: brought low, lifted up.
+
+### 18:15–17 (18:15, 18:17 grey)
+
+*Προσέφερον δὲ αὐτῷ καὶ τὰ βρέφη ἵνα αὐτῶν ἅπτηται· ἰδόντες δὲ οἱ μαθηταὶ ἐπετίμων αὐτοῖς. ὁ δὲ Ἰησοῦς προσεκαλέσατο αὐτὰ λέγων· Ἄφετε τὰ παιδία ἔρχεσθαι πρός με καὶ μὴ κωλύετε αὐτά, τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τοῦ θεοῦ. ἀμὴν λέγω ὑμῖν, ὃς ἂν μὴ δέξηται τὴν βασιλείαν τοῦ θεοῦ ὡς παιδίον, οὐ μὴ εἰσέλθῃ εἰς αὐτήν.*
+
+- **"they were bringing even the infants, that he might touch them"**: touching (5:13; 8:44–47).
+- **"the disciples rebuked (ἐπετίμων) them"**: the rebuke misused, like "we forbade him" (9:49, test).
+- **"let the children come to me, and do not hinder (κωλύετε) them"**: *"do not hinder (μὴ κωλύετε)" (9:50, test); "you hindered those entering" (11:52).*
+- **"whoever does not receive (δέξηται) the kingdom as a child will not enter (εἰσέλθῃ) it"**:
+  - *The child received in his name (9:47–48).*
+  - Receiving, then entering. The kingdom is received, not taken.
+
+### 18:18–19
+
+*Καὶ ἐπηρώτησέν τις αὐτὸν ἄρχων λέγων· Διδάσκαλε ἀγαθέ, τί ποιήσας ζωὴν αἰώνιον κληρονομήσω; εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς· Τί με λέγεις ἀγαθόν; οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ θεὸς ὁ πατήρ.*
+
+- **"a ruler (ἄρχων)"**: the rulers (3:1; 8:41; 13:14).
+- **"Good teacher, what must I do to inherit eternal life?"**:
+  - *The lawyer's question (10:25).*
+  - Good: "the good treasure" (6:45); "you, being evil, know how to give good gifts" (11:13).
+- **"Why do you call me good? No one is good except one (εἷς), God the Father"**:
+  - *The reading has to weigh "the Father" here. It is Marcion's attested addition; NA27 reads "except one, God" (εἷς ὁ θεός).*
+  - *By the threads:*
+    - **One (εἷς).** "No one is good except one" is followed by "one thing (ἕν) you lack" (18:22), and the one thing is "follow me". *"Of one thing (ἑνός) there is need" (10:42, test).* The One good, the one thing lacking, and following him are joined in four verses.
+    - **The identity of the good.** "Why do you call me good?" puts back to the asker the question the text keeps open from 5:21 to 9:20: "who is this?" The printed text answers it only by revealing: "no one knows who the Father is except the son… and to whom the son wills to reveal" (10:22).
+    - **"God the Father" as a title** occurs nowhere else in the text. Everywhere else "Father" is a relation:
+      - the son's address in prayer (10:21; 11:2; 22:42; 23:46);
+      - the giver to the children (11:13; 12:30, 12:32);
+      - the source of glory and of all things handed over (9:26; 10:22).
+    - **The next verse.** It gives the commandment "honour your father and mother". In Swedenborg's exposition of that commandment (*Arcana Coelestia* on Exod 20:12), the father is, inwardly, the Lord as to the Divine good.
+  - *What the addition does.* "No one is good except one, God" leaves open where the one good is, and so leaves open who is speaking. The text keeps that open until it is revealed.
+    - "God the Father" closes it in the letter. It names the One as "the Father", as a title, set against "me".
+    - It states outright, as a separate name, what the next verse holds inwardly ("your father") and what 10:22 holds as a revealed relation.
+  - **Strain.** The added words turn an inner relation into an outward title, and set it against the speaker, at the point where the text keeps the identity open. NA27's "one, God" continues the line: the one good, the one thing lacking, "follow me".
+  - *This is the second wording the reading marks as a strain (after 10:21). Both are separations: of the Lord from the earth, and of the good from the one speaking. Recorded for task 14.*
+
+### 18:20–21
+
+*τὰς ἐντολὰς οἶδας· Μὴ φονεύσῃς, Μὴ μοιχεύσῃς, Μὴ κλέψῃς, Μηδὲ ψευδομαρτυρήσῃς, Τίμα τὸν πατέρα σου καὶ τὴν μητέρα. ὁ δὲ εἶπεν· Ταῦτα πάντα ἐφύλαξα ἐκ νεότητος.*
+
+- **"you know the commandments"**: the order (kill, adultery) is the adopted Marcionite one. **Neutral.**
+- **"honour your father and mother"**:
+  - The natural father, left to bury the dead (9:59–60).
+  - Father against son (12:53). "Whoever does not hate his father and mother" (14:26, test).
+  - The commandment is kept, and its inner object is the One of 18:19.
+- **"all these I have kept (ἐφύλαξα) from my youth"**:
+  - *Keeping, guarding:* the strong man "guards" his court (11:21); "blessed are those who hear the word and keep (φυλάσσοντες) it" (11:28); "guard yourselves from all greed" (12:15).
+  - He has kept the commandments, as the elder son "never passed by your command" (15:29, test).
+
+### 18:22–23
+
+*ἀκούσας δὲ ὁ Ἰησοῦς εἶπεν αὐτῷ· Ἕν σοι λείπει· πάντα ὅσα ἔχεις πώλησον καὶ δὸς πτωχοῖς, καὶ ἕξεις θησαυρὸν ἐν οὐρανῷ, καὶ δεῦρο ἀκολούθει μοι. ὁ δὲ ἀκούσας ταῦτα περίλυπος ἐγενήθη, ἦν γὰρ πλούσιος σφόδρα.*
+
+- **"one thing (ἕν) you lack"**: the One of 18:19. The adopted wording (no "still", "give", singular "heaven") is **neutral**.
+- **"sell all that you have and give to the poor"**:
+  - *"Sell your possessions and give alms" (12:33, test).* "Give as alms the things within" (11:41).
+  - The strong man's spoils given out (11:22).
+  - Having (8:18: "whoever has… even what he seems to have").
+- **"and you will have treasure in heaven"**: against "treasuring for himself" (12:21).
+- **"and come, follow me (ἀκολούθει μοι)"**: *the word to Levi (5:27), who "leaving everything, rising, followed" (5:28). "Let him… follow me" (9:23).*
+- **"he became very sorrowful, for he was very rich"**: the rich (6:24; 12:16; 16:19). Sorrow (λύπη). *Forward:* "he found them sleeping from sorrow (λύπης)" (22:45).
+
+### Test: 18:24–30 (U?)
+
+*Πῶς δυσκόλως οἱ τὰ χρήματα ἔχοντες εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσπορεύονται· εὐκοπώτερον γάρ ἐστιν κάμηλον διὰ τρήματος βελόνης εἰσελθεῖν ἢ πλούσιον εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσελθεῖν. Εἶπαν δὲ οἱ ἀκούσαντες· Καὶ τίς δύναται σωθῆναι; ὁ δὲ εἶπεν· Τὰ ἀδύνατα παρὰ ἀνθρώποις δυνατὰ παρὰ τῷ θεῷ ἐστιν. Εἶπεν δὲ ὁ Πέτρος· Ἰδοὺ ἡμεῖς ἀφέντες τὰ ἴδια ἠκολουθήσαμέν σοι. ὁ δὲ εἶπεν αὐτοῖς· Ἀμὴν λέγω ὑμῖν ὅτι οὐδείς ἐστιν ὃς ἀφῆκεν οἰκίαν ἢ γυναῖκα ἢ ἀδελφοὺς ἢ γονεῖς ἢ τέκνα ἕνεκεν τῆς βασιλείας τοῦ θεοῦ, ὃς οὐχὶ μὴ ἀπολάβῃ πολλαπλασίονα ἐν τῷ καιρῷ τούτῳ καὶ ἐν τῷ αἰῶνι τῷ ἐρχομένῳ ζωὴν αἰώνιον.*
+
+- **"how hard for those who have riches to enter (εἰσπορεύονται)"**: entering (11:33, 11:52; 13:24).
+- **"a camel through the eye of a needle"**: *the narrow (στενῆς) door, which many will not have the strength to enter (13:24).*
+- **"who can be saved?… What is impossible with men is possible (δυνατά) with God"**:
+  - *Possibility:* "I cannot rise and give" (11:7); "I cannot come" (14:20); "you cannot serve God and mammon" (16:13); "if you cannot do even the least" (12:26); "no one can add a cubit" (12:25).
+  - What a person cannot do, God can.
+- **"we have left our own (ἀφέντες τὰ ἴδια) and followed you"**:
+  - *τὰ ἴδια, "one's own":* "the beam in your own (ἰδίῳ) eye" (6:41).
+  - Leaving: "leaving (ἀφέντες) everything, they followed him" (5:11); Levi (5:28).
+- **"no one who has left house or wife or brothers or parents or children"**: the house left (9:61); the wife (14:20); the relations divided (12:52–53); "hate father and mother" (14:26, test).
+- **"who will not receive back (ἀπολάβῃ) many times more… and in the age to come eternal life"**:
+  - *Receiving back: the rich man "received back (ἀπέλαβες) your good things in your life" (16:25).*
+  - *Eternal life: the ruler's question (18:18), answered in its own words.*
+
+**Verdict: continues.**
+- It answers the ruler's question with the ruler's words ("eternal life").
+- It names the own (τὰ ἴδια) as what is left.
+- It says the passage through the narrow is possible with God and not with men.
+- 18:23 → 18:35 runs, so it does not close a gap.
+
+### Test: 18:31–34 (18:31–33 A−; 18:34 U−)
+
+*Παραλαβὼν δὲ τοὺς δώδεκα εἶπεν πρὸς αὐτούς· Ἰδοὺ ἀναβαίνομεν εἰς Ἰερουσαλήμ, καὶ τελεσθήσεται πάντα τὰ γεγραμμένα διὰ τῶν προφητῶν τῷ υἱῷ τοῦ ἀνθρώπου· παραδοθήσεται γὰρ τοῖς ἔθνεσιν καὶ ἐμπαιχθήσεται καὶ ὑβρισθήσεται καὶ ἐμπτυσθήσεται, καὶ μαστιγώσαντες ἀποκτενοῦσιν αὐτόν, καὶ τῇ ἡμέρᾳ τῇ τρίτῃ ἀναστήσεται. καὶ αὐτοὶ οὐδὲν τούτων συνῆκαν, καὶ ἦν τὸ ῥῆμα τοῦτο κεκρυμμένον ἀπ’ αὐτῶν, καὶ οὐκ ἐγίνωσκον τὰ λεγόμενα.*
+
+- **"taking along (παραλαβών) the twelve, he said: Behold, we go up (ἀναβαίνομεν) to Jerusalem"**:
+  - *The structure of 9:28: "taking along (παραλαβών) Peter and John and James, he went up (ἀνέβη) into the mountain".* "Taken along" (17:34–35).
+  - *"We go up to Jerusalem."* Of the passages that put the verb "go up" (ἀναβαίνω) together with Jerusalem — this one and 19:28 — neither is printed. *The printed text never says "go up to Jerusalem".* It says "go to Jerusalem" (9:51, 9:53; 17:11) and names the movement "taking up" (9:51).
+- **"all that is written by the prophets about the Son of Man will be accomplished (τελεσθήσεται)"**:
+  - Accomplished: "until it is accomplished (τελεσθῇ)" (12:50); "on the third day I am perfected" (13:32, test).
+  - The prophets: "they have Moses and the prophets" (16:29–31).
+- **"he will be handed over (παραδοθήσεται) to the nations… mocked, insulted, spat on… they will kill him, and on the third day he will rise (ἀναστήσεται)"**:
+  - Handing over (9:44). The nations (12:30). *Forward: mocking (22:63; 23:11).*
+  - Rising on the third day: *the printed 24:7, "on the third day rise (ἀναστῆναι)".*
+- **"this saying was hidden (κεκρυμμένον) from them"**: *the veil of 9:45.*
+
+**Verdict: continues.**
+- Its words take up 9:22, 9:28, 9:44–45, 12:50, 16:29–31 and 17:34, and they reach 24:7.
+- The printed text has the necessity of the passion three times (9:22, 9:44, 17:25) and recalls it at 24:6–7 as said "while still in Galilee". That recall is answered by 9:22 and 9:44, both said in Galilee. So the passage does not close a gap: 18:23 → 18:35 runs.
+- *It is one of the two places that would give the road its verb "go up". Recorded for task 15.*
+
+### 18:35–37
+
+*Ἐγένετο δὲ ἐν τῷ ἐγγίζειν αὐτὸν εἰς Ἰεριχὼ τυφλός τις ἐκάθητο παρὰ τὴν ὁδὸν ἐπαιτῶν. ἀκούσας δὲ ὄχλου διαπορευομένου ἐπυνθάνετο τί εἴη τοῦτο· ἀπήγγειλαν δὲ αὐτῷ ὅτι Ἰησοῦς ὁ Ναζωραῖος παρέρχεται.*
+
+- **"as he drew near (ἐγγίζειν) to Jericho"**:
+  - Drawing near (10:9; 15:1). *Forward:* 19:11; 22:47; 24:15, 24:28.
+  - *Jericho: the man "going down from Jerusalem to Jericho" (10:30, test).* The road comes to the place that, in the Samaritan parable, is the end of the going down.
+- **"a blind man sat beside the way (παρὰ τὴν ὁδόν)"**:
+  - *The seed that fell "beside the way (παρὰ τὴν ὁδόν)" was trodden down, and the birds ate it (8:5). The same words.*
+  - The blind man is where the seed was lost.
+- **"begging (ἐπαιτῶν)"**: *the steward, "to beg (ἐπαιτεῖν) I am ashamed" (16:3).* The blind man is not ashamed.
+- **"a crowd going through (διαπορευομένου)"**: the road, passing through.
+- **"Jesus the Nazorean is passing by (παρέρχεται)"**:
+  - *Nazareth:* the origin (4:16; 4:34).
+  - *Passing by:* the priest and the Levite "passed by" (10:31–32, test); "you pass by the calling" (11:42); the lord "coming by" (παρελθών) will serve those who watch (12:37).
+  - He is passing by; the blind man does not let him pass.
+
+### 18:38–39
+
+*καὶ ἐβόησεν λέγων· Ἰησοῦ υἱὲ Δαυίδ, ἐλέησόν με. καὶ οἱ προάγοντες ἐπετίμων αὐτῷ ἵνα σιγήσῃ· αὐτὸς δὲ πολλῷ μᾶλλον ἔκραζεν· Υἱὲ Δαυίδ, ἐλέησόν με.*
+
+- **"he cried out (ἐβόησεν)"**: *"his chosen who cry (βοώντων) to him day and night" (18:7).* The father of the only son "cried out" (9:38).
+- **"Jesus, son of David"**:
+  - David (6:3). *Forward: "how do they say that the Anointed One is son of David?… David calls him Lord" (20:41–44).*
+  - The blind man names him by the line of the kingdom.
+- **"have mercy on me (ἐλέησόν με)"**: *the rich man in Hades (16:24); the tax collector, "be merciful to me" (18:13); the lepers (17:13, test).*
+- **"those going ahead rebuked (ἐπετίμων) him, to make him silent (σιγήσῃ)"**:
+  - The rebuke misused (18:15).
+  - Silence: what he ordered after the naming (9:21, 9:36). *Here those in front impose silence on someone asking for mercy.*
+- **"but he cried out (ἔκραζεν) all the more"**: κράζω, the cry of falsity in 4:33, 8:28 and 9:39, here the cry for mercy. The same cry, from the other side.
+
+### 18:40–41
+
+*σταθεὶς δὲ ὁ Ἰησοῦς ἐκέλευσεν αὐτὸν ἀχθῆναι πρὸς αὐτόν. ἐγγίσαντος δὲ αὐτοῦ ἐπηρώτησεν αὐτόν· Τί σοι θέλεις ποιήσω; ὁ δὲ εἶπεν· Κύριε, ἵνα ἀναβλέψω.*
+
+- **"Jesus stood (σταθείς)"**: *the Pharisee "standing (σταθείς), prayed to himself" (18:11).* The Pharisee stands to himself; Jesus stands for the blind man. The one passing by stops.
+- **"he ordered him to be led (ἀχθῆναι) to him"**: brought in (14:21).
+- **"when he drew near (ἐγγίσαντος)"**: the blind man draws near, as the sinners drew near (15:1).
+- **"What do you want me to do for you?"**: what the asker wants. "What must I do?" was the ruler's question (18:18). Here he asks what he should do.
+- **"Lord, that I may look up (ἀναβλέψω)"**:
+  - *ἀνα-βλέπω, "look up, see again":*
+    - "the blind look up (ἀναβλέπουσιν)" (7:22);
+    - "looking up (ἀναβλέψας) into heaven, he blessed" (9:16).
+  - *Forward: "looking up (ἀναβλέψας), Jesus saw" Zacchaeus in the tree (19:5).*
+
+### 18:42–43
+
+*καὶ ὁ Ἰησοῦς εἶπεν αὐτῷ· Ἀνάβλεψον· ἡ πίστις σου σέσωκέν σε. καὶ παραχρῆμα ἀνέβλεψεν, καὶ ἠκολούθει αὐτῷ δοξάζων τὸν θεόν. καὶ πᾶς ὁ λαὸς ἰδὼν ἔδωκεν αἶνον τῷ θεῷ.*
+
+- **"Look up (Ἀνάβλεψον); your faith has saved you"**: the word to the women (7:50; 8:48) and to the Samaritan (17:19).
+- **"at once he looked up (ἀνέβλεψεν)"**: the looking up is given.
+- **"and followed (ἠκολούθει) him"**:
+  - *The ruler was told "come, follow me" (18:22), and went away sorrowful.*
+  - The blind beggar beside the way follows.
+  - The one beside the way joins the way.
+- **"glorifying God"**: the bent woman (13:13), the Samaritan (17:15).
+- **"all the people gave praise (αἶνον)"**: *forward: the disciples "began to praise (αἰνεῖν) God" in the unprinted 19:37.*
+
+### What came out of the reading of chapter 16
+
+**Going up, going down, being lifted up (18:9–14).**
+- Two men go up to the temple to pray, in the words of his going up the mountain to pray (9:28).
+- One stands and prays to himself. He thanks God that he is not like others, and lists his fasting and tithing: the claim of merit.
+- The other stands far off, does not lift his eyes to heaven, beats his own breast, and asks for mercy as the sinner.
+- He goes down to his house justified.
+- "Whoever lifts himself up will be brought low; whoever brings himself low will be lifted up."
+- *This is the printed text's own statement of how one ascends:*
+  - not by going up, which both did;
+  - by being brought low;
+  - and the lifting up is done to one ("will be lifted up").
+- *Going down to his house justified is what Zacchaeus will do in the event (19:5–9).*
+
+**Receiving the kingdom as a child (18:15–17).** Do not hinder the children. Whoever does not receive the kingdom as a child will not enter it.
+
+**The One good, and what it lacks (18:18–23).**
+- "No one is good except one".
+- "One thing you lack: sell all, give, follow me".
+- *The addition "the Father" (18:19) is the second wording the reading marks as a strain.* It names the One as a title set against "me". The text keeps the identity open there, and the next verse holds it inwardly ("honour your father").
+
+**The two who are asked to follow.**
+- The rich ruler has kept everything from his youth, lacks one thing, and goes away sorrowful.
+- The blind man sits beside the way, where the seed was lost (8:5), begging, unashamed (16:3).
+- He hears that Jesus is passing by, and cries for mercy. When rebuked he cries all the more.
+- Jesus stops. The man asks to look up. He looks up, follows, and glorifies God.
+- *The verb of his healing is "look up" (ἀναβλέπω), the verb of 9:16 and 19:5.*
+
+**The road's verb "go up".** The printed text never says "go up to Jerusalem". The two passages that say it — 18:31 ("we go up to Jerusalem", built like 9:28) and 19:28 — are not printed. The printed text's own word for the movement is "taking up" (9:51). Its own going up is to pray: to the mountain (9:28) and to the temple (18:10).
+
+### Threads, carried forward and added
+
+- praying always;
+- the judge and the widow;
+- persistence moving the one inside (11:7–8 / 18:5);
+- crying day and night (→ 18:38);
+- faith on the earth;
+- trusting in oneself (11:22 / 18:9);
+- despising (→ 23:11);
+- going up to pray (9:28 / 18:10);
+- the temple (→ 20:1; 21:37–38);
+- praying to oneself;
+- thanksgiving for oneself (17:16 / 18:11);
+- plunder (11:39 / 18:11);
+- fasting (5:33–35);
+- tithing (11:42 / 18:12);
+- far off;
+- not lifting the eyes;
+- beating the breast;
+- going down justified (→ 19:5–9);
+- lifting up and bringing low (18:14 = 14:11, unprinted);
+- the children, receiving as a child;
+- the One good;
+- "God the Father" (strain);
+- honouring father and mother;
+- keeping the commandments;
+- one thing lacking;
+- selling and giving (12:33, test);
+- following (5:27–28 / 18:22 / 18:43);
+- sorrow (→ 22:45);
+- (test) the own (τὰ ἴδια), possible with God, receiving back, eternal life;
+- (test) "we go up to Jerusalem", the third day, hidden;
+- Jericho (10:30, test / 18:35 / 19:1);
+- beside the way (8:5 / 18:35);
+- begging (16:3);
+- passing by;
+- son of David (→ 20:41–44);
+- mercy;
+- silencing;
+- the cry (κράζω) turned;
+- Jesus stops;
+- being led to him;
+- looking up (7:22; 9:16 / 18:41–43 → 19:5);
+- praise (→ 19:37, unprinted).
