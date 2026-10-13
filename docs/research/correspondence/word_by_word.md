@@ -3623,3 +3623,194 @@ The earlier verdicts were drawn from the letter.
 - place;
 - the house filled;
 - tasting (9:27 / 14:24).
+
+---
+
+## Chapter 13
+
+*15:1–10. Grey: 15:1–2. Not printed: 15:11–32 (A−), after 15:10.*
+
+### 15:1–2 (grey)
+
+*Ἦσαν δὲ αὐτῷ ἐγγίζοντες πάντες οἱ τελῶναι καὶ οἱ ἁμαρτωλοὶ ἀκούειν αὐτοῦ. καὶ διεγόγγυζον οἵ τε Φαρισαῖοι καὶ οἱ γραμματεῖς λέγοντες ὅτι Οὗτος ἁμαρτωλοὺς προσδέχεται καὶ συνεσθίει αὐτοῖς.*
+
+- **"all the tax collectors and sinners were drawing near (ἐγγίζοντες) to him to hear him"**:
+  - Drawing near: the kingdom "has come near" (10:9, 10:11). Now the sinners draw near.
+  - To hear (8:8; 9:35; 14:35, test).
+- **"the Pharisees and scribes grumbled (διεγόγγυζον)"**:
+  - *Grumbling (γογγύζω): at Levi's feast (5:30); here; and at Zacchaeus' house, "he has gone in to lodge with a sinful man" (19:7). The only places.*
+  - The three meals with sinners are joined by this one verb.
+- **"this man receives (προσδέχεται) sinners and eats with them"**:
+  - προσδέχομαι: "men waiting for (προσδεχομένοις) their lord" (12:36).
+  - What the watchful do for their lord, he does for sinners. Reception.
+
+### 15:3–4
+
+*Τίς ἄνθρωπος ἐξ ὑμῶν ἔχων ἑκατὸν πρόβατα καὶ ἀπολέσας ἐξ αὐτῶν ἓν οὐ καταλείπει τὰ ἐνενήκοντα ἐννέα ἐν τῇ ἐρήμῳ καὶ πορεύεται ἐπὶ τὸ ἀπολωλὸς ἕως εὕρῃ αὐτό;*
+
+- **"a hundred sheep"**: a hundred, the full (8:8; 7:2). The sheep: the "little flock" (12:32); lambs (10:3).
+- **"having lost (ἀπολέσας) one"**:
+  - Losing, ἀπόλλυμι: perishing (4:34; 8:24; 9:24; 13:3, test). The same verb is "destroy", "perish" and "lose".
+  - *Forward: "the Son of Man came to seek and to save the lost (τὸ ἀπολωλός)" (19:10).*
+- **"does he not leave (καταλείπει) the ninety-nine in the desert (ἐρήμῳ)"**:
+  - Leaving: *Levi, "leaving (καταλιπών) everything, rising, followed him" (5:28).* What Levi did to follow him, the shepherd does to go after the one.
+  - The desert (4:42; 8:29; 9:12).
+- **"and go (πορεύεται) after the lost one until he finds it?"**: the road, walked toward the lost.
+
+### 15:5–6
+
+*καὶ εὑρὼν ἐπιτίθησιν ἐπὶ τοὺς ὤμους αὐτοῦ χαίρων, καὶ ἐλθὼν εἰς τὸν οἶκον συγκαλεῖ τοὺς φίλους καὶ τοὺς γείτονας, λέγων αὐτοῖς· Συγχάρητέ μοι ὅτι εὗρον τὸ πρόβατόν μου τὸ ἀπολωλός.*
+
+- **"finding it, he lays it on his shoulders, rejoicing"**:
+  - The lost one does not walk back; it is carried.
+  - "Lays on" (ἐπιτίθησιν): the verb of the hands laid on the bent woman (13:13).
+- **"coming into the house, he calls together the friends and neighbours"**:
+  - Friends (11:5–8; 12:4).
+  - "Neighbours": "do not call… rich neighbours" (14:12). Here the neighbours are called to share joy, not to repay.
+- **"rejoice with me"**: joy (10:17, 10:20–21; 13:17).
+
+### 15:7
+
+*λέγω ὑμῖν ὅτι οὕτως χαρὰ ἐν τῷ οὐρανῷ ἔσται ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι ἢ ἐπὶ ἐνενήκοντα ἐννέα δικαίοις οἵτινες οὐ χρείαν ἔχουσιν μετανοίας.*
+
+- **"joy in heaven over one sinner who repents (μετανοοῦντι)"**:
+  - Repenting: "I came to call sinners to repentance (μετάνοιαν)" (5:32). *Forward:* "if someone goes to them from the dead, they will repent" (16:30); "repentance… proclaimed to all the nations" (24:47).
+  - The finding is called repenting. In the parable, the sheep does nothing and is found; the text calls that repentance.
+- **"than over ninety-nine righteous (δικαίοις) who have no need (χρείαν) of repentance"**:
+  - *"Those who are well have no need (χρείαν) of a physician" (5:31).*
+  - The righteous: "I did not come to call the righteous" (5:32). *Forward:* "some who trusted in themselves that they were righteous" (18:9).
+
+### 15:8–10
+
+*Ἢ τίς γυνὴ δραχμὰς ἔχουσα δέκα, ἐὰν ἀπολέσῃ δραχμὴν μίαν, οὐχὶ ἅπτει λύχνον καὶ σαροῖ τὴν οἰκίαν καὶ ζητεῖ ἐπιμελῶς ἕως οὗ εὕρῃ; καὶ εὑροῦσα συγκαλεῖ τὰς φίλας καὶ γείτονας λέγουσα· Συγχάρητέ μοι ὅτι εὗρον τὴν δραχμὴν ἣν ἀπώλεσα. οὕτως, λέγω ὑμῖν, γίνεται χαρὰ ἐνώπιον τῶν ἀγγέλων τοῦ θεοῦ ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι.*
+
+- **"ten drachmas… if she loses one"**: a silver coin, a truth (?). Ten: what is kept, the remains (?).
+- **"does she not light a lamp (ἅπτει λύχνον)"**: the lamp (8:16; 11:33; 12:35). The lamp is lit to find.
+- **"and sweep (σαροῖ) the house"**:
+  - *The house "swept (σεσαρωμένον) and adorned", empty, and reoccupied by seven worse spirits (11:25, test).* The same act, sweeping the house, either leaves it empty or finds what was lost.
+  - The lamp makes the difference.
+- **"and seek (ζητεῖ) carefully until she finds"**: "seek, and you will find" (11:9). Here the seeker is the woman, and what she seeks is what she lost.
+- **"joy before the angels of God over one sinner who repents"**: the angels of God, named here in the printed text (cf. 12:8–9).
+
+### Test: 15:11–32 (A−)
+
+*Ἄνθρωπός τις εἶχεν δύο υἱούς. καὶ εἶπεν ὁ νεώτερος αὐτῶν τῷ πατρί· Πάτερ, δός μοι τὸ ἐπιβάλλον μέρος τῆς οὐσίας· ὁ δὲ διεῖλεν αὐτοῖς τὸν βίον. καὶ μετ’ οὐ πολλὰς ἡμέρας συναγαγὼν πάντα ὁ νεώτερος υἱὸς ἀπεδήμησεν εἰς χώραν μακράν, καὶ ἐκεῖ διεσκόρπισεν τὴν οὐσίαν αὐτοῦ ζῶν ἀσώτως… καὶ πορευθεὶς ἐκολλήθη ἑνὶ τῶν πολιτῶν τῆς χώρας ἐκείνης, καὶ ἔπεμψεν αὐτὸν εἰς τοὺς ἀγροὺς αὐτοῦ βόσκειν χοίρους· καὶ ἐπεθύμει γεμίσαι τὴν κοιλίαν αὐτοῦ ἀπὸ τῶν κερατίων ὧν ἤσθιον οἱ χοῖροι, καὶ οὐδεὶς ἐδίδου αὐτῷ. εἰς ἑαυτὸν δὲ ἐλθὼν ἔφη· Πόσοι μίσθιοι τοῦ πατρός μου περισσεύονται ἄρτων, ἐγὼ δὲ λιμῷ ὧδε ἀπόλλυμαι· ἀναστὰς πορεύσομαι πρὸς τὸν πατέρα μου… καὶ ἀναστὰς ἦλθεν πρὸς τὸν πατέρα ἑαυτοῦ. ἔτι δὲ αὐτοῦ μακρὰν ἀπέχοντος εἶδεν αὐτὸν ὁ πατὴρ αὐτοῦ καὶ ἐσπλαγχνίσθη καὶ δραμὼν ἐπέπεσεν ἐπὶ τὸν τράχηλον αὐτοῦ καὶ κατεφίλησεν αὐτόν… Ταχὺ ἐξενέγκατε στολὴν τὴν πρώτην καὶ ἐνδύσατε αὐτόν, καὶ δότε δακτύλιον εἰς τὴν χεῖρα αὐτοῦ καὶ ὑποδήματα εἰς τοὺς πόδας… ὅτι οὗτος ὁ υἱός μου νεκρὸς ἦν καὶ ἀνέζησεν, ἦν ἀπολωλὼς καὶ εὑρέθη… ὠργίσθη δὲ καὶ οὐκ ἤθελεν εἰσελθεῖν. ὁ δὲ πατὴρ αὐτοῦ ἐξελθὼν παρεκάλει αὐτόν… Τέκνον, σὺ πάντοτε μετ’ ἐμοῦ εἶ, καὶ πάντα τὰ ἐμὰ σά ἐστιν· εὐφρανθῆναι δὲ καὶ χαρῆναι ἔδει, ὅτι ὁ ἀδελφός σου οὗτος νεκρὸς ἦν καὶ ἔζησεν, καὶ ἀπολωλὼς καὶ εὑρέθη.*
+
+- **"give me the portion (μέρος) of the substance that falls to me"**:
+  - The own asks for its part. Mary's "good part" (10:42, test); the servant's "part with the unfaithful" (12:46).
+  - The father divides (διεῖλεν) his living (βίον). He would not divide the inheritance between brothers (12:13–14); here the father divides.
+  - βίος: the woman spent her whole living (βίον) on physicians (8:43).
+- **"gathering (συναγαγών) everything, he went away into a far country (χώραν μακράν)"**:
+  - Gathering for oneself (12:17–18).
+  - *"A far country" (χώραν μακράν): the printed 19:12, "a nobleman went into a far country (χώραν μακράν) to receive a kingdom and return".*
+- **"and there he scattered (διεσκόρπισεν) his substance"**:
+  - *"Whoever does not gather with me scatters (σκορπίζει)" (11:23).*
+  - *The steward "accused of scattering (διασκορπίζων) his possessions" (16:1), the next printed verse.*
+- **"going (πορευθείς), he joined himself (ἐκολλήθη) to one of the citizens… who sent him into his fields to feed swine (βόσκειν χοίρους)"**:
+  - The road, going down.
+  - Joining: *"the dust that clings (κολληθέντα) to our feet" (10:11).*
+  - *The swine: the herd feeding (βοσκομένη) on the mountain, and the feeders (βόσκοντες) who fled (8:32–34).* He becomes a feeder of swine.
+- **"he longed (ἐπεθύμει) to fill (γεμίσαι) his belly… and no one gave to him"**:
+  - *Longing: Lazarus "longing (ἐπιθυμῶν) to be filled from what fell from the rich man's table" (16:21).*
+  - Filling: "that my house may be filled (γεμισθῇ)" (14:23).
+- **"coming into himself (εἰς ἑαυτὸν ἐλθών)"**:
+  - *The self.* "Let him deny himself" (9:23); "what does it profit… losing himself" (9:25).
+  - Here the turn is to come into oneself. It is the inside (ἔσωθεν, 11:39–40), reached.
+- **"my father's hired servants have bread in overflow (περισσεύονται)"**: the overflow (9:17; 12:15). Bread (11:3).
+- **"and I perish (ἀπόλλυμαι) here"**: perishing (8:24: "we are perishing").
+- **"rising (ἀναστάς), I will go (πορεύσομαι) to my father"**:
+  - *Rising and going, joined, toward the father.* Both are threads that the text has carried since 4:29–30 and 4:42.
+  - "Rising" again in 15:20: "and rising, he came".
+- **"I sinned against heaven and before you; I am no longer worthy to be called your son"**: the centurion, "I am not worthy" (7:6–7). Being called (14:7–24).
+- **"while he was still far off (μακρὰν ἀπέχοντος)"**: *the centurion's "when he was not far off (οὐ μακρὰν ἀπέχοντος)" (7:6), the same words.*
+- **"his father saw him and had compassion (ἐσπλαγχνίσθη)"**: the Lord at Nain (7:13); the Samaritan (10:33, test).
+- **"running, he fell on his neck and kissed him (κατεφίλησεν)"**:
+  - *κατεφίλησεν: the woman "kissed (κατεφίλει)" his feet (7:38, 7:45).* *Forward: Judas draws near "to kiss (φιλῆσαι) him" (22:47–48).*
+  - Running: *Zacchaeus "running ahead" (προδραμών, 19:4).*
+- **"bring out the first (πρώτην) robe and clothe (ἐνδύσατε) him"**:
+  - The first: the own sought the first places (11:43; 14:7–10). Here the first robe is given to the one who asked to be a hired servant.
+  - *Clothing:* Legion clothed (8:35); "what you will put on (ἐνδύσησθε)" (12:22); "God so clothes" (12:28a, test). *Forward:* "until you are clothed (ἐνδύσησθε) with power from on high" (24:49, unprinted).
+- **"a ring for his hand, and sandals for his feet"**:
+  - The hand (8:54; 13:13).
+  - *Sandals: "carry no… sandals (ὑποδήματα)" (10:4).* On the road one goes without. At the return they are given.
+- **"this my son was dead and lives again (ἀνέζησεν)"**:
+  - *ἀνα-ζάω, "live up again".* Living: "do this and you will live (ζήσῃ)" (10:28). *Forward:* "why do you seek the Living One (τὸν ζῶντα) among the dead?" (24:5).
+  - Dead: "let the dead bury their dead" (9:60); "she is not dead but sleeps" (8:52).
+- **"he was lost (ἀπολωλώς) and is found (εὑρέθη)"**: the words of 15:4–6 and 19:10.
+- **"the elder son… drew near (ἤγγισεν) the house… he was angry (ὠργίσθη) and would not go in (εἰσελθεῖν)"**:
+  - *Angry: the master of the house, "angry" (ὀργισθείς), brought in the poor (14:21).* Here the son is angry because the poor one is brought in.
+  - Not wishing to enter (11:52; 13:24; 14:23). The one who will not go in stands outside (13:25).
+  - The healthy (ὑγιαίνοντα, 15:27), against 5:31.
+- **"so many years I serve (δουλεύω) you, and never passed by (παρῆλθον) your command"**:
+  - Serving: *"no one can serve (δουλεύειν) two masters" (16:13).*
+  - Passing by: "you pass by (παρέρχεσθε) the calling and the love of God" (11:42).
+  - The ninety-nine righteous "who have no need of repentance" (15:7), in person.
+- **"the father came out and urged him"**: the father goes out to the one who will not come in, as he ran to the one who came.
+- **"Child, you are always with me, and all that is mine is yours"**: *"all things were handed over to me by my Father" (10:22).*
+- **"it was necessary (ἔδει) to make merry and rejoice"**:
+  - The "must" of the passion (9:22) and of the loosing (13:16), here the must of joy.
+  - Making merry (εὐφραίνω): the rich man told his soul to make merry (12:19); *the rich man of 16:19 "made merry (εὐφραινόμενος) daily".* The merriment of the own, and the merriment of the found.
+
+**Verdict: continues.**
+- Every phrase is in a thread of the printed text, and the threads reach 5:28, 5:31, 7:6, 7:13, 7:38, 8:32–34, 10:4, 10:11, 10:22, 11:23, 12:13–19, 12:22, 13:16, 13:25, 14:21–23, 16:1, 16:13, 16:21, 19:4, 19:10, 19:12 and 24:5.
+- Its mechanic is the one the printed 15:7 and 15:10 name and do not show. The printed parables show the seeking from the Divine's side: the shepherd goes, the woman lights a lamp; the lost is found and carried. They call that "a sinner who repents". 15:11–32 shows the turn from the other side:
+  - the own asks for its part, gathers, goes far, scatters;
+  - it joins itself to another, feeds swine, longs to be filled, and no one gives;
+  - it comes into itself, rises and goes to the father;
+  - it is seen while far off, met running, clothed, given back hand and feet;
+  - it was dead and lives again.
+- The elder son is the ninety-nine righteous of 15:7, outside, angry, unwilling to enter, and urged to.
+- It is the fullest statement in the text of rising (ἀναστάς, twice) joined to going (πορεύσομαι), toward the father, and of living again (ἀνέζησεν).
+- 15:10 → 16:1 runs ("he said also to the disciples…"). With the passage, 16:1's "scattering" would follow 15:13's "scattered". So it does not close a gap.
+- A−: restoring it would be against Marcion's text.
+
+### What came out of the reading of chapter 13
+
+**The Divine seeks.**
+- Sinners draw near, and he receives them (προσδέχεται) and eats with them. That is grumbled at, as at Levi's (5:30) and at Zacchaeus' (19:7).
+- The shepherd leaves the ninety-nine, as Levi left everything (5:28). He goes after the lost one, finds it, and carries it on his shoulders. The lost one does not walk back; it is carried.
+- The woman lights a lamp and sweeps the house until she finds. It is the sweeping that, in the test passage 11:25, left a house empty for worse spirits.
+- Joy in heaven, before the angels of God, over one sinner who repents. More than over ninety-nine righteous who have no need of it: the healthy who need no physician (5:31).
+
+**What repenting is, in the printed text and in the test passage.**
+- In the printed parables, repenting is being found and carried.
+- In 15:11–32 it is the turn inside the one who is lost:
+  - coming into oneself;
+  - rising and going to the father;
+  - being met while far off;
+  - being clothed with the first robe;
+  - living again.
+- The printed text names this mechanic twice (15:7, 15:10). The test passage shows it. By its words and by its mechanic it continues the line. It does not close a gap in the printed text. A−.
+
+**Being carried, being clothed.** The found sheep is carried on the shoulders. The returning son is clothed with the first robe, by others. In these passages the rising of the lost is not by their own strength. "He rose and came" is the one act of the son. After it, everything is done to him.
+
+### Threads, carried forward and added
+
+- drawing near (sinners);
+- grumbling (5:30 / 15:2 / 19:7);
+- receiving (προσδέχομαι);
+- the lost (→ 19:10);
+- leaving (5:28 / 15:4);
+- the desert;
+- carried on the shoulders;
+- the lamp and the sweeping (11:25 / 15:8);
+- seeking until finding;
+- joy in heaven, before the angels;
+- repenting (→ 16:30; 17:3–4; 24:47);
+- the righteous who need nothing;
+- and, from the test passage:
+  - the part asked for;
+  - the far country (→ 19:12);
+  - scattering (→ 16:1);
+  - the swine;
+  - longing to be filled (→ 16:21);
+  - coming into oneself;
+  - rising and going to the father;
+  - "far off" (7:6);
+  - the kiss (7:38, 7:45 → 22:47–48);
+  - the first robe;
+  - the ring and the sandals (10:4);
+  - "lives again" (→ 24:5);
+  - the elder son outside;
+  - "all that is mine is yours" (10:22);
+  - the must of joy.
