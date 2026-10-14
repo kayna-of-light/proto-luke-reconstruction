@@ -1,19 +1,19 @@
 # Proto-Luke read in correspondence: analysis of the whole text
 
-**Status:** analysis only. Nothing in `data/` is changed, and nothing is reconstructed. The text is translated into its inner sense, read through as one story, and the places where that story does not run are flagged. Deciding any doubt is a later step and is not begun here.
+**Status:** analysis, with proposals only. Nothing in `data/` is changed, and nothing is reconstructed. The text is translated into its inner sense, read through as one story, and tested for places where that story does not run. The decisions on the doubts are in `decisions.md`.
 
 **Text:** the printed text of PR #3 (`e5de666`, `data/proto_luke.json`), in its English, which translates the printed Greek.
 
 ## 1. The object: the text before Marcion
 
-The witnesses attest the text read in Marcion's church. The object here is the text Marcion received. Four levels of certainty follow from that difference, and every reference in these files carries one of them.
+The witnesses attest the text read in Marcion's church. The object here is the text Marcion received. On the project's premise, Marcion did not cut (WORKING_DOCUMENT §1.1): what the witnesses attest as present or absent was so in the text he received. What remains open is his wording where it differs from canonical Luke. Every reference in these files carries one of four marks.
 
 | Mark | Level | What it covers | Status for the text before Marcion |
 |---|---|---|---|
-| `[4:31]` | **Certain** | Content attested for Marcion's text (`A+`) that canonical Luke also has | Both lines of transmission carry it. It stood in the text before either of them. Hard fact. |
-| `[4:36 g]` | **Lower** | Grey verses: unattested inside an attested pericope (`U?`), present in canonical Luke | Canonical Luke has it; no witness speaks for Marcion's text. Neither confirmed nor excluded. |
-| `[5:14 ◊]` | **Doubt** | Where Marcion's attested text differs from canonical Luke: wording (the "Marcionite readings printed" tables in `docs/audit/AUDIT_LOG.md`), order (Capernaum before Nazara; 4:27 inside 17:12–14), the opening junction 3:1 → 4:31, the two additions at 23:2 | Either form may be the earlier one. The PR #3 form is read as printed, and every reading that depends on it is marked. |
-| *position* | **Unknown** | Everything not printed (`A−`, `U−`, `U?` outside attested pericopes) | Marcion's lacking a passage is not evidence that the earlier text lacked it. Unattested is not evidence either way. Nothing here is free to choose. Positions are listed at their places; their contents are not read. |
+| `[4:31]` | **Certain** | Content attested for Marcion's text (`A+`), and the order and opening the witnesses attest: 3:1 joined to 4:31; Capernaum before Nazara; 4:27 inside 17:12–14 | Hard fact. |
+| `[4:36 g]` | **Lower** | Grey verses: unattested inside an attested pericope (`U?`), present in canonical Luke | Neither confirmed nor excluded. |
+| `[5:14 ◊]` | **Doubt** | Marcion-only wording: the "Marcionite readings printed" tables in `docs/audit/AUDIT_LOG.md`, including the two additions at 23:2 | Either form may be the earlier wording. The printed form is read, and every reading that depends on it is marked. |
+| *position* | **Not in the text** / **unknown** | Not printed. `A−` is absent, by the witness rules. `U−` is probably absent. `U?` outside attested pericopes is unknown. | Attested absence is absence. A passage comes into question only if the inner mechanics of the certain text require it, and none does (`register.md`). |
 
 ## 2. The method
 
@@ -42,8 +42,8 @@ The fourth step, deciding doubts, is in `decisions.md`, as proposals only.
 |---|---|
 | `reading/ch01.md` … `reading/ch22.md` | Step 1. Each file contains three things: the inner sense of every printed verse of the chapter, with its certainty mark; the names given to the central figure; and the positions of unprinted passages. |
 | `story.md` | Step 2. The movements the text repeats, the one-soul story in sequence, and the sequence of names. |
-| `register.md` | Step 3. Gaps and breaks in the inner story. It also lists the gaps in the letter that were tested and found to hold inwardly, the tensions at doubtful wordings, and the places where the story leans on grey verses. |
-| `decisions.md` | Step 4. Part A fixes the requirements, and was committed before any candidate was read. Part B tests the candidates against them. Part C summarises the proposals for the text before Marcion. These are proposals only; `data/` is unchanged. |
+| `register.md` | Step 3. The standard for a gap, the seams tested against it (none fails inwardly), the places where the story leans on grey verses, and the tensions at Marcion-only wordings. |
+| `decisions.md` | Step 4. The decisions on the Marcion-only wordings. No passage is proposed. These are proposals only; `data/` is unchanged. |
 
 ## 4. Correspondences relied on
 
