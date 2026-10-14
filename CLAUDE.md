@@ -99,7 +99,7 @@ The primary data file is `data/proto_luke.json`. It is built by the audit script
 
 - **description**: The preface: what is reconstructed, the witnesses, the method, the results, sources
 - **preamble**: Chapter-level summary of the attested text
-- **greek**: NA27 Greek (checked on the page image), with Marcionite readings only where METHOD §5 allows; retroversions are marked in the notes
+- **greek**: NA27 Greek (checked on the page image), with Marcionite readings only where METHOD §5 allows and §11 does not set them aside; retroversions are marked in the notes
 - **english**: Translation of the printed Greek, following the terminology above
 - **notes**: Textual (attestation and wording, with loci), excision (what is not printed and why), translation, theological (marked as interpretation; keeps apart redaction, transmission and reception)
 
@@ -117,6 +117,7 @@ proto-luke-reconstruction/
 │   ├── research_questions.md      # Scholarly decisions log
 │   ├── WORKING_DOCUMENT.md        # Background and plan of the audit
 │   ├── audit/                     # METHOD.md, AUDIT_LOG.md, library_corrections.md
+│   ├── research/correspondence/   # Correspondential reading, register, decisions (METHOD §11)
 │   └── stylometry/                # Pre-registration and report
 ├── output/
 │   └── Proto-Luke_Jamesian_Protograph.pdf

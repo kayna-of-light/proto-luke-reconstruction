@@ -46,13 +46,14 @@ ENTRIES = [
    'present (Marc. 4.36.4, 6; Pan. 42.11.6, sch. 50; Adam. 92,25–26)',
    [E(50, '»εἶπέ τις πρὸς αὐτόν· διδάσκαλε ἀγαθέ, τί ποιήσας ζωὴν αἰώνιον κληρονομήσω;«'),
     T('4.36.4', '"Denique interrogatus ab illo quodam, Praeceptor optime, quid faciens vitam aeternam possidebo?"')]),
- A('18:19', G('18:19', [('εἰ μὴ εἷς ὁ θεός.', 'εἰ μὴ εἷς ὁ θεὸς ὁ πατήρ.')]),
-   'And Jesus said to him, "Why do you call me good? No one is good except one, God the Father.',
+ A('18:19', G('18:19'),
+   'And Jesus said to him, "Why do you call me good? No one is good except God alone.',
    'present (Marc. 4.36.3, 6; Pan. 42.11.6, sch. 50; Adam. 2,18–19; 92,26–27; Origen, Princ. 2.5.1, 4; Hippolytus, Haer. 7.31.6)',
    [E(50, '»ὁ δέ· μή με λέγε ἀγαθόν. εἷς ἐστιν ἀγαθός ὁ θεός«· προσέθετο ἐκεῖνος »ὁ πατήρ«.'),
     T('4.36.3', '"Sed quis optimus, nisi unus, inquit, deus?"'),
     AD('2,18–19 (1.1)', '[Megethius] …οὐδεὶς ἀγαθὸς εἰ μὴ εἷς, ὁ πατήρ.')],
-   wording=('Marcionite reading adopted: "God the Father" (ὁ θεὸς ὁ πατήρ) for "God". Epiphanius says that Marcion "added \'the Father\'"; the Dialogue and Origen\'s report of the heretics\' use also have "the Father"; Roth: very likely. Tertullian has only "God", and Roth allows that the copies differed. '
+   wording=('NA27 (εἰ μὴ εἷς ὁ θεός), the text before Marcion (METHOD §11). Marcion\'s text in its later copies read "God the Father" (ὁ θεὸς ὁ πατήρ): Epiphanius says that Marcion "added \'the Father\'", and the Dialogue and Origen\'s report of the heretics\' use have it (Roth: very likely). Tertullian, the earliest witness, has only "God" ("nisi unus deus"), and Roth allows that the copies differed. '
+            'In the correspondential reading "Father" is everywhere relational (in address, "your Father", "my Father", the Father who gives); only this reading fixes it as a title (docs/research/correspondence/decisions.md, T2). '
             'Epiphanius\' "do not call me good" and "one is good" are rated probable only; NA27 is printed for the rest.')),
  A('18:20', G('18:20', [('Μὴ μοιχεύσῃς, Μὴ φονεύσῃς, Μὴ κλέψῃς, Μὴ ψευδομαρτυρήσῃς', 'Μὴ φονεύσῃς, Μὴ μοιχεύσῃς, Μὴ κλέψῃς, Μηδὲ ψευδομαρτυρήσῃς')]),
    'You know the commandments: Do not kill, do not commit adultery, do not steal, do not bear false witness, honour your father and mother."',
@@ -115,8 +116,8 @@ OMITTED = [
 PREAMBLE = (
  "Prayer, the commandments and the son of David. Jesus tells of a widow who wore down an unjust judge, and says that God "
  "will give justice to his chosen ones who cry to him day and night. He tells of a Pharisee and a tax collector praying in "
- "the temple, and of the one who went home justified. A ruler asks what he must do to inherit eternal life. In this text "
- "Jesus answers, \"No one is good except one, God the Father,\" and lists the commandments in the order \"do not kill, do not "
+ "temple, and of the one who went home justified. A ruler asks what he must do to inherit eternal life. Jesus answers, "
+ "\"No one is good except God alone,\" and lists the commandments in the order \"do not kill, do not "
  "commit adultery\". He then tells the man: \"One thing you lack: sell all that you have and give to the poor… and come, "
  "follow me.\" Near Jericho a blind man calls him \"Jesus, son of David\" and is healed. The third prediction of the passion, "
  "with its appeal to \"everything written by the prophets\" (18:31–33), is not in the text (Epiphanius, sch. 52)."
@@ -131,14 +132,17 @@ NOTES = [
   "Tertullian, Marc. 4.36.1–2: two men praying in the temple \"with different minds\", the Pharisee in pride and the tax "
   "collector in humility, \"one rejected and the other went down justified\". He notes that the temple is the Creator's "
   "temple. 18:9 is not cited and is printed in grey.")),
- dict(term='"God the Father" and the commandments (18:18–23)', cat='textual', refs=['18:18', '18:19', '18:20', '18:22', '18:23'], text=(
+ dict(term='"God alone" and the commandments (18:18–23)', cat='textual', refs=['18:18', '18:19', '18:20', '18:22', '18:23'], text=(
   "Epiphanius, sch. 50 quotes the exchange: \"Good teacher, what must I do to inherit eternal life?\" \"Do not call me good; "
   "one is good, God\", to which, he says, Marcion \"added 'the Father'\". The Marcionite speaker in the Dialogue of Adamantius "
-  "has the same \"except one, the Father\", and Origen reports the heretics' use of it. Tertullian (4.36.3–7) has \"one God\" "
+  "has the same \"except one, the Father\", and Origen reports the heretics' use of it. Tertullian (4.36.3–7), the earliest "
+  "witness, has \"one God\" without \"the Father\", "
   "and lists the commandments in the order \"not to kill, not to commit adultery, not to steal, not to bear false witness, to "
   "love father and mother\". He quotes the command to sell all and give to the poor, \"and you will have treasure in heaven, "
-  "and come, follow me\", and says Christ \"kept the earlier commandments and added what was lacking\", as in Micah 6:8. The "
-  "readings \"God the Father\", the order of the commandments, and \"give… treasure in heaven\" are printed.")),
+  "and come, follow me\", and says Christ \"kept the earlier commandments and added what was lacking\", as in Micah 6:8. "
+  "\"The Father\" belongs to the later copies of Marcion's text and is not printed: the text before Marcion is decided by the "
+  "earliest witness together with the correspondential reading, in which \"Father\" is relational throughout and only this "
+  "reading makes it a title (METHOD §11). The order of the commandments and \"give… treasure in heaven\" are printed.")),
  dict(term='Not printed: 18:24–34', cat='excision', refs=['18:23', '18:35'], text=(
   "18:24–30 (the camel and the needle; the reward for leaving home and family) are not cited by any witness and form a "
   "paragraph without an attested verse. 18:31–33, the third prediction of the passion with \"everything written by the "

@@ -622,3 +622,35 @@ METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 alrea
 - **Q5 checked.** No "spiritual body" language occurs. "The Living One" is used at 24:5.
 - **All six batch scripts were rerun in order.** The JSON and apparatus they produce are identical to the committed files except for the Q4 translations.
 - **README and CLAUDE.md** now describe the actual schema, the apparatus, the build and the decision rules.
+
+## The text before Marcion: correspondential test (2026-10-14)
+
+Method: METHOD §11. The work is in `docs/research/correspondence/`.
+
+### What was done
+
+- **Translated.** Every printed verse was translated into its inner sense and read as one story (`reading/`, `story.md`).
+- **Seams tested.** Every seam in the attested text was tested against the inner mechanics (`register.md`). None fails. Each seam is carried inwardly by the attested text:
+  - the opening, by 16:16;
+  - the arrival at the centre, by 19:11–26 and 20:1–19;
+  - "these things" (21:7), by 19:11 and 17:20–37;
+  - the denial foretold at 22:34, by 23:55, 24:11, 24:16 and 24:37;
+  - the step from recognition to fright (24:31 → 24:37), as the inner form recognised and then known in the outer form.
+
+  No passage is proposed. Attested absence stands.
+- **Readings classified.** The 54 Marcionite readings printed under §5 fall into two groups (`decisions.md`):
+  - 34 are shared with independent manuscripts;
+  - 20 are Marcion's alone.
+
+### Change to the text
+
+| Verse | Before | Now | Basis |
+|---|---|---|---|
+| 18:19 | εἷς ὁ θεὸς ὁ πατήρ, "except one, God the Father" | εἷς ὁ θεός, "except God alone" (NA27) | The later copies of Marcion's text (Epiphanius sch. 50; the Dialogue) have "the Father". Tertullian 4.36.3, the earliest witness, does not. In the inner reading "Father" is relational everywhere else, and only this reading makes it a title. |
+
+### Recorded, no change
+
+- **Marcion-only readings that stand.** The other 19 Marcion-only readings stand.
+- **11:29 and 24:25.** The printed forms are the ones the attested text supports. The canonical forms point to passages that are absent (11:30–32) or probably absent (24:27, 24:44–46).
+- **Doubts where both forms run.** Seven remain recorded doubts: 8:21, 10:21, 11:42, 13:28, 16:17, 21:27, 22:3.
+- **10:21, "and of earth".** The omission is shared with 𝔓45 and stands.
