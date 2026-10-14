@@ -4874,149 +4874,149 @@
     {
       "chapter": 8,
       "title": "Proto-Luke Chapter 8",
-      "preamble": "The mission of the seventy and what follows from it. Jesus sends out seventy others, two by two, with the instructions Tertullian reads as the Creator's own: no sandals, no greetings on the road, peace to the house, \"the worker deserves his wages\", and the dust wiped off against a town that refuses them, \"yet know this: the kingdom of God has come near\". Whoever rejects them rejects him; he gives them authority over snakes and scorpions. He then thanks the \"Lord of heaven\" that what was hidden from the wise has been revealed to little children, and says that no one knows who the Father is except the son. To a lawyer who asks what he must do to inherit life (\"life\", not \"eternal life\", as Tertullian points out) he answers with the command to love God, and \"do this and you will live\". Canonical Luke's judgement on Sodom and the woes on the Galilean towns, \"I saw Satan fall\", the parable of the Samaritan and the visit to Martha and Mary are not cited by either witness and are not printed.",
+      "preamble": "The mission of the seventy and what follows from it. Jesus sends out seventy others, two by two, with the instructions Tertullian reads as the Creator's own: no sandals, no greetings on the road, peace to the house, \"the worker is worthy of his wage\", and the dust wiped off against a town that refuses them, \"but know this, that the kingdom of God has come near\". Whoever rejects them rejects him; he gives them authority over snakes and scorpions. He then thanks the \"Lord of heaven\" that what was hidden from the wise has been revealed to little children, and says that no one knows who the Father is except the son. To a lawyer who asks what he must do to inherit life (\"life\", not \"eternal life\", as Tertullian points out) he answers with the command to love God, and \"do this and you will live\". Canonical Luke's judgement on Sodom and the woes on the Galilean towns, \"I saw Satan fall\", the parable of the Samaritan and the visit to Martha and Mary are not cited by either witness and are not printed.",
       "verses": [
         {
           "verse": 1,
           "canonical_ref": "Luke 10:1",
-          "english": "After this the Lord appointed seventy others and sent them on ahead of him, two by two, into every town and place where he himself was about to come.",
+          "english": "And after these things the lord appointed seventy others, and sent them two by two before his face into every city and place where he himself was about to come.",
           "greek": "Μετὰ δὲ ταῦτα ἀνέδειξεν ὁ κύριος ἑτέρους ἑβδομήκοντα καὶ ἀπέστειλεν αὐτοὺς ἀνὰ δύο δύο πρὸ προσώπου αὐτοῦ εἰς πᾶσαν πόλιν καὶ τόπον οὗ ἤμελλεν αὐτὸς ἔρχεσθαι."
         },
         {
           "verse": 2,
           "canonical_ref": "Luke 10:2",
-          "english": "He said to them, \"The harvest is plentiful, but the workers are few; so ask the Lord of the harvest to send out workers into his harvest.",
+          "english": "And he was saying to them, \"The harvest is great, but the workers are few; so beg the lord of the harvest to drive out workers into his harvest.",
           "greek": "ἔλεγεν δὲ πρὸς αὐτούς· Ὁ μὲν θερισμὸς πολύς, οἱ δὲ ἐργάται ὀλίγοι· δεήθητε οὖν τοῦ κυρίου τοῦ θερισμοῦ ὅπως ἐργάτας ἐκβάλῃ εἰς τὸν θερισμὸν αὐτοῦ.",
           "attestation": "unattested"
         },
         {
           "verse": 3,
           "canonical_ref": "Luke 10:3",
-          "english": "Go; behold, I am sending you out like lambs among wolves.",
+          "english": "Go away; look, I am sending you out like lambs in the middle of wolves.",
           "greek": "ὑπάγετε· ἰδοὺ ἀποστέλλω ὑμᾶς ὡς ἄρνας ἐν μέσῳ λύκων.",
           "attestation": "unattested"
         },
         {
           "verse": 4,
           "canonical_ref": "Luke 10:4",
-          "english": "Carry no purse, no bag, no sandals; and greet no one on the road.",
+          "english": "Do not carry a purse, nor a bag, nor sandals, and greet no one on the road.",
           "greek": "μὴ βαστάζετε βαλλάντιον, μὴ πήραν, μὴ ὑποδήματα, καὶ μηδένα κατὰ τὴν ὁδὸν ἀσπάσησθε."
         },
         {
           "verse": 5,
           "canonical_ref": "Luke 10:5",
-          "english": "Whatever house you enter, first say, \"Peace to this house.\"",
+          "english": "And whatever house you go into, first say, 'Peace to this house.'",
           "greek": "εἰς ἣν δ’ ἂν εἰσέλθητε οἰκίαν πρῶτον λέγετε· Εἰρήνη τῷ οἴκῳ τούτῳ."
         },
         {
           "verse": 6,
           "canonical_ref": "Luke 10:6",
-          "english": "And if a son of peace is there, your peace will rest on him; if not, it will return to you.",
+          "english": "And if a son of peace is there, your peace will rest upon him; but if not, it will turn back to you.",
           "greek": "καὶ ἐὰν ἐκεῖ ᾖ υἱὸς εἰρήνης, ἐπαναπαήσεται ἐπ’ αὐτὸν ἡ εἰρήνη ὑμῶν· εἰ δὲ μή γε, ἐφ’ ὑμᾶς ἀνακάμψει.",
           "attestation": "unattested"
         },
         {
           "verse": 7,
           "canonical_ref": "Luke 10:7",
-          "english": "Stay in that same house, eating and drinking what they provide, for the worker deserves his wages. Do not move from house to house.",
+          "english": "And stay in that same house, eating and drinking what comes from them, for the worker is worthy of his wage. Do not move from house to house.",
           "greek": "ἐν αὐτῇ δὲ τῇ οἰκίᾳ μένετε, ἐσθίοντες καὶ πίνοντες τὰ παρ’ αὐτῶν, ἄξιος γὰρ ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ. μὴ μεταβαίνετε ἐξ οἰκίας εἰς οἰκίαν."
         },
         {
           "verse": 8,
           "canonical_ref": "Luke 10:8",
-          "english": "Whenever you enter a town and they welcome you, eat what is set before you;",
+          "english": "And whatever city you go into and they receive you, eat what is set before you,",
           "greek": "καὶ εἰς ἣν ἂν πόλιν εἰσέρχησθε καὶ δέχωνται ὑμᾶς, ἐσθίετε τὰ παρατιθέμενα ὑμῖν,"
         },
         {
           "verse": 9,
           "canonical_ref": "Luke 10:9",
-          "english": "heal the sick in it and say to them, \"The kingdom of God has come near to you.\"",
+          "english": "and heal the weak in it, and say to them, 'The kingdom of God has come near to you.'",
           "greek": "καὶ θεραπεύετε τοὺς ἐν αὐτῇ ἀσθενεῖς, καὶ λέγετε αὐτοῖς· Ἤγγικεν ἐφ’ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ."
         },
         {
           "verse": 10,
           "canonical_ref": "Luke 10:10",
-          "english": "But whenever you enter a town and they do not welcome you, go out into its streets and say,",
+          "english": "But whatever city you go into and they do not receive you, going out into its streets, say,",
           "greek": "εἰς ἣν δ’ ἂν πόλιν εἰσέλθητε καὶ μὴ δέχωνται ὑμᾶς, ἐξελθόντες εἰς τὰς πλατείας αὐτῆς εἴπατε·"
         },
         {
           "verse": 11,
           "canonical_ref": "Luke 10:11",
-          "english": "\"Even the dust of your town that clings to our feet we wipe off against you. Yet know this: the kingdom of God has come near.\"",
+          "english": "'Even the dust of your city that has stuck to us on our feet we wipe off against you; but know this, that the kingdom of God has come near.'",
           "greek": "Καὶ τὸν κονιορτὸν τὸν κολληθέντα ἡμῖν ἐκ τῆς πόλεως ὑμῶν εἰς τοὺς πόδας ἀπομασσόμεθα ὑμῖν· πλὴν τοῦτο γινώσκετε ὅτι ἤγγικεν ἡ βασιλεία τοῦ θεοῦ."
         },
         {
           "verse": 12,
           "canonical_ref": "Luke 10:16",
-          "english": "Whoever listens to you listens to me, and whoever rejects you rejects me; and whoever rejects me rejects the one who sent me.\"",
+          "english": "The one who hears you hears me, and the one who sets you aside sets me aside; and the one who sets me aside sets aside the one who sent me.\"",
           "greek": "Ὁ ἀκούων ὑμῶν ἐμοῦ ἀκούει, καὶ ὁ ἀθετῶν ὑμᾶς ἐμὲ ἀθετεῖ· ὁ δὲ ἐμὲ ἀθετῶν ἀθετεῖ τὸν ἀποστείλαντά με."
         },
         {
           "verse": 13,
           "canonical_ref": "Luke 10:17",
-          "english": "The seventy returned with joy, saying, \"Lord, even the daimons submit to us in your name!\"",
+          "english": "And the seventy returned with joy, saying, \"Lord, even the daimons are subject to us in your name.\"",
           "greek": "Ὑπέστρεψαν δὲ οἱ ἑβδομήκοντα μετὰ χαρᾶς λέγοντες· Κύριε, καὶ τὰ δαιμόνια ὑποτάσσεται ἡμῖν ἐν τῷ ὀνόματί σου.",
           "attestation": "unattested"
         },
         {
           "verse": 14,
           "canonical_ref": "Luke 10:19",
-          "english": "Behold, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy; and nothing will harm you.",
+          "english": "\"Look, I have given you the authority to tread upon snakes and scorpions, and over all the power of the enemy, and nothing at all will wrong you.",
           "greek": "ἰδοὺ δέδωκα ὑμῖν τὴν ἐξουσίαν τοῦ πατεῖν ἐπάνω ὄφεων καὶ σκορπίων, καὶ ἐπὶ πᾶσαν τὴν δύναμιν τοῦ ἐχθροῦ, καὶ οὐδὲν ὑμᾶς οὐ μὴ ἀδικήσῃ."
         },
         {
           "verse": 15,
           "canonical_ref": "Luke 10:20",
-          "english": "Nevertheless, do not rejoice in this, that the spirits submit to you; rejoice rather that your names are written in the heavens.\"",
+          "english": "But do not rejoice in this, that the spirits are subject to you; but rejoice that your names have been written in the heavens.\"",
           "greek": "πλὴν ἐν τούτῳ μὴ χαίρετε ὅτι τὰ πνεύματα ὑμῖν ὑποτάσσεται, χαίρετε δὲ ὅτι τὰ ὀνόματα ὑμῶν ἐγγέγραπται ἐν τοῖς οὐρανοῖς.",
           "attestation": "unattested"
         },
         {
           "verse": 16,
           "canonical_ref": "Luke 10:21",
-          "english": "In that same hour he rejoiced in the holy spirit and said, \"I thank you, Lord of heaven, that what was hidden from the wise and understanding you have revealed to little children. Yes, Father, for so it was pleasing in your sight.",
+          "english": "In that very hour he exulted in the holy spirit and said, \"I give thanks to you, Lord of heaven, that what was hidden from the wise and the understanding, you revealed to infants. Yes, the Father, for so it was well pleasing before you.",
           "greek": "Ἐν αὐτῇ τῇ ὥρᾳ ἠγαλλιάσατο ἐν τῷ πνεύματι τῷ ἁγίῳ καὶ εἶπεν· Εὐχαριστῶ σοι, κύριε τοῦ οὐρανοῦ, ὅτι ἅτινα ἦν κρυπτὰ σοφοῖς καὶ συνετοῖς ἀπεκάλυψας νηπίοις· ναὶ ὁ πατήρ, ὅτι οὕτως εὐδοκία ἐγένετο ἔμπροσθέν σου."
         },
         {
           "verse": 17,
           "canonical_ref": "Luke 10:22",
-          "english": "All things have been handed over to me by my Father; and no one knows who the Father is except the son, and who the son is except the Father, and anyone to whom the son chooses to reveal him.\"",
+          "english": "All things were handed over to me by my Father, and no one knows who the Father is except the son, and who the son is except the Father, and the one to whom the son wishes to reveal him.\"",
           "greek": "πάντα μοι παρεδόθη ὑπὸ τοῦ πατρός μου, καὶ οὐδεὶς γινώσκει τίς ἐστιν ὁ πατὴρ εἰ μὴ ὁ υἱός, καὶ τίς ἐστιν ὁ υἱὸς εἰ μὴ ὁ πατὴρ καὶ ᾧ ἐὰν βούληται ὁ υἱὸς ἀποκαλύψαι."
         },
         {
           "verse": 18,
           "canonical_ref": "Luke 10:23",
-          "english": "Then turning to the disciples he said privately, \"Blessed are the eyes that see what you see.",
+          "english": "And turning to the learners privately, he said, \"Fortunate are the eyes that see what you see.",
           "greek": "Καὶ στραφεὶς πρὸς τοὺς μαθητὰς κατ’ ἰδίαν εἶπεν· Μακάριοι οἱ ὀφθαλμοὶ οἱ βλέποντες ἃ βλέπετε."
         },
         {
           "verse": 19,
           "canonical_ref": "Luke 10:24",
-          "english": "For I tell you that many prophets and kings wanted to see what you see, and did not see it, and to hear what you hear, and did not hear it.\"",
+          "english": "For I tell you that many prophets and kings wanted to see what you see and did not see it, and to hear what you hear and did not hear it.\"",
           "greek": "λέγω γὰρ ὑμῖν ὅτι πολλοὶ προφῆται καὶ βασιλεῖς ἠθέλησαν ἰδεῖν ἃ ὑμεῖς βλέπετε καὶ οὐκ εἶδαν, καὶ ἀκοῦσαι ἃ ἀκούετε καὶ οὐκ ἤκουσαν."
         },
         {
           "verse": 20,
           "canonical_ref": "Luke 10:25",
-          "english": "And behold, a lawyer stood up to test him, saying, \"Teacher, what must I do to inherit life?\"",
+          "english": "And look, a certain expert in the law stood up, putting him to the test, saying, \"Teacher, by doing what shall I inherit life?\"",
           "greek": "Καὶ ἰδοὺ νομικός τις ἀνέστη ἐκπειράζων αὐτὸν λέγων· Διδάσκαλε, τί ποιήσας ζωὴν κληρονομήσω;"
         },
         {
           "verse": 21,
           "canonical_ref": "Luke 10:26",
-          "english": "He said to him, \"What is written in the law? How do you read it?\"",
+          "english": "And he said to him, \"In the law, what is written? How do you read?\"",
           "greek": "ὁ δὲ εἶπεν πρὸς αὐτόν· Ἐν τῷ νόμῳ τί γέγραπται; πῶς ἀναγινώσκεις;"
         },
         {
           "verse": 22,
           "canonical_ref": "Luke 10:27",
-          "english": "He answered, \"You shall love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbour as yourself.\"",
+          "english": "And he answered and said, \"You shall love the Lord your God out of your whole heart, and with your whole soul, and with your whole strength, and with your whole mind; and your neighbour as yourself.\"",
           "greek": "ὁ δὲ ἀποκριθεὶς εἶπεν· Ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ ἰσχύϊ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου, καὶ τὸν πλησίον σου ὡς σεαυτόν."
         },
         {
           "verse": 23,
           "canonical_ref": "Luke 10:28",
-          "english": "He said to him, \"You have answered rightly; do this, and you will live.\"",
+          "english": "And he said to him, \"You have answered rightly; do this, and you will live.\"",
           "greek": "εἶπεν δὲ αὐτῷ· Ὀρθῶς ἀπεκρίθης· τοῦτο ποίει καὶ ζήσῃ."
         }
       ],
@@ -5026,7 +5026,7 @@
           "term": "The seventy (10:1–11)",
           "verse_refs": [1, 4, 5, 7, 9, 10, 11],
           "category": "textual",
-          "explanation": "Tertullian, Marc. 4.24.1–7 follows the instructions in order: seventy others appointed, sent into towns, no sandals, no greetings on the road (as Elisha told Gehazi, 2 Kgs 4:29), peace to the house (as Elisha to the Shunammite, 2 Kgs 4:26), \"the worker deserves his wages\" (as the law on the ox, Deut 25:4), the kingdom announced as \"near\", and the words to a town that refuses them. The number is seventy: Tertullian sets the seventy beside the seventy palms of Elim as he sets the twelve beside its twelve springs (Exod 15:27). NA27 prints \"seventy [two]\" with the second word bracketed; it is not printed here (METHOD §5.7). 10:2–3 and 10:6 are not cited and are printed in grey."
+          "explanation": "Tertullian, Marc. 4.24.1–7 follows the instructions in order: seventy others appointed, sent into towns, no sandals, no greetings on the road (as Elisha told Gehazi, 2 Kgs 4:29), peace to the house (as Elisha to the Shunammite, 2 Kgs 4:26), \"the worker is worthy of his wage\" (as the law on the ox, Deut 25:4), the kingdom announced as \"near\", and the words to a town that refuses them. The number is seventy: Tertullian sets the seventy beside the seventy palms of Elim as he sets the twelve beside its twelve springs (Exod 15:27). NA27 prints \"seventy [two]\" with the second word bracketed; it is not printed here (METHOD §5.7). 10:2–3 and 10:6 are not cited and are printed in grey."
         },
         {
           "id": 2,
@@ -5040,14 +5040,14 @@
           "term": "Authority over the enemy (10:16–20)",
           "verse_refs": [12, 13, 14, 15],
           "category": "textual",
-          "explanation": "Tertullian quotes \"Whoever rejects you rejects me\" (4.24.8) and asks who will give power \"to tread on snakes and scorpions\" if not the Lord of all creatures (4.24.9). He reads the snakes and scorpions as the spiritual powers of wickedness and their prince as the serpent and dragon of Ps 91:13 and Isa 27:1 (4.24.10). \"I saw Satan fall like lightning from heaven\" (10:18), which would have suited that reading, is not cited and is not printed. 10:17 and 10:20 are printed in grey. \"Seventy\" at 10:17 follows 10:1."
+          "explanation": "Tertullian quotes \"The one who sets you aside sets me aside\" (4.24.8) and asks who will give power \"to tread upon snakes and scorpions\" if not the Lord of all creatures (4.24.9). He reads the snakes and scorpions as the spiritual powers of wickedness and their prince as the serpent and dragon of Ps 91:13 and Isa 27:1 (4.24.10). \"I saw Satan fall like lightning from heaven\" (10:18), which would have suited that reading, is not cited and is not printed. 10:17 and 10:20 are printed in grey. \"Seventy\" at 10:17 follows 10:1."
         },
         {
           "id": 4,
-          "term": "\"I thank you, Lord of heaven\" (10:21)",
+          "term": "\"I give thanks to you, Lord of heaven\" (10:21)",
           "verse_refs": [16],
           "category": "textual",
-          "explanation": "Both witnesses quote the thanksgiving. Epiphanius, sch. 22: \"I thank you, Lord of heaven\"; the text \"did not have 'and of the earth', nor did it have 'Father'\", but it did have \"Yes, Father\" further on. Tertullian, Marc. 4.25.1: \"Gratias ago, et confiteor, domine caeli, quod ea quae erant abscondita sapientibus et prudentibus, revelaveris parvulis.\" The address without \"and of the earth\" is also the reading of 𝔓45. In Tertullian the hiding has no stated subject: what was hidden, God has revealed. His later reply that the Marcionite God, revealing what the Creator had hidden, would have been doing the Creator's work (4.25.6) presupposes that wording. The Greek printed is Roth's retroversion; the sense is attested, the exact words are not. Tertullian's \"et confiteor\" (= canonical ἐξομολογοῦμαι) is in his text only and is not printed."
+          "explanation": "Both witnesses quote the thanksgiving. Epiphanius, sch. 22: \"I give thanks to you, Lord of heaven\"; the text \"did not have 'and of the earth', nor did it have 'Father'\", but it did have \"Yes, the Father\" further on. Tertullian, Marc. 4.25.1: \"Gratias ago, et confiteor, domine caeli, quod ea quae erant abscondita sapientibus et prudentibus, revelaveris parvulis.\" The address without \"and of the earth\" is also the reading of 𝔓45. In Tertullian the hiding has no stated subject: what was hidden, God has revealed. His later reply that the Marcionite God, revealing what the Creator had hidden, would have been doing the Creator's work (4.25.6) presupposes that wording. The Greek printed is Roth's retroversion; the sense is attested, the exact words are not. Tertullian's \"et confiteor\" (= canonical ἐξομολογοῦμαι) is in his text only and is not printed."
         },
         {
           "id": 5,
@@ -5076,67 +5076,347 @@
           "verse_refs": [20, 22, 23],
           "category": "theological",
           "explanation": "Interpretation. In the attested text the way to \"life\" is the command of Deuteronomy 6:5, and Jesus' answer is \"do this, and you will live\" (cf. Lev 18:5). Tertullian takes the shorter question to concern the long life the law promises (4.25.14); the text itself does not say which life is meant. What it does show is a teacher who answers a question about life with the law's first command and a call to do it — the pattern of 6:46 and 8:21 in this reconstruction, and of the Epistle of James (\"be doers of the word\", Jas 1:22)."
+        },
+        {
+          "id": 9,
+          "term": "ἑβδομήκοντα, \"seventy\"",
+          "verse_refs": [1],
+          "category": "translation",
+          "explanation": "The reading of this text: seventy, without \"two\"."
+        },
+        {
+          "id": 10,
+          "term": "ὁ κύριος, \"the lord\"",
+          "verse_refs": [1],
+          "category": "translation",
+          "explanation": "The narrator's name for Jesus, as at 7:13."
+        },
+        {
+          "id": 11,
+          "term": "ἀνέδειξεν, \"appointed\"",
+          "verse_refs": [1],
+          "category": "translation",
+          "explanation": "To show forth, designate."
+        },
+        {
+          "id": 12,
+          "term": "πρὸ προσώπου αὐτοῦ, \"before his face\"",
+          "verse_refs": [1],
+          "category": "translation",
+          "explanation": "A Hebrew idiom for \"ahead of him\", kept as at 9:52."
+        },
+        {
+          "id": 13,
+          "term": "τοῦ κυρίου τοῦ θερισμοῦ, \"the lord of the harvest\"",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "The owner of the harvest. Lower case: the image is of a landowner."
+        },
+        {
+          "id": 14,
+          "term": "ἐκβάλῃ, \"drive out\"",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "ἐκβάλλω, the verb used for driving out daimons (9:40). \"Send out\" softens it."
+        },
+        {
+          "id": 15,
+          "term": "δεήθητε, \"beg\"",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "δέομαι, to ask out of need."
+        },
+        {
+          "id": 16,
+          "term": "ἀσπάσησθε, \"greet\"",
+          "verse_refs": [4],
+          "category": "translation",
+          "explanation": "Greetings on the road were long and formal."
+        },
+        {
+          "id": 17,
+          "term": "υἱὸς εἰρήνης, \"a son of peace\"",
+          "verse_refs": [6],
+          "category": "translation",
+          "explanation": "A Semitic idiom: one who belongs to peace."
+        },
+        {
+          "id": 18,
+          "term": "ἐπαναπαήσεται, \"will rest upon\"",
+          "verse_refs": [6],
+          "category": "translation",
+          "explanation": "To come to rest on."
+        },
+        {
+          "id": 19,
+          "term": "μισθοῦ, \"wage\"",
+          "verse_refs": [7],
+          "category": "translation",
+          "explanation": "As at 6:23."
+        },
+        {
+          "id": 20,
+          "term": "ἀσθενεῖς, \"the weak\"",
+          "verse_refs": [9],
+          "category": "translation",
+          "explanation": "Those without strength, the sick."
+        },
+        {
+          "id": 21,
+          "term": "Ἤγγικεν, \"has come near\"",
+          "verse_refs": [9],
+          "category": "translation",
+          "explanation": "A perfect: it has drawn near and is near."
+        },
+        {
+          "id": 22,
+          "term": "ἀπομασσόμεθα, \"we wipe off\"",
+          "verse_refs": [11],
+          "category": "translation",
+          "explanation": "To wipe off, as one wipes off something unclean."
+        },
+        {
+          "id": 23,
+          "term": "ἀθετῶν, \"sets aside\"",
+          "verse_refs": [12],
+          "category": "translation",
+          "explanation": "To set aside, treat as nothing, reject."
+        },
+        {
+          "id": 24,
+          "term": "ὑποτάσσεται, \"are subject\"",
+          "verse_refs": [13],
+          "category": "translation",
+          "explanation": "To be placed under, to submit."
+        },
+        {
+          "id": 25,
+          "term": "ὄφεων, \"snakes\"",
+          "verse_refs": [14],
+          "category": "translation",
+          "explanation": "ὄφις, serpent, snake."
+        },
+        {
+          "id": 26,
+          "term": "οὐδὲν… οὐ μή, \"nothing at all\"",
+          "verse_refs": [14],
+          "category": "translation",
+          "explanation": "A double negative, the strongest Greek denial."
+        },
+        {
+          "id": 27,
+          "term": "ἀδικήσῃ, \"wrong\"",
+          "verse_refs": [14],
+          "category": "translation",
+          "explanation": "To do wrong to, injure."
+        },
+        {
+          "id": 28,
+          "term": "ἐγγέγραπται, \"have been written\"",
+          "verse_refs": [15],
+          "category": "translation",
+          "explanation": "A perfect: written in, and standing written."
+        },
+        {
+          "id": 29,
+          "term": "ἐν τοῖς οὐρανοῖς, \"in the heavens\"",
+          "verse_refs": [15],
+          "category": "translation",
+          "explanation": "Plural, as the Greek has it."
+        },
+        {
+          "id": 30,
+          "term": "ἠγαλλιάσατο, \"exulted\"",
+          "verse_refs": [16],
+          "category": "translation",
+          "explanation": "To leap for joy, exult."
+        },
+        {
+          "id": 31,
+          "term": "Εὐχαριστῶ, \"I give thanks\"",
+          "verse_refs": [16],
+          "category": "translation",
+          "explanation": "The reading of this text. Canonical Luke has ἐξομολογοῦμαι, \"I acknowledge, praise\"."
+        },
+        {
+          "id": 32,
+          "term": "κύριε τοῦ οὐρανοῦ, \"Lord of heaven\"",
+          "verse_refs": [16],
+          "category": "translation",
+          "explanation": "Addressed to God, so capitalised. This text lacks \"Father\" before it and \"and of earth\" after it."
+        },
+        {
+          "id": 33,
+          "term": "ἅτινα ἦν κρυπτά… ἀπεκάλυψας, \"what was hidden… you revealed\"",
+          "verse_refs": [16],
+          "category": "translation",
+          "explanation": "The reading of this text: things that were hidden. Canonical Luke has \"you hid these things… and revealed them\"."
+        },
+        {
+          "id": 34,
+          "term": "νηπίοις, \"infants\"",
+          "verse_refs": [16],
+          "category": "translation",
+          "explanation": "Literally \"not yet speaking\": babies, the simple."
+        },
+        {
+          "id": 35,
+          "term": "ναὶ ὁ πατήρ, \"yes, the Father\"",
+          "verse_refs": [16],
+          "category": "translation",
+          "explanation": "The nominative with the article used as an address, word for word."
+        },
+        {
+          "id": 36,
+          "term": "εὐδοκία, \"well pleasing\"",
+          "verse_refs": [16],
+          "category": "translation",
+          "explanation": "Good pleasure, what seems good."
+        },
+        {
+          "id": 37,
+          "term": "παρεδόθη, \"were handed over\"",
+          "verse_refs": [17],
+          "category": "translation",
+          "explanation": "παραδίδωμι, as at 9:44."
+        },
+        {
+          "id": 38,
+          "term": "ὁ υἱός, \"the son\"",
+          "verse_refs": [17],
+          "category": "translation",
+          "explanation": "Lower case, as the Greek has no capitals."
+        },
+        {
+          "id": 39,
+          "term": "βούληται, \"wishes\"",
+          "verse_refs": [17],
+          "category": "translation",
+          "explanation": "To will, decide."
+        },
+        {
+          "id": 40,
+          "term": "νομικός, \"expert in the law\"",
+          "verse_refs": [20],
+          "category": "translation",
+          "explanation": "One skilled in the law of Moses."
+        },
+        {
+          "id": 41,
+          "term": "ἀνέστη ἐκπειράζων, \"stood up, putting him to the test\"",
+          "verse_refs": [20],
+          "category": "translation",
+          "explanation": "ἀνίστημι; ἐκπειράζω, to test thoroughly."
+        },
+        {
+          "id": 42,
+          "term": "ζωήν, \"life\"",
+          "verse_refs": [20],
+          "category": "translation",
+          "explanation": "The reading of this text, \"life\" alone. Canonical Luke has \"life of the age\"."
+        },
+        {
+          "id": 43,
+          "term": "κληρονομήσω, \"inherit\"",
+          "verse_refs": [20],
+          "category": "translation",
+          "explanation": "To receive as one's lot or share."
+        },
+        {
+          "id": 44,
+          "term": "πῶς ἀναγινώσκεις, \"how do you read?\"",
+          "verse_refs": [21],
+          "category": "translation",
+          "explanation": "Literally that: how do you read it?"
+        },
+        {
+          "id": 45,
+          "term": "κύριον τὸν θεόν σου, \"the Lord your God\"",
+          "verse_refs": [22],
+          "category": "translation",
+          "explanation": "Quoting Deut 6:5. κύριος stands for the divine name, so it is capitalised."
+        },
+        {
+          "id": 46,
+          "term": "ἐξ… καὶ ἐν…, \"out of… and with…\"",
+          "verse_refs": [22],
+          "category": "translation",
+          "explanation": "The Greek changes the preposition after the first member."
+        },
+        {
+          "id": 47,
+          "term": "διανοίᾳ, \"mind\"",
+          "verse_refs": [22],
+          "category": "translation",
+          "explanation": "Understanding, the thinking mind."
+        },
+        {
+          "id": 48,
+          "term": "τὸν πλησίον, \"your neighbour\"",
+          "verse_refs": [22],
+          "category": "translation",
+          "explanation": "Literally \"the one near\"."
         }
       ]
     },
     {
       "chapter": 9,
       "title": "Proto-Luke Chapter 9",
-      "preamble": "Prayer, the finger of God, and the woes. Asked by a disciple to teach them to pray, Jesus gives a prayer that in this text asks first for the holy spirit, then for the kingdom, for \"your bread\", forgiveness, and not to be brought into temptation (Tertullian, Marc. 4.26.3–5; Origen). Its parables end with the Father who gives the holy spirit to those who ask. Accused of casting out daimons by Beelzebul, Jesus answers that he does it \"by the finger of God\", the words the Egyptian magicians used before Moses (Exod 8:19). To a generation seeking a sign he says that no sign will be given to it; this text has no sign of Jonah and no Nineveh or queen of the south (Epiphanius, sch. 25). At a Pharisee's table come the sayings on the inside and the outside of the cup and the woes on Pharisees and lawyers; the Pharisees pass over \"the calling and the love of God\". The saying of \"the wisdom of God\" about the blood of the prophets is not in this text (sch. 28).",
+      "preamble": "Prayer, the finger of God, and the woes. Asked by a disciple to teach them to pray, Jesus gives a prayer that in this text asks first for the holy spirit, then for the kingdom, for \"your bread\", forgiveness, and not to be brought into temptation (Tertullian, Marc. 4.26.3–5; Origen). Its parables end with the Father who gives the holy spirit to those who ask. Accused of casting out daimons by Beelzebul, Jesus answers that he does it \"by the finger of God\", the words the Egyptian magicians used before Moses (Exod 8:19). To a generation seeking a sign he says that a sign will not be given to it; this text has no sign of Jonah and no Nineveh or queen of the south (Epiphanius, sch. 25). At a Pharisee's table come the sayings on the inside and the outside of the cup and the woes on Pharisees and lawyers; the Pharisees pass over \"the calling and the love of God\". The saying of \"the wisdom of God\" about the blood of the prophets is not in this text (sch. 28).",
       "verses": [
         {
           "verse": 1,
           "canonical_ref": "Luke 11:1",
-          "english": "Once he was praying in a certain place, and when he had finished, one of his disciples said to him, \"Lord, teach us to pray, as John also taught his disciples.\"",
+          "english": "And it happened, while he was praying in a certain place, that when he stopped, one of his learners said to him, \"Lord, teach us to pray, just as John also taught his learners.\"",
           "greek": "Καὶ ἐγένετο ἐν τῷ εἶναι αὐτὸν ἐν τόπῳ τινὶ προσευχόμενον, ὡς ἐπαύσατο, εἶπέν τις τῶν μαθητῶν αὐτοῦ πρὸς αὐτόν· Κύριε, δίδαξον ἡμᾶς προσεύχεσθαι, καθὼς καὶ Ἰωάννης ἐδίδαξεν τοὺς μαθητὰς αὐτοῦ."
         },
         {
           "verse": 2,
           "canonical_ref": "Luke 11:2",
-          "english": "He said to them, \"When you pray, say: Father, may your holy spirit come; may your kingdom come;",
+          "english": "And he said to them, \"When you pray, say: Father, let your holy spirit come; let your kingdom come.",
           "greek": "εἶπεν δὲ αὐτοῖς· Ὅταν προσεύχησθε, λέγετε· Πάτερ, ἐλθέτω τὸ πνεῦμά σου τὸ ἅγιον· ἐλθέτω ἡ βασιλεία σου·"
         },
         {
           "verse": 3,
           "canonical_ref": "Luke 11:3",
-          "english": "give us each day your bread for the coming day;",
+          "english": "Your bread for the coming day keep giving us day by day.",
           "greek": "τὸν ἄρτον σου τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ’ ἡμέραν·"
         },
         {
           "verse": 4,
           "canonical_ref": "Luke 11:4",
-          "english": "and forgive us our sins, for we ourselves forgive everyone indebted to us; and do not bring us into temptation.\"",
+          "english": "And let go our sins for us, for we ourselves also let go for everyone who owes us. And do not bring us into testing.\"",
           "greek": "καὶ ἄφες ἡμῖν τὰς ἁμαρτίας ἡμῶν, καὶ γὰρ αὐτοὶ ἀφίομεν παντὶ ὀφείλοντι ἡμῖν· καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν."
         },
         {
           "verse": 5,
           "canonical_ref": "Luke 11:5",
-          "english": "And he said to them, \"Which of you has a friend, and goes to him at midnight and says to him, 'Friend, lend me three loaves,",
+          "english": "And he said to them, \"Which of you will have a friend, and will go to him at midnight and say to him, 'Friend, lend me three loaves,",
           "greek": "Καὶ εἶπεν πρὸς αὐτούς· Τίς ἐξ ὑμῶν ἕξει φίλον καὶ πορεύσεται πρὸς αὐτὸν μεσονυκτίου καὶ εἴπῃ αὐτῷ· Φίλε, χρῆσόν μοι τρεῖς ἄρτους,"
         },
         {
           "verse": 6,
           "canonical_ref": "Luke 11:6",
-          "english": "for a friend of mine has arrived from a journey, and I have nothing to set before him';",
+          "english": "since a friend of mine has arrived to me from a journey, and I have nothing to set before him';",
           "greek": "ἐπειδὴ φίλος μου παρεγένετο ἐξ ὁδοῦ πρός με καὶ οὐκ ἔχω ὃ παραθήσω αὐτῷ·",
           "attestation": "unattested"
         },
         {
           "verse": 7,
           "canonical_ref": "Luke 11:7",
-          "english": "and he answers from inside, 'Do not bother me; the door is already shut, and my children are with me in bed; I cannot get up and give you anything'?",
+          "english": "and that one, answering from inside, will say, 'Do not give me trouble; the door has already been shut, and my children are with me in bed; I cannot get up and give to you'?",
           "greek": "κἀκεῖνος ἔσωθεν ἀποκριθεὶς εἴπῃ· Μή μοι κόπους πάρεχε· ἤδη ἡ θύρα κέκλεισται, καὶ τὰ παιδία μου μετ’ ἐμοῦ εἰς τὴν κοίτην εἰσίν· οὐ δύναμαι ἀναστὰς δοῦναί σοι."
         },
         {
           "verse": 8,
           "canonical_ref": "Luke 11:8",
-          "english": "I tell you, even if he will not get up and give him anything because he is his friend, yet because of his persistence he will rise and give him whatever he needs.",
+          "english": "I tell you, even if he will not get up and give to him because he is his friend, yet because of his shamelessness he will rouse himself and give him as much as he needs.",
           "greek": "λέγω ὑμῖν, εἰ καὶ οὐ δώσει αὐτῷ ἀναστὰς διὰ τὸ εἶναι φίλον αὐτοῦ, διά γε τὴν ἀναίδειαν αὐτοῦ ἐγερθεὶς δώσει αὐτῷ ὅσων χρῄζει."
         },
         {
           "verse": 9,
           "canonical_ref": "Luke 11:9",
-          "english": "So I say to you: ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.",
+          "english": "And I say to you: ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.",
           "greek": "Κἀγὼ ὑμῖν λέγω, αἰτεῖτε, καὶ δοθήσεται ὑμῖν· ζητεῖτε, καὶ εὑρήσετε· κρούετε, καὶ ἀνοιγήσεται ὑμῖν·"
         },
         {
@@ -5149,186 +5429,186 @@
         {
           "verse": 11,
           "canonical_ref": "Luke 11:11",
-          "english": "What father among you, if his son asks for a fish, will give him a snake instead of a fish?",
+          "english": "And which of you who is a father, if the son asks for a fish, will instead of a fish hand him a snake?",
           "greek": "τίνα δὲ ἐξ ὑμῶν τὸν πατέρα αἰτήσει ὁ υἱὸς ἰχθύν, καὶ ἀντὶ ἰχθύος ὄφιν αὐτῷ ἐπιδώσει;"
         },
         {
           "verse": 12,
           "canonical_ref": "Luke 11:12",
-          "english": "Or if he asks for an egg, will give him a scorpion?",
+          "english": "Or if he asks for an egg, will hand him a scorpion?",
           "greek": "ἢ καὶ αἰτήσει ᾠόν, ἐπιδώσει αὐτῷ σκορπίον;"
         },
         {
           "verse": 13,
           "canonical_ref": "Luke 11:13",
-          "english": "If you then, who are evil, know how to give good gifts to your children, how much more will the Father from heaven give the holy spirit to those who ask him!\"",
+          "english": "If you then, being evil, know how to give good gifts to your children, how much more will the Father who is from heaven give holy spirit to those who ask him!\"",
           "greek": "εἰ οὖν ὑμεῖς πονηροὶ ὑπάρχοντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὁ ἐξ οὐρανοῦ δώσει πνεῦμα ἅγιον τοῖς αἰτοῦσιν αὐτόν."
         },
         {
           "verse": 14,
           "canonical_ref": "Luke 11:14",
-          "english": "Now he was casting out a daimon, and it was mute. When the daimon had gone out, the mute man spoke, and the crowds were amazed.",
+          "english": "And he was throwing out a daimon, and it was mute; and it happened, when the daimon had gone out, that the mute man spoke; and the crowds marvelled.",
           "greek": "Καὶ ἦν ἐκβάλλων δαιμόνιον καὶ αὐτὸ ἦν κωφόν· ἐγένετο δὲ τοῦ δαιμονίου ἐξελθόντος ἐλάλησεν ὁ κωφός. καὶ ἐθαύμασαν οἱ ὄχλοι·"
         },
         {
           "verse": 15,
           "canonical_ref": "Luke 11:15",
-          "english": "But some of them said, \"He casts out the daimons by Beelzebul, the ruler of the daimons.\"",
+          "english": "But some of them said, \"By Beelzebul, the ruler of the daimons, he throws out the daimons.\"",
           "greek": "τινὲς δὲ ἐξ αὐτῶν εἶπον· Ἐν Βεελζεβοὺλ τῷ ἄρχοντι τῶν δαιμονίων ἐκβάλλει τὰ δαιμόνια·"
         },
         {
           "verse": 16,
           "canonical_ref": "Luke 11:16",
-          "english": "Others, to test him, demanded from him a sign from heaven.",
+          "english": "And others, testing him, were seeking from him a sign out of heaven.",
           "greek": "ἕτεροι δὲ πειράζοντες σημεῖον ἐξ οὐρανοῦ ἐζήτουν παρ’ αὐτοῦ.",
           "attestation": "unattested"
         },
         {
           "verse": 17,
           "canonical_ref": "Luke 11:17",
-          "english": "But he knew their thoughts and said to them, \"Every kingdom divided against itself is laid waste, and house falls on house.",
+          "english": "But he, knowing their thoughts, said to them, \"Every kingdom divided against itself is laid waste, and house falls upon house.",
           "greek": "αὐτὸς δὲ εἰδὼς αὐτῶν τὰ διανοήματα εἶπεν αὐτοῖς· Πᾶσα βασιλεία ἐφ’ ἑαυτὴν διαμερισθεῖσα ἐρημοῦται, καὶ οἶκος ἐπὶ οἶκον πίπτει.",
           "attestation": "unattested"
         },
         {
           "verse": 18,
           "canonical_ref": "Luke 11:18",
-          "english": "If Satan also is divided against himself, how will his kingdom stand? For you say that I cast out the daimons by Beelzebul.",
+          "english": "And if Satan too has been divided against himself, how will his kingdom stand? Because you say that I throw out the daimons by Beelzebul.",
           "greek": "εἰ δὲ καὶ ὁ Σατανᾶς ἐφ’ ἑαυτὸν διεμερίσθη, πῶς σταθήσεται ἡ βασιλεία αὐτοῦ; ὅτι λέγετε ἐν Βεελζεβοὺλ ἐκβάλλειν με τὰ δαιμόνια."
         },
         {
           "verse": 19,
           "canonical_ref": "Luke 11:19",
-          "english": "And if I cast out the daimons by Beelzebul, by whom do your sons cast them out? Therefore they will be your judges.",
+          "english": "But if I throw out the daimons by Beelzebul, your sons, by whom do they throw them out? Therefore they will be your judges.",
           "greek": "εἰ δὲ ἐγὼ ἐν Βεελζεβοὺλ ἐκβάλλω τὰ δαιμόνια, οἱ υἱοὶ ὑμῶν ἐν τίνι ἐκβάλλουσιν; διὰ τοῦτο αὐτοὶ ὑμῶν κριταὶ ἔσονται."
         },
         {
           "verse": 20,
           "canonical_ref": "Luke 11:20",
-          "english": "But if I cast out the daimons by the finger of God, then the kingdom of God has come upon you.",
+          "english": "But if I throw out the daimons by the finger of God, then the kingdom of God has arrived upon you.",
           "greek": "εἰ δὲ ἐν δακτύλῳ θεοῦ ἐγὼ ἐκβάλλω τὰ δαιμόνια, ἄρα ἔφθασεν ἐφ’ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ."
         },
         {
           "verse": 21,
           "canonical_ref": "Luke 11:21",
-          "english": "When a strong man, fully armed, guards his own court, his possessions are safe;",
+          "english": "When the strong one, fully armed, guards his own courtyard, his possessions are in peace;",
           "greek": "ὅταν ὁ ἰσχυρὸς καθωπλισμένος φυλάσσῃ τὴν ἑαυτοῦ αὐλήν, ἐν εἰρήνῃ ἐστὶν τὰ ὑπάρχοντα αὐτοῦ·"
         },
         {
           "verse": 22,
           "canonical_ref": "Luke 11:22",
-          "english": "but when one stronger than he attacks him and overcomes him, he takes away the armour in which he trusted and divides his plunder.",
+          "english": "but when one stronger than he comes upon him and conquers him, he takes away his full armour, on which he had relied, and distributes his spoils.",
           "greek": "ἐπὰν δὲ ἰσχυρότερος αὐτοῦ ἐπελθὼν νικήσῃ αὐτόν, τὴν πανοπλίαν αὐτοῦ αἴρει ἐφ’ ᾗ ἐπεποίθει, καὶ τὰ σκῦλα αὐτοῦ διαδίδωσιν."
         },
         {
           "verse": 23,
           "canonical_ref": "Luke 11:23",
-          "english": "Whoever is not with me is against me, and whoever does not gather with me scatters.",
+          "english": "The one who is not with me is against me, and the one who does not gather with me scatters.\"",
           "greek": "ὁ μὴ ὢν μετ’ ἐμοῦ κατ’ ἐμοῦ ἐστιν, καὶ ὁ μὴ συνάγων μετ’ ἐμοῦ σκορπίζει.",
           "attestation": "unattested"
         },
         {
           "verse": 24,
           "canonical_ref": "Luke 11:27",
-          "english": "While he was saying this, a woman in the crowd raised her voice and said to him, \"Blessed is the womb that bore you and the breasts that you sucked!\"",
+          "english": "And it happened, as he was saying these things, that a certain woman from the crowd, raising her voice, said to him, \"Fortunate is the womb that carried you, and the breasts that you sucked!\"",
           "greek": "Ἐγένετο δὲ ἐν τῷ λέγειν αὐτὸν ταῦτα ἐπάρασά τις φωνὴν γυνὴ ἐκ τοῦ ὄχλου εἶπεν αὐτῷ· Μακαρία ἡ κοιλία ἡ βαστάσασά σε καὶ μαστοὶ οὓς ἐθήλασας·"
         },
         {
           "verse": 25,
           "canonical_ref": "Luke 11:28",
-          "english": "But he said, \"Blessed rather are those who hear the word of God and keep it!\"",
+          "english": "But he said, \"Rather, fortunate are those who hear the word of God and keep it.\"",
           "greek": "αὐτὸς δὲ εἶπεν· Μενοῦν μακάριοι οἱ ἀκούοντες τὸν λόγον τοῦ θεοῦ καὶ φυλάσσοντες."
         },
         {
           "verse": 26,
           "canonical_ref": "Luke 11:29",
-          "english": "As the crowds were increasing, he began to say, \"This generation is an evil generation; it seeks a sign, and no sign will be given to it.\"",
+          "english": "And as the crowds were gathering thickly, he began to say, \"This generation is an evil generation; it seeks a sign, and a sign will not be given to it.\"",
           "greek": "Τῶν δὲ ὄχλων ἐπαθροιζομένων ἤρξατο λέγειν· Ἡ γενεὰ αὕτη γενεὰ πονηρά ἐστιν· σημεῖον ζητεῖ, καὶ σημεῖον οὐ δοθήσεται αὐτῇ."
         },
         {
           "verse": 27,
           "canonical_ref": "Luke 11:33",
-          "english": "No one lights a lamp and puts it in a cellar or under a basket, but on a lampstand, so that those who come in may see the light.",
+          "english": "\"No one, having lit a lamp, puts it in a hidden place, nor under the measuring basket, but on the lampstand, so that those who come in may see the light.\"",
           "greek": "Οὐδεὶς λύχνον ἅψας εἰς κρύπτην τίθησιν οὐδὲ ὑπὸ τὸν μόδιον ἀλλ’ ἐπὶ τὴν λυχνίαν, ἵνα οἱ εἰσπορευόμενοι τὸ φῶς βλέπωσιν."
         },
         {
           "verse": 28,
           "canonical_ref": "Luke 11:37",
-          "english": "While he was speaking, a Pharisee asked him to dine with him; so he went in and reclined at table.",
+          "english": "And as he was speaking, a Pharisee asks him to have the midday meal with him; and going in, he reclined at table.",
           "greek": "Ἐν δὲ τῷ λαλῆσαι ἐρωτᾷ αὐτὸν Φαρισαῖος ὅπως ἀριστήσῃ παρ’ αὐτῷ· εἰσελθὼν δὲ ἀνέπεσεν."
         },
         {
           "verse": 29,
           "canonical_ref": "Luke 11:38",
-          "english": "The Pharisee began to debate within himself, saying, \"Why did he not first wash before the meal?\"",
+          "english": "And the Pharisee began, debating within himself, to say: why was he not first washed before the meal?",
           "greek": "ὁ δὲ Φαρισαῖος ἤρξατο διακρινόμενος ἐν ἑαυτῷ λέγειν διὰ τί οὐ πρῶτον ἐβαπτίσθη πρὸ τοῦ ἀρίστου."
         },
         {
           "verse": 30,
           "canonical_ref": "Luke 11:39",
-          "english": "But the Lord said to him, \"Now you Pharisees clean the outside of the cup and of the dish, but inside you are full of greed and wickedness.",
+          "english": "But the lord said to him, \"Now you, the Pharisees, cleanse the outside of the cup and of the platter, but your inside is full of plunder and evil.",
           "greek": "εἶπεν δὲ ὁ κύριος πρὸς αὐτόν· Νῦν ὑμεῖς οἱ Φαρισαῖοι τὸ ἔξωθεν τοῦ ποτηρίου καὶ τοῦ πίνακος καθαρίζετε, τὸ δὲ ἔσωθεν ὑμῶν γέμει ἁρπαγῆς καὶ πονηρίας."
         },
         {
           "verse": 31,
           "canonical_ref": "Luke 11:40",
-          "english": "Fools! Did not the one who made the outside make the inside also?",
+          "english": "Senseless ones! Did not the one who made the outside also make the inside?",
           "greek": "ἄφρονες, οὐχ ὁ ποιήσας τὸ ἔξωθεν καὶ τὸ ἔσωθεν ἐποίησεν;"
         },
         {
           "verse": 32,
           "canonical_ref": "Luke 11:41",
-          "english": "But give as alms what is within, and behold, everything is clean for you.",
+          "english": "But give what is inside as a gift of mercy, and look, all things are clean for you.",
           "greek": "πλὴν τὰ ἐνόντα δότε ἐλεημοσύνην, καὶ ἰδοὺ πάντα καθαρὰ ὑμῖν ἐστιν."
         },
         {
           "verse": 33,
           "canonical_ref": "Luke 11:42",
-          "english": "But woe to you Pharisees! For you tithe mint and rue and every herb, and pass over the calling and the love of God. These you ought to have done, without neglecting the others.",
+          "english": "But woe to you, the Pharisees, because you take a tenth of the mint and the rue and every garden herb, and pass by the calling and the love of God. But these you ought to have done, and not to have let the others go.",
           "greek": "Ἀλλὰ οὐαὶ ὑμῖν τοῖς Φαρισαίοις, ὅτι ἀποδεκατοῦτε τὸ ἡδύοσμον καὶ τὸ πήγανον καὶ πᾶν λάχανον, καὶ παρέρχεσθε τὴν κλῆσιν καὶ τὴν ἀγάπην τοῦ θεοῦ· ταῦτα δὲ ἔδει ποιῆσαι κἀκεῖνα μὴ παρεῖναι."
         },
         {
           "verse": 34,
           "canonical_ref": "Luke 11:43",
-          "english": "Woe to you Pharisees! For you love the best seat in the synagogues and greetings in the market-places.",
+          "english": "Woe to you, the Pharisees, because you love the first seat in the assemblies and the greetings in the marketplaces.",
           "greek": "οὐαὶ ὑμῖν τοῖς Φαρισαίοις, ὅτι ἀγαπᾶτε τὴν πρωτοκαθεδρίαν ἐν ταῖς συναγωγαῖς καὶ τοὺς ἀσπασμοὺς ἐν ταῖς ἀγοραῖς."
         },
         {
           "verse": 35,
           "canonical_ref": "Luke 11:44",
-          "english": "Woe to you! For you are like unmarked graves, and people walk over them without knowing it.\"",
+          "english": "Woe to you, because you are like the tombs that are not seen, and the people walking over them do not know it.\"",
           "greek": "οὐαὶ ὑμῖν, ὅτι ἐστὲ ὡς τὰ μνημεῖα τὰ ἄδηλα, καὶ οἱ ἄνθρωποι οἱ περιπατοῦντες ἐπάνω οὐκ οἴδασιν.",
           "attestation": "unattested"
         },
         {
           "verse": 36,
           "canonical_ref": "Luke 11:45",
-          "english": "One of the lawyers answered him, \"Teacher, in saying this you insult us too.\"",
+          "english": "And one of the experts in the law answers and says to him, \"Teacher, saying these things you insult us too.\"",
           "greek": "Ἀποκριθεὶς δέ τις τῶν νομικῶν λέγει αὐτῷ· Διδάσκαλε, ταῦτα λέγων καὶ ἡμᾶς ὑβρίζεις.",
           "attestation": "unattested"
         },
         {
           "verse": 37,
           "canonical_ref": "Luke 11:46",
-          "english": "And he said, \"Woe to you lawyers also! For you load people with burdens hard to bear, and you yourselves do not touch the burdens with one of your fingers.",
+          "english": "But he said, \"Woe to you, the experts in the law, too, because you load the people with loads hard to carry, and you yourselves do not touch the loads with one of your fingers.",
           "greek": "ὁ δὲ εἶπεν· Καὶ ὑμῖν τοῖς νομικοῖς οὐαί, ὅτι φορτίζετε τοὺς ἀνθρώπους φορτία δυσβάστακτα, καὶ αὐτοὶ ἑνὶ τῶν δακτύλων ὑμῶν οὐ προσψαύετε τοῖς φορτίοις."
         },
         {
           "verse": 38,
           "canonical_ref": "Luke 11:47",
-          "english": "Woe to you! For you build the tombs of the prophets, and your fathers killed them.",
+          "english": "Woe to you, because you build the tombs of the prophets, but your fathers killed them.",
           "greek": "οὐαὶ ὑμῖν, ὅτι οἰκοδομεῖτε τὰ μνημεῖα τῶν προφητῶν οἱ δὲ πατέρες ὑμῶν ἀπέκτειναν αὐτούς."
         },
         {
           "verse": 39,
           "canonical_ref": "Luke 11:48",
-          "english": "So you are witnesses and approve of the deeds of your fathers; for they killed them, and you build.",
+          "english": "So you are witnesses, and consent to the works of your fathers, because they killed them, and you build.",
           "greek": "ἄρα μάρτυρές ἐστε καὶ συνευδοκεῖτε τοῖς ἔργοις τῶν πατέρων ὑμῶν, ὅτι αὐτοὶ μὲν ἀπέκτειναν αὐτοὺς ὑμεῖς δὲ οἰκοδομεῖτε."
         },
         {
           "verse": 40,
           "canonical_ref": "Luke 11:52",
-          "english": "Woe to you lawyers! For you have taken away the key of knowledge; you did not enter yourselves, and you hindered those who were entering.\"",
+          "english": "Woe to you, the experts in the law, because you took away the key of knowledge; you yourselves did not go in, and those going in you hindered.\"",
           "greek": "οὐαὶ ὑμῖν τοῖς νομικοῖς, ὅτι ἤρατε τὴν κλεῖδα τῆς γνώσεως· αὐτοὶ οὐκ εἰσήλθατε καὶ τοὺς εἰσερχομένους ἐκωλύσατε."
         }
       ],
@@ -5345,7 +5625,7 @@
           "term": "The holy spirit asked and given (11:2, 11:13)",
           "verse_refs": [2, 13],
           "category": "theological",
-          "explanation": "Interpretation. In this text the prayer opens with a request for the holy spirit, and the teaching that follows ends with the Father who will \"give the holy spirit to those who ask him\" (11:13; Tertullian 4.26.10). The unit begins and ends with the spirit. The bread asked for is the Father's (\"your bread\"), and Origen's question to the Marcionites, \"what is the bread of God?\", shows that they read it as more than food. This is the reception, and the text does not settle that reading. What the text itself shows is a prayer centred on receiving from the Father. The library reads such receiving as influx into a vessel (The River and the Vessel)."
+          "explanation": "Interpretation. In this text the prayer opens with a request for the holy spirit, and the teaching that follows ends with the Father who will \"give holy spirit to those who ask him\" (11:13; Tertullian 4.26.10). The unit begins and ends with the spirit. The bread asked for is the Father's (\"your bread\"), and Origen's question to the Marcionites, \"what is the bread of God?\", shows that they read it as more than food. This is the reception, and the text does not settle that reading. What the text itself shows is a prayer centred on receiving from the Father. The library reads such receiving as influx into a vessel (The River and the Vessel)."
         },
         {
           "id": 3,
@@ -5366,14 +5646,14 @@
           "term": "No sign (11:29; 11:30–32 not printed)",
           "verse_refs": [26],
           "category": "excision",
-          "explanation": "Epiphanius, sch. 25: \"he cut out what is about Jonah the prophet; for he had 'this generation — no sign will be given to it'; he did not have what is about Nineveh and the queen of the south and Solomon.\" Tertullian: Christ \"does not give a sign to those who ask\" (4.27.1). The saying in this text ends \"no sign will be given to it\". Canonical Luke adds \"except the sign of Jonah\" and the sayings on the Ninevites and the queen of the south (11:30–32, Matthew 12:39–42). The verbs \"he cut\" are Epiphanius' charge. What they report as content is that the words were not there."
+          "explanation": "Epiphanius, sch. 25: \"he cut out what is about Jonah the prophet; for he had 'this generation — a sign will not be given to it'; he did not have what is about Nineveh and the queen of the south and Solomon.\" Tertullian: Christ \"does not give a sign to those who ask\" (4.27.1). The saying in this text ends \"a sign will not be given to it\". Canonical Luke adds \"except the sign of Jonah\" and the sayings on the Ninevites and the queen of the south (11:30–32, Matthew 12:39–42). The verbs \"he cut\" are Epiphanius' charge. What they report as content is that the words were not there."
         },
         {
           "id": 6,
           "term": "At the Pharisee's table (11:37–44)",
           "verse_refs": [28, 29, 30, 31, 32, 33, 34, 35],
           "category": "textual",
-          "explanation": "Tertullian, Marc. 4.27.2–5. The Pharisee \"was debating within himself why he had not first been washed before reclining, according to the law\". That is the reading of codex D and the Old Latin, and it is printed in D's Greek. Canonical Luke has the Pharisee \"amazed\". Jesus' reply on the outside and inside of the cup, \"Did not the one who made the outside make the inside also?\", is glossed by Tertullian as flesh and soul made by one God. At 11:42 both witnesses read that the Pharisees pass over \"the calling (κλῆσις) and the love of God\", not \"justice (κρίσις) and the love of God\"; Tertullian repeats \"calling\" in 4.27.6. The reading is printed. 11:44 is not cited and is printed in grey."
+          "explanation": "Tertullian, Marc. 4.27.2–5. The Pharisee \"was debating within himself why he had not first been washed before reclining, according to the law\". That is the reading of codex D and the Old Latin, and it is printed in D's Greek. Canonical Luke has the Pharisee \"amazed\". Jesus' reply on the outside and inside of the cup, \"Did not the one who made the outside also make the inside?\", is glossed by Tertullian as flesh and soul made by one God. At 11:42 both witnesses read that the Pharisees pass over \"the calling (κλῆσις) and the love of God\", not \"justice (κρίσις) and the love of God\"; Tertullian repeats \"calling\" in 4.27.6. The reading is printed. 11:44 is not cited and is printed in grey."
         },
         {
           "id": 7,
@@ -5388,199 +5668,605 @@
           "verse_refs": [33],
           "category": "theological",
           "explanation": "Interpretation. In the attested text the charge against the Pharisees is that they tithe herbs and pass over \"the calling and the love of God\". Tertullian reads \"calling\" as God calling Israel out of Egypt and \"love\" as the first commandment (Deut 6:5), quoted in that form (4.27.4). The pairing fits the reconstruction's earlier sayings: the lawyer is answered with the command to love God (10:27). It also fits a criticism of religious leaders made from within the law, for neglecting what the law puts first."
+        },
+        {
+          "id": 9,
+          "term": "Κύριε, \"Lord\"",
+          "verse_refs": [1],
+          "category": "translation",
+          "explanation": "\"Lord, sir\": the capital is only the start of the address."
+        },
+        {
+          "id": 10,
+          "term": "Πάτερ, \"Father\"",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "The address, without \"our\" and without \"who are in the heavens\"."
+        },
+        {
+          "id": 11,
+          "term": "ἐλθέτω τὸ πνεῦμά σου τὸ ἅγιον, \"let your holy spirit come\"",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "The petition of this text, in place of canonical Luke's \"let your name be held holy\". Its exact wording is not given by the witnesses. Manuscript 700 and Gregory of Nyssa read it with \"upon us, and let it cleanse us\"; those words are not printed and are not translated."
+        },
+        {
+          "id": 12,
+          "term": "ἐλθέτω, \"let… come\"",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "A third-person imperative: \"let it come\". \"May it come\" softens it into a wish."
+        },
+        {
+          "id": 13,
+          "term": "τὸν ἄρτον σου, \"your bread\"",
+          "verse_refs": [3],
+          "category": "translation",
+          "explanation": "The reading of this text, \"your\" (God's) bread. Canonical Luke has \"our bread\"."
+        },
+        {
+          "id": 14,
+          "term": "τὸν ἐπιούσιον, \"for the coming day\"",
+          "verse_refs": [3],
+          "category": "translation",
+          "explanation": "The word occurs almost nowhere outside this prayer, and its meaning is not known for certain. Proposals: \"for the coming day\" (from ἡ ἐπιοῦσα, \"the next day\"), \"needed for existence\" (from οὐσία, \"being\"), and \"supersubstantial\", the Latin of Jerome. The first fits \"day by day\" and is the most likely; the others are possible."
+        },
+        {
+          "id": 15,
+          "term": "δίδου… τὸ καθ' ἡμέραν, \"keep giving… day by day\"",
+          "verse_refs": [3],
+          "category": "translation",
+          "explanation": "A present imperative: give, and go on giving."
+        },
+        {
+          "id": 16,
+          "term": "ἄφες… ἀφίομεν, \"let go… we let go\"",
+          "verse_refs": [4],
+          "category": "translation",
+          "explanation": "ἀφίημι, as at 5:20. One verb for both: God's letting go and ours."
+        },
+        {
+          "id": 17,
+          "term": "παντὶ ὀφείλοντι ἡμῖν, \"everyone who owes us\"",
+          "verse_refs": [4],
+          "category": "translation",
+          "explanation": "A debtor. The prayer's own image is of debts released."
+        },
+        {
+          "id": 18,
+          "term": "πειρασμόν, \"testing\"",
+          "verse_refs": [4],
+          "category": "translation",
+          "explanation": "πειρασμός is a test, a trial, a putting to the proof. \"Temptation\", an enticement to sin, is one kind of testing."
+        },
+        {
+          "id": 19,
+          "term": "χρῆσον, \"lend\"",
+          "verse_refs": [5],
+          "category": "translation",
+          "explanation": "To lend."
+        },
+        {
+          "id": 20,
+          "term": "κόπους, \"trouble\"",
+          "verse_refs": [7],
+          "category": "translation",
+          "explanation": "Labour, bother."
+        },
+        {
+          "id": 21,
+          "term": "ἀναίδειαν, \"shamelessness\"",
+          "verse_refs": [8],
+          "category": "translation",
+          "explanation": "ἀναίδεια means shamelessness, a lack of shame. \"Persistence\" is not what the word means. Whose shamelessness is not quite clear: most read it as the asker's, some as the sleeper's wish to avoid shame."
+        },
+        {
+          "id": 22,
+          "term": "ἀναστάς… ἐγερθείς, \"get up… rouse himself\"",
+          "verse_refs": [8],
+          "category": "translation",
+          "explanation": "ἀνίστημι and ἐγείρω, both in one sentence."
+        },
+        {
+          "id": 23,
+          "term": "αἰτεῖτε… ζητεῖτε… κρούετε, \"ask… seek… knock\"",
+          "verse_refs": [9],
+          "category": "translation",
+          "explanation": "Present imperatives: keep asking, keep seeking, keep knocking."
+        },
+        {
+          "id": 24,
+          "term": "τίνα… τὸν πατέρα, \"which of you who is a father\"",
+          "verse_refs": [11],
+          "category": "translation",
+          "explanation": "The Greek is loose: \"which of you, the father, will the son ask…\"."
+        },
+        {
+          "id": 25,
+          "term": "πονηροὶ ὑπάρχοντες, \"being evil\"",
+          "verse_refs": [13],
+          "category": "translation",
+          "explanation": "πονηρός, as at 6:45."
+        },
+        {
+          "id": 26,
+          "term": "ὁ πατὴρ ὁ ἐξ οὐρανοῦ, \"the Father who is from heaven\"",
+          "verse_refs": [13],
+          "category": "translation",
+          "explanation": "ἐξ, \"out of, from\"."
+        },
+        {
+          "id": 27,
+          "term": "πνεῦμα ἅγιον, \"holy spirit\"",
+          "verse_refs": [13],
+          "category": "translation",
+          "explanation": "Without the article: \"holy spirit\", not \"the Holy Spirit\"."
+        },
+        {
+          "id": 28,
+          "term": "κωφόν, \"mute\"",
+          "verse_refs": [14],
+          "category": "translation",
+          "explanation": "κωφός means both deaf and mute; here, mute."
+        },
+        {
+          "id": 29,
+          "term": "Βεελζεβούλ, \"Beelzebul\"",
+          "verse_refs": [15],
+          "category": "translation",
+          "explanation": "A Semitic name, probably \"lord of the dwelling\" or \"lord of the height\"."
+        },
+        {
+          "id": 30,
+          "term": "ἄρχοντι, \"ruler\"",
+          "verse_refs": [15],
+          "category": "translation",
+          "explanation": "ἄρχων, as at 8:41."
+        },
+        {
+          "id": 31,
+          "term": "ἐρημοῦται, \"is laid waste\"",
+          "verse_refs": [17],
+          "category": "translation",
+          "explanation": "Made a desert (ἔρημος)."
+        },
+        {
+          "id": 32,
+          "term": "ὁ Σατανᾶς, \"Satan\"",
+          "verse_refs": [18],
+          "category": "translation",
+          "explanation": "A Hebrew word, \"the adversary\", left untranslated in the Greek and here."
+        },
+        {
+          "id": 33,
+          "term": "ἔφθασεν, \"has arrived\"",
+          "verse_refs": [20],
+          "category": "translation",
+          "explanation": "φθάνω, to come before, reach, arrive."
+        },
+        {
+          "id": 34,
+          "term": "αὐλήν, \"courtyard\"",
+          "verse_refs": [21],
+          "category": "translation",
+          "explanation": "The enclosed court of a house."
+        },
+        {
+          "id": 35,
+          "term": "ἐν εἰρήνῃ, \"in peace\"",
+          "verse_refs": [21],
+          "category": "translation",
+          "explanation": "Undisturbed."
+        },
+        {
+          "id": 36,
+          "term": "ἐπεποίθει, \"had relied\"",
+          "verse_refs": [22],
+          "category": "translation",
+          "explanation": "πείθω in the perfect, \"to be persuaded, rely on\". Not πίστις, \"trust\"."
+        },
+        {
+          "id": 37,
+          "term": "σκῦλα, \"spoils\"",
+          "verse_refs": [22],
+          "category": "translation",
+          "explanation": "Arms stripped from a defeated enemy."
+        },
+        {
+          "id": 38,
+          "term": "Μακαρία, \"fortunate\"",
+          "verse_refs": [24],
+          "category": "translation",
+          "explanation": "As at 6:20."
+        },
+        {
+          "id": 39,
+          "term": "κοιλία, \"womb\"",
+          "verse_refs": [24],
+          "category": "translation",
+          "explanation": "Literally the belly, the womb."
+        },
+        {
+          "id": 40,
+          "term": "Μενοῦν, \"rather\"",
+          "verse_refs": [25],
+          "category": "translation",
+          "explanation": "It corrects or strengthens what was said: \"rather\", \"yes, but\"."
+        },
+        {
+          "id": 41,
+          "term": "φυλάσσοντες, \"keep\"",
+          "verse_refs": [25],
+          "category": "translation",
+          "explanation": "To guard, keep watch over."
+        },
+        {
+          "id": 42,
+          "term": "σημεῖον οὐ δοθήσεται αὐτῇ, \"a sign will not be given to it\"",
+          "verse_refs": [26],
+          "category": "translation",
+          "explanation": "The reading of this text, without \"except the sign of Jonah\"."
+        },
+        {
+          "id": 43,
+          "term": "κρύπτην, \"a hidden place\"",
+          "verse_refs": [27],
+          "category": "translation",
+          "explanation": "A cellar or vault."
+        },
+        {
+          "id": 44,
+          "term": "τὸν μόδιον, \"the measuring basket\"",
+          "verse_refs": [27],
+          "category": "translation",
+          "explanation": "A grain measure."
+        },
+        {
+          "id": 45,
+          "term": "ἐρωτᾷ, \"asks\"",
+          "verse_refs": [28],
+          "category": "translation",
+          "explanation": "The present tense in past narration, kept."
+        },
+        {
+          "id": 46,
+          "term": "ἀριστήσῃ, \"have the midday meal\"",
+          "verse_refs": [28],
+          "category": "translation",
+          "explanation": "ἄριστον, the first meal of the day, taken toward noon."
+        },
+        {
+          "id": 47,
+          "term": "διακρινόμενος ἐν ἑαυτῷ, \"debating within himself\"",
+          "verse_refs": [29],
+          "category": "translation",
+          "explanation": "The reading of this text, with D's Greek."
+        },
+        {
+          "id": 48,
+          "term": "ἐβαπτίσθη, \"was washed\"",
+          "verse_refs": [29],
+          "category": "translation",
+          "explanation": "βαπτίζω, to dip, immerse: a ritual washing before the meal. It is the verb behind \"baptiser\" (7:20)."
+        },
+        {
+          "id": 49,
+          "term": "ὁ κύριος, \"the lord\"",
+          "verse_refs": [30],
+          "category": "translation",
+          "explanation": "As at 7:13."
+        },
+        {
+          "id": 50,
+          "term": "πίνακος, \"platter\"",
+          "verse_refs": [30],
+          "category": "translation",
+          "explanation": "A dish, a board for food."
+        },
+        {
+          "id": 51,
+          "term": "ἁρπαγῆς, \"plunder\"",
+          "verse_refs": [30],
+          "category": "translation",
+          "explanation": "Robbery, what is seized. \"Greed\" weakens it."
+        },
+        {
+          "id": 52,
+          "term": "ἄφρονες, \"senseless ones\"",
+          "verse_refs": [31],
+          "category": "translation",
+          "explanation": "Without sense, foolish."
+        },
+        {
+          "id": 53,
+          "term": "τὰ ἐνόντα, \"what is inside\"",
+          "verse_refs": [32],
+          "category": "translation",
+          "explanation": "The contents, what is within."
+        },
+        {
+          "id": 54,
+          "term": "ἐλεημοσύνην, \"a gift of mercy\"",
+          "verse_refs": [32],
+          "category": "translation",
+          "explanation": "From ἔλεος, mercy: alms."
+        },
+        {
+          "id": 55,
+          "term": "ἀποδεκατοῦτε, \"you take a tenth\"",
+          "verse_refs": [33],
+          "category": "translation",
+          "explanation": "You tithe."
+        },
+        {
+          "id": 56,
+          "term": "τὴν κλῆσιν, \"the calling\"",
+          "verse_refs": [33],
+          "category": "translation",
+          "explanation": "The reading of this text. Canonical Luke has τὴν κρίσιν, \"justice, judgement\"."
+        },
+        {
+          "id": 57,
+          "term": "παρεῖναι, \"to have let go\"",
+          "verse_refs": [33],
+          "category": "translation",
+          "explanation": "παρίημι, to let pass, neglect."
+        },
+        {
+          "id": 58,
+          "term": "πρωτοκαθεδρίαν, \"first seat\"",
+          "verse_refs": [34],
+          "category": "translation",
+          "explanation": "The seat of honour."
+        },
+        {
+          "id": 59,
+          "term": "τὰ ἄδηλα, \"that are not seen\"",
+          "verse_refs": [35],
+          "category": "translation",
+          "explanation": "Unmarked, invisible. Contact with a tomb made a person unclean."
+        },
+        {
+          "id": 60,
+          "term": "λέγει, \"says\"",
+          "verse_refs": [36],
+          "category": "translation",
+          "explanation": "The present tense in past narration, kept."
+        },
+        {
+          "id": 61,
+          "term": "ὑβρίζεις, \"insult\"",
+          "verse_refs": [36],
+          "category": "translation",
+          "explanation": "To treat with outrage."
+        },
+        {
+          "id": 62,
+          "term": "φορτίζετε… φορτία, \"load… loads\"",
+          "verse_refs": [37],
+          "category": "translation",
+          "explanation": "One root, kept as one English word."
+        },
+        {
+          "id": 63,
+          "term": "δυσβάστακτα, \"hard to carry\"",
+          "verse_refs": [37],
+          "category": "translation",
+          "explanation": "Difficult to bear."
+        },
+        {
+          "id": 64,
+          "term": "συνευδοκεῖτε, \"consent to\"",
+          "verse_refs": [39],
+          "category": "translation",
+          "explanation": "To approve together with."
+        },
+        {
+          "id": 65,
+          "term": "κλεῖδα τῆς γνώσεως, \"the key of knowledge\"",
+          "verse_refs": [40],
+          "category": "translation",
+          "explanation": "γνῶσις, knowledge."
+        },
+        {
+          "id": 66,
+          "term": "ἐκωλύσατε, \"hindered\"",
+          "verse_refs": [40],
+          "category": "translation",
+          "explanation": "To prevent, hold back."
         }
       ]
     },
     {
       "chapter": 10,
       "title": "Proto-Luke Chapter 10",
-      "preamble": "Fear and trust. Jesus warns his disciples against the leaven of the Pharisees and tells them not to fear those who can only kill the body, but the one who has authority to cast into Gehenna. Whoever acknowledges him will be acknowledged \"before God\" (this text has no angels in 12:8–9), and the holy spirit will teach them what to say. He refuses to divide an inheritance and tells of the rich fool. He tells them not to worry about food and clothing, but to seek the kingdom of God, which \"the Father\" is pleased to give them. Then come the parables of watchfulness: servants waiting for their master to return from a wedding \"in the evening watch\", the thief, and the steward. He has come to cast fire on the earth and to bring division, and he calls the crowds hypocrites who read the face of heaven and earth but not the present time. The five sparrows (12:6), which Epiphanius says the text lacked, and the saying on God clothing the grass (12:28a) are not printed.",
+      "preamble": "Fear and trust. Jesus warns his disciples against the leaven of the Pharisees and tells them not to fear those who can only kill the body, but the one who has authority to throw into Gehenna. Whoever acknowledges him will be acknowledged \"before God\" (this text has no angels in 12:8–9), and the holy spirit will teach them what to say. He refuses to divide an inheritance and tells of the rich fool. He tells them not to worry about food and clothing, but to seek the kingdom of God, which \"the Father\" is pleased to give them. Then come the parables of watchfulness: servants waiting for their master to return from a wedding \"in the evening watch\", the thief, and the steward. He has come to throw fire upon the earth and to bring division, and he calls the crowds hypocrites who read the face of heaven and earth but not the present time. The five sparrows (12:6), which Epiphanius says the text lacked, and the saying on God clothing the grass (12:28a) are not printed.",
       "verses": [
         {
           "verse": 1,
           "canonical_ref": "Luke 12:1",
-          "english": "Meanwhile, when the crowd had gathered in thousands, so that they trampled on one another, he began to say to his disciples first, \"Beware of the leaven of the Pharisees, which is hypocrisy.",
+          "english": "Meanwhile, when the tens of thousands of the crowd had gathered together, so that they were trampling one another, he began to say to his learners first, \"Keep yourselves away from the leaven of the Pharisees, which is play-acting.",
           "greek": "Ἐν οἷς ἐπισυναχθεισῶν τῶν μυριάδων τοῦ ὄχλου, ὥστε καταπατεῖν ἀλλήλους, ἤρξατο λέγειν πρὸς τοὺς μαθητὰς αὐτοῦ πρῶτον· Προσέχετε ἑαυτοῖς ἀπὸ τῆς ζύμης, ἥτις ἐστὶν ὑπόκρισις, τῶν Φαρισαίων."
         },
         {
           "verse": 2,
           "canonical_ref": "Luke 12:2",
-          "english": "Nothing is covered up that will not be revealed, or hidden that will not be known.",
+          "english": "And nothing is covered over that will not be uncovered, and hidden that will not be known.",
           "greek": "οὐδὲν δὲ συγκεκαλυμμένον ἐστὶν ὃ οὐκ ἀποκαλυφθήσεται, καὶ κρυπτὸν ὃ οὐ γνωσθήσεται."
         },
         {
           "verse": 3,
           "canonical_ref": "Luke 12:3",
-          "english": "Therefore whatever you have said in the dark will be heard in the light, and what you have whispered in private rooms will be proclaimed on the housetops.",
+          "english": "Because of this, whatever you said in the darkness will be heard in the light, and what you spoke into the ear in the inner rooms will be proclaimed upon the roofs.",
           "greek": "ἀνθ’ ὧν ὅσα ἐν τῇ σκοτίᾳ εἴπατε ἐν τῷ φωτὶ ἀκουσθήσεται, καὶ ὃ πρὸς τὸ οὖς ἐλαλήσατε ἐν τοῖς ταμείοις κηρυχθήσεται ἐπὶ τῶν δωμάτων."
         },
         {
           "verse": 4,
           "canonical_ref": "Luke 12:4",
-          "english": "I tell you, my friends, do not be afraid of those who kill the body and after that can do nothing more.",
+          "english": "And I say to you, my friends, do not be afraid of those who kill the body and after these things have nothing more they can do.",
           "greek": "Λέγω δὲ ὑμῖν τοῖς φίλοις μου, μὴ φοβηθῆτε ἀπὸ τῶν ἀποκτεινόντων τὸ σῶμα καὶ μετὰ ταῦτα μὴ ἐχόντων περισσότερόν τι ποιῆσαι."
         },
         {
           "verse": 5,
           "canonical_ref": "Luke 12:5",
-          "english": "But I will show you whom to fear: fear the one who, after he has killed, has authority to cast into Gehenna. Yes, I tell you, fear him.",
+          "english": "But I will show you whom you should fear: fear the one who, after killing, has authority to throw into Gehenna. Yes, I tell you, fear this one.",
           "greek": "ὑποδείξω δὲ ὑμῖν τίνα φοβηθῆτε· φοβήθητε τὸν μετὰ τὸ ἀποκτεῖναι ἔχοντα ἐξουσίαν βαλεῖν εἰς γέενναν· ναί, λέγω ὑμῖν, τοῦτον φοβήθητε."
         },
         {
           "verse": 6,
           "canonical_ref": "Luke 12:8",
-          "english": "I tell you, everyone who acknowledges me before people, the son of man also will acknowledge before God;",
+          "english": "And I tell you, everyone who acknowledges me before the humans, the son of the human also will acknowledge him before God;",
           "greek": "Λέγω δὲ ὑμῖν, πᾶς ὃς ἂν ὁμολογήσῃ ἐν ἐμοὶ ἔμπροσθεν τῶν ἀνθρώπων, καὶ ὁ υἱὸς τοῦ ἀνθρώπου ὁμολογήσει ἐν αὐτῷ ἔμπροσθεν τοῦ θεοῦ·"
         },
         {
           "verse": 7,
           "canonical_ref": "Luke 12:9",
-          "english": "but whoever denies me before people will be denied before God.",
+          "english": "but the one who disowns me before the humans will be disowned before God.",
           "greek": "ὁ δὲ ἀρνησάμενός με ἐνώπιον τῶν ἀνθρώπων ἀπαρνηθήσεται ἐνώπιον τοῦ θεοῦ."
         },
         {
           "verse": 8,
           "canonical_ref": "Luke 12:10",
-          "english": "And everyone who speaks a word against the son of man will be forgiven; but whoever blasphemes against the holy spirit will not be forgiven.",
+          "english": "And everyone who will speak a word against the son of the human, it will be let go for him; but for the one who has blasphemed against the holy spirit, it will not be let go.",
           "greek": "καὶ πᾶς ὃς ἐρεῖ λόγον εἰς τὸν υἱὸν τοῦ ἀνθρώπου, ἀφεθήσεται αὐτῷ τῷ δὲ εἰς τὸ ἅγιον πνεῦμα βλασφημήσαντι οὐκ ἀφεθήσεται."
         },
         {
           "verse": 9,
           "canonical_ref": "Luke 12:11",
-          "english": "When they bring you before the synagogues and the rulers and the authorities, do not worry about how or what you are to answer, or what you are to say;",
+          "english": "And when they bring you in before the assemblies and the rulers and the authorities, do not be anxious how or what you should answer in defence, or what you should say;",
           "greek": "ὅταν δὲ εἰσφέρωσιν ὑμᾶς ἐπὶ τὰς συναγωγὰς καὶ τὰς ἀρχὰς καὶ τὰς ἐξουσίας, μὴ μεριμνήσητε πῶς ἢ τί ἀπολογήσησθε ἢ τί εἴπητε·"
         },
         {
           "verse": 10,
           "canonical_ref": "Luke 12:12",
-          "english": "for the holy spirit will teach you in that very hour what you ought to say.\"",
+          "english": "for the holy spirit will teach you in that very hour what you must say.\"",
           "greek": "τὸ γὰρ ἅγιον πνεῦμα διδάξει ὑμᾶς ἐν αὐτῇ τῇ ὥρᾳ ἃ δεῖ εἰπεῖν."
         },
         {
           "verse": 11,
           "canonical_ref": "Luke 12:13",
-          "english": "Someone in the crowd said to him, \"Teacher, tell my brother to divide the inheritance with me.\"",
+          "english": "And someone from the crowd said to him, \"Teacher, tell my brother to divide the inheritance with me.\"",
           "greek": "Εἶπεν δέ τις ἐκ τοῦ ὄχλου αὐτῷ· Διδάσκαλε, εἰπὲ τῷ ἀδελφῷ μου μερίσασθαι μετ’ ἐμοῦ τὴν κληρονομίαν."
         },
         {
           "verse": 12,
           "canonical_ref": "Luke 12:14",
-          "english": "But he said to him, \"Man, who appointed me a judge or arbitrator over you?\"",
+          "english": "But he said to him, \"Human, who set me up as judge or divider over you?\"",
           "greek": "ὁ δὲ εἶπεν αὐτῷ· Ἄνθρωπε, τίς με κατέστησεν κριτὴν ἢ μεριστὴν ἐφ’ ὑμᾶς;"
         },
         {
           "verse": 13,
           "canonical_ref": "Luke 12:15",
-          "english": "And he said to them, \"Take care, and be on your guard against all greed; for one's life does not consist in the abundance of one's possessions.\"",
+          "english": "And he said to them, \"Look, and guard yourselves against every kind of wanting more, because a person's life is not in having more than enough of his possessions.\"",
           "greek": "εἶπεν δὲ πρὸς αὐτούς· Ὁρᾶτε καὶ φυλάσσεσθε ἀπὸ πάσης πλεονεξίας, ὅτι οὐκ ἐν τῷ περισσεύειν τινὶ ἡ ζωὴ αὐτοῦ ἐστιν ἐκ τῶν ὑπαρχόντων αὐτῷ.",
           "attestation": "unattested"
         },
         {
           "verse": 14,
           "canonical_ref": "Luke 12:16",
-          "english": "And he told them a parable: \"The land of a rich man produced plentifully.",
+          "english": "And he spoke a parable to them, saying, \"The land of a certain rich man bore well.",
           "greek": "εἶπεν δὲ παραβολὴν πρὸς αὐτοὺς λέγων· Ἀνθρώπου τινὸς πλουσίου εὐφόρησεν ἡ χώρα."
         },
         {
           "verse": 15,
           "canonical_ref": "Luke 12:17",
-          "english": "And he thought to himself, 'What shall I do, for I have nowhere to store my crops?'",
+          "english": "And he was reasoning within himself, saying, 'What shall I do, because I have nowhere to gather my fruits?'",
           "greek": "καὶ διελογίζετο ἐν ἑαυτῷ λέγων· Τί ποιήσω, ὅτι οὐκ ἔχω ποῦ συνάξω τοὺς καρπούς μου;",
           "attestation": "unattested"
         },
         {
           "verse": 16,
           "canonical_ref": "Luke 12:18",
-          "english": "Then he said, 'I will do this: I will pull down my barns and build larger ones, and there I will store all my grain and my goods.",
+          "english": "And he said, 'This I will do: I will pull down my barns and build bigger ones, and I will gather there all my grain and my good things,",
           "greek": "καὶ εἶπεν· Τοῦτο ποιήσω· καθελῶ μου τὰς ἀποθήκας καὶ μείζονας οἰκοδομήσω, καὶ συνάξω ἐκεῖ πάντα τὸν σῖτον καὶ τὰ ἀγαθά μου,",
           "attestation": "unattested"
         },
         {
           "verse": 17,
           "canonical_ref": "Luke 12:19",
-          "english": "And I will say to my soul: Soul, you have ample goods laid up for many years; relax, eat, drink, be merry.'",
+          "english": "and I will say to my soul: Soul, you have many good things laid up for many years; rest, eat, drink, be glad.'",
           "greek": "καὶ ἐρῶ τῇ ψυχῇ μου· Ψυχή, ἔχεις πολλὰ ἀγαθὰ κείμενα εἰς ἔτη πολλά· ἀναπαύου, φάγε, πίε, εὐφραίνου."
         },
         {
           "verse": 18,
           "canonical_ref": "Luke 12:20",
-          "english": "But God said to him, 'Fool! This night your soul is demanded of you; and the things you have prepared, whose will they be?'",
+          "english": "But God said to him, 'Senseless one, this night they are demanding your soul back from you; and the things you have made ready, whose will they be?'",
           "greek": "εἶπεν δὲ αὐτῷ ὁ θεός· Ἄφρων, ταύτῃ τῇ νυκτὶ τὴν ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ· ἃ δὲ ἡτοίμασας, τίνι ἔσται;"
         },
         {
           "verse": 19,
           "canonical_ref": "Luke 12:21",
-          "english": "So it is with whoever stores up treasure for himself and is not rich toward God.\"",
+          "english": "So is the one who stores up treasure for himself and is not rich toward God.\"",
           "greek": "οὕτως ὁ θησαυρίζων ἑαυτῷ καὶ μὴ εἰς θεὸν πλουτῶν.",
           "attestation": "unattested"
         },
         {
           "verse": 20,
           "canonical_ref": "Luke 12:22",
-          "english": "And he said to his disciples, \"Therefore I tell you, do not worry about your life, what you will eat, nor about your body, what you will wear.",
+          "english": "And he said to his learners, \"For this reason I tell you, do not be anxious for the soul, what you will eat, nor for the body, what you will put on.",
           "greek": "Εἶπεν δὲ πρὸς τοὺς μαθητὰς αὐτοῦ· Διὰ τοῦτο λέγω ὑμῖν, μὴ μεριμνᾶτε τῇ ψυχῇ τί φάγητε, μηδὲ τῷ σώματι τί ἐνδύσησθε."
         },
         {
           "verse": 21,
           "canonical_ref": "Luke 12:23",
-          "english": "For life is more than food, and the body more than clothing.",
+          "english": "For the soul is more than the food, and the body than the clothing.",
           "greek": "ἡ γὰρ ψυχὴ πλεῖόν ἐστιν τῆς τροφῆς καὶ τὸ σῶμα τοῦ ἐνδύματος."
         },
         {
           "verse": 22,
           "canonical_ref": "Luke 12:24",
-          "english": "Consider the ravens: they neither sow nor reap, they have neither storehouse nor barn, and God feeds them. Of how much more value are you than the birds!",
+          "english": "Consider the ravens, that they do not sow nor reap; they have no storeroom nor barn, and God feeds them. How much more are you worth than the birds!",
           "greek": "κατανοήσατε τοὺς κόρακας ὅτι οὐ σπείρουσιν οὐδὲ θερίζουσιν, οἷς οὐκ ἔστιν ταμεῖον οὐδὲ ἀποθήκη, καὶ ὁ θεὸς τρέφει αὐτούς· πόσῳ μᾶλλον ὑμεῖς διαφέρετε τῶν πετεινῶν."
         },
         {
           "verse": 23,
           "canonical_ref": "Luke 12:25",
-          "english": "And which of you by worrying can add a single cubit to his span of life?",
+          "english": "And which of you, by being anxious, can add a cubit to his stature?",
           "greek": "τίς δὲ ἐξ ὑμῶν μεριμνῶν δύναται ἐπὶ τὴν ἡλικίαν αὐτοῦ προσθεῖναι πῆχυν;",
           "attestation": "unattested"
         },
         {
           "verse": 24,
           "canonical_ref": "Luke 12:26",
-          "english": "If then you are not able to do so small a thing as that, why do you worry about the rest?",
+          "english": "If then you cannot do even the least thing, why are you anxious about the rest?",
           "greek": "εἰ οὖν οὐδὲ ἐλάχιστον δύνασθε, τί περὶ τῶν λοιπῶν μεριμνᾶτε;",
           "attestation": "unattested"
         },
         {
           "verse": 25,
           "canonical_ref": "Luke 12:27",
-          "english": "Consider the lilies, how they neither spin nor weave; yet I tell you, even Solomon in all his glory was not clothed like one of these.",
+          "english": "Consider the lilies, how they neither spin nor weave; but I tell you, not even Solomon in all his glory was clothed like one of these.",
           "greek": "κατανοήσατε τὰ κρίνα πῶς οὔτε νήθει οὔτε ὑφαίνει· λέγω δὲ ὑμῖν, οὐδὲ Σολομὼν ἐν πάσῃ τῇ δόξῃ αὐτοῦ περιεβάλετο ὡς ἓν τούτων."
         },
         {
           "verse": 26,
           "canonical_ref": "Luke 12:28",
-          "english": "How much more you, you of little faith!",
+          "english": "How much more you, you of little trust.",
           "greek": "πόσῳ μᾶλλον ὑμᾶς, ὀλιγόπιστοι."
         },
         {
           "verse": 27,
           "canonical_ref": "Luke 12:29",
-          "english": "And do not seek what you are to eat and what you are to drink, and do not be anxious.",
+          "english": "And you, do not seek what you will eat and what you will drink, and do not be held in suspense;",
           "greek": "καὶ ὑμεῖς μὴ ζητεῖτε τί φάγητε καὶ τί πίητε, καὶ μὴ μετεωρίζεσθε,",
           "attestation": "unattested"
         },
         {
           "verse": 28,
           "canonical_ref": "Luke 12:30",
-          "english": "For all the nations of the world seek these things, and your Father knows that you need them.",
+          "english": "for all these things the nations of the world seek after, but your Father knows that you need them.",
           "greek": "ταῦτα γὰρ πάντα τὰ ἔθνη τοῦ κόσμου ἐπιζητοῦσιν, ὑμῶν δὲ ὁ πατὴρ οἶδεν ὅτι χρῄζετε τούτων."
         },
         {
           "verse": 29,
           "canonical_ref": "Luke 12:31",
-          "english": "Instead, seek the kingdom of God, and these things will be added to you.",
+          "english": "But seek the kingdom of God, and these things will be added to you.",
           "greek": "πλὴν ζητεῖτε τὴν βασιλείαν τοῦ θεοῦ, καὶ ταῦτα προστεθήσεται ὑμῖν."
         },
         {
           "verse": 30,
           "canonical_ref": "Luke 12:32",
-          "english": "Do not be afraid, little flock, for it has pleased the Father to give you the kingdom.",
+          "english": "Do not be afraid, little flock, because the Father has been well pleased to give you the kingdom.",
           "greek": "Μὴ φοβοῦ, τὸ μικρὸν ποίμνιον, ὅτι εὐδόκησεν ὁ πατὴρ δοῦναι ὑμῖν τὴν βασιλείαν."
         },
         {
@@ -5592,149 +6278,149 @@
         {
           "verse": 32,
           "canonical_ref": "Luke 12:36",
-          "english": "and be like people waiting for their master to come home from the wedding feast, so that they may open to him at once when he comes and knocks.",
+          "english": "and you, be like humans waiting for their lord, when he will return from the wedding, so that when he comes and knocks they may open to him at once.",
           "greek": "καὶ ὑμεῖς ὅμοιοι ἀνθρώποις προσδεχομένοις τὸν κύριον ἑαυτῶν πότε ἀναλύσῃ ἐκ τῶν γάμων, ἵνα ἐλθόντος καὶ κρούσαντος εὐθέως ἀνοίξωσιν αὐτῷ."
         },
         {
           "verse": 33,
           "canonical_ref": "Luke 12:37",
-          "english": "Blessed are those servants whom the master finds awake when he comes; truly I tell you, he will gird himself and have them recline at table, and he will come and serve them.",
+          "english": "Fortunate are those slaves whom the lord, when he comes, will find keeping awake. Amen, I tell you that he will gird himself and have them recline at table, and he will come by and serve them.",
           "greek": "μακάριοι οἱ δοῦλοι ἐκεῖνοι, οὓς ἐλθὼν ὁ κύριος εὑρήσει γρηγοροῦντας· ἀμὴν λέγω ὑμῖν ὅτι περιζώσεται καὶ ἀνακλινεῖ αὐτοὺς καὶ παρελθὼν διακονήσει αὐτοῖς."
         },
         {
           "verse": 34,
           "canonical_ref": "Luke 12:38",
-          "english": "If he comes in the evening watch and finds them so, blessed are they.",
+          "english": "And if he comes in the evening watch and finds them so, fortunate are those.",
           "greek": "κἂν ἐν τῇ ἑσπερινῇ φυλακῇ ἔλθῃ καὶ εὕρῃ οὕτως, μακάριοί εἰσιν ἐκεῖνοι."
         },
         {
           "verse": 35,
           "canonical_ref": "Luke 12:39",
-          "english": "But know this: if the master of the house had known at what hour the thief was coming, he would not have let his house be broken into.",
+          "english": "But know this, that if the master of the house had known at what hour the thief is coming, he would not have let his house be dug through.",
           "greek": "Τοῦτο δὲ γινώσκετε ὅτι εἰ ᾔδει ὁ οἰκοδεσπότης ποίᾳ ὥρᾳ ὁ κλέπτης ἔρχεται, οὐκ ἂν ἀφῆκεν διορυχθῆναι τὸν οἶκον αὐτοῦ."
         },
         {
           "verse": 36,
           "canonical_ref": "Luke 12:40",
-          "english": "You also must be ready, for the son of man is coming at an hour you do not expect.\"",
+          "english": "You also, be ready, because the son of the human is coming at an hour you do not think.\"",
           "greek": "καὶ ὑμεῖς γίνεσθε ἕτοιμοι, ὅτι ᾗ ὥρᾳ οὐ δοκεῖτε ὁ υἱὸς τοῦ ἀνθρώπου ἔρχεται."
         },
         {
           "verse": 37,
           "canonical_ref": "Luke 12:41",
-          "english": "Peter said, \"Lord, are you telling this parable for us or for all?\"",
+          "english": "And Peter said, \"Lord, are you saying this parable to us, or to all as well?\"",
           "greek": "Εἶπεν δὲ ὁ Πέτρος· Κύριε, πρὸς ἡμᾶς τὴν παραβολὴν ταύτην λέγεις ἢ καὶ πρὸς πάντας;"
         },
         {
           "verse": 38,
           "canonical_ref": "Luke 12:42",
-          "english": "And the Lord said, \"Who then is the faithful and wise steward, whom his master will set over his household, to give them their portion of food at the proper time?",
+          "english": "And the lord said, \"Who then is the trustworthy steward, the sensible one, whom the lord will set over his household servants, to give the measure of grain at the right time?",
           "greek": "καὶ εἶπεν ὁ κύριος· Τίς ἄρα ἐστὶν ὁ πιστὸς οἰκονόμος, ὁ φρόνιμος, ὃν καταστήσει ὁ κύριος ἐπὶ τῆς θεραπείας αὐτοῦ τοῦ διδόναι ἐν καιρῷ τὸ σιτομέτριον;"
         },
         {
           "verse": 39,
           "canonical_ref": "Luke 12:43",
-          "english": "Blessed is that servant whom his master will find so doing when he comes.",
+          "english": "Fortunate is that slave whom his lord, when he comes, will find doing so.",
           "greek": "μακάριος ὁ δοῦλος ἐκεῖνος, ὃν ἐλθὼν ὁ κύριος αὐτοῦ εὑρήσει ποιοῦντα οὕτως·"
         },
         {
           "verse": 40,
           "canonical_ref": "Luke 12:44",
-          "english": "Truly I tell you, he will set him over all his possessions.",
+          "english": "Truly I tell you that he will set him over all his possessions.",
           "greek": "ἀληθῶς λέγω ὑμῖν ὅτι ἐπὶ πᾶσιν τοῖς ὑπάρχουσιν αὐτοῦ καταστήσει αὐτόν."
         },
         {
           "verse": 41,
           "canonical_ref": "Luke 12:45",
-          "english": "But if that servant says in his heart, 'My master is delayed in coming', and begins to beat the menservants and the maidservants, and to eat and drink and get drunk,",
+          "english": "But if that slave says in his heart, 'My lord is taking his time in coming,' and begins to beat the slave boys and the slave girls, and to eat and drink and get drunk,",
           "greek": "ἐὰν δὲ εἴπῃ ὁ δοῦλος ἐκεῖνος ἐν τῇ καρδίᾳ αὐτοῦ· Χρονίζει ὁ κύριός μου ἔρχεσθαι, καὶ ἄρξηται τύπτειν τοὺς παῖδας καὶ τὰς παιδίσκας, ἐσθίειν τε καὶ πίνειν καὶ μεθύσκεσθαι,"
         },
         {
           "verse": 42,
           "canonical_ref": "Luke 12:46",
-          "english": "the master of that servant will come on a day when he does not expect him and at an hour he does not know, and will cut him in pieces and put him with the unfaithful.",
+          "english": "the lord of that slave will come on a day when he is not expecting and at an hour he does not know, and will cut him in two, and will put his portion with the untrustworthy.",
           "greek": "ἥξει ὁ κύριος τοῦ δούλου ἐκείνου ἐν ἡμέρᾳ ᾗ οὐ προσδοκᾷ καὶ ἐν ὥρᾳ ᾗ οὐ γινώσκει, καὶ διχοτομήσει αὐτὸν καὶ τὸ μέρος αὐτοῦ μετὰ τῶν ἀπίστων θήσει."
         },
         {
           "verse": 43,
           "canonical_ref": "Luke 12:47",
-          "english": "That servant who knew his master's will but did not get ready or act according to his will shall receive a severe beating.",
+          "english": "But that slave who knew the will of his lord and did not make ready or act according to his will will be beaten with many blows;",
           "greek": "ἐκεῖνος δὲ ὁ δοῦλος ὁ γνοὺς τὸ θέλημα τοῦ κυρίου αὐτοῦ καὶ μὴ ἑτοιμάσας ἢ ποιήσας πρὸς τὸ θέλημα αὐτοῦ δαρήσεται πολλάς·"
         },
         {
           "verse": 44,
           "canonical_ref": "Luke 12:48",
-          "english": "But the one who did not know, and did what deserved a beating, shall receive a light beating. Everyone to whom much was given, of him much will be required; and from the one to whom much was entrusted, they will demand the more.",
+          "english": "but the one who did not know, and did things deserving blows, will be beaten with few. And everyone to whom much was given, much will be sought from him; and the one to whom they entrusted much, they will ask the more of him.",
           "greek": "ὁ δὲ μὴ γνοὺς ποιήσας δὲ ἄξια πληγῶν δαρήσεται ὀλίγας. παντὶ δὲ ᾧ ἐδόθη πολύ, πολὺ ζητηθήσεται παρ’ αὐτοῦ, καὶ ᾧ παρέθεντο πολύ, περισσότερον αἰτήσουσιν αὐτόν."
         },
         {
           "verse": 45,
           "canonical_ref": "Luke 12:49",
-          "english": "I came to cast fire on the earth, and how I wish it were already kindled!",
+          "english": "Fire I came to throw upon the earth, and what do I want, if it has already been kindled?",
           "greek": "Πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν, καὶ τί θέλω εἰ ἤδη ἀνήφθη;"
         },
         {
           "verse": 46,
           "canonical_ref": "Luke 12:50",
-          "english": "I have a baptism to be baptized with, and how I am constrained until it is accomplished!",
+          "english": "And I have an immersion to be immersed in, and how I am held fast until it is completed!",
           "greek": "βάπτισμα δὲ ἔχω βαπτισθῆναι, καὶ πῶς συνέχομαι ἕως ὅτου τελεσθῇ.",
           "attestation": "unattested"
         },
         {
           "verse": 47,
           "canonical_ref": "Luke 12:51",
-          "english": "Do you think that I have come to give peace on earth? No, I tell you, but rather division.",
+          "english": "Do you think that I arrived to give peace on the earth? No, I tell you, but rather division.",
           "greek": "δοκεῖτε ὅτι εἰρήνην παρεγενόμην δοῦναι ἐν τῇ γῇ; οὐχί, λέγω ὑμῖν, ἀλλ’ ἢ διαμερισμόν."
         },
         {
           "verse": 48,
           "canonical_ref": "Luke 12:52",
-          "english": "For from now on in one house there will be five divided, three against two and two against three.",
+          "english": "For from now on there will be five in one house divided, three against two and two against three;",
           "greek": "ἔσονται γὰρ ἀπὸ τοῦ νῦν πέντε ἐν ἑνὶ οἴκῳ διαμεμερισμένοι, τρεῖς ἐπὶ δυσὶν καὶ δύο ἐπὶ τρισίν,",
           "attestation": "unattested"
         },
         {
           "verse": 49,
           "canonical_ref": "Luke 12:53",
-          "english": "Father will be divided against son and son against father, mother against daughter and daughter against mother, mother-in-law against her daughter-in-law and daughter-in-law against mother-in-law.\"",
+          "english": "father will be divided against son and son against father, mother against daughter and daughter against the mother, mother-in-law against her daughter-in-law and daughter-in-law against the mother-in-law.\"",
           "greek": "διαμερισθήσεται πατὴρ ἐπὶ υἱῷ καὶ υἱὸς ἐπὶ πατρί, μήτηρ ἐπὶ θυγατέρα καὶ θυγάτηρ ἐπὶ τὴν μητέρα, πενθερὰ ἐπὶ τὴν νύμφην αὐτῆς καὶ νύμφη ἐπὶ τὴν πενθεράν."
         },
         {
           "verse": 50,
           "canonical_ref": "Luke 12:54",
-          "english": "He also said to the crowds, \"When you see a cloud rising in the west, you say at once, 'A shower is coming', and so it happens.",
+          "english": "And he was also saying to the crowds, \"When you see the cloud rising in the west, at once you say, 'A rainstorm is coming,' and so it happens;",
           "greek": "Ἔλεγεν δὲ καὶ τοῖς ὄχλοις· Ὅταν ἴδητε τὴν νεφέλην ἀνατέλλουσαν ἐπὶ δυσμῶν, εὐθέως λέγετε ὅτι Ὄμβρος ἔρχεται, καὶ γίνεται οὕτως·",
           "attestation": "unattested"
         },
         {
           "verse": 51,
           "canonical_ref": "Luke 12:55",
-          "english": "And when you see the south wind blowing, you say, 'There will be scorching heat', and it happens.",
+          "english": "and when you see the south wind blowing, you say, 'There will be scorching heat,' and it happens.",
           "greek": "καὶ ὅταν νότον πνέοντα, λέγετε ὅτι Καύσων ἔσται, καὶ γίνεται.",
           "attestation": "unattested"
         },
         {
           "verse": 52,
           "canonical_ref": "Luke 12:56",
-          "english": "Hypocrites! You know how to interpret the appearance of heaven and earth, but why do you not know how to interpret the present time?",
+          "english": "Play-actors! The face of the sky and of the earth you know how to test, but this time, how is it that you do not know how to test it?",
           "greek": "ὑποκριταί, τὸ πρόσωπον τοῦ οὐρανοῦ καὶ τῆς γῆς οἴδατε δοκιμάζειν, τὸν καιρὸν δὲ τοῦτον πῶς οὐκ οἴδατε δοκιμάζειν;"
         },
         {
           "verse": 53,
           "canonical_ref": "Luke 12:57",
-          "english": "And why do you not judge for yourselves what is right?",
+          "english": "And why do you not judge even of yourselves what is just?",
           "greek": "Τί δὲ καὶ ἀφ’ ἑαυτῶν οὐ κρίνετε τὸ δίκαιον;"
         },
         {
           "verse": 54,
           "canonical_ref": "Luke 12:58",
-          "english": "As you go with your accuser before a magistrate, make an effort on the way to settle with him, so that he does not drag you to the judge, and the judge hand you over to the officer, and the officer throw you into prison.",
+          "english": "For as you are going away with your opponent at law before a ruler, on the road make an effort to be released from him, so that he does not drag you to the judge, and the judge hand you over to the officer, and the officer throw you into prison.",
           "greek": "ὡς γὰρ ὑπάγεις μετὰ τοῦ ἀντιδίκου σου ἐπ’ ἄρχοντα, ἐν τῇ ὁδῷ δὸς ἐργασίαν ἀπηλλάχθαι ἀπ’ αὐτοῦ, μήποτε κατασύρῃ σε πρὸς τὸν κριτήν, καὶ ὁ κριτὴς παραδώσει σε τῷ πράκτορι, καὶ ὁ πράκτωρ σε βαλεῖ εἰς φυλακήν."
         },
         {
           "verse": 55,
           "canonical_ref": "Luke 12:59",
-          "english": "I tell you, you will not get out of there until you have paid the very last copper.\"",
+          "english": "I tell you, you will not come out from there until you have paid back even the last lepton.\"",
           "greek": "λέγω σοι, οὐ μὴ ἐξέλθῃς ἐκεῖθεν ἕως καὶ τὸ ἔσχατον λεπτὸν ἀποδῷς."
         }
       ],
@@ -5744,7 +6430,7 @@
           "term": "Whom to fear (12:1–12)",
           "verse_refs": [1, 2, 4, 5, 6, 7, 8, 10],
           "category": "textual",
-          "explanation": "Tertullian, Marc. 4.28.1–8 follows the passage closely: the leaven of the Pharisees, nothing hidden that will not be known, \"do not fear those who can only kill\", \"fear him who after killing has power to cast into Gehenna\", which he says means the Creator, acknowledging and denying \"before God\", the sin against the holy spirit, and the spirit teaching in that hour. Epiphanius, sch. 29–30 quotes 12:4–5 in Greek (\"to cast into Gehenna\", βαλεῖν εἰς γέενναν) and states that the text had \"before God\" where canonical Luke has \"before the angels of God\". Both are printed. NA27 cites Marcion for the omission of \"the angels of\" in both 12:8 and 12:9."
+          "explanation": "Tertullian, Marc. 4.28.1–8 follows the passage closely: the leaven of the Pharisees, nothing hidden that will not be known, \"do not fear those who can only kill\", \"fear him who after killing has power to throw into Gehenna\", which he says means the Creator, acknowledging and denying \"before God\", the sin against the holy spirit, and the spirit teaching in that hour. Epiphanius, sch. 29–30 quotes 12:4–5 in Greek (\"to throw into Gehenna\", βαλεῖν εἰς γέενναν) and states that the text had \"before God\" where canonical Luke has \"before the angels of God\". Both are printed. NA27 cites Marcion for the omission of \"the angels of\" in both 12:8 and 12:9."
         },
         {
           "id": 2,
@@ -5765,21 +6451,21 @@
           "term": "Food and clothing (12:22–32)",
           "verse_refs": [20, 22, 25, 26, 28, 29, 30],
           "category": "textual",
-          "explanation": "Tertullian, Marc. 4.29.1–5 recasts the passage rhetorically, but the lilies \"neither weave nor spin\" (D: \"neither spin nor weave\"), not \"toil nor spin\" as in canonical Luke, and he quotes \"Seek the kingdom of God\". Epiphanius, sch. 31–34 states that the text lacked \"God clothes the grass\" (12:28a), quotes 12:30b and 12:31 (\"the kingdom of God\"), and states that 12:32 read \"the Father\", not \"your Father\". The text printed therefore goes from Solomon not clothed like the lilies to \"How much more you, you of little faith!\" 12:25–26 and 12:29 are not cited and are printed in grey. 12:33–34 (\"sell your possessions\") form a paragraph that no witness cites and are not printed."
+          "explanation": "Tertullian, Marc. 4.29.1–5 recasts the passage rhetorically, but the lilies \"neither weave nor spin\" (D: \"neither spin nor weave\"), not \"toil nor spin\" as in canonical Luke, and he quotes \"Seek the kingdom of God\". Epiphanius, sch. 31–34 states that the text lacked \"God clothes the grass\" (12:28a), quotes 12:30b and 12:31 (\"the kingdom of God\"), and states that 12:32 read \"the Father\", not \"your Father\". The text printed therefore goes from Solomon not clothed like the lilies to \"How much more you, you of little trust!\" 12:25–26 and 12:29 are not cited and are printed in grey. 12:33–34 (\"sell your possessions\") form a paragraph that no witness cites and are not printed."
         },
         {
           "id": 5,
           "term": "Watchfulness (12:35–48)",
           "verse_refs": [31, 32, 34, 35, 36, 37, 42, 43],
           "category": "textual",
-          "explanation": "Tertullian, Marc. 4.29.6–11 reads the girded loins and burning lamps as the life of faith, asks from whose wedding the master returns, and says that the thief is the devil, while the son of man comes as judge. He takes Peter's question to mean that the parable of the stewards is addressed to those \"who would preside over the churches\". Epiphanius, sch. 35 states that the master comes \"in the evening watch\", as in D and the Old Latin, not \"in the second or third watch\"; that reading is printed. Sch. 36 quotes 12:46. Tertullian reports that the Marcionites read \"cut him in pieces\" as mere separation (4.29.10); that is their reception, and the text has διχοτομήσει."
+          "explanation": "Tertullian, Marc. 4.29.6–11 reads the girded loins and burning lamps as the life of faith, asks from whose wedding the master returns, and says that the thief is the devil, while the son of man comes as judge. He takes Peter's question to mean that the parable of the stewards is addressed to those \"who would preside over the churches\". Epiphanius, sch. 35 states that the master comes \"in the evening watch\", as in D and the Old Latin, not \"in the second or third watch\"; that reading is printed. Sch. 36 quotes 12:46. Tertullian reports that the Marcionites read \"cut him in two\" as mere separation (4.29.10); that is their reception, and the text has διχοτομήσει."
         },
         {
           "id": 6,
           "term": "Fire and division (12:49–59)",
           "verse_refs": [45, 47, 49, 52, 53, 54, 55],
           "category": "textual",
-          "explanation": "Tertullian, Marc. 4.29.12–16 quotes \"I came to cast fire on the earth\", \"Do you think I came to bring peace on the earth? No, I tell you, but division\", and the division of father and son, mother and daughter (Micah 7:6). He charges that \"sword\" is what is written and that Marcion changed it, but \"sword\" is Matthew's word (Matt 10:34); every Greek manuscript of Luke reads \"division\". He paraphrases 12:56 with \"heaven and earth\", the order of 𝔓45, 𝔓75 and D, which is printed. Epiphanius, sch. 37 quotes 12:58b. 12:50, 12:52 and 12:54–55 are not cited and are printed in grey."
+          "explanation": "Tertullian, Marc. 4.29.12–16 quotes \"Fire I came to throw upon the earth\", \"Do you think I came to bring peace on the earth? No, I tell you, but division\", and the division of father and son, mother and daughter (Micah 7:6). He charges that \"sword\" is what is written and that Marcion changed it, but \"sword\" is Matthew's word (Matt 10:34); every Greek manuscript of Luke reads \"division\". He paraphrases 12:56 with \"heaven and earth\", the order of 𝔓45, 𝔓75 and D, which is printed. Epiphanius, sch. 37 quotes 12:58b. 12:50, 12:52 and 12:54–55 are not cited and are printed in grey."
         },
         {
           "id": 7,
@@ -5787,128 +6473,758 @@
           "verse_refs": [10, 28, 29, 30],
           "category": "theological",
           "explanation": "Interpretation. In this text the Father knows what the disciples need, gives them the kingdom, and the holy spirit teaches them what to say. Tertullian's argument through 4.28–4.29 is that the God who provides food and clothing and judges is one and the same. The text as attested does not separate a providing God from a judging one. It speaks of the Father who gives and of the one to be feared who can cast into Gehenna (12:5), and Tertullian identifies them. Whether the community behind the text read the two as one cannot be decided from the witnesses."
+        },
+        {
+          "id": 8,
+          "term": "μυριάδων, \"tens of thousands\"",
+          "verse_refs": [1],
+          "category": "translation",
+          "explanation": "μυριάς, ten thousand, a countless number."
+        },
+        {
+          "id": 9,
+          "term": "Προσέχετε ἑαυτοῖς ἀπό, \"keep yourselves away from\"",
+          "verse_refs": [1],
+          "category": "translation",
+          "explanation": "To watch oneself, be on guard against."
+        },
+        {
+          "id": 10,
+          "term": "ζύμης, \"leaven\"",
+          "verse_refs": [1],
+          "category": "translation",
+          "explanation": "Sourdough, fermenting dough used to raise bread."
+        },
+        {
+          "id": 11,
+          "term": "ὑπόκρισις, \"play-acting\"",
+          "verse_refs": [1],
+          "category": "translation",
+          "explanation": "The acting of a part on stage (cf. ὑποκριτής, 6:42). \"Hypocrisy\" is the Greek word left untranslated."
+        },
+        {
+          "id": 12,
+          "term": "συγκεκαλυμμένον… ἀποκαλυφθήσεται, \"covered over… uncovered\"",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "One verb, καλύπτω, \"cover\", with two prefixes. \"Revealed\" is the second, and is uncovering."
+        },
+        {
+          "id": 13,
+          "term": "ἐν τοῖς ταμείοις, \"in the inner rooms\"",
+          "verse_refs": [3],
+          "category": "translation",
+          "explanation": "The innermost room of a house, the storeroom."
+        },
+        {
+          "id": 14,
+          "term": "ἐπὶ τῶν δωμάτων, \"upon the roofs\"",
+          "verse_refs": [3],
+          "category": "translation",
+          "explanation": "Flat roofs, where people talked across to each other."
+        },
+        {
+          "id": 15,
+          "term": "σῶμα, \"body\"",
+          "verse_refs": [4],
+          "category": "translation",
+          "explanation": "The body."
+        },
+        {
+          "id": 16,
+          "term": "βαλεῖν εἰς γέενναν, \"throw into Gehenna\"",
+          "verse_refs": [5],
+          "category": "translation",
+          "explanation": "The reading of this text, βαλεῖν. Gehenna is the valley of Hinnom outside Jerusalem, a place of burning that became an image of judgement. \"Hell\" imports a later picture."
+        },
+        {
+          "id": 17,
+          "term": "ὁμολογήσῃ ἐν ἐμοί, \"acknowledges me\"",
+          "verse_refs": [6],
+          "category": "translation",
+          "explanation": "Literally \"acknowledges in me\", a Semitic idiom: to declare oneself for someone."
+        },
+        {
+          "id": 18,
+          "term": "ἔμπροσθεν τοῦ θεοῦ, \"before God\"",
+          "verse_refs": [6, 7],
+          "category": "translation",
+          "explanation": "The reading of this text, \"before God\". Canonical Luke has \"before the messengers of God\"."
+        },
+        {
+          "id": 19,
+          "term": "ἀρνησάμενος… ἀπαρνηθήσεται, \"disowns… will be disowned\"",
+          "verse_refs": [7],
+          "category": "translation",
+          "explanation": "ἀρνέομαι, as at 9:23."
+        },
+        {
+          "id": 20,
+          "term": "ἀφεθήσεται αὐτῷ, \"it will be let go for him\"",
+          "verse_refs": [8],
+          "category": "translation",
+          "explanation": "ἀφίημι, passive."
+        },
+        {
+          "id": 21,
+          "term": "βλασφημήσαντι, \"blasphemed\"",
+          "verse_refs": [8],
+          "category": "translation",
+          "explanation": "As at 5:21."
+        },
+        {
+          "id": 22,
+          "term": "ἀρχάς, \"rulers\"",
+          "verse_refs": [9],
+          "category": "translation",
+          "explanation": "Literally \"beginnings\": those first in rank."
+        },
+        {
+          "id": 23,
+          "term": "μὴ μεριμνήσητε, \"do not be anxious\"",
+          "verse_refs": [9],
+          "category": "translation",
+          "explanation": "μεριμνάω, to be anxious, to be pulled in different directions by worry. The same verb runs through 12:22–26."
+        },
+        {
+          "id": 24,
+          "term": "ἀπολογήσησθε, \"answer in defence\"",
+          "verse_refs": [9],
+          "category": "translation",
+          "explanation": "To make one's defence in court."
+        },
+        {
+          "id": 25,
+          "term": "Ἄνθρωπε, \"Human\"",
+          "verse_refs": [12],
+          "category": "translation",
+          "explanation": "As at 5:20."
+        },
+        {
+          "id": 26,
+          "term": "μεριστήν, \"divider\"",
+          "verse_refs": [12],
+          "category": "translation",
+          "explanation": "One who divides an inheritance; a word from μερίζω, \"divide\" (12:13)."
+        },
+        {
+          "id": 27,
+          "term": "πλεονεξίας, \"wanting more\"",
+          "verse_refs": [13],
+          "category": "translation",
+          "explanation": "πλεονεξία is literally \"having more\", the desire for more than one's share. \"Greed\" gives the sense."
+        },
+        {
+          "id": 28,
+          "term": "ἐν τῷ περισσεύειν, \"in having more than enough\"",
+          "verse_refs": [13],
+          "category": "translation",
+          "explanation": "To have a surplus, abundance."
+        },
+        {
+          "id": 29,
+          "term": "εὐφόρησεν ἡ χώρα, \"the land bore well\"",
+          "verse_refs": [14],
+          "category": "translation",
+          "explanation": "The land itself produced richly."
+        },
+        {
+          "id": 30,
+          "term": "τοὺς καρπούς μου, \"my fruits\"",
+          "verse_refs": [15],
+          "category": "translation",
+          "explanation": "καρπός, fruit, produce."
+        },
+        {
+          "id": 31,
+          "term": "τὰ ἀγαθά μου, \"my good things\"",
+          "verse_refs": [16],
+          "category": "translation",
+          "explanation": "ἀγαθός, good, as at 6:45. In 12:19 the same word: \"many good things\"."
+        },
+        {
+          "id": 32,
+          "term": "τῇ ψυχῇ μου· Ψυχή, \"my soul: Soul\"",
+          "verse_refs": [17],
+          "category": "translation",
+          "explanation": "ψυχή, the living self. He speaks to himself."
+        },
+        {
+          "id": 33,
+          "term": "εὐφραίνου, \"be glad\"",
+          "verse_refs": [17],
+          "category": "translation",
+          "explanation": "To make merry, rejoice."
+        },
+        {
+          "id": 34,
+          "term": "Ἄφρων, \"senseless one\"",
+          "verse_refs": [18],
+          "category": "translation",
+          "explanation": "As at 11:40."
+        },
+        {
+          "id": 35,
+          "term": "ἀπαιτοῦσιν, \"they are demanding… back\"",
+          "verse_refs": [18],
+          "category": "translation",
+          "explanation": "A plural with no named subject, \"they demand back\", as of a loan. The present tense: it is happening now."
+        },
+        {
+          "id": 36,
+          "term": "θησαυρίζων, \"stores up treasure\"",
+          "verse_refs": [19],
+          "category": "translation",
+          "explanation": "From θησαυρός, treasure (6:45)."
+        },
+        {
+          "id": 37,
+          "term": "εἰς θεὸν πλουτῶν, \"rich toward God\"",
+          "verse_refs": [19],
+          "category": "translation",
+          "explanation": "εἰς, \"toward, into\"."
+        },
+        {
+          "id": 38,
+          "term": "τῇ ψυχῇ, \"for the soul\"",
+          "verse_refs": [20],
+          "category": "translation",
+          "explanation": "ψυχή, as at 9:24. Here \"life\" in the sense of the self that must eat."
+        },
+        {
+          "id": 39,
+          "term": "ἐνδύσησθε, \"put on\"",
+          "verse_refs": [20],
+          "category": "translation",
+          "explanation": "To clothe oneself."
+        },
+        {
+          "id": 40,
+          "term": "τοὺς κόρακας, \"the ravens\"",
+          "verse_refs": [22],
+          "category": "translation",
+          "explanation": "Unclean birds under the law."
+        },
+        {
+          "id": 41,
+          "term": "διαφέρετε, \"are you worth more\"",
+          "verse_refs": [22],
+          "category": "translation",
+          "explanation": "To differ, to be worth more."
+        },
+        {
+          "id": 42,
+          "term": "ἡλικίαν, \"stature\"",
+          "verse_refs": [23],
+          "category": "translation",
+          "explanation": "Height, or length of life. A cubit is a measure of length. The image can be read either way."
+        },
+        {
+          "id": 43,
+          "term": "ἐλάχιστον, \"the least thing\"",
+          "verse_refs": [24],
+          "category": "translation",
+          "explanation": "The superlative of μικρός."
+        },
+        {
+          "id": 44,
+          "term": "οὔτε νήθει οὔτε ὑφαίνει, \"neither spin nor weave\"",
+          "verse_refs": [25],
+          "category": "translation",
+          "explanation": "The reading of this text, with D. Canonical Luke has \"they neither toil nor spin\"."
+        },
+        {
+          "id": 45,
+          "term": "περιεβάλετο, \"was clothed\"",
+          "verse_refs": [25],
+          "category": "translation",
+          "explanation": "To throw around oneself, to wrap."
+        },
+        {
+          "id": 46,
+          "term": "Πόσῳ μᾶλλον ὑμᾶς, ὀλιγόπιστοι, \"how much more you, you of little trust\"",
+          "verse_refs": [26],
+          "category": "translation",
+          "explanation": "This text does not have the first half of the verse (\"if God so clothes the grass…\"). The clause stands without its verb, and the English leaves it without one."
+        },
+        {
+          "id": 47,
+          "term": "ὀλιγόπιστοι, \"you of little trust\"",
+          "verse_refs": [26],
+          "category": "translation",
+          "explanation": "ὀλίγος, \"little\", and πίστις, \"trust\"."
+        },
+        {
+          "id": 48,
+          "term": "μὴ μετεωρίζεσθε, \"do not be held in suspense\"",
+          "verse_refs": [27],
+          "category": "translation",
+          "explanation": "Literally \"do not be raised up in the air\": to be unsettled, in suspense, anxious."
+        },
+        {
+          "id": 49,
+          "term": "τὰ ἔθνη τοῦ κόσμου, \"the nations of the world\"",
+          "verse_refs": [28],
+          "category": "translation",
+          "explanation": "ἔθνη, the nations, the peoples other than Israel."
+        },
+        {
+          "id": 50,
+          "term": "χρῄζετε, \"you need\"",
+          "verse_refs": [28],
+          "category": "translation",
+          "explanation": "To have need of."
+        },
+        {
+          "id": 51,
+          "term": "προστεθήσεται, \"will be added\"",
+          "verse_refs": [29],
+          "category": "translation",
+          "explanation": "To be put to, added."
+        },
+        {
+          "id": 52,
+          "term": "ποίμνιον, \"flock\"",
+          "verse_refs": [30],
+          "category": "translation",
+          "explanation": "A small flock of sheep."
+        },
+        {
+          "id": 53,
+          "term": "ὁ πατήρ, \"the Father\"",
+          "verse_refs": [30],
+          "category": "translation",
+          "explanation": "The reading of this text: \"the Father\", not \"your Father\"."
+        },
+        {
+          "id": 54,
+          "term": "αἱ ὀσφύες περιεζωσμέναι, \"your loins be girded\"",
+          "verse_refs": [31],
+          "category": "translation",
+          "explanation": "The long garment tucked up into the belt, for work or travel."
+        },
+        {
+          "id": 55,
+          "term": "τὸν κύριον ἑαυτῶν, \"their lord\"",
+          "verse_refs": [32],
+          "category": "translation",
+          "explanation": "κύριος, the owner, the master of the house. \"Lord\" is kept here and in what follows, as everywhere in this text."
+        },
+        {
+          "id": 56,
+          "term": "ἀναλύσῃ ἐκ τῶν γάμων, \"return from the wedding\"",
+          "verse_refs": [32],
+          "category": "translation",
+          "explanation": "To loosen, depart; γάμοι, wedding festivities."
+        },
+        {
+          "id": 57,
+          "term": "δοῦλοι, \"slaves\"",
+          "verse_refs": [33],
+          "category": "translation",
+          "explanation": "As at 7:2."
+        },
+        {
+          "id": 58,
+          "term": "γρηγοροῦντας, \"keeping awake\"",
+          "verse_refs": [33],
+          "category": "translation",
+          "explanation": "To stay awake, keep watch."
+        },
+        {
+          "id": 59,
+          "term": "ἀνακλινεῖ, \"have them recline\"",
+          "verse_refs": [33],
+          "category": "translation",
+          "explanation": "Make them lie down at table."
+        },
+        {
+          "id": 60,
+          "term": "διακονήσει, \"serve\"",
+          "verse_refs": [33],
+          "category": "translation",
+          "explanation": "διακονέω, to wait at table, as at 8:3."
+        },
+        {
+          "id": 61,
+          "term": "ἐν τῇ ἑσπερινῇ φυλακῇ, \"in the evening watch\"",
+          "verse_refs": [34],
+          "category": "translation",
+          "explanation": "The reading of this text. Canonical Luke has \"in the second or the third watch\"."
+        },
+        {
+          "id": 62,
+          "term": "ὁ οἰκοδεσπότης, \"the master of the house\"",
+          "verse_refs": [35],
+          "category": "translation",
+          "explanation": "One word: the house-master. A different word from κύριος."
+        },
+        {
+          "id": 63,
+          "term": "διορυχθῆναι, \"be dug through\"",
+          "verse_refs": [35],
+          "category": "translation",
+          "explanation": "Walls of mud brick were broken into by digging."
+        },
+        {
+          "id": 64,
+          "term": "ᾗ ὥρᾳ οὐ δοκεῖτε, \"at an hour you do not think\"",
+          "verse_refs": [36],
+          "category": "translation",
+          "explanation": "δοκέω, think, suppose."
+        },
+        {
+          "id": 65,
+          "term": "ὁ κύριος, \"the lord\"",
+          "verse_refs": [38],
+          "category": "translation",
+          "explanation": "Twice in one verse: the narrator's \"the lord\" (Jesus) and the lord of the parable. The Greek uses the same word."
+        },
+        {
+          "id": 66,
+          "term": "πιστὸς οἰκονόμος, \"trustworthy steward\"",
+          "verse_refs": [38],
+          "category": "translation",
+          "explanation": "πιστός, trustworthy; οἰκονόμος, manager of a house."
+        },
+        {
+          "id": 67,
+          "term": "φρόνιμος, \"sensible\"",
+          "verse_refs": [38],
+          "category": "translation",
+          "explanation": "Prudent, thoughtful."
+        },
+        {
+          "id": 68,
+          "term": "τῆς θεραπείας αὐτοῦ, \"his household servants\"",
+          "verse_refs": [38],
+          "category": "translation",
+          "explanation": "θεραπεία, the word for healing, also means the body of servants who attend a master."
+        },
+        {
+          "id": 69,
+          "term": "σιτομέτριον, \"the measure of grain\"",
+          "verse_refs": [38],
+          "category": "translation",
+          "explanation": "The ration of food."
+        },
+        {
+          "id": 70,
+          "term": "Χρονίζει, \"is taking his time\"",
+          "verse_refs": [41],
+          "category": "translation",
+          "explanation": "To delay, linger."
+        },
+        {
+          "id": 71,
+          "term": "τοὺς παῖδας καὶ τὰς παιδίσκας, \"the slave boys and the slave girls\"",
+          "verse_refs": [41],
+          "category": "translation",
+          "explanation": "παῖς and παιδίσκη, the young slaves of the house."
+        },
+        {
+          "id": 72,
+          "term": "μεθύσκεσθαι, \"get drunk\"",
+          "verse_refs": [41],
+          "category": "translation",
+          "explanation": "To become drunk."
+        },
+        {
+          "id": 73,
+          "term": "διχοτομήσει, \"will cut him in two\"",
+          "verse_refs": [42],
+          "category": "translation",
+          "explanation": "Word for word \"cut in two\". Some read it as \"cut him off\", a figure of speech; the Greek says the harsh thing."
+        },
+        {
+          "id": 74,
+          "term": "τῶν ἀπίστων, \"the untrustworthy\"",
+          "verse_refs": [42],
+          "category": "translation",
+          "explanation": "ἄπιστος, the opposite of πιστός (12:42)."
+        },
+        {
+          "id": 75,
+          "term": "δαρήσεται πολλάς, \"will be beaten with many blows\"",
+          "verse_refs": [43],
+          "category": "translation",
+          "explanation": "δέρω, to flay, to beat."
+        },
+        {
+          "id": 76,
+          "term": "παρέθεντο, \"they entrusted\"",
+          "verse_refs": [44],
+          "category": "translation",
+          "explanation": "They deposited with him, gave into his keeping. The verb is plural, with no named subject."
+        },
+        {
+          "id": 77,
+          "term": "ἀνήφθη, \"has been kindled\"",
+          "verse_refs": [45],
+          "category": "translation",
+          "explanation": "To light, set on fire."
+        },
+        {
+          "id": 78,
+          "term": "τί θέλω εἰ, \"what do I want, if\"",
+          "verse_refs": [45],
+          "category": "translation",
+          "explanation": "Word for word. Often read as a wish: \"how I wish it were already kindled!\" The Greek allows both."
+        },
+        {
+          "id": 79,
+          "term": "βάπτισμα… βαπτισθῆναι, \"an immersion to be immersed in\"",
+          "verse_refs": [46],
+          "category": "translation",
+          "explanation": "βαπτίζω, to dip, plunge, immerse. Here an image of being overwhelmed, as by flood waters."
+        },
+        {
+          "id": 80,
+          "term": "συνέχομαι, \"I am held fast\"",
+          "verse_refs": [46],
+          "category": "translation",
+          "explanation": "To be held together, pressed hard, gripped."
+        },
+        {
+          "id": 81,
+          "term": "τελεσθῇ, \"is completed\"",
+          "verse_refs": [46],
+          "category": "translation",
+          "explanation": "To bring to its end, accomplish."
+        },
+        {
+          "id": 82,
+          "term": "διαμερισμόν, \"division\"",
+          "verse_refs": [47],
+          "category": "translation",
+          "explanation": "Splitting apart."
+        },
+        {
+          "id": 83,
+          "term": "διαμερισθήσεται, \"will be divided\"",
+          "verse_refs": [49],
+          "category": "translation",
+          "explanation": "The reading of this text, with the Byzantine manuscripts."
+        },
+        {
+          "id": 84,
+          "term": "νύμφην, \"daughter-in-law\"",
+          "verse_refs": [49],
+          "category": "translation",
+          "explanation": "Literally \"bride\": the son's wife in the father's house."
+        },
+        {
+          "id": 85,
+          "term": "ἐπὶ δυσμῶν, \"in the west\"",
+          "verse_refs": [50],
+          "category": "translation",
+          "explanation": "Where the sun sets: over the sea."
+        },
+        {
+          "id": 86,
+          "term": "νότον, \"south wind\"",
+          "verse_refs": [51],
+          "category": "translation",
+          "explanation": "The wind from the desert."
+        },
+        {
+          "id": 87,
+          "term": "ὑποκριταί, \"play-actors\"",
+          "verse_refs": [52],
+          "category": "translation",
+          "explanation": "As at 6:42."
+        },
+        {
+          "id": 88,
+          "term": "τοῦ οὐρανοῦ καὶ τῆς γῆς, \"of the sky and of the earth\"",
+          "verse_refs": [52],
+          "category": "translation",
+          "explanation": "The reading of this text: the sky first."
+        },
+        {
+          "id": 89,
+          "term": "δοκιμάζειν, \"to test\"",
+          "verse_refs": [52],
+          "category": "translation",
+          "explanation": "To test, assess, examine."
+        },
+        {
+          "id": 90,
+          "term": "τὸν καιρόν, \"this time\"",
+          "verse_refs": [52],
+          "category": "translation",
+          "explanation": "καιρός, the right or decisive time, a season."
+        },
+        {
+          "id": 91,
+          "term": "τὸ δίκαιον, \"what is just\"",
+          "verse_refs": [53],
+          "category": "translation",
+          "explanation": "δίκαιος, as at 5:32."
+        },
+        {
+          "id": 92,
+          "term": "ἀντιδίκου, \"opponent at law\"",
+          "verse_refs": [54],
+          "category": "translation",
+          "explanation": "The other party in a lawsuit."
+        },
+        {
+          "id": 93,
+          "term": "δὸς ἐργασίαν, \"make an effort\"",
+          "verse_refs": [54],
+          "category": "translation",
+          "explanation": "Literally \"give work\"."
+        },
+        {
+          "id": 94,
+          "term": "ἀπηλλάχθαι, \"to be released\"",
+          "verse_refs": [54],
+          "category": "translation",
+          "explanation": "To be set free from, to settle."
+        },
+        {
+          "id": 95,
+          "term": "παραδώσει σε, \"hand you over\"",
+          "verse_refs": [54],
+          "category": "translation",
+          "explanation": "The reading of this text. παραδίδωμι, as at 9:44."
+        },
+        {
+          "id": 96,
+          "term": "τῷ πράκτορι, \"the officer\"",
+          "verse_refs": [54],
+          "category": "translation",
+          "explanation": "The officer who collected debts and fines."
+        },
+        {
+          "id": 97,
+          "term": "λεπτόν, \"lepton\"",
+          "verse_refs": [55],
+          "category": "translation",
+          "explanation": "The smallest copper coin."
         }
       ]
     },
     {
       "chapter": 11,
       "title": "Proto-Luke Chapter 11",
-      "preamble": "Healing on the sabbath, and the kingdom compared. Jesus heals a woman bent over for eighteen years, \"a daughter of Abraham whom Satan bound\", and answers the leader of the synagogue with the ox or donkey watered on the sabbath. He compares the kingdom of God to a mustard seed sown in a garden and to leaven. Those who come to the door once the master has shut it will be told \"I do not know where you come from\", and will weep \"when you see all the righteous in the kingdom of God, and yourselves held outside\". In this text it is \"the righteous\", not Abraham, Isaac, Jacob and the prophets, whom they see in the kingdom. Two blocks of canonical Luke are not in this text, by Epiphanius' statement. The first is the Galileans killed by Pilate, the tower of Siloam and the barren fig tree (13:1–9). The second is the many coming from east and west, the warning about Herod and the lament over Jerusalem (13:29–35).",
+      "preamble": "Healing on the sabbath, and the kingdom compared. Jesus heals a woman bent over for eighteen years, \"a daughter of Abraham whom Satan bound\", and answers the leader of the synagogue with the ox or donkey watered on the sabbath. He compares the kingdom of God to a mustard seed sown in a garden and to leaven. Those who come to the door once the master has shut it will be told \"I do not know you, where you are from\", and will weep \"when you see all the just in the kingdom of God, but yourselves held outside\". In this text it is \"the just\", not Abraham, Isaac, Jacob and the prophets, whom they see in the kingdom. Two blocks of canonical Luke are not in this text, by Epiphanius' statement. The first is the Galileans killed by Pilate, the tower of Siloam and the barren fig tree (13:1–9). The second is the many coming from east and west, the warning about Herod and the lament over Jerusalem (13:29–35).",
       "verses": [
         {
           "verse": 1,
           "canonical_ref": "Luke 13:10",
-          "english": "Now he was teaching in one of the synagogues on the sabbath.",
+          "english": "And he was teaching in one of the assemblies on the sabbaths.",
           "greek": "Ἦν δὲ διδάσκων ἐν μιᾷ τῶν συναγωγῶν ἐν τοῖς σάββασιν.",
           "attestation": "unattested"
         },
         {
           "verse": 2,
           "canonical_ref": "Luke 13:11",
-          "english": "And behold, there was a woman who had had a spirit of weakness for eighteen years; she was bent over and could not straighten herself at all.",
+          "english": "And look, a woman having a spirit of weakness for eighteen years, and she was bent together and unable to straighten up at all.",
           "greek": "καὶ ἰδοὺ γυνὴ πνεῦμα ἔχουσα ἀσθενείας ἔτη δεκαοκτώ, καὶ ἦν συγκύπτουσα καὶ μὴ δυναμένη ἀνακύψαι εἰς τὸ παντελές.",
           "attestation": "unattested"
         },
         {
           "verse": 3,
           "canonical_ref": "Luke 13:12",
-          "english": "When Jesus saw her, he called her over and said to her, \"Woman, you are freed from your weakness.\"",
+          "english": "And seeing her, Jesus called to her and said to her, \"Woman, you have been released from your weakness,\"",
           "greek": "ἰδὼν δὲ αὐτὴν ὁ Ἰησοῦς προσεφώνησεν καὶ εἶπεν αὐτῇ· Γύναι, ἀπολέλυσαι τῆς ἀσθενείας σου,",
           "attestation": "unattested"
         },
         {
           "verse": 4,
           "canonical_ref": "Luke 13:13",
-          "english": "And he laid his hands on her, and immediately she stood up straight and glorified God.",
+          "english": "and he laid his hands on her; and at once she was made straight, and she was giving glory to God.",
           "greek": "καὶ ἐπέθηκεν αὐτῇ τὰς χεῖρας· καὶ παραχρῆμα ἀνωρθώθη, καὶ ἐδόξαζεν τὸν θεόν.",
           "attestation": "unattested"
         },
         {
           "verse": 5,
           "canonical_ref": "Luke 13:14",
-          "english": "But the leader of the synagogue, indignant that Jesus had healed on the sabbath, said to the crowd, \"There are six days on which work ought to be done; come on those days and be healed, and not on the sabbath day.\"",
+          "english": "But the ruler of the assembly, answering, indignant because Jesus had healed on the sabbath, was saying to the crowd, \"There are six days on which one must work; so come on those and be healed, and not on the day of the sabbath.\"",
           "greek": "ἀποκριθεὶς δὲ ὁ ἀρχισυνάγωγος, ἀγανακτῶν ὅτι τῷ σαββάτῳ ἐθεράπευσεν ὁ Ἰησοῦς, ἔλεγεν τῷ ὄχλῳ ὅτι Ἓξ ἡμέραι εἰσὶν ἐν αἷς δεῖ ἐργάζεσθαι· ἐν αὐταῖς οὖν ἐρχόμενοι θεραπεύεσθε καὶ μὴ τῇ ἡμέρᾳ τοῦ σαββάτου."
         },
         {
           "verse": 6,
           "canonical_ref": "Luke 13:15",
-          "english": "The Lord answered him, \"Hypocrites! Does not each of you on the sabbath untie his ox or his donkey from the manger and lead it away to water it?",
+          "english": "But the lord answered him and said, \"Play-actors! Does not each of you on the sabbath loose his ox or his donkey from the manger and lead it away to give it drink?",
           "greek": "ἀπεκρίθη δὲ αὐτῷ ὁ κύριος καὶ εἶπεν· Ὑποκριταί, ἕκαστος ὑμῶν τῷ σαββάτῳ οὐ λύει τὸν βοῦν αὐτοῦ ἢ τὸν ὄνον ἀπὸ τῆς φάτνης καὶ ἀπαγαγὼν ποτίζει;"
         },
         {
           "verse": 7,
           "canonical_ref": "Luke 13:16",
-          "english": "And this woman, a daughter of Abraham whom Satan bound for eighteen long years, ought she not to be set free from this bond on the sabbath day?\"",
+          "english": "And this woman, being a daughter of Abraham, whom Satan bound, look, eighteen years, was it not necessary that she be loosed from this bond on the day of the sabbath?\"",
           "greek": "ταύτην δὲ θυγατέρα Ἀβραὰμ οὖσαν, ἣν ἔδησεν ὁ Σατανᾶς ἰδοὺ δέκα καὶ ὀκτὼ ἔτη, οὐκ ἔδει λυθῆναι ἀπὸ τοῦ δεσμοῦ τούτου τῇ ἡμέρᾳ τοῦ σαββάτου;"
         },
         {
           "verse": 8,
           "canonical_ref": "Luke 13:17",
-          "english": "As he said this, all his opponents were put to shame, and the whole crowd rejoiced at all the glorious things he was doing.",
+          "english": "And as he was saying these things, all who were opposed to him were put to shame, and the whole crowd was rejoicing at all the glorious things being done by him.",
           "greek": "καὶ ταῦτα λέγοντος αὐτοῦ κατῃσχύνοντο πάντες οἱ ἀντικείμενοι αὐτῷ, καὶ πᾶς ὁ ὄχλος ἔχαιρεν ἐπὶ πᾶσιν τοῖς ἐνδόξοις τοῖς γινομένοις ὑπ’ αὐτοῦ.",
           "attestation": "unattested"
         },
         {
           "verse": 9,
           "canonical_ref": "Luke 13:18",
-          "english": "He said therefore, \"What is the kingdom of God like, and to what shall I compare it?",
+          "english": "So he was saying, \"What is the kingdom of God like, and to what shall I liken it?",
           "greek": "Ἔλεγεν οὖν· Τίνι ὁμοία ἐστὶν ἡ βασιλεία τοῦ θεοῦ, καὶ τίνι ὁμοιώσω αὐτήν;",
           "attestation": "unattested"
         },
         {
           "verse": 10,
           "canonical_ref": "Luke 13:19",
-          "english": "It is like a grain of mustard seed that a man took and sowed in his garden; and it grew and became a tree, and the birds of the sky made nests in its branches.\"",
+          "english": "It is like a grain of mustard, which a person took and threw into his own garden; and it grew and became a tree, and the birds of the sky settled in its branches.\"",
           "greek": "ὁμοία ἐστὶν κόκκῳ σινάπεως, ὃν λαβὼν ἄνθρωπος ἔβαλεν εἰς κῆπον ἑαυτοῦ, καὶ ηὔξησεν καὶ ἐγένετο εἰς δένδρον, καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατεσκήνωσεν ἐν τοῖς κλάδοις αὐτοῦ."
         },
         {
           "verse": 11,
           "canonical_ref": "Luke 13:20",
-          "english": "And again he said, \"To what shall I compare the kingdom of God?",
+          "english": "And again he said, \"To what shall I liken the kingdom of God?",
           "greek": "Καὶ πάλιν εἶπεν· Τίνι ὁμοιώσω τὴν βασιλείαν τοῦ θεοῦ;"
         },
         {
           "verse": 12,
           "canonical_ref": "Luke 13:21",
-          "english": "It is like leaven that a woman took and hid in three measures of flour, until it was all leavened.\"",
+          "english": "It is like leaven, which a woman took and hid in three measures of flour, until the whole was leavened.\"",
           "greek": "ὁμοία ἐστὶν ζύμῃ, ἣν λαβοῦσα γυνὴ ἐνέκρυψεν εἰς ἀλεύρου σάτα τρία ἕως οὗ ἐζυμώθη ὅλον."
         },
         {
           "verse": 13,
           "canonical_ref": "Luke 13:23",
-          "english": "Someone said to him, \"Lord, will those who are saved be few?\" He said to them,",
+          "english": "And someone said to him, \"Lord, are those being saved few?\" And he said to them,",
           "greek": "εἶπεν δέ τις αὐτῷ· Κύριε, εἰ ὀλίγοι οἱ σῳζόμενοι; ὁ δὲ εἶπεν πρὸς αὐτούς·",
           "attestation": "unattested"
         },
         {
           "verse": 14,
           "canonical_ref": "Luke 13:24",
-          "english": "\"Strive to enter through the narrow door; for many, I tell you, will seek to enter and will not be able.",
+          "english": "\"Struggle to go in through the narrow door, because many, I tell you, will seek to go in and will not be strong enough.",
           "greek": "Ἀγωνίζεσθε εἰσελθεῖν διὰ τῆς στενῆς θύρας, ὅτι πολλοί, λέγω ὑμῖν, ζητήσουσιν εἰσελθεῖν καὶ οὐκ ἰσχύσουσιν,",
           "attestation": "unattested"
         },
         {
           "verse": 15,
           "canonical_ref": "Luke 13:25",
-          "english": "Once the master of the house has risen and shut the door, and you begin to stand outside and to knock at the door, saying, 'Lord, open to us', he will answer you, 'I do not know where you come from.'",
+          "english": "From the time the master of the house has got up and shut the door, and you begin to stand outside and to knock at the door, saying, 'Lord, open to us,' then answering he will say to you, 'I do not know you, where you are from.'",
           "greek": "ἀφ’ οὗ ἂν ἐγερθῇ ὁ οἰκοδεσπότης καὶ ἀποκλείσῃ τὴν θύραν, καὶ ἄρξησθε ἔξω ἑστάναι καὶ κρούειν τὴν θύραν λέγοντες· Κύριε, ἄνοιξον ἡμῖν· καὶ ἀποκριθεὶς ἐρεῖ ὑμῖν· Οὐκ οἶδα ὑμᾶς πόθεν ἐστέ."
         },
         {
           "verse": 16,
           "canonical_ref": "Luke 13:26",
-          "english": "Then you will begin to say, 'We ate and drank in your presence, and you taught in our streets.'",
+          "english": "Then you will begin to say, 'We ate and drank before you, and you taught in our streets.'",
           "greek": "τότε ἄρξεσθε λέγειν· Ἐφάγομεν ἐνώπιόν σου καὶ ἐπίομεν, καὶ ἐν ταῖς πλατείαις ἡμῶν ἐδίδαξας·"
         },
         {
           "verse": 17,
           "canonical_ref": "Luke 13:27",
-          "english": "But he will say to you, 'I do not know where you come from. Depart from me, all you workers of injustice!'",
+          "english": "And he will say, speaking to you, 'I do not know you, where you are from. Stand away from me, all you workers of injustice.'",
           "greek": "καὶ ἐρεῖ λέγων ὑμῖν· Οὐκ οἶδα ὑμᾶς πόθεν ἐστέ· ἀπόστητε ἀπ’ ἐμοῦ, πάντες ἐργάται ἀδικίας."
         },
         {
           "verse": 18,
           "canonical_ref": "Luke 13:28",
-          "english": "There will be weeping and gnashing of teeth, when you see all the righteous in the kingdom of God, and yourselves held outside.",
+          "english": "There, there will be the weeping and the grinding of the teeth, when you see all the just in the kingdom of God, but yourselves held outside.\"",
           "greek": "ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων, ὅταν ὄψησθε πάντας τοὺς δικαίους ἐν τῇ βασιλείᾳ τοῦ θεοῦ, ὑμᾶς δὲ κρατουμένους ἔξω."
         }
       ],
@@ -5936,10 +7252,10 @@
         },
         {
           "id": 4,
-          "term": "The shut door and \"all the righteous\" (13:23–28)",
+          "term": "The shut door and \"all the just\" (13:23–28)",
           "verse_refs": [13, 14, 15, 16, 17, 18],
           "category": "textual",
-          "explanation": "Tertullian, Marc. 4.30.4–6: the master of the house rises and shuts the door; to those knocking he answers \"I do not know where you are from\"; to those who say they ate and drank before him and that he taught in their streets, \"Depart from me, all workers of iniquity. There will be weeping and gnashing of teeth\", \"when they see the righteous entering the kingdom of God and themselves held outside\". Epiphanius, sch. 40 confirms the wording: the text had \"all the righteous\" where canonical Luke has \"Abraham and Isaac and Jacob and all the prophets\", and \"held\" (κρατουμένους) outside. 13:23–24 are not cited and are printed in grey."
+          "explanation": "Tertullian, Marc. 4.30.4–6: the master of the house rises and shuts the door; to those knocking he answers \"I do not know where you are from\"; to those who say they ate and drank before him and that he taught in their streets, \"Depart from me, all workers of iniquity. There will be weeping and gnashing of teeth\", \"when they see the just entering the kingdom of God and themselves held outside\". Epiphanius, sch. 40 confirms the wording: the text had \"all the just\" where canonical Luke has \"Abraham and Isaac and Jacob and all the prophets\", and \"held\" (κρατουμένους) outside. 13:23–24 are not cited and are printed in grey."
         },
         {
           "id": 5,
@@ -5950,10 +7266,262 @@
         },
         {
           "id": 6,
-          "term": "The righteous in the kingdom",
+          "term": "The just in the kingdom",
           "verse_refs": [7, 18],
           "category": "theological",
-          "explanation": "Interpretation. In the attested text those seen in the kingdom are \"all the righteous\", not the patriarchs and prophets by name, while the woman healed on the sabbath is still \"a daughter of Abraham\" (13:16). The text therefore does not cut the tie to Abraham. It describes the kingdom by righteousness, not by descent. The leader of the Jerusalem community was remembered as James \"the Just\" (Gospel of Thomas 12; Carriers of Living Water §3.1). Whether \"the righteous\" in this saying reflects that usage cannot be shown from the witnesses. The readings themselves are attested by two witnesses; why canonical Luke has the patriarchs instead (as Matt 8:11 does) they do not say."
+          "explanation": "Interpretation. In the attested text those seen in the kingdom are \"all the just\", not the patriarchs and prophets by name, while the woman healed on the sabbath is still \"a daughter of Abraham\" (13:16). The text therefore does not cut the tie to Abraham. It describes the kingdom by justness, not by descent. The leader of the Jerusalem community was remembered as James \"the Just\" (Gospel of Thomas 12; Carriers of Living Water §3.1). Whether \"the just\" in this saying reflects that usage cannot be shown from the witnesses. The readings themselves are attested by two witnesses; why canonical Luke has the patriarchs instead (as Matt 8:11 does) they do not say."
+        },
+        {
+          "id": 7,
+          "term": "ἐν τοῖς σάββασιν, \"on the sabbaths\"",
+          "verse_refs": [1],
+          "category": "translation",
+          "explanation": "Plural, as at 4:31."
+        },
+        {
+          "id": 8,
+          "term": "πνεῦμα ἔχουσα ἀσθενείας, \"having a spirit of weakness\"",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "Word for word. In 13:16 the text names its cause: Satan bound her."
+        },
+        {
+          "id": 9,
+          "term": "συγκύπτουσα, \"bent together\"",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "Bent double, stooped."
+        },
+        {
+          "id": 10,
+          "term": "ἀνακύψαι εἰς τὸ παντελές, \"straighten up at all\"",
+          "verse_refs": [2],
+          "category": "translation",
+          "explanation": "To raise oneself up. εἰς τὸ παντελές can mean \"at all\" or \"fully\"."
+        },
+        {
+          "id": 11,
+          "term": "Γύναι, \"Woman\"",
+          "verse_refs": [3],
+          "category": "translation",
+          "explanation": "A plain, respectful address, as the Greek has it."
+        },
+        {
+          "id": 12,
+          "term": "ἀπολέλυσαι, \"you have been released\"",
+          "verse_refs": [3],
+          "category": "translation",
+          "explanation": "ἀπολύω, to set free, as at 6:37. A perfect passive: released, and remaining free."
+        },
+        {
+          "id": 13,
+          "term": "ἀνωρθώθη, \"she was made straight\"",
+          "verse_refs": [4],
+          "category": "translation",
+          "explanation": "A passive: she was set upright."
+        },
+        {
+          "id": 14,
+          "term": "ὁ ἀρχισυνάγωγος, \"the ruler of the assembly\"",
+          "verse_refs": [5],
+          "category": "translation",
+          "explanation": "As at 8:49."
+        },
+        {
+          "id": 15,
+          "term": "ἀγανακτῶν, \"indignant\"",
+          "verse_refs": [5],
+          "category": "translation",
+          "explanation": "Angry, vexed."
+        },
+        {
+          "id": 16,
+          "term": "δεῖ, \"one must\"",
+          "verse_refs": [5],
+          "category": "translation",
+          "explanation": "Necessity, as at 4:43. In 13:16 Jesus answers with the same word, ἔδει."
+        },
+        {
+          "id": 17,
+          "term": "ὁ κύριος, \"the lord\"",
+          "verse_refs": [6],
+          "category": "translation",
+          "explanation": "As at 7:13."
+        },
+        {
+          "id": 18,
+          "term": "Ὑποκριταί, \"play-actors\"",
+          "verse_refs": [6],
+          "category": "translation",
+          "explanation": "Plural, as at 12:56."
+        },
+        {
+          "id": 19,
+          "term": "λύει, \"loose\"",
+          "verse_refs": [6],
+          "category": "translation",
+          "explanation": "λύω, to untie, loose. 13:16 uses the same verb of the woman."
+        },
+        {
+          "id": 20,
+          "term": "ποτίζει, \"give it drink\"",
+          "verse_refs": [6],
+          "category": "translation",
+          "explanation": "To water."
+        },
+        {
+          "id": 21,
+          "term": "ἔδησεν ὁ Σατανᾶς, \"Satan bound\"",
+          "verse_refs": [7],
+          "category": "translation",
+          "explanation": "δέω, to bind. As at 11:18, the Hebrew word \"adversary\" left untranslated."
+        },
+        {
+          "id": 22,
+          "term": "δέκα καὶ ὀκτώ, \"eighteen\"",
+          "verse_refs": [7],
+          "category": "translation",
+          "explanation": "Here \"ten and eight\", as the Greek has it; in 13:11 it is the single word δεκαοκτώ."
+        },
+        {
+          "id": 23,
+          "term": "οὐκ ἔδει, \"was it not necessary\"",
+          "verse_refs": [7],
+          "category": "translation",
+          "explanation": "The same word as in 13:14: what must be done."
+        },
+        {
+          "id": 24,
+          "term": "λυθῆναι ἀπὸ τοῦ δεσμοῦ, \"be loosed from this bond\"",
+          "verse_refs": [7],
+          "category": "translation",
+          "explanation": "λύω, as in 13:15."
+        },
+        {
+          "id": 25,
+          "term": "οἱ ἀντικείμενοι, \"who were opposed\"",
+          "verse_refs": [8],
+          "category": "translation",
+          "explanation": "Literally \"lying against\", adversaries."
+        },
+        {
+          "id": 26,
+          "term": "τοῖς ἐνδόξοις, \"the glorious things\"",
+          "verse_refs": [8],
+          "category": "translation",
+          "explanation": "From δόξα, glory."
+        },
+        {
+          "id": 27,
+          "term": "κόκκῳ σινάπεως, \"a grain of mustard\"",
+          "verse_refs": [10],
+          "category": "translation",
+          "explanation": "A single seed of mustard."
+        },
+        {
+          "id": 28,
+          "term": "ἔβαλεν, \"threw\"",
+          "verse_refs": [10],
+          "category": "translation",
+          "explanation": "βάλλω, to throw, cast, sow by casting."
+        },
+        {
+          "id": 29,
+          "term": "κατεσκήνωσεν, \"settled\"",
+          "verse_refs": [10],
+          "category": "translation",
+          "explanation": "To pitch a tent, take up a dwelling, as at 9:58."
+        },
+        {
+          "id": 30,
+          "term": "ἐνέκρυψεν, \"hid\"",
+          "verse_refs": [12],
+          "category": "translation",
+          "explanation": "To hide in."
+        },
+        {
+          "id": 31,
+          "term": "ἀλεύρου σάτα τρία, \"three measures of flour\"",
+          "verse_refs": [12],
+          "category": "translation",
+          "explanation": "σάτον, a Hebrew measure (se'ah). Three of them make a very large amount of dough."
+        },
+        {
+          "id": 32,
+          "term": "οἱ σῳζόμενοι, \"those being saved\"",
+          "verse_refs": [13],
+          "category": "translation",
+          "explanation": "A present participle: those who are being saved."
+        },
+        {
+          "id": 33,
+          "term": "Ἀγωνίζεσθε, \"struggle\"",
+          "verse_refs": [14],
+          "category": "translation",
+          "explanation": "To contend, as in an athletic contest."
+        },
+        {
+          "id": 34,
+          "term": "οὐκ ἰσχύσουσιν, \"will not be strong enough\"",
+          "verse_refs": [14],
+          "category": "translation",
+          "explanation": "ἰσχύω, to have strength."
+        },
+        {
+          "id": 35,
+          "term": "ὁ οἰκοδεσπότης, \"the master of the house\"",
+          "verse_refs": [15],
+          "category": "translation",
+          "explanation": "As at 12:39."
+        },
+        {
+          "id": 36,
+          "term": "ἐγερθῇ, \"has got up\"",
+          "verse_refs": [15],
+          "category": "translation",
+          "explanation": "ἐγείρω."
+        },
+        {
+          "id": 37,
+          "term": "Οὐκ οἶδα ὑμᾶς πόθεν ἐστέ, \"I do not know you, where you are from\"",
+          "verse_refs": [15],
+          "category": "translation",
+          "explanation": "The Greek puts \"you\" first, then \"where you are from\"."
+        },
+        {
+          "id": 38,
+          "term": "ἀπόστητε ἀπ' ἐμοῦ, \"stand away from me\"",
+          "verse_refs": [17],
+          "category": "translation",
+          "explanation": "ἀφίστημι, to stand off, withdraw."
+        },
+        {
+          "id": 39,
+          "term": "ἐργάται ἀδικίας, \"workers of injustice\"",
+          "verse_refs": [17],
+          "category": "translation",
+          "explanation": "ἀδικία, wrong, injustice, the opposite of what is δίκαιος."
+        },
+        {
+          "id": 40,
+          "term": "ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων, \"the weeping and the grinding of the teeth\"",
+          "verse_refs": [18],
+          "category": "translation",
+          "explanation": "With the article: \"the weeping and the grinding\", as of something known."
+        },
+        {
+          "id": 41,
+          "term": "πάντας τοὺς δικαίους, \"all the just\"",
+          "verse_refs": [18],
+          "category": "translation",
+          "explanation": "The reading of this text. Canonical Luke has \"Abraham and Isaac and Jacob and all the prophets\"."
+        },
+        {
+          "id": 42,
+          "term": "κρατουμένους ἔξω, \"held outside\"",
+          "verse_refs": [18],
+          "category": "translation",
+          "explanation": "The reading of this text. Canonical Luke has \"thrown out\"."
         }
       ]
     },
