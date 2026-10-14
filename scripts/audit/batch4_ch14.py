@@ -100,7 +100,7 @@ OMITTED = []
 
 PREAMBLE = (
  "Mammon, the law and the rich man. A steward about to be dismissed reduces his master's debtors' bills, and Jesus tells "
- "his disciples to make friends by the mammon of injustice: no one can serve God and mammon. The Pharisees, lovers of money, "
+ "his learners to make friends by the mammon of injustice: no one can serve God and mammon. The Pharisees, lovers of money, "
  "ridicule him; he answers that God knows their hearts. \"The law and the prophets were until John; from then the kingdom "
  "of God is announced as good news.\" In this text the next saying is about his own words: \"it is easier for the sky and the earth to pass away "
  "than for one stroke of a letter of my words to fall\" (Tertullian, Marc. 4.33.9). There follow the saying on divorce, which Tertullian "
@@ -110,7 +110,7 @@ PREAMBLE = (
 
 NOTES = [
  dict(term='The steward (16:1–9)', cat='textual', refs=['16:1', '16:2', '16:4', '16:5', '16:8', '16:9'], text=(
-  "Tertullian, Marc. 4.33.1 summarizes the parable: the servant removed from his post relieves his master's debtors by "
+  "Tertullian, Marc. 4.33.1 summarizes the parable: the slave removed from his post relieves his master's debtors by "
   "reducing their bonds, to provide for himself. He then quotes \"And I tell you, make friends for yourselves of the mammon of "
   "injustice\" and explains mammon as money. The previous version marked 16:1–8 as \"conflicting evidence\"; the "
   "parable is attested. 16:1, 16:3 and 16:8 are not cited and are printed in grey.")),
@@ -133,7 +133,7 @@ NOTES = [
   "agrees with Moses, and he connects it with John's rebuke of Herod, who married his brother's wife. He reports that the "
   "Marcionites refused baptism to the married unless they renounced marriage (4.34.5); that is their practice, not the text.")),
  dict(term='The rich man and Lazarus (16:19–31)', cat='textual', refs=['16:19', '16:22', '16:23', '16:25', '16:26', '16:29', '16:31'], text=(
-  "Three witnesses attest the parable. Epiphanius, sch. 44–46: Lazarus carried by the angels to Abraham's bosom, \"now here he is "
+  "Three witnesses attest the parable. Epiphanius, sch. 44–46: Lazarus carried by the messengers to Abraham's bosom, \"now here he is "
   "comforted\", \"they have Moses and the prophets; let them hear them\". Tertullian, Marc. 4.34.10–17: the rich man "
   "in torment in Hades, the great chasm, Lazarus in the bosom of Abraham. The Dialogue of Adamantius (76–78) quotes the whole "
   "parable, but Roth rates its wording probable only. The singular \"in his bosom\" (16:23), with Tertullian, the Dialogue, D "
@@ -144,7 +144,7 @@ NOTES = [
   "underworld\" are the Creator's reward for those who obey the law and the prophets, while Christ's heaven is elsewhere "
   "(4.34.11). Tertullian replies that the text itself distinguishes Abraham's bosom from Hades by a great chasm, and he calls "
   "Abraham's bosom a temporary place of rest for the souls of the righteous until the resurrection (4.34.13). The attested "
-  "text describes a state after death that follows at once on the life lived: the poor man is carried to Abraham, the "
+  "text describes a state after death that follows at once on the life lived: the destitute man is carried to Abraham, the "
   "rich man is in torment, and the two are separated. It does not speak of a later resurrection. To the request for a "
   "messenger from the dead, the parable answers with \"Moses and the prophets\".")),
  dict(term='οἰκονόμον, "steward"', cat='translation', refs=['16:1'], text='The manager of a household or estate. οἰκονομία, "stewardship" (16:2–4), is his office.'),

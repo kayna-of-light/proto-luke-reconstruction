@@ -76,7 +76,7 @@ ENTRIES = [
    'present (Marc. 4.23.1–2; Pan. 42.11.6, sch. 19)',
    [E(19, '»καὶ πρὸς αὐτούς· ὦ γενεὰ ἄπιστος, ἕως πότε ἀνέξομαι ὑμῶν;«'),
     T('4.23.1–2', '"O genitura incredula, quousque ero apud vos? quousque sustinebo vos?"; "O natio incredula, quamdiu ero vobiscum, quamdiu vos sustinebo?"')],
-   wording='Attested omission: καὶ διεστραμμένη ("and perverse") is absent from both witnesses\' quotations (METHOD §5.3); the shorter address is Mark\'s (Mark 9:19). The witnesses otherwise differ: Tertullian has two "how long" clauses, Epiphanius one, and Epiphanius addresses the words "to them" (the disciples). NA27\'s two clauses are kept.'),
+   wording='Attested omission: καὶ διεστραμμένη ("and perverse") is absent from both witnesses\' quotations (METHOD §5.3); the shorter address is Mark\'s (Mark 9:19). The witnesses otherwise differ: Tertullian has two "how long" clauses, Epiphanius one, and Epiphanius addresses the words "to them" (the learners). NA27\'s two clauses are kept.'),
  U('9:42', G('9:42'), 'And while he was still coming up, the daimon tore at him and convulsed him violently. But Jesus rebuked the unclean spirit, and cured the boy, and gave him back to his father.', 'Inside the attested pericope 9:37–43a.'),
  U('9:43', G('9:43'), 'And all were astounded at the majesty of God. And while all were marvelling at all the things he was doing, he said to his learners,',
    'Closes the attested pericope 9:37–43a and opens 9:43b–45, whose central saying (9:44) is attested.'),
@@ -100,7 +100,7 @@ ENTRIES = [
    wording='NA27. The addition "as Elijah did" (A C D W Θ Ψ 𝔐 it) is not in NA27\'s text; Tertullian brings Elijah in himself, as Marcion\'s Antitheses did, so his reference does not show that the text had the words.'),
  A('9:55', G('9:55'), 'But turning, he rebuked them.',
    'present (Marc. 4.23.8–9)', [T('4.23.9', '"Nam et tunc ad Heliam, Non in igni, inquit, dominus sed in spiritu miti."')],
-   wording='NA27. The longer text ("You do not know of what spirit you are; for the son of man came not to destroy lives but to save them", K Θ f1.13 700 it and others; D and Epiphanius have only the first part) is not attested for Marcion\'s text. Tertullian\'s "not in fire but in a gentle spirit" quotes 1 Kings 19:12.'),
+   wording='NA27. The longer text ("You do not know of what spirit you are; for the son of the human came not to destroy lives but to save them", K Θ f1.13 700 it and others; D and Epiphanius have only the first part) is not attested for Marcion\'s text. Tertullian\'s "not in fire but in a gentle spirit" quotes 1 Kings 19:12.'),
  U('9:56', G('9:56'), 'And they journeyed to another village.', 'Inside the attested pericope 9:51–56.'),
  A('9:57', G('9:57'), 'And as they were journeying on the road, someone said to him, "I will follow you wherever you go away to."',
    'present (Marc. 4.23.9)', [T('4.23.9', '"Sequar te quocunque ieris".')]),
@@ -129,7 +129,7 @@ PREAMBLE = (
  "mountain he is seen with Moses and Elijah, and the voice from the cloud says \"This is my son, the beloved; hear him.\" "
  "Tertullian dwells on this scene to argue that Jesus stands with the law and the prophets, not against them (Marc. 4.22). "
  "Then come the epileptic boy (\"O untrusting generation\", without \"and perverse\"), the dispute about greatness, the "
- "Samaritan village where Jesus rebukes the disciples' wish to call down fire, and three would-be followers. Unattested "
+ "Samaritan village where Jesus rebukes the learners' wish to call down fire, and three would-be followers. Unattested "
  "verses inside these passages are printed in grey. The strange exorcist (9:49–50), which no witness cites, is not printed."
 )
 
@@ -174,7 +174,7 @@ NOTES = [
   "witness cites, and are not printed.")),
  dict(term='The Samaritan village (9:51–56)', cat='textual', refs=['9:52', '9:54', '9:55'], text=(
   "Tertullian, Marc. 4.23.8–9: against the Creator's fire called down by Elijah (2 Kgs 1:10–12) stands Christ's leniency, "
-  "\"rebuking the disciples who wanted the same punishment for that village of the Samaritans\". This attests 9:52, which Roth "
+  "\"rebuking the learners who wanted the same punishment for that village of the Samaritans\". This attests 9:52, which Roth "
   "lists as unattested, and 9:54–55. Two longer readings of canonical manuscripts, \"as Elijah did\" (9:54) and \"you do not "
   "know of what spirit you are…\" (9:55–56), are not attested for this text. Tertullian brings in Elijah himself, as the "
   "Antitheses did. 9:51, 9:53 and 9:56 are not cited and are printed in grey.")),

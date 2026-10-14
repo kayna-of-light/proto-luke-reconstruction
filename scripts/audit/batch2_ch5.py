@@ -86,7 +86,7 @@ NOTES = [
   "made manifest and \"take care how you hear; to whoever has more will be given\". 8:5–7 are not cited and are printed in "
   "grey.")),
  dict(term='Not printed: 8:9–15', cat='excision', refs=['8:8', '8:16'], text=(
-  "The disciples' question, Jesus' quotation of Isaiah 6:9 (\"so that seeing they may not see\") and the allegorical explanation "
+  "The learners' question, Jesus' quotation of Isaiah 6:9 (\"so that seeing they may not see\") and the allegorical explanation "
   "of the sower are not cited by any witness. At 8:8 Tertullian brings in Isaiah 6:9 himself (\"Aure audietis et non audietis\", "
   "Marc. 4.19.2) to show that the Creator foretold this way of speaking. Had the text contained Jesus quoting the same prophet "
   "(8:10), it would have been his best evidence. 8:9–10 are classed \"unattested, probably absent\". 8:11–15 belong to the same "
@@ -101,7 +101,7 @@ NOTES = [
   "and do (4.19.11). The Marcionite argument is reception.")),
  dict(term='Hearing and doing', cat='theological', refs=['8:18', '8:21'], text=(
   "Interpretation. The attested form of 8:21 makes kinship with Jesus a matter of hearing his words and doing them, the same "
-  "standard as 6:46 (\"why do you call me Lord, Lord, and do not do what I say?\"). The demand is the one the library finds in "
+  "standard as 6:46 (\"why do you call me 'lord, lord', and do not do what I say?\"). The demand is the one the library finds in "
   "the Epistle of James (\"be doers of the word\", Jas 1:22). In this text it is attested twice, in two independent sayings.")),
  dict(term='The storm (8:22–25)', cat='textual', refs=['8:22', '8:23', '8:24', '8:25'], text=(
   "Tertullian, Marc. 4.20.1–3; Epiphanius, sch. 13: \"as they sailed he fell asleep; and he rose and rebuked the wind and the "

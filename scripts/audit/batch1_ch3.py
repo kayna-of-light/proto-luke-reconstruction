@@ -169,16 +169,16 @@ NOTES = [
   "Tertullian, Marc. 4.14.1: \"Beati mendici (sic enim exigit interpretatio vocabuli quod in Graeco est), quoniam illorum est "
   "regnum dei\", repeated at 4.14.13. \"Illorum\" (theirs) cannot translate ὑμετέρα (yours). NA27 records αὐτῶν in W, the Old "
   "Latin ff2, the Old Syriac (sys) and the Sahidic, and cites Marcion (McionT). Roth: very likely. It is printed. Tertullian's "
-  "blessing has no \"in spirit\". Epiphanius, sch. 5 attests 6:20a.")),
+  "beatitude has no \"in spirit\". Epiphanius, sch. 5 attests 6:20a.")),
  dict(term='The destitute as a named group', cat='theological', refs=['6:20', '6:24'], text=(
-  "Interpretation. In the third person the blessing describes a class of people, the destitute (οἱ πτωχοί), and assigns the kingdom to them; it "
+  "Interpretation. In the third person the beatitude describes a class of people, the destitute (οἱ πτωχοί), and assigns the kingdom to them; it "
   "is not only an address to the listeners. Paul's letters use the same word (οἱ πτωχοί, \"the poor\") for the Jerusalem community (Gal 2:10; Rom 15:26), "
   "and the Epistle of James says that God chose the poor of the world to be heirs of the kingdom (Jas 2:5) and pronounces woe on "
   "the rich (Jas 5:1; cf. Lk 6:24). Later writers name a Jewish-Christian group the Ebionites (from Hebrew ebyonim, \"the "
   "poor\"). The library identifies the community behind the text with that group (Carriers of Living Water §1). The attested "
   "wording of 6:20 is consistent with that identification. It does not prove it: the third person also stands in W, the Old "
   "Syriac and the Old Latin ff2.")),
- dict(term='The other blessings (6:21–23)', cat='textual', refs=['6:21', '6:22', '6:23'], text=(
+ dict(term='The other beatitudes (6:21–23)', cat='textual', refs=['6:21', '6:22', '6:23'], text=(
   "Tertullian, Marc. 4.14.9–14 and 4.15.1; Epiphanius, sch. 6. Tertullian twice gives 6:21 in the third person and without "
   "\"now\" (\"Beati esurientes, quoniam ipsi saturabuntur\"; \"Beati qui plorant, quoniam ridebunt\"), and NA27 cites him for "
   "both. Roth rates these possible only, and the NA27 wording is printed. At 6:22 Tertullian lacks \"and when they set you apart\". "
@@ -212,7 +212,7 @@ NOTES = [
   "content (METHOD §2).")),
  dict(term='Blind guides, the beam, the two trees, the two treasures (6:39–45)', cat='textual', refs=['6:39', '6:40', '6:41', '6:42', '6:43', '6:44', '6:45'], text=(
   "Tertullian, Marc. 4.17.11 cites these in sequence and turns them against Marcion, Cerdo and Apelles: \"the blind leads the "
-  "blind into a pit… a disciple is not above his master… let the heretic take the beam from his own eye… a good tree does not "
+  "blind into a pit… a learner is not above his master… let the heretic take the beam from his own eye… a good tree does not "
   "bear bad fruit… Marcion brought nothing good out of the evil treasure of Cerdo.\" 6:44 is not cited and is printed in grey. "
   "At 6:45 NA27 has no \"his\" after \"heart\" (SBLGNT adds αὐτοῦ).")),
  dict(term='The two trees in Marcion\'s church', cat='theological', refs=['6:43', '6:45'], text=(
@@ -222,7 +222,7 @@ NOTES = [
   "Christ applied figuratively to people, not to two gods\", Marc. 4.17.12). The two-gods reading belongs to the community that "
   "kept the text, not to its wording.")),
  dict(term='Hearing and doing (6:46–49)', cat='theological', refs=['6:46', '6:47', '6:48', '6:49'], text=(
-  "Tertullian, Marc. 4.17.12–13 quotes 6:46: \"Why do you call me Lord, Lord… and do not do what I say?\" 6:47–49 (the two "
+  "Tertullian, Marc. 4.17.12–13 quotes 6:46: \"Why do you call me 'lord, lord'… and do not do what I say?\" 6:47–49 (the two "
   "houses) are not cited and are printed in grey. Interpretation: the sermon ends on doing, not on confessing. The Epistle of "
   "James makes the same demand (\"be doers of the word, and not hearers only\", Jas 1:22), and the library sets the two side by "
   "side (Carriers of Living Water §3.4). Of the three parallels the library draws inside this sermon (6:24 / Jas 5:1; 6:37 / Jas 5:9; "

@@ -17,7 +17,7 @@ ENTRIES = [
  U('10:3', G('10:3'), 'Go away; look, I am sending you out like lambs in the middle of wolves.', 'Inside the attested paragraph 10:1–12.'),
  A('10:4', G('10:4'), 'Do not carry a purse, nor a bag, nor sandals, and greet no one on the road.',
    'present (Marc. 4.24.2–3)', [T('4.24.2', '"Etiam calciamenta portare vetuit illos… Neminem, inquit, per viam salutaveritis."')],
-   wording='NA27. Tertullian also says Christ forbade the disciples "even a staff" (4.24.1, nec virgam); no Greek manuscript has a staff in this verse, and Roth takes it from the mission of the twelve (9:3), brought in to match Elisha\'s staff (2 Kgs 4:29, quoted in 4.24.3).'),
+   wording='NA27. Tertullian also says Christ forbade the learners "even a staff" (4.24.1, nec virgam); no Greek manuscript has a staff in this verse, and Roth takes it from the mission of the twelve (9:3), brought in to match Elisha\'s staff (2 Kgs 4:29, quoted in 4.24.3).'),
  A('10:5', G('10:5'), "And whatever house you go into, first say, 'Peace to this house.'",
    'present (Marc. 4.24.4)', [T('4.24.4', '"Sic et dominus, in quam introissent domum, pacem ei dicere."')]),
  U('10:6', G('10:6'), 'And if a son of peace is there, your peace will rest upon him; but if not, it will turn back to you.',
@@ -74,7 +74,7 @@ ENTRIES = [
    'present (Marc. 4.25.14–18; 4.19.7; Pan. 42.11.6, sch. 23)',
    [T('4.25.14', '"In evangelio veritatis legis doctor dominum aggressus, Quid faciens, inquit, vitam aeternam consequar? In haeretico vita solummodo posita est, sine aeternae mentione."'),
     T('4.25.18', '"Viderit nunc si aeternam nostri addiderunt."'),
-    E(23, 'εἶπεν τῷ νομικῷ… (the lawyer\'s question is presupposed).')],
+    E(23, 'εἶπεν τῷ νομικῷ… (the expert in the law\'s question is presupposed).')],
    wording='Marcionite reading adopted: ζωήν without αἰώνιον. Tertullian states it as a difference between the two texts ("in the heretical gospel only \'life\' is set down, with no mention of \'eternal\'"), and in 4.25.18 allows that his own side may have added the word. Roth: very likely. Tertullian does not quote "Teacher" (D also lacks it); one witness, printed.'),
  A('10:26', G('10:26'), 'And he said to him, "In the law, what is written? How do you read?"',
    'present (Pan. 42.11.6, sch. 23)', [E(23, 'εἶπεν τῷ νομικῷ »ἐν τῷ νόμῳ τί γέγραπται;«')]),
@@ -97,7 +97,7 @@ OMITTED = [
       reason=('"I saw Satan fall like lightning from heaven." At 10:19 Tertullian explains the snakes and scorpions as spiritual powers whose prince the Creator calls serpent and dragon, and quotes Ps 91:13 and Isa 27:1 for Christ\'s victory over him (4.24.10). '
               'A saying of Jesus describing the fall of Satan from heaven, the image of Isa 14:12, would have served that argument better than the texts he brings in. Its citation by Marinus in the Dialogue of Adamantius (134,5–6) is not evidence for Marcion\'s text (Roth).'))),
  dict(ref='10:29–37', cls='U−', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason=('The parable of the Samaritan. In both witnesses the exchange with the lawyer closes at 10:28: Epiphanius\' sch. 23 ends with "do this and you will live" and sch. 24 is on 11:5; Tertullian passes from 10:28 (4.25.14–18) to 11:1 (4.26.1). '
+      reason=('The parable of the Samaritan. In both witnesses the exchange with the expert in the law closes at 10:28: Epiphanius\' sch. 23 ends with "do this and you will live" and sch. 24 is on 11:5; Tertullian passes from 10:28 (4.25.14–18) to 11:1 (4.26.1). '
               'Tertullian\'s aim in 4.25.14–18 is to show that Christ taught the "head of the law" of the Creator; a parable expounding the law\'s own command (Lev 19:18), with a priest and a Levite in it, would have been his best evidence, and any Marcionite use of it against the Creator\'s cult would have drawn an answer. '
               'Neither witness has the neighbour clause of 10:27, which the parable explains. NA27 begins a new paragraph at 10:29.'))),
  dict(ref='10:38–42', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
@@ -111,7 +111,7 @@ PREAMBLE = (
  "wage\", and the dust wiped off against a town that refuses them, \"but know this, that the kingdom of God has come near\". "
  "Whoever rejects them rejects him; he gives them authority over snakes and scorpions. He then thanks the \"Lord of heaven\" "
  "that what was hidden from the wise has been revealed to little children, and says that no one knows who the Father is "
- "except the son. To a lawyer who asks what he must do to inherit life (\"life\", not \"eternal life\", as Tertullian points "
+ "except the son. To a expert in the law who asks what he must do to inherit life (\"life\", not \"eternal life\", as Tertullian points "
  "out) he answers with the command to love God, and \"do this and you will live\". Canonical Luke's judgement on Sodom and the "
  "woes on the Galilean towns, \"I saw Satan fall\", the parable of the Samaritan and the visit to Martha and Mary are not "
  "cited by either witness and are not printed."
@@ -151,8 +151,8 @@ NOTES = [
   "an unknown God\" — the Marcionite reading of the saying, which he answers from Isaiah (\"Israel did not know me\", Isa "
   "1:3). The words in brackets after the quotation in the manuscripts of Tertullian give Matthew's wording and are a copyist's "
   "addition.")),
- dict(term='The lawyer\'s question (10:25–28)', cat='textual', refs=['10:25', '10:26', '10:27', '10:28'], text=(
-  "Tertullian, Marc. 4.25.14: \"In the gospel of truth the lawyer asks, 'What must I do to obtain eternal life?' In the "
+ dict(term='The expert in the law\'s question (10:25–28)', cat='textual', refs=['10:25', '10:26', '10:27', '10:28'], text=(
+  "Tertullian, Marc. 4.25.14: \"In the gospel of truth the expert in the law asks, 'What must I do to obtain eternal life?' In the "
   "heretical one only 'life' is set down, with no mention of 'eternal'.\" This is one of the few places where Tertullian states "
   "a difference between the two texts, and in 4.25.18 he allows that \"ours\" may have added the word. The text printed reads "
   "\"inherit life\". Epiphanius, sch. 23 quotes Jesus' question \"What is written in the law?\" and his reply \"You have said "
@@ -161,7 +161,7 @@ NOTES = [
   "not adopted (one witness).")),
  dict(term='Not printed: 10:29–42', cat='excision', refs=['10:28'], text=(
   "The parable of the Samaritan (10:29–37) and the visit to Martha and Mary (10:38–42). In both witnesses the exchange with "
-  "the lawyer ends at 10:28; Tertullian goes on to 11:1 and Epiphanius to 11:5. For the parable, silence counts: it expounds "
+  "the expert in the law ends at 10:28; Tertullian goes on to 11:1 and Epiphanius to 11:5. For the parable, silence counts: it expounds "
   "the law's own command of love, the point Tertullian was arguing (\"he set before him the head of the law\", 4.25.15), and "
   "it would have served him. It is classed \"unattested, probably absent\". The Martha and Mary passage touches nothing either "
   "father argues, so their silence shows nothing; it is \"unattested, undetermined\" and, as a paragraph with no attested "

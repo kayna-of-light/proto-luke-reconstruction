@@ -44,9 +44,9 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Whom to invite. Jesus tells his host not to invite those who can repay, but the poor, the crippled, the lame and the blind, "
- "for he will be repaid at the resurrection. He tells the parable of a man who gave a great banquet: the invited guests "
- "excuse themselves with a field, five yoke of oxen and a marriage, and the master, angry, has his servant bring in the poor "
+ "Whom to invite. Jesus tells his host not to invite those who can repay, but the destitute, the crippled, the lame and the blind, "
+ "for he will be repaid at the rising of the just. He tells the parable of a man who gave a great banquet: the invited guests "
+ "excuse themselves with a field, five yoke of oxen and a marriage, and the master, angry, has his slave bring in the destitute "
  "from the streets and then from the roads and hedges. Tertullian reads the parable as the Creator's long history of "
  "inviting Israel through the prophets and then calling the nations (Marc. 4.31). The healing on the sabbath and the "
  "places at table (14:1–11), and the sayings on the cost of discipleship (14:25–35), are not cited by any witness and are "
@@ -59,7 +59,7 @@ NOTES = [
   "Tertullian or Epiphanius. They form two NA27 paragraphs with no attested verse, and their absence is undetermined. "
   "Tertullian had just argued the sabbath question at 13:15 (4.30.1), and a second sabbath healing would have added nothing "
   "new to his case.")),
- dict(term='The poor at the table (14:12–14)', cat='textual', refs=['14:12', '14:13', '14:14'], text=(
+ dict(term='The destitute at the table (14:12–14)', cat='textual', refs=['14:12', '14:13', '14:14'], text=(
   "Tertullian, Marc. 4.31.1 sets the command to invite those who cannot repay beside Isaiah 58:7 (\"break your bread with the "
   "hungry, and bring the homeless poor into your house\"). He notes that Christ promises the repayment \"in the "
   "resurrection\". 14:13 is not cited and is printed in grey.")),
@@ -77,7 +77,7 @@ NOTES = [
  dict(term='Invitation and refusal', cat='theological', refs=['14:14', '14:21', '14:23'], text=(
   "Interpretation. In the attested text the host's duty is to invite those who cannot repay, and the parable ends with the "
   "poor, the crippled, the blind and the lame brought in, and then strangers from the roads. Tertullian reads this as the "
-  "Creator's own pattern (Isaiah 58). The same preference for the poor over the rich appears in the Epistle of James "
+  "Creator's own pattern (Isaiah 58). The same preference for the destitute (πτωχοί) over the rich appears in the Epistle of James "
   "(Jas 2:1–7, the rich man and the poor man in the assembly).")),
  dict(term='τῷ κεκληκότι αὐτόν, "the one who had invited him"', cat='translation', refs=['14:12'], text='καλέω, to call, invite. The same verb runs through the passage: "call" (14:12–13), "invited" (14:16–17, 14:24).'),
  dict(term='ἄριστον ἢ δεῖπνον, "a midday meal or a dinner"', cat='translation', refs=['14:12'], text='ἄριστον, as at 11:37; δεῖπνον, the main meal of the day, in the evening.'),

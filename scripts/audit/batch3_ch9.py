@@ -29,7 +29,7 @@ ENTRIES = [
  A('11:4', G('11:4'), 'And let go our sins for us, for we ourselves also let go for everyone who owes us. And do not bring us into testing."',
    'present (Marc. 4.26.4–5)', [T('4.26.4–5', '"Quis mihi delicta dimittet?… Quis non sinet nos deduci in temptationem?"')],
    wording=('NA27. Tertullian\'s question "Who will not let us be led into temptation?" was long taken (Harnack) as a Marcionite reading μὴ ἄφες ἡμᾶς εἰσενεχθῆναι. Roth rates it possible only: Tertullian turns every petition into a question, and he glosses the canonical "lead us not" the same way in his own works: "ne nos patiaris induci" (Or. 8.1); cf. Fug. 2.5, "ne nos induxeris in temptationem permittendo nos maligno". Not adopted. '
-            'The clause "for we ourselves forgive…" is not cited. NA27 cites McionT and Origen for the text without "but deliver us from evil".')),
+            'The clause "for we ourselves also let go…" is not cited. NA27 cites McionT and Origen for the text without "but deliver us from evil".')),
  A('11:5', G('11:5'), 'And he said to them, "Which of you will have a friend, and will go to him at midnight and say to him, \'Friend, lend me three loaves,',
    'present (Marc. 4.26.8; Pan. 42.11.6, sch. 24)',
    [E(24, '»τίς ἐξ ὑμῶν ἕξει φίλον, καὶ πορεύσεται πρὸς αὐτὸν μεσονυκτίου, αἰτῶν τρεῖς ἄρτους;«'),
@@ -150,13 +150,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Prayer, the finger of God, and the woes. Asked by a disciple to teach them to pray, Jesus gives a prayer that in this "
- "text asks first for the holy spirit, then for the kingdom, for \"your bread\", forgiveness, and not to be brought into "
+ "Prayer, the finger of God, and the woes. Asked by a learner to teach them to pray, Jesus gives a prayer that in this "
+ "text asks first for the holy spirit, then for the kingdom, for \"your bread\", the letting go of sins, and not to be brought into "
  "temptation (Tertullian, Marc. 4.26.3–5; Origen). Its parables end with the Father who gives the holy spirit to those who ask. "
  "Accused of casting out daimons by Beelzebul, Jesus answers that he does it \"by the finger of God\", the words the Egyptian "
  "magicians used before Moses (Exod 8:19). To a generation seeking a sign he says that a sign will not be given to it; this text "
  "has no sign of Jonah and no Nineveh or queen of the south (Epiphanius, sch. 25). At a Pharisee's table come the sayings on "
- "the inside and the outside of the cup and the woes on Pharisees and lawyers; the Pharisees pass over \"the calling and the "
+ "the inside and the outside of the cup and the woes on Pharisees and experts in the law; the Pharisees pass over \"the calling and the "
  "love of God\". The saying of \"the wisdom of God\" about the blood of the prophets is not in this text (sch. 28)."
 )
 
@@ -204,8 +204,8 @@ NOTES = [
   "inside?\", is glossed by Tertullian as flesh and soul made by one God. At 11:42 both witnesses read that the Pharisees "
   "pass over \"the calling (κλῆσις) and the love of God\", not \"justice (κρίσις) and the love of God\"; Tertullian repeats "
   "\"calling\" in 4.27.6. The reading is printed. 11:44 is not cited and is printed in grey.")),
- dict(term='Woes on the lawyers (11:45–52; 11:49–51 not printed)', cat='textual', refs=['11:45', '11:46', '11:47', '11:48', '11:52'], text=(
-  "Tertullian, Marc. 4.27.6–9; Epiphanius, sch. 27–28. The lawyers load others with burdens hard to bear; they build the tombs "
+ dict(term='Woes on the experts in the law (11:45–52; 11:49–51 not printed)', cat='textual', refs=['11:45', '11:46', '11:47', '11:48', '11:52'], text=(
+  "Tertullian, Marc. 4.27.6–9; Epiphanius, sch. 27–28. The experts in the law load others with burdens hard to bear; they build the tombs "
   "of the prophets their fathers killed; they have taken the key of knowledge (Tertullian: \"the interpretation of the law\"). "
   "Epiphanius states that the text did not have the saying \"Therefore the wisdom of God said, 'I will send them prophets…'\" or "
   "the blood of the prophets from Abel to Zechariah \"required of this generation\" (11:49–51). At 11:48 Tertullian's comment "
@@ -215,7 +215,7 @@ NOTES = [
  dict(term='Calling and love', cat='theological', refs=['11:42'], text=(
   "Interpretation. In the attested text the charge against the Pharisees is that they tithe herbs and pass over \"the calling "
   "and the love of God\". Tertullian reads \"calling\" as God calling Israel out of Egypt and \"love\" as the first "
-  "commandment (Deut 6:5), quoted in that form (4.27.4). The pairing fits the reconstruction's earlier sayings: the lawyer is "
+  "commandment (Deut 6:5), quoted in that form (4.27.4). The pairing fits the reconstruction's earlier sayings: the expert in the law is "
   "answered with the command to love God (10:27). It also fits a criticism of religious leaders made from within the law, "
   "for neglecting what the law puts first.")),
  dict(term='Κύριε, "Lord"', cat='translation', refs=['11:1'], text='"Lord, sir": the capital is only the start of the address.'),

@@ -47,7 +47,7 @@ ENTRIES = [
    'And Jesus said, "Who touched me?" And when all were denying it, Peter said, "Overseer, the crowds are hemming you in and pressing against you."',
    'present (Marc. 4.20.8; Pan. 42.11.6, sch. 14)',
    [E(14, '»καὶ εἶπεν ὁ κύριος· τίς μου ἥψατο;«'), T('4.20.8', '"Quis me, inquit, tetigit? Etiam excusantibus discipulis…"')],
-   wording='Marcionite reading adopted: τίς μου ἥψατο; for τίς ὁ ἁψάμενός μου; (Epiphanius\' Greek, with Tertullian "Quis me tetigit?"; Roth: secure). Epiphanius\' ὁ κύριος for ὁ Ἰησοῦς is rated possible; not adopted. Tertullian\'s "excusantibus discipulis" (the disciples, not Peter alone) is rated possible; noted.'),
+   wording='Marcionite reading adopted: τίς μου ἥψατο; for τίς ὁ ἁψάμενός μου; (Epiphanius\' Greek, with Tertullian "Quis me tetigit?"; Roth: secure). Epiphanius\' ὁ κύριος for ὁ Ἰησοῦς is rated possible; not adopted. Tertullian\'s "excusantibus discipulis" (the learners, not Peter alone) is rated possible; noted.'),
  A('8:46', G('8:46'), 'But Jesus said, "Someone touched me, for I knew power had gone out from me."',
    'present (Marc. 4.20.8; Pan. 42.11.6, sch. 14)',
    [E(14, '»ἥψατό μού τις. καὶ γὰρ ἔγνων δύναμιν ἐξελθοῦσαν ἀπ\' ἐμοῦ«.'), T('4.20.8', '"Tetigit me aliquis… Sensi enim virtutem ex me profectam."')],
@@ -134,7 +134,7 @@ NOTES = [
   "Reception and interpretation. The Marcionites read the healing as Jesus setting aside the law that made a woman with a flow "
   "of blood unclean (Lev 15:25–27). Tertullian answers that the law concerns the regular flow, not a disease, and that the "
   "woman did not break it (Marc. 4.20.9–12). The text itself says nothing about the law: it reports the touch, the power going "
-  "out, and the woman's faith. The legal questions belong to the readers.")),
+  "out, and the woman's trust. The legal questions belong to the readers.")),
  dict(term='Jairus\' daughter (8:40–42a, 8:49–56)', cat='textual', refs=['8:40', '8:41', '8:49', '8:56'], text=(
   "No witness cites the request of Jairus or the raising of his daughter. Epiphanius' quotation begins \"as they were going\", "
   "which presupposes the journey to Jairus' house, and NA27 prints 8:40–56 as one paragraph. The frame is therefore printed in "
@@ -142,7 +142,7 @@ NOTES = [
   "raising the dead was the Creator's sign (4.18.2), so a second raising would add nothing to his case. That is why his "
   "silence here is not counted as evidence of absence.")),
  dict(term='The mission of the twelve (9:1–6)', cat='textual', refs=['9:1', '9:2', '9:3', '9:5', '9:6'], text=(
-  "Tertullian, Marc. 4.21.1: the disciples are sent to preach the kingdom of God, are forbidden to take food or clothing for "
+  "Tertullian, Marc. 4.21.1: the learners are sent to preach the kingdom of God, are forbidden to take food or clothing for "
   "the road, and are told to shake the dust from their feet \"as a testimony\". 9:1–2 and 9:6 are also read in the Dialogue of "
   "Adamantius (82,2–7) by the orthodox speaker, as an argument the Marcionite is expected to accept; Roth counts this as "
   "attestation. 9:4 is not cited and is printed in grey.")),

@@ -20,7 +20,7 @@ ENTRIES = [
       en='he came down to Capernaum, a city of Galilee. And he was teaching them on the sabbaths.',
       app=dict(roth='present (Marc. 4.7.1–7; Adam. 102,22–23; Irenaeus, Haer. 1.27.2; Hippolytus, Haer. 7.31.6)',
                witnesses=[W_TE_471,
-                          {'source': 'Tertullian, Marc. 4.7.7', 'evidence': 'Asks how he could be admitted to teach in the synagogue: attests the teaching in the synagogue.'}],
+                          {'source': 'Tertullian, Marc. 4.7.7', 'evidence': 'Asks how he could be admitted to teach in the assembly: attests the teaching in the assembly.'}],
                wording='NA27 without the opening Καί, which is canonical Luke\'s link to 4:30; the witnesses join κατῆλθεν directly to 3:1 (editorial junction). Spelling Καφαρναούμ (NA27).',
                decision='printed')),
  dict(ref='4:32', cls='A+', gr=greek('4:32'),
@@ -31,9 +31,9 @@ ENTRIES = [
  dict(ref='4:33', cls='A+', gr=greek('4:33'),
       en='And in the assembly there was a person having a spirit of an unclean daimon, and he cried out with a loud voice,',
       app=dict(roth='unattested',
-               witnesses=[{'source': 'Tertullian, Marc. 4.7.9', 'evidence': '"Exclamat ibidem spiritus daemonis" — the spirit of a daimon cries out in that place (the synagogue).'}],
+               witnesses=[{'source': 'Tertullian, Marc. 4.7.9', 'evidence': '"Exclamat ibidem spiritus daemonis" — the spirit of a daimon cries out in that place (the assembly).'}],
                wording='NA27.', decision='printed',
-               reason='Tertullian paraphrases the content of the verse (spirit of a daimon, crying out, in the synagogue) before quoting 4:34. Roth lists 4:33 as unattested; the paraphrase is sufficient for A+.')),
+               reason='Tertullian paraphrases the content of the verse (spirit of a daimon, crying out, in the assembly) before quoting 4:34. Roth lists 4:33 as unattested; the paraphrase is sufficient for A+.')),
  dict(ref='4:34', cls='A+', gr=greek('4:34'),
       en='"Ah! What is there between us and you, Jesus, Nazarene? Did you come to destroy us? I know you, who you are: the holy one of God."',
       app=dict(roth='present (Marc. 4.7.9, 10, 12)',
@@ -144,8 +144,8 @@ OMITTED = [
 PREAMBLE = (
  "The text opens with a date and an arrival. Epiphanius quotes its first words, \"In the fifteenth year of Tiberius Caesar\", "
  "and states that the birth narratives, the baptism and the genealogy were not in it (Pan. 42.11.4–5). Tertullian joins the date "
- "directly to the descent to Capernaum (Marc. 4.7.1). There is no preface, no John the Baptist preaching, no baptism, no "
- "genealogy and no temptation. Jesus enters the narrative as an adult teacher in the synagogue of a Galilean town. "
+ "directly to the descent to Capernaum (Marc. 4.7.1). There is no preface, no John the baptiser preaching, no baptism, no "
+ "genealogy and no temptation. Jesus enters the narrative as an adult teacher in the assembly of a Galilean town. "
  "The order also differs from canonical Luke. Tertullian treats the exorcism at Capernaum before the visit to Nazareth, and the "
  "Nazareth scene presupposes it (\"whatever we heard happened at Capernaum\", 4:23). The Nazareth visit itself is short. It has "
  "no reading from Isaiah, no question about Joseph's son and no Elijah and Elisha sayings, and Jesus is driven out over a single "
@@ -191,7 +191,7 @@ NOTES = [
   "cited and are printed in grey.")),
  dict(term='Absent from the Nazareth visit: 4:17–22 and 4:25–26', cat='excision', refs=['4:16', '4:23'], text=(
   "4:17–21 (the reading of Isaiah 61 and \"today this scripture is fulfilled\"): Tertullian's case in Marc. IV is that Jesus "
-  "fulfils the Creator's prophets. A fulfilment of Isaiah announced in the synagogue would have been his best proof, and he says "
+  "fulfils the Creator's prophets. A fulfilment of Isaiah announced in the assembly would have been his best proof, and he says "
   "instead that Jesus preached \"nothing new\" there. 4:22 (\"Is not this Joseph's son?\"): Tertullian argues (4.7.7) that no one "
   "knew Jesus' tribe, people or house; the question would have served him and is not cited. 4:25–26 (Elijah and the widow of "
   "Sarepta): Tertullian names one proverb as the cause of the ejection, whereas in canonical Luke the Elijah and Elisha sayings "
@@ -210,10 +210,10 @@ NOTES = [
   "A D Θ Ψ and the Byzantine text.")),
  dict(term='What the opening shows', cat='theological', refs=['3:1', '4:31', '4:16'], text=(
   "Interpretation, drawn from the attested text only. Jesus is introduced without ancestry, birth, prophetic announcement, "
-  "baptism or testing. His first acts are teaching in a synagogue on the sabbath and an exorcism, and his hearers are said not "
+  "baptism or testing. His first acts are teaching in a assembly on the sabbath and an exorcism, and his hearers are said not "
   "to know where he comes from. The text gives no Davidic descent and no family claim. The library's thesis that the earliest "
   "gospel belongs to the Jerusalem community around James (Carriers of Living Water §1–3) is not contradicted by this: the setting "
-  "is wholly Jewish (synagogue, sabbath, the kingdom of God). But the text in this section gives no support to a dynastic "
+  "is wholly Jewish (assembly, sabbath, the kingdom of God). But the text in this section gives no support to a dynastic "
   "framing either. The reading of κατῆλθεν as a descent from heaven belongs to Marcion's church, not to the wording.")),
  dict(term='ἡγεμονία, ἡγεμονεύοντος, "rule", "governing"', cat='translation', refs=['3:1'], text='the emperor\'s "rule" and Pilate\'s "governing" are the same Greek word (ἡγεμών, one who leads). The English keeps the pair visible.'),
  dict(term='τετρααρχοῦντος, "ruling as tetrarch"', cat='translation', refs=['3:1'], text='a tetrarch is literally "ruler of a fourth", a client ruler under Rome. The verb comes three times.'),
