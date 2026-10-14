@@ -4,7 +4,7 @@
 
 ## 1. What is being reconstructed
 
-The object is the gospel text read in Marcion's church (the *Evangelion*). Under the project's premise, that text is the earlier form that canonical Luke expanded: Proto-Luke. The reconstruction recovers what the witnesses show that text contained, in the wording they show.
+The object is the gospel text read in Marcion's church (the *Evangelion*). Under the project's premise, that text is the earlier form that canonical Luke expanded: Proto-Luke. The reconstruction recovers what the witnesses show that text contained, in the wording they show. Where a wording is Marcion's alone and the correspondential test of §11 shows it to be later than the text he received, the earlier wording is printed.
 
 It does not add, remove or reword anything because of what a theology (Jamesian, Pauline, Marcionite or orthodox) would lead one to expect. Each reading must be shown from the data. The standing of a scholar or a tradition is not evidence.
 
@@ -125,3 +125,14 @@ It does not supply readings. Where a library document makes a factual claim abou
 - **(default)** The order of the witnesses is kept. The model question (Schwegler or Semler) is left open, and notes say "canonical Luke has / lacks". They do not say "Luke added" except where both models agree.
 - **(default)** Readings at Roth's "probable / possible" level stay in the notes.
 - **(default)** The ending follows the attestation. 24:47 is the last attested verse. 24:48–53 is unattested and not printed as text unless the owner decides otherwise (working document §10.5).
+
+## 11. The text before Marcion: the correspondential test
+
+The witnesses attest the text read in Marcion's church. The text he received differs from it at most in wording: what the witnesses attest as present or absent is so in the received text as well (premise: Marcion did not cut, working document §1.1).
+
+1. **What is tested.** Only the Marcionite readings printed under §5 that no independent manuscript of Luke shares. A reading shared with manuscripts outside Marcion's line (P45, D, the Old Latin, the Byzantine text, and others) existed independently of his church, and stands.
+2. **How it is tested.** The whole printed text is translated into its inner sense and read as one story (`docs/research/correspondence/`). A Marcion-only reading gives way to the NA27 wording only if both hold:
+   - the reading breaks the inner story of the attested text;
+   - the witnesses to Marcion's text are themselves divided, and the earliest of them supports the NA27 wording.
+3. **Passages are not tested.** Attested absence is absence. An unattested passage would come into question only if the inner mechanics of the attested text failed without it. In the attested text they do not (`docs/research/correspondence/register.md`).
+4. **Result.** One reading gives way: 18:19, "God the Father" (later copies) for "God" (Tertullian). The NA27 wording is printed and the Marcionite reading is recorded in the apparatus. Every other Marcion-only reading stands. Seven remain recorded doubts where both forms run in the inner story (`docs/research/correspondence/decisions.md`).

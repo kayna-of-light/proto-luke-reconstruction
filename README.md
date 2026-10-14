@@ -17,6 +17,7 @@ This project reconstructs the gospel read in Marcion's church in the second cent
 - **What is printed.** Attested verses are printed. Unattested verses inside an attested paragraph are printed in grey. Absent passages are listed in each chapter's notes.
 - **Wording.** Nestle–Aland 27, checked on the printed page. A Marcionite reading replaces it only where a witness attests it in its own words and it is at least "very likely" in Roth's grading. Retroversions from Tertullian's Latin are marked.
 - **Western non-interpolations** (Westcott–Hort) are recorded. A Western omission does not by itself remove words from this text.
+- **The text before Marcion.** Marcionite readings that no independent manuscript shares are tested against a correspondential reading of the whole attested text (`docs/research/correspondence/`). One gives way: 18:19, "except God alone" for the later copies' "God the Father". No passage is added: the attested text has no inner gap.
 - The full method is in `docs/audit/METHOD.md`, and every decision is in `docs/audit/AUDIT_LOG.md`.
 
 ## Results in brief
@@ -61,6 +62,7 @@ This project reconstructs the gospel read in Marcion's church in the second cent
 ├── docs/
 │   ├── WORKING_DOCUMENT.md          # Background and plan of the audit
 │   ├── audit/                       # METHOD.md, AUDIT_LOG.md, library_corrections.md
+│   ├── research/correspondence/     # Correspondential reading of the whole text; register; decisions (METHOD §11)
 │   ├── stylometry/                  # Pre-registration and report of the stylometric baseline
 │   └── research_questions.md        # Scholarly questions and resolutions
 ├── output/
