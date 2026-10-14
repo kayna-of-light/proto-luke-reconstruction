@@ -34,7 +34,7 @@ The steps are:
 2. Read the translation through as one story (`story.md`).
 3. Register the places where the inner story does not run (`register.md`).
 
-The fourth step, deciding doubts, is not taken here.
+The fourth step, deciding doubts, is in `decisions.md`, as proposals only.
 
 ## 3. Files
 
@@ -43,6 +43,7 @@ The fourth step, deciding doubts, is not taken here.
 | `reading/ch01.md` … `reading/ch22.md` | Step 1. Each file contains three things: the inner sense of every printed verse of the chapter, with its certainty mark; the names given to the central figure; and the positions of unprinted passages. |
 | `story.md` | Step 2. The movements the text repeats, the one-soul story in sequence, and the sequence of names. |
 | `register.md` | Step 3. Gaps and breaks in the inner story. It also lists the gaps in the letter that were tested and found to hold inwardly, the tensions at doubtful wordings, and the places where the story leans on grey verses. |
+| `decisions.md` | Step 4. Part A fixes the requirements, and was committed before any candidate was read. Part B tests the candidates against them. Part C summarises the proposals for the text before Marcion. These are proposals only; `data/` is unchanged. |
 
 ## 4. Correspondences relied on
 
