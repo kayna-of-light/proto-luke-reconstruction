@@ -11,84 +11,84 @@ T424 = T('4.42.4', '"Et Barrabas quidem nocentissimus vita ut bonus donatur, Chr
 T427 = T('4.42.7', '"nihil de Pilato postulatum, nihil de patibulo detractum, nihil sindone involutum, nihil sepulcro novo conditum."')
 
 ENTRIES = [
- A('23:1', G('23:1'), 'Then the whole company of them arose and brought him before Pilate.',
+ A('23:1', G('23:1'), 'And the whole multitude of them, standing up, led him before Pilate.',
    'present (Marc. 4.42.1)', [T421]),
  A('23:2', G('23:2', [('διαστρέφοντα τὸ ἔθνος ἡμῶν καὶ κωλύοντα φόρους Καίσαρι διδόναι καὶ λέγοντα',
                       'διαστρέφοντα τὸ ἔθνος ἡμῶν καὶ καταλύοντα τὸν νόμον καὶ τοὺς προφήτας καὶ κωλύοντα φόρους Καίσαρι διδόναι καὶ ἀποστρέφοντα τὰς γυναῖκας καὶ τὰ τέκνα καὶ λέγοντα')]),
-   'And they began to accuse him, saying, "We found this man misleading our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the children, and saying that he himself is the Anointed One, a king."',
+   'And they began to accuse him, saying, "We found this man perverting our nation, and abolishing the law and the prophets, and forbidding to give tributes to Caesar, and turning away the women and the children, and saying that he himself is the Anointed One, a king."',
    'present (Marc. 4.42.1; Pan. 42.11.6, sch. 69–70)',
    [T421,
     E(69, 'προσέθετο μετὰ τὸ »τοῦτον εὕρομεν διαστρέφοντα τὸ ἔθνος« »καὶ καταλύοντα τὸν νόμον καὶ τοὺς προφήτας«. Elenchus 69: "the text did not read so, but: we found this man misleading the people, saying that he is Christ a king".'),
     E(70, 'προσθήκη μετὰ τὸ »κελεύοντα φόρους μὴ δοῦναι« »καὶ ἀποστρέφοντα τὰς γυναῖκας καὶ τὰ τέκνα«.')],
-   wording=('Marcionite readings adopted: "and destroying the law and the prophets" after "misleading our nation", and "and turning away the women and the children" after the tribute. Epiphanius states twice, in two scholia, that the text had these words in addition to canonical Luke\'s; NA27 cites both for Marcion (McionE); Roth: very likely. '
+   wording=('Marcionite readings adopted: "and abolishing the law and the prophets" after "perverting our nation", and "and turning away the women and the children" after the tribute. Epiphanius states twice, in two scholia, that the text had these words in addition to canonical Luke\'s; NA27 cites both for Marcion (McionE); Roth: very likely. '
             'The rest of the verse is NA27. Epiphanius\' own wording of it is a summary (Roth); NA27 cites McionE also for the omission of "our", which Roth leaves open, and it is printed.'),
-   western='"And destroying the law and the prophets" also stands in Old Latin manuscripts (e b c ff2 gat i) and a few Vulgate manuscripts; c and e have "and he turned away our sons and wives from us" at 23:5.'),
- A('23:3', G('23:3'), 'And Pilate asked him, "Are you the King of the Jews?" And he answered him, "You say so."',
+   western='"And abolishing the law and the prophets" also stands in Old Latin manuscripts (e b c ff2 gat i) and a few Vulgate manuscripts; c and e have "and he turned away our sons and wives from us" at 23:5.'),
+ A('23:3', G('23:3'), 'And Pilate asked him, saying, "Are you the king of the Judeans?" And answering him, he said, "You say it."',
    'present (Marc. 4.42.1)', [T421],
    wording='NA27. Tertullian has Pilate ask "Are you the Christ?"; Roth: possible only, since Tertullian has just spoken of the charge "Christ a king" and goes on to Ps 2 ("against his Christ"). Not adopted.'),
- U('23:4', G('23:4'), 'Then Pilate said to the chief priests and the crowds, "I find no guilt in this man."', 'Inside the attested paragraph 23:2–5.'),
- U('23:5', G('23:5'), 'But they were urgent, saying, "He stirs up the people, teaching throughout all Judea, from Galilee where he began even to this place."', 'Inside the attested paragraph 23:2–5.'),
- U('23:6', G('23:6'), 'When Pilate heard this, he asked whether the man was a Galilean.', 'Inside the attested paragraph 23:6–7.'),
- A('23:7', G('23:7'), 'And when he learned that he belonged to Herod\'s jurisdiction, he sent him over to Herod, who was himself in Jerusalem at that time.',
+ U('23:4', G('23:4'), 'And Pilate said to the high priests and the crowds, "I find no cause in this man."', 'Inside the attested paragraph 23:2–5.'),
+ U('23:5', G('23:5'), 'But they were insisting, saying, "He stirs up the people, teaching throughout all Judea, beginning from Galilee to here."', 'Inside the attested paragraph 23:2–5.'),
+ U('23:6', G('23:6'), 'And Pilate, hearing it, asked whether the man was a Galilean;', 'Inside the attested paragraph 23:6–7.'),
+ A('23:7', G('23:7'), "and learning that he was from Herod's jurisdiction, he sent him up to Herod, who was himself also in Jerusalem in these days.",
    'present (Marc. 4.42.3)', [T423]),
- A('23:8', G('23:8'), 'When Herod saw Jesus, he was very glad, for he had long desired to see him, because he had heard about him, and he was hoping to see some sign done by him.',
+ A('23:8', G('23:8'), 'And Herod, seeing Jesus, rejoiced greatly, for he had been wanting to see him for a long time, because of hearing about him, and he was hoping to see some sign done by him.',
    'present (Marc. 4.42.3)', [T423]),
- A('23:9', G('23:9'), 'So he questioned him at some length, but he made no answer.',
+ A('23:9', G('23:9'), 'And he was questioning him with many words; but he answered him nothing.',
    'present (Marc. 4.42.3)', [T423], wording='NA27. Tertullian ("he heard no word from him") attests the silence, not the wording.'),
- U('23:10', G('23:10'), 'The chief priests and the scribes stood by, vehemently accusing him.', 'Inside the attested paragraph 23:8–12.'),
- U('23:11', G('23:11'), 'And Herod with his soldiers treated him with contempt and mocked him. Then, arraying him in splendid clothing, he sent him back to Pilate.', 'Inside the attested paragraph 23:8–12. NA27 [καί].'),
- U('23:12', G('23:12'), 'And Herod and Pilate became friends with each other that very day, for before this they had been at enmity with each other.', 'Inside the attested paragraph 23:8–12.'),
- A('23:18', G('23:18'), 'But they all cried out together, "Away with this man, and release to us Barabbas"—',
+ U('23:10', G('23:10'), 'And the high priests and the scribes had been standing by, accusing him vehemently.', 'Inside the attested paragraph 23:8–12.'),
+ U('23:11', G('23:11'), 'And Herod too, with his soldiers, treated him as nothing, and having mocked him, putting a bright garment around him, he sent him back to Pilate.', 'Inside the attested paragraph 23:8–12. NA27 [καί].'),
+ U('23:12', G('23:12'), 'And Herod and Pilate became friends with one another on that very day; for before they had been in enmity toward each other.', 'Inside the attested paragraph 23:8–12.'),
+ A('23:18', G('23:18'), 'And they cried out all together, saying, "Take this man away, and release Barabbas to us";',
    'present (Marc. 4.42.4)', [T424]),
- A('23:19', G('23:19'), 'a man who had been thrown into prison for an insurrection started in the city and for murder.',
+ A('23:19', G('23:19'), 'who had been thrown into prison for a certain uprising that had happened in the city, and for murder.',
    'present (Marc. 4.42.4)', [T424], wording='NA27. Tertullian\'s "most guilty in life" and "as a murderer" refer to the crimes (Roth: possible).'),
- U('23:20', G('23:20'), 'Pilate addressed them once more, desiring to release Jesus,', 'Inside the attested paragraph 23:18–23. NA27 αὐτοῖς (SBLGNT without it).'),
- U('23:21', G('23:21'), 'but they kept shouting, "Crucify, crucify him!"', 'Inside the attested paragraph 23:18–23.'),
- A('23:22', G('23:22'), 'A third time he said to them, "Why? What evil has he done? I have found in him no guilt deserving death. I will therefore punish and release him."',
+ U('23:20', G('23:20'), 'And again Pilate called out to them, wanting to release Jesus.', 'Inside the attested paragraph 23:18–23. NA27 αὐτοῖς (SBLGNT without it).'),
+ U('23:21', G('23:21'), 'But they kept shouting, saying, "Crucify, crucify him!"', 'Inside the attested paragraph 23:18–23.'),
+ A('23:22', G('23:22'), 'And a third time he said to them, "Why, what evil has this man done? I have found no cause of death in him; so I will discipline him and release him."',
    'present (Marc. 4.42.4)', [T424], wording='NA27. Tertullian\'s "most just" refers to Pilate\'s finding (Roth); no insight into the wording.'),
- A('23:23', G('23:23'), 'But they were urgent, demanding with loud cries that he should be crucified. And their voices prevailed.',
+ A('23:23', G('23:23'), 'But they were pressing with loud voices, asking for him to be crucified; and their voices were prevailing.',
    'present (Marc. 4.42.4)', [T424], wording='NA27. Tertullian\'s "his death is demanded" refers to the cries (Roth); no insight into the wording.'),
- U('23:24', G('23:24'), 'So Pilate decided that their demand should be granted.', 'Inside the attested paragraph 23:24–25.'),
- A('23:25', G('23:25'), 'He released the man who had been thrown into prison for insurrection and murder, for whom they asked, but he delivered Jesus over to their will.',
+ U('23:24', G('23:24'), 'And Pilate decided that their request should be done;', 'Inside the attested paragraph 23:24–25.'),
+ A('23:25', G('23:25'), 'and he released the one who had been thrown into prison for uprising and murder, whom they were asking for; but Jesus he handed over to their will.',
    'present (Marc. 4.42.4)', [T424], wording='NA27. Tertullian attests the release ("donatur"; Roth: ἀπέλυσεν).'),
- A('23:32', G('23:32'), 'Two others, who were criminals, were led away to be put to death with him.',
+ A('23:32', G('23:32'), 'And two others also, evil-doers, were being led with him to be done away with.',
    'present (Marc. 4.42.4)', [T424]),
- A('23:33', G('23:33'), 'And when they came to the place that is called The Skull, there they crucified him, and the criminals, one on his right and one on his left.',
+ A('23:33', G('23:33'), 'And when they came to the place called Skull, there they crucified him and the evil-doers, one on the right and one on the left.',
    'present (Marc. 4.42.4; Pan. 42.11.6, sch. 71)',
    [T424, E(71, '»καὶ ἐλθόντες εἰς τόπον λεγόμενον Κρανίου τόπος ἐσταύρωσαν αὐτὸν καὶ διεμερίσαντο τὰ ἱμάτια αὐτοῦ καὶ ἐσκοτίσθη ὁ ἥλιος«.')],
    wording='NA27. Epiphanius\' wording follows Matt 27:33 and runs 23:33, 34b and 45 together; Roth: a summary, possible only.'),
- A('23:44', G('23:44'), 'It was now about the sixth hour, and there was darkness over the whole land until the ninth hour,',
+ A('23:44', G('23:44'), 'And it was already about the sixth hour, and darkness came over the whole land until the ninth hour,',
    'present (Marc. 4.42.5)',
    [T('4.42.5', '"Ecce autem et elementa concutiuntur… Hic erit dies de quo et Amos: Et erit illa die, dicit dominus, occidet sol meridie (habes et horae sextae significationem), et contenebrabit super terram."')],
    wording='NA27. Tertullian\'s gloss on Amos 8:9 attests the sixth hour and the darkness over the land (Roth: very likely).'),
- A('23:45', G('23:45'), 'while the sun\'s light failed. And the curtain of the temple was torn in two.',
+ A('23:45', G('23:45'), 'the sun having failed; and the curtain of the sanctuary was torn in the middle.',
    'present (Marc. 4.42.5; Pan. 42.11.6, sch. 71)',
    [T('4.42.5', '"Scissum est et templi velum…"'), E(71, '»… καὶ ἐσκοτίσθη ὁ ἥλιος«.')],
    wording=('NA27. For "the sun\'s light failed" (τοῦ ἡλίου ἐκλιπόντος) Epiphanius has "and the sun was darkened" (καὶ ἐσκοτίσθη ὁ ἥλιος), the reading of A C3 W Θ Ψ f1.13 𝔐 lat sy; NA27 cites McionEvid. '
             'Roth: probable only, because the scholion is a summary in Matthew\'s wording; Ephrem and Eznik, who speak of the sun darkened in Marcionite contexts, were not checked here. Not adopted. Tertullian attests the curtain (Roth: secure).')),
- A('23:46', G('23:46'), 'Then Jesus, calling out with a loud voice, said, "Father, into your hands I commit my spirit!" And having said this he breathed his last.',
+ A('23:46', G('23:46'), 'And calling out with a loud voice, Jesus said, "Father, into your hands I set my spirit." And having said this, he breathed out.',
    'present (Marc. 4.42.6; Pan. 42.11.6, sch. 73)',
    [T('4.42.6', '"Vociferatur ad patrem, ut et moriens ultima voce prophetas adimpleret. Hoc dicto expiravit."'),
     E(73, '»καὶ φωνήσας φωνῇ μεγάλῃ ἐξέπνευσεν«.')],
-   wording=('NA27. Both witnesses attest the loud cry and "he breathed his last"; Tertullian\'s "having said this" renders τοῦτο δὲ εἰπών. Neither quotes the words of the cry. Tertullian\'s "to the Father… to fulfil the prophets" (Ps 31:5) points to them (Roth: possible). '
+   wording=('NA27. Both witnesses attest the loud cry and "he breathed out"; Tertullian\'s "having said this" renders τοῦτο δὲ εἰπών. Neither quotes the words of the cry. Tertullian\'s "to the Father… to fulfil the prophets" (Ps 31:5) points to them (Roth: possible). '
             'Adamantius quotes the verse (198,8–12), but as the orthodox speaker; it is not counted.')),
- A('23:50', G('23:50'), 'Now there was a man named Joseph, a member of the council, a good and righteous man,',
+ A('23:50', G('23:50'), 'And look, a man named Joseph, being a member of the council, and a good and just man—',
    'present (Marc. 4.42.8; Pan. 42.11.6, sch. 74)',
    [T('4.42.8', '"Sed si et Ioseph corpus fuisse noverat quod tota pietate tractavit, ille Ioseph qui non consenserat in scelere Iudaeis…"'),
     E(74, '»καὶ ἰδοὺ ἀνὴρ ὀνόματι Ἰωσήφ, καθελὼν τὸ σῶμα ἐνετύλιξε σινδόνι καὶ ἔθηκεν ἐν μνήματι λαξευτῷ«.')],
    wording='NA27 (with NA27\'s bracketed καί). Epiphanius quotes "and behold, a man named Joseph"; the rest is unattested.'),
- A('23:51', G('23:51'), 'who had not consented to their decision and action; he was from Arimathea, a Jewish town, and he was looking for the kingdom of God.',
+ A('23:51', G('23:51'), 'this one had not agreed with their counsel and action—from Arimathea, a city of the Judeans, who was waiting for the kingdom of God,',
    'present (Marc. 4.42.8)', [T('4.42.8', '"ille Ioseph qui non consenserat in scelere Iudaeis".')]),
- A('23:52', G('23:52'), 'This man went to Pilate and asked for the body of Jesus.',
+ A('23:52', G('23:52'), 'this one, coming to Pilate, asked for the body of Jesus,',
    'present (Marc. 4.42.7)', [T427]),
- A('23:53', G('23:53'), 'Then he took it down and wrapped it in a linen shroud and laid him in a tomb cut in stone, where no one had ever yet been laid.',
+ A('23:53', G('23:53'), 'and taking it down, he wrapped it in linen, and laid him in a tomb cut in stone, where no one had yet been laid.',
    'present (Marc. 4.42.7; Pan. 42.11.6, sch. 74)', [T427, E(74, '»… καθελὼν τὸ σῶμα ἐνετύλιξε σινδόνι καὶ ἔθηκεν ἐν μνήματι λαξευτῷ«.')],
    wording='NA27. Both witnesses attest the taking down, the linen and the tomb; Tertullian\'s "new" may come from "where no one had been laid" or from Matt 27:60 (Roth).'),
- U('23:54', G('23:54'), 'It was the day of Preparation, and the Sabbath was beginning.', 'Inside the attested paragraph 23:50–54.'),
- A('23:55', G('23:55'), 'The women who had come with him from Galilee followed and saw the tomb and how his body was laid.',
+ U('23:54', G('23:54'), 'And it was the day of preparation, and the sabbath was dawning.', 'Inside the attested paragraph 23:50–54.'),
+ A('23:55', G('23:55'), 'And the women who had come with him out of Galilee, following after, looked at the tomb and how his body was laid,',
    'present (Marc. 4.43.1)', [T('4.43.1', '"si nec mulierum illarum officium praeterit prophetia quae ante lucem convenerunt ad sepulcrum cum odorum paratura".')],
    wording='NA27. Tertullian attests the women (Roth: very likely).'),
- A('23:56', G('23:56'), 'Then they returned and prepared spices and ointments. On the Sabbath they rested according to the commandment.',
+ A('23:56', G('23:56'), 'and returning, they made ready spices and perfumed oils. And on the sabbath they rested, according to the commandment.',
    'present (Pan. 42.11.6, sch. 75; Marc. 4.43.1)',
    [E(75, '»καὶ ὑποστρέψασαι αἱ γυναῖκες ἡσύχασαν τὸ σάββατον κατὰ τὸν νόμον«.')],
    wording='NA27. Epiphanius has "according to the law" for "according to the commandment"; Roth: "the law" possible only. Not adopted. Tertullian\'s "with the preparation of spices" (4.43.1) refers to 23:56a or 24:1.'),
@@ -122,7 +122,7 @@ OMITTED = [
 
 PREAMBLE = (
  "Pilate, Herod and the cross. The council brings Jesus to Pilate. In this text the accusers say: \"We found this man misleading "
- "our nation and destroying the law and the prophets, forbidding us to give tribute to Caesar and turning away the women and the "
+ "our nation and abolishing the law and the prophets, forbidding to give tributes to Caesar and turning away the women and the "
  "children\" (Epiphanius, sch. 69–70). Pilate sends him to Herod, who is glad to see him and hears no word from him. The crowd asks "
  "for Barabbas and demands that Jesus be crucified. He is crucified at the Skull between two criminals. There is darkness at the "
  "sixth hour and the curtain of the temple is torn. Jesus cries out with a loud voice to the Father and breathes his last. Joseph, "
@@ -134,7 +134,7 @@ PREAMBLE = (
 NOTES = [
  dict(term='The charges before Pilate (23:1–5)', cat='textual', refs=['23:1', '23:2', '23:3'], text=(
   "Tertullian (4.42.1) has the council accuse Jesus of calling himself \"Christ, a king\", and Pilate ask \"Are you the Christ?\". "
-  "Epiphanius reports two additions in the charges of 23:2: \"and destroying the law and the prophets\" (sch. 69) and \"and turning "
+  "Epiphanius reports two additions in the charges of 23:2: \"and abolishing the law and the prophets\" (sch. 69) and \"and turning "
   "away the women and the children\" (sch. 70). He answers the first from Matt 5:17 (\"I came not to destroy the law and the "
   "prophets\"), and says that the canonical text reads only \"misleading the people\". Old Latin manuscripts have the first "
   "addition at the same place, and c and e have the second at 23:5, so both readings were known outside Marcion's text. They "
@@ -150,7 +150,7 @@ NOTES = [
   "Epiphanius' scholion 71 mentions the dividing, but in a summary of the scene in Matthew's wording; Tertullian's statement is "
   "followed. Epiphanius states that \"Today you will be with me in paradise\" (23:43) was not in the text (sch. 72). Tertullian "
   "(4.42.5) attests the darkness at the sixth hour and the torn curtain, and (4.42.6) the loud cry to the Father and \"having said "
-  "this, he breathed his last\", from which he argues that what breathes out a spirit is flesh. \"Father, forgive them\" (23:34a) "
+  "this, he breathed out\", from which he argues that what breathes out a spirit is flesh. \"Father, forgive them\" (23:34a) "
   "is not in the NA27 text and is not cited by either witness. Simon of Cyrene, the daughters of Jerusalem, the mockery at the "
   "cross, the criminals' exchange, the centurion and the onlookers (23:26–31, 35–42, 47–49) are in paragraphs that no witness "
   "cites.")),
@@ -160,10 +160,64 @@ NOTES = [
   "Epiphanius quotes Joseph taking down the body, wrapping it in linen and laying it in a rock-cut tomb (sch. 74), and the women "
   "returning and resting on the Sabbath \"according to the law\" (sch. 75). Tertullian (4.43.1) attests the women who came to the "
   "tomb with spices.")),
- dict(term='"Destroying the law and the prophets"', cat='theological', refs=['23:2'], text=(
+ dict(term='"Abolishing the law and the prophets"', cat='theological', refs=['23:2'], text=(
   "Interpretation. In this text the charge that Jesus destroys the law and the prophets is made by his accusers before Pilate, "
   "beside the charges about tribute and about turning away women and children; the narrative does not endorse it. Irenaeus "
   "(Haer. 1.27.2, as cited by Roth, 337 n. 230) reports that Marcion taught that Christ abolished the law and the prophets; that belongs to the reception of "
   "the text, not to its wording. The reading itself is old and not confined to Marcion's text, since the Old Latin has it. "
   "Epiphanius' charge that Marcion added the words assumes that canonical Luke is the earlier text.")),
+ dict(term='ἀναστάν, "standing up"', cat='translation', refs=['23:1'], text='ἀνίστημι, used of the whole assembly rising.'),
+ dict(term='διαστρέφοντα, "perverting"', cat='translation', refs=['23:2'], text='To turn aside, twist, mislead.'),
+ dict(term='καταλύοντα τὸν νόμον καὶ τοὺς προφήτας, "abolishing the law and the prophets"', cat='translation', refs=['23:2'], text='Present in this text, and in the Old Latin. καταλύω, to loosen down, dissolve, abolish. Kept apart from ἀπόλλυμι, "destroy" (4:34).'),
+ dict(term='ἀποστρέφοντα τὰς γυναῖκας καὶ τὰ τέκνα, "turning away the women and the children"', cat='translation', refs=['23:2'], text='Present in this text, and in the Old Latin. ἀποστρέφω, to turn away, lead astray.'),
+ dict(term='φόρους, "tributes"', cat='translation', refs=['23:2'], text='Plural, as at 20:22.'),
+ dict(term='χριστὸν βασιλέα, "the Anointed One, a king"', cat='translation', refs=['23:2'], text='Without articles in the Greek: "an anointed one, a king". The second word explains the first for a Roman.'),
+ dict(term='τῶν Ἰουδαίων, "of the Judeans"', cat='translation', refs=['23:3'], text='As at 7:3.'),
+ dict(term='Σὺ λέγεις, "you say it"', cat='translation', refs=['23:3'], text='As at 22:70: neither a plain yes nor a plain no.'),
+ dict(term='αἴτιον, "cause"', cat='translation', refs=['23:4'], text='A ground for a charge.'),
+ dict(term='ἐπίσχυον, "were insisting"', cat='translation', refs=['23:5'], text='To grow stronger, press harder.'),
+ dict(term='Ἀνασείει, "stirs up"', cat='translation', refs=['23:5'], text='To shake up, incite.'),
+ dict(term='ἐκ τῆς ἐξουσίας Ἡρῴδου, "from Herod\'s jurisdiction"', cat='translation', refs=['23:7'], text="ἐξουσία, here the area under Herod's authority."),
+ dict(term='ἀνέπεμψεν, "sent him up"', cat='translation', refs=['23:7'], text='To send up to a higher authority, or send back.'),
+ dict(term='ἐξ ἱκανῶν χρόνων, "for a long time"', cat='translation', refs=['23:8'], text='As at 8:27.'),
+ dict(term='σημεῖον, "sign"', cat='translation', refs=['23:8'], text='As at 11:16 and 11:29.'),
+ dict(term='εὐτόνως, "vehemently"', cat='translation', refs=['23:10'], text='With all their strength.'),
+ dict(term='ἐξουθενήσας, "treated him as nothing"', cat='translation', refs=['23:11'], text='As at 18:9.'),
+ dict(term='ἐμπαίξας, "having mocked"', cat='translation', refs=['23:11'], text='As at 22:63.'),
+ dict(term='ἐσθῆτα λαμπράν, "a bright garment"', cat='translation', refs=['23:11'], text='Shining, splendid clothing.'),
+ dict(term='Αἶρε τοῦτον, "take this man away"', cat='translation', refs=['23:18'], text='αἴρω, to lift, take away.'),
+ dict(term='ἀπόλυσον, "release"', cat='translation', refs=['23:18'], text='ἀπολύω, as at 6:37.'),
+ dict(term='Βαραββᾶν, "Barabbas"', cat='translation', refs=['23:18'], text='An Aramaic name, "son of the father".'),
+ dict(term='στάσιν, "uprising"', cat='translation', refs=['23:19'], text='A rebellion, revolt.'),
+ dict(term='φόνον, "murder"', cat='translation', refs=['23:19'], text='φόνος, as at 18:20.'),
+ dict(term='ἐπεφώνουν, "kept shouting"', cat='translation', refs=['23:21'], text='The imperfect.'),
+ dict(term='Σταύρου, "crucify"', cat='translation', refs=['23:21'], text='σταυρόω, to put on a stake or cross.'),
+ dict(term='παιδεύσας, "discipline"', cat='translation', refs=['23:22'], text='παιδεύω, to train a child, to punish, here to flog.'),
+ dict(term='ἐπέκειντο, "were pressing"', cat='translation', refs=['23:23'], text='To lie upon, press hard.'),
+ dict(term='κατίσχυον, "were prevailing"', cat='translation', refs=['23:23'], text='To have the upper hand.'),
+ dict(term='ἐπέκρινεν, "decided"', cat='translation', refs=['23:24'], text='To give a judgement, decree.'),
+ dict(term='παρέδωκεν τῷ θελήματι αὐτῶν, "handed over to their will"', cat='translation', refs=['23:25'], text='παραδίδωμι, as at 9:44; θέλημα, as at 22:42.'),
+ dict(term='κακοῦργοι, "evil-doers"', cat='translation', refs=['23:32'], text='Literally "those who do evil": criminals.'),
+ dict(term='ἀναιρεθῆναι, "to be done away with"', cat='translation', refs=['23:32'], text='As at 22:2.'),
+ dict(term='Κρανίον, "Skull"', cat='translation', refs=['23:33'], text='κρανίον, a skull: the Greek for the Aramaic Golgotha.'),
+ dict(term='ἐφ\' ὅλην τὴν γῆν, "over the whole land"', cat='translation', refs=['23:44'], text='γῆ, land and earth, as at 5:24.'),
+ dict(term='ὥρα ἕκτη… ἐνάτης, "the sixth hour… the ninth"', cat='translation', refs=['23:44'], text='Counted from sunrise: about noon to three in the afternoon.'),
+ dict(term='τοῦ ἡλίου ἐκλιπόντος, "the sun having failed"', cat='translation', refs=['23:45'], text='ἐκλείπω, to fail, give out, as at 16:9 and 22:32; used of an eclipse.'),
+ dict(term='τὸ καταπέτασμα τοῦ ναοῦ, "the curtain of the sanctuary"', cat='translation', refs=['23:45'], text='ναός, the inner sanctuary, as distinct from ἱερόν, the whole temple precinct.'),
+ dict(term='μέσον, "in the middle"', cat='translation', refs=['23:45'], text='Down the middle, as at 4:30.'),
+ dict(term='παρατίθεμαι, "I set"', cat='translation', refs=['23:46'], text='To place beside, entrust, deposit. Ps 31:5.'),
+ dict(term='ἐξέπνευσεν, "he breathed out"', cat='translation', refs=['23:46'], text="To breathe one's last: the breath (πνεῦμα) goes out."),
+ dict(term='βουλευτής, "a member of the council"', cat='translation', refs=['23:50'], text='A councillor.'),
+ dict(term='ἀγαθὸς καὶ δίκαιος, "good and just"', cat='translation', refs=['23:50'], text='ἀγαθός, as at 6:45; δίκαιος, as at 5:32.'),
+ dict(term='συγκατατεθειμένος, "agreed"', cat='translation', refs=['23:51'], text='To vote with, consent to.'),
+ dict(term='τῇ βουλῇ καὶ τῇ πράξει αὐτῶν, "their counsel and action"', cat='translation', refs=['23:51'], text='βουλή, plan, decision; πρᾶξις, deed.'),
+ dict(term='προσεδέχετο, "was waiting for"', cat='translation', refs=['23:51'], text='To wait for, expect, receive.'),
+ dict(term='σινδόνι, "linen"', cat='translation', refs=['23:53'], text='A linen cloth.'),
+ dict(term='ἐν μνήματι λαξευτῷ, "in a tomb cut in stone"', cat='translation', refs=['23:53'], text='Hewn out of rock.'),
+ dict(term='ἡμέρα… παρασκευῆς, "the day of preparation"', cat='translation', refs=['23:54'], text='The day before the sabbath.'),
+ dict(term='ἐπέφωσκεν, "was dawning"', cat='translation', refs=['23:54'], text='Was beginning to shine: the sabbath began at sunset.'),
+ dict(term='κατακολουθήσασαι, "following after"', cat='translation', refs=['23:55'], text='To follow behind closely.'),
+ dict(term='ἐθεάσαντο, "looked at"', cat='translation', refs=['23:55'], text='As at 7:24.'),
+ dict(term='ἀρώματα καὶ μύρα, "spices and perfumed oils"', cat='translation', refs=['23:56'], text='μύρον, as at 7:37.'),
+ dict(term='ἡσύχασαν, "they rested"', cat='translation', refs=['23:56'], text='To be quiet, keep still.'),
 ]
