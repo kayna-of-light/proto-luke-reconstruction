@@ -4,7 +4,7 @@ Step 3 of the reading (README §2). This file registers the places where the inn
 
 - For each gap, the requirement is stated from the certain text alone (README §1).
 - The unprinted passages at the same place are listed as positions only. Their content was not read for this register.
-- Whether the earlier text had more at these places is a later question, not answered here.
+- Whether the earlier text had more at these places is a later question, not answered here. The tests and proposals are in `decisions.md`.
 
 Strength:
 - **strong**: the certain text itself establishes what is missing;
