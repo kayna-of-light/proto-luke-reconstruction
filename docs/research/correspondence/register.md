@@ -151,8 +151,8 @@ These are the doubts about the text before Marcion. Decisions are in `decisions.
 | 11:2 | "may your holy spirit come" | "hallowed be your name" | the printed form is answered by 11:13; the canonical stands without strain |
 | 16:17 | "my words" | "the law" | the printed form matches 21:33; the canonical matches 16:29–31 |
 | 8:21 | question form | statement | both run with 11:27–28 |
-| 11:29 | no sign at all | "except the sign of Jonah" | the printed form matches 23:8–9 |
-| 24:25 | "all that he spoke to you" | "all that the prophets have spoken" | the printed form matches 24:6 and 9:22, 9:44, 17:25; the canonical matches 16:29–31 |
+| 11:29 | no sign at all | "except the sign of Jonah" | the printed form matches 23:8–9; the canonical clause points to 11:30–32, which is attested absent (`decisions.md`) |
+| 24:25 | "all that he spoke to you" | "all that the prophets have spoken" | the printed form matches 24:6 and 9:22, 9:44, 17:25; the canonical form leads into 24:27 and 24:44–46, which are probably absent (`decisions.md`) |
 | 23:2 | two further charges | without them | either way they are false charges against the story |
 | 22:3 | no foreign power enters Judas | "Satan entered into Judas" | both run |
 | 9:22 | "after three days" | "on the third day" | a difference of wording, not inner |
