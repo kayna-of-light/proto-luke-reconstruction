@@ -63,13 +63,52 @@ Roth's classification is recorded beside ours. His "unattested" covers both `U�
 
 ## 6. Translation
 
-English translates the reconstructed Greek. Terminology follows CLAUDE.md:
-- "Jesus", not "the Messenger";
-- lowercase "messenger(s)" for ἄγγελος only when the context means human or angelic messengers;
-- "the Living One" for ὁ ζῶν;
-- no Pauline "spiritual body" language.
+The English translates the reconstructed Greek as printed, including the adopted Marcionite readings. It is made from the Greek, not revised from an existing English version.
 
-The translation does not import the commentary: no interpretive glosses inside the text.
+**Principles**
+- **Say what the Greek says.** A word is not softened or exchanged for the familiar church word: δοῦλος is "slave", ἄγγελος is "messenger".
+- **Meaning in use, not etymology.** Where the root says more than the word meant at the time, a note can say so; the translation does not build on it.
+- **No theology by typography.** Greek has no capitals. "God" and "the Father" are capitalised, as is "the Lord" where κύριος stands for the divine name. Titles are not (the son of God, the holy one of God, lord said to Jesus).
+- **Different Greek words are kept apart** as far as English allows. Where it does not, a translation note names the Greek word.
+- **Grammar the English would hide is kept** where it can be: plurals (sabbaths, heavens), continuing imperfects, passives that name no agent, shifts of person and number.
+- **No interpretation in the text.** It follows no doctrine and not the project's own correspondential reading. Translation notes explain the choice of words, not the meaning of the passage. A fixed rendering is noted where it first occurs; later notes are given only for choices particular to the passage.
+
+**Fixed renderings**
+
+| Greek | English |
+|---|---|
+| ἄγγελος | messenger |
+| δοῦλος; παῖς; οἰκέτης; μίσθιος; ὑπηρέτης; διακονέω | slave; boy (child, young slave); household slave; hired worker; attendant; serve |
+| δαιμόνιον; σατανᾶς; διάβολος | daimon; Satan (kept untranslated, as in the Greek); the slanderer |
+| ἀμήν | Amen (kept untranslated, as in the Greek) |
+| βασιλεία | kingdom (royal rule as much as realm) |
+| ἁμαρτία; ἁμαρτωλός | sin; sinner |
+| ἀφίημι (sins, debts); ἄφεσις; ἀπολύω | let go; release; release |
+| μετάνοια; μετανοέω | change of mind; change one's mind |
+| πίστις; πιστεύω; πιστός | trust; trust (believe, where a content follows); trustworthy |
+| σῴζω | save (rescue, make well) |
+| μαθητής; ἀπόστολος | learner; emissary |
+| κύριος | lord, master; "the Lord" for the divine name |
+| ὁ χριστός | the Anointed One |
+| ὁ υἱὸς τοῦ ἀνθρώπου; ἄνθρωπος; ἀνήρ | the son of the human; human, person; man, husband |
+| ψυχή | soul (the living self) |
+| αἰών; ζωὴ αἰώνιος | age; life of the age |
+| μακάριος; εὐλογέω | fortunate; bless |
+| πτωχός | destitute |
+| δίκαιος | just |
+| χάρις | favour |
+| εὐαγγελίζομαι; κηρύσσω | announce good news; proclaim |
+| συναγωγή | assembly |
+| ὑποκριτής | play-actor |
+| πνεῦμα (ἅγιον) | spirit (holy spirit), lower case |
+| ἀνίστημι; ἐγείρω; ἀνάστασις | stand up, rise; raise, get up; rising |
+| θεραπεύω; ἰάομαι | heal; cure |
+| προσκυνέω | bow down before |
+| ὁ ζῶν | the Living One |
+| Ἰάκωβος | Jacob (the Greek is the patriarch's name; "James" is a later Latin form) |
+| γέεννα; ᾅδης | Gehenna; Hades |
+
+The terminology of CLAUDE.md applies: "Jesus", never "the Messenger"; no Pauline "spiritual body" language.
 
 ## 7. Notes
 
