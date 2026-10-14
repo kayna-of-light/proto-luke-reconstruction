@@ -25,7 +25,7 @@ ENTRIES = [
    western='"Of the Lord Jesus" is lacking in D and the Old Latin (a Western non-interpolation).'),
  A('24:4', G('24:4'), 'And it happened, while they were at a loss about this, that look, two men stood by them in flashing clothing.',
    'present (Marc. 4.43.2; Pan. 42.11.6, sch. 76)', [T432, E76],
-   wording=('NA27. Tertullian\'s "two angels" names the two men; Epiphanius introduces his quotation with "those in shining clothing" (ἐν ἐσθῆτι λαμπρᾷ). That introduction is his own summary (Roth); "dazzling" (ἀστραπτούσῃ) and "shining" (λαμπρᾷ) are both possible only. Not adopted.')),
+   wording=('NA27. Tertullian\'s "two messengers" names the two men; Epiphanius introduces his quotation with "those in shining clothing" (ἐν ἐσθῆτι λαμπρᾷ). That introduction is his own summary (Roth); "dazzling" (ἀστραπτούσῃ) and "shining" (λαμπρᾷ) are both possible only. Not adopted.')),
  A('24:5', G('24:5'), 'And as they became afraid and bowed their faces to the ground, they said to them, "Why do you seek the Living One among the dead?',
    'present (Pan. 42.11.6, sch. 76)', [E76], wording='NA27. Epiphanius quotes the question; Roth: secure.'),
  A('24:6', G('24:6', [('οὐκ ἔστιν ὧδε, ἀλλὰ ἠγέρθη. μνήσθητε ὡς ἐλάλησεν', 'ἠγέρθη. μνήσθητε ὅσα ἐλάλησεν')]),
@@ -41,7 +41,7 @@ ENTRIES = [
  U('24:8', G('24:8'), 'And they remembered his sayings,', 'Inside the attested paragraph 24:1–8.'),
  A('24:9', G('24:9'), 'and returning from the tomb, they reported all these things to the eleven and to all the rest.',
    'present (Marc. 4.43.2)', [T432],
-   wording='NA27. Tertullian attests "returning from the tomb" and the report; Roth: very likely. The recipients are not named by him ("the disciples" in 4.43.3 refers to their unbelief, 24:11), so NA27 is printed.',
+   wording='NA27. Tertullian attests "returning from the tomb" and the report; Roth: very likely. The recipients are not named by him ("the learners" in 4.43.3 refers to their unbelief, 24:11), so NA27 is printed.',
    western='"From the tomb" is lacking in D and the Old Latin; this text had it.'),
  U('24:10', G('24:10'), 'And they were Mary the Magdalene, and Joanna, and Mary the mother of Jacob, and the other women with them. They were saying these things to the emissaries.', 'Inside the attested paragraph 24:9–12.'),
  A('24:11', G('24:11'), 'And these sayings appeared before them like idle talk, and they did not trust them.',
@@ -59,12 +59,12 @@ ENTRIES = [
    'present (Pan. 42.11.6, sch. 77)', [E77], wording='NA27. Epiphanius names Cleopas ("to Cleopas and the other").'),
  A('24:19', G('24:19'), 'And he said to them, "What things?" And they said to him, "The things about Jesus the Nazarene, who was a man, a prophet, powerful in deed and word before God and all the people,',
    'present for 24:19a (Marc. 4.43.3); 24:19b unattested', [T433],
-   wording='NA27. Tertullian attests that Jesus asked as if he did not know ("etiam dissimulans"). 19b ("a prophet, powerful in deed and word before God and all the people") is not cited by either witness. Class of 19b: U? (METHOD §3). Tertullian works through the passage in order (4.43.3–5): he paraphrases 24:15–19a and quotes 24:21, "we thought that he was the redeemer of Israel", arguing that Jesus would not have let the disciples hold an opinion of him that was false (4.43.4). The description of 19b would fit that argument, as the crowd\'s "a great prophet" does at 7:16 (4.18.3), but he had the stronger words of 24:21 and used them; his passing over 19b (and 24:20) is not the silence of a witness who needed the passage, so the U− test is not met. Epiphanius (sch. 77) does not touch 24:19–20. No witness reports the words missing, so they stay in the text (METHOD §5.3).'),
+   wording='NA27. Tertullian attests that Jesus asked as if he did not know ("etiam dissimulans"). 19b ("a prophet, powerful in deed and word before God and all the people") is not cited by either witness. Class of 19b: U? (METHOD §3). Tertullian works through the passage in order (4.43.3–5): he paraphrases 24:15–19a and quotes 24:21, "we thought that he was the redeemer of Israel", arguing that Jesus would not have let the learners hold an opinion of him that was false (4.43.4). The description of 19b would fit that argument, as the crowd\'s "a great prophet" does at 7:16 (4.18.3), but he had the stronger words of 24:21 and used them; his passing over 19b (and 24:20) is not the silence of a witness who needed the passage, so the U− test is not met. Epiphanius (sch. 77) does not touch 24:19–20. No witness reports the words missing, so they stay in the text (METHOD §5.3).'),
  U('24:20', G('24:20'), 'and how our high priests and rulers handed him over to a sentence of death, and crucified him.', 'Inside the attested paragraph 24:13–27.'),
  A('24:21', G('24:21', [('ἡμεῖς δὲ ἠλπίζομεν', 'ἡμεῖς δὲ ἐνομίζομεν')]),
    'But we thought that he is the one who was about to release Israel by ransom. But besides all these things, this is the third day since these things happened.',
    'present for 24:21a (Marc. 4.43.3); 24:21b unattested', [T433, T('4.43.4–5', '"Ceterum non existimarent eum creatoris… nec post resurrectionem alium se eis ostendit quam quem existimatum sibi dixerant… quod existimaverant, id volens credi se, eum se confirmabat quem existimaverant…"')],
-   wording=('Marcionite reading adopted (retroversion): "we thought" (ἐνομίζομεν, Tertullian "putabamus") for NA27 "we hoped" (ἠλπίζομεν). The Latin cannot render "hoped", and Tertullian builds 4.43.4–5 on what the disciples "thought" (existimare, five times). ἐνομίζομεν is also the reading of the Arabic and Persian Diatessaron and Ambrosiaster (Roth, citing IGNTP). Roth rates the verb possible only; this is a departure. '
+   wording=('Marcionite reading adopted (retroversion): "we thought" (ἐνομίζομεν, Tertullian "putabamus") for NA27 "we hoped" (ἠλπίζομεν). The Latin cannot render "hoped", and Tertullian builds 4.43.4–5 on what the learners "thought" (existimare, five times). ἐνομίζομεν is also the reading of the Arabic and Persian Diatessaron and Ambrosiaster (Roth, citing IGNTP). Roth rates the verb possible only; this is a departure. '
             'Tertullian\'s "redeemer of Israel" can render "the one about to redeem Israel" and is probably his own noun (Roth, citing Lukas); NA27 is printed. 21b is unattested.')),
  U('24:22', G('24:22'), 'But also some women from among us put us beside ourselves; having been at the tomb at dawn,', 'Inside the attested paragraph 24:13–27.'),
  U('24:23', G('24:23'), 'and not finding his body, they came, saying that they had even seen a vision of messengers, who say that he lives."', 'Inside the attested paragraph 24:13–27.'),
@@ -137,19 +137,19 @@ OMITTED = [
 PREAMBLE = (
  "The Living One. At early dawn the women come to the tomb with spices and do not find the body. Two men in dazzling clothing "
  "say to them: \"Why do you seek the Living One among the dead? He has been raised. Remember all that he spoke to you while he was "
- "still in Galilee.\" The women report it, and the disciples do not believe them. On the road to Emmaus Jesus joins two of them, "
+ "still in Galilee.\" The women report it, and the learners do not believe them. On the road to Emmaus Jesus joins two of them, "
  "Cleopas and another, who do not recognize him. They say: \"We thought that he is the one who was about to release Israel by ransom.\" He answers: "
  "\"O you without understanding and slow of heart to trust in all that he spoke to you!\" At table he breaks the bread, and their eyes are "
- "opened. Then he stands among the disciples. They are afraid and think they see a spirit. He says: \"See my hands and my feet, "
+ "opened. Then he stands among the learners. They are afraid and think they see a spirit. He says: \"See my hands and my feet, "
  "that I am he myself; because a spirit does not have bones, as you see me having.\" He asks for food. He sends them to proclaim "
- "repentance for the forgiveness of sins in his name to all the nations. No witness cites the text beyond this point."
+ "a change of mind for release of sins upon his name to all the nations. No witness cites the text beyond this point."
 )
 
 NOTES = [
  dict(term='At the tomb (24:1–11)', cat='textual', refs=['24:1', '24:3', '24:4', '24:5', '24:6', '24:7', '24:9', '24:11'], text=(
-  "Tertullian (4.43.1–5) follows the women who came \"before light\" with spices, the body not found, the two \"angels\", the "
-  "women's return \"from the tomb\" and the disciples' persisting unbelief; he quotes the words of the two men: \"Remember all that "
-  "he told you in Galilee, that the son of man must be delivered and crucified and on the third day rise.\" Epiphanius (sch. 76) "
+  "Tertullian (4.43.1–5) follows the women who came \"before light\" with spices, the body not found, the two \"messengers\", the "
+  "women's return \"from the tomb\" and the learners' persisting unbelief; he quotes the words of the two men: \"Remember all that "
+  "he told you in Galilee, that the son of the human must be delivered and crucified and on the third day rise.\" Epiphanius (sch. 76) "
   "quotes \"Why do you seek the Living One among the dead? He has been raised. Remember all that he spoke to you while he was still "
   "with you.\" Two readings of this text are printed in 24:6: \"all that\" (ὅσα, both witnesses) and \"he has been raised\" "
   "without \"he is not here, but\" (Epiphanius, against his own habit of citation). \"Of the Lord Jesus\" (24:3) and \"into the "
@@ -162,7 +162,7 @@ NOTES = [
   "suffer these things?\" and the opening of their eyes when he broke the bread. Both witnesses agree that the rebuke was "
   "about Jesus' own words, not about the prophets. Tertullian's \"we thought\" and \"he spoke to you\" are printed. \"A prophet, "
   "powerful in deed and word\" (24:19b) is not cited by either witness; it stands in the text as part of an attested verse.")),
- dict(term='The appearance to the disciples (24:36–43)', cat='textual', refs=['24:36', '24:37', '24:38', '24:39', '24:40', '24:41', '24:42', '24:43'], text=(
+ dict(term='The appearance to the learners (24:36–43)', cat='textual', refs=['24:36', '24:37', '24:38', '24:39', '24:40', '24:41', '24:42', '24:43'], text=(
   "Tertullian (4.43.6–8) quotes: \"Why are you troubled, and why do thoughts arise in your hearts? See my hands and my feet, "
   "that it is I myself, for a spirit does not have bones as you see me having\", and adds that Jesus asked for food \"to show "
   "that he had teeth\". Epiphanius (sch. 78) quotes the same verse with \"bones\" only. In this text there is no \"handle me and "
@@ -179,13 +179,13 @@ NOTES = [
   "cites them, and they are classed probably absent. The return to Jerusalem and the appearance to Simon (24:33–35) form a "
   "paragraph with no attested verse. Nothing after 24:47 is cited.")),
  dict(term='The ending', cat='textual', refs=['24:47'], text=(
-  "Tertullian ends his commentary on the gospel with Jesus \"sending the apostles to preach to all the nations\" (4.43.9). "
+  "Tertullian ends his commentary on the gospel with Jesus \"sending the emissaries to preach to all the nations\" (4.43.9). "
   "Whether the text went on, and how (the parting at Bethany, 24:50–51, or an ending like Acts 1:8–11), is not attested; the "
   "text is printed to the last attested verse. In canonical Luke 24:47 is governed by \"thus it is written\" (24:46); the "
   "words that introduced it in this text are not known.")),
  dict(term='The Living One', cat='theological', refs=['24:5', '24:6', '24:25', '24:31', '24:39', '24:41'], text=(
   "Interpretation. Three layers are kept apart. (a) Text: the two men at the tomb call Jesus \"the Living One\" and say \"he has been "
-  "raised\"; the disciples recognize him in the breaking of the bread; he answers their fear of a spirit by showing hands and "
+  "raised\"; the learners recognize him in the breaking of the bread; he answers their fear of a spirit by showing hands and "
   "feet and saying that a spirit does not have bones \"as you see me having\"; he asks for food; he sends them to all the "
   "nations; the rebuke on the road is about believing his own words. (b) Canonical Luke has in addition the touch and the "
   "flesh (24:39), Peter at the tomb and the appearance to Simon (24:12, 24, 34), and the proof from Moses, the prophets and the "

@@ -12,7 +12,7 @@ T399 = T('4.39.9', '"signa iam ultimi finis enarrat, solis et lunae siderumque p
 ENTRIES = [
  A('21:7', G('21:7'), 'And they asked him, saying, "Teacher, when then will these things be, and what is the sign when these things are about to happen?"',
    'present (Marc. 4.39.13)', [T('4.39.13', '"Ipsum decursum scripturae evangelicae ab interrogatione discipulorum usque ad parabolam fici…"')],
-   wording='NA27. Tertullian attests the disciples\' question, not its wording; Roth rates "the disciples" as subject possible only (NA27: οἱ μαθηταί added by D). In this text "these things" has no antecedent, since 21:5–6, the prediction about the temple stones, are not printed.'),
+   wording='NA27. Tertullian attests the learners\' question, not its wording; Roth rates "the learners" as subject possible only (NA27: οἱ μαθηταί added by D). In this text "these things" has no antecedent, since 21:5–6, the prediction about the temple stones, are not printed.'),
  A('21:8', G('21:8'), 'And he said, "Look out that you are not led astray; for many will come upon my name, saying, \'I am,\' and, \'The time has come near.\' Do not journey after them.',
    'present (Marc. 4.39.1–2)', [T('4.39.1', '"…qui multos dicat venturos in nomine ipsius… amplius et prohibeat eos recipi…"'), T('4.39.2', '"Venient denique illi dicentes, Ego sum Christus."')],
    wording='NA27. Tertullian\'s "I am the Christ" is Matthew\'s wording (Matt 24:5); Roth: possible only.'),
@@ -84,7 +84,7 @@ OMITTED = [
  dict(ref='21:1–4', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='The widow\'s two coins: a separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 20:44 (4.38.10) to 21:8 (4.39.1).')),
  dict(ref='21:5–6', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason='The temple\'s stones that will be thrown down: a separate NA27 paragraph with no attested verse. Tertullian\'s survey of the discourse begins "from the disciples\' question" (21:7; 4.39.13).')),
+      reason='The temple\'s stones that will be thrown down: a separate NA27 paragraph with no attested verse. Tertullian\'s survey of the discourse begins "from the learners\' question" (21:7; 4.39.13).')),
  dict(ref='21:18', cls='A−', app=dict(roth='absent', witnesses=[
       E(58, 'πάλιν παρέκοψε τὸ »θρὶξ ἐκ τῆς κεφαλῆς ὑμῶν οὐ μὴ ἀπόληται«.')],
       decision='not printed', reason='Epiphanius states that the text lacked "not a hair of your head will perish"; NA27 cites the omission for Marcion (McionE), with syc. Tertullian goes from 21:17 to 21:19 (4.39.8).')),
@@ -94,11 +94,11 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The signs of the end. The disciples ask when these things will be. Jesus warns them against those who will come in his "
+ "The signs of the end. The learners ask when these things will be. Jesus warns them against those who will come in his "
  "name, and speaks of wars, earthquakes, famines, terrors and signs from heaven, and of persecution before kings and "
  "governors, \"for the sake of my name\". He tells them not to prepare their defence, for he will give them wisdom, and that by "
  "endurance they will gain their lives. He speaks of Jerusalem surrounded by armies, of signs in sun, moon and stars, and of "
- "the son of man \"coming from the heavens with much power\" (Tertullian, Marc. 4.39.10). When these things begin, they are "
+ "the son of the human \"coming from the heavens with much power\" (Tertullian, Marc. 4.39.10). When these things begin, they are "
  "to lift up their heads, for their redemption is near; the fig tree shows that the kingdom of God is near. He warns them "
  "against dissipation and the cares of life. By day he teaches in the temple and by night he lodges on the Mount of Olives. "
  "Two sayings are absent, by Epiphanius' statement: \"not a hair of your head will perish\" (21:18) and the flight from Judea "
@@ -109,17 +109,17 @@ NOTES = [
  dict(term='Not printed: 21:1–6', cat='excision', refs=['21:7'], text=(
   "The widow's two coins (21:1–4) and the prediction that not one stone of the temple will be left on another (21:5–6) are not "
   "cited by any witness. Each is a separate NA27 paragraph, and they are not printed. Tertullian describes the discourse as "
-  "running \"from the disciples' question to the parable of the fig tree\" (4.39.13), so his account begins at 21:7.")),
+  "running \"from the learners' question to the parable of the fig tree\" (4.39.13), so his account begins at 21:7.")),
  dict(term='Signs and persecutions (21:7–19)', cat='textual', refs=['21:8', '21:9', '21:10', '21:11', '21:12', '21:14', '21:15', '21:17', '21:19'], text=(
   "Tertullian, Marc. 4.39.1–8 goes through the discourse in order. Those who \"come upon my name\" use a name that belongs to "
   "the Creator's Christ. The wars, famines, earthquakes and portents \"must take place\". The persecutions come \"before these "
-  "things\". The disciples are not to think beforehand what to answer before tribunals: "
+  "things\". The learners are not to think beforehand what to answer before tribunals: "
   "for Tertullian, the one who forbids it is the one who gave Balaam words he had not thought of and promised Moses a mouth. "
   "\"By endurance you will save yourselves.\" Epiphanius states that the text lacked 21:18, \"not a hair of your head will "
   "perish\" (sch. 58).")),
  dict(term='Jerusalem and the end (21:20–28)', cat='textual', refs=['21:20', '21:23', '21:25', '21:26', '21:27', '21:28'], text=(
   "Tertullian (4.39.9–12): when Jerusalem begins to be surrounded by armies (\"vallari exercitibus Hierusalem\"), the signs of the end follow, in sun, moon and "
-  "stars, nations in anguish \"as at the roar of the sea\", the powers of heaven shaken. \"And then they will see the son of man "
+  "stars, nations in anguish \"as at the roar of the sea\", the powers of heaven shaken. \"And then they will see the son of the human "
   "coming from the heavens with much power\". Then come \"lift up your heads, for your release is drawing near\". The "
   "reading \"from the heavens with much power\" is printed for canonical Luke's \"in a cloud with power and great glory\". "
   "Epiphanius states that the text lacked the flight of those in Judea to the mountains and \"until all that is written is "
@@ -127,14 +127,14 @@ NOTES = [
   "21:23–24 are not cited and are printed in grey.")),
  dict(term='The fig tree and watchfulness (21:29–38)', cat='textual', refs=['21:29', '21:31', '21:32', '21:33', '21:34', '21:35', '21:37'], text=(
   "Tertullian, Marc. 4.39.16–19: the fig tree that bears fruit is a sign of summer, as the troubles of the world are a sign of "
-  "the kingdom. \"The sky and the earth will pass away\" and the Lord's word remains (he cites Isa 40:8). The disciples are warned "
+  "the kingdom. \"The sky and the earth will pass away\" and the Lord's word remains (he cites Isa 40:8). The learners are warned "
   "against heaviness of heart \"with dissipation, drunkenness and worldly cares\", lest the day come on them \"like a snare\". "
   "Jesus taught by day in the temple and withdrew at night to the Mount of Olives. 21:36 is not cited and is printed in grey.")),
  dict(term='The coming from the heavens', cat='theological', refs=['21:27', '21:28', '21:31'], text=(
-  "Interpretation. In this text the son of man comes \"from the heavens with much power\", without the cloud and the "
+  "Interpretation. In this text the son of the human comes \"from the heavens with much power\", without the cloud and the "
   "\"glory\" of canonical Luke. The redemption drawing near is set beside \"the kingdom of God is near\" (21:31), and the "
   "warning is against the heaviness of a heart taken up with drink and worldly cares. Tertullian's argument is that the "
-  "terrors and the promises belong to one son of man and cannot be separated (4.39.13–15). The text keeps the coming and the "
+  "terrors and the promises belong to one son of the human and cannot be separated (4.39.13–15). The text keeps the coming and the "
   "call to watchfulness in one discourse.")),
  dict(term='οὖν, "then"', cat='translation', refs=['21:7'], text='The word joins the question to what came before.'),
  dict(term='Βλέπετε μὴ πλανηθῆτε, "look out that you are not led astray"', cat='translation', refs=['21:8'], text='πλανάω, to lead astray, cause to wander.'),

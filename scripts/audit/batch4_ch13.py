@@ -28,7 +28,7 @@ ENTRIES = [
    'present (Marc. 4.32.1)', [T('4.32.1', '"is invenit qui quaesivit, is exultavit qui invenit".')]),
  A('15:10', G('15:10'), 'In the same way, I tell you, there comes to be joy before the messengers of God over one sinner who changes his mind."',
    'present (Marc. 4.32.2)', [T('4.32.2', '"exultare illius est de paenitentia peccatoris".')],
-   wording='NA27. Roth notes that "the angels of" may not have been present; no witness states it. Printed.'),
+   wording='NA27. Roth notes that "the messengers of" may not have been present; no witness states it. Printed.'),
 ]
 
 OMITTED = [
@@ -40,7 +40,7 @@ OMITTED = [
 PREAMBLE = (
  "The lost found. Tax collectors and sinners come to listen to Jesus, and the Pharisees complain that he eats with them. He "
  "answers with two parables: a man who leaves the ninety-nine sheep to look for the one that is lost, and a woman who sweeps "
- "the house for a lost coin. Each rejoices with friends at finding it, and so there is joy over one sinner who repents. "
+ "the house for a lost coin. Each rejoices with friends at finding it, and so there is joy over one sinner who changes his mind. "
  "Tertullian's point is that only the one who owned what was lost could look for it (Marc. 4.32). The parable of the two sons "
  "(15:11–32) is not in this text: Epiphanius states that \"the whole parable of the two sons\" was absent."
 )

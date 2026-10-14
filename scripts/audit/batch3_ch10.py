@@ -30,11 +30,11 @@ ENTRIES = [
    'present (Marc. 4.28.4; Pan. 42.11.6, sch. 30)',
    [E(30, 'ἀντὶ τοῦ »ὁμολογήσει ἐνώπιον τῶν ἀγγέλων τοῦ θεοῦ« »ἐνώπιον τοῦ θεοῦ« λέγει.'),
     T('4.28.4', '"Dico enim vobis, omnis qui confitebitur in me coram hominibus, confitebor in illo coram deo."')],
-   wording='Marcionite reading adopted: "before God" without "the angels of" (both witnesses; Roth: secure). NA27 apparatus: □ τῶν ἀγγέλων bis ℵ*; McionT,(E). Tertullian\'s first person "I will acknowledge" is Matthew\'s wording (Matt 10:32), which he uses elsewhere; Roth: possible only. NA27\'s ἔμπροσθεν is kept (Epiphanius\' ἐνώπιον may be his own).'),
+   wording='Marcionite reading adopted: "before God" without "the messengers of" (both witnesses; Roth: secure). NA27 apparatus: □ τῶν ἀγγέλων bis ℵ*; McionT,(E). Tertullian\'s first person "I will acknowledge" is Matthew\'s wording (Matt 10:32), which he uses elsewhere; Roth: possible only. NA27\'s ἔμπροσθεν is kept (Epiphanius\' ἐνώπιον may be his own).'),
  A('12:9', G('12:9', [('ἐνώπιον τῶν ἀγγέλων τοῦ θεοῦ', 'ἐνώπιον τοῦ θεοῦ')]),
    'but the one who disowns me before the humans will be disowned before God.',
    'present (Marc. 4.28.4)', [T('4.28.4', '"Et omnis qui negaverit me coram hominibus, denegabitur coram deo."')],
-   wording='Marcionite reading adopted: "before God" without "the angels of", as in 12:8 (Roth: secure; NA27 cites McionT for the omission in both verses). The two citations in the Dialogue of Adamantius give Matthew 10:33 and are no evidence here (Roth).'),
+   wording='Marcionite reading adopted: "before God" without "the messengers of", as in 12:8 (Roth: secure; NA27 cites McionT for the omission in both verses). The two citations in the Dialogue of Adamantius give Matthew 10:33 and are no evidence here (Roth).'),
  A('12:10', G('12:10'), 'And everyone who will speak a word against the son of the human, it will be let go for him; but for the one who has blasphemed against the holy spirit, it will not be let go.',
    'present (Marc. 4.28.6)', [T('4.28.6', '"Qui dixerit in filium hominis, remittetur illi, qui autem dixerit in spiritum sanctum, non remittetur ei."')],
    wording='NA27. Tertullian has the same verb in both halves ("whoever speaks against the holy spirit"); Roth rates that form probable only. Not adopted.'),
@@ -178,13 +178,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Fear and trust. Jesus warns his disciples against the leaven of the Pharisees and tells them not to fear those who can "
+ "Fear and trust. Jesus warns his learners against the leaven of the Pharisees and tells them not to fear those who can "
  "only kill the body, but the one who has authority to throw into Gehenna. Whoever acknowledges him will be acknowledged "
- "\"before God\" (this text has no angels in 12:8–9), and the holy spirit will teach them what to say. He refuses to divide "
+ "\"before God\" (this text has no messengers in 12:8–9), and the holy spirit will teach them what to say. He refuses to divide "
  "an inheritance and tells of the rich fool. He tells them not to worry about food and clothing, but to seek the kingdom of "
- "God, which \"the Father\" is pleased to give them. Then come the parables of watchfulness: servants waiting for their "
+ "God, which \"the Father\" is pleased to give them. Then come the parables of watchfulness: slaves waiting for their "
  "master to return from a wedding \"in the evening watch\", the thief, and the steward. He has come to throw fire upon the earth "
- "and to bring division, and he calls the crowds hypocrites who read the face of heaven and earth but not the present time. "
+ "and to bring division, and he calls the crowds play-actors who read the face of heaven and earth but not the present time. "
  "The five sparrows (12:6), which Epiphanius says the text lacked, and the saying on God clothing the grass (12:28a) are not "
  "printed."
 )
@@ -195,8 +195,8 @@ NOTES = [
   "known, \"do not fear those who can only kill\", \"fear him who after killing has power to throw into Gehenna\", which he says "
   "means the Creator, acknowledging and denying \"before God\", the sin against the holy spirit, and the spirit teaching in that "
   "hour. Epiphanius, sch. 29–30 quotes 12:4–5 in Greek (\"to throw into Gehenna\", βαλεῖν εἰς γέενναν) and states that the text "
-  "had \"before God\" where canonical Luke has \"before the angels of God\". Both are printed. NA27 cites Marcion for the "
-  "omission of \"the angels of\" in both 12:8 and 12:9.")),
+  "had \"before God\" where canonical Luke has \"before the messengers of God\". Both are printed. NA27 cites Marcion for the "
+  "omission of \"the messengers of\" in both 12:8 and 12:9.")),
  dict(term='Not printed: the sparrows (12:6–7)', cat='excision', refs=['12:5', '12:8'], text=(
   "Epiphanius, sch. 29: the text \"did not have 'Are not five sparrows sold for two pennies? And not one of them is forgotten "
   "before God'\". In his refutation he presses Marcion with it: \"nothing happens without God, even if you take away what is "
@@ -217,7 +217,7 @@ NOTES = [
   "your possessions\") form a paragraph that no witness cites and are not printed.")),
  dict(term='Watchfulness (12:35–48)', cat='textual', refs=['12:35', '12:36', '12:38', '12:39', '12:40', '12:41', '12:46', '12:47'], text=(
   "Tertullian, Marc. 4.29.6–11 reads the girded loins and burning lamps as the life of faith, asks from whose wedding the "
-  "master returns, and says that the thief is the devil, while the son of man comes as judge. He takes Peter's question to "
+  "master returns, and says that the thief is the devil, while the son of the human comes as judge. He takes Peter's question to "
   "mean that the parable of the stewards is addressed to those \"who would preside over the churches\". Epiphanius, sch. 35 "
   "states that the master comes \"in the evening watch\", as in D and the Old Latin, not \"in the second or third watch\"; that "
   "reading is printed. Sch. 36 quotes 12:46. Tertullian reports that the Marcionites read \"cut him in two\" as mere "
@@ -229,7 +229,7 @@ NOTES = [
   "manuscript of Luke reads \"division\". He paraphrases 12:56 with \"heaven and earth\", the order of 𝔓45, 𝔓75 and D, which is "
   "printed. Epiphanius, sch. 37 quotes 12:58b. 12:50, 12:52 and 12:54–55 are not cited and are printed in grey.")),
  dict(term='The Father who gives', cat='theological', refs=['12:12', '12:30', '12:31', '12:32'], text=(
-  "Interpretation. In this text the Father knows what the disciples need, gives them the kingdom, and the holy spirit teaches "
+  "Interpretation. In this text the Father knows what the learners need, gives them the kingdom, and the holy spirit teaches "
   "them what to say. Tertullian's argument through 4.28–4.29 is that the God who provides food and clothing and judges is one "
   "and the same. The text as attested does not separate a providing God from a judging one. It speaks of the Father who gives "
   "and of the one to be feared who can cast into Gehenna (12:5), and Tertullian identifies them. Whether the community behind "

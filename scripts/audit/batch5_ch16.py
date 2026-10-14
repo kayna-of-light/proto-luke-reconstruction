@@ -108,7 +108,7 @@ OMITTED = [
       reason='The camel and the needle, and the reward of those who left everything: a separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 18:23 (4.36.5) to 18:35 (4.36.8–9). The Dialogue of Adamantius refers to 18:24–30, but not from Marcion\'s text (Harnack, Roth).')),
  dict(ref='18:31–33', cls='A−', app=dict(roth='absent', witnesses=[
       E(52, 'παρέκοψε τὸ »παραλαβὼν τοὺς δώδεκα ἔλεγεν· ἰδού, ἀναβαίνομεν εἰς Ἱεροσόλυμα καὶ τελεσθήσεται πάντα τὰ γεγραμμένα ἐν τοῖς προφήταις περὶ τοῦ υἱοῦ τοῦ ἀνθρώπου. παραδοθήσεται γὰρ καὶ ἀποκτανθήσεται καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστήσεται«· ὅλα ταῦτα παρέκοψε.')],
-      decision='not printed', reason='Epiphanius states that the whole third prediction of the passion, with "everything written by the prophets about the son of man will be fulfilled", was not in the text. Tertullian passes from 18:23 to 18:35; Roth counts his silence as confirmation (tacitus). The prediction "by the prophets" would have been Tertullian\'s proof that Christ fulfilled the Creator\'s prophecies.')),
+      decision='not printed', reason='Epiphanius states that the whole third prediction of the passion, with "everything written by the prophets about the son of the human will be fulfilled", was not in the text. Tertullian passes from 18:23 to 18:35; Roth counts his silence as confirmation (tacitus). The prediction "by the prophets" would have been Tertullian\'s proof that Christ fulfilled the Creator\'s prophecies.')),
  dict(ref='18:34', cls='U−', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='"But they understood none of these things; this saying was hidden from them." It refers to the prediction in 18:31–33, which Epiphanius says the text lacked, and closes the same NA27 paragraph.')),
 ]
@@ -118,7 +118,7 @@ PREAMBLE = (
  "will give justice to his chosen ones who cry to him day and night. He tells of a Pharisee and a tax collector praying in "
  "temple, and of the one who went home justified. A ruler asks what he must do to inherit life of the age. Jesus answers, "
  "\"No one is good except one, God,\" and lists the commandments in the order \"do not murder, do not "
- "commit adultery\". He then tells the man: \"One thing you lack: sell all that you have and give to the poor… and come, "
+ "commit adultery\". He then tells the man: \"One thing you lack: sell all that you have and give to the destitute… and come, "
  "follow me.\" Near Jericho a blind man calls him \"Jesus, son of David\" and is healed. The third prediction of the passion, "
  "with its appeal to \"everything written by the prophets\" (18:31–33), is not in the text (Epiphanius, sch. 52)."
 )
@@ -138,7 +138,7 @@ NOTES = [
   "has the same \"except one, the Father\", and Origen reports the heretics' use of it. Tertullian (4.36.3–7), the earliest "
   "witness, has \"one God\" without \"the Father\", "
   "and lists the commandments in the order \"not to kill, not to commit adultery, not to steal, not to bear false witness, to "
-  "love father and mother\". He quotes the command to sell all and give to the poor, \"and you will have treasure in heaven, "
+  "love father and mother\". He quotes the command to sell all and give to the destitute, \"and you will have treasure in heaven, "
   "and come, follow me\", and says Christ \"kept the earlier commandments and added what was lacking\", as in Micah 6:8. "
   "\"The Father\" belongs to the later copies of Marcion's text and is not printed: the text before Marcion is decided by the "
   "earliest witness together with the correspondential reading, in which \"Father\" is relational throughout and only this "
@@ -146,12 +146,12 @@ NOTES = [
  dict(term='Not printed: 18:24–34', cat='excision', refs=['18:23', '18:35'], text=(
   "18:24–30 (the camel and the needle; the reward for leaving home and family) are not cited by any witness and form a "
   "paragraph without an attested verse. 18:31–33, the third prediction of the passion with \"everything written by the "
-  "prophets about the son of man will be fulfilled\", is stated by Epiphanius to have been absent (sch. 52). 18:34, the "
-  "disciples not understanding \"these things\", depends on it.")),
+  "prophets about the son of the human will be fulfilled\", is stated by Epiphanius to have been absent (sch. 52). 18:34, the "
+  "learners not understanding \"these things\", depends on it.")),
  dict(term='The blind man at Jericho (18:35–43)', cat='textual', refs=['18:35', '18:37', '18:38', '18:39', '18:42', '18:43'], text=(
   "Three witnesses attest the healing. Epiphanius, sch. 51: \"as he drew near to Jericho a blind man cried, Jesus, son of "
   "David, have mercy on me… your trust has saved you\". Tertullian (4.36.8–14) dwells on the title: the blind man called him "
-  "\"son of David\", and Jesus, far from correcting him, healed him and praised his faith. Tertullian takes this as proof that "
+  "\"son of David\", and Jesus, far from correcting him, healed him and praised his trust. Tertullian takes this as proof that "
   "Jesus was known to be of David's family. The Dialogue (200) quotes the whole story; 18:36 and 18:40–41 rest on it alone.")),
  dict(term='Son of David', cat='theological', refs=['18:38', '18:42'], text=(
   "Interpretation. The attested text has a blind man twice call Jesus \"son of David\", and Jesus answer with healing and "

@@ -95,11 +95,11 @@ OMITTED = [
 PREAMBLE = (
  "Questions in the temple. Asked by what authority he acts, Jesus asks in return whether John's baptism was from heaven or "
  "from men, and when the leaders will not answer, he will not tell them either. The leaders seek to seize him but fear the "
- "people. To the question about tribute he answers, \"Give back to Caesar what is Caesar's, and to God what is God's.\" To "
+ "people. To the question about tribute he answers, \"Then give back the things of Caesar to Caesar, and the things of God to God.\" To "
  "the Sadducees' question about the woman with seven husbands he answers that the sons of this age marry, \"but those whom "
- "God has deemed worthy to attain to that age and to the resurrection from the dead neither marry nor are given in "
- "marriage… they are equal to messengers and are sons of God\". He asks how the Christ can be David's son when David calls him "
- "Lord. The parable of the tenants with the rejected stone (20:9–18) and the proof of the resurrection from Moses at the bush "
+ "God has deemed worthy to attain that age and the rising from the dead neither marry nor are given in "
+ "marriage… they are equal to messengers, and they are sons of God\". He asks how the Anointed One can be David's son when David calls him "
+ "lord. The parable of the tenants with the rejected stone (20:9–18) and the proof of the rising from Moses at the bush "
  "(20:37–38) are absent: Epiphanius states that the text lacked them."
 )
 
@@ -126,17 +126,17 @@ NOTES = [
   "punctuation, not a different text. The active \"whom God has deemed worthy\" is printed; canonical Luke has the passive "
   "\"those who are deemed worthy\". Epiphanius states twice (sch. 56–57) that the text lacked the proof from Moses at the "
   "bush, \"he is God not of the dead but of the living\" (20:37–38). It is not printed. The scribes' \"Teacher, you have "
-  "spoken finely\" (20:39) follows directly on the sayings about the resurrection.")),
- dict(term='Resurrection without the patriarchs', cat='theological', refs=['20:35', '20:36'], text=(
-  "Interpretation. In this text the answer about the resurrection is that the worthy \"neither marry nor are given in "
+  "spoken finely\" (20:39) follows directly on the sayings about the rising.")),
+ dict(term='The rising without the patriarchs', cat='theological', refs=['20:35', '20:36'], text=(
+  "Interpretation. In this text the answer about the rising is that the worthy \"neither marry nor are given in "
   "marriage, for they cannot die any more, for they are equal to messengers, and they are sons of God, being sons of the "
   "rising\". There is no argument from the God of Abraham, Isaac and Jacob, as there are no patriarchs in the kingdom "
-  "at 13:28. The resurrection is described as a state God grants to the worthy, \"equal to messengers\" and \"sons of "
+  "at 13:28. The rising is described as a state God grants to the worthy, \"equal to messengers\" and \"sons of "
   "God\". It is not described as the return of the body that was buried. The witnesses do not say how the community behind "
   "the text pictured it.")),
- dict(term='David\'s Lord (20:41–44)', cat='textual', refs=['20:41', '20:44'], text=(
-  "Tertullian, Marc. 4.38.10: the scribes thought the Christ was David's son; David calls him Lord. Tertullian connects this "
-  "with the blind man's \"son of David\" (18:38): Jesus accepted that title then and now shows he is also David's Lord. "
+ dict(term='David\'s lord (20:41–44)', cat='textual', refs=['20:41', '20:44'], text=(
+  "Tertullian, Marc. 4.38.10: the scribes thought the Christ was David's son; David calls him lord. Tertullian connects this "
+  "with the blind man's \"son of David\" (18:38): Jesus accepted that title then and now shows he is also David's lord. "
   "20:42–43, the quotation of Psalm 110:1, are not cited and are printed in grey. 20:45–47, the warning against the "
   "scribes, form a paragraph with no attested verse and are not printed.")),
  dict(term='εὐαγγελιζομένου, "announcing the good news"', cat='translation', refs=['20:1'], text='As at 4:43.'),

@@ -185,7 +185,7 @@ NOTES = [
   "explain away its Torah observance, so the passage was not written to fit that community's theology. The observance is "
   "consistent with the library's thesis of a Torah-keeping Jewish community behind the text (Carriers of Living Water §3.4).")),
  dict(term='The paralysed man (5:17–26)', cat='textual', refs=['5:17', '5:18', '5:20', '5:21', '5:24', '5:26'], text=(
-  "Tertullian, Marc. 4.10.1–14, and Epiphanius, sch. 2. Tertullian cites the scribes' objection (\"Who forgives sins but God "
+  "Tertullian, Marc. 4.10.1–14, and Epiphanius, sch. 2. Tertullian cites the scribes' objection (\"Who is able to let sins go except God "
   "alone?\") and the command \"Arise and take up your mat\". The Latin of 4.10.1 as transcribed on tertullian.org breaks off "
   "after \"tolle\"; Evans' English translation of the same edition reads \"Arise and take up thy bed\", and NA27 cites Marcion "
   "for τὸν κράβαττον. The reading ἔγειρε καὶ ἆρον τὸν κράβαττόν σου καὶ πορεύου is printed: ἆρον and καί with ℵ D 1424; "
@@ -194,7 +194,7 @@ NOTES = [
   "is kept. 5:18 includes NA27's bracketed [αὐτόν]. 5:19, 5:22–23 and 5:25 are not cited and are printed in grey.")),
  dict(term='Levi and the question of fasting (5:27–38)', cat='textual', refs=['5:27', '5:30', '5:31', '5:33', '5:34', '5:35', '5:36', '5:37', '5:38'], text=(
   "Tertullian, Marc. 4.11.1–10: the tax collector chosen, the physician saying (\"medicum sanis non esse necessarium sed male "
-  "habentibus\"), John's disciples who fast and pray, the bridegroom, and the patch and wineskins. 5:28–29 and 5:32 are not cited "
+  "habentibus\"), John's learners who fast and pray, the bridegroom, and the patch and wineskins. 5:28–29 and 5:32 are not cited "
   "and are printed in grey. At 5:34 NA27 has ὁ Ἰησοῦς (SBLGNT omits it); Tertullian's \"non possent ieiunare filii sponsi\" "
   "agrees with ℵ* D it (δύνανται… νηστεύειν), which Roth rates possible, so it is noted, not printed. At 5:38 NA27 cites the "
   "Dialogue of Adamantius (McionA) for βάλλουσιν and \"both are preserved\"; Roth marks the attestation uncertain.")),
@@ -210,7 +210,7 @@ NOTES = [
   "6:10; Roth leaves the position open, and the canonical position is kept. At 6:9 NA27 cites Marcion for its own text "
   "(εἰ ἔξεστιν; ἀπολέσαι). 6:8 is cited only in a passage of Adamantius whose link to Marcion's text Roth marks uncertain; it "
   "is printed in grey with 6:10–11.")),
- dict(term='Lord of the sabbath', cat='theological', refs=['6:5', '6:9'], text=(
+ dict(term='lord of the sabbath', cat='theological', refs=['6:5', '6:9'], text=(
   "Interpretation. The disputes are argued from inside the law: the precedent of David from scripture, and the question what the "
   "law permits on the sabbath (to do good, to save life). Tertullian reads \"lord of the sabbath\" as proof that Jesus belonged "
   "to the Creator (4.12.11); that is his polemic. On the text alone the sabbath is not set aside; its proper use is argued, as in "

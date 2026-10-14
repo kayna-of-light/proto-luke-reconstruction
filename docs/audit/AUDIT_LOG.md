@@ -654,3 +654,34 @@ Method: METHOD §11. The work is in `docs/research/correspondence/`.
 - **11:29 and 24:25.** The printed forms are the ones the attested text supports. The canonical forms point to passages that are absent (11:30–32) or probably absent (24:27, 24:44–46).
 - **Doubts where both forms run.** Seven remain recorded doubts: 8:21, 10:21, 11:42, 13:28, 16:17, 21:27, 22:3.
 - **10:21, "and of earth".** The omission is shared with 𝔓45 and stands.
+
+## Translation from the Greek (2026-10-14)
+
+Method: METHOD §6, rewritten for this pass. The English of every printed verse was translated afresh from the printed Greek, including the adopted Marcionite readings, and not revised from the previous English or from any published version.
+
+### What was done
+
+- **Text.** 699 of the 708 printed verses have new English; the other 9 already said what the Greek says. The English stays in the build scripts (`en=` of each entry), from which `data/proto_luke.json` and the PDF are built.
+- **Translation notes.** The 5 earlier translation notes are replaced by 1,123 notes, attached to the verses they explain. Each note names the Greek word, its rendering, and why: the meaning in use, the alternatives, what the English cannot show (number, tense, word order), and where this text's wording differs from canonical Luke. A fixed rendering is explained where it first occurs.
+- **Fixed renderings** (METHOD §6). Examples:
+  - δοῦλος "slave";
+  - ἄγγελος "messenger";
+  - μαθητής "learner";
+  - ἀπόστολος "emissary";
+  - πίστις "trust";
+  - μετάνοια "change of mind";
+  - ἀφίημι of sins "let go";
+  - μακάριος "fortunate";
+  - πτωχός "destitute";
+  - ὁ υἱὸς τοῦ ἀνθρώπου "the son of the human";
+  - Ἰάκωβος "Jacob";
+  - κύριος in lower case unless it renders the divine name.
+- **The edition's own prose.** Preambles, textual, excision and theological notes, apparatus English, and the preface now quote the text in the new wording and use the same vocabulary when they speak of the text. Quotations of Tertullian's Latin, of other writings (the Epistle of James, Paul) and of canonical readings not printed here keep their own wording.
+
+### Renderings that decide a reading
+
+- **17:21 ἐντὸς ὑμῶν: "inside you".** "Among you" is a widely held reading, but the Greek would more naturally say that with ἐν μέσῳ.
+- **11:8 ἀναίδεια: "shamelessness".** The usual "persistence" is not what the word means.
+- **18:19 εἷς ὁ θεός: "except one, God".** This replaces "except God alone" in the entry above; it keeps the Greek order.
+- **24:39.** The clause is kept in the Greek order ("as you see me having"), which allows both groupings. The note gives both, and Tertullian's report of the Marcionite one (4.43.7).
+- **11:2.** Translates only the printed clause ("let your holy spirit come"). The longer form known from 700 and Gregory of Nyssa is in the note, not the text.

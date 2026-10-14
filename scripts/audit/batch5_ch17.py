@@ -52,7 +52,7 @@ ENTRIES = [
 
 OMITTED = [
  dict(ref='19:27', cls='U−', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason=('"But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me." Tertullian\'s point in 4.37.4 is that the parable shows God as a judge "even on the side of severity", and he finds that severity in the master taking away what the servant seemed to have (19:26). '
+      reason=('"But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me." Tertullian\'s point in 4.37.4 is that the parable shows God as a judge "even on the side of severity", and he finds that severity in the master taking away what the slave seemed to have (19:26). '
               'The command to slaughter the master\'s enemies would have been his strongest evidence, and he does not cite it. The verse ends the NA27 paragraph 19:11–27.'))),
  dict(ref='19:28', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='"After he had said this, he went on ahead, going up to Jerusalem." A one-verse NA27 paragraph with no attested verse; it introduces the entry (19:29–46), which Epiphanius says was absent.')),
@@ -64,9 +64,9 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Zacchaeus and the money entrusted to the servants. In Jericho, Zacchaeus, a rich chief tax collector, receives Jesus into "
- "his house, gives half his goods to the poor and restores fourfold what he has taken by fraud. \"Today salvation has come to "
- "this house… for the son of man came to seek and to save the lost.\" Jesus then tells of a nobleman who gives his servants "
+ "Zacchaeus and the money entrusted to the slaves. In Jericho, Zacchaeus, a rich chief tax collector, receives Jesus into "
+ "his house, gives half his goods to the destitute and restores fourfold what he has taken by fraud. \"Today salvation has come to "
+ "this house… for the son of the human came to seek and to save the lost.\" Jesus then tells of a nobleman who gives his slaves "
  "money to trade with and, on his return, judges them by what they have done with it. In this text the parable ends with "
  "\"from the one who does not have, even what he has will be taken away\". The slaughter of the master's enemies (19:27) is not "
  "cited. The entry into Jerusalem, the lament over the city and the cleansing of the temple (19:29–46) are absent: "
@@ -80,11 +80,11 @@ NOTES = [
   "fourfold\"; \"Today, he said, salvation to this house.\" Tertullian reads this as Isaiah 58:7 fulfilled, and \"the son of "
   "man came to save what was lost\" as the salvation of the whole person, body and soul. 19:1, 19:3–5 and 19:7 are not cited "
   "and are printed in grey.")),
- dict(term='The money entrusted to the servants (19:11–26)', cat='textual', refs=['19:11', '19:13', '19:22', '19:23', '19:26'], text=(
-  "Tertullian, Marc. 4.37.4: \"the parable of the servants who are judged according to the account of their master's money "
+ dict(term='The money entrusted to the slaves (19:11–26)', cat='textual', refs=['19:11', '19:13', '19:22', '19:23', '19:26'], text=(
+  "Tertullian, Marc. 4.37.4: \"the parable of the slaves who are judged according to the account of their master's money "
   "lent at interest shows God as judge, even on the side of severity\". He has the \"austere\" master \"taking what he did not "
   "deposit and reaping what he did not sow\", and taking away \"what one seemed to have\". He mentions the parable again at "
-  "4.39.11 (\"leaving money with his servants to trade with\"). The unattested verses of the parable are printed in grey.")),
+  "4.39.11 (\"leaving money with his slaves to trade with\"). The unattested verses of the parable are printed in grey.")),
  dict(term='Not printed: 19:27–48', cat='excision', refs=['19:26'], text=(
   "19:27, the slaughter of the enemies who did not want the nobleman to reign, is not cited by Tertullian, though his point "
   "was the master's severity; it is classed probably absent. 19:29–46 are absent by Epiphanius' statement (sch. 53): the "

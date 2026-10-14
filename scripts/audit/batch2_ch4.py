@@ -101,22 +101,22 @@ OMITTED = [
  dict(ref='7:29–35', cls='U−', app=dict(roth='unattested', witnesses=[
       T('4.18.4–8', 'Argues throughout that John belongs to the Creator and that Christ confirms him.')],
       decision='not printed',
-      reason='Tertullian works through 7:18–28 continuously (4.18.4–8) and passes to 7:36–50 (4.18.9). His whole argument there is that John is the Creator\'s prophet and that Christ endorses him. 7:29–30 (the people "justified God, having been baptized with John\'s baptism"; the Pharisees "rejected the counsel of God") and 7:33–35 (John and the son of man as wisdom\'s children) would have made that case directly; he does not cite them. The previous text also omitted 7:24–35 apart from 7:27–28.')),
+      reason='Tertullian works through 7:18–28 continuously (4.18.4–8) and passes to 7:36–50 (4.18.9). His whole argument there is that John is the Creator\'s prophet and that Christ endorses him. 7:29–30 (the people "justified God, having been baptized with John\'s baptism"; the Pharisees "rejected the counsel of God") and 7:33–35 (John and the son of the human as wisdom\'s children) would have made that case directly; he does not cite them. The previous text also omitted 7:24–35 apart from 7:27–28.')),
 ]
 
 PREAMBLE = (
- "Four scenes from the Galilean ministry. A centurion's faith is measured against Israel: \"not even in Israel have I found such "
+ "Four scenes from the Galilean ministry. A centurion's trust is measured against Israel: \"not even in Israel have I found such "
  "trust.\" A widow's only son is raised at Nain, and the crowd acclaims Jesus in the language of Israel's scripture: \"A great "
- "prophet has been raised among us\" and \"God has visited his people.\" John the Baptist sends to ask whether Jesus is the one to "
+ "prophet has been raised among us\" and \"God has visited his people.\" John the baptiser sends to ask whether Jesus is the one to "
  "come, and Jesus answers with the works of the prophets and calls John more than a prophet. In a Pharisee's house a woman of "
- "the town anoints his feet, and her sins are forgiven \"because she loved much.\" Tertullian works through the chapter in "
+ "the town anoints his feet, and her sins are let go \"because she loved much.\" Tertullian works through the chapter in "
  "order (Marc. 4.18) and Epiphanius quotes from four of the scenes. Not printed: the passage on John's baptism and \"this "
  "generation\" (7:29–35), which no witness cites although Tertullian's argument needed it."
 )
 
 NOTES = [
  dict(term='The centurion (7:1–10)', cat='textual', refs=['7:2', '7:9'], text=(
-  "Tertullian, Marc. 4.18.1, discusses only the centurion and the saying about faith in Israel; Epiphanius, sch. 7 quotes the "
+  "Tertullian, Marc. 4.18.1, discusses only the centurion and the saying about trust in Israel; Epiphanius, sch. 7 quotes the "
   "saying: »λέγω δὲ ὑμῖν, τοσαύτην πίστιν οὐδὲ ἐν τῷ Ἰσραὴλ εὗρον«. Its word order (\"such trust\" first) is printed with "
   "NA27's words; Roth rates the words secure. The embassy of the Jewish elders, the friends and the centurion's speech (7:3–8) "
   "and the return of the messengers (7:10) are not cited and are printed in grey.")),
@@ -144,13 +144,13 @@ NOTES = [
   "best evidence that John's baptism was God's own plan. They are classed \"unattested, probably absent\" (METHOD §3).")),
  dict(term='The woman who loved much (7:36–50)', cat='textual', refs=['7:36', '7:37', '7:38', '7:44', '7:45', '7:46', '7:47', '7:48', '7:50'], text=(
   "Epiphanius, sch. 10–11 quotes 7:36, 7:38 and 7:44–46; Tertullian, Marc. 4.18.9 attests the woman, her tears, kisses and "
-  "ointment, the forgiveness and \"Your trust has saved you\". The Pharisee's thought and the parable of the two debtors "
+  "ointment, the letting go of her sins and \"Your trust has saved you\". The Pharisee's thought and the parable of the two debtors "
   "(7:39–43) and the guests' question (7:49) are not cited and are printed in grey. Tertullian uses the woman's touch as proof "
   "that Jesus had a real body (4.18.9), his own argument against Marcion's Christology.")),
- dict(term='Faith shown in deeds', cat='theological', refs=['7:47', '7:50'], text=(
-  "Interpretation. In the attested scene the woman's faith (7:50) is visible in what she does: the tears, the kisses, the "
-  "ointment. Her forgiveness is tied to her love (\"because she loved much\", 7:47). The pairing of faith with acts matches the "
-  "Epistle of James (\"faith was active along with his works\", Jas 2:22), which the library takes as the closest written "
+ dict(term='Trust shown in deeds', cat='theological', refs=['7:47', '7:50'], text=(
+  "Interpretation. In the attested scene the woman's trust (7:50) is visible in what she does: the tears, the kisses, the "
+  "ointment. The letting go of her sins is tied to her love (\"because she loved much\", 7:47). The pairing of trust with acts matches the "
+  "Epistle of James (\"faith was active along with his works\", Jas 2:22, where \"faith\" is the same Greek word, πίστις), which the library takes as the closest written "
   "witness to the community behind this text (Carriers of Living Water §3.4).")),
  dict(term='ἐπλήρωσεν… εἰς τὰς ἀκοάς, "completed… in the ears"', cat='translation', refs=['7:1'], text='Literally "filled up… into the hearing". ῥήματα are "sayings", things spoken.'),
  dict(term='ἑκατοντάρχου, "centurion"', cat='translation', refs=['7:2'], text='A Roman officer commanding about a hundred soldiers.'),

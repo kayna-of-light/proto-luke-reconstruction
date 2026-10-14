@@ -80,15 +80,15 @@ OMITTED = [
  dict(ref='17:5–10', cls='U?', app=dict(roth='unattested (17:5–10a); absent (17:10b)', witnesses=[
       E(47, 'παρέκοψε τὸ »λέγετε ὅτι ἀχρεῖοι δοῦλοί ἐσμεν· ὃ ὠφείλομεν ποιῆσαι πεποιήκαμεν«.')],
       decision='not printed',
-      reason=('Faith like a mustard seed (17:5–6) and the servant who does what he is told (17:7–10): two NA27 paragraphs with no attested present verse (METHOD §4.3). '
-              'Epiphanius states that the text lacked 17:10b ("say, we are unworthy servants; we have done what we ought to have done"), which is A− (NA27: □ McionE). Tertullian passes from 17:4 (4.35.3) to 17:14 (4.35.4).'))),
+      reason=('Trust like a mustard seed (17:5–6) and the slave who does what he is told (17:7–10): two NA27 paragraphs with no attested present verse (METHOD §4.3). '
+              'Epiphanius states that the text lacked 17:10b ("say, we are unworthy slaves; we have done what we ought to have done"), which is A− (NA27: □ McionE). Tertullian passes from 17:4 (4.35.3) to 17:14 (4.35.4).'))),
  dict(ref='17:13', cls='A−', app=dict(roth='absent', witnesses=[E48], decision='not printed',
       reason='"And they raised their voices, saying, Jesus, master, have mercy on us." Part of what Epiphanius says Marcion "cut out" between the meeting with the ten lepers and the command to the priests; Roth: not present (with 17:12b). Tertullian stresses that they were healed "without touch and without a word" from Jesus, and does not mention their plea.')),
 ]
 
 PREAMBLE = (
- "Stumbling, forgiveness, the ten lepers, and the days of the son of man. Jesus warns against causing \"one of these little "
- "ones\" to stumble and tells his disciples to forgive a brother seven times a day. Passing between Samaria and Galilee, he "
+ "Stumbling, letting go, the ten lepers, and the days of the son of the human. Jesus warns against causing \"one of these little "
+ "ones\" to stumble and tells his learners to let it go for a brother seven times a day. Passing between Samaria and Galilee, he "
  "meets ten lepers. In this text he recalls that in Elisha's time only Naaman the Syrian was cleansed (Luke 4:27, placed here "
  "by both witnesses) and sends them to show themselves to the priests. They are cleansed on the way, and the one who turns "
  "back to give glory to God is a Samaritan: \"your trust has saved you\". Asked when the kingdom comes, he says that it does "
@@ -97,13 +97,13 @@ PREAMBLE = (
 )
 
 NOTES = [
- dict(term='Stumbling and forgiveness (17:1–4)', cat='textual', refs=['17:1', '17:2', '17:3', '17:4'], text=(
+ dict(term='Stumbling and letting go (17:1–4)', cat='textual', refs=['17:1', '17:2', '17:3', '17:4'], text=(
   "Tertullian, Marc. 4.35.1–3. He takes the woe on the one who causes stumbling as a judge's threat, and compares the command "
-  "to rebuke a sinning brother with Lev 19:17. He says the forgiveness \"seven times\" is \"too little\" compared with the "
+  "to rebuke a sinning brother with Lev 19:17. He says the letting go \"seven times\" is \"too little\" compared with the "
   "Creator, who sets no limit. NA27 begins a new paragraph at 17:3b.")),
  dict(term='Not printed: 17:5–10', cat='excision', refs=['17:4', '17:11'], text=(
-  "Epiphanius, sch. 47: the text lacked \"say, we are unworthy servants; we have done what we ought to have done\" (17:10b). "
-  "NA27 cites Marcion for the omission. The rest of 17:5–10, faith like a mustard seed and the servant who serves at table "
+  "Epiphanius, sch. 47: the text lacked \"say, we are unworthy slaves; we have done what we ought to have done\" (17:10b). "
+  "NA27 cites Marcion for the omission. The rest of 17:5–10, trust like a mustard seed and the slave who serves at table "
   "before he eats, is not cited by either witness. Its two paragraphs have no attested verse, and they are not printed.")),
  dict(term='The ten lepers and Naaman (17:11–19; 4:27)', cat='textual', refs=['17:11', '17:12', '4:27', '17:14', '17:16', '17:18', '17:19'], text=(
   "Epiphanius, sch. 48: \"when the ten lepers met him\"; Marcion \"cut out much\", had \"he sent them away saying, Show "
@@ -125,8 +125,8 @@ NOTES = [
   "there; for behold, the kingdom of God is within you\" (intra vos, \"inside you\"). He explains \"within you\" as \"in your hand, in your power, if you "
   "hear and do the commandment of God\", and compares Deut 30:11–14 (\"the word is near you, in your mouth and in your heart, "
   "to do it\"). The second \"Look\" (ἰδού) is printed with Tertullian and the Byzantine text.")),
- dict(term='The days of the son of man (17:22–37)', cat='textual', refs=['17:22', '17:25', '17:26', '17:28', '17:32'], text=(
-  "Epiphanius, sch. 49 quotes 17:22. Tertullian, Marc. 4.35.14–16 cites the son of man who \"must first suffer many things and "
+ dict(term='The days of the son of the human (17:22–37)', cat='textual', refs=['17:22', '17:25', '17:26', '17:28', '17:32'], text=(
+  "Epiphanius, sch. 49 quotes 17:22. Tertullian, Marc. 4.35.14–16 cites the son of the human who \"must first suffer many things and "
   "be rejected\" (17:25), drawing the word \"rejected\" from Ps 118:22 (\"the stone the builders rejected\"). He asks why a "
   "gentle God would compare his coming to the dark days of Noah and Lot and warn his hearers to remember Lot's wife. The other "
   "verses of the paragraph are not cited and are printed in grey. NA27 has no verse 17:36.")),

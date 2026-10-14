@@ -43,7 +43,7 @@ ENTRIES = [
  U('22:13', G('22:13'), 'And going away, they found it just as he had told them, and they made ready the Passover.', 'Inside the attested paragraph 22:7–13.'),
  A('22:14', G('22:14'), 'And when the hour came, he reclined at table, and the emissaries with him.',
    'present (Pan. 42.11.6, sch. 62)', [E(62, '»καὶ ἀνέπεσε καὶ οἱ δώδεκα ἀπόστολοι σὺν αὐτῷ«.')],
-   wording=('NA27. Epiphanius has "the twelve apostles" (NA27: δώδεκα ἀπόστ. ℵ2 A C W Θ Ψ f1.13 𝔐 …; McionE), as Matt 26:20; Roth: δώδεκα probable only, since Epiphanius may follow Matthew. Not adopted. '
+   wording=('NA27. Epiphanius has "the twelve emissaries" (NA27: δώδεκα ἀπόστ. ℵ2 A C W Θ Ψ f1.13 𝔐 …; McionE), as Matt 26:20; Roth: δώδεκα probable only, since Epiphanius may follow Matthew. Not adopted. '
             'He does not quote "when the hour came"; Roth: unattested, not absent.')),
  A('22:15', G('22:15'), 'And he said to them, "With longing I have longed to eat this Passover with you before I suffer."',
    'present (Marc. 4.40.1, 3; Pan. 42.11.6, sch. 62)',
@@ -69,7 +69,7 @@ ENTRIES = [
  U('22:21', G('22:21'), 'But look, the hand of the one who is handing me over is with me on the table;', 'Inside the attested paragraph 22:21–23.'),
  A('22:22', G('22:22'), 'because the son of the human journeys according to what has been fixed; but woe to that human through whom he is handed over."',
    'present for 22:22b (Marc. 4.41.1); 22:22a unattested', [T('4.41.1', '"Vae, ait, per quem traditur filius hominis."')],
-   wording='NA27. Tertullian quotes "woe… by whom the son of man is betrayed"; his "son of man" may be his own clarification (Roth). Tsutsui\'s view that "as it has been determined" was removed rests on silence and is not adopted.'),
+   wording='NA27. Tertullian quotes "woe… by whom the son of the human is betrayed"; his "son of the human" may be his own clarification (Roth). Tsutsui\'s view that "as it has been determined" was removed rests on silence and is not adopted.'),
  U('22:23', G('22:23'), 'And they began to question among themselves which of them it might be who was about to do this.', 'Inside the attested paragraph 22:21–23.'),
  U('22:31', G('22:31'), '"Simon, Simon, look, Satan has asked to have you, to sift you like the wheat;', 'Inside the attested paragraph 22:31–34.'),
  U('22:32', G('22:32'), 'but I have begged for you, that your trust may not give out; and you, when once you have turned back, make your brothers firm."', 'Inside the attested paragraph 22:31–34.'),
@@ -126,13 +126,13 @@ OMITTED = [
       E(64, 'παρέκοψε τὸ »ὅτε ἀπέστειλα ὑμᾶς, μή τινος ὑστερήσατε;« καὶ τὰ ἑξῆς, διὰ τὸ »καὶ τοῦτο τὸ γεγραμμένον δεῖ τελεσθῆναι, τό· καὶ μετὰ ἀνόμων συνελογίσθη«.')],
       decision='not printed', reason='Epiphanius states that the text lacked "when I sent you out… did you lack anything?" and what follows, for the sake of "this scripture must be fulfilled: he was counted among the lawless". The four verses belong together (Roth; Zahn; Harnack). Tertullian passes from 22:34 to 22:48 (4.41.2).')),
  dict(ref='22:43–44', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason=('The angel from heaven and the sweat like drops of blood. NA27 prints the verses in double brackets, as not part of its text: they are absent from 𝔓75 ℵ1 A B N T W 579 and others, present in ℵ*,2 D L Θ Ψ 0171 f1 𝔐 and known to Justin, Irenaeus and Hippolytus. '
+      reason=('The messenger from heaven and the sweat like drops of blood. NA27 prints the verses in double brackets, as not part of its text: they are absent from 𝔓75 ℵ1 A B N T W 579 and others, present in ℵ*,2 D L Θ Ψ 0171 f1 𝔐 and known to Justin, Irenaeus and Hippolytus. '
               'No witness cites them for this text. They are not in the NA27 base and are not printed.'))),
  dict(ref='22:49', cls='U−', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='"Lord, shall we strike with the sword?" The swords of 22:38 are absent (sch. 64), and the blow that answers the question (22:50–51) is absent (sch. 67). The verse depends on both.')),
  dict(ref='22:50–51', cls='A−', app=dict(roth='absent', witnesses=[
       E(67, 'παρέκοψεν ὃ ἐποίησε Πέτρος, ὅτε ἐπάταξε καὶ ἀφείλετο τὸ οὖς τοῦ δούλου τοῦ ἀρχιερέως.')],
-      decision='not printed', reason='Epiphanius states that the text lacked the cutting off of the servant\'s ear; his elenchus adds that the Lord healed it, so 22:51 was also absent (Roth). Tertullian passes from the kiss (22:48) to the council (22:66; 4.41.2–3).')),
+      decision='not printed', reason='Epiphanius states that the text lacked the cutting off of the slave\'s ear; his elenchus adds that the Lord healed it, so 22:51 was also absent (Roth). Tertullian passes from the kiss (22:48) to the council (22:66; 4.41.2–3).')),
  dict(ref='22:52–53', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='"Have you come out as against a robber…?" A separate NA27 paragraph with no attested verse.')),
  dict(ref='22:54–62', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
@@ -142,13 +142,13 @@ OMITTED = [
 PREAMBLE = (
  "The Passover, the betrayal and the council. The feast of Unleavened Bread draws near. Judas, one of the twelve, agrees "
  "with the chief priests and officers to hand Jesus over for money; in this text he is not said to be entered by Satan "
- "(Tertullian, Marc. 5.6.7). Jesus has the Passover prepared and eats it with the apostles: \"With longing I have longed to "
+ "(Tertullian, Marc. 5.6.7). Jesus has the Passover prepared and eats it with the emissaries: \"With longing I have longed to "
  "eat this Passover with you before I suffer.\" He gives the bread as his body and the cup as the covenant in his blood "
- "(Tertullian, Marc. 4.40.3–6). He foretells Peter's denial, prays kneeling a stone's throw from the disciples, and is "
- "betrayed with a kiss. He is mocked and beaten, and before the council says that from now on the son of man will be "
+ "(Tertullian, Marc. 4.40.3–6). He foretells Peter's denial, prays kneeling a stone's throw from the learners, and is "
+ "betrayed with a kiss. He is mocked and beaten, and before the council says that from now on the son of the human will be "
  "seated at the right hand of the power of God. Epiphanius states that the text lacked the saying about not eating the "
  "Passover again until the kingdom (22:16), the purse and the swords with \"he was counted among the lawless\" "
- "(22:35–38), and the servant's ear (22:50–51)."
+ "(22:35–38), and the slave's ear (22:50–51)."
 )
 
 NOTES = [
@@ -159,8 +159,8 @@ NOTES = [
   "words \"Satan entered into\" (22:3) are therefore not printed, and the rest of the verse is put in the nominative. "
   "Epiphanius quotes 22:4 (sch. 60) with the order \"how he might hand him over to them\", which is printed.")),
  dict(term='The Passover meal (22:7–20)', cat='textual', refs=['22:8', '22:14', '22:15', '22:17', '22:18', '22:19', '22:20'], text=(
-  "Epiphanius quotes the sending of the disciples to prepare the Passover (sch. 61) and Jesus reclining with \"the twelve "
-  "apostles\" (sch. 62). Both witnesses quote \"With longing I have longed to eat this Passover with you before I suffer\" "
+  "Epiphanius quotes the sending of the learners to prepare the Passover (sch. 61) and Jesus reclining with \"the twelve "
+  "emissaries\" (sch. 62). Both witnesses quote \"With longing I have longed to eat this Passover with you before I suffer\" "
   "(Tertullian 4.40.1; sch. 62). Epiphanius states that \"I will not eat it until it is fulfilled in the kingdom of God\" "
   "(22:16) was not in the text (sch. 63). Tertullian (4.40.3–6) argues from the bread, \"this is my body\", and from the cup, "
   "\"establishing the covenant sealed in his blood\", that the body was real flesh. 22:17–18 are not cited and are printed "
@@ -179,10 +179,10 @@ NOTES = [
   "by Epiphanius' statement (sch. 64).")),
  dict(term='Gethsemane and the arrest (22:39–53)', cat='textual', refs=['22:41', '22:47', '22:48'], text=(
   "Epiphanius quotes \"he was drawn away from them about a stone's throw, and kneeling down he was praying\" (sch. 65) and argues from the "
-  "kneeling that Jesus had a body. 22:43–44, the angel from heaven and the sweat like drops of blood, are printed by NA27 "
+  "kneeling that Jesus had a body. 22:43–44, the messenger from heaven and the sweat like drops of blood, are printed by NA27 "
   "in double brackets as not part of its text, and no witness cites them for this text; they are not printed. Judas draws "
   "near to kiss Jesus (sch. 66), and Tertullian notes that he was to be betrayed \"with a kiss\" (4.41.2). Epiphanius states "
-  "that the cutting off of the servant's ear and its healing were not in the text (sch. 67); 22:49, which asks whether to "
+  "that the cutting off of the slave's ear and its healing were not in the text (sch. 67); 22:49, which asks whether to "
   "strike with the sword, depends on the absent swords (22:38) and the absent blow and is not printed. 22:52–53 and Peter's "
   "denial (22:54–62) form paragraphs with no attested verse.")),
  dict(term='Mockery and council (22:63–71)', cat='textual', refs=['22:63', '22:64', '22:66', '22:67', '22:69', '22:70', '22:71'], text=(

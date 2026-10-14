@@ -60,7 +60,7 @@ OMITTED = [
 
 PREAMBLE = (
  "Healing on the sabbath, and the kingdom compared. Jesus heals a woman bent over for eighteen years, \"a daughter of "
- "Abraham whom Satan bound\", and answers the leader of the synagogue with the ox or donkey watered on the sabbath. He "
+ "Abraham whom Satan bound\", and answers the leader of the assembly with the ox or donkey watered on the sabbath. He "
  "compares the kingdom of God to a mustard seed sown in a garden and to leaven. Those who come to the door once the master "
  "has shut it will be told \"I do not know you, where you are from\", and will weep \"when you see all the just in the "
  "kingdom of God, but yourselves held outside\". In this text it is \"the just\", not Abraham, Isaac, Jacob and the "
