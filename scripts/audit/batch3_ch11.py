@@ -64,7 +64,7 @@ PREAMBLE = (
  "What keeps the order of our worship is indignant. There are six days for work; healing should keep to them. "
  "But every one of us unties an ox on that day and leads it to water. Why not this?\n\n"
  "The kingdom, meanwhile, starts very small: a seed thrown into our own garden that becomes a tree with birds in"
- " its branches, a little leaven hidden in a great mass of flour until all of it rises.\n\n"
+ " its branches, a little leaven hidden in three measures of flour until the whole of it rises.\n\n"
  "And there is a door. One day the master of the house gets up and shuts it, and some of us are left outside, "
  "knocking. We remind him that we ate and drank with him, and that he taught in our streets.\n\n"
  "He does not know where we are from."

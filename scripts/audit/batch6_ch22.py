@@ -137,15 +137,15 @@ OMITTED = [
 PREAMBLE = (
  "Very early, while it is still deep dawn, the part of us that stayed comes with spices for the dead and finds "
  "nothing to anoint. Two figures in flashing clothes ask the question that turns the whole book around: why seek"
- " the living among the dead?\n\n"
+ " the Living One among the dead?\n\n"
  "What it reports sounds to the rest of us like idle talk.\n\n"
  "Later, two of us are walking away, talking it over. Truth comes alongside and walks with them, and they do not"
  " know it. They describe it to its face by the old name, the one first heard in the assembly: a man, a prophet,"
- " and how they had hoped. They are slow of heart, and it is patient with them.\n\n"
+ " and how they had hoped. They are slow of heart, it tells them, and it goes on walking with them.\n\n"
  "At the table it takes the bread, blesses it, breaks it and gives it, and their eyes are opened, and in the "
  "same moment it can no longer be seen.\n\n"
- "Then, while we are still afraid it is only a spirit, it shows its hands and feet, and asks for something to "
- "eat."
+ "Then, while we are still afraid it is only a spirit, it tells us to look at its hands and feet, and asks for "
+ "something to eat."
 )
 
 NOTES = [

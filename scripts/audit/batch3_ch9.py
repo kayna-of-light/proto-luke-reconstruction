@@ -153,7 +153,7 @@ PREAMBLE = (
  "It starts with asking how to ask. The prayer given here wants the spirit first, then the kingdom, then bread "
  "enough for the day, and it lets go of what is owed to us as readily as it asks to be let go.\n\n"
  "Asking turns out to be a matter of knocking at midnight on a door already shut for the night, and going on "
- "knocking without shame. Nothing that answers from inside will hand us a snake.\n\n"
+ "knocking without shame. And what answers is a father: it will not hand us a snake.\n\n"
  "Then something that has kept us mute goes out, and we speak, and at once part of us suspects the cure. A "
  "strong one guards its courtyard and all its goods are at peace, until a stronger one comes.\n\n"
  "The chapter ends at a table, before a cup polished on the outside. We clean what can be seen, count out our "

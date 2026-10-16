@@ -119,7 +119,7 @@ PREAMBLE = (
  "Two parts of us go up to pray. One stands and thanks God for being better than the rest, and lists what it "
  "gives. The other stands far off, will not lift its eyes, and beats its chest. Only one goes home made just.\n\n"
  "Something rich in us asks what it must do, has kept every rule since youth, and is told the one thing it "
- "lacks. It goes away grieving.\n\n"
+ "lacks. It grieves, because it is very rich.\n\n"
  "And beside the road, something blind hears a crowd going past and asks what it is. It is told a name. It calls"
  " out a different one, louder each time it is told to be quiet.\n\n"
  "It asks to see again."

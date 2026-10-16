@@ -107,13 +107,13 @@ OMITTED = [
 PREAMBLE = (
  "Trust turns up where no one is looking for it. The first to show it here is a part of us that serves a foreign"
  " authority and has a servant close to death. Not even the chosen have trust like that.\n\n"
- "At the gate of a city something young is being carried out dead, and what gave it life walks behind, asking "
- "for nothing. It is touched, sits up and speaks, and it is given back.\n\n"
+ "At the gate of a city something young is being carried out dead, and what gave it life goes with it, widowed, "
+ "asking for nothing. It is touched, sits up and speaks, and it is given back.\n\n"
  "Then a question arrives from the desert, from the part of us that prepared the way and now cannot tell whether"
  " this is what it prepared for. It is not given an answer. It is told what is happening.\n\n"
  "The chapter ends in a respectable house where the host has offered nothing: no water, no kiss, no oil. "
  "Something the city calls a sinner has come in with a flask of oil, and stands behind the guest, weeping over "
- "his feet.\n\n"
+ "the guest's feet.\n\n"
  "Whoever loves much has been let go of much."
 )
 
