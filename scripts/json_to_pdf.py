@@ -5,6 +5,7 @@ Generates a professional PDF with Greek/English parallel columns using ReportLab
 """
 
 import json
+import re
 from pathlib import Path
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import letter, A4
@@ -13,7 +14,7 @@ from reportlab.lib.units import inch, cm
 from reportlab.lib.enums import TA_LEFT, TA_CENTER, TA_RIGHT, TA_JUSTIFY
 from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, PageBreak, Table, TableStyle,
-    KeepTogether, NextPageTemplate, PageTemplate, Frame, BaseDocTemplate
+    KeepTogether, NextPageTemplate, PageTemplate, Frame, BaseDocTemplate, CondPageBreak
 )
 from reportlab.platypus.flowables import BalancedColumns, HRFlowable
 from reportlab.pdfbase import pdfmetrics
@@ -27,7 +28,10 @@ BOOK_SIZE = (7*inch, 10*inch)
 # Color definitions
 CHAPTER_COLOR = colors.Color(139/255, 69/255, 19/255)  # Saddle brown
 VERSE_NUM_COLOR = colors.Color(128/255, 0, 0)  # Dark red
-NOTE_COLOR = colors.Color(70/255, 70/255, 70/255)  # Dark gray
+NOTE_COLOR = colors.Color(40/255, 40/255, 40/255)  # Near black
+
+# Code points Palatino can draw; anything else goes to the fallback font
+FALLBACK = {'glyphs': None}
 TERM_COLOR = colors.Color(0, 51/255, 102/255)  # Dark blue
 UNATTESTED_COLOR = "#808080"  # Grey: verse not cited by any witness (attestation: unattested)
 
@@ -66,6 +70,14 @@ def register_fonts():
         # Map <b> and <i> inside paragraphs to the matching faces
         pdfmetrics.registerFontFamily('Palatino', normal='Palatino', bold='Palatino-Bold',
                                       italic='Palatino-Italic', boldItalic='Palatino-BoldItalic')
+        # Characters Palatino lacks (ℵ, 𝔓, →, ḥ) are drawn from Cambria
+        cambria = "C:/Windows/Fonts/cambria.ttc"
+        if os.path.exists(cambria):
+            try:
+                pdfmetrics.registerFont(TTFont('Fallback', cambria, subfontIndex=0))
+                FALLBACK['glyphs'] = set(pdfmetrics.getFont('Palatino').face.charToGlyph)
+            except Exception as e:
+                print(f"Could not register fallback font: {e}")
     
     if not fonts_registered:
         # Fall back to Times which is built-in
@@ -178,39 +190,36 @@ def create_styles(use_palatino=True):
         textColor=colors.Color(0.6, 0.6, 0.6)
     ))
     
-    # Heading of a notes set
+    # Heading of a notes set, in the voice of the chapter title
     styles.add(ParagraphStyle(
         name='NotesHeading',
         fontName=italic_font,
-        fontSize=9.5,
-        leading=12,
+        fontSize=12,
+        leading=15,
         alignment=TA_CENTER,
-        spaceBefore=6,
-        spaceAfter=8,
+        spaceAfter=12,
         textColor=CHAPTER_COLOR
     ))
     
-    # A restoration note: one column, run-in heading
+    # A restoration note: full text width, run-in heading, flush left
     styles.add(ParagraphStyle(
         name='RestorationNote',
         fontName=base_font,
-        fontSize=8.5,
-        leading=11.5,
-        alignment=TA_JUSTIFY,
-        leftIndent=12,
-        rightIndent=12,
-        spaceAfter=6,
+        fontSize=9,
+        leading=13,
+        alignment=TA_LEFT,
+        spaceAfter=8,
         textColor=NOTE_COLOR
     ))
     
-    # A translation note: two columns, small type
+    # A translation note: two columns, flush left
     styles.add(ParagraphStyle(
         name='Note',
         fontName=base_font,
-        fontSize=7.5,
-        leading=9.6,
+        fontSize=8.5,
+        leading=11.5,
         alignment=TA_LEFT,
-        spaceAfter=4,
+        spaceAfter=5,
         textColor=NOTE_COLOR
     ))
     
@@ -238,6 +247,10 @@ def escape_xml(text):
     text = text.replace('&', '&amp;')
     text = text.replace('<', '&lt;')
     text = text.replace('>', '&gt;')
+    glyphs = FALLBACK['glyphs']
+    if glyphs:
+        text = ''.join(c if ord(c) < 128 or ord(c) in glyphs else f'<font name="Fallback">{c}</font>'
+                       for c in text)
     return text
 
 
@@ -393,38 +406,83 @@ def create_verse_table(verses, styles):
     return elements
 
 
-def _note_flowables(notes, style, ref_first):
+def luke_refs(numbers, luke_of):
+    """Edition verse numbers as compact Luke references: 8:28, 31; 8:28–30; 9:1."""
+    parsed = []
+    for n in numbers:
+        m = re.match(r'(?:Luke )?(\d+):(\d+)([a-z]?)$', luke_of.get(n, ''))
+        if m:
+            parsed.append((int(m.group(1)), int(m.group(2)), m.group(3)))
+    runs = []
+    for c, v, part in parsed:
+        last = runs[-1] if runs else None
+        if last and last[0] == c and not part and not last[3] and v == last[2] + 1:
+            last[2] = v
+        elif not last or last != [c, v, v, part]:
+            runs.append([c, v, v, part])
+    out, prev = [], None
+    for c, a, b, part in runs:
+        verses = f'{a}{part}' if a == b else f'{a}–{b}'
+        out.append(verses if c == prev else f'{c}:{verses}')
+        prev = c
+    return ', '.join(out)
+
+
+REF_COLOR = '#8c8c8c'
+
+
+class WholeParagraph(Paragraph):
+    """A short note that moves to the next column rather than break across two."""
+    def split(self, availWidth, availHeight):
+        return []
+
+
+def _note_flowables(notes, style, luke_of, ref_first):
     out = []
     for note in notes:
-        term = escape_xml(note.get('term', ''))
+        raw_term = note.get('term', '')
+        term = escape_xml(raw_term)
         explanation = escape_xml(note.get('explanation', ''))
-        refs = ', '.join(str(v) for v in note.get('verse_refs', []))
-        ref = f'<font color="#800000">{refs}</font>' if refs else ''
+        refs = luke_refs(note.get('verse_refs', []), luke_of)
         if ref_first:
-            text = f'{ref}&nbsp;&nbsp;<b>{term}</b>: {explanation}'
+            ref = f'<font color="{REF_COLOR}">{refs}</font>&nbsp;&nbsp;' if refs else ''
+            # Only the Greek is bold; the English gloss after it stays plain
+            m = re.match(r'([^"].*?),\s*(".*)$', raw_term)
+            head = (f'<b>{escape_xml(m.group(1))}</b>, {escape_xml(m.group(2))}' if m
+                    else f'<b>{term}</b>')
+            text = f'{ref}{head}: {explanation}'
+            out.append(WholeParagraph(text, style))
+            continue
         else:
-            text = f'<b>{term}</b>' + (f'&nbsp;&nbsp;{ref}' if ref else '') + f'. {explanation}'
+            # A heading that already names its verses needs no second reference
+            ref = '' if not refs or re.search(r'\d+:\d+', raw_term) else f' ({refs})'
+            text = f'<b>{term}</b>{ref}. {explanation}'
         out.append(Paragraph(text, style))
     return out
 
 
-def create_notes_section(notes, styles):
+def _notes_break(title, styles):
+    # A heading never stands alone at the foot of a page
+    return [CondPageBreak(2 * inch),
+            Spacer(1, 22),
+            HRFlowable(width=0.9 * inch, thickness=0.6, color=CHAPTER_COLOR, spaceAfter=10),
+            Paragraph(title, styles['NotesHeading'])]
+
+
+def create_notes_section(notes, verses, styles):
     """End-of-chapter notes: the restoration in one column, then the translation in two."""
     elements = []
+    luke_of = {v.get('verse'): v.get('canonical_ref', '') for v in verses}
     restoration = [n for n in notes if n.get('category') != 'translation']
     translation = [n for n in notes if n.get('category') == 'translation']
     
     if restoration:
-        elements.append(Spacer(1, 14))
-        elements.append(HRFlowable(width='30%', thickness=0.4, color=colors.lightgrey, spaceAfter=6))
-        elements.append(Paragraph('Notes on the restoration', styles['NotesHeading']))
-        elements.extend(_note_flowables(restoration, styles['RestorationNote'], False))
+        elements.extend(_notes_break('Notes on the restoration', styles))
+        elements.extend(_note_flowables(restoration, styles['RestorationNote'], luke_of, False))
     if translation:
-        elements.append(Spacer(1, 14))
-        elements.append(HRFlowable(width='30%', thickness=0.4, color=colors.lightgrey, spaceAfter=6))
-        elements.append(Paragraph('Notes on the translation', styles['NotesHeading']))
-        elements.append(BalancedColumns(_note_flowables(translation, styles['Note'], True), nCols=2,
-                                        innerPadding=10, leftPadding=0, rightPadding=0))
+        elements.extend(_notes_break('Notes on the translation', styles))
+        elements.append(BalancedColumns(_note_flowables(translation, styles['Note'], luke_of, True),
+                                        nCols=2, innerPadding=14, leftPadding=0, rightPadding=0))
     
     return elements
 
@@ -454,7 +512,7 @@ def create_chapter(chapter, styles):
     elements.extend(verse_elements)
     
     # Notes at end of chapter
-    note_elements = create_notes_section(notes, styles)
+    note_elements = create_notes_section(notes, verses, styles)
     elements.extend(note_elements)
     
     # Page break after chapter
