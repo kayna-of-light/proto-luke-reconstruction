@@ -157,7 +157,7 @@ PREAMBLE = (
  "Then something that has kept us mute goes out, and we speak, and at once part of us suspects the cure. A "
  "strong one guards its courtyard and all its goods are at peace, until a stronger one comes.\n\n"
  "The chapter ends at a table, before a cup polished on the outside. We clean what can be seen, count out our "
- "tenths of mint and rue, sit in the first seats, and keep hold of a key we never use.\n\n"
+ "tenths of mint and rue, sit in the first seats, and take away the key without ever going in.\n\n"
  "Whoever made the outside made the inside as well."
 )
 
