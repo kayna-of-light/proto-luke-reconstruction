@@ -73,8 +73,9 @@ PREAMBLE = (
  "will go. So watch how you hear.\n\n"
  "Even our own family is redrawn. What we came from stands outside, wanting to see. What hears and does is the "
  "family now.\n\n"
- "Then we set out for the other side, and halfway across, while truth sleeps in the boat, the wind comes down "
- "and the water rises. We wake it in a panic. It asks one thing: where is your trust?\n\n"
+ "Then we set out for the other side, and out on the water, while truth sleeps in the boat, the wind comes down "
+ "and the water rises. We wake it in a panic, and the wind falls still. Then it asks one thing: where is your "
+ "trust?\n\n"
  "The question we are left with is better than the one we brought: who then is this?"
 )
 

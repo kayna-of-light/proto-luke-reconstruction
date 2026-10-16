@@ -106,9 +106,9 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Before truth arrives anywhere in us, something goes ahead of it, in pairs, carrying nothing. It enters and "
- "says one word, peace, and stays where that word is received. Where it is not, it wipes off even the dust and "
- "moves on. Either way the message is the same: it has come near.\n\n"
+ "Before truth arrives anywhere in us, seventy go ahead of it, in pairs, carrying nothing. It enters and says "
+ "one word, peace, and stays where that word is received. Where it is not, it wipes off even the dust and moves "
+ "on. Either way the message is the same: it has come near.\n\n"
  "What goes out is given authority over everything that bites and stings. But what follows is hidden from the "
  "wise and the understanding, and shown to infants. Fortunate are the eyes that see it.\n\n"
  "Then the clever part of us stands up to test it. It wants a task, something to do to earn life. It is handed "

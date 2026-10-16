@@ -106,16 +106,17 @@ ENTRIES = [
 OMITTED = []
 
 PREAMBLE = (
- "On the far shore of ourselves, where we rarely go, something lives among the tombs. It has worn nothing for "
- "years. Asked its name, it gives not one name but a multitude, and it begs not to be sent into the depths. It "
- "is allowed to go elsewhere.\n\n"
- "Back home, two things are failing at once. Something young, twelve years in us, is dying. Something else has "
- "been bleeding for twelve years and has spent its whole living on cures from outside. It reaches out in the "
- "crush, touches only the edge, and the flow stops. Power has gone out, and truth knows it.\n\n"
+ "On the far shore of ourselves, something lives among the tombs. It has worn nothing for years. Asked its name,"
+ " it gives not one name but a multitude, and it begs not to be sent into the depths. It asks to go into the "
+ "herd feeding on the mountain, and is allowed.\n\n"
+ "Back home, two things are failing at once. Something young in us has just reached twelve years, the age of "
+ "coming into its own, and it is dying. Something else has been bleeding for exactly as long, and has spent its "
+ "whole living on cures from outside. It reaches out in the crush, touches only the edge, and the flow stops. "
+ "Power has gone out, and truth knows it.\n\n"
  "Our own powers are then sent out with nothing in their hands. What rules us from the edges hears the news and "
  "cannot work out what it is hearing.\n\n"
- "And as the light declines in a deserted place, we discover how little we have: five loaves, two fish. It is "
- "enough. There is more left over than we started with."
+ "And as the light declines in a deserted place, we count what we have: five loaves, two fish. It is all there "
+ "is, and it is enough. There is more left over than we started with."
 )
 
 NOTES = [

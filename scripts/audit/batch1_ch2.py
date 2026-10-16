@@ -153,15 +153,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "There are boats in us standing empty at the shore, and nets we wash out of habit. This chapter begins beside "
- "that work, and what it finally asks of it is not more effort but less: let everything go.\n\n"
+ "Two boats stand empty at the edge of the water, and the nets are being washed. This chapter begins beside that"
+ " work, and what it finally asks of it is not more effort but less: let everything go.\n\n"
  "After that, things begin to move that could not move by themselves. What is unclean asks only whether it is "
  "wanted. What lies paralysed is carried in on its bed and released before it is told to walk. The part of us "
  "that has long collected dues for another master is called away from its booth, and truth sits down to eat with"
  " it.\n\n"
- "Not everything welcomes this. Part of us wants a new patch for the old garment, new wine for the old skins. "
- "And on the day set apart for rest, a hand that has gone dry is waiting in the assembly, and everything that "
- "keeps the rules is watching.\n\n"
+ "Not everything welcomes this. Part of us expects the new to keep the old forms: to fast as before, to patch "
+ "the old garment, to pour new wine into old skins. And on the day set apart for rest, a hand that has gone dry "
+ "is waiting in the assembly, and everything that keeps the rules is watching.\n\n"
  "New wine needs somewhere new to go."
 )
 

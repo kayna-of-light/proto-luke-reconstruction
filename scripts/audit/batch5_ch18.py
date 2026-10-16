@@ -99,10 +99,10 @@ PREAMBLE = (
  "Then a coin is held up. Whose image is this, whose inscription? The emperor's, the one who counted our years "
  "on the first page. Give back to him what carries his image, and to God what carries God's.\n\n"
  "Another part of us does not believe that anything rises at all, and tries to make the idea absurd: seven "
- "brothers, one wife, and a riddle about who owns her afterwards. It is told that owning belongs to this age. "
- "What rises does not marry, and cannot die.\n\n"
- "At the end, truth asks the last question itself. If the one who came first calls the Anointed One his lord, "
- "how can he be his son?"
+ "brothers, one wife, and a riddle about who owns her afterwards. It is told that marrying and being given in "
+ "marriage belong to this age. What rises does not marry, and cannot die.\n\n"
+ "At the end, truth asks the last question itself. If the king we descend from calls the Anointed One his lord, "
+ "how can it be his son?"
 )
 
 NOTES = [
