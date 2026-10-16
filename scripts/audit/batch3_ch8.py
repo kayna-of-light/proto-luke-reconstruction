@@ -106,15 +106,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The mission of the seventy and what follows from it. Jesus sends out seventy others, two by two, with the instructions "
- "Tertullian reads as the Creator's own: no sandals, no greetings on the road, peace to the house, \"the worker is worthy of his "
- "wage\", and the dust wiped off against a town that refuses them, \"but know this, that the kingdom of God has come near\". "
- "Whoever rejects them rejects him; he gives them authority over snakes and scorpions. He then thanks the \"Lord of heaven\" "
- "that what was hidden from the wise has been revealed to little children, and says that no one knows who the Father is "
- "except the son. To a expert in the law who asks what he must do to inherit life (\"life\", not \"eternal life\", as Tertullian points "
- "out) he answers with the command to love God, and \"do this and you will live\". Canonical Luke's judgement on Sodom and the "
- "woes on the Galilean towns, \"I saw Satan fall\", the parable of the Samaritan and the visit to Martha and Mary are not "
- "cited by either witness and are not printed."
+ "Seventy go out ahead of him, two by two, like lambs among wolves, carrying nothing, greeting no one on the "
+ "road. Into every house they bring peace; where no son of peace is found, the peace turns back to them. They "
+ "return amazed that even the daimons obey them. He tells them to rejoice at something else: that their names "
+ "are written in the heavens. Then he gives thanks that what was hidden from the wise has been shown to infants,"
+ " and turns to the learners alone: fortunate are the eyes that see what you see. The chapter closes with an "
+ "expert in the law who stands up to test him and asks what he must do to inherit life. He is not given anything"
+ " new. He is asked to read what he already has, and told: do this, and you will live."
 )
 
 NOTES = [

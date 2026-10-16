@@ -44,13 +44,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Whom to invite. Jesus tells his host not to invite those who can repay, but the destitute, the crippled, the lame and the blind, "
- "for he will be repaid at the rising of the just. He tells the parable of a man who gave a great banquet: the invited guests "
- "excuse themselves with a field, five yoke of oxen and a marriage, and the master, angry, has his slave bring in the destitute "
- "from the streets and then from the roads and hedges. Tertullian reads the parable as the Creator's long history of "
- "inviting Israel through the prophets and then calling the nations (Marc. 4.31). The healing on the sabbath and the "
- "places at table (14:1–11), and the sayings on the cost of discipleship (14:25–35), are not cited by any witness and are "
- "not printed."
+ "He is at dinner, and he turns to his host with advice that makes no social sense. Do not invite those who can "
+ "invite you back. Invite those who have nothing to repay you with: the destitute, the crippled, the lame, the "
+ "blind. You will be repaid at the rising of the just. One of the guests, pleased by the thought, says how "
+ "fortunate it will be to eat bread in the kingdom of God. The reply is a story about exactly that meal. A man "
+ "prepares a great dinner and sends his slave to say that everything is ready. Every invited guest has a reason:"
+ " a field, five yoke of oxen, a new wife. So the house is filled from the streets and the lanes, the roads and "
+ "the hedges, and none of those who were invited will taste it."
 )
 
 NOTES = [

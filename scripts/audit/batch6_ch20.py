@@ -140,15 +140,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The Passover, the betrayal and the council. The feast of Unleavened Bread draws near. Judas, one of the twelve, agrees "
- "with the chief priests and officers to hand Jesus over for money; in this text he is not said to be entered by Satan "
- "(Tertullian, Marc. 5.6.7). Jesus has the Passover prepared and eats it with the emissaries: \"With longing I have longed to "
- "eat this Passover with you before I suffer.\" He gives the bread as his body and the cup as the covenant in his blood "
- "(Tertullian, Marc. 4.40.3–6). He foretells Peter's denial, prays kneeling a stone's throw from the learners, and is "
- "betrayed with a kiss. He is mocked and beaten, and before the council says that from now on the son of the human will be "
- "seated at the right hand of the power of God. Epiphanius states that the text lacked the saying about not eating the "
- "Passover again until the kingdom (22:16), the purse and the swords with \"he was counted among the lawless\" "
- "(22:35–38), and the slave's ear (22:50–51)."
+ "The feast of the unleavened loaves is near, and with it the night the whole book has been travelling toward. "
+ "Judas, one of the twelve, goes to the high priests and is promised silver. Two learners follow a man carrying "
+ "a jar of water to an upper room. At the table he says he has longed with longing to eat this Passover before "
+ "he suffers. He takes a loaf, gives thanks and breaks it: this is my body, given for you. The cup after the "
+ "meal is the new covenant in his blood. Simon is told that he will be sifted like wheat, and that before the "
+ "rooster crows he will disown him three times. On the Mountain of Olives he kneels a stone's throw away and "
+ "prays: not my will but yours. A crowd arrives, led by a friend with a kiss. In the night he is blindfolded, "
+ "beaten and mocked, and when day comes he stands before the council, which asks him a name he will neither take"
+ " nor refuse."
 )
 
 NOTES = [

@@ -15,6 +15,7 @@ from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, PageBreak, Table, TableStyle,
     KeepTogether, NextPageTemplate, PageTemplate, Frame, BaseDocTemplate
 )
+from reportlab.platypus.flowables import BalancedColumns, HRFlowable
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen import canvas
@@ -111,8 +112,19 @@ def create_styles(use_palatino=True):
         leading=24,
         alignment=TA_CENTER,
         spaceBefore=30,
-        spaceAfter=20,
+        spaceAfter=4,
         textColor=CHAPTER_COLOR
+    ))
+
+    # Luke span under the chapter title
+    styles.add(ParagraphStyle(
+        name='ChapterSpan',
+        fontName=italic_font,
+        fontSize=9,
+        leading=12,
+        alignment=TA_CENTER,
+        spaceAfter=18,
+        textColor=colors.gray
     ))
     
     # Section title style
@@ -130,12 +142,12 @@ def create_styles(use_palatino=True):
     styles.add(ParagraphStyle(
         name='Preamble',
         fontName=italic_font,
-        fontSize=10,
-        leading=14,
+        fontSize=10.5,
+        leading=15,
         alignment=TA_JUSTIFY,
-        leftIndent=20,
-        rightIndent=20,
-        spaceAfter=15
+        leftIndent=24,
+        rightIndent=24,
+        spaceAfter=22
     ))
     
     # Greek text style
@@ -144,7 +156,7 @@ def create_styles(use_palatino=True):
         fontName=base_font,
         fontSize=10,
         leading=14,
-        alignment=TA_JUSTIFY,
+        alignment=TA_LEFT,
     ))
     
     # English text style
@@ -153,40 +165,40 @@ def create_styles(use_palatino=True):
         fontName=base_font,
         fontSize=10,
         leading=14,
-        alignment=TA_JUSTIFY,
+        alignment=TA_LEFT,
     ))
-    
-    # Note term style
+
+    # Luke reference in the margin column
     styles.add(ParagraphStyle(
-        name='NoteTerm',
-        fontName=bold_font,
-        fontSize=10,
-        leading=14,
-        spaceBefore=8,
-        textColor=TERM_COLOR
-    ))
-    
-    # Note explanation style
-    styles.add(ParagraphStyle(
-        name='NoteExplanation',
+        name='MarginRef',
         fontName=base_font,
-        fontSize=9,
-        leading=13,
-        alignment=TA_JUSTIFY,
-        leftIndent=15,
-        rightIndent=10,
-        spaceAfter=6,
-        textColor=NOTE_COLOR
+        fontSize=6.5,
+        leading=14,
+        alignment=TA_RIGHT,
+        textColor=colors.Color(0.6, 0.6, 0.6)
     ))
     
-    # Category badge style
+    # Heading of a notes set
     styles.add(ParagraphStyle(
-        name='CategoryBadge',
+        name='NotesHeading',
         fontName=italic_font,
-        fontSize=8,
-        leading=10,
-        alignment=TA_RIGHT,
-        textColor=colors.gray
+        fontSize=9.5,
+        leading=12,
+        alignment=TA_CENTER,
+        spaceBefore=6,
+        spaceAfter=8,
+        textColor=CHAPTER_COLOR
+    ))
+    
+    # A single note: run-in heading, small type
+    styles.add(ParagraphStyle(
+        name='Note',
+        fontName=base_font,
+        fontSize=7.5,
+        leading=9.6,
+        alignment=TA_LEFT,
+        spaceAfter=4,
+        textColor=NOTE_COLOR
     ))
     
     # Description/preface style
@@ -334,43 +346,33 @@ def create_preface_page(description, styles):
 
 
 def create_verse_table(verses, styles):
-    """Create a two-column table for Greek/English parallel text."""
+    """Greek and English side by side, the Luke reference small in the margin."""
     elements = []
     
-    # Column widths for the parallel text
-    col_widths = [2.5*inch, 2.8*inch]
+    col_widths = [2.45*inch, 2.7*inch, 0.45*inch]
     
     for verse in verses:
         verse_num = verse.get('verse', '')
         greek = escape_xml(verse.get('greek', ''))
         english = escape_xml(verse.get('english', ''))
-        canon_ref = verse.get('canonical_ref', '')
-        unattested = verse.get('attestation') == 'unattested'
-        if unattested:
-            # Not cited by any witness; printed because it stands inside an attested passage
+        canon_ref = verse.get('canonical_ref', '').replace('Luke ', '')
+        if verse.get('attestation') == 'unattested':
             greek = f'<font color="{UNATTESTED_COLOR}">{greek}</font>'
             english = f'<font color="{UNATTESTED_COLOR}">{english}</font>'
         
-        # Format verse number as superscript
-        verse_marker = f'<font color="#{128:02x}{0:02x}{0:02x}"><super><b>{verse_num}</b></super></font> '
+        verse_marker = f'<font color="#800000" size="7"><super>{verse_num}</super></font> '
         
-        greek_para = Paragraph(verse_marker + greek, styles['GreekText'])
-        
-        english_text = verse_marker + english
-        if canon_ref:
-            english_text += f' <i><font size="8">[{escape_xml(canon_ref)}]</font></i>'
-        english_para = Paragraph(english_text, styles['EnglishText'])
-        
-        # Create row
-        data = [[greek_para, english_para]]
+        data = [[Paragraph(verse_marker + greek, styles['GreekText']),
+                 Paragraph(verse_marker + english, styles['EnglishText']),
+                 Paragraph(escape_xml(canon_ref), styles['MarginRef'])]]
         
         t = Table(data, colWidths=col_widths)
         t.setStyle(TableStyle([
             ('VALIGN', (0, 0), (-1, -1), 'TOP'),
             ('LEFTPADDING', (0, 0), (-1, -1), 3),
-            ('RIGHTPADDING', (0, 0), (-1, -1), 3),
-            ('TOPPADDING', (0, 0), (-1, -1), 3),
-            ('BOTTOMPADDING', (0, 0), (-1, -1), 6),
+            ('RIGHTPADDING', (0, 0), (-1, -1), 5),
+            ('TOPPADDING', (0, 0), (-1, -1), 2),
+            ('BOTTOMPADDING', (0, 0), (-1, -1), 5),
         ]))
         
         elements.append(t)
@@ -378,35 +380,36 @@ def create_verse_table(verses, styles):
     return elements
 
 
-def create_notes_section(notes, styles):
-    """Create the notes section for end of chapter."""
-    elements = []
-    
-    if not notes:
-        return elements
-    
-    elements.append(Spacer(1, 15))
-    elements.append(Paragraph("Notes", styles['SectionTitle']))
-    elements.append(Spacer(1, 5))
-    
+def _note_flowables(notes, styles, ref_first):
+    out = []
     for note in notes:
         term = escape_xml(note.get('term', ''))
         explanation = escape_xml(note.get('explanation', ''))
-        category = note.get('category', '')
-        verse_refs = note.get('verse_refs', [])
-        
-        # Build term line with verse refs and category
-        term_text = f'<b><font color="#{0:02x}{51:02x}{102:02x}">{term}</font></b>'
-        
-        if verse_refs:
-            refs_str = ', '.join(str(v) for v in verse_refs)
-            term_text += f' <font size="9">(v. {refs_str})</font>'
-        
-        if category:
-            term_text += f' <font color="gray" size="8"><i>[{escape_xml(category)}]</i></font>'
-        
-        elements.append(Paragraph(term_text, styles['NoteTerm']))
-        elements.append(Paragraph(explanation, styles['NoteExplanation']))
+        refs = ', '.join(str(v) for v in note.get('verse_refs', []))
+        ref = f'<font color="#800000">{refs}</font>' if refs else ''
+        if ref_first:
+            text = f'{ref}&nbsp;&nbsp;<b>{term}</b>: {explanation}'
+        else:
+            text = f'<b>{term}</b>' + (f'&nbsp;&nbsp;{ref}' if ref else '') + f'. {explanation}'
+        out.append(Paragraph(text, styles['Note']))
+    return out
+
+
+def create_notes_section(notes, styles):
+    """End-of-chapter notes in two sets: the restoration, then the translation."""
+    elements = []
+    restoration = [n for n in notes if n.get('category') != 'translation']
+    translation = [n for n in notes if n.get('category') == 'translation']
+    
+    for heading, group, ref_first in (('Notes on the restoration', restoration, False),
+                                      ('Notes on the translation', translation, True)):
+        if not group:
+            continue
+        elements.append(Spacer(1, 14))
+        elements.append(HRFlowable(width='30%', thickness=0.4, color=colors.lightgrey, spaceAfter=6))
+        elements.append(Paragraph(heading, styles['NotesHeading']))
+        elements.append(BalancedColumns(_note_flowables(group, styles, ref_first), nCols=2,
+                                        innerPadding=10, leftPadding=0, rightPadding=0))
     
     return elements
 
@@ -421,45 +424,15 @@ def create_chapter(chapter, styles):
     verses = chapter.get('verses', [])
     notes = chapter.get('notes', [])
     
-    # Chapter title
-    elements.append(Paragraph(escape_xml(title), styles['ChapterTitle']))
+    # Chapter title, with the span of Luke it covers
+    elements.append(Paragraph(f'Chapter {chapter_num}', styles['ChapterTitle']))
+    if verses:
+        first = verses[0].get('canonical_ref', '')
+        last = verses[-1].get('canonical_ref', '').replace('Luke ', '')
+        elements.append(Paragraph(escape_xml(f'{first} – {last}'), styles['ChapterSpan']))
     
-    # Preamble if present
     if preamble:
         elements.append(Paragraph(escape_xml(preamble), styles['Preamble']))
-    
-    # Column headers
-    header_style = ParagraphStyle(
-        'header',
-        parent=styles['Normal'],
-        fontSize=9,
-        textColor=colors.gray,
-        alignment=TA_CENTER
-    )
-    
-    header_data = [
-        [Paragraph('<b>Greek Text</b>', header_style),
-         Paragraph('<b>English Translation</b>', header_style)]
-    ]
-    header_table = Table(header_data, colWidths=[2.5*inch, 2.8*inch])
-    header_table.setStyle(TableStyle([
-        ('LINEBELOW', (0, 0), (-1, -1), 0.5, colors.lightgrey),
-        ('BOTTOMPADDING', (0, 0), (-1, -1), 8),
-    ]))
-    elements.append(header_table)
-    if any(v.get('attestation') == 'unattested' for v in verses):
-        legend_style = ParagraphStyle(
-            'legend',
-            parent=styles['Normal'],
-            fontSize=8,
-            textColor=colors.gray,
-            alignment=TA_CENTER
-        )
-        elements.append(Spacer(1, 3))
-        elements.append(Paragraph(
-            f'<font color="{UNATTESTED_COLOR}">Grey verses</font> are not cited by any witness to the text; '
-            'they are printed because they stand inside a passage the witnesses attest.', legend_style))
-    elements.append(Spacer(1, 5))
     
     # Verses
     verse_elements = create_verse_table(verses, styles)

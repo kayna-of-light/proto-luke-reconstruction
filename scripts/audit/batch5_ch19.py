@@ -94,15 +94,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The signs of the end. The learners ask when these things will be. Jesus warns them against those who will come in his "
- "name, and speaks of wars, earthquakes, famines, terrors and signs from heaven, and of persecution before kings and "
- "governors, \"for the sake of my name\". He tells them not to prepare their defence, for he will give them wisdom, and that by "
- "endurance they will gain their lives. He speaks of Jerusalem surrounded by armies, of signs in sun, moon and stars, and of "
- "the son of the human \"coming from the heavens with much power\" (Tertullian, Marc. 4.39.10). When these things begin, they are "
- "to lift up their heads, for their redemption is near; the fig tree shows that the kingdom of God is near. He warns them "
- "against dissipation and the cares of life. By day he teaches in the temple and by night he lodges on the Mount of Olives. "
- "Two sayings are absent, by Epiphanius' statement: \"not a hair of your head will perish\" (21:18) and the flight from Judea "
- "\"that all that is written may be fulfilled\" (21:21–22)."
+ "The chapter opens on a question that seems to have lost its beginning: teacher, when then will these things "
+ "be? What follows is not a timetable. Do not be led astray; many will come using his name. Wars and upheavals, "
+ "earthquakes and famines, terrors and signs from heaven. Before all of it, you will be handed over, even by "
+ "parents and friends, and need not prepare a word of your defence. By your endurance gain your souls. Jerusalem"
+ " will be surrounded; the sea will roar; people will faint with fear; the powers of the heavens will be shaken."
+ " Then the son of the human comes from the heavens with much power, and the instruction is to straighten up and"
+ " lift your heads. Look at the fig tree when it puts out its leaves. The sky and the earth will pass away; his "
+ "words will not. By day he teaches in the temple, by night he lodges on the mountain, and the people rise at "
+ "dawn to hear him."
 )
 
 NOTES = [

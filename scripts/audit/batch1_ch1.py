@@ -142,15 +142,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The text opens with a date and an arrival. Epiphanius quotes its first words, \"In the fifteenth year of Tiberius Caesar\", "
- "and states that the birth narratives, the baptism and the genealogy were not in it (Pan. 42.11.4–5). Tertullian joins the date "
- "directly to the descent to Capernaum (Marc. 4.7.1). There is no preface, no John the baptiser preaching, no baptism, no "
- "genealogy and no temptation. Jesus enters the narrative as an adult teacher in the assembly of a Galilean town. "
- "The order also differs from canonical Luke. Tertullian treats the exorcism at Capernaum before the visit to Nazareth, and the "
- "Nazareth scene presupposes it (\"whatever we heard happened at Capernaum\", 4:23). The Nazareth visit itself is short. It has "
- "no reading from Isaiah, no question about Joseph's son and no Elijah and Elisha sayings, and Jesus is driven out over a single "
- "proverb. Verses printed in grey are not cited by any witness but stand inside a passage the witnesses attest; the notes list "
- "what is absent and why."
+ "No birth, no genealogy, no voice crying in the desert. This gospel opens with a date and a list of rulers: an "
+ "emperor counting the years, a governor over Judea, princes dividing the rest of the land between them. Every "
+ "name is a power, and none of them belongs to the land it rules. Then, without a name and without a word of "
+ "introduction, someone comes down. Watch who knows him first. Not the crowd, not his own town, but a spirit "
+ "sitting in the assembly, which names him exactly and is told to be silent. Watch, too, what happens when he "
+ "goes where he was brought up. The place that fed him wants proof, claims him as its own, and leads him to the "
+ "brow of the mountain its city is built on. He passes through the middle of them. By evening the sick are "
+ "brought to him from every house, and in the morning the crowds try to hold him back. He will not be held. The "
+ "road has begun."
 )
 
 NOTES = [

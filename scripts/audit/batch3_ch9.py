@@ -150,14 +150,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Prayer, the finger of God, and the woes. Asked by a learner to teach them to pray, Jesus gives a prayer that in this "
- "text asks first for the holy spirit, then for the kingdom, for \"your bread\", the letting go of sins, and not to be brought into "
- "temptation (Tertullian, Marc. 4.26.3–5; Origen). Its parables end with the Father who gives the holy spirit to those who ask. "
- "Accused of casting out daimons by Beelzebul, Jesus answers that he does it \"by the finger of God\", the words the Egyptian "
- "magicians used before Moses (Exod 8:19). To a generation seeking a sign he says that a sign will not be given to it; this text "
- "has no sign of Jonah and no Nineveh or queen of the south (Epiphanius, sch. 25). At a Pharisee's table come the sayings on "
- "the inside and the outside of the cup and the woes on Pharisees and experts in the law; the Pharisees pass over \"the calling and the "
- "love of God\". The saying of \"the wisdom of God\" about the blood of the prophets is not in this text (sch. 28)."
+ "One of the learners asks how to pray, and the prayer he is given here is not the one most readers know. It "
+ "asks first for the holy spirit to come, then the kingdom; it asks for \"your bread\", day by day; it asks that "
+ "sins be let go as we let go. Then a friend knocking at midnight, and a sleeper who gets up out of sheer "
+ "shamelessness, and a father who would never hand his son a snake. After that the air darkens. He is accused of"
+ " throwing out daimons by the ruler of daimons, and answers with a strong man guarding his courtyard until a "
+ "stronger one comes. No sign will be given to this generation. A lamp belongs on a stand. And at a Pharisee's "
+ "table, criticised for not washing first, he turns the cup around in his hands: you clean the outside, but what"
+ " is inside you?"
 )
 
 NOTES = [

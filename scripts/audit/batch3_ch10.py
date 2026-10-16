@@ -178,15 +178,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Fear and trust. Jesus warns his learners against the leaven of the Pharisees and tells them not to fear those who can "
- "only kill the body, but the one who has authority to throw into Gehenna. Whoever acknowledges him will be acknowledged "
- "\"before God\" (this text has no messengers in 12:8–9), and the holy spirit will teach them what to say. He refuses to divide "
- "an inheritance and tells of the rich fool. He tells them not to worry about food and clothing, but to seek the kingdom of "
- "God, which \"the Father\" is pleased to give them. Then come the parables of watchfulness: slaves waiting for their "
- "master to return from a wedding \"in the evening watch\", the thief, and the steward. He has come to throw fire upon the earth "
- "and to bring division, and he calls the crowds play-actors who read the face of heaven and earth but not the present time. "
- "The five sparrows (12:6), which Epiphanius says the text lacked, and the saying on God clothing the grass (12:28a) are not "
- "printed."
+ "Tens of thousands are trampling one another to hear him, and he speaks first to his learners, about leaven. "
+ "What was whispered in the inner rooms will be proclaimed from the roofs. Do not fear those who can only kill "
+ "the body. A rich man's land bears too much, and he talks to his own soul about bigger barns; that night the "
+ "soul is demanded back. Then the ravens, who keep no storeroom, and the lilies, who neither spin nor weave, and"
+ " Solomon outdone by a flower. The chapter turns to waiting: lamps burning, loins girded, slaves awake at the "
+ "door, and a lord who comes home and serves them at table himself. Then fire, an immersion he must pass "
+ "through, a household split down the middle. It ends on the road to court. You can read the face of the sky. "
+ "Why can you not read this time?"
 )
 
 NOTES = [

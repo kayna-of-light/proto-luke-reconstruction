@@ -121,14 +121,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Pilate, Herod and the cross. The council brings Jesus to Pilate. In this text the accusers say: \"We found this man misleading "
- "our nation and abolishing the law and the prophets, forbidding to give tributes to Caesar and turning away the women and the "
- "children\" (Epiphanius, sch. 69–70). Pilate sends him to Herod, who is glad to see him and hears no word from him. The crowd asks "
- "for Barabbas and demands that Jesus be crucified. He is crucified at the Skull between two criminals. There is darkness at the "
- "sixth hour and the curtain of the temple is torn. Jesus cries out with a loud voice to the Father and breathes his last. Joseph, "
- "who had not consented to the council's act, takes down the body, wraps it in linen and lays it in a rock-cut tomb. The women see "
- "the tomb and rest on the Sabbath. By the witnesses' statements the text lacked the dividing of the garments (Tertullian) and "
- "\"Today you will be with me in paradise\" (Epiphanius)."
+ "This is the chapter of the handing over, and every power in the land takes its turn. The council brings him to"
+ " Pilate with its charges: perverting the nation, abolishing the law and the prophets, forbidding tribute, "
+ "turning away the women and the children. Pilate finds nothing. Herod, hungry for a sign, gets silence, dresses"
+ " him in a bright garment and sends him back, and on that day the two rulers become friends. A third time "
+ "Pilate says he has found no cause of death, and the crowd shouts him down, and the man thrown into prison for "
+ "uprising and murder is released instead. Jesus is crucified between two evil-doers. At midday the sun fails, "
+ "and the curtain of the sanctuary is torn down the middle. Father, into your hands. Then a good man takes the "
+ "body down, and the women who came with him from Galilee rest, because it is the sabbath."
 )
 
 NOTES = [

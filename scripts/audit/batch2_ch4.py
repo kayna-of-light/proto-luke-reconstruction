@@ -105,13 +105,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Four scenes from the Galilean ministry. A centurion's trust is measured against Israel: \"not even in Israel have I found such "
- "trust.\" A widow's only son is raised at Nain, and the crowd acclaims Jesus in the language of Israel's scripture: \"A great "
- "prophet has been raised among us\" and \"God has visited his people.\" John the baptiser sends to ask whether Jesus is the one to "
- "come, and Jesus answers with the works of the prophets and calls John more than a prophet. In a Pharisee's house a woman of "
- "the town anoints his feet, and her sins are let go \"because she loved much.\" Tertullian works through the chapter in "
- "order (Marc. 4.18) and Epiphanius quotes from four of the scenes. Not printed: the passage on John's baptism and \"this "
- "generation\" (7:29–35), which no witness cites although Tertullian's argument needed it."
+ "Four encounters fill this chapter, and in none of them is understanding where you would expect it. A Roman "
+ "officer, a man who gives orders for a living, grasps that a word can heal from a distance, and will not even "
+ "have him under his roof. A widow at a city gate, burying her only son, asks for nothing at all. John sends a "
+ "question: are you the one who is coming? And in a respectable house at dinner, a woman whose sin the text "
+ "never names stands behind him weeping, wiping his feet with her hair, while the host keeps his thoughts to "
+ "himself. Notice who is inside and who is outside, who is counted worthy and who knows they are not. Listen to "
+ "what the crowd says when the dead young man sits up. And watch a debt that is not cancelled but given away as "
+ "a gift. Trust is the thread that runs through it all, and the chapter ends with a woman sent into peace."
 )
 
 NOTES = [

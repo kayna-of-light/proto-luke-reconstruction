@@ -135,14 +135,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The Living One. At early dawn the women come to the tomb with spices and do not find the body. Two men in dazzling clothing "
- "say to them: \"Why do you seek the Living One among the dead? He has been raised. Remember all that he spoke to you while he was "
- "still in Galilee.\" The women report it, and the learners do not believe them. On the road to Emmaus Jesus joins two of them, "
- "Cleopas and another, who do not recognize him. They say: \"We thought that he is the one who was about to release Israel by ransom.\" He answers: "
- "\"O you without understanding and slow of heart to trust in all that he spoke to you!\" At table he breaks the bread, and their eyes are "
- "opened. Then he stands among the learners. They are afraid and think they see a spirit. He says: \"See my hands and my feet, "
- "that I am he myself; because a spirit does not have bones, as you see me having.\" He asks for food. He sends them to proclaim "
- "a change of mind for release of sins upon his name to all the nations. No witness cites the text beyond this point."
+ "Deep dawn, on the first day of the week. The women come with spices to a tomb that is open and empty, and two "
+ "men in flashing clothing ask the question that becomes the chapter: why do you seek the Living One among the "
+ "dead? The women remember; the emissaries call it idle talk. That same day two learners walk away from "
+ "Jerusalem, and a stranger falls in beside them. Their eyes are held. They tell him everything, and he calls "
+ "them slow of heart to trust all that he had told them. At evening they press him to stay, and at table he "
+ "takes the loaf, blesses it, breaks it and gives it. Their eyes open, and he is gone. Then he stands in the "
+ "middle of them all, and they think they are seeing a spirit. See my hands and my feet. He asks for something "
+ "to eat. The text breaks off mid-sentence, on a change of mind and a release, to be proclaimed to all the "
+ "nations."
 )
 
 NOTES = [
