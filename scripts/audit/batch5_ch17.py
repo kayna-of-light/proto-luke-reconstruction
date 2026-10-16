@@ -10,49 +10,49 @@ T371 = T('4.37.1', '"Consequitur et Zachaei domus salutem… exceptum domo sua p
 T374 = T('4.37.4', '"Servorum quoque parabola, qui secundum rationem feneratae pecuniae dominicae diiudicantur, iudicem ostendit deum, etiam ex parte severitatis, non tantum honorantem verum et auferentem quod quis videatur habuisse. Aut si et hic creatorem finxerit austerum, tollentem quod non posuerit et metentem quod non severit…"')
 
 ENTRIES = [
- U('19:1', G('19:1'), 'He entered Jericho and was passing through.', 'Inside the attested pericope 19:1–10.'),
- A('19:2', G('19:2'), 'And there was a man named Zacchaeus; he was a chief tax collector and was rich.',
+ U('19:1', G('19:1'), 'And going in, he was passing through Jericho.', 'Inside the attested pericope 19:1–10.'),
+ A('19:2', G('19:2'), 'And look, a man called by name Zacchaeus; and he was a chief tax collector, and he was rich.',
    'present (Marc. 4.37.1)', [T371]),
- U('19:3', G('19:3'), 'He was trying to see who Jesus was, but on account of the crowd he could not, because he was small in stature.', 'Inside the attested pericope 19:1–10.'),
- U('19:4', G('19:4'), 'So he ran ahead and climbed up into a sycamore tree to see him, for he was about to pass that way.', 'Inside the attested pericope 19:1–10.'),
- U('19:5', G('19:5'), 'And when Jesus came to the place, he looked up and said to him, "Zacchaeus, hurry and come down, for I must stay at your house today."', 'Inside the attested pericope 19:1–10.'),
- A('19:6', G('19:6'), 'So he hurried and came down and received him joyfully.',
+ U('19:3', G('19:3'), 'And he was seeking to see Jesus, who he is, and he could not because of the crowd, for he was small in stature.', 'Inside the attested pericope 19:1–10.'),
+ U('19:4', G('19:4'), 'And running ahead to the front, he went up into a sycomore-fig tree, so that he might see him, because he was about to pass through that way.', 'Inside the attested pericope 19:1–10.'),
+ U('19:5', G('19:5'), 'And when he came to the place, looking up, Jesus said to him, "Zacchaeus, hurry and come down, for today I must stay in your house."', 'Inside the attested pericope 19:1–10.'),
+ A('19:6', G('19:6'), 'And he hurried and came down, and received him as a guest, rejoicing.',
    'present (Marc. 4.37.1)', [T('4.37.1', '"exceptum domo sua pascens dominum".')]),
- U('19:7', G('19:7'), 'And when they saw it, they all grumbled, "He has gone in to be the guest of a man who is a sinner."', 'Inside the attested pericope 19:1–10.'),
- A('19:8', G('19:8'), 'Zacchaeus stood and said to the Lord, "Look, Lord, half of my possessions I give to the poor, and if I have defrauded anyone of anything, I restore it fourfold."',
+ U('19:7', G('19:7'), 'And seeing it, all were grumbling, saying, "He has gone in to lodge with a sinful man."', 'Inside the attested pericope 19:1–10.'),
+ A('19:8', G('19:8'), 'But Zacchaeus, standing, said to the lord, "Look, half of my possessions, lord, I give to the destitute; and if I have extorted anything from anyone, I give it back fourfold."',
    'present (Marc. 4.37.1)', [T371], wording='NA27. Tertullian\'s order of the elements varies; Roth: order uncertain.'),
- A('19:9', G('19:9'), 'And Jesus said to him, "Today salvation has come to this house, since he also is a son of Abraham.',
+ A('19:9', G('19:9'), 'And Jesus said to him, "Today salvation has come to this house, because he too is a son of Abraham;',
    'present (Marc. 4.37.1)', [T371]),
- A('19:10', G('19:10'), 'For the son of man came to seek and to save the lost."',
+ A('19:10', G('19:10'), 'for the son of the human came to seek and to save what was lost."',
    'present (Marc. 4.37.2)', [T('4.37.2', '"Cum vero dicit, Venit enim filius hominis salvum facere quod periit…"')],
    wording='NA27. Tertullian does not have "to seek"; Roth: it "may not have been present". Printed.'),
- A('19:11', G('19:11'), 'As they heard these things, he went on to tell a parable, because he was near Jerusalem and because they supposed that the kingdom of God was to appear immediately.',
+ A('19:11', G('19:11'), 'And as they were hearing these things, he went on and told a parable, because he was near Jerusalem and they thought that the kingdom of God was about to be shown at once.',
    'present (Marc. 4.37.4)', [T374]),
- U('19:12', G('19:12'), 'He said therefore, "A nobleman went into a far country to receive for himself a kingdom and then return.', 'Inside the attested parable 19:11–27.'),
- A('19:13', G('19:13'), 'Calling ten of his servants, he gave them ten minas, and said to them, \'Engage in business until I come.\'',
+ U('19:12', G('19:12'), 'So he said, "A certain well-born man journeyed into a far country, to receive a kingdom for himself and return.', 'Inside the attested parable 19:11–27.'),
+ A('19:13', G('19:13'), "And calling ten slaves of his, he gave them ten minas and said to them, 'Do business with this while I am coming.'",
    'present (Marc. 4.37.4; 4.39.11)', [T374, T('4.39.11', '"relicta pecunia servis qua feneraretur".')]),
- U('19:14', G('19:14'), 'But his citizens hated him and sent a delegation after him, saying, \'We do not want this man to reign over us.\'', 'Inside the attested parable 19:11–27.'),
- U('19:15', G('19:15'), 'When he returned, having received the kingdom, he ordered these servants to whom he had given the money to be called to him, that he might know what they had gained by doing business.', 'Inside the attested parable 19:11–27.'),
- U('19:16', G('19:16'), 'The first came before him, saying, \'Lord, your mina has made ten minas more.\'', 'Inside the attested parable 19:11–27.'),
- U('19:17', G('19:17'), 'And he said to him, \'Well done, good servant! Because you have been faithful in a very little, you shall have authority over ten cities.\'', 'Inside the attested parable 19:11–27.'),
- U('19:18', G('19:18'), 'And the second came, saying, \'Lord, your mina has made five minas.\'', 'Inside the attested parable 19:11–27.'),
- U('19:19', G('19:19'), 'And he said to him, \'And you are to be over five cities.\'', 'Inside the attested parable 19:11–27.'),
- U('19:20', G('19:20'), 'Then another came, saying, \'Lord, here is your mina, which I kept laid away in a handkerchief;', 'Inside the attested parable 19:11–27.'),
- U('19:21', G('19:21'), 'for I was afraid of you, because you are a severe man. You take what you did not deposit, and reap what you did not sow.\'', 'Inside the attested parable 19:11–27.'),
- A('19:22', G('19:22'), 'He said to him, \'I will condemn you with your own words, you wicked servant! You knew that I was a severe man, taking what I did not deposit and reaping what I did not sow?',
+ U('19:14', G('19:14'), "But his citizens hated him, and sent an embassy after him, saying, 'We do not want this man to reign over us.'", 'Inside the attested parable 19:11–27.'),
+ U('19:15', G('19:15'), 'And it happened, when he returned having received the kingdom, that he said that these slaves to whom he had given the silver should be called to him, so that he might know what they had gained by doing business.', 'Inside the attested parable 19:11–27.'),
+ U('19:16', G('19:16'), "And the first arrived, saying, 'Lord, your mina has earned ten minas more.'", 'Inside the attested parable 19:11–27.'),
+ U('19:17', G('19:17'), "And he said to him, 'Well done, good slave! Because you have been trustworthy in a very little, have authority over ten cities.'", 'Inside the attested parable 19:11–27.'),
+ U('19:18', G('19:18'), "And the second came, saying, 'Your mina, lord, has made five minas.'", 'Inside the attested parable 19:11–27.'),
+ U('19:19', G('19:19'), "And he said to this one also, 'And you, be over five cities.'", 'Inside the attested parable 19:11–27.'),
+ U('19:20', G('19:20'), "And the other came, saying, 'Lord, look, your mina, which I kept laid away in a cloth;", 'Inside the attested parable 19:11–27.'),
+ U('19:21', G('19:21'), "for I was afraid of you, because you are a harsh man: you take up what you did not lay down, and reap what you did not sow.'", 'Inside the attested parable 19:11–27.'),
+ A('19:22', G('19:22'), "He says to him, 'Out of your own mouth I judge you, evil slave. You knew that I am a harsh man, taking up what I did not lay down and reaping what I did not sow?",
    'present (Marc. 4.37.4)', [T374]),
- A('19:23', G('19:23'), 'Why then did you not put my money in the bank, and at my coming I might have collected it with interest?\'',
+ A('19:23', G('19:23'), "And why did you not put my silver on a bank table? And I, coming, would have collected it with interest.'",
    'present (Marc. 4.37.4)', [T('4.37.4', '"hic quoque me ille instruit cuius pecuniam ut fenerem edocet".')]),
- U('19:24', G('19:24'), 'And he said to those who stood by, \'Take the mina from him, and give it to the one who has the ten minas.\'', 'Inside the attested parable 19:11–27.'),
- U('19:25', G('19:25'), 'And they said to him, \'Lord, he has ten minas!\'', 'Inside the attested parable 19:11–27.'),
- A('19:26', G('19:26'), '\'I tell you that to everyone who has, more will be given; but from the one who has not, even what he has will be taken away.',
+ U('19:24', G('19:24'), "And to those standing by he said, 'Take the mina from him and give it to the one who has the ten minas'—", 'Inside the attested parable 19:11–27.'),
+ U('19:25', G('19:25'), "and they said to him, 'Lord, he has ten minas'—", 'Inside the attested parable 19:11–27.'),
+ A('19:26', G('19:26'), '\'I tell you that to everyone who has, it will be given; but from the one who does not have, even what he has will be taken away.\'"',
    'present (Marc. 4.37.4)', [T374],
    wording='NA27. Tertullian\'s "what he seems to have" (quod quis videatur habuisse) is cited by NA27 for Marcion (ὃ δοκεῖ ἔχειν, with Θ 69 syc.h**); Roth: possible only (cf. 8:18). Not adopted.'),
 ]
 
 OMITTED = [
  dict(ref='19:27', cls='U−', app=dict(roth='unattested', witnesses=[], decision='not printed',
-      reason=('"But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me." Tertullian\'s point in 4.37.4 is that the parable shows God as a judge "even on the side of severity", and he finds that severity in the master taking away what the servant seemed to have (19:26). '
+      reason=('"But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me." Tertullian\'s point in 4.37.4 is that the parable shows God as a judge "even on the side of severity", and he finds that severity in the master taking away what the slave seemed to have (19:26). '
               'The command to slaughter the master\'s enemies would have been his strongest evidence, and he does not cite it. The verse ends the NA27 paragraph 19:11–27.'))),
  dict(ref='19:28', cls='U?', app=dict(roth='unattested', witnesses=[], decision='not printed',
       reason='"After he had said this, he went on ahead, going up to Jerusalem." A one-verse NA27 paragraph with no attested verse; it introduces the entry (19:29–46), which Epiphanius says was absent.')),
@@ -64,13 +64,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Zacchaeus and the money entrusted to the servants. In Jericho, Zacchaeus, a rich chief tax collector, receives Jesus into "
- "his house, gives half his goods to the poor and restores fourfold what he has taken by fraud. \"Today salvation has come to "
- "this house… for the son of man came to seek and to save the lost.\" Jesus then tells of a nobleman who gives his servants "
- "money to trade with and, on his return, judges them by what they have done with it. In this text the parable ends with "
- "\"from the one who has not, even what he has will be taken away\". The slaughter of the master's enemies (19:27) is not "
- "cited. The entry into Jerusalem, the lament over the city and the cleansing of the temple (19:29–46) are absent: "
- "Epiphanius states that the text lacked them."
+ "Something in us has grown rich by collecting what others owe. It comes down in a hurry, glad, and opens its "
+ "house, and before anyone asks it gives half of everything away and repays what it took four times over. Today,"
+ " it is told. Not someday.\n\n"
+ "Everything around it is sure the kingdom is about to appear at once. So a story is told about waiting. "
+ "Something is entrusted to each of us, a small sum, and we are told to put it to work until the owner returns.\n\n"
+ "One of us thinks the owner hard, and does nothing at all with what it was given. It is judged out of its own "
+ "mouth.\n\n"
+ "To everyone who has, more will be given."
 )
 
 NOTES = [
@@ -80,11 +81,11 @@ NOTES = [
   "fourfold\"; \"Today, he said, salvation to this house.\" Tertullian reads this as Isaiah 58:7 fulfilled, and \"the son of "
   "man came to save what was lost\" as the salvation of the whole person, body and soul. 19:1, 19:3–5 and 19:7 are not cited "
   "and are printed in grey.")),
- dict(term='The money entrusted to the servants (19:11–26)', cat='textual', refs=['19:11', '19:13', '19:22', '19:23', '19:26'], text=(
-  "Tertullian, Marc. 4.37.4: \"the parable of the servants who are judged according to the account of their master's money "
+ dict(term='The money entrusted to the slaves (19:11–26)', cat='textual', refs=['19:11', '19:13', '19:22', '19:23', '19:26'], text=(
+  "Tertullian, Marc. 4.37.4: \"the parable of the slaves who are judged according to the account of their master's money "
   "lent at interest shows God as judge, even on the side of severity\". He has the \"austere\" master \"taking what he did not "
   "deposit and reaping what he did not sow\", and taking away \"what one seemed to have\". He mentions the parable again at "
-  "4.39.11 (\"leaving money with his servants to trade with\"). The unattested verses of the parable are printed in grey.")),
+  "4.39.11 (\"leaving money with his slaves to trade with\"). The unattested verses of the parable are printed in grey.")),
  dict(term='Not printed: 19:27–48', cat='excision', refs=['19:26'], text=(
   "19:27, the slaughter of the enemies who did not want the nobleman to reign, is not cited by Tertullian, though his point "
   "was the master's severity; it is classed probably absent. 19:29–46 are absent by Epiphanius' statement (sch. 53): the "
@@ -97,4 +98,44 @@ NOTES = [
   "temple teaching (20:1; 21:37), and the authorities question his authority there. Epiphanius' charge is that Marcion cut "
   "these scenes out. On the Marcionite-priority view, canonical Luke added them. The witnesses establish only that they were "
   "absent from the text.")),
+ dict(term='διήρχετο, "was passing through"', cat='translation', refs=['19:1'], text='The imperfect: he was on his way through.'),
+ dict(term='ἀρχιτελώνης, "a chief tax collector"', cat='translation', refs=['19:2'], text='Head of the tax and toll collectors of a district.'),
+ dict(term='τίς ἐστιν, "who he is"', cat='translation', refs=['19:3'], text='The present tense inside the sentence, as the Greek has it.'),
+ dict(term='τῇ ἡλικίᾳ μικρός, "small in stature"', cat='translation', refs=['19:3'], text='ἡλικία, as at 12:25.'),
+ dict(term='προδραμών, "running ahead"', cat='translation', refs=['19:4'], text='To run on before.'),
+ dict(term='συκομορέαν, "a sycomore-fig tree"', cat='translation', refs=['19:4'], text='A fig tree with mulberry-like leaves, not the European sycamore.'),
+ dict(term='ἀναβλέψας, "looking up"', cat='translation', refs=['19:5'], text='ἀναβλέπω, the verb of "see again" (18:41–43), here in its plain sense.'),
+ dict(term='σήμερον… δεῖ με μεῖναι, "today I must stay"', cat='translation', refs=['19:5'], text='δεῖ, as at 4:43.'),
+ dict(term='ὑπεδέξατο, "received him as a guest"', cat='translation', refs=['19:6'], text="To receive under one's roof."),
+ dict(term='διεγόγγυζον, "were grumbling"', cat='translation', refs=['19:7'], text='As at 15:2.'),
+ dict(term='καταλῦσαι, "to lodge"', cat='translation', refs=['19:7'], text='As at 9:12.'),
+ dict(term='σταθείς, "standing"', cat='translation', refs=['19:8'], text="To stand still, take one's stand."),
+ dict(term='τὸν κύριον… κύριε, "the lord… lord"', cat='translation', refs=['19:8'], text="The narrator's word and Zacchaeus' address, both κύριος."),
+ dict(term='δίδωμι… ἀποδίδωμι, "I give… I give back"', cat='translation', refs=['19:8'], text='Present tense. It can mean what he now resolves to do, or what he already does. The Greek does not decide.'),
+ dict(term='ἐσυκοφάντησα, "I have extorted"', cat='translation', refs=['19:8'], text='To extort by false accusation.'),
+ dict(term='τετραπλοῦν, "fourfold"', cat='translation', refs=['19:8'], text='Four times the amount, as the law required for a stolen sheep (Ex 22:1).'),
+ dict(term='σωτηρία, "salvation"', cat='translation', refs=['19:9'], text='From σῴζω (7:50): rescue, being made whole.'),
+ dict(term='ζητῆσαι καὶ σῶσαι τὸ ἀπολωλός, "to seek and to save what was lost"', cat='translation', refs=['19:10'], text='ἀπόλλυμι, as at 15:4–6. The Greek is neuter: "the lost thing".'),
+ dict(term='ἀναφαίνεσθαι, "to be shown"', cat='translation', refs=['19:11'], text='To be brought into view, appear.'),
+ dict(term='εὐγενής, "well-born"', cat='translation', refs=['19:12'], text='Of noble birth.'),
+ dict(term='λαβεῖν ἑαυτῷ βασιλείαν, "to receive a kingdom for himself"', cat='translation', refs=['19:12'], text='βασιλεία here is royal rule, kingship, as client kings received it from Rome.'),
+ dict(term='δέκα μνᾶς, "ten minas"', cat='translation', refs=['19:13'], text="A mina was about a hundred days' wages."),
+ dict(term='Πραγματεύσασθε, "do business"', cat='translation', refs=['19:13'], text='To trade.'),
+ dict(term='ἐν ᾧ ἔρχομαι, "while I am coming"', cat='translation', refs=['19:13'], text='Literally "in which I come": until I come back.'),
+ dict(term='πολῖται, "citizens"', cat='translation', refs=['19:14'], text='The people of his city.'),
+ dict(term='πρεσβείαν, "an embassy"', cat='translation', refs=['19:14'], text='A delegation of elders.'),
+ dict(term='βασιλεῦσαι, "to reign"', cat='translation', refs=['19:14'], text='The verb of βασιλεία.'),
+ dict(term='τὸ ἀργύριον, "the silver"', cat='translation', refs=['19:15'], text='Money, as at 9:3.'),
+ dict(term='προσηργάσατο, "has earned… more"', cat='translation', refs=['19:16'], text='To gain by working in addition.'),
+ dict(term='Εὖγε, "well done"', cat='translation', refs=['19:17'], text='An exclamation of approval.'),
+ dict(term='ἀγαθὲ δοῦλε, "good slave"', cat='translation', refs=['19:17'], text='As at 7:2.'),
+ dict(term='ἐν ἐλαχίστῳ πιστός, "trustworthy in a very little"', cat='translation', refs=['19:17'], text='As at 16:10.'),
+ dict(term='ἐν σουδαρίῳ, "in a cloth"', cat='translation', refs=['19:20'], text='A Latin word (sudarium), a cloth for wiping sweat.'),
+ dict(term='αὐστηρός, "harsh"', cat='translation', refs=['19:21'], text='Severe, strict, hard.'),
+ dict(term='λέγει, "he says"', cat='translation', refs=['19:22'], text='The present tense, kept.'),
+ dict(term='πονηρὲ δοῦλε, "evil slave"', cat='translation', refs=['19:22'], text='πονηρός, as at 6:45.'),
+ dict(term='ἐπὶ τράπεζαν, "on a bank table"', cat='translation', refs=['19:23'], text="τράπεζα, a table, the moneychanger's table: a bank."),
+ dict(term='σὺν τόκῳ, "with interest"', cat='translation', refs=['19:23'], text='τόκος, literally "offspring": what money breeds.'),
+ dict(term='τοῖς παρεστῶσιν, "to those standing by"', cat='translation', refs=['19:24'], text='His attendants.'),
+ dict(term='λέγω ὑμῖν, "I tell you"', cat='translation', refs=['19:26'], text='Whether the master or Jesus speaks this sentence, the Greek does not mark. In this text the parable ends here; 19:27 is not printed.'),
 ]

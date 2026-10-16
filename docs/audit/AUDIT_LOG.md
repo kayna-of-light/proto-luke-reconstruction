@@ -622,3 +622,79 @@ METHOD §5.7 now states the rule for NA27's bracketed words, which batch 2 alrea
 - **Q5 checked.** No "spiritual body" language occurs. "The Living One" is used at 24:5.
 - **All six batch scripts were rerun in order.** The JSON and apparatus they produce are identical to the committed files except for the Q4 translations.
 - **README and CLAUDE.md** now describe the actual schema, the apparatus, the build and the decision rules.
+
+## The text before Marcion: correspondential test (2026-10-14)
+
+Method: METHOD §11. The work is in `docs/research/correspondence/`.
+
+### What was done
+
+- **Translated.** Every printed verse was translated into its inner sense and read as one story (`reading/`, `story.md`).
+- **Seams tested.** Every seam in the attested text was tested against the inner mechanics (`register.md`). None fails. Each seam is carried inwardly by the attested text:
+  - the opening, by 16:16;
+  - the arrival at the centre, by 19:11–26 and 20:1–19;
+  - "these things" (21:7), by 19:11 and 17:20–37;
+  - the denial foretold at 22:34, by 23:55, 24:11, 24:16 and 24:37;
+  - the step from recognition to fright (24:31 → 24:37), as the inner form recognised and then known in the outer form.
+
+  No passage is proposed. Attested absence stands.
+- **Readings classified.** The 54 Marcionite readings printed under §5 fall into two groups (`decisions.md`):
+  - 34 are shared with independent manuscripts;
+  - 20 are Marcion's alone.
+
+### Change to the text
+
+| Verse | Before | Now | Basis |
+|---|---|---|---|
+| 18:19 | εἷς ὁ θεὸς ὁ πατήρ, "except one, God the Father" | εἷς ὁ θεός, "except God alone" (NA27) | The later copies of Marcion's text (Epiphanius sch. 50; the Dialogue) have "the Father". Tertullian 4.36.3, the earliest witness, does not. In the inner reading "Father" is relational everywhere else, and only this reading makes it a title. |
+
+### Recorded, no change
+
+- **Marcion-only readings that stand.** The other 19 Marcion-only readings stand.
+- **11:29 and 24:25.** The printed forms are the ones the attested text supports. The canonical forms point to passages that are absent (11:30–32) or probably absent (24:27, 24:44–46).
+- **Doubts where both forms run.** Seven remain recorded doubts: 8:21, 10:21, 11:42, 13:28, 16:17, 21:27, 22:3.
+- **10:21, "and of earth".** The omission is shared with 𝔓45 and stands.
+
+## Translation from the Greek (2026-10-14)
+
+Method: METHOD §6, rewritten for this pass. The English of every printed verse was translated afresh from the printed Greek, including the adopted Marcionite readings, and not revised from the previous English or from any published version.
+
+### What was done
+
+- **Text.** 699 of the 708 printed verses have new English; the other 9 already said what the Greek says. The English stays in the build scripts (`en=` of each entry), from which `data/proto_luke.json` and the PDF are built.
+- **Translation notes.** The 5 earlier translation notes are replaced by 1,123 notes, attached to the verses they explain. Each note names the Greek word, its rendering, and why: the meaning in use, the alternatives, what the English cannot show (number, tense, word order), and where this text's wording differs from canonical Luke. A fixed rendering is explained where it first occurs.
+- **Fixed renderings** (METHOD §6). Examples:
+  - δοῦλος "slave";
+  - ἄγγελος "messenger";
+  - μαθητής "learner";
+  - ἀπόστολος "emissary";
+  - πίστις "trust";
+  - μετάνοια "change of mind";
+  - ἀφίημι of sins "let go";
+  - μακάριος "fortunate";
+  - πτωχός "destitute";
+  - ὁ υἱὸς τοῦ ἀνθρώπου "the son of the human";
+  - Ἰάκωβος "Jacob";
+  - κύριος in lower case unless it renders the divine name.
+- **The edition's own prose.** Preambles, textual, excision and theological notes, apparatus English, and the preface now quote the text in the new wording and use the same vocabulary when they speak of the text. Quotations of Tertullian's Latin, of other writings (the Epistle of James, Paul) and of canonical readings not printed here keep their own wording.
+
+### Renderings that decide a reading
+
+- **17:21 ἐντὸς ὑμῶν: "inside you".** "Among you" is a widely held reading, but the Greek would more naturally say that with ἐν μέσῳ.
+- **11:8 ἀναίδεια: "shamelessness".** The usual "persistence" is not what the word means.
+- **18:19 εἷς ὁ θεός: "except one, God".** This replaces "except God alone" in the entry above; it keeps the Greek order.
+- **24:39.** The clause is kept in the Greek order ("as you see me having"), which allows both groupings. The note gives both, and Tertullian's report of the Marcionite one (4.43.7).
+- **11:2.** Translates only the printed clause ("let your holy spirit come"). The longer form known from 700 and Gregory of Nyssa is in the note, not the text.
+
+## Layout and chapter introductions (2026-10-16)
+
+- **Page.** The text is set without column headings or colour legend; the preface explains the columns, the grey verses and the margin references. Greek and English are set flush left. Each chapter is headed by its number and the span of Luke it covers.
+- **Notes.** Each chapter ends with two sets, in small type and two columns: notes on the restoration (textual, excision and theological) and notes on the translation.
+- **Introductions.** The 22 chapter introductions are rewritten. They no longer summarise the notes; they lead the reader into the chapter and point to what to watch for, so that its movement can be seen in the text itself.
+- **Introductions, second version.** Rewritten again from a correspondential reading of each chapter (one soul; places as states, persons as powers, the central figure as truth). The soul is now the subject and the chapter's images show through it; nothing is decoded. Every image an introduction uses was checked against the attestation: none rests on a grey verse. Introductions are set in paragraphs.
+- **Introductions checked.** Each introduction was re-read line by line against the attested wording, against how Swedenborg's key operates on its images (not his conclusions), and against the library's account of number (*The Resolution of the Finite Mind*). Corrections: details the text does not give were removed (the daimon is muzzled after it speaks, 4:35; the rich man alone sees, 16:23; the ruler is grieved, 18:23, not said to leave; 24:25 is a rebuke); numbers the text gives were restored (the twelve chosen, 6:13; seventy, 10:1; three measures, 13:21; the two twelves of 8:42–43 as one span); five loaves read as the whole of what is had, not as little; the coin of 15:8 read as the second kind of loss (silver within the house beside a living thing in the desert), not a smaller one; "the Living One" (24:5) kept as the text's own name.
+- **Introductions checked against Swedenborg's Latin.** The previous check of the key was from memory; it has been redone against the Latin text (Third Latin Edition, via the New Christian Bible Study Latin search), reading how the key operates on each image, never taking his conclusions as grounds. Confirmed: sabbath (AC 8495), evening and morning (AC 22), city and mountain (AC 402, 795), Galilee of the nations (AE 447), casting out daimons (AE 455; AC 4793), a prophet in his own country (AC 4844), the widow (AC 9198; AE 1121), Peter and the nets (AE 820), new wine and old skins (AE 376), Tyre and Sidon (AC 1201), splinter and beam (AC 9051), twelve (AE 430; AC 3272), hundredfold (AC 2636), seventy (AC 6508, 9404), "Peace to this house" and the dust (AE 365), infants (AC 5608), the cup (AC 5120), the lilies (AC 8478), eighteen (AC 1709), the mustard seed (AC 55), the oxen and the dinner (AE 548), the poor (AC 10227), the lost sheep (AC 9836), the rich man and Lazarus (AC 9231), ten (DSS 17), Lot's wife (AC 9207, 10300), the fig tree (AC 4231), Passover (AC 7093; AE 401), bread (AE 617). Corrected: the fifteenth year added to chapter 1 (AC 798, 9760, 8400: scarcely anything, as much as enough, the new after a full period); evening as the state of our own (AC 22); the fringe as the outermost, where power is (AC 9917), not as too little; twelve as a full count (AE 430), not an age; Moses and Elijah as the law and the prophets (AC 6752); the key of 11:52 taken away, not kept.
+- **Revision.** Greek and English are justified again. The restoration notes are set in one column at the full text width, near text size, flush left; the translation notes in two columns, each note kept whole within a column. Both sets refer to verses by their Luke reference, as the margin does, and a note whose heading already names its verses carries no second reference. Each set opens with a rule and a heading in the chapter colour, which never stands alone at the foot of a page. Characters Palatino lacks (ℵ, 𝔓, →, ḥ) are drawn from Cambria.
+- **Justification and hyphenation.** All running text is justified: Greek, English, introductions, preface and both sets of notes. Hyphenation keeps the word spacing even: English by dictionary (pyphen), Greek by classical syllable division (no break inside a diphthong; consonant groups that can begin a word go with the following vowel, Smyth §140). Translation-note references hang in their own narrow column. The preface is set at the text width with normal paragraph spacing and bold run-in heads, as in the notes. Running heads give the book title on left pages and the section on right pages, and are omitted on opening pages; all page furniture is in Palatino. One rule marks the start of a chapter's notes.
+- **Grid.** Every block shares one text block (the frame, without inner padding): running head, Greek and English, introduction, preface and both sets of notes start and end on the same two edges. Greek and English are equal columns either side of a 14 pt centre gutter, the same gutter as the translation notes; the Luke references stand outside the block in the margin, on the baseline of the verse's first English line. Chapter and preface titles start at the same height. Checked by measuring every line's edges in the PDF, not by eye.
+
