@@ -44,13 +44,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "He is at dinner, and he turns to his host with advice that makes no social sense. Do not invite those who can "
- "invite you back. Invite those who have nothing to repay you with: the destitute, the crippled, the lame, the "
- "blind. You will be repaid at the rising of the just. One of the guests, pleased by the thought, says how "
- "fortunate it will be to eat bread in the kingdom of God. The reply is a story about exactly that meal. A man "
- "prepares a great dinner and sends his slave to say that everything is ready. Every invited guest has a reason:"
- " a field, five yoke of oxen, a new wife. So the house is filled from the streets and the lanes, the roads and "
- "the hedges, and none of those who were invited will taste it."
+ "There is a kind of hospitality that is really an exchange. We invite whatever in us can invite us back, and "
+ "the meal is paid off before it is eaten.\n\n"
+ "A great dinner is made ready, and the call goes out: come, it is ready now. Everything that was invited has "
+ "something else to see to first. A field has just been bought and must be looked at. Five yoke of oxen must be "
+ "tried out. A marriage has been made, and that settles it.\n\n"
+ "So the call goes out again, into the streets and lanes, to what is poor in us, crippled, blind and lame, the "
+ "parts we never thought to ask. They come. There is still room.\n\n"
+ "Then further, to the roads and the hedges, the edges of the edges, until the house is full.\n\n"
+ "None of those first invited will taste the dinner."
 )
 
 NOTES = [

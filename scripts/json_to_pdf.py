@@ -223,6 +223,7 @@ def create_styles(use_palatino=True):
         hyphenationLang=hyphenate,
         spaceAfter=22
     ))
+    styles.add(ParagraphStyle(name='PreambleInner', parent=styles['Preamble'], spaceAfter=7))
     
     # Greek text style
     styles.add(ParagraphStyle(
@@ -636,7 +637,10 @@ def create_chapter(chapter, styles):
         elements.append(Paragraph(escape_xml(f'{first} – {last}'), styles['ChapterSpan']))
     
     if preamble:
-        elements.append(Paragraph(escape_xml(preamble), styles['Preamble']))
+        paras = [p.strip() for p in preamble.split('\n\n') if p.strip()]
+        for i, para in enumerate(paras):
+            style = styles['Preamble'] if i == len(paras) - 1 else styles['PreambleInner']
+            elements.append(Paragraph(escape_xml(para), style))
     
     # Verses
     verse_elements = create_verse_table(verses, styles)

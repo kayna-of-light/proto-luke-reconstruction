@@ -141,14 +141,15 @@ ENTRIES = [
 OMITTED = []
 
 PREAMBLE = (
- "He goes up the mountain alone and stays there all night. When day comes he chooses twelve, and then he does "
- "something worth noticing: he comes down with them and stands on level ground. Everything in this chapter is "
- "spoken from that level place, to a crowd drawn from the whole land, from Jerusalem to the coast of Tyre. What "
- "he says turns the world over. The destitute are fortunate; the full have already been paid. Love the enemy, "
- "lend without despairing, give, and it will be poured back into your fold. The measure you use is the measure "
- "you receive. Then the images narrow from the crowd to the single person: a splinter and a beam in the same "
- "eye, a tree known by its fruit, a heart whose overflow comes out through the mouth. It ends with two houses "
- "and one river. Both builders heard. Only one dug down to the rock."
+ "Some things are settled at night, on high ground, alone. When day comes they come down, and they do not stay "
+ "above us: they stand on level ground, where every part of a life can reach them, from its centre to its "
+ "farthest coast.\n\n"
+ "What is said there turns our accounts upside down. What is empty is called fortunate; what is full is told it "
+ "has already been paid. The enemy is to be loved, and the hand that takes is to be given more. Every measure we"
+ " use, we will find used on us.\n\n"
+ "Then the speech narrows from the crowd to the eye. There is a splinter we see very clearly, and a beam we do "
+ "not see at all. A tree cannot hide its fruit, and a mouth speaks what the heart is full of.\n\n"
+ "It is easy to say \"lord, lord\". The question is what we do."
 )
 
 NOTES = [

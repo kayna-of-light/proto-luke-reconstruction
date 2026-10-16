@@ -38,13 +38,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "This is the shortest chapter, and in this text it is shorter than readers of Luke expect. Tax collectors and "
- "sinners are drawing near to hear him, and the respectable grumble: he receives sinners and eats with them. He "
- "answers with two small stories, one about a man and one about a woman. A shepherd with a hundred sheep leaves "
- "the ninety-nine in the desert to go after one, and comes home carrying it on his shoulders. A woman with ten "
- "silver coins lights a lamp and sweeps the house until she finds the one she lost. Each calls in the neighbours"
- " to rejoice. Read them side by side. The one that is found does nothing at all. It is sought, found and "
- "carried, and heaven rejoices over it as over one sinner who has changed his mind."
+ "Most of what we are has never strayed: ninety-nine parts that stay where they are put and need nothing "
+ "changed. One has gone missing, and that is where the whole attention goes.\n\n"
+ "The ninety-nine are left in the wilderness. The lost one is followed until it is found, and then it is not "
+ "driven home but carried, on the shoulders, with joy. Everyone nearby is called in to rejoice.\n\n"
+ "The second time the loss is smaller and closer. A single coin out of ten has rolled away somewhere inside the "
+ "house. A lamp is lit. The whole house is swept and searched, every corner, until it turns up.\n\n"
+ "Neither of them is scolded. Neither is asked where it has been.\n\n"
+ "There is more joy over one that turns than over all that never needed to."
 )
 
 NOTES = [

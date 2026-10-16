@@ -121,14 +121,16 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "This is the chapter of the handing over, and every power in the land takes its turn. The council brings him to"
- " Pilate with its charges: perverting the nation, abolishing the law and the prophets, forbidding tribute, "
- "turning away the women and the children. Pilate finds nothing. Herod, hungry for a sign, gets silence, dresses"
- " him in a bright garment and sends him back, and on that day the two rulers become friends. A third time "
- "Pilate says he has found no cause of death, and the crowd shouts him down, and the man thrown into prison for "
- "uprising and murder is released instead. Jesus is crucified between two evil-doers. At midday the sun fails, "
- "and the curtain of the sanctuary is torn down the middle. Father, into your hands. Then a good man takes the "
- "body down, and the women who came with him from Galilee rest, because it is the sabbath."
+ "Every power in us that rules from outside now has truth in its hands. The prince of the edges has wanted to "
+ "see it for a long time, hopes for a sign, and gets silence. The governor asks a third time what evil it has "
+ "done: he has found no cause. But the voices are louder, and the voices win.\n\n"
+ "They ask instead for what was locked up for uprising and murder, and it is set free.\n\n"
+ "At the place of the skull, between two who did evil, truth is put to death. At midday the sun fails, darkness "
+ "covers the whole land, and the curtain at the centre is torn down the middle. The last words are not a cry of "
+ "defeat: into your hands.\n\n"
+ "Then one member of the very council that condemned it, who never agreed, comes forward and asks for the body. "
+ "It is laid in rock where nothing has lain before.\n\n"
+ "The women who came from the edge watch where it is laid, make ready the spices, and rest."
 )
 
 NOTES = [

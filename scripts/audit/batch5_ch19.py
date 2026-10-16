@@ -94,15 +94,16 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The chapter opens on a question that seems to have lost its beginning: teacher, when then will these things "
- "be? What follows is not a timetable. Do not be led astray; many will come using his name. Wars and upheavals, "
- "earthquakes and famines, terrors and signs from heaven. Before all of it, you will be handed over, even by "
- "parents and friends, and need not prepare a word of your defence. By your endurance gain your souls. Jerusalem"
- " will be surrounded; the sea will roar; people will faint with fear; the powers of the heavens will be shaken."
- " Then the son of the human comes from the heavens with much power, and the instruction is to straighten up and"
- " lift your heads. Look at the fig tree when it puts out its leaves. The sky and the earth will pass away; his "
- "words will not. By day he teaches in the temple, by night he lodges on the mountain, and the people rise at "
- "dawn to hear him."
+ "Everyone wants to know when, and what the sign will be. The answer is not a date. Many voices will come using "
+ "truth's own name, saying the time is near. Do not follow them.\n\n"
+ "Before anything ends, everything shakes. One part of us rises against another. The ground moves. What is "
+ "closest to us hands us over. The centre we built is surrounded. Sun, moon and stars lose their bearings, and "
+ "the sea roars. We are not to rehearse our defence; a mouth and wisdom will be given when they are needed.\n\n"
+ "And at exactly that point, when the powers of the heavens are shaken, we are told to straighten up and lift "
+ "our heads. A fig tree puts out leaves, and anyone can tell that summer is near.\n\n"
+ "Hearts can be weighed down with drink and with the cares of every day. Watch yourselves.\n\n"
+ "By day, truth teaches at the centre. At night it goes out to the mountain. And early in the morning, "
+ "everything in us comes to hear it."
 )
 
 NOTES = [

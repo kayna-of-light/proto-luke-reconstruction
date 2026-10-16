@@ -305,9 +305,12 @@ def generate_chapter(chapter: dict) -> str:
     
     # Add preamble if present
     if preamble:
+        paras = r"""
+
+""".join(escape_latex(p.strip()) for p in preamble.split('\n\n') if p.strip())
         latex += r"""
 \begin{quote}
-\textit{""" + escape_latex(preamble) + r"""}
+\itshape """ + paras + r"""
 \end{quote}
 \vspace{10pt}
 """

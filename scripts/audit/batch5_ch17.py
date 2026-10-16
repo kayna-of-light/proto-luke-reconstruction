@@ -64,14 +64,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Jericho, and a man too short to see over the crowd. He is a chief tax collector and rich, like the ruler who "
- "went away grieving. He runs ahead and climbs a tree. Jesus stops beneath it, looks up, and tells him to hurry "
- "down: today I must stay in your house. Everyone grumbles. Zacchaeus stands and gives half of everything away. "
- "Today salvation has come to this house. Then, because they are near Jerusalem and expect the kingdom of God to"
- " appear at once, he tells of a well-born man who goes into a far country to receive a kingdom, leaving ten "
- "slaves a mina each. His citizens do not want him to reign over them. When he returns he asks what each slave "
- "did with what was given. In this text the parable ends on one plain principle: to everyone who has, it will be"
- " given."
+ "Something in us has grown rich by collecting what others owe. It comes down in a hurry, glad, and opens its "
+ "house, and before anyone asks it gives half of everything away and repays what it took four times over. Today,"
+ " it is told. Not someday.\n\n"
+ "Everything around it is sure the kingdom is about to appear at once. So a story is told about waiting. "
+ "Something is entrusted to each of us, a small sum, and we are told to put it to work until the owner returns.\n\n"
+ "One of us thinks the owner hard, and does nothing at all with what it was given. It is judged out of its own "
+ "mouth.\n\n"
+ "To everyone who has, more will be given."
 )
 
 NOTES = [

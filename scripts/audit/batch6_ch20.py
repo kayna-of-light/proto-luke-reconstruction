@@ -140,15 +140,17 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The feast of the unleavened loaves is near, and with it the night the whole book has been travelling toward. "
- "Judas, one of the twelve, goes to the high priests and is promised silver. Two learners follow a man carrying "
- "a jar of water to an upper room. At the table he says he has longed with longing to eat this Passover before "
- "he suffers. He takes a loaf, gives thanks and breaks it: this is my body, given for you. The cup after the "
- "meal is the new covenant in his blood. Simon is told that he will be sifted like wheat, and that before the "
- "rooster crows he will disown him three times. On the Mountain of Olives he kneels a stone's throw away and "
- "prays: not my will but yours. A crowd arrives, led by a friend with a kiss. In the night he is blindfolded, "
- "beaten and mocked, and when day comes he stands before the council, which asks him a name he will neither take"
- " nor refuse."
+ "The feast of unleavened bread is near, the night of leaving bondage, and something from within the circle of "
+ "our own powers goes off to agree a price.\n\n"
+ "At the table, truth gives itself away in the plainest things there are. Bread is broken and handed round: this"
+ " is my body, given for you. A cup is passed: the new covenant. It has longed to eat this meal.\n\n"
+ "The boldest part of us swears it is ready for prison and for death, and is told that before the cock crows it "
+ "will have said three times that it does not know truth at all.\n\n"
+ "A stone's throw away, alone, truth kneels and prays. Then the one from the table comes forward with a crowd "
+ "and greets it with a kiss.\n\n"
+ "When day comes, the highest authority in us sits in judgement. Are you the Anointed One? If I tell you, you "
+ "will not trust. Are you the son of God, then?\n\n"
+ "You say that I am."
 )
 
 NOTES = [

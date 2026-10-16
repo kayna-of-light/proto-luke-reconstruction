@@ -178,14 +178,17 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Tens of thousands are trampling one another to hear him, and he speaks first to his learners, about leaven. "
- "What was whispered in the inner rooms will be proclaimed from the roofs. Do not fear those who can only kill "
- "the body. A rich man's land bears too much, and he talks to his own soul about bigger barns; that night the "
- "soul is demanded back. Then the ravens, who keep no storeroom, and the lilies, who neither spin nor weave, and"
- " Solomon outdone by a flower. The chapter turns to waiting: lamps burning, loins girded, slaves awake at the "
- "door, and a lord who comes home and serves them at table himself. Then fire, an immersion he must pass "
- "through, a household split down the middle. It ends on the road to court. You can read the face of the sky. "
- "Why can you not read this time?"
+ "Things whispered in inner rooms do not stay there. Whatever we said in the dark will be heard in the light, "
+ "and what threatens us from outside can only kill what is outside.\n\n"
+ "Part of us has a good harvest. It tells its soul that it has plenty laid up for years to come, and that it can"
+ " rest. That night the soul is asked for back.\n\n"
+ "Look instead at the ravens, which have no storeroom, and the lilies, which do no work and are clothed better "
+ "than the richest king. The kingdom has already been given. It does not have to be stored.\n\n"
+ "What is asked of us is to stay awake: belts fastened, lamps lit, listening for a knock. Whatever is found "
+ "awake will be served at table by the master himself. Whatever decides the master is late, and starts beating "
+ "the others, will not be ready.\n\n"
+ "Then fire, and a division running through the house. We read the face of the sky without difficulty. We cannot"
+ " read the time we are in."
 )
 
 NOTES = [

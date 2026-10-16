@@ -87,14 +87,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Trip-traps will come; woe to the one who sets them. If your brother wrongs you seven times in a day and seven "
- "times turns back, let it go. Then, on the way to Jerusalem, between Samaria and Galilee, ten leprous men meet "
- "him at a village. In this text he recalls Elisha's day, when of all the leprous in Israel only Neeman the "
- "Syrian was cleansed, and sends them to the priests. All ten are cleansed on the way. One turns back, shouting "
- "his praise, and he is a Samaritan. Asked when the kingdom of God is coming, he says that it does not come with"
- " close watching: it is inside you. What follows is about days: the days of Noah and of Lot, when people ate "
- "and built and married until the end came. Remember the wife of Lot. Two in one bed, two women at one mill: one"
- " taken along, one let go."
+ "Ten parts of us are unclean, and all ten are sent to show themselves, and on the way all ten are made clean. "
+ "Only one turns back to give thanks, and it is the one we would least expect: the stranger, the one from the "
+ "border country. Where are the nine?\n\n"
+ "Then the question comes, as it always does: when will the kingdom come? Where should we be looking? Not here, "
+ "not there. Not by watching closely. It is already inside.\n\n"
+ "And yet there will be days of longing, days when it cannot be seen. Life will go on as it always has. We will "
+ "eat and drink, buy and sell, plant and build, and none of it will be wrong, and none of it will be what "
+ "matters when that day comes.\n\n"
+ "Remember the woman who looked back."
 )
 
 NOTES = [

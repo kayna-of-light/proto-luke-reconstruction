@@ -135,15 +135,17 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Deep dawn, on the first day of the week. The women come with spices to a tomb that is open and empty, and two "
- "men in flashing clothing ask the question that becomes the chapter: why do you seek the Living One among the "
- "dead? The women remember; the emissaries call it idle talk. That same day two learners walk away from "
- "Jerusalem, and a stranger falls in beside them. Their eyes are held. They tell him everything, and he calls "
- "them slow of heart to trust all that he had told them. At evening they press him to stay, and at table he "
- "takes the loaf, blesses it, breaks it and gives it. Their eyes open, and he is gone. Then he stands in the "
- "middle of them all, and they think they are seeing a spirit. See my hands and my feet. He asks for something "
- "to eat. The text breaks off mid-sentence, on a change of mind and a release, to be proclaimed to all the "
- "nations."
+ "Very early, while it is still deep dawn, the part of us that stayed comes with spices for the dead and finds "
+ "nothing to anoint. Two figures in flashing clothes ask the question that turns the whole book around: why seek"
+ " the living among the dead?\n\n"
+ "What it reports sounds to the rest of us like idle talk.\n\n"
+ "Later, two of us are walking away, talking it over. Truth comes alongside and walks with them, and they do not"
+ " know it. They describe it to its face by the old name, the one first heard in the assembly: a man, a prophet,"
+ " and how they had hoped. They are slow of heart, and it is patient with them.\n\n"
+ "At the table it takes the bread, blesses it, breaks it and gives it, and their eyes are opened, and in the "
+ "same moment it can no longer be seen.\n\n"
+ "Then, while we are still afraid it is only a spirit, it shows its hands and feet, and asks for something to "
+ "eat."
 )
 
 NOTES = [
