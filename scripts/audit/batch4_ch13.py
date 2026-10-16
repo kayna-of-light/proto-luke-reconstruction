@@ -38,12 +38,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Most of what we are has never strayed: ninety-nine parts that stay where they are put and need nothing "
- "changed. One has gone missing, and that is where the whole attention goes.\n\n"
+ "Most of what we are has never strayed: ninety-nine parts that live in what they love and need nothing changed."
+ " One has wandered off without knowing it, and that is where the whole attention goes.\n\n"
  "The ninety-nine are left in the wilderness. The lost one is followed until it is found, and then it is not "
  "driven home but carried, on the shoulders, with joy. Everyone nearby is called in to rejoice.\n\n"
- "The second loss is not a living thing but silver: one coin out of ten, lost inside the house itself. A lamp is"
- " lit. The whole house is swept and searched, every corner, until it turns up.\n\n"
+ "The second loss is not a living thing but silver: one coin out of ten, lost inside the house itself. Something"
+ " in us that loves the truth lights a lamp, and the whole house is swept, every corner where a thing can hide, "
+ "until it turns up.\n\n"
  "Neither of them is scolded. Neither is asked where it has been.\n\n"
  "There is more joy over one that turns than over all that never needed to."
 )
