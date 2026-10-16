@@ -27,6 +27,10 @@ import os
 # Custom page size (7x10 inches - common for academic books)
 BOOK_SIZE = (7*inch, 10*inch)
 
+# The one grid: every block spans the frame; two-column blocks share this centre gutter
+GUTTER = 14
+MARGIN_REF_GAP = 8
+
 # Color definitions
 CHAPTER_COLOR = colors.Color(139/255, 69/255, 19/255)  # Saddle brown
 VERSE_NUM_COLOR = colors.Color(128/255, 0, 0)  # Dark red
@@ -217,8 +221,6 @@ def create_styles(use_palatino=True):
         leading=15,
         alignment=TA_JUSTIFY,
         hyphenationLang=hyphenate,
-        leftIndent=24,
-        rightIndent=24,
         spaceAfter=22
     ))
     
@@ -344,7 +346,8 @@ class ProtoLukeDoc(BaseDocTemplate):
             0.7*inch, 0.7*inch,
             self.pagesize[0] - 1.4*inch,
             self.pagesize[1] - 1.4*inch,
-            id='normal'
+            id='normal',
+            leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0
         )
         
         template = PageTemplate(id='normal', frames=frame, onPageEnd=self.add_page_elements)
@@ -435,7 +438,6 @@ def create_preface_page(description, styles):
     elements = []
     
     elements.append(RunningHead('Preface'))
-    elements.append(Spacer(1, 1*inch))
     
     elements.append(Paragraph("Preface", styles['ChapterTitle']))
     
@@ -456,11 +458,40 @@ def create_preface_page(description, styles):
     return elements
 
 
+class VerseRow(Flowable):
+    """Greek and English filling the text block either side of the centre gutter; the Luke
+    reference sits outside the block, in the margin, on the first line's baseline."""
+    SPACE_AFTER = 5
+    
+    def __init__(self, greek, english, ref, ref_style):
+        super().__init__()
+        self.greek, self.english, self.ref, self.ref_style = greek, english, ref, ref_style
+    
+    def wrap(self, availWidth, availHeight):
+        self.col = (availWidth - GUTTER) / 2
+        self.width = availWidth
+        hg = self.greek.wrap(self.col, availHeight)[1]
+        he = self.english.wrap(self.col, availHeight)[1]
+        self.body = max(hg, he)
+        self.height = self.body + self.SPACE_AFTER
+        return self.width, self.height
+    
+    def split(self, availWidth, availHeight):
+        return []
+    
+    def draw(self):
+        top = self.height
+        self.greek.drawOn(self.canv, 0, top - self.greek.height)
+        self.english.drawOn(self.canv, self.col + GUTTER, top - self.english.height)
+        st = self.ref_style
+        self.canv.setFont(st.fontName, st.fontSize)
+        self.canv.setFillColor(st.textColor)
+        self.canv.drawString(self.width + MARGIN_REF_GAP, top - self.english.style.fontSize, self.ref)
+
+
 def create_verse_table(verses, styles):
     """Greek and English side by side, the Luke reference small in the margin."""
     elements = []
-    
-    col_widths = [2.45*inch, 2.7*inch, 0.45*inch]
     
     for verse in verses:
         verse_num = verse.get('verse', '')
@@ -473,20 +504,9 @@ def create_verse_table(verses, styles):
         
         verse_marker = f'<font color="#800000" size="7"><super>{verse_num}</super></font> '
         
-        data = [[Paragraph(verse_marker + greek, styles['GreekText']),
-                 Paragraph(verse_marker + english, styles['EnglishText']),
-                 Paragraph(escape_xml(canon_ref), styles['MarginRef'])]]
-        
-        t = Table(data, colWidths=col_widths)
-        t.setStyle(TableStyle([
-            ('VALIGN', (0, 0), (-1, -1), 'TOP'),
-            ('LEFTPADDING', (0, 0), (-1, -1), 3),
-            ('RIGHTPADDING', (0, 0), (-1, -1), 5),
-            ('TOPPADDING', (0, 0), (-1, -1), 2),
-            ('BOTTOMPADDING', (0, 0), (-1, -1), 5),
-        ]))
-        
-        elements.append(t)
+        elements.append(VerseRow(Paragraph(verse_marker + greek, styles['GreekText']),
+                                 Paragraph(verse_marker + english, styles['EnglishText']),
+                                 canon_ref, styles['MarginRef']))
     
     return elements
 
@@ -568,11 +588,14 @@ def _note_flowables(notes, style, luke_of, ref_first):
 
 
 def _notes_break(title, styles, rule):
-    # A heading never stands alone at the foot of a page
-    out = [CondPageBreak(2 * inch), Spacer(1, 22)]
+    # A heading never stands alone at the foot of a page; the space above it vanishes at a page top
+    out = [CondPageBreak(2 * inch)]
     if rule:
-        out.append(HRFlowable(width=0.9 * inch, thickness=0.6, color=CHAPTER_COLOR, spaceAfter=10))
-    return out + [Paragraph(title, styles['NotesHeading'])]
+        out.append(HRFlowable(width=0.9 * inch, thickness=0.6, color=CHAPTER_COLOR,
+                              spaceBefore=22, spaceAfter=10))
+        return out + [Paragraph(title, styles['NotesHeading'])]
+    return out + [Paragraph(title, ParagraphStyle('NotesHeadingSpaced', parent=styles['NotesHeading'],
+                                                  spaceBefore=22))]
 
 
 def create_notes_section(notes, verses, styles):
@@ -588,7 +611,8 @@ def create_notes_section(notes, verses, styles):
     if translation:
         elements.extend(_notes_break('Notes on the translation', styles, not restoration))
         elements.append(BalancedColumns(_note_flowables(translation, styles['Note'], luke_of, True),
-                                        nCols=2, innerPadding=14, leftPadding=0, rightPadding=0))
+                                        nCols=2, innerPadding=GUTTER, leftPadding=0, rightPadding=0,
+                                        endSlack=0))  # any overrun would be shrunk to fit
     
     return elements
 
