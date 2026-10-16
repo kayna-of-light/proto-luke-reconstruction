@@ -38,15 +38,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Most of what we are has never strayed: ninety-nine parts that live in what they love and need nothing changed."
- " One has wandered off without knowing it, and that is where the whole attention goes.\n\n"
- "The ninety-nine are left in the wilderness. The lost one is followed until it is found, and then it is not "
- "driven home but carried, on the shoulders, with joy. Everyone nearby is called in to rejoice.\n\n"
- "The second loss is not a living thing but silver: one coin out of ten, lost inside the house itself. Something"
- " in us that loves the truth lights a lamp, and the whole house is swept, every corner where a thing can hide, "
- "until it turns up.\n\n"
+ "Something in us keeps a whole flock, a hundred, and loses one. No one says it strayed. It was lost, and the "
+ "one who lost it is the one who goes after it.\n\n"
+ "The ninety-nine are left where they are, in the desert. The lost one is followed until it is found, and then "
+ "it is not driven home but carried, on the shoulders, with joy, into the house. Friends and neighbours are "
+ "called in to rejoice.\n\n"
+ "The second loss happens indoors, and it is not a living thing but silver: one coin out of a full ten. Whatever"
+ " keeps the house lights a lamp and sweeps every corner until it turns up.\n\n"
  "Neither of them is scolded. Neither is asked where it has been.\n\n"
- "There is more joy over one that turns than over all that never needed to."
+ "There is more joy over one that turns than over ninety-nine that see no need to."
 )
 
 NOTES = [
