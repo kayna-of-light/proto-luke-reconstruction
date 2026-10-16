@@ -6,6 +6,7 @@ Generates a professional PDF with Greek/English parallel columns using ReportLab
 
 import json
 import re
+import unicodedata
 from pathlib import Path
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import letter, A4
@@ -16,7 +17,8 @@ from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, PageBreak, Table, TableStyle,
     KeepTogether, NextPageTemplate, PageTemplate, Frame, BaseDocTemplate, CondPageBreak
 )
-from reportlab.platypus.flowables import BalancedColumns, HRFlowable
+from reportlab.platypus.flowables import BalancedColumns, HRFlowable, Flowable
+import reportlab.platypus.paragraph as _rlpara
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen import canvas
@@ -32,6 +34,63 @@ NOTE_COLOR = colors.Color(40/255, 40/255, 40/255)  # Near black
 
 # Code points Palatino can draw; anything else goes to the fallback font
 FALLBACK = {'glyphs': None}
+
+try:
+    import pyphen
+    _ENGLISH = pyphen.Pyphen(lang='en_US')
+except ImportError:
+    _ENGLISH = None
+
+_GREEK_LETTERS = set('αβγδεζηθικλμνξοπρσςτυφχψω')
+_GREEK_VOWELS = set('αεηιουω')
+_DIPHTHONGS = {'αι', 'ει', 'οι', 'υι', 'αυ', 'ευ', 'ηυ', 'ου', 'ωυ'}
+# Consonant groups that can begin a word go with the following vowel (Smyth §140)
+_ONSETS = set(('βδ βλ βρ γδ γλ γμ γν γρ δμ δν δρ θλ θμ θν θρ κλ κμ κν κρ κτ μν '
+               'πλ πν πρ πτ σβ σγ σθ σκ σμ σπ στ σφ σχ τλ τμ τρ φθ φλ φν φρ χθ χλ χμ χν '
+               'χρ σκλ σκρ σπλ σπρ στρ σφρ σχρ').split())
+
+
+def _greek_breaks(word):
+    """Positions where a polytonic Greek word may be divided between syllables."""
+    base, diaeresis, subscript = [], [], []
+    for c in word:
+        d = unicodedata.normalize('NFD', c)
+        base.append(d[0].lower())
+        diaeresis.append('\u0308' in d)
+        subscript.append('\u0345' in d)
+    nuclei, i = [], 0
+    while i < len(word):
+        if base[i] in _GREEK_VOWELS:
+            pair = base[i] + base[i + 1] if i + 1 < len(word) else ''
+            if pair in _DIPHTHONGS and not diaeresis[i + 1] and not subscript[i]:
+                nuclei.append((i, i + 2))
+                i += 2
+                continue
+            nuclei.append((i, i + 1))
+        i += 1
+    breaks = []
+    for (_, s), (e, _) in zip(nuclei, nuclei[1:]):
+        cluster = ''.join(base[s:e])
+        if any(c not in _GREEK_LETTERS for c in cluster):
+            continue
+        k = next((k for k in range(len(cluster)) if len(cluster) - k == 1 or cluster[k:] in _ONSETS),
+                 len(cluster))
+        breaks.append(s + k)
+    return [b for b in breaks if b >= 2 and len(word) - b >= 2]
+
+
+def hyphenate(word):
+    """(head, tail) pairs, longest head first: classical syllables for Greek, a dictionary for English."""
+    if any(unicodedata.normalize('NFD', c)[0].lower() in _GREEK_LETTERS for c in word):
+        return [(word[:b], word[b:]) for b in reversed(_greek_breaks(word))]
+    return list(_ENGLISH.iterate(word)) if _ENGLISH else []
+
+
+# ReportLab only offers Latin and Cyrillic words to a hyphenator; admit Greek and the raised dot too
+_rlpara._hy_letters += '\u0370-\u03ff\u1f00-\u1fff'
+_rlpara._hy_letters_pat = re.compile(f'^[{_rlpara._hy_letters}]+$')
+_rlpara._hy_shy_letters_pat = re.compile(f'^[{_rlpara._hy_shy}{_rlpara._hy_letters}]+$')
+_rlpara._hy_sfx_pat = re.compile(_rlpara._hy_sfx_pat.pattern.replace(']+$', '\u00b7\u0387]+$'))
 TERM_COLOR = colors.Color(0, 51/255, 102/255)  # Dark blue
 UNATTESTED_COLOR = "#808080"  # Grey: verse not cited by any witness (attestation: unattested)
 
@@ -157,6 +216,7 @@ def create_styles(use_palatino=True):
         fontSize=10.5,
         leading=15,
         alignment=TA_JUSTIFY,
+        hyphenationLang=hyphenate,
         leftIndent=24,
         rightIndent=24,
         spaceAfter=22
@@ -169,6 +229,7 @@ def create_styles(use_palatino=True):
         fontSize=10,
         leading=14,
         alignment=TA_JUSTIFY,
+        hyphenationLang=hyphenate,
     ))
     
     # English text style
@@ -178,6 +239,7 @@ def create_styles(use_palatino=True):
         fontSize=10,
         leading=14,
         alignment=TA_JUSTIFY,
+        hyphenationLang=hyphenate,
     ))
 
     # Luke reference in the margin column
@@ -201,39 +263,55 @@ def create_styles(use_palatino=True):
         textColor=CHAPTER_COLOR
     ))
     
-    # A restoration note: full text width, run-in heading, flush left
+    # A restoration note: full text width, run-in heading
     styles.add(ParagraphStyle(
         name='RestorationNote',
         fontName=base_font,
         fontSize=9,
         leading=13,
-        alignment=TA_LEFT,
+        alignment=TA_JUSTIFY,
+        hyphenationLang=hyphenate,
         spaceAfter=8,
         textColor=NOTE_COLOR
     ))
     
-    # A translation note: two columns, flush left
+    # A translation note: two columns
     styles.add(ParagraphStyle(
         name='Note',
         fontName=base_font,
         fontSize=8.5,
         leading=11.5,
-        alignment=TA_LEFT,
+        alignment=TA_JUSTIFY,
+        hyphenationLang=hyphenate,
         spaceAfter=5,
         textColor=NOTE_COLOR
     ))
     
-    # Description/preface style
+    # Description/preface style: the measure and rhythm of the text
     styles.add(ParagraphStyle(
         name='Preface',
         fontName=base_font,
         fontSize=10,
-        leading=15,
+        leading=14,
         alignment=TA_JUSTIFY,
-        leftIndent=30,
-        rightIndent=30,
-        spaceBefore=20,
-        spaceAfter=20
+        hyphenationLang=hyphenate,
+        spaceAfter=9
+    ))
+    
+    # Small centred lines of the title page
+    styles.add(ParagraphStyle(
+        name='TitleLine',
+        fontName=italic_font,
+        fontSize=12,
+        leading=16,
+        alignment=TA_CENTER
+    ))
+    styles.add(ParagraphStyle(
+        name='TitleFoot',
+        fontName=base_font,
+        fontSize=10,
+        leading=14,
+        alignment=TA_CENTER
     ))
     
     return styles
@@ -269,40 +347,53 @@ class ProtoLukeDoc(BaseDocTemplate):
             id='normal'
         )
         
-        template = PageTemplate(id='normal', frames=frame, onPage=self.add_page_elements)
+        template = PageTemplate(id='normal', frames=frame, onPageEnd=self.add_page_elements)
         self.addPageTemplates([template])
     
     def add_page_elements(self, canvas, doc):
-        """Add header and footer to each page."""
+        """Running head and folio; opening pages carry the folio only."""
         canvas.saveState()
         
         page_num = doc.page
+        font = 'Palatino' if FALLBACK['glyphs'] else 'Times-Roman'
+        italic = 'Palatino-Italic' if FALLBACK['glyphs'] else 'Times-Italic'
         
-        # Skip headers on first few pages (title, preface, TOC)
-        if page_num > 3:
-            # Header
-            canvas.setFont('Times-Italic', 9)
+        if not RUNNING['opener'] and RUNNING['head']:
+            canvas.setFont(italic, 9)
             canvas.setFillColor(colors.gray)
-            
-            if page_num % 2 == 0:  # Even pages - left header
-                canvas.drawString(0.7*inch, self.pagesize[1] - 0.5*inch, 
-                                  "The Gospel (Proto-Luke)")
-            else:  # Odd pages - right header
-                canvas.drawRightString(self.pagesize[0] - 0.7*inch, 
-                                       self.pagesize[1] - 0.5*inch,
-                                       self.title)
-            
-            # Header line
+            y = self.pagesize[1] - 0.5*inch
+            if page_num % 2 == 0:
+                canvas.drawString(0.7*inch, y, 'The Gospel (Proto-Luke)')
+            else:
+                canvas.drawRightString(self.pagesize[0] - 0.7*inch, y, RUNNING['head'])
             canvas.setStrokeColor(colors.lightgrey)
-            canvas.line(0.7*inch, self.pagesize[1] - 0.6*inch,
-                        self.pagesize[0] - 0.7*inch, self.pagesize[1] - 0.6*inch)
+            canvas.setLineWidth(0.5)
+            canvas.line(0.7*inch, y - 0.1*inch, self.pagesize[0] - 0.7*inch, y - 0.1*inch)
+        RUNNING['opener'] = False
         
-        # Page number (centered at bottom)
-        canvas.setFont('Times-Roman', 10)
-        canvas.setFillColor(colors.black)
-        canvas.drawCentredString(self.pagesize[0]/2, 0.4*inch, str(page_num))
+        if page_num > 1:
+            canvas.setFont(font, 9)
+            canvas.setFillColor(colors.black)
+            canvas.drawCentredString(self.pagesize[0]/2, 0.4*inch, str(page_num))
         
         canvas.restoreState()
+
+
+RUNNING = {'head': '', 'opener': True}
+
+
+class RunningHead(Flowable):
+    """Marks where a section opens: that page has no running head, the next pages carry its name."""
+    def __init__(self, head):
+        super().__init__()
+        self.head = head
+    
+    def wrap(self, availWidth, availHeight):
+        return 0, 0
+    
+    def draw(self):
+        RUNNING['head'] = self.head
+        RUNNING['opener'] = True
 
 
 def create_title_page(styles):
@@ -326,25 +417,13 @@ def create_title_page(styles):
     
     elements.append(Spacer(1, 0.5*inch))
     
-    elements.append(Paragraph(
-        "<i>A Reconstruction of the</i>",
-        ParagraphStyle('centered', parent=styles['Normal'], alignment=TA_CENTER, fontSize=12)
-    ))
-    elements.append(Paragraph(
-        "<i>Jamesian Protograph</i>",
-        ParagraphStyle('centered', parent=styles['Normal'], alignment=TA_CENTER, fontSize=12)
-    ))
+    elements.append(Paragraph("A Reconstruction of the", styles['TitleLine']))
+    elements.append(Paragraph("Jamesian Protograph", styles['TitleLine']))
     
     elements.append(Spacer(1, 2*inch))
     
-    elements.append(Paragraph(
-        "With Greek and English Parallel Text",
-        ParagraphStyle('small_center', parent=styles['Normal'], alignment=TA_CENTER, fontSize=10)
-    ))
-    elements.append(Paragraph(
-        "and Scholarly Commentary",
-        ParagraphStyle('small_center', parent=styles['Normal'], alignment=TA_CENTER, fontSize=10)
-    ))
+    elements.append(Paragraph("With Greek and English Parallel Text", styles['TitleFoot']))
+    elements.append(Paragraph("and Scholarly Commentary", styles['TitleFoot']))
     
     elements.append(PageBreak())
     
@@ -355,16 +434,22 @@ def create_preface_page(description, styles):
     """Create the preface/description page."""
     elements = []
     
+    elements.append(RunningHead('Preface'))
     elements.append(Spacer(1, 1*inch))
     
-    elements.append(Paragraph("PREFACE", styles['ChapterTitle']))
+    elements.append(Paragraph("Preface", styles['ChapterTitle']))
     
     elements.append(Spacer(1, 0.3*inch))
     
     for para in description.split('\n\n'):
-        if para.strip():
-            elements.append(Paragraph(escape_xml(para.strip()), styles['Preface']))
-            elements.append(Spacer(1, 0.12*inch))
+        para = escape_xml(para.strip())
+        if not para:
+            continue
+        # A short opening sentence is the paragraph's run-in heading, as in the notes
+        m = re.match(r'([A-Z][^.]{0,40}\.)\s', para)
+        if m and len(m.group(1).split()) <= 5:
+            para = f'<b>{m.group(1)}</b>{para[m.end(1):]}'
+        elements.append(Paragraph(para, styles['Preface']))
     
     elements.append(PageBreak())
     
@@ -431,10 +516,33 @@ def luke_refs(numbers, luke_of):
 REF_COLOR = '#8c8c8c'
 
 
-class WholeParagraph(Paragraph):
-    """A short note that moves to the next column rather than break across two."""
+class HangingNote(Flowable):
+    """A translation note with its reference hung to the left; kept whole within a column."""
+    REF_WIDTH = 0.48 * inch
+    
+    def __init__(self, ref, text, style):
+        super().__init__()
+        ref_style = ParagraphStyle('NoteRef', parent=style, alignment=TA_LEFT,
+                                   textColor=colors.HexColor(REF_COLOR), hyphenationLang='')
+        self.cells = [Paragraph(ref, ref_style), Paragraph(text, style)]
+        self.gap = style.spaceAfter
+    
+    def wrap(self, availWidth, availHeight):
+        self.table = Table([self.cells], colWidths=[self.REF_WIDTH, availWidth - self.REF_WIDTH])
+        self.table.setStyle(TableStyle([
+            ('VALIGN', (0, 0), (-1, -1), 'TOP'),
+            ('LEFTPADDING', (0, 0), (-1, -1), 0),
+            ('RIGHTPADDING', (0, 0), (-1, -1), 0),
+            ('TOPPADDING', (0, 0), (-1, -1), 0),
+            ('BOTTOMPADDING', (0, 0), (-1, -1), self.gap),
+        ]))
+        return self.table.wrap(availWidth, availHeight)
+    
     def split(self, availWidth, availHeight):
         return []
+    
+    def draw(self):
+        self.table.drawOn(self.canv, 0, 0)
 
 
 def _note_flowables(notes, style, luke_of, ref_first):
@@ -445,13 +553,11 @@ def _note_flowables(notes, style, luke_of, ref_first):
         explanation = escape_xml(note.get('explanation', ''))
         refs = luke_refs(note.get('verse_refs', []), luke_of)
         if ref_first:
-            ref = f'<font color="{REF_COLOR}">{refs}</font>&nbsp;&nbsp;' if refs else ''
             # Only the Greek is bold; the English gloss after it stays plain
             m = re.match(r'([^"].*?),\s*(".*)$', raw_term)
             head = (f'<b>{escape_xml(m.group(1))}</b>, {escape_xml(m.group(2))}' if m
                     else f'<b>{term}</b>')
-            text = f'{ref}{head}: {explanation}'
-            out.append(WholeParagraph(text, style))
+            out.append(HangingNote(refs, f'{head}: {explanation}', style))
             continue
         else:
             # A heading that already names its verses needs no second reference
@@ -461,12 +567,12 @@ def _note_flowables(notes, style, luke_of, ref_first):
     return out
 
 
-def _notes_break(title, styles):
+def _notes_break(title, styles, rule):
     # A heading never stands alone at the foot of a page
-    return [CondPageBreak(2 * inch),
-            Spacer(1, 22),
-            HRFlowable(width=0.9 * inch, thickness=0.6, color=CHAPTER_COLOR, spaceAfter=10),
-            Paragraph(title, styles['NotesHeading'])]
+    out = [CondPageBreak(2 * inch), Spacer(1, 22)]
+    if rule:
+        out.append(HRFlowable(width=0.9 * inch, thickness=0.6, color=CHAPTER_COLOR, spaceAfter=10))
+    return out + [Paragraph(title, styles['NotesHeading'])]
 
 
 def create_notes_section(notes, verses, styles):
@@ -477,10 +583,10 @@ def create_notes_section(notes, verses, styles):
     translation = [n for n in notes if n.get('category') == 'translation']
     
     if restoration:
-        elements.extend(_notes_break('Notes on the restoration', styles))
+        elements.extend(_notes_break('Notes on the restoration', styles, True))
         elements.extend(_note_flowables(restoration, styles['RestorationNote'], luke_of, False))
     if translation:
-        elements.extend(_notes_break('Notes on the translation', styles))
+        elements.extend(_notes_break('Notes on the translation', styles, not restoration))
         elements.append(BalancedColumns(_note_flowables(translation, styles['Note'], luke_of, True),
                                         nCols=2, innerPadding=14, leftPadding=0, rightPadding=0))
     
@@ -498,6 +604,7 @@ def create_chapter(chapter, styles):
     notes = chapter.get('notes', [])
     
     # Chapter title, with the span of Luke it covers
+    elements.append(RunningHead(f'Chapter {chapter_num}'))
     elements.append(Paragraph(f'Chapter {chapter_num}', styles['ChapterTitle']))
     if verses:
         first = verses[0].get('canonical_ref', '')
