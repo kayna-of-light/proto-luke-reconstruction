@@ -124,13 +124,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Peter's confession and what follows from it. Asked who he is, Peter answers \"the Anointed One of God\", and Jesus at once speaks "
- "of suffering, rejection, death and being raised \"after three days\" (the form of Mark and of both witnesses). On the "
- "mountain he is seen with Moses and Elijah, and the voice from the cloud says \"This is my son, the beloved; hear him.\" "
- "Tertullian dwells on this scene to argue that Jesus stands with the law and the prophets, not against them (Marc. 4.22). "
- "Then come the epileptic boy (\"O untrusting generation\", without \"and perverse\"), the dispute about greatness, the "
- "Samaritan village where Jesus rebukes the learners' wish to call down fire, and three would-be followers. Unattested "
- "verses inside these passages are printed in grey. The strange exorcist (9:49–50), which no witness cites, is not printed."
+ "Who do the crowds say that I am? The chapter turns on that question, and on Peter's answer: the Anointed One "
+ "of God. He is told to tell no one. At once, and for the first time plainly, the cost is named: the son of the "
+ "human must suffer, be rejected, be killed, and be raised. To follow him is to take up the same road. Eight "
+ "days later three learners go up a mountain with him and see his face become other and his clothing flash like "
+ "lightning, with Moses and Elijah beside him in glory. A cloud covers them, and a voice says: hear him. Below, "
+ "a father's only son is being torn apart, and the learners cannot help. Then an argument about who is greater, "
+ "answered by a little child set beside him. From here the book changes direction. The days of his taking up are"
+ " being filled, and he sets his face toward Jerusalem."
 )
 
 NOTES = [

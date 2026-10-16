@@ -153,14 +153,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Five scenes from Galilee: the call of the fishermen, the cleansing of a leper, the healing of a paralysed man, the call of a "
- "tax collector with the question about fasting, and two sabbath disputes. Tertullian works through all of them in order "
- "(Marc. 4.9–4.12) and Epiphanius quotes from three. The section is set inside Jewish practice. The cleansed leper is sent to the "
- "priest with the offering Moses commanded; in this text the reason given is \"so that this may be a testimony to you\". "
- "The sabbath disputes argue from what David did and from what the law permits. The witnesses also show the Marcionite church "
- "explaining some of this away: Tertullian reports that Marcion read the leper's offering as a concession to the man's habit. "
- "A community does not insert into its own scripture a passage it has to explain away, so these passages are older than the "
- "Marcionite reading of them (interpretation)."
+ "The chapter begins at a lake: two empty boats, fishermen washing their nets after a night of catching nothing."
+ " He borrows one boat, sits in it, and then sends Simon out into the deep. What comes up is more than the nets "
+ "can hold, and the first thing Simon says is \"Go out from me.\" Keep an ear on one verb: to let go. The "
+ "fishermen let go of everything. A paralysed man is lowered through a roof into the middle of the room and told"
+ " that his sins have been let go. A tax collector leaves his booth and throws a feast. Each scene stands at the"
+ " edge of what is allowed, and each asks the same question: what is new, and what can hold it? Old garments "
+ "tear. Old skins burst. And on a sabbath, the day of rest, a man with a dry hand is told to get up and stand "
+ "into the middle, while the watchers fill with something that has no understanding in it."
 )
 
 NOTES = [

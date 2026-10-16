@@ -87,13 +87,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Stumbling, letting go, the ten lepers, and the days of the son of the human. Jesus warns against causing \"one of these little "
- "ones\" to stumble and tells his learners to let it go for a brother seven times a day. Passing between Samaria and Galilee, he "
- "meets ten lepers. In this text he recalls that in Elisha's time only Naaman the Syrian was cleansed (Luke 4:27, placed here "
- "by both witnesses) and sends them to show themselves to the priests. They are cleansed on the way, and the one who turns "
- "back to give glory to God is a Samaritan: \"your trust has saved you\". Asked when the kingdom comes, he says that it does "
- "not come with close watching, \"for look, the kingdom of God is inside you\". He speaks of the days of Noah and of Lot, and "
- "says: \"Remember the wife of Lot.\" Trust like a mustard seed and the unworthy slaves (17:5–10) are not printed."
+ "Trip-traps will come; woe to the one who sets them. If your brother wrongs you seven times in a day and seven "
+ "times turns back, let it go. Then, on the way to Jerusalem, between Samaria and Galilee, ten leprous men meet "
+ "him at a village. In this text he recalls Elisha's day, when of all the leprous in Israel only Neeman the "
+ "Syrian was cleansed, and sends them to the priests. All ten are cleansed on the way. One turns back, shouting "
+ "his praise, and he is a Samaritan. Asked when the kingdom of God is coming, he says that it does not come with"
+ " close watching: it is inside you. What follows is about days: the days of Noah and of Lot, when people ate "
+ "and built and married until the end came. Remember the wife of Lot. Two in one bed, two women at one mill: one"
+ " taken along, one let go."
 )
 
 NOTES = [

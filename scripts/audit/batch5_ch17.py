@@ -64,13 +64,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Zacchaeus and the money entrusted to the slaves. In Jericho, Zacchaeus, a rich chief tax collector, receives Jesus into "
- "his house, gives half his goods to the destitute and restores fourfold what he has taken by fraud. \"Today salvation has come to "
- "this house… for the son of the human came to seek and to save the lost.\" Jesus then tells of a nobleman who gives his slaves "
- "money to trade with and, on his return, judges them by what they have done with it. In this text the parable ends with "
- "\"from the one who does not have, even what he has will be taken away\". The slaughter of the master's enemies (19:27) is not "
- "cited. The entry into Jerusalem, the lament over the city and the cleansing of the temple (19:29–46) are absent: "
- "Epiphanius states that the text lacked them."
+ "Jericho, and a man too short to see over the crowd. He is a chief tax collector and rich, like the ruler who "
+ "went away grieving. He runs ahead and climbs a tree. Jesus stops beneath it, looks up, and tells him to hurry "
+ "down: today I must stay in your house. Everyone grumbles. Zacchaeus stands and gives half of everything away. "
+ "Today salvation has come to this house. Then, because they are near Jerusalem and expect the kingdom of God to"
+ " appear at once, he tells of a well-born man who goes into a far country to receive a kingdom, leaving ten "
+ "slaves a mina each. His citizens do not want him to reign over them. When he returns he asks what each slave "
+ "did with what was given. In this text the parable ends on one plain principle: to everyone who has, it will be"
+ " given."
 )
 
 NOTES = [

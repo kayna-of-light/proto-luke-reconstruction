@@ -685,3 +685,10 @@ Method: METHOD §6, rewritten for this pass. The English of every printed verse 
 - **18:19 εἷς ὁ θεός: "except one, God".** This replaces "except God alone" in the entry above; it keeps the Greek order.
 - **24:39.** The clause is kept in the Greek order ("as you see me having"), which allows both groupings. The note gives both, and Tertullian's report of the Marcionite one (4.43.7).
 - **11:2.** Translates only the printed clause ("let your holy spirit come"). The longer form known from 700 and Gregory of Nyssa is in the note, not the text.
+
+## Layout and chapter introductions (2026-10-16)
+
+- **Page.** The text is set without column headings or colour legend; the preface explains the columns, the grey verses and the margin references. Greek and English are set flush left. Each chapter is headed by its number and the span of Luke it covers.
+- **Notes.** Each chapter ends with two sets, in small type and two columns: notes on the restoration (textual, excision and theological) and notes on the translation.
+- **Introductions.** The 22 chapter introductions are rewritten. They no longer summarise the notes; they lead the reader into the chapter and point to what to watch for, so that its movement can be seen in the text itself.
+

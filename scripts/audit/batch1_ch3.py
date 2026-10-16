@@ -141,14 +141,14 @@ ENTRIES = [
 OMITTED = []
 
 PREAMBLE = (
- "The choosing of the twelve and the teaching given on the level place. Tertullian works through the sermon almost line by line "
- "(Marc. 4.13–4.17), so for this chapter the evidence is dense, and in several places the witnesses show the wording of "
- "Marcion's text where it differs from the canonical one. The beatitude is spoken of the destitute in the third person: \"Fortunate "
- "are the destitute, because theirs is the kingdom of God.\" Tertullian notes that the Greek word means beggars. Beatitudes on the destitute, the "
- "hungry and those who weep are matched by woes on the rich, the full and those who laugh. Then come the love of enemies, compassion, "
- "not judging, the measure that is returned, the two trees and the two treasures, and the question \"Why do you call me 'lord, "
- "lord', and do not do what I say?\". The emphasis throughout falls on what a person does. Three of the sayings the library pairs "
- "with the Epistle of James (6:24, 6:37, 6:46) are attested by the witnesses."
+ "He goes up the mountain alone and stays there all night. When day comes he chooses twelve, and then he does "
+ "something worth noticing: he comes down with them and stands on level ground. Everything in this chapter is "
+ "spoken from that level place, to a crowd drawn from the whole land, from Jerusalem to the coast of Tyre. What "
+ "he says turns the world over. The destitute are fortunate; the full have already been paid. Love the enemy, "
+ "lend without despairing, give, and it will be poured back into your fold. The measure you use is the measure "
+ "you receive. Then the images narrow from the crowd to the single person: a splinter and a beam in the same "
+ "eye, a tree known by its fruit, a heart whose overflow comes out through the mouth. It ends with two houses "
+ "and one river. Both builders heard. Only one dug down to the rock."
 )
 
 NOTES = [

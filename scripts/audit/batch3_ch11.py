@@ -59,14 +59,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Healing on the sabbath, and the kingdom compared. Jesus heals a woman bent over for eighteen years, \"a daughter of "
- "Abraham whom Satan bound\", and answers the leader of the assembly with the ox or donkey watered on the sabbath. He "
- "compares the kingdom of God to a mustard seed sown in a garden and to leaven. Those who come to the door once the master "
- "has shut it will be told \"I do not know you, where you are from\", and will weep \"when you see all the just in the "
- "kingdom of God, but yourselves held outside\". In this text it is \"the just\", not Abraham, Isaac, Jacob and the "
- "prophets, whom they see in the kingdom. Two blocks of canonical Luke are not in this text, by Epiphanius' statement. The "
- "first is the Galileans killed by Pilate, the tower of Siloam and the barren fig tree (13:1–9). The second is the many "
- "coming from east and west, the warning about Herod and the lament over Jerusalem (13:29–35)."
+ "A woman has been bent double for eighteen years, and he names what has held her: Satan bound her. On the "
+ "sabbath, in the assembly, he lays his hands on her and she is made straight. The ruler of the assembly is "
+ "indignant: a day of rest is not for healing. The answer is an ox untied from its manger and led away to drink."
+ " Whatever is bound may be loosed, and on this day above all. Two small likenesses follow for the kingdom of "
+ "God: a mustard seed thrown into a garden that becomes a tree, and a little leaven hidden in a great mass of "
+ "flour until the whole rises. Then someone asks whether those being saved are few, and the answer is a narrow "
+ "door, and a master of the house who gets up and shuts it. Outside, people knock and say they ate and drank "
+ "with him. He does not know them."
 )
 
 NOTES = [

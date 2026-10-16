@@ -93,14 +93,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Questions in the temple. Asked by what authority he acts, Jesus asks in return whether John's baptism was from heaven or "
- "from men, and when the leaders will not answer, he will not tell them either. The leaders seek to seize him but fear the "
- "people. To the question about tribute he answers, \"Then give back the things of Caesar to Caesar, and the things of God to God.\" To "
- "the Sadducees' question about the woman with seven husbands he answers that the sons of this age marry, \"but those whom "
- "God has deemed worthy to attain that age and the rising from the dead neither marry nor are given in "
- "marriage… they are equal to messengers, and they are sons of God\". He asks how the Anointed One can be David's son when David calls him "
- "lord. The parable of the tenants with the rejected stone (20:9–18) and the proof of the rising from Moses at the bush "
- "(20:37–38) are absent: Epiphanius states that the text lacked them."
+ "He is teaching in the temple now, at the centre, and the centre answers at once. By what authority? He replies"
+ " with a question about John's immersion, and the leaders, afraid of the people and of their own answer, say "
+ "they do not know. Spies who play the part of just men ask whether tribute should be paid to Caesar, and are "
+ "shown a coin: give back to Caesar what is Caesar's, and to God what is God's. Sadducees, who say there is no "
+ "rising, bring a puzzle about one woman and seven brothers. The answer speaks of those whom God has deemed "
+ "worthy of that age: they do not marry, they cannot die, they are equal to messengers, sons of the rising. Then"
+ " he puts a question of his own. David calls the Anointed One lord. How then is he his son?"
 )
 
 NOTES = [

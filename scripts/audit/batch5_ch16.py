@@ -114,13 +114,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Prayer, the commandments and the son of David. Jesus tells of a widow who wore down an unjust judge, and says that God "
- "will give justice to his chosen ones who cry to him day and night. He tells of a Pharisee and a tax collector praying in "
- "temple, and of the one who went home justified. A ruler asks what he must do to inherit life of the age. Jesus answers, "
- "\"No one is good except one, God,\" and lists the commandments in the order \"do not murder, do not "
- "commit adultery\". He then tells the man: \"One thing you lack: sell all that you have and give to the destitute… and come, "
- "follow me.\" Near Jericho a blind man calls him \"Jesus, son of David\" and is healed. The third prediction of the passion, "
- "with its appeal to \"everything written by the prophets\" (18:31–33), is not in the text (Epiphanius, sch. 52)."
+ "Pray always, and do not lose heart. A widow keeps coming to a judge who fears neither God nor anyone, until he"
+ " gives her justice so that she will not end by blackening his eye. Two men go up to the temple to pray. One "
+ "stands and thanks God that he is not like the rest; the other stands far off, will not lift his eyes, and "
+ "beats his chest. Only one goes home declared just. Babies are brought, and the learners push them away; the "
+ "kingdom belongs to such as these. A rich ruler calls him good and asks what he must do to inherit life of the "
+ "age, and is told that no one is good except one, God. He has kept every commandment. One thing he lacks, and "
+ "he goes away grieving, for he is very rich. And at the edge of the road outside Jericho, a blind beggar hears "
+ "the crowd go by, calls him by an old royal name, and asks to see again."
 )
 
 NOTES = [

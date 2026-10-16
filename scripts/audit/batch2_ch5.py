@@ -66,13 +66,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "A short section on hearing. Women who had been healed travel with Jesus and the twelve and support them from their own "
- "means. The parable of the sower ends in a call to hear, and the sayings on the lamp and the measure of hearing follow. "
- "When his mother and brothers are reported to be outside, the text has Jesus ask, \"Who is my mother, and who are my "
- "brothers, except those who hear my words and do them?\" (Tertullian, Marc. 4.19.6, 11). The section closes with the calming "
- "of the storm. Two passages of canonical Luke are not printed. The first is the explanation of the sower with its quotation of "
- "Isaiah 6, which no witness cites. The second is the narrative sentence in which his mother and brothers arrive: Epiphanius "
- "says the text had only the report to Jesus."
+ "Women walk with him now, paying for the journey out of what they own, and among them is one from whom seven "
+ "daimons went out. A crowd gathers from city after city, and he tells them about seed. The sower does not "
+ "choose the ground. Some falls on the road, some on rock, some among thorns, some into good earth. The question"
+ " the chapter keeps returning to is not what is sown but how it is heard. A lamp is not lit to be hidden. To "
+ "whoever has, more will be given. When his mother and brothers stand outside wanting to see him, he names a "
+ "different family: those who hear and do. Then, at the end, a boat on the lake, a sudden squall, the water "
+ "rising, and the teacher asleep. Wake him and the wind falls still. The learners are left with the only "
+ "question worth asking after a storm like that: who then is this?"
 )
 
 NOTES = [

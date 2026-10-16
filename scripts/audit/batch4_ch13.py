@@ -38,11 +38,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The lost found. Tax collectors and sinners come to listen to Jesus, and the Pharisees complain that he eats with them. He "
- "answers with two parables: a man who leaves the ninety-nine sheep to look for the one that is lost, and a woman who sweeps "
- "the house for a lost coin. Each rejoices with friends at finding it, and so there is joy over one sinner who changes his mind. "
- "Tertullian's point is that only the one who owned what was lost could look for it (Marc. 4.32). The parable of the two sons "
- "(15:11–32) is not in this text: Epiphanius states that \"the whole parable of the two sons\" was absent."
+ "This is the shortest chapter, and in this text it is shorter than readers of Luke expect. Tax collectors and "
+ "sinners are drawing near to hear him, and the respectable grumble: he receives sinners and eats with them. He "
+ "answers with two small stories, one about a man and one about a woman. A shepherd with a hundred sheep leaves "
+ "the ninety-nine in the desert to go after one, and comes home carrying it on his shoulders. A woman with ten "
+ "silver coins lights a lamp and sweeps the house until she finds the one she lost. Each calls in the neighbours"
+ " to rejoice. Read them side by side. The one that is found does nothing at all. It is sought, found and "
+ "carried, and heaven rejoices over it as over one sinner who has changed his mind."
 )
 
 NOTES = [

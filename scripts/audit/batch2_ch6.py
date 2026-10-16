@@ -106,13 +106,14 @@ ENTRIES = [
 OMITTED = []
 
 PREAMBLE = (
- "Three works of power and the mission of the twelve. On the far shore Jesus frees a man held by a \"legion\" of daimons, who "
- "beg not to be sent into the abyss. Back among the crowds, a woman who has bled for twelve years touches his cloak and is "
- "healed, and the text has him ask, \"Who touched me?\" Tertullian quotes the question and uses it against Marcion's teaching "
- "that Jesus' body was not real (Marc. 4.20.7–14). The twelve are sent to proclaim the kingdom without provisions. Herod hears "
- "that Jesus is taken for John, Elijah or one of the ancient prophets. In a deserted place five thousand are fed from five "
- "loaves and two fish. The witnesses cite the woman's healing but not the raising of Jairus' daughter that frames it; the "
- "frame is printed in grey, because Epiphanius' \"as they were going\" presupposes the journey to Jairus' house."
+ "He crosses the lake and steps onto the other shore, into foreign country, among tombs and pigs. A man comes "
+ "out who has worn no clothes for years and lives with the dead. What holds him carries the name of a Roman "
+ "army: Legion. Watch what happens to the man, what happens to the herd, and who is afraid at the end. Back on "
+ "the home shore two stories are folded into one. A ruler's only daughter is dying at twelve; a woman has bled "
+ "for twelve years and spent her whole living on physicians. One is reached too late, or so everyone thinks; the"
+ " other touches the edge of his garment in the crush and cannot stay hidden. Then the twelve are sent out with "
+ "nothing: no staff, no bread, no silver. Herod hears, and cannot place him. And in a desert place, as the day "
+ "declines, five loaves and two fish are taken, blessed, broken and given, until twelve baskets are left over."
 )
 
 NOTES = [

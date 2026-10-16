@@ -99,13 +99,15 @@ ENTRIES = [
 OMITTED = []
 
 PREAMBLE = (
- "Mammon, the law and the rich man. A steward about to be dismissed reduces his master's debtors' bills, and Jesus tells "
- "his learners to make friends by the mammon of injustice: no one can serve God and mammon. The Pharisees, lovers of money, "
- "ridicule him; he answers that God knows their hearts. \"The law and the prophets were until John; from then the kingdom "
- "of God is announced as good news.\" In this text the next saying is about his own words: \"it is easier for the sky and the earth to pass away "
- "than for one stroke of a letter of my words to fall\" (Tertullian, Marc. 4.33.9). There follow the saying on divorce, which Tertullian "
- "links to John's rebuke of Herod, and the rich man and Lazarus. The rich man asks for a messenger to his brothers and is "
- "told: \"They have Moses and the prophets; let them hear them.\""
+ "Money is the subject, and the chapter refuses to be simple about it. A steward accused of scattering his "
+ "master's goods, about to lose his post, cuts down the debts of everyone who owes his master, and is praised "
+ "for it. Make friends out of the Mammon of injustice. Whoever is trustworthy in the least is trustworthy in "
+ "much. No one can be a slave to two lords. The Pharisees, lovers of silver, turn up their noses. Then a turning"
+ " point, stated in a single line: the law and the prophets were until John; from then the kingdom of God is "
+ "announced. And here what will not pass away is not a stroke of the law but a stroke of his words. The chapter "
+ "ends with two men and a gateway. One dresses in purple and feasts every day; the other lies at the gate "
+ "covered with sores, and the dogs lick them. Both die. Watch where each is carried, and what becomes of the "
+ "space between them."
 )
 
 NOTES = [
