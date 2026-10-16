@@ -156,7 +156,7 @@ def create_styles(use_palatino=True):
         fontName=base_font,
         fontSize=10,
         leading=14,
-        alignment=TA_LEFT,
+        alignment=TA_JUSTIFY,
     ))
     
     # English text style
@@ -165,7 +165,7 @@ def create_styles(use_palatino=True):
         fontName=base_font,
         fontSize=10,
         leading=14,
-        alignment=TA_LEFT,
+        alignment=TA_JUSTIFY,
     ))
 
     # Luke reference in the margin column
@@ -190,7 +190,20 @@ def create_styles(use_palatino=True):
         textColor=CHAPTER_COLOR
     ))
     
-    # A single note: run-in heading, small type
+    # A restoration note: one column, run-in heading
+    styles.add(ParagraphStyle(
+        name='RestorationNote',
+        fontName=base_font,
+        fontSize=8.5,
+        leading=11.5,
+        alignment=TA_JUSTIFY,
+        leftIndent=12,
+        rightIndent=12,
+        spaceAfter=6,
+        textColor=NOTE_COLOR
+    ))
+    
+    # A translation note: two columns, small type
     styles.add(ParagraphStyle(
         name='Note',
         fontName=base_font,
@@ -380,7 +393,7 @@ def create_verse_table(verses, styles):
     return elements
 
 
-def _note_flowables(notes, styles, ref_first):
+def _note_flowables(notes, style, ref_first):
     out = []
     for note in notes:
         term = escape_xml(note.get('term', ''))
@@ -391,24 +404,26 @@ def _note_flowables(notes, styles, ref_first):
             text = f'{ref}&nbsp;&nbsp;<b>{term}</b>: {explanation}'
         else:
             text = f'<b>{term}</b>' + (f'&nbsp;&nbsp;{ref}' if ref else '') + f'. {explanation}'
-        out.append(Paragraph(text, styles['Note']))
+        out.append(Paragraph(text, style))
     return out
 
 
 def create_notes_section(notes, styles):
-    """End-of-chapter notes in two sets: the restoration, then the translation."""
+    """End-of-chapter notes: the restoration in one column, then the translation in two."""
     elements = []
     restoration = [n for n in notes if n.get('category') != 'translation']
     translation = [n for n in notes if n.get('category') == 'translation']
     
-    for heading, group, ref_first in (('Notes on the restoration', restoration, False),
-                                      ('Notes on the translation', translation, True)):
-        if not group:
-            continue
+    if restoration:
         elements.append(Spacer(1, 14))
         elements.append(HRFlowable(width='30%', thickness=0.4, color=colors.lightgrey, spaceAfter=6))
-        elements.append(Paragraph(heading, styles['NotesHeading']))
-        elements.append(BalancedColumns(_note_flowables(group, styles, ref_first), nCols=2,
+        elements.append(Paragraph('Notes on the restoration', styles['NotesHeading']))
+        elements.extend(_note_flowables(restoration, styles['RestorationNote'], False))
+    if translation:
+        elements.append(Spacer(1, 14))
+        elements.append(HRFlowable(width='30%', thickness=0.4, color=colors.lightgrey, spaceAfter=6))
+        elements.append(Paragraph('Notes on the translation', styles['NotesHeading']))
+        elements.append(BalancedColumns(_note_flowables(translation, styles['Note'], True), nCols=2,
                                         innerPadding=10, leftPadding=0, rightPadding=0))
     
     return elements
