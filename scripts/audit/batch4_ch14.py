@@ -99,15 +99,16 @@ ENTRIES = [
 OMITTED = []
 
 PREAMBLE = (
- "Money is the subject, and the chapter refuses to be simple about it. A steward accused of scattering his "
- "master's goods, about to lose his post, cuts down the debts of everyone who owes his master, and is praised "
- "for it. Make friends out of the Mammon of injustice. Whoever is trustworthy in the least is trustworthy in "
- "much. No one can be a slave to two lords. The Pharisees, lovers of silver, turn up their noses. Then a turning"
- " point, stated in a single line: the law and the prophets were until John; from then the kingdom of God is "
- "announced. And here what will not pass away is not a stroke of the law but a stroke of his words. The chapter "
- "ends with two men and a gateway. One dresses in purple and feasts every day; the other lies at the gate "
- "covered with sores, and the dogs lick them. Both die. Watch where each is carried, and what becomes of the "
- "space between them."
+ "What manages our goods for us is told to hand over the accounts. Before it goes, it does something unexpected:"
+ " it calls in everything that owes, and writes the debts down. Even what is not truly ours can be used to make "
+ "friends.\n\n"
+ "No one can serve two masters. Part of us, fond of silver, hears that and turns up its nose.\n\n"
+ "Then two lives, side by side. One is dressed in purple and feasts every day. The other lies at its gate, "
+ "covered in sores, longing for what falls from the table, and the dogs come and lick him. Both die. Now they "
+ "see one another across a chasm that no one can cross.\n\n"
+ "The one in the flame asks for a messenger from the dead, to warn the five still at home. The answer is that "
+ "they already have every warning they need.\n\n"
+ "Someone rising from the dead will not move a soul that does not listen."
 )
 
 NOTES = [

@@ -106,13 +106,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Seventy go out ahead of him, two by two, like lambs among wolves, carrying nothing, greeting no one on the "
- "road. Into every house they bring peace; where no son of peace is found, the peace turns back to them. They "
- "return amazed that even the daimons obey them. He tells them to rejoice at something else: that their names "
- "are written in the heavens. Then he gives thanks that what was hidden from the wise has been shown to infants,"
- " and turns to the learners alone: fortunate are the eyes that see what you see. The chapter closes with an "
- "expert in the law who stands up to test him and asks what he must do to inherit life. He is not given anything"
- " new. He is asked to read what he already has, and told: do this, and you will live."
+ "Before truth arrives anywhere in us, something goes ahead of it, in pairs, carrying nothing. It enters and "
+ "says one word, peace, and stays where that word is received. Where it is not, it wipes off even the dust and "
+ "moves on. Either way the message is the same: it has come near.\n\n"
+ "What goes out is given authority over everything that bites and stings. But what follows is hidden from the "
+ "wise and the understanding, and shown to infants. Fortunate are the eyes that see it.\n\n"
+ "Then the clever part of us stands up to test it. It wants a task, something to do to earn life. It is handed "
+ "nothing new. It is asked to read what it already has, out loud, and to hear what it says: the whole heart, the"
+ " whole soul, the whole strength, the whole mind.\n\n"
+ "Do this, and you will live."
 )
 
 NOTES = [

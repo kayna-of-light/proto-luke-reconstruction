@@ -142,15 +142,18 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "No birth, no genealogy, no voice crying in the desert. This gospel opens with a date and a list of rulers: an "
- "emperor counting the years, a governor over Judea, princes dividing the rest of the land between them. Every "
- "name is a power, and none of them belongs to the land it rules. Then, without a name and without a word of "
- "introduction, someone comes down. Watch who knows him first. Not the crowd, not his own town, but a spirit "
- "sitting in the assembly, which names him exactly and is told to be silent. Watch, too, what happens when he "
- "goes where he was brought up. The place that fed him wants proof, claims him as its own, and leads him to the "
- "brow of the mountain its city is built on. He passes through the middle of them. By evening the sick are "
- "brought to him from every house, and in the morning the crowds try to hold him back. He will not be held. The "
- "road has begun."
+ "Every life begins governed from somewhere else. Its years are counted by a power it never chose, its centre is"
+ " held in another's name, and its outer reaches are parcelled out to lesser rulers who each answer upward. "
+ "Nothing in it is yet its own.\n\n"
+ "Truth does not enter such a life at the centre. It comes down at the edge, on a day when our own work has "
+ "stopped. And what knows it first is not what we would expect: the part of us that was never ours, the one that"
+ " has always spoken as \"we\". It knows exactly what it is facing, and it names it before anything else can. It "
+ "is not allowed to finish the sentence.\n\n"
+ "Then truth goes where we were brought up. What formed us has heard about it, wants a sign, and claims it as "
+ "its own. When no sign comes, it reaches for the highest ground it stands on.\n\n"
+ "When the light fails, everything that is sick is brought to it. When the light returns, we want to keep it "
+ "where it healed us.\n\n"
+ "It has other cities to reach."
 )
 
 NOTES = [

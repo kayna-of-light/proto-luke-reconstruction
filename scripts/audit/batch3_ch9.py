@@ -150,14 +150,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "One of the learners asks how to pray, and the prayer he is given here is not the one most readers know. It "
- "asks first for the holy spirit to come, then the kingdom; it asks for \"your bread\", day by day; it asks that "
- "sins be let go as we let go. Then a friend knocking at midnight, and a sleeper who gets up out of sheer "
- "shamelessness, and a father who would never hand his son a snake. After that the air darkens. He is accused of"
- " throwing out daimons by the ruler of daimons, and answers with a strong man guarding his courtyard until a "
- "stronger one comes. No sign will be given to this generation. A lamp belongs on a stand. And at a Pharisee's "
- "table, criticised for not washing first, he turns the cup around in his hands: you clean the outside, but what"
- " is inside you?"
+ "It starts with asking how to ask. The prayer given here wants the spirit first, then the kingdom, then bread "
+ "enough for the day, and it lets go of what is owed to us as readily as it asks to be let go.\n\n"
+ "Asking turns out to be a matter of knocking at midnight on a door already shut for the night, and going on "
+ "knocking without shame. Nothing that answers from inside will hand us a snake.\n\n"
+ "Then something that has kept us mute goes out, and we speak, and at once part of us suspects the cure. A "
+ "strong one guards its courtyard and all its goods are at peace, until a stronger one comes.\n\n"
+ "The chapter ends at a table, before a cup polished on the outside. We clean what can be seen, count out our "
+ "tenths of mint and rue, sit in the first seats, and keep hold of a key we never use.\n\n"
+ "Whoever made the outside made the inside as well."
 )
 
 NOTES = [

@@ -93,13 +93,16 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "He is teaching in the temple now, at the centre, and the centre answers at once. By what authority? He replies"
- " with a question about John's immersion, and the leaders, afraid of the people and of their own answer, say "
- "they do not know. Spies who play the part of just men ask whether tribute should be paid to Caesar, and are "
- "shown a coin: give back to Caesar what is Caesar's, and to God what is God's. Sadducees, who say there is no "
- "rising, bring a puzzle about one woman and seven brothers. The answer speaks of those whom God has deemed "
- "worthy of that age: they do not marry, they cannot die, they are equal to messengers, sons of the rising. Then"
- " he puts a question of his own. David calls the Anointed One lord. How then is he his son?"
+ "Truth is now teaching at the very centre, and what has always held authority there comes to ask by whose "
+ "authority it speaks. It answers with a question of its own: the cleansing that came before, was it from heaven"
+ " or from us? They cannot answer without losing something. So truth does not answer either.\n\n"
+ "Then a coin is held up. Whose image is this, whose inscription? The emperor's, the one who counted our years "
+ "on the first page. Give back to him what carries his image, and to God what carries God's.\n\n"
+ "Another part of us does not believe that anything rises at all, and tries to make the idea absurd: seven "
+ "brothers, one wife, and a riddle about who owns her afterwards. It is told that owning belongs to this age. "
+ "What rises does not marry, and cannot die.\n\n"
+ "At the end, truth asks the last question itself. If the one who came first calls the Anointed One his lord, "
+ "how can he be his son?"
 )
 
 NOTES = [

@@ -105,14 +105,16 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Four encounters fill this chapter, and in none of them is understanding where you would expect it. A Roman "
- "officer, a man who gives orders for a living, grasps that a word can heal from a distance, and will not even "
- "have him under his roof. A widow at a city gate, burying her only son, asks for nothing at all. John sends a "
- "question: are you the one who is coming? And in a respectable house at dinner, a woman whose sin the text "
- "never names stands behind him weeping, wiping his feet with her hair, while the host keeps his thoughts to "
- "himself. Notice who is inside and who is outside, who is counted worthy and who knows they are not. Listen to "
- "what the crowd says when the dead young man sits up. And watch a debt that is not cancelled but given away as "
- "a gift. Trust is the thread that runs through it all, and the chapter ends with a woman sent into peace."
+ "Trust turns up where no one is looking for it. The first to show it here is a part of us that serves a foreign"
+ " authority and has a servant close to death. Not even the chosen have trust like that.\n\n"
+ "At the gate of a city something young is being carried out dead, and what gave it life walks behind, asking "
+ "for nothing. It is touched, sits up and speaks, and it is given back.\n\n"
+ "Then a question arrives from the desert, from the part of us that prepared the way and now cannot tell whether"
+ " this is what it prepared for. It is not given an answer. It is told what is happening.\n\n"
+ "The chapter ends in a respectable house where the host has offered nothing: no water, no kiss, no oil. "
+ "Something the city calls a sinner has come in with a flask of oil, and stands behind the guest, weeping over "
+ "his feet.\n\n"
+ "Whoever loves much has been let go of much."
 )
 
 NOTES = [

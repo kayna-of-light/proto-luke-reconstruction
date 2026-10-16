@@ -114,14 +114,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Pray always, and do not lose heart. A widow keeps coming to a judge who fears neither God nor anyone, until he"
- " gives her justice so that she will not end by blackening his eye. Two men go up to the temple to pray. One "
- "stands and thanks God that he is not like the rest; the other stands far off, will not lift his eyes, and "
- "beats his chest. Only one goes home declared just. Babies are brought, and the learners push them away; the "
- "kingdom belongs to such as these. A rich ruler calls him good and asks what he must do to inherit life of the "
- "age, and is told that no one is good except one, God. He has kept every commandment. One thing he lacks, and "
- "he goes away grieving, for he is very rich. And at the edge of the road outside Jericho, a blind beggar hears "
- "the crowd go by, calls him by an old royal name, and asks to see again."
+ "There is a widow in us who has no one to speak for her, and a judge who fears nothing and no one. She keeps "
+ "coming back. In the end she is heard, not because the judge has changed, but because she has not stopped.\n\n"
+ "Two parts of us go up to pray. One stands and thanks God for being better than the rest, and lists what it "
+ "gives. The other stands far off, will not lift its eyes, and beats its chest. Only one goes home made just.\n\n"
+ "Something rich in us asks what it must do, has kept every rule since youth, and is told the one thing it "
+ "lacks. It goes away grieving.\n\n"
+ "And beside the road, something blind hears a crowd going past and asks what it is. It is told a name. It calls"
+ " out a different one, louder each time it is told to be quiet.\n\n"
+ "It asks to see again."
 )
 
 NOTES = [

@@ -59,14 +59,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "A woman has been bent double for eighteen years, and he names what has held her: Satan bound her. On the "
- "sabbath, in the assembly, he lays his hands on her and she is made straight. The ruler of the assembly is "
- "indignant: a day of rest is not for healing. The answer is an ox untied from its manger and led away to drink."
- " Whatever is bound may be loosed, and on this day above all. Two small likenesses follow for the kingdom of "
- "God: a mustard seed thrown into a garden that becomes a tree, and a little leaven hidden in a great mass of "
- "flour until the whole rises. Then someone asks whether those being saved are few, and the answer is a narrow "
- "door, and a master of the house who gets up and shuts it. Outside, people knock and say they ate and drank "
- "with him. He does not know them."
+ "Something in us has been held fast for eighteen years by what binds it. On the day set apart for rest, it is "
+ "loosed.\n\n"
+ "What keeps the order of our worship is indignant. There are six days for work; healing should keep to them. "
+ "But every one of us unties an ox on that day and leads it to water. Why not this?\n\n"
+ "The kingdom, meanwhile, starts very small: a seed thrown into our own garden that becomes a tree with birds in"
+ " its branches, a little leaven hidden in a great mass of flour until all of it rises.\n\n"
+ "And there is a door. One day the master of the house gets up and shuts it, and some of us are left outside, "
+ "knocking. We remind him that we ate and drank with him, and that he taught in our streets.\n\n"
+ "He does not know where we are from."
 )
 
 NOTES = [

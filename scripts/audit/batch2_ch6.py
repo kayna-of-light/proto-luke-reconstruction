@@ -106,14 +106,16 @@ ENTRIES = [
 OMITTED = []
 
 PREAMBLE = (
- "He crosses the lake and steps onto the other shore, into foreign country, among tombs and pigs. A man comes "
- "out who has worn no clothes for years and lives with the dead. What holds him carries the name of a Roman "
- "army: Legion. Watch what happens to the man, what happens to the herd, and who is afraid at the end. Back on "
- "the home shore two stories are folded into one. A ruler's only daughter is dying at twelve; a woman has bled "
- "for twelve years and spent her whole living on physicians. One is reached too late, or so everyone thinks; the"
- " other touches the edge of his garment in the crush and cannot stay hidden. Then the twelve are sent out with "
- "nothing: no staff, no bread, no silver. Herod hears, and cannot place him. And in a desert place, as the day "
- "declines, five loaves and two fish are taken, blessed, broken and given, until twelve baskets are left over."
+ "On the far shore of ourselves, where we rarely go, something lives among the tombs. It has worn nothing for "
+ "years. Asked its name, it gives not one name but a multitude, and it begs not to be sent into the depths. It "
+ "is allowed to go elsewhere.\n\n"
+ "Back home, two things are failing at once. Something young, twelve years in us, is dying. Something else has "
+ "been bleeding for twelve years and has spent its whole living on cures from outside. It reaches out in the "
+ "crush, touches only the edge, and the flow stops. Power has gone out, and truth knows it.\n\n"
+ "Our own powers are then sent out with nothing in their hands. What rules us from the edges hears the news and "
+ "cannot work out what it is hearing.\n\n"
+ "And as the light declines in a deserted place, we discover how little we have: five loaves, two fish. It is "
+ "enough. There is more left over than we started with."
 )
 
 NOTES = [

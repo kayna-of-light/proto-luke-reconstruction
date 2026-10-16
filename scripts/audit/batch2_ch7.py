@@ -124,14 +124,16 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Who do the crowds say that I am? The chapter turns on that question, and on Peter's answer: the Anointed One "
- "of God. He is told to tell no one. At once, and for the first time plainly, the cost is named: the son of the "
- "human must suffer, be rejected, be killed, and be raised. To follow him is to take up the same road. Eight "
- "days later three learners go up a mountain with him and see his face become other and his clothing flash like "
- "lightning, with Moses and Elijah beside him in glory. A cloud covers them, and a voice says: hear him. Below, "
- "a father's only son is being torn apart, and the learners cannot help. Then an argument about who is greater, "
- "answered by a little child set beside him. From here the book changes direction. The days of his taking up are"
- " being filled, and he sets his face toward Jerusalem."
+ "Sooner or later the question turns inward. Not what the crowds say, but what we say. The answer, when it "
+ "comes, is right, and we are told to keep it to ourselves, because what it means has not happened yet: what is "
+ "truest in us will be rejected by everything that governs us, and must die before it rises.\n\n"
+ "Higher up, in prayer, its face becomes other and its clothing turns to lightning, and the two great voices of "
+ "the past stand talking with it. We are half asleep. We want to build three shelters and stay. A cloud comes "
+ "instead, and a voice, and only one instruction: hear.\n\n"
+ "Down below, we cannot heal what we were asked to heal. We argue about which of us is greatest, and are shown a"
+ " child.\n\n"
+ "Then we are on the road. What is true has nowhere to lay its head, and whoever puts a hand to the plough "
+ "cannot keep looking back."
 )
 
 NOTES = [

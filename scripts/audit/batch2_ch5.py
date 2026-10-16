@@ -66,14 +66,16 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Women walk with him now, paying for the journey out of what they own, and among them is one from whom seven "
- "daimons went out. A crowd gathers from city after city, and he tells them about seed. The sower does not "
- "choose the ground. Some falls on the road, some on rock, some among thorns, some into good earth. The question"
- " the chapter keeps returning to is not what is sown but how it is heard. A lamp is not lit to be hidden. To "
- "whoever has, more will be given. When his mother and brothers stand outside wanting to see him, he names a "
- "different family: those who hear and do. Then, at the end, a boat on the lake, a sudden squall, the water "
- "rising, and the teacher asleep. Wake him and the wind falls still. The learners are left with the only "
- "question worth asking after a storm like that: who then is this?"
+ "What once held us sevenfold has gone out, and what is left now serves out of its own means. A life in this "
+ "state is ready to hear, and the chapter is about nothing else.\n\n"
+ "A seed falls into good earth and returns a hundred times over. A lamp is lit and set where it can be seen, "
+ "because nothing hidden stays hidden. Whatever we already have will be added to; whatever we only seem to have "
+ "will go. So watch how you hear.\n\n"
+ "Even our own family is redrawn. What we came from stands outside, wanting to see. What hears and does is the "
+ "family now.\n\n"
+ "Then we set out for the other side, and halfway across, while truth sleeps in the boat, the wind comes down "
+ "and the water rises. We wake it in a panic. It asks one thing: where is your trust?\n\n"
+ "The question we are left with is better than the one we brought: who then is this?"
 )
 
 NOTES = [

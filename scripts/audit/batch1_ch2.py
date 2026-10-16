@@ -153,14 +153,16 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The chapter begins at a lake: two empty boats, fishermen washing their nets after a night of catching nothing."
- " He borrows one boat, sits in it, and then sends Simon out into the deep. What comes up is more than the nets "
- "can hold, and the first thing Simon says is \"Go out from me.\" Keep an ear on one verb: to let go. The "
- "fishermen let go of everything. A paralysed man is lowered through a roof into the middle of the room and told"
- " that his sins have been let go. A tax collector leaves his booth and throws a feast. Each scene stands at the"
- " edge of what is allowed, and each asks the same question: what is new, and what can hold it? Old garments "
- "tear. Old skins burst. And on a sabbath, the day of rest, a man with a dry hand is told to get up and stand "
- "into the middle, while the watchers fill with something that has no understanding in it."
+ "There are boats in us standing empty at the shore, and nets we wash out of habit. This chapter begins beside "
+ "that work, and what it finally asks of it is not more effort but less: let everything go.\n\n"
+ "After that, things begin to move that could not move by themselves. What is unclean asks only whether it is "
+ "wanted. What lies paralysed is carried in on its bed and released before it is told to walk. The part of us "
+ "that has long collected dues for another master is called away from its booth, and truth sits down to eat with"
+ " it.\n\n"
+ "Not everything welcomes this. Part of us wants a new patch for the old garment, new wine for the old skins. "
+ "And on the day set apart for rest, a hand that has gone dry is waiting in the assembly, and everything that "
+ "keeps the rules is watching.\n\n"
+ "New wine needs somewhere new to go."
 )
 
 NOTES = [
