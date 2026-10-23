@@ -13,6 +13,11 @@ def load_proto_luke(json_path: str) -> dict:
         return json.load(f)
 
 
+def italic(text: str) -> str:
+    """Markdown emphasis does not cross paragraph breaks, so set each paragraph apart."""
+    return '\n\n'.join(f'*{p.strip()}*' for p in text.split('\n\n') if p.strip())
+
+
 def generate_english_text(data: dict, include_refs: bool = False) -> str:
     """Generate continuous English text with chapter breaks."""
     lines = []
@@ -24,7 +29,7 @@ def generate_english_text(data: dict, include_refs: bool = False) -> str:
         lines.append(f"\n## Chapter {chapter['chapter']}: {chapter.get('title', '')}\n")
         
         if chapter.get('preamble'):
-            lines.append(f"*{chapter['preamble']}*\n")
+            lines.append(f"{italic(chapter['preamble'])}\n")
         
         # Group verses into paragraphs (roughly every 3-5 verses or at natural breaks)
         paragraph = []
@@ -74,7 +79,7 @@ def generate_parallel_text(data: dict) -> str:
         lines.append(f"\n## Chapter {chapter['chapter']}\n")
         
         if chapter.get('preamble'):
-            lines.append(f"*{chapter['preamble']}*\n")
+            lines.append(f"{italic(chapter['preamble'])}\n")
         
         for verse in chapter.get('verses', []):
             lines.append(f"### {chapter['chapter']}:{verse['verse']} ({verse['canonical_ref']})\n")
@@ -95,7 +100,7 @@ def generate_verse_numbered(data: dict) -> str:
         lines.append(f"\n## Chapter {chapter['chapter']}\n")
         
         if chapter.get('preamble'):
-            lines.append(f"*{chapter['preamble']}*\n")
+            lines.append(f"{italic(chapter['preamble'])}\n")
         
         for verse in chapter.get('verses', []):
             # Superscript-style verse number
@@ -153,7 +158,7 @@ def generate_reading_text(data: dict) -> str:
         lines.append(f"\n## Chapter {chapter['chapter']}\n")
         
         if chapter.get('preamble'):
-            lines.append(f"*{chapter['preamble']}*\n")
+            lines.append(f"{italic(chapter['preamble'])}\n")
         
         # Combine verses into flowing paragraphs
         # Break at logical points (dialogue, scene changes)
