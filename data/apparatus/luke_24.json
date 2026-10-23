@@ -1,0 +1,578 @@
+{
+  "luke_chapter": 24,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "24:1",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.1",
+          "evidence": "\"si nec mulierum illarum officium praeterit prophetia quae ante lucem convenerunt ad sepulcrum cum odorum paratura.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"before light\" renders ὄρθρου βαθέως (Roth).",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 1"
+    },
+    {
+      "ref": "24:2",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:1–8.",
+      "reconstruction": "chapter 22, verse 2"
+    },
+    {
+      "ref": "24:3",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.2",
+          "evidence": "\"Corpore autem non invento… Sed et duo ibidem angeli apparuerunt… Revertentes quoque a sepulcro mulieres, et ab illa angelorum visione… ad renuntiandam scilicet domini resurrectionem.\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests \"the body was not found\". \"Of the Lord Jesus\" is unattested; his silence does not show it was absent (Roth), and it is printed with NA27.",
+      "decision": "printed",
+      "western": "\"Of the Lord Jesus\" is lacking in D and the Old Latin (a Western non-interpolation).",
+      "reconstruction": "chapter 22, verse 3"
+    },
+    {
+      "ref": "24:4",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.2; Pan. 42.11.6, sch. 76)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.2",
+          "evidence": "\"Corpore autem non invento… Sed et duo ibidem angeli apparuerunt… Revertentes quoque a sepulcro mulieres, et ab illa angelorum visione… ad renuntiandam scilicet domini resurrectionem.\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 76",
+          "evidence": "»εἶπαν οἱ ἐν ἐσθῆτι λαμπρᾷ· τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν; ἠγέρθη, μνήσθητε ὅσα ἐλάλησεν ἔτι ὢν μεθ' ὑμῶν, ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου παθεῖν καὶ παραδοθῆναι«."
+        }
+      ],
+      "wording": "NA27. Tertullian's \"two angels\" names the two men; Epiphanius introduces his quotation with \"those in shining clothing\" (ἐν ἐσθῆτι λαμπρᾷ). That introduction is his own summary (Roth); \"dazzling\" (ἀστραπτούσῃ) and \"shining\" (λαμπρᾷ) are both possible only. Not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 4"
+    },
+    {
+      "ref": "24:5",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 76)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 76",
+          "evidence": "»εἶπαν οἱ ἐν ἐσθῆτι λαμπρᾷ· τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν; ἠγέρθη, μνήσθητε ὅσα ἐλάλησεν ἔτι ὢν μεθ' ὑμῶν, ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου παθεῖν καὶ παραδοθῆναι«."
+        }
+      ],
+      "wording": "NA27. Epiphanius quotes the question; Roth: secure.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 5"
+    },
+    {
+      "ref": "24:6",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.5; Pan. 42.11.6, sch. 76)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.5",
+          "evidence": "\"Nam eadem et angeli ad mulieres: Rememoramini quae locutus sit vobis in Galilaea, dicens quod oportet tradi filium hominis et crucifigi et tertia die resurgere.\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 76",
+          "evidence": "»εἶπαν οἱ ἐν ἐσθῆτι λαμπρᾷ· τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν; ἠγέρθη, μνήσθητε ὅσα ἐλάλησεν ἔτι ὢν μεθ' ὑμῶν, ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου παθεῖν καὶ παραδοθῆναι«."
+        }
+      ],
+      "wording": "Marcionite readings adopted. (1) \"Remember all that he told you\" (ὅσα, Tertullian \"quae\", Epiphanius ὅσα) for NA27 \"how he told you\" (ὡς); NA27: ὅσα D c sys.c; McionT,E; Roth: secure. (2) \"He has been raised\" without \"He is not here, but\". Epiphanius quotes \"Why do you seek the Living One among the dead? He has been raised. Remember…\" in one run. When he cites the verse in his own words he always writes \"He is risen (ἀνέστη), he is not here\" (elenchus 76; Pan. 56.2.8): here he writes Luke's ἠγέρθη, which he does not use himself, and no \"he is not here\". NA27 cites McionE for ἠγέρθη alone. Roth judges the omission unattested rather than absent; the citation habit is the basis for the departure. Tertullian has \"to you… in Galilee\" and Epiphanius \"while he was still\"; together they give NA27's wording.",
+      "decision": "printed",
+      "western": "D and the Old Latin lack the whole of 6a, \"he is not here, but he has been raised\" (a Western non-interpolation). This text had \"he has been raised\".",
+      "reconstruction": "chapter 22, verse 6"
+    },
+    {
+      "ref": "24:7",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.5; Pan. 42.11.6, sch. 76)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.5",
+          "evidence": "\"Nam eadem et angeli ad mulieres: Rememoramini quae locutus sit vobis in Galilaea, dicens quod oportet tradi filium hominis et crucifigi et tertia die resurgere.\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 76",
+          "evidence": "»εἶπαν οἱ ἐν ἐσθῆτι λαμπρᾷ· τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν; ἠγέρθη, μνήσθητε ὅσα ἐλάλησεν ἔτι ὢν μεθ' ὑμῶν, ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου παθεῖν καὶ παραδοθῆναι«."
+        }
+      ],
+      "wording": "NA27. Neither witness quotes \"into the hands of sinful men\". Epiphanius stops after \"delivered\" and uses Matthew's \"suffer\"; Tertullian's quotation is loose in its word order (Roth). The phrase would not have served either argument, so its absence from their quotations does not show that it was absent (Roth: speculative). Printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 7"
+    },
+    {
+      "ref": "24:8",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:1–8.",
+      "reconstruction": "chapter 22, verse 8"
+    },
+    {
+      "ref": "24:9",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.2",
+          "evidence": "\"Corpore autem non invento… Sed et duo ibidem angeli apparuerunt… Revertentes quoque a sepulcro mulieres, et ab illa angelorum visione… ad renuntiandam scilicet domini resurrectionem.\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests \"returning from the tomb\" and the report; Roth: very likely. The recipients are not named by him (\"the disciples\" in 4.43.3 refers to their unbelief, 24:11), so NA27 is printed.",
+      "decision": "printed",
+      "western": "\"From the tomb\" is lacking in D and the Old Latin; this text had it.",
+      "reconstruction": "chapter 22, verse 9"
+    },
+    {
+      "ref": "24:10",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:9–12.",
+      "reconstruction": "chapter 22, verse 10"
+    },
+    {
+      "ref": "24:11",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.3",
+          "evidence": "\"Bene autem quod incredulitas discipulorum perseverabat… Nam cum duo ex illis iter agerent et dominus eis adhaesisset, non comparens quod ipse esset, etiam dissimulans de conscientia rei gestae, Nos autem putabamus, inquiunt, ipsum esse redemptorem Israelis…\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests the persisting unbelief.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 11"
+    },
+    {
+      "ref": "24:12",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "Peter runs to the tomb and sees the linen cloths. Neither witness cites it, and both follow the chapter closely here (Tertullian 4.43.2–3 goes from the report and the unbelief, 24:9–11, to Emmaus; Epiphanius from sch. 76 to 77). The linen cloths left in the tomb would have served Tertullian, who has just argued from the linen of the burial (4.42.7), and Epiphanius, who argues throughout for a real body. It is also lacking in D and the Old Latin (a Western non-interpolation). Classed probably absent."
+    },
+    {
+      "ref": "24:13",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.3; Pan. 42.11.6, sch. 77)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.3",
+          "evidence": "\"Bene autem quod incredulitas discipulorum perseverabat… Nam cum duo ex illis iter agerent et dominus eis adhaesisset, non comparens quod ipse esset, etiam dissimulans de conscientia rei gestae, Nos autem putabamus, inquiunt, ipsum esse redemptorem Israelis…\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 77",
+          "evidence": "παρέκοψε τὸ εἰρημένον πρὸς Κλεόπαν καὶ τὸν ἄλλον, ὅτε συνήντησεν αὐτοῖς, τὸ »ὦ ἀνόητοι καὶ βραδεῖς τοῦ πιστεύειν πᾶσιν, οἷς ἐλάλησαν οἱ προφῆται· οὐχὶ ταῦτα ἔδει παθεῖν;« καὶ ἀντὶ δὲ τοῦ »ἐφ' οἷς ἐλάλησαν οἱ προφῆται« ἐποίησεν »ἐφ' οἷς ἐλάλησα ὑμῖν«. ἐλέγχεται δὲ ὅτι »ὅτε ἔκλασε τὸν ἄρτον, ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν«."
+        }
+      ],
+      "wording": "NA27. Tertullian: \"two of them were travelling\" (Roth: δύο ἐξ αὐτῶν secure / very likely).",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 12"
+    },
+    {
+      "ref": "24:14",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:13–27.",
+      "reconstruction": "chapter 22, verse 13"
+    },
+    {
+      "ref": "24:15",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.3; Pan. 42.11.6, sch. 77)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.3",
+          "evidence": "\"Bene autem quod incredulitas discipulorum perseverabat… Nam cum duo ex illis iter agerent et dominus eis adhaesisset, non comparens quod ipse esset, etiam dissimulans de conscientia rei gestae, Nos autem putabamus, inquiunt, ipsum esse redemptorem Israelis…\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 77",
+          "evidence": "παρέκοψε τὸ εἰρημένον πρὸς Κλεόπαν καὶ τὸν ἄλλον, ὅτε συνήντησεν αὐτοῖς, τὸ »ὦ ἀνόητοι καὶ βραδεῖς τοῦ πιστεύειν πᾶσιν, οἷς ἐλάλησαν οἱ προφῆται· οὐχὶ ταῦτα ἔδει παθεῖν;« καὶ ἀντὶ δὲ τοῦ »ἐφ' οἷς ἐλάλησαν οἱ προφῆται« ἐποίησεν »ἐφ' οἷς ἐλάλησα ὑμῖν«. ἐλέγχεται δὲ ὅτι »ὅτε ἔκλασε τὸν ἄρτον, ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν«."
+        }
+      ],
+      "wording": "NA27. \"The Lord joined them\" (Tertullian); \"when he met them\" (Epiphanius).",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 14"
+    },
+    {
+      "ref": "24:16",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.3",
+          "evidence": "\"Bene autem quod incredulitas discipulorum perseverabat… Nam cum duo ex illis iter agerent et dominus eis adhaesisset, non comparens quod ipse esset, etiam dissimulans de conscientia rei gestae, Nos autem putabamus, inquiunt, ipsum esse redemptorem Israelis…\""
+        }
+      ],
+      "wording": "NA27. Tertullian: \"not showing that it was he\" (Roth: no insight into the wording).",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 15"
+    },
+    {
+      "ref": "24:17",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:13–27. Tertullian's \"pretending not to know what had happened\" may refer to this question or to 24:19 (Roth assigns it to 24:19).",
+      "reconstruction": "chapter 22, verse 16"
+    },
+    {
+      "ref": "24:18",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 77)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 77",
+          "evidence": "παρέκοψε τὸ εἰρημένον πρὸς Κλεόπαν καὶ τὸν ἄλλον, ὅτε συνήντησεν αὐτοῖς, τὸ »ὦ ἀνόητοι καὶ βραδεῖς τοῦ πιστεύειν πᾶσιν, οἷς ἐλάλησαν οἱ προφῆται· οὐχὶ ταῦτα ἔδει παθεῖν;« καὶ ἀντὶ δὲ τοῦ »ἐφ' οἷς ἐλάλησαν οἱ προφῆται« ἐποίησεν »ἐφ' οἷς ἐλάλησα ὑμῖν«. ἐλέγχεται δὲ ὅτι »ὅτε ἔκλασε τὸν ἄρτον, ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν«."
+        }
+      ],
+      "wording": "NA27. Epiphanius names Cleopas (\"to Cleopas and the other\").",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 17"
+    },
+    {
+      "ref": "24:19",
+      "class": "A+",
+      "roth": "present for 24:19a (Marc. 4.43.3); 24:19b unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.3",
+          "evidence": "\"Bene autem quod incredulitas discipulorum perseverabat… Nam cum duo ex illis iter agerent et dominus eis adhaesisset, non comparens quod ipse esset, etiam dissimulans de conscientia rei gestae, Nos autem putabamus, inquiunt, ipsum esse redemptorem Israelis…\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests that Jesus asked as if he did not know (\"etiam dissimulans\"). 19b (\"a prophet mighty in deed and word before God and all the people\") is not cited by either witness. Class of 19b: U? (METHOD §3). Tertullian works through the passage in order (4.43.3–5): he paraphrases 24:15–19a and quotes 24:21, \"we thought that he was the redeemer of Israel\", arguing that Jesus would not have let the disciples hold an opinion of him that was false (4.43.4). The description of 19b would fit that argument, as the crowd's \"a great prophet\" does at 7:16 (4.18.3), but he had the stronger words of 24:21 and used them; his passing over 19b (and 24:20) is not the silence of a witness who needed the passage, so the U− test is not met. Epiphanius (sch. 77) does not touch 24:19–20. No witness reports the words missing, so they stay in the text (METHOD §5.3).",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 18"
+    },
+    {
+      "ref": "24:20",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:13–27.",
+      "reconstruction": "chapter 22, verse 19"
+    },
+    {
+      "ref": "24:21",
+      "class": "A+",
+      "roth": "present for 24:21a (Marc. 4.43.3); 24:21b unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.3",
+          "evidence": "\"Bene autem quod incredulitas discipulorum perseverabat… Nam cum duo ex illis iter agerent et dominus eis adhaesisset, non comparens quod ipse esset, etiam dissimulans de conscientia rei gestae, Nos autem putabamus, inquiunt, ipsum esse redemptorem Israelis…\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.43.4–5",
+          "evidence": "\"Ceterum non existimarent eum creatoris… nec post resurrectionem alium se eis ostendit quam quem existimatum sibi dixerant… quod existimaverant, id volens credi se, eum se confirmabat quem existimaverant…\""
+        }
+      ],
+      "wording": "Marcionite reading adopted (retroversion): \"we thought\" (ἐνομίζομεν, Tertullian \"putabamus\") for NA27 \"we hoped\" (ἠλπίζομεν). The Latin cannot render \"hoped\", and Tertullian builds 4.43.4–5 on what the disciples \"thought\" (existimare, five times). ἐνομίζομεν is also the reading of the Arabic and Persian Diatessaron and Ambrosiaster (Roth, citing IGNTP). Roth rates the verb possible only; this is a departure. Tertullian's \"redeemer of Israel\" can render \"the one about to redeem Israel\" and is probably his own noun (Roth, citing Lukas); NA27 is printed. 21b is unattested.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 20"
+    },
+    {
+      "ref": "24:22",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:13–27.",
+      "reconstruction": "chapter 22, verse 21"
+    },
+    {
+      "ref": "24:23",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:13–27.",
+      "reconstruction": "chapter 22, verse 22"
+    },
+    {
+      "ref": "24:24",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Some of those with us went to the tomb and found it just as the women had said, but him they did not see.\" It reports the visit of 24:12, which is classed probably absent."
+    },
+    {
+      "ref": "24:25",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.4; Pan. 42.11.6, sch. 77)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.4",
+          "evidence": "\"Plane invectus est in illos: O insensati et tardi corde in non credendo omnibus quae locutus est ad vos. Quae locutus non alterius se dei esse probat, sed eiusdem dei.\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 77",
+          "evidence": "παρέκοψε τὸ εἰρημένον πρὸς Κλεόπαν καὶ τὸν ἄλλον, ὅτε συνήντησεν αὐτοῖς, τὸ »ὦ ἀνόητοι καὶ βραδεῖς τοῦ πιστεύειν πᾶσιν, οἷς ἐλάλησαν οἱ προφῆται· οὐχὶ ταῦτα ἔδει παθεῖν;« καὶ ἀντὶ δὲ τοῦ »ἐφ' οἷς ἐλάλησαν οἱ προφῆται« ἐποίησεν »ἐφ' οἷς ἐλάλησα ὑμῖν«. ἐλέγχεται δὲ ὅτι »ὅτε ἔκλασε τὸν ἄρτον, ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν«."
+        }
+      ],
+      "wording": "Marcionite reading adopted (retroversion): \"all that he spoke to you\" (οἷς ἐλάλησεν πρὸς ὑμᾶς) for NA27 \"all that the prophets have spoken\". Both witnesses lack \"the prophets\": Epiphanius states that the text had \"that I spoke to you\" in place of \"that the prophets spoke\", and Tertullian quotes \"all that he spoke to you\" (NA27: ἐλάλησεν… πρὸς ὑμᾶς McionT,A; -σα McionA,E). Tertullian's third person is printed. Epiphanius' own elenchus shows the difficulty of his first person: \"if he had said 'I spoke to you', they would have recognized him from that word; how then were their eyes opened at the breaking of bread?\" The Adamantius Dialogue (198,5–7) also has the first person, but in the orthodox speaker's words. Roth: the final element uncertain.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 23"
+    },
+    {
+      "ref": "24:26",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 77)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 77",
+          "evidence": "παρέκοψε τὸ εἰρημένον πρὸς Κλεόπαν καὶ τὸν ἄλλον, ὅτε συνήντησεν αὐτοῖς, τὸ »ὦ ἀνόητοι καὶ βραδεῖς τοῦ πιστεύειν πᾶσιν, οἷς ἐλάλησαν οἱ προφῆται· οὐχὶ ταῦτα ἔδει παθεῖν;« καὶ ἀντὶ δὲ τοῦ »ἐφ' οἷς ἐλάλησαν οἱ προφῆται« ἐποίησεν »ἐφ' οἷς ἐλάλησα ὑμῖν«. ἐλέγχεται δὲ ὅτι »ὅτε ἔκλασε τὸν ἄρτον, ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν«."
+        }
+      ],
+      "wording": "NA27. Epiphanius quotes \"was it not necessary that he suffer these things?\"; the rest of the verse is unattested.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 24"
+    },
+    {
+      "ref": "24:27",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Beginning with Moses and all the prophets, he interpreted to them in all the scriptures the things concerning himself.\" Tertullian's thesis in book 4 is that Jesus is the Christ of the prophets, and he closes it at this chapter (4.43.9: \"I have shown Jesus Christ… from the teachings of the prophets\"); Epiphanius' scholion 77 turns on \"the prophets\" at 24:25. Neither cites the verse that would have proved their point. Classed probably absent."
+    },
+    {
+      "ref": "24:28",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:28–32.",
+      "reconstruction": "chapter 22, verse 25"
+    },
+    {
+      "ref": "24:29",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:28–32.",
+      "reconstruction": "chapter 22, verse 26"
+    },
+    {
+      "ref": "24:30",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 77)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 77",
+          "evidence": "παρέκοψε τὸ εἰρημένον πρὸς Κλεόπαν καὶ τὸν ἄλλον, ὅτε συνήντησεν αὐτοῖς, τὸ »ὦ ἀνόητοι καὶ βραδεῖς τοῦ πιστεύειν πᾶσιν, οἷς ἐλάλησαν οἱ προφῆται· οὐχὶ ταῦτα ἔδει παθεῖν;« καὶ ἀντὶ δὲ τοῦ »ἐφ' οἷς ἐλάλησαν οἱ προφῆται« ἐποίησεν »ἐφ' οἷς ἐλάλησα ὑμῖν«. ἐλέγχεται δὲ ὅτι »ὅτε ἔκλασε τὸν ἄρτον, ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν«."
+        }
+      ],
+      "wording": "NA27. Epiphanius: \"when he broke the bread\" (Roth: possible for the wording).",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 27"
+    },
+    {
+      "ref": "24:31",
+      "class": "A+",
+      "roth": "present for 24:31a (Pan. 42.11.6, sch. 77)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 77",
+          "evidence": "παρέκοψε τὸ εἰρημένον πρὸς Κλεόπαν καὶ τὸν ἄλλον, ὅτε συνήντησεν αὐτοῖς, τὸ »ὦ ἀνόητοι καὶ βραδεῖς τοῦ πιστεύειν πᾶσιν, οἷς ἐλάλησαν οἱ προφῆται· οὐχὶ ταῦτα ἔδει παθεῖν;« καὶ ἀντὶ δὲ τοῦ »ἐφ' οἷς ἐλάλησαν οἱ προφῆται« ἐποίησεν »ἐφ' οἷς ἐλάλησα ὑμῖν«. ἐλέγχεται δὲ ὅτι »ὅτε ἔκλασε τὸν ἄρτον, ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν«."
+        }
+      ],
+      "wording": "NA27. Epiphanius quotes \"their eyes were opened and they recognized him\". \"He vanished\" appears only in his elenchus, which he expands for his argument (Roth); it is unattested and printed as part of the verse.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 28"
+    },
+    {
+      "ref": "24:32",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Did not our hearts burn within us… while he opened to us the scriptures?\" Unattested; for the same reason as 24:27 it would have been cited if present. Classed probably absent."
+    },
+    {
+      "ref": "24:33–35",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The return to Jerusalem; \"The Lord has risen indeed, and has appeared to Simon!\" A paragraph with no attested verse (METHOD §4.3)."
+    },
+    {
+      "ref": "24:36",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Opens the attested paragraph 24:36–43.",
+      "reconstruction": "chapter 22, verse 29"
+    },
+    {
+      "ref": "24:37",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.6",
+          "evidence": "\"cum haesitantibus eis ne phantasma esset, immo phantasma credentibus, Quid turbati estis? inquit, et quid cogitationes subeunt in corda vestra? Videte manus meas et pedes, quia ego ipse sum, quoniam spiritus ossa non habet, sicut me videtis habere.\""
+        }
+      ],
+      "wording": "NA27. Tertullian: \"when they hesitated whether he was a phantom, or rather believed him a phantom\". D d read φάντασμα (\"phantom\") for πνεῦμα. \"Phantom\" (phantasma) is Tertullian's standing word for the Marcionite Christ (4.40.3; 4.42.7–8; 4.43.8), so his use of it here does not show the wording of the verse; Roth: possible only. Not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 30"
+    },
+    {
+      "ref": "24:38",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.6; Pan. 42.11.6, sch. 78)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.6",
+          "evidence": "\"cum haesitantibus eis ne phantasma esset, immo phantasma credentibus, Quid turbati estis? inquit, et quid cogitationes subeunt in corda vestra? Videte manus meas et pedes, quia ego ipse sum, quoniam spiritus ossa non habet, sicut me videtis habere.\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 78",
+          "evidence": "»τί τεταραγμένοι ἐστέ; ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου, ὅτι πνεῦμα ὀστέα οὐκ ἔχει, καθὼς ἐμὲ θεωρεῖτε ἔχοντα«."
+        }
+      ],
+      "wording": "NA27. Both witnesses quote the question.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 31"
+    },
+    {
+      "ref": "24:39",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.6–8; Pan. 42.11.6, sch. 78); \"handle me and see\" and \"flesh and\" not present",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.6",
+          "evidence": "\"cum haesitantibus eis ne phantasma esset, immo phantasma credentibus, Quid turbati estis? inquit, et quid cogitationes subeunt in corda vestra? Videte manus meas et pedes, quia ego ipse sum, quoniam spiritus ossa non habet, sicut me videtis habere.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.43.7",
+          "evidence": "\"Vult itaque sic dictum quasi, Spiritus ossa non habet sicut me videtis habentem, ad spiritum referatur, sicut me videtis habentem, id est non habentem ossa sicut et spiritus.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.43.8",
+          "evidence": "\"Cur autem inspectui eorum manus et pedes suos offert, quae membra ex ossibus constant, si ossa non habebat?\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 78",
+          "evidence": "»τί τεταραγμένοι ἐστέ; ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου, ὅτι πνεῦμα ὀστέα οὐκ ἔχει, καθὼς ἐμὲ θεωρεῖτε ἔχοντα«."
+        }
+      ],
+      "wording": "NA27 without \"handle me and see\" and without \"flesh and\" (attested omissions, METHOD §5.3). \"Flesh and\": both witnesses quote \"a spirit does not have bones\" (Tertullian twice). Epiphanius, when he cites the verse himself, has \"flesh and bones\" (Ancor. 91.6; Pan. 64.64.7; 77.9.5, as quoted by Roth), and in his elenchus here says that the Saviour has \"bones and flesh\"; his scholion has only \"bones\". NA27 cites McionT,E for the omission. \"Handle me and see\": Tertullian's quotation runs on from \"it is I myself\" to \"for a spirit\"; he argues from this verse that the body was real (\"what could be clearer about the truth of the body?\") and speaks only of hands and feet offered \"for inspection\" (4.43.8). An invitation to touch would have been his strongest evidence. Epiphanius' quotation also lacks it, but he also skips \"that it is I myself\", so his evidence is weaker here. Roth rates both omissions \"may not have been present\"; the departure rests on the witnesses' arguments and citation habits. Tertullian also cites the verse without both elements in Carn. Chr. 5.9 (as quoted by Roth), so the shorter form may not have been confined to Marcion's text.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 32"
+    },
+    {
+      "ref": "24:40",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:36–43. Tertullian's \"he offers his hands and feet for inspection\" (4.43.8) refers to 24:39 (Roth).",
+      "reconstruction": "chapter 22, verse 33"
+    },
+    {
+      "ref": "24:41",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.8",
+          "evidence": "\"Atquin adhuc eis non credentibus propterea cibum desideravit, ut se ostenderet etiam dentes habere.\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests the disbelief and the request for food (Roth: very likely). \"For joy and marvelling\" is unattested.",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 34"
+    },
+    {
+      "ref": "24:42",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:36–43. Roth classes the verse present on Eznik, De Deo 407 (Marcionites abstain from fish now, \"just as he too after his resurrection ate the fish\"). The Armenian text was not checked here, so the verse is printed as unattested.",
+      "reconstruction": "chapter 22, verse 35"
+    },
+    {
+      "ref": "24:43",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 24:36–43. See 24:42 (Eznik, as quoted by Roth). Tertullian's \"he asked for food to show that he had teeth\" (4.43.8) points to the eating.",
+      "reconstruction": "chapter 22, verse 36"
+    },
+    {
+      "ref": "24:44–46",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Everything written about me in the law of Moses and the prophets and the psalms must be fulfilled… Then he opened their minds to understand the scriptures… Thus it is written, that the Christ should suffer and on the third day rise.\" Tertullian passes from the request for food (24:41; 4.43.8) to the sending to the nations (24:47; 4.43.9) and ends his book by claiming that he has shown Jesus to be the Christ of the prophets; these verses would have been his proof text. Epiphanius does not cite them either. Classed probably absent."
+    },
+    {
+      "ref": "24:47",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.9",
+          "evidence": "\"siquidem et apostolos mittens ad praedicandum universis nationibus, in omnem terram exire sonum eorum et in terminos terrae voces eorum, psalmum adimplendo praecepit.\""
+        }
+      ],
+      "wording": "NA27 (εἰς ἄφεσιν, as NA27; SBLGNT καὶ ἄφεσιν). Tertullian attests the sending to preach to all the nations, as Jesus' command; Roth: κηρυχθῆναι… εἰς πάντα τὰ ἔθνη very likely. In NA27 the infinitive depends on \"thus it is written\" in 24:46, which is not printed (see the notes); how this text introduced the command is not attested, and the ellipsis marks the gap. \"Beginning from Jerusalem\", which NA27 punctuates with 24:48, is unattested and not printed. 24:47 is the last attested verse (METHOD §10).",
+      "decision": "printed",
+      "reconstruction": "chapter 22, verse 37"
+    },
+    {
+      "ref": "24:48–53",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"You are witnesses of these things… stay in the city until you are clothed with power from on high.\" The departure at Bethany, the parting, the return to Jerusalem and the temple. No witness cites anything after 24:47. Under METHOD §10 the text ends with the last attested verse. 24:51b (\"and was carried up into heaven\") and 24:52a (\"worshipped him\") are Western non-interpolations."
+    }
+  ]
+}

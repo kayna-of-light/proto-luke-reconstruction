@@ -1,0 +1,802 @@
+{
+  "luke_chapter": 12,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "12:1",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.1",
+          "evidence": "\"Cavete, inquit discipulis, a fermento pharisaeorum, quod est hypocrisis\"."
+        }
+      ],
+      "wording": "NA27. Tertullian has \"of the Pharisees\" before \"which is hypocrisy\", the order of 𝔓45 ℵ A C D W and the Byzantine text (NA27 cites McionT and Epiphanius for it). Roth: the order is uncertain, since Matt 16:6 and Mark 8:15 have the same phrase; not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 1"
+    },
+    {
+      "ref": "12:2",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.2",
+          "evidence": "\"ideo adicit, Nihil autem opertum, quod non patefiet, et nihil absconditum, quod non dinoscetur\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 2"
+    },
+    {
+      "ref": "12:3",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.2",
+          "evidence": "\"cum subiciat etiam quae inter se mussitarent vel tractarent… in apertum processura, et in ore hominum futura\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 3"
+    },
+    {
+      "ref": "12:4",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.3–4; Pan. 42.11.6, sch. 29)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 29",
+          "evidence": "»λέγω τοῖς φίλοις μου· μὴ φοβηθῆτε ἀπὸ τῶν ἀποκτενόντων τὸ σῶμα…«"
+        },
+        {
+          "source": "Tertullian, Marc. 4.28.3",
+          "evidence": "\"Dico autem, inquit, vobis amicis, nolite terreri ab eis qui vos solummodo occidere possunt, nec post hoc ullam in vobis habent potestatem.\""
+        }
+      ],
+      "wording": "NA27. Epiphanius spells ἀποκτενόντων; NA27 prints ἀποκτεινόντων (spelling).",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 4"
+    },
+    {
+      "ref": "12:5",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.3; Pan. 42.11.6, sch. 29)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 29",
+          "evidence": "»φοβήθητε δὲ τὸν μετὰ τὸ ἀποκτεῖναι ἔχοντα ἐξουσίαν βαλεῖν εἰς γέενναν«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.28.3",
+          "evidence": "\"Demonstrabo autem vobis quem timeatis: Timete eum qui postquam occiderit, potestatem habet mittendi in gehennam… Itaque dico vobis, hunc timete.\""
+        }
+      ],
+      "wording": "Marcionite reading adopted: βαλεῖν εἰς γέενναν (\"to cast into Gehenna\") for NA27 ἐμβαλεῖν εἰς τὴν γέενναν. Epiphanius' Greek, with Tertullian's \"mittendi in gehennam\"; Roth: secure. NA27 apparatus: βαλεῖν 𝔓45 (D) W; McionT,E Clex Thd.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 5"
+    },
+    {
+      "ref": "12:6",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 29",
+          "evidence": "οὐκ εἶχεν δὲ »οὐχὶ πέντε στρουθία ἀσσαρίων δύο πωλοῦνται καὶ ἓν ἐξ αὐτῶν οὐκ ἔστιν ἐπιλελησμένον ἐνώπιον τοῦ θεοῦ«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text did not have the saying on the five sparrows. Tertullian passes from 12:5 to 12:8 (4.28.3–4); Roth counts his silence as confirmation (tacitus)."
+    },
+    {
+      "ref": "12:7",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Even the hairs of your head are all numbered. Do not be afraid; you are of more value than many sparrows.\" The verse ends on the sparrows of 12:6, which Epiphanius says the text lacked. Tertullian goes from 12:5 to 12:8 with \"I can also take from what follows\" (4.28.4). He spends 4.29.1–5 arguing that the God who provides food and clothing is the Creator, and a saying that God has numbered the hairs of the head would have served that argument. NA27 places 12:4–7 in one paragraph."
+    },
+    {
+      "ref": "12:8",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.4; Pan. 42.11.6, sch. 30)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 30",
+          "evidence": "ἀντὶ τοῦ »ὁμολογήσει ἐνώπιον τῶν ἀγγέλων τοῦ θεοῦ« »ἐνώπιον τοῦ θεοῦ« λέγει."
+        },
+        {
+          "source": "Tertullian, Marc. 4.28.4",
+          "evidence": "\"Dico enim vobis, omnis qui confitebitur in me coram hominibus, confitebor in illo coram deo.\""
+        }
+      ],
+      "wording": "Marcionite reading adopted: \"before God\" without \"the angels of\" (both witnesses; Roth: secure). NA27 apparatus: □ τῶν ἀγγέλων bis ℵ*; McionT,(E). Tertullian's first person \"I will acknowledge\" is Matthew's wording (Matt 10:32), which he uses elsewhere; Roth: possible only. NA27's ἔμπροσθεν is kept (Epiphanius' ἐνώπιον may be his own).",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 6"
+    },
+    {
+      "ref": "12:9",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.4",
+          "evidence": "\"Et omnis qui negaverit me coram hominibus, denegabitur coram deo.\""
+        }
+      ],
+      "wording": "Marcionite reading adopted: \"before God\" without \"the angels of\", as in 12:8 (Roth: secure; NA27 cites McionT for the omission in both verses). The two citations in the Dialogue of Adamantius give Matthew 10:33 and are no evidence here (Roth).",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 7"
+    },
+    {
+      "ref": "12:10",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.6",
+          "evidence": "\"Qui dixerit in filium hominis, remittetur illi, qui autem dixerit in spiritum sanctum, non remittetur ei.\""
+        }
+      ],
+      "wording": "NA27. Tertullian has the same verb in both halves (\"whoever speaks against the holy spirit\"); Roth rates that form probable only. Not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 8"
+    },
+    {
+      "ref": "12:11",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.7)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.7",
+          "evidence": "\"Perductos ad potestates prohibet ad interrogationem cogitare de responsione\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 9"
+    },
+    {
+      "ref": "12:12",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.7–8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.7",
+          "evidence": "\"Sanctus enim, inquit, spiritus docebit vos ipsa hora quid eloqui debeatis.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 10"
+    },
+    {
+      "ref": "12:13",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.9",
+          "evidence": "\"Christus vero postulatus a quodam ut inter illum et fratrem ipsius de dividunda haereditate componeret…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 11"
+    },
+    {
+      "ref": "12:14",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.9–10)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.10",
+          "evidence": "\"Quis me, inquit, iudicem constituit super vos?\""
+        }
+      ],
+      "wording": "NA27. Tertullian has only \"judge\"; Roth notes that \"or arbitrator\" may not have stood. Not adopted (one witness, which shapes the saying after Exod 2:14).",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 12"
+    },
+    {
+      "ref": "12:15",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 12:13–15.",
+      "reconstruction": "chapter 10, verse 13"
+    },
+    {
+      "ref": "12:16",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.11",
+          "evidence": "\"parabola divitis blandientis sibi de proventu agrorum suorum\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 14"
+    },
+    {
+      "ref": "12:17",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 12:16–21.",
+      "reconstruction": "chapter 10, verse 15"
+    },
+    {
+      "ref": "12:18",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 12:16–21.",
+      "reconstruction": "chapter 10, verse 16"
+    },
+    {
+      "ref": "12:19",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.11",
+          "evidence": "\"divitis blandientis sibi\" — the rich man flattering himself."
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 17"
+    },
+    {
+      "ref": "12:20",
+      "class": "A+",
+      "roth": "present (Marc. 4.28.11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.28.11",
+          "evidence": "\"cui deus dicit, Stulte, hac nocte animam tuam reposcent; quae autem parasti, cuius erunt?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 18"
+    },
+    {
+      "ref": "12:21",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested parable 12:16–21.",
+      "reconstruction": "chapter 10, verse 19"
+    },
+    {
+      "ref": "12:22",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.1",
+          "evidence": "\"Quis nollet curam nos agere animae de victu et corpori de vestitu…?\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 20"
+    },
+    {
+      "ref": "12:23",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.1",
+          "evidence": "\"qui et substantiam ipsius animae accommodavit potiorem esca, et materiam ipsius corporis figuravit potiorem tunica\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 21"
+    },
+    {
+      "ref": "12:24",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.1",
+          "evidence": "\"cuius et corvi non serunt nec metunt nec in apothecas condunt, et tamen aluntur ab ipso\"."
+        }
+      ],
+      "wording": "NA27. Tertullian rewrites the passage in rhetorical form (Braun, Roth). \"Nor gather into barns\" is Matthew's wording (Matt 6:26). Roth judges \"and God feeds them\" attested by Tertullian but probably not in the text, by analogy with 12:28, where Epiphanius states that \"God clothes the grass\" was lacking. No witness states that the clause at 12:24 was lacking, and it is printed.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 22"
+    },
+    {
+      "ref": "12:25",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 12:22–32.",
+      "reconstruction": "chapter 10, verse 23"
+    },
+    {
+      "ref": "12:26",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 12:22–32.",
+      "reconstruction": "chapter 10, verse 24"
+    },
+    {
+      "ref": "12:27",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.1",
+          "evidence": "\"cuius et lilia et foenum non texunt nec nent… cuius et Salomon gloriosissimus, nec ullo tamen flosculo cultior\"."
+        }
+      ],
+      "wording": "Marcionite reading adopted (retroversion): \"neither spin nor weave\" for NA27 \"how they grow: they neither toil nor spin\". Tertullian's \"non texunt nec nent\" (weave, spin) cannot render NA27's \"toil… spin\". The Greek printed is that of codex D, which has the same two verbs (NA27 apparatus: οὔτε νήθει οὔτε ὑφαίνει D sys.c (⸉ a; McionT) Cl). Roth rates the verbs very likely and their order uncertain; Tertullian's order (weave, spin) is that of the Old Latin a. D's order is printed.",
+      "decision": "printed",
+      "western": "The reading of D, the Old Syriac (sys.c) and Clement of Alexandria.",
+      "reconstruction": "chapter 10, verse 25"
+    },
+    {
+      "ref": "12:28",
+      "class": "A+",
+      "roth": "present for 12:28b (Marc. 4.29.2–3); 12:28a absent (Pan. 42.11.6, sch. 31)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 31",
+          "evidence": "οὐκ ἔχει τὸ »ὁ θεὸς ἀμφιέννυσι τὸν χόρτον«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.29.2",
+          "evidence": "\"Interim cur illos modicae fidei incusat, id est cuius fidei?\""
+        }
+      ],
+      "wording": "Attested omission: 12:28a (\"if God so clothes the grass of the field, which is alive today and tomorrow is thrown into the oven\") is not printed. Epiphanius states that the text \"does not have 'God clothes the grass'\". Tertullian's argument requires \"of little faith\" (12:28b). Tertullian does mention grass (\"lilia et foenum… vestiuntur ab ipso\", 4.29.1), but he joins the lilies and the grass in the same way in his own works (Idol. 12.2; Ux. 1.4.7), and Roth takes the allusion as his. The remaining words \"how much more you\" are not quoted by either witness and are printed in the NA27 wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 26"
+    },
+    {
+      "ref": "12:29",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 12:22–32.",
+      "reconstruction": "chapter 10, verse 27"
+    },
+    {
+      "ref": "12:30",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.3; Pan. 42.11.6, sch. 32)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 32",
+          "evidence": "»ὑμῶν δὲ ὁ πατὴρ οἶδεν ὅτι χρῄζετε τούτων«, τῶν σαρκικῶν δή."
+        },
+        {
+          "source": "Tertullian, Marc. 4.29.3",
+          "evidence": "\"Haec enim nationes mundi quaerunt… Scit autem pater opus esse haec vobis.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 28"
+    },
+    {
+      "ref": "12:31",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.5; Pan. 42.11.6, sch. 33)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 33",
+          "evidence": "»ζητεῖτε δὲ τὴν βασιλείαν τοῦ θεοῦ καὶ ταῦτα πάντα προστεθήσεται ὑμῖν«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.29.5",
+          "evidence": "\"Quaerite enim inquit regnum dei, et haec vobis adicientur.\""
+        }
+      ],
+      "wording": "Marcionite reading adopted: \"the kingdom of God\" for \"his kingdom\" (both witnesses; Roth: secure). NA27 apparatus: τοῦ θεοῦ 𝔓45 A D1 Q W Θ 070 f1.13 33 𝔐 lat sy; McionE. Epiphanius' \"all\" (πάντα) and \"but\" (δέ) are not in Tertullian; not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 29"
+    },
+    {
+      "ref": "12:32",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 34)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 34",
+          "evidence": "ἀντὶ τοῦ »ὁ πατὴρ ὑμῶν« »ὁ πατήρ« εἶχεν."
+        }
+      ],
+      "wording": "Marcionite reading adopted: \"the Father\" for \"your Father\". Epiphanius states the difference; Roth: \"ὑμῶν attested as missing\".",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 30"
+    },
+    {
+      "ref": "12:33–34",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Sell your possessions and give alms… where your treasure is, there your heart will be also.\" A separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 12:31 (4.29.5) to 12:35 (4.29.6); Epiphanius from 12:32 (sch. 34) to 12:38 (sch. 35)."
+    },
+    {
+      "ref": "12:35",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.6",
+          "evidence": "\"Succingere debemus lumbos… Item lucernas ardentes habere\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 31"
+    },
+    {
+      "ref": "12:36",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.6",
+          "evidence": "\"atque ita expectare dominum, id est Christum. Unde redeuntem? si a nuptiis, creatoris est, cuius nuptiae\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 32"
+    },
+    {
+      "ref": "12:37",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.6)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.6",
+          "evidence": "\"Sumus servi, dominum enim habemus deum.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 33"
+    },
+    {
+      "ref": "12:38",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 35)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 35",
+          "evidence": "ἀντὶ τοῦ »δευτέρᾳ ἢ τρίτῃ φυλακῇ« εἶχεν »ἑσπερινῇ φυλακῇ«."
+        }
+      ],
+      "wording": "Marcionite reading adopted: \"in the evening watch\" for \"in the second or the third watch\". Epiphanius states the difference; Roth: very likely. D and several Old Latin manuscripts (with Irenaeus' Latin) also have the evening watch, though all but b have the second and third watch as well (NA27 apparatus: D c (f1 it syc Irlat)). The Greek printed puts the attested phrase in place of NA27's.",
+      "decision": "printed",
+      "western": "The evening watch is in D and the Old Latin.",
+      "reconstruction": "chapter 10, verse 34"
+    },
+    {
+      "ref": "12:39",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.7)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.7",
+          "evidence": "\"furem illum, cuius horam si pater familiae sciret non sineret suffodi domum suam\"."
+        }
+      ],
+      "wording": "NA27, without \"he would have stayed awake and\" (NA27 cites McionT with 𝔓75 ℵ* D for the shorter text).",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 35"
+    },
+    {
+      "ref": "12:40",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.7–8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.7",
+          "evidence": "\"propterea iubet ut parati simus, quia qua non putamus hora filius hominis adveniet\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 36"
+    },
+    {
+      "ref": "12:41",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.9",
+          "evidence": "\"Itaque interroganti Petro in illos an et in omnes parabolam dixisset…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 37"
+    },
+    {
+      "ref": "12:42",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.9",
+          "evidence": "\"ad ipsos et ad universos qui ecclesiis praefuturi essent proponit actorum similitudinem\"."
+        }
+      ],
+      "wording": "NA27, including its bracketed [τό]. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 38"
+    },
+    {
+      "ref": "12:43",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.9",
+          "evidence": "\"quorum qui bene tractaverit conservos absentia domini reverso eo…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 39"
+    },
+    {
+      "ref": "12:44",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.9",
+          "evidence": "\"omnibus bonis praeponetur\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 40"
+    },
+    {
+      "ref": "12:45",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.9",
+          "evidence": "\"qui vero secus egerit\"."
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 41"
+    },
+    {
+      "ref": "12:46",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.9–11; Pan. 42.11.6, sch. 36; Adam. 24,9–12)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 36",
+          "evidence": "»ἥξει ὁ κύριος τοῦ δούλου ἐκείνου καὶ διχοτομήσει αὐτὸν καὶ τὸ μέρος αὐτοῦ μετὰ τῶν ἀπίστων θήσει«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.29.9",
+          "evidence": "\"reverso domino qua die non putaverit, hora qua non scierit… segregabitur et pars eius cum infidelibus ponetur\"."
+        }
+      ],
+      "wording": "NA27. Tertullian renders διχοτομήσει as segregabitur (\"will be separated\") and reports the Marcionite reading of the verse as mild separation (4.29.10); that is reception, not a different text (Zahn, Roth).",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 42"
+    },
+    {
+      "ref": "12:47",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.11; Adam. 112,10–11)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.11",
+          "evidence": "\"Quem alium intellegam caedentem servos paucis aut multis plagis, et prout commisit illis ita et exigentem ab eis…?\""
+        }
+      ],
+      "wording": "NA27. The Dialogue of Adamantius has only \"did not act\" (NA27: McionA with 𝔓45 D); Roth: possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 43"
+    },
+    {
+      "ref": "12:48",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.11; Adam. 112,11–12)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.11",
+          "evidence": "\"caedentem servos paucis aut multis plagis, et prout commisit illis ita et exigentem ab eis\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 44"
+    },
+    {
+      "ref": "12:49",
+      "class": "A+",
+      "roth": "present for 12:49a (Marc. 4.29.12–13; Adam. 68,2); 12:49b unattested",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.12",
+          "evidence": "\"Proclamat Christus tuus: Ignem veni mittere in terram.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"in terram\" may render εἰς (𝔓45 D) rather than ἐπί; Roth: probable only. 12:49b is not cited; the verse is printed whole.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 45"
+    },
+    {
+      "ref": "12:50",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 12:49–53.",
+      "reconstruction": "chapter 10, verse 46"
+    },
+    {
+      "ref": "12:51",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.13–14; Adam. 68,1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.13",
+          "evidence": "\"Putatis venisse me pacem mittere in terram? non, dico vobis, sed separationem. Machaeram quidem scriptum est. Sed Marcion emendat\"."
+        }
+      ],
+      "wording": "NA27. Tertullian's \"mittere\" (βαλεῖν) and \"sed\" (ἀλλά) are cited for Marcion in NA27; Roth rates both possible only (Tertullian may echo Matt 10:34, and wrote \"mittere\" a few lines earlier). Not adopted. Tertullian's charge that Marcion changed \"sword\" to \"division\" confuses Matthew's wording with Luke's: every Greek manuscript of Luke has \"division\".",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 47"
+    },
+    {
+      "ref": "12:52",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 12:49–53.",
+      "reconstruction": "chapter 10, verse 48"
+    },
+    {
+      "ref": "12:53",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.14)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.14",
+          "evidence": "\"Denique, Dividetur, inquit, pater in filium et filius in patrem, et mater in filiam et filia in matrem, et nurus in socrum et socrus in nurum.\""
+        }
+      ],
+      "wording": "Marcionite reading adopted (retroversion): the singular διαμερισθήσεται (\"will be divided\") for NA27's plural, the reading of the Byzantine text. Tertullian quotes the verse (\"inquit\") with \"dividetur\"; Roth: very likely. The other small differences (his \"and\" before mother and daughter-in-law, no pronoun) are possible only and not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 49"
+    },
+    {
+      "ref": "12:54",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 12:54–56. NA27 prints [τήν] before νεφέλην (SBLGNT omits it).",
+      "reconstruction": "chapter 10, verse 50"
+    },
+    {
+      "ref": "12:55",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 12:54–56.",
+      "reconstruction": "chapter 10, verse 51"
+    },
+    {
+      "ref": "12:56",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.15)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.15",
+          "evidence": "\"Et ideo hypocritas pronuntiabat, caeli quidem et terrae faciem probantes, tempus vero illud non dinoscentes\"."
+        }
+      ],
+      "wording": "Marcionite reading adopted: \"heaven and earth\" for NA27 \"earth and heaven\". Tertullian's order is that of 𝔓45 𝔓75 ℵ2 D K L N and the Old Latin (NA27 apparatus); Roth: very likely. NA27 has τὸν καιρὸν δὲ τοῦτον (SBLGNT τὸν δὲ καιρὸν τοῦτον — checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 52"
+    },
+    {
+      "ref": "12:57",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.15–16)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.15",
+          "evidence": "\"Merito exprobrat etiam quod iustum non a semetipsis iudicarent.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 53"
+    },
+    {
+      "ref": "12:58",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.16; Pan. 42.11.6, sch. 37)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 37",
+          "evidence": "»μή ποτε κατασύρῃ σε πρὸς τὸν κριτὴν καὶ ὁ κριτὴς παραδώσει σε τῷ πράκτορι«."
+        },
+        {
+          "source": "Tertullian, Marc. 4.29.16",
+          "evidence": "\"Nam et iudicem, qui mittit in carcerem nec ducit inde nisi soluto etiam novissimo quadrante…\""
+        }
+      ],
+      "wording": "Marcionite reading adopted: the word order παραδώσει σε (Epiphanius' Greek, with 𝔓45 D 157 1241); Roth: very likely. Epiphanius quotes the verse in Matthew's wording elsewhere (Pan. 27.5.3), so here he follows the text before him.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 54"
+    },
+    {
+      "ref": "12:59",
+      "class": "A+",
+      "roth": "present (Marc. 4.29.16)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.29.16",
+          "evidence": "\"nec ducit inde nisi soluto etiam novissimo quadrante\"."
+        }
+      ],
+      "wording": "NA27. Tertullian's quadrans is Matthew's κοδράντης (Matt 5:26); Roth: possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 10, verse 55"
+    }
+  ]
+}

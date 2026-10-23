@@ -1,0 +1,536 @@
+{
+  "luke_chapter": 23,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "23:1",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.1",
+          "evidence": "\"Perductum enim illum ad Pilatum onerare coeperunt quod se regem diceret Christum… Pilato quoque interroganti, Tu es Christus? proinde, Tu dicis…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 1"
+    },
+    {
+      "ref": "23:2",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.1; Pan. 42.11.6, sch. 69–70)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.1",
+          "evidence": "\"Perductum enim illum ad Pilatum onerare coeperunt quod se regem diceret Christum… Pilato quoque interroganti, Tu es Christus? proinde, Tu dicis…\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 69",
+          "evidence": "προσέθετο μετὰ τὸ »τοῦτον εὕρομεν διαστρέφοντα τὸ ἔθνος« »καὶ καταλύοντα τὸν νόμον καὶ τοὺς προφήτας«. Elenchus 69: \"the text did not read so, but: we found this man misleading the people, saying that he is Christ a king\"."
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 70",
+          "evidence": "προσθήκη μετὰ τὸ »κελεύοντα φόρους μὴ δοῦναι« »καὶ ἀποστρέφοντα τὰς γυναῖκας καὶ τὰ τέκνα«."
+        }
+      ],
+      "wording": "Marcionite readings adopted: \"and destroying the law and the prophets\" after \"misleading our nation\", and \"and turning away the women and the children\" after the tribute. Epiphanius states twice, in two scholia, that the text had these words in addition to canonical Luke's; NA27 cites both for Marcion (McionE); Roth: very likely. The rest of the verse is NA27. Epiphanius' own wording of it is a summary (Roth); NA27 cites McionE also for the omission of \"our\", which Roth leaves open, and it is printed.",
+      "decision": "printed",
+      "western": "\"And destroying the law and the prophets\" also stands in Old Latin manuscripts (e b c ff2 gat i) and a few Vulgate manuscripts; c and e have \"and he turned away our sons and wives from us\" at 23:5.",
+      "reconstruction": "chapter 21, verse 2"
+    },
+    {
+      "ref": "23:3",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.1",
+          "evidence": "\"Perductum enim illum ad Pilatum onerare coeperunt quod se regem diceret Christum… Pilato quoque interroganti, Tu es Christus? proinde, Tu dicis…\""
+        }
+      ],
+      "wording": "NA27. Tertullian has Pilate ask \"Are you the Christ?\"; Roth: possible only, since Tertullian has just spoken of the charge \"Christ a king\" and goes on to Ps 2 (\"against his Christ\"). Not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 3"
+    },
+    {
+      "ref": "23:4",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 23:2–5.",
+      "reconstruction": "chapter 21, verse 4"
+    },
+    {
+      "ref": "23:5",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 23:2–5.",
+      "reconstruction": "chapter 21, verse 5"
+    },
+    {
+      "ref": "23:6",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 23:6–7.",
+      "reconstruction": "chapter 21, verse 6"
+    },
+    {
+      "ref": "23:7",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.3",
+          "evidence": "\"Nam et Herodi velut munus a Pilato missus… Delectatus est denique Herodes viso Iesu, nec vocem ullam ab eo audivit.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 7"
+    },
+    {
+      "ref": "23:8",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.3",
+          "evidence": "\"Nam et Herodi velut munus a Pilato missus… Delectatus est denique Herodes viso Iesu, nec vocem ullam ab eo audivit.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 8"
+    },
+    {
+      "ref": "23:9",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.3",
+          "evidence": "\"Nam et Herodi velut munus a Pilato missus… Delectatus est denique Herodes viso Iesu, nec vocem ullam ab eo audivit.\""
+        }
+      ],
+      "wording": "NA27. Tertullian (\"he heard no word from him\") attests the silence, not the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 9"
+    },
+    {
+      "ref": "23:10",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 23:8–12.",
+      "reconstruction": "chapter 21, verse 10"
+    },
+    {
+      "ref": "23:11",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 23:8–12. NA27 [καί].",
+      "reconstruction": "chapter 21, verse 11"
+    },
+    {
+      "ref": "23:12",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 23:8–12.",
+      "reconstruction": "chapter 21, verse 12"
+    },
+    {
+      "ref": "23:13–16",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "Pilate tells the chief priests and rulers that neither he nor Herod found him guilty: a paragraph with no attested verse (METHOD §4.3)."
+    },
+    {
+      "ref": "23:18",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.4",
+          "evidence": "\"Et Barrabas quidem nocentissimus vita ut bonus donatur, Christus vero iustissimus ut homicida morti expostulatur. Sed et duo scelesti circumfiguntur illi, ut inter iniquos scilicet deputaretur.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 13"
+    },
+    {
+      "ref": "23:19",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.4",
+          "evidence": "\"Et Barrabas quidem nocentissimus vita ut bonus donatur, Christus vero iustissimus ut homicida morti expostulatur. Sed et duo scelesti circumfiguntur illi, ut inter iniquos scilicet deputaretur.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"most guilty in life\" and \"as a murderer\" refer to the crimes (Roth: possible).",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 14"
+    },
+    {
+      "ref": "23:20",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 23:18–23. NA27 αὐτοῖς (SBLGNT without it).",
+      "reconstruction": "chapter 21, verse 15"
+    },
+    {
+      "ref": "23:21",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 23:18–23.",
+      "reconstruction": "chapter 21, verse 16"
+    },
+    {
+      "ref": "23:22",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.4",
+          "evidence": "\"Et Barrabas quidem nocentissimus vita ut bonus donatur, Christus vero iustissimus ut homicida morti expostulatur. Sed et duo scelesti circumfiguntur illi, ut inter iniquos scilicet deputaretur.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"most just\" refers to Pilate's finding (Roth); no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 17"
+    },
+    {
+      "ref": "23:23",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.4",
+          "evidence": "\"Et Barrabas quidem nocentissimus vita ut bonus donatur, Christus vero iustissimus ut homicida morti expostulatur. Sed et duo scelesti circumfiguntur illi, ut inter iniquos scilicet deputaretur.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's \"his death is demanded\" refers to the cries (Roth); no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 18"
+    },
+    {
+      "ref": "23:24",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 23:24–25.",
+      "reconstruction": "chapter 21, verse 19"
+    },
+    {
+      "ref": "23:25",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.4",
+          "evidence": "\"Et Barrabas quidem nocentissimus vita ut bonus donatur, Christus vero iustissimus ut homicida morti expostulatur. Sed et duo scelesti circumfiguntur illi, ut inter iniquos scilicet deputaretur.\""
+        }
+      ],
+      "wording": "NA27. Tertullian attests the release (\"donatur\"; Roth: ἀπέλυσεν).",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 20"
+    },
+    {
+      "ref": "23:26",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "Simon of Cyrene: a one-verse NA27 paragraph with no attested verse."
+    },
+    {
+      "ref": "23:27–31",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Daughters of Jerusalem, do not weep for me…\": a paragraph with no attested verse."
+    },
+    {
+      "ref": "23:32",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.4",
+          "evidence": "\"Et Barrabas quidem nocentissimus vita ut bonus donatur, Christus vero iustissimus ut homicida morti expostulatur. Sed et duo scelesti circumfiguntur illi, ut inter iniquos scilicet deputaretur.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 21"
+    },
+    {
+      "ref": "23:33",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.4; Pan. 42.11.6, sch. 71)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.4",
+          "evidence": "\"Et Barrabas quidem nocentissimus vita ut bonus donatur, Christus vero iustissimus ut homicida morti expostulatur. Sed et duo scelesti circumfiguntur illi, ut inter iniquos scilicet deputaretur.\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 71",
+          "evidence": "»καὶ ἐλθόντες εἰς τόπον λεγόμενον Κρανίου τόπος ἐσταύρωσαν αὐτὸν καὶ διεμερίσαντο τὰ ἱμάτια αὐτοῦ καὶ ἐσκοτίσθη ὁ ἥλιος«."
+        }
+      ],
+      "wording": "NA27. Epiphanius' wording follows Matt 27:33 and runs 23:33, 34b and 45 together; Roth: a summary, possible only.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 22"
+    },
+    {
+      "ref": "23:34",
+      "class": "A−",
+      "roth": "34a unattested (Ephrem possibly); 34b absent (Marc. 4.42.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.4",
+          "evidence": "\"Vestitum plane eius a militibus divisum, partim sorte concessum, Marcion abstulit, respiciens psalmi prophetiam: Dispertiti sibi sunt vestimenta mea…\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 71",
+          "evidence": "»… ἐσταύρωσαν αὐτὸν καὶ διεμερίσαντο τὰ ἱμάτια αὐτοῦ καὶ ἐσκοτίσθη ὁ ἥλιος«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "23:34b, the dividing of the garments by lot: Tertullian states that Marcion removed it, because of Ps 22:18, and builds his argument on its absence. Epiphanius' scholion 71 mentions the dividing, but it runs 23:33, 34b and 45 together in Matthew's wording and is a summary (Volckmar, Zahn, Roth). Tertullian's explicit statement is followed. 23:34a, \"Father, forgive them, for they know not what they do\", is printed by NA27 in double brackets as not part of its text (absent from 𝔓75 ℵ1 B D* W Θ 070 579 1241 a sys sa). Neither Tertullian nor Epiphanius cites it; Ephrem mentions the saying in an argument against the Marcionites (Comm. Diat. 21.3), which Roth rates as a possible attestation only. It is not printed."
+    },
+    {
+      "ref": "23:35–38",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The rulers and soldiers mock him; the inscription. A paragraph with no attested verse. Ps 22:7, 16 in Tertullian 4.42.4 is not clearly a reference to it (Roth)."
+    },
+    {
+      "ref": "23:39–42",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The two criminals; \"Jesus, remember me when you come into your kingdom\". Unattested; the answer (23:43) is absent, and the paragraph has no attested verse."
+    },
+    {
+      "ref": "23:43",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 72",
+          "evidence": "παρέκοψε τὸ »σήμερον μετ' ἐμοῦ ἔσῃ ἐν τῷ παραδείσῳ«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text lacked \"Today you will be with me in paradise\". Tertullian passes from 23:34 to 23:44 (4.42.4–5)."
+    },
+    {
+      "ref": "23:44",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.5)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.5",
+          "evidence": "\"Ecce autem et elementa concutiuntur… Hic erit dies de quo et Amos: Et erit illa die, dicit dominus, occidet sol meridie (habes et horae sextae significationem), et contenebrabit super terram.\""
+        }
+      ],
+      "wording": "NA27. Tertullian's gloss on Amos 8:9 attests the sixth hour and the darkness over the land (Roth: very likely).",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 23"
+    },
+    {
+      "ref": "23:45",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.5; Pan. 42.11.6, sch. 71)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.5",
+          "evidence": "\"Scissum est et templi velum…\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 71",
+          "evidence": "»… καὶ ἐσκοτίσθη ὁ ἥλιος«."
+        }
+      ],
+      "wording": "NA27. For \"the sun's light failed\" (τοῦ ἡλίου ἐκλιπόντος) Epiphanius has \"and the sun was darkened\" (καὶ ἐσκοτίσθη ὁ ἥλιος), the reading of A C3 W Θ Ψ f1.13 𝔐 lat sy; NA27 cites McionEvid. Roth: probable only, because the scholion is a summary in Matthew's wording; Ephrem and Eznik, who speak of the sun darkened in Marcionite contexts, were not checked here. Not adopted. Tertullian attests the curtain (Roth: secure).",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 24"
+    },
+    {
+      "ref": "23:46",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.6; Pan. 42.11.6, sch. 73)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.6",
+          "evidence": "\"Vociferatur ad patrem, ut et moriens ultima voce prophetas adimpleret. Hoc dicto expiravit.\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 73",
+          "evidence": "»καὶ φωνήσας φωνῇ μεγάλῃ ἐξέπνευσεν«."
+        }
+      ],
+      "wording": "NA27. Both witnesses attest the loud cry and \"he breathed his last\"; Tertullian's \"having said this\" renders τοῦτο δὲ εἰπών. Neither quotes the words of the cry. Tertullian's \"to the Father… to fulfil the prophets\" (Ps 31:5) points to them (Roth: possible). Adamantius quotes the verse (198,8–12), but as the orthodox speaker; it is not counted.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 25"
+    },
+    {
+      "ref": "23:47–48",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "The centurion (\"certainly this man was righteous\") and the crowds beating their breasts: a paragraph with no attested verse."
+    },
+    {
+      "ref": "23:49",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "His acquaintances and the women standing at a distance: a one-verse paragraph with no attested verse."
+    },
+    {
+      "ref": "23:50",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.8; Pan. 42.11.6, sch. 74)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.8",
+          "evidence": "\"Sed si et Ioseph corpus fuisse noverat quod tota pietate tractavit, ille Ioseph qui non consenserat in scelere Iudaeis…\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 74",
+          "evidence": "»καὶ ἰδοὺ ἀνὴρ ὀνόματι Ἰωσήφ, καθελὼν τὸ σῶμα ἐνετύλιξε σινδόνι καὶ ἔθηκεν ἐν μνήματι λαξευτῷ«."
+        }
+      ],
+      "wording": "NA27 (with NA27's bracketed καί). Epiphanius quotes \"and behold, a man named Joseph\"; the rest is unattested.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 26"
+    },
+    {
+      "ref": "23:51",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.8",
+          "evidence": "\"ille Ioseph qui non consenserat in scelere Iudaeis\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 27"
+    },
+    {
+      "ref": "23:52",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.7)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.7",
+          "evidence": "\"nihil de Pilato postulatum, nihil de patibulo detractum, nihil sindone involutum, nihil sepulcro novo conditum.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 28"
+    },
+    {
+      "ref": "23:53",
+      "class": "A+",
+      "roth": "present (Marc. 4.42.7; Pan. 42.11.6, sch. 74)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.42.7",
+          "evidence": "\"nihil de Pilato postulatum, nihil de patibulo detractum, nihil sindone involutum, nihil sepulcro novo conditum.\""
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 74",
+          "evidence": "»… καθελὼν τὸ σῶμα ἐνετύλιξε σινδόνι καὶ ἔθηκεν ἐν μνήματι λαξευτῷ«."
+        }
+      ],
+      "wording": "NA27. Both witnesses attest the taking down, the linen and the tomb; Tertullian's \"new\" may come from \"where no one had been laid\" or from Matt 27:60 (Roth).",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 29"
+    },
+    {
+      "ref": "23:54",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 23:50–54.",
+      "reconstruction": "chapter 21, verse 30"
+    },
+    {
+      "ref": "23:55",
+      "class": "A+",
+      "roth": "present (Marc. 4.43.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.43.1",
+          "evidence": "\"si nec mulierum illarum officium praeterit prophetia quae ante lucem convenerunt ad sepulcrum cum odorum paratura\"."
+        }
+      ],
+      "wording": "NA27. Tertullian attests the women (Roth: very likely).",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 31"
+    },
+    {
+      "ref": "23:56",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 75; Marc. 4.43.1)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 75",
+          "evidence": "»καὶ ὑποστρέψασαι αἱ γυναῖκες ἡσύχασαν τὸ σάββατον κατὰ τὸν νόμον«."
+        }
+      ],
+      "wording": "NA27. Epiphanius has \"according to the law\" for \"according to the commandment\"; Roth: \"the law\" possible only. Not adopted. Tertullian's \"with the preparation of spices\" (4.43.1) refers to 23:56a or 24:1.",
+      "decision": "printed",
+      "reconstruction": "chapter 21, verse 32"
+    }
+  ]
+}

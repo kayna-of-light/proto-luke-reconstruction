@@ -564,7 +564,7 @@ So that a later session doesn't have to search for it again:
 
 1. **Model:** Schwegler (Luke expanded Marcion's text) or Semler (common original)? Or leave it open and mark the passages where the choice matters?
 2. **The status of "unattested, probably absent":** do such verses go in the main text in brackets, or only in the apparatus?
-3. **24:19b ("a prophet mighty in deed and word")** is unattested. Keep it in brackets, or move it to the apparatus? It matters for the framework document of that name.
+3. **24:19b ("a prophet mighty in deed and word")** is unattested. Keep it in brackets, or move it to the apparatus? It matters for the framework document of that name. *Resolved 2026-10-13 by the method, not by preference:* 19b is `U?` (Tertullian passes over it while quoting 24:21 for the same argument it would have served; Epiphanius is silent), and only an attested omission removes words from an attested verse (METHOD §5.3). Printed, with the class and reasoning in the apparatus (24:19).
 4. **24:41–43 (the meal):** it is attested for Proto-Luke. How should the reconstruction's commentary read it? Options:
    - the Marcionite community's own reading (Eznik: a basis for their teaching on eating fish);
    - a correspondential reading (cf. *Anatomy of Ascension*);

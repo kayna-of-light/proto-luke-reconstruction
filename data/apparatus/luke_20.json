@@ -1,0 +1,475 @@
+{
+  "luke_chapter": 20,
+  "base_text": "NA27 (= NA28 in Luke), checked against the page images",
+  "classes": {
+    "A+": "attested present",
+    "A−": "attested absent",
+    "U−": "unattested, probably absent",
+    "U?": "unattested, undetermined"
+  },
+  "method": "docs/audit/METHOD.md",
+  "records": [
+    {
+      "ref": "20:1",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.1",
+          "evidence": "\"Sciebat non responsuros sibi pharisaeos.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 1"
+    },
+    {
+      "ref": "20:2",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 20:1–8.",
+      "reconstruction": "chapter 18, verse 2"
+    },
+    {
+      "ref": "20:3",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested pericope 20:1–8.",
+      "reconstruction": "chapter 18, verse 3"
+    },
+    {
+      "ref": "20:4",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.1–2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.1",
+          "evidence": "\"Sciebat Christus baptisma Ioannis unde esset. Et cur quasi nesciens interrogabat?… Puta illos renuntiasse humanum Ioannis baptisma…\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.38.2",
+          "evidence": "\"Sed de caelis fuit baptisma Ioannis.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 4"
+    },
+    {
+      "ref": "20:5",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.2",
+          "evidence": "\"Et quare, inquit Christus, non credidistis ei?\""
+        }
+      ],
+      "wording": "NA27. Tertullian quotes \"why did you not believe him?\" as Christ's words, as the leaders expect him to say them.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 5"
+    },
+    {
+      "ref": "20:6",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.1)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.1",
+          "evidence": "\"Puta illos renuntiasse humanum Ioannis baptisma, statim lapidibus elisi fuissent.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 6"
+    },
+    {
+      "ref": "20:7",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.2",
+          "evidence": "\"Certe nolentibus renuntiare quid saperent…\""
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 7"
+    },
+    {
+      "ref": "20:8",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.2)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.2",
+          "evidence": "\"cum et ipse vicem opponit, Et ego non dico vobis in qua virtute haec facio\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 8"
+    },
+    {
+      "ref": "20:9–17",
+      "class": "A−",
+      "roth": "absent",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 55",
+          "evidence": "πάλιν ἀπέκοψε τὰ περὶ τοῦ ἀμπελῶνος τοῦ ἐκδεδομένου γεωργοῖς καὶ τὸ »τί οὖν ἐστι τό· λίθον ὃν ἀπεδοκίμασαν οἱ οἰκοδομοῦντες;«"
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states that the text lacked the parable of the vineyard let out to tenants and \"What then is this that is written: the stone that the builders rejected?\" Tertullian passes from 20:8 (4.38.2) to 20:24–25 (4.38.3); Roth counts his silence as confirmation (tacitus)."
+    },
+    {
+      "ref": "20:18",
+      "class": "U−",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Everyone who falls on that stone will be broken to pieces…\" It refers to the stone of 20:17, which Epiphanius says the text lacked, and ends the parable."
+    },
+    {
+      "ref": "20:19",
+      "class": "A+",
+      "roth": "present (Pan. 42.11.6, sch. 54)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 54",
+          "evidence": "»καὶ ἐζήτησαν ἐπιβαλεῖν ἐπ' αὐτὸν τὰς χεῖρας καὶ ἐφοβήθησαν«."
+        }
+      ],
+      "wording": "NA27, without its last clause, \"for they perceived that he had told this parable against them\". Epiphanius quotes the verse as present, but the parable of the tenants (20:9–17) is absent by his own statement (sch. 55). The clause referring to it is not quoted and is classed probably absent with the parable. In this text the verse follows the question about John's baptism (20:1–8), and the hostility it reports answers that exchange. Epiphanius' refutation introduces the verse with the setting of 20:1 (\"as he was teaching in the temple\").",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 9"
+    },
+    {
+      "ref": "20:20",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 20:20–26.",
+      "reconstruction": "chapter 18, verse 10"
+    },
+    {
+      "ref": "20:21",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 20:20–26.",
+      "reconstruction": "chapter 18, verse 11"
+    },
+    {
+      "ref": "20:22",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 20:20–26.",
+      "reconstruction": "chapter 18, verse 12"
+    },
+    {
+      "ref": "20:23",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 20:20–26.",
+      "reconstruction": "chapter 18, verse 13"
+    },
+    {
+      "ref": "20:24",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.3",
+          "evidence": "\"Quae similia sunt denario Caesaris; imago scilicet et similitudo eius.\""
+        }
+      ],
+      "wording": "NA27 (οἱ δὲ εἶπαν; SBLGNT ἀποκριθέντες δὲ εἶπαν — checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 14"
+    },
+    {
+      "ref": "20:25",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.3)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.3",
+          "evidence": "\"Reddite quae Caesaris Caesari, et quae sunt dei deo.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 15"
+    },
+    {
+      "ref": "20:26",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 20:20–26. NA27 αὐτοῦ ῥήματος (SBLGNT τοῦ ῥήματος).",
+      "reconstruction": "chapter 18, verse 16"
+    },
+    {
+      "ref": "20:27",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.4",
+          "evidence": "\"Sadducaei, resurrectionis negatores, de ea habentes interrogationem, proposuerant domino ex lege materiam mulieris quae septem fratribus ex ordine defunctis secundum praeceptum legale nupsisset, cuius viri deputanda esset in resurrectione.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 17"
+    },
+    {
+      "ref": "20:28",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.4",
+          "evidence": "\"Sadducaei, resurrectionis negatores, de ea habentes interrogationem, proposuerant domino ex lege materiam mulieris quae septem fratribus ex ordine defunctis secundum praeceptum legale nupsisset, cuius viri deputanda esset in resurrectione.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 18"
+    },
+    {
+      "ref": "20:29",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.4",
+          "evidence": "\"Sadducaei, resurrectionis negatores, de ea habentes interrogationem, proposuerant domino ex lege materiam mulieris quae septem fratribus ex ordine defunctis secundum praeceptum legale nupsisset, cuius viri deputanda esset in resurrectione.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 19"
+    },
+    {
+      "ref": "20:30",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.4",
+          "evidence": "\"Sadducaei, resurrectionis negatores, de ea habentes interrogationem, proposuerant domino ex lege materiam mulieris quae septem fratribus ex ordine defunctis secundum praeceptum legale nupsisset, cuius viri deputanda esset in resurrectione.\""
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 20"
+    },
+    {
+      "ref": "20:31",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.4",
+          "evidence": "\"Sadducaei, resurrectionis negatores, de ea habentes interrogationem, proposuerant domino ex lege materiam mulieris quae septem fratribus ex ordine defunctis secundum praeceptum legale nupsisset, cuius viri deputanda esset in resurrectione.\""
+        }
+      ],
+      "wording": "NA27. Roth: attested, but no insight into the wording.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 21"
+    },
+    {
+      "ref": "20:32",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 20:27–40.",
+      "reconstruction": "chapter 18, verse 22"
+    },
+    {
+      "ref": "20:33",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.4)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.4",
+          "evidence": "\"Sadducaei, resurrectionis negatores, de ea habentes interrogationem, proposuerant domino ex lege materiam mulieris quae septem fratribus ex ordine defunctis secundum praeceptum legale nupsisset, cuius viri deputanda esset in resurrectione.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 23"
+    },
+    {
+      "ref": "20:34",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.5, 8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.5",
+          "evidence": "\"Respondit igitur huius quidem aevi filios nubere.\""
+        },
+        {
+          "source": "Tertullian, Marc. 4.38.8",
+          "evidence": "\"Filii huius aevi nubunt et nubuntur\"."
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 24"
+    },
+    {
+      "ref": "20:35",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.5, 7–8)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.5",
+          "evidence": "\"Quos vero dignatus sit deus illius aevi possessione et resurrectione a mortuis, neque nubere neque nubi\"."
+        },
+        {
+          "source": "Tertullian, Marc. 4.38.7",
+          "evidence": "\"Nacti enim scripturae textum ita in legendo decucurrerunt: Quos autem dignatus est deus illius aevi. Illius aevi deo adiungunt, quo alium deum faciant illius aevi; cum sic legi oporteat: Quos autem dignatus est deus, ut facta hic distinctione post deum ad sequentia pertineat illius aevi…\""
+        }
+      ],
+      "wording": "Marcionite reading adopted, against Roth's grade (probable): \"those whom God has deemed worthy\" (οὓς δὲ κατηξίωσεν ὁ θεός) for NA27 \"those who are deemed worthy\" (οἱ δὲ καταξιωθέντες). Tertullian quotes the clause three times with God as subject. He reports that the Marcionites read \"the God of that age\" together, as a second God, and he argues against that punctuation but not against the text. Their reading requires the wording, as Roth notes (\"the interpretation… requires ὁ θεός to be an external subject\"). Only the attested element is changed. Roth's fuller retroversion (τῆς κληρονομίας for τυχεῖν, from possessione) is not adopted; NA27's τυχεῖν is kept, so that the Greek reads \"whom God has deemed worthy to attain that age and the resurrection\".",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 25"
+    },
+    {
+      "ref": "20:36",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.5, 7)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.5",
+          "evidence": "\"quia nec morituri iam sint, cum similes angelorum fiant, dei et resurrectionis filii facti\"."
+        }
+      ],
+      "wording": "NA27. NA27 cites McionT for μέλλουσιν (\"are about to\") for δύνανται, with D W Θ it; Roth: probable only. Not adopted.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 26"
+    },
+    {
+      "ref": "20:37–38",
+      "class": "A−",
+      "roth": "absent (20:37–38a); unattested (20:38b)",
+      "witnesses": [
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 56",
+          "evidence": "ἀπέκοψε τὸ »ὅτι δὲ ἐγείρονται οἱ νεκροὶ Μωυσῆς ἐμήνυσε ἐπὶ τῆς βάτου, καθὼς λέγει κύριον τὸν θεὸν Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακώβ. θεὸς δέ ἐστι ζώντων καὶ οὐχὶ νεκρῶν«."
+        },
+        {
+          "source": "Epiphanius, Pan. 42.11.6, sch. 57",
+          "evidence": "οὐκ εἶχε ταῦτα »ὅτι δὲ ἐγείρονται οἱ νεκροὶ καὶ Μωυσῆς ἐμήνυσε λέγων θεὸν Ἀβραὰμ καὶ θεὸν Ἰσαὰκ καὶ θεὸν Ἰακὼβ θεὸν ζώντων«."
+        }
+      ],
+      "decision": "not printed",
+      "reason": "Epiphanius states twice that the text lacked the proof of the resurrection from Moses at the bush and \"he is the God not of the dead but of the living\" (20:37–38a). Tertullian goes from 20:36 to 20:39 (4.38.8–9). 20:38b (\"for all live to him\") is unattested and completes the same sentence; it is not printed."
+    },
+    {
+      "ref": "20:39",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.9)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.9",
+          "evidence": "\"Atque adeo scribae, Magister, inquiunt, bene dixisti.\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 27"
+    },
+    {
+      "ref": "20:40",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 20:27–40.",
+      "reconstruction": "chapter 18, verse 28"
+    },
+    {
+      "ref": "20:41",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.10)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.10",
+          "evidence": "\"Si autem scribae Christum filium David existimabant, ipse autem David dominum eum appellat…\""
+        }
+      ],
+      "wording": "NA27.",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 29"
+    },
+    {
+      "ref": "20:42",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 20:41–44.",
+      "reconstruction": "chapter 18, verse 30"
+    },
+    {
+      "ref": "20:43",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "wording": "NA27.",
+      "decision": "printed, flagged unattested",
+      "reason": "Inside the attested paragraph 20:41–44.",
+      "reconstruction": "chapter 18, verse 31"
+    },
+    {
+      "ref": "20:44",
+      "class": "A+",
+      "roth": "present (Marc. 4.38.10)",
+      "witnesses": [
+        {
+          "source": "Tertullian, Marc. 4.38.10",
+          "evidence": "\"ipse autem David dominum eum appellat\"."
+        }
+      ],
+      "wording": "NA27 (κύριον αὐτόν; SBLGNT αὐτὸν κύριον — checked on the page image).",
+      "decision": "printed",
+      "reconstruction": "chapter 18, verse 32"
+    },
+    {
+      "ref": "20:45–47",
+      "class": "U?",
+      "roth": "unattested",
+      "witnesses": [],
+      "decision": "not printed",
+      "reason": "\"Beware of the scribes, who like to walk around in long robes… who devour widows' houses.\" A separate NA27 paragraph with no attested verse (METHOD §4.3). Tertullian passes from 20:44 (4.38.10) to 21:8 (4.39.1)."
+    }
+  ]
+}
