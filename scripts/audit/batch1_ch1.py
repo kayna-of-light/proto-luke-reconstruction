@@ -142,18 +142,16 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Every life begins governed from somewhere else. Its years are counted by a power it never chose, and this is "
- "the fifteenth. Its centre is held in another's name, and its outer reaches are parcelled out to lesser rulers "
- "who each answer upward. Nothing in it is yet its own.\n\n"
- "Truth does not enter such a life at the centre. It comes down at the edge, on a day when our own work has "
- "stopped. And what knows it first is not what we would expect: the part of us that was never ours, the one that"
- " has always spoken as \"we\". It knows exactly what it is facing, and it names it before anything else can, and "
- "it is muzzled for it.\n\n"
- "Then truth goes where we were brought up. What formed us has heard about it, wants a sign, and claims it as "
- "its own. Truth names that demand out loud, and what formed us reaches for the highest ground it stands on.\n\n"
- "When the light fails and we are left with only our own, everything that is sick is brought to it. When the "
- "light returns, we want to keep it where it healed us.\n\n"
- "It has other cities to reach."
+ "We know this feeling. Every day already spoken for, something far away keeping count, and the best of us "
+ "somewhere we cannot reach.\n\n"
+ "Then one quiet day, at the edge of the water, when we have finally stopped trying, there is a voice. It is not"
+ " loud. It asks for nothing. We only notice that everything in us has gone still to listen.\n\n"
+ "Something in us that never belonged there knows it at once, and is afraid.\n\n"
+ "What we grew up as wants it too, but on its own terms. When it cannot have it so, it carries it up to the "
+ "highest place it has and tries to let it fall.\n\n"
+ "It does not fall. It walks right through us.\n\n"
+ "That evening we bring it everything that hurts. In the morning we beg it to stay where it healed us.\n\n"
+ "It will not stay where we want it. It goes on, into every part of us, until all of it is set right."
 )
 
 NOTES = [

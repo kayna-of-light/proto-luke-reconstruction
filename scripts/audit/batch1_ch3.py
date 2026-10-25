@@ -141,15 +141,13 @@ ENTRIES = [
 OMITTED = []
 
 PREAMBLE = (
- "Some things are settled at night, on high ground, alone. When day comes, twelve are called and named, and all "
- "of it comes down together and stands on level ground, where every part of a life can reach it, from its centre"
- " to its farthest coast.\n\n"
- "What is said there turns our accounts upside down. What is empty is called fortunate; what is full is told it "
- "has already been paid. The enemy is to be loved, and the hand that takes is to be given more. Every measure we"
- " use, we will find used on us.\n\n"
- "Then the speech narrows from the crowd to the eye. There is a splinter we see very clearly, and a beam we do "
- "not see at all. A tree cannot bear fruit other than its own, and a mouth speaks what the heart is full of.\n\n"
- "It is easy to say \"lord, lord\". The question is what we do."
+ "Some things are only settled at night, high up and alone. When day comes they do not stay up there. They come "
+ "down and stand on level ground, where every part of us can reach them, from the centre to the farthest shore.\n\n"
+ "What is said there turns our accounts upside down. Emptiness is called fortunate, and fullness is told it has "
+ "already been paid. Whatever measure we use comes back to us, pressed down and running over.\n\n"
+ "Then the voice comes closer, right up to the eye. There is a splinter we see very clearly, and something much "
+ "larger that we do not see at all.\n\n"
+ "We say \"lord, lord\" so easily."
 )
 
 NOTES = [

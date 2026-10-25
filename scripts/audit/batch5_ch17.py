@@ -64,14 +64,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Something in us has grown rich by collecting what others owe. It comes down in a hurry, glad, and opens its "
- "house, and before anyone asks it gives half of everything away and repays what it took four times over. Today,"
- " it is told. Not someday.\n\n"
- "Everything around it is sure the kingdom is about to appear at once. So a story is told about waiting. "
- "Something is entrusted to each of us, a small sum, and we are told to put it to work until the owner returns.\n\n"
- "One of us thinks the owner hard, and does nothing at all with what it was given. It is judged out of its own "
- "mouth.\n\n"
- "To everyone who has, more will be given."
+ "Something in us has grown rich on what others owe, and when the moment comes it comes down in a hurry, glad of"
+ " it, and throws its house open. Before anyone asks, it gives to the poor and repays what it took many times "
+ "over. It is told: today. Not some day.\n\n"
+ "Everything around it expects the kingdom to appear at once. So a story is told about waiting. Something is put"
+ " into our hands, and we are told to trade with it until the owner comes back.\n\n"
+ "One part of us thinks the owner hard, and does nothing with what it was given. It is judged by its own words.\n\n"
+ "Whoever has, will be given more."
 )
 
 NOTES = [

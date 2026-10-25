@@ -66,17 +66,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "What once held us sevenfold has gone out, and what is left now serves out of its own means. A life in this "
- "state is ready to hear, and the chapter is about nothing else.\n\n"
- "A seed falls into good earth and returns a hundred times over. A lamp is lit and set where it can be seen, "
- "because nothing hidden stays hidden. Whatever we already have will be added to; whatever we only seem to have "
- "will go. So watch how you hear.\n\n"
- "Even our own family is redrawn. What we came from stands outside, wanting to see. What hears and does is the "
- "family now.\n\n"
- "Then we set out for the other side, and out on the water, while truth sleeps in the boat, the wind comes down "
- "and the water rises. We wake it in a panic, and the wind falls still. Then it asks one thing: where is your "
- "trust?\n\n"
- "The question we are left with is better than the one we brought: who then is this?"
+ "When what once held us has gone out, what remains begins to give freely of what it has. A life like that is "
+ "ready to hear.\n\n"
+ "Something falls into good ground and comes back many times over. A lamp is lit, and no one hides it under the "
+ "bed. Whatever we have will be added to, and whatever we only seem to have will go, so it matters how we "
+ "listen.\n\n"
+ "Even family is redrawn. What we came from stands outside asking to see. Whatever hears and does is closer now.\n\n"
+ "Then we set out for the other side. Out on the water, while truth sleeps in the boat, the wind comes down and "
+ "the water rises. We wake it in a panic, and the water goes flat. It asks where our trust was, and we are left "
+ "with a better question than the one we brought."
 )
 
 NOTES = [

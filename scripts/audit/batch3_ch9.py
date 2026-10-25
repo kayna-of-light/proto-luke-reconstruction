@@ -150,15 +150,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "It starts with asking how to ask. The prayer given here wants the spirit first, then the kingdom, then bread "
- "enough for the day, and it lets go of what is owed to us as readily as it asks to be let go.\n\n"
- "Asking turns out to be a matter of knocking at midnight on a door already shut for the night, and going on "
- "knocking without shame. And what answers is a father: it will not hand us a snake.\n\n"
- "Then something that has kept us mute goes out, and we speak, and at once part of us suspects the cure. A "
- "strong one guards its courtyard and all its goods are at peace, until a stronger one comes.\n\n"
- "The chapter ends at a table, before a cup polished on the outside. We clean what can be seen, count out our "
- "tenths of mint and rue, sit in the first seats, and take away the key without ever going in.\n\n"
- "Whoever made the outside made the inside as well."
+ "It begins with learning how to ask, and the asking is stranger than we expect. It wants the spirit before "
+ "anything else, then bread enough for the day, and it lets go of what is owed to us as easily as it asks to be "
+ "let go.\n\n"
+ "Sometimes it means knocking at midnight on a door that is already shut, and going on knocking without shame. "
+ "And no father hands a snake to a child who asked for fish.\n\n"
+ "Then something that kept us dumb goes out, and we speak, and part of us at once suspects the cure. A strong "
+ "one keeps its courtyard in perfect peace, until a stronger one comes.\n\n"
+ "At the table there is a cup polished only on the outside. Whoever made the outside made the inside too, and "
+ "someone has walked off with the key."
 )
 
 NOTES = [

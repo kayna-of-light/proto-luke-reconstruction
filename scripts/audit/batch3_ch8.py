@@ -106,15 +106,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Before truth arrives anywhere in us, seventy go ahead of it, in pairs, carrying nothing. It enters and says "
- "one word, peace, and stays where that word is received. Where it is not, it wipes off even the dust and moves "
- "on. Either way the message is the same: it has come near.\n\n"
- "What goes out is given authority over everything that bites and stings. But what follows is hidden from the "
- "wise and the understanding, and shown to infants. Fortunate are the eyes that see it.\n\n"
- "Then the clever part of us stands up to test it. It wants a task, something to do to earn life. It is handed "
- "nothing new. It is asked to read what it already has, out loud, and to hear what it says: the whole heart, the"
- " whole soul, the whole strength, the whole mind.\n\n"
- "Do this, and you will live."
+ "Before truth arrives anywhere in us, something goes ahead of it in pairs, carrying nothing and stopping for no"
+ " one. It steps into a house and says one word, peace, and stays wherever that word is taken in. Where it is "
+ "not, it shakes off even the dust. Either way, something has come near.\n\n"
+ "What goes ahead is given power over everything that bites and stings. But what matters most stays hidden from "
+ "the clever and is shown to the very young, and the eyes that see it are called fortunate.\n\n"
+ "Then the clever part of us stands up to test it, and asks what it must do. It is handed nothing new. It is "
+ "asked how it reads what it already has."
 )
 
 NOTES = [

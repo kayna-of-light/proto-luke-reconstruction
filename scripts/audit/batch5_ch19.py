@@ -94,16 +94,16 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Everyone wants to know when, and what the sign will be. The answer is not a date. Many voices will come using "
- "truth's own name, saying the time is near. Do not follow them.\n\n"
- "Before anything ends, everything shakes. One part of us rises against another. The ground moves. What is "
- "closest to us hands us over. The centre we built is surrounded. Sun, moon and stars lose their bearings, and "
- "the sea roars. We are not to rehearse our defence; a mouth and wisdom will be given when they are needed.\n\n"
- "And at exactly that point, when the powers of the heavens are shaken, we are told to straighten up and lift "
- "our heads. A fig tree puts out leaves, and anyone can tell that summer is near.\n\n"
- "Hearts can be weighed down with drink and with the cares of every day. Watch yourselves.\n\n"
- "By day, truth teaches at the centre. At night it goes out to the mountain. And early in the morning, "
- "everything in us comes to hear it."
+ "Everyone wants to know when, and what the sign will be. The answer is not a date. Many voices will come "
+ "wearing truth's own name and saying the time is near. They are not to be followed.\n\n"
+ "Before anything ends, everything shakes. One part of us rises against another, the ground moves, what is "
+ "closest to us hands us over, and the very centre we built is surrounded. Sun, moon and stars lose their "
+ "bearings, and the sea roars. There is no need to rehearse a defence. The words will be given when they are "
+ "needed.\n\n"
+ "And exactly then, when the powers of the heavens are shaken, we are told to straighten up and lift our heads. "
+ "A fig tree puts out leaves, and anyone can tell that summer is close.\n\n"
+ "By day truth teaches at the centre. At night it goes out to the mountain. And early in the morning, everything"
+ " in us comes to hear it."
 )
 
 NOTES = [

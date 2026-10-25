@@ -140,16 +140,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "The feast of unleavened bread is near, the night of leaving bondage, and something from within the circle of "
- "our own powers goes off to agree a price.\n\n"
- "At the table, truth gives itself away in the plainest things there are. Bread is broken and handed round: this"
- " is my body, given for you. A cup is passed: the new covenant. It has longed to eat this meal.\n\n"
- "The boldest part of us swears it is ready for prison and for death, and is told that before the cock crows it "
- "will have said three times that it does not know truth at all.\n\n"
- "A stone's throw away, alone, truth kneels and prays. Then one of its own twelve comes with a crowd and draws "
- "near to kiss it.\n\n"
- "When day comes, the highest authority in us sits in judgement. Are you the Anointed One? If I tell you, you "
- "will not trust. Are you the son of God, then?\n\n"
+ "The feast of leaving bondage is near, and something from inside our own circle goes off quietly to agree a "
+ "price.\n\n"
+ "At the table, truth gives itself away in the plainest things there are: bread broken and handed round, a cup "
+ "passed from hand to hand. It has longed to eat this meal.\n\n"
+ "The boldest part of us swears it is ready for prison and for death, and is told that before the night is out "
+ "it will say it does not know truth at all.\n\n"
+ "A stone's throw away, alone, truth kneels. Then someone from the circle comes with a crowd and leans in to "
+ "kiss it. Blindfolded, it is struck and told to prophesy who struck it.\n\n"
+ "When day comes, the highest authority in us sits in judgement and asks it plainly who it is.\n\n"
  "You say that I am."
 )
 

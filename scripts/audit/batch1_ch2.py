@@ -153,16 +153,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Two boats stand empty at the edge of the water, and the nets are being washed. This chapter begins beside that"
- " work, and what it finally asks of it is not more effort but less: let everything go.\n\n"
- "After that, things begin to move that could not move by themselves. What is unclean asks only whether it is "
- "wanted. What lies paralysed is carried in on its bed and released before it is told to walk. The part of us "
- "that has long collected dues for another master is called away from its booth, and truth sits down to eat with"
- " it.\n\n"
- "Not everything welcomes this. Part of us expects the new to keep the old forms: to fast as before, to patch "
- "the old garment, to pour new wine into old skins. And on the day set apart for rest, a hand that has gone dry "
- "is waiting in the assembly, and everything that keeps the rules is watching.\n\n"
- "New wine needs somewhere new to go."
+ "There are boats in us that stand empty at the shore, their nets washed and put away. Then suddenly there is "
+ "more than they can hold, and the strange thing is that what we want most is to let go of all of it.\n\n"
+ "After that, what could not move begins to move. What is unclean only asks whether it is wanted. What lies "
+ "still is carried in by others and released before it is told to stand. Even the part of us that sits "
+ "collecting for someone else is called away from its table.\n\n"
+ "Not everything is glad of it. Old cloth does not take a new patch, and old skins do not hold new wine. And on "
+ "the day meant for rest, a hand that has gone dry is waiting, while something in us counts what is permitted."
 )
 
 NOTES = [

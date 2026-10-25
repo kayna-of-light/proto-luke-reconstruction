@@ -135,17 +135,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Very early, while it is still deep dawn, the part of us that stayed comes with spices for the dead and finds "
- "nothing to anoint. Two figures in flashing clothes ask the question that turns the whole book around: why seek"
- " the Living One among the dead?\n\n"
- "What it reports sounds to the rest of us like idle talk.\n\n"
- "Later, two of us are walking away, talking it over. Truth comes alongside and walks with them, and they do not"
- " know it. They describe it to its face by the old name, the one first heard in the assembly: a man, a prophet,"
- " and how they had hoped. They are slow of heart, it tells them, and it goes on walking with them.\n\n"
- "At the table it takes the bread, blesses it, breaks it and gives it, and their eyes are opened, and in the "
- "same moment it can no longer be seen.\n\n"
- "Then, while we are still afraid it is only a spirit, it tells us to look at its hands and feet, and asks for "
- "something to eat."
+ "Very early, before it is properly light, the part of us that stayed comes with spices for the dead and finds "
+ "nothing to anoint. It is asked why it seeks the Living One among the dead.\n\n"
+ "When it tells the rest of us, it sounds like idle talk.\n\n"
+ "Later, we are walking away, talking it all over, and truth falls into step beside us and is not recognised. We"
+ " describe it to its face by the oldest name we have for it, and tell it how much we had hoped. We are called "
+ "slow of heart.\n\n"
+ "At the table it takes the bread, blesses it and breaks it, and in that moment our eyes open and it is gone.\n\n"
+ "Then, while we are still afraid it is only a spirit, it asks us to look at its hands and feet, and asks if "
+ "there is anything to eat."
 )
 
 NOTES = [

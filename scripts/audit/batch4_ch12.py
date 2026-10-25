@@ -44,15 +44,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "There is a kind of hospitality that is really an exchange. We invite whatever in us can invite us back, and "
- "the meal is paid off before it is eaten.\n\n"
- "A great dinner is made ready, and the call goes out: come, it is ready now. Everything that was invited has "
- "something else to see to first. A field has just been bought and must be looked at. Five yoke of oxen must be "
- "tried out. A marriage has been made, and that settles it.\n\n"
- "So the call goes out again, into the streets and lanes, to what is poor in us, crippled, blind and lame, the "
- "parts we never thought to ask. They come. There is still room.\n\n"
- "Then further, to the roads and the hedges, the edges of the edges, until the house is full.\n\n"
- "None of those first invited will taste the dinner."
+ "There is a kind of generosity that is really trade. We invite whatever in us can invite us back, and the meal "
+ "is paid for before it is eaten.\n\n"
+ "Then a great table is laid and the word goes out: come, it is ready now. And everything we thought would come "
+ "has something else to do first: land to look at, oxen to try, a marriage that settles everything.\n\n"
+ "So the call goes into the streets and lanes, to the poor parts of us, the lame and the blind, the ones we "
+ "never thought to ask. They come, and there is still room. Then further out, to the roads and the hedges, until"
+ " the house is full.\n\n"
+ "The first guests will not taste it."
 )
 
 NOTES = [

@@ -114,15 +114,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "There is a widow in us who has no one to speak for her, and a judge who fears nothing and no one. She keeps "
- "coming back. In the end she is heard, not because the judge has changed, but because she has not stopped.\n\n"
- "Two parts of us go up to pray. One stands and thanks God for being better than the rest, and lists what it "
- "gives. The other stands far off, will not lift its eyes, and beats its chest. Only one goes home made just.\n\n"
- "Something rich in us asks what it must do, has kept every rule since youth, and is told the one thing it "
- "lacks. It grieves, because it is very rich.\n\n"
- "And beside the road, something blind hears a crowd going past and asks what it is. It is told a name. It calls"
- " out a different one, louder each time it is told to be quiet.\n\n"
- "It asks to see again."
+ "Some part of us has no one to speak for it, and stands before a judge that fears nothing and no one. It keeps "
+ "coming back. In the end it is heard, not because the judge has changed, but because it has not stopped.\n\n"
+ "Two parts of us go up to pray. One stands tall and gives thanks that it is not like the others. The other "
+ "stays far back, cannot lift its eyes, and beats its chest. Only one of them goes home made just.\n\n"
+ "Something rich in us has kept every rule since it was young, and is told the one thing it lacks. It grows very"
+ " sad.\n\n"
+ "And by the road, something blind hears a crowd going by and asks what it is. It is told a name. It shouts a "
+ "different one, louder every time it is told to be quiet."
 )
 
 NOTES = [

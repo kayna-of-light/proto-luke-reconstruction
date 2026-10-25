@@ -106,17 +106,15 @@ ENTRIES = [
 OMITTED = []
 
 PREAMBLE = (
- "On the far shore of ourselves, something lives among the tombs. It has worn nothing for years. Asked its name,"
- " it gives not one name but a multitude, and it begs not to be sent into the depths. It asks to go into the "
- "herd feeding on the mountain, and is allowed.\n\n"
- "Back home, two things are failing at once. Something young in us has reached twelve years, a full count, and "
- "it is dying. Something else has been bleeding for exactly as long, and has spent its whole living on cures "
- "from outside. It reaches out in the crush, touches the outermost edge, and that is enough: the flow stops. "
- "Power has gone out, and truth knows it.\n\n"
- "Our own powers are then sent out with nothing in their hands. What rules us from the edges hears the news and "
- "cannot work out what it is hearing.\n\n"
- "And as the light declines in a deserted place, we count what we have: five loaves, two fish. It is all there "
- "is, and it is enough. There is more left over than we started with."
+ "On the far side of ourselves something lives among the tombs and has worn nothing for years. Ask its name and "
+ "it answers with a crowd. It begs not to be sent into the deep, and is allowed to go elsewhere.\n\n"
+ "Closer to home, something young is dying just as it should be coming into its fullness, and something else has"
+ " been bleeding away for just as long, spending all it has on cures from outside. In the crush it touches only "
+ "the very hem, and that is enough. Power goes out, and truth feels it go.\n\n"
+ "What we send out after that carries nothing in its hands. What rules us at the edges hears of it and cannot "
+ "make sense of what it hears.\n\n"
+ "And as the light declines, somewhere bare, we look at what we have to give, and it does not look like enough. "
+ "There is more left over than we began with."
 )
 
 NOTES = [

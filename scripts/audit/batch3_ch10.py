@@ -178,17 +178,15 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Things whispered in inner rooms do not stay there. Whatever we said in the dark will be heard in the light, "
- "and what threatens us from outside can only kill what is outside.\n\n"
- "Part of us has a good harvest. It tells its soul that it has plenty laid up for years to come, and that it can"
- " rest. That night the soul is asked for back.\n\n"
- "Look instead at the ravens, which have no storeroom, and the lilies, which do no work and are clothed better "
- "than the richest king. The kingdom has already been given. It does not have to be stored.\n\n"
- "What is asked of us is to stay awake: belts fastened, lamps lit, listening for a knock. Whatever is found "
- "awake will be served at table by the master himself. Whatever decides the master is late, and starts beating "
- "the others, will not be ready.\n\n"
- "Then fire, and a division running through the house. We read the face of the sky without difficulty. We cannot"
- " read the time we are in."
+ "Nothing whispered in an inner room stays there. What we say in the dark will be heard in the light, and "
+ "whatever can only hurt the outside of us can only hurt the outside.\n\n"
+ "Part of us has had a good year, and tells its soul it can rest now. That night the soul is asked for back. "
+ "Look instead at the birds that keep no storeroom and the flowers that never spin, dressed better than any "
+ "king. What we are anxious to store has already been given.\n\n"
+ "So the lamps stay lit and the belt stays fastened, and we listen for a knock. What is found awake will be "
+ "served at its own table by the one it was waiting for.\n\n"
+ "Then fire, and a house divided against itself. We read the sky without any trouble. We cannot read the time we"
+ " are in."
 )
 
 NOTES = [

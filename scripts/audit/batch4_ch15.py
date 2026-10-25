@@ -87,14 +87,13 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Ten parts of us are unclean, and all ten are sent to show themselves, and on the way all ten are made clean. "
- "Only one turns back to give thanks, and it is the one we would least expect: the stranger, the one from the "
- "border country. Where are the nine?\n\n"
- "Then the question comes, as it always does: when will the kingdom come? Where should we be looking? Not here, "
- "not there. Not by watching closely. It is already inside.\n\n"
- "And yet there will be days of longing, days when it cannot be seen. Life will go on as it always has. We will "
- "eat and drink, buy and sell, plant and build, and none of it will be wrong, and none of it will be what "
- "matters when that day comes.\n\n"
+ "Something is cleansed in us on the way, while we are still doing what we were told. Most of what is healed "
+ "simply walks on. One thing turns back to give thanks, and it is the last thing we would expect: the stranger, "
+ "the one from the border country.\n\n"
+ "Then the old question comes: when will the kingdom come, and where should we look? Not here, not there, and "
+ "not by watching closely. It is already inside.\n\n"
+ "Still, there will be days of longing when it cannot be seen. We will eat and drink, buy and sell, plant and "
+ "build, and none of it will be wrong, and none of it will be what matters.\n\n"
  "Remember the woman who looked back."
 )
 

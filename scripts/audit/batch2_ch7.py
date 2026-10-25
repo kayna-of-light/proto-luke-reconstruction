@@ -124,16 +124,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Sooner or later the question turns inward. Not what the crowds say, but what we say. The answer, when it "
- "comes, is right, and we are told to keep it to ourselves, because what it means has not happened yet: what is "
- "truest in us will be rejected by everything that governs us, and must die before it rises.\n\n"
- "Higher up, in prayer, its face becomes other and its clothing turns to lightning, and the law and the prophets"
- " stand talking with it. We are half asleep. We want to build three shelters and stay. A cloud comes instead, "
- "and a voice, and only one instruction: hear.\n\n"
- "Down below, we cannot heal what we were asked to heal. We argue about which of us is greatest, and are shown a"
- " child.\n\n"
- "Then we are on the road. What is true has nowhere to lay its head, and whoever puts a hand to the plough "
- "cannot keep looking back."
+ "Sooner or later the question turns round. Not what everyone else says, but what we say. The right answer "
+ "comes, and we are told to keep it to ourselves, because what it means has not happened yet.\n\n"
+ "Higher up, in prayer, a face becomes other, and everything old that ever spoke of it stands there talking with"
+ " it. We are half asleep. We want to build somewhere to stay. A cloud comes instead, and only one instruction: "
+ "listen.\n\n"
+ "Below, we cannot do what we were sent to do. We argue about which of us is greatest, and are shown a child.\n\n"
+ "Then we are on the road, behind something that has nowhere to lay its head, and every look back costs us the "
+ "furrow."
 )
 
 NOTES = [

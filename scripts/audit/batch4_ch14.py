@@ -99,16 +99,15 @@ ENTRIES = [
 OMITTED = []
 
 PREAMBLE = (
- "What manages our goods for us is told to hand over the accounts. Before it goes, it does something unexpected:"
- " it calls in everything that owes, and writes the debts down. Even what is not truly ours can be used to make "
+ "Whatever manages what we have is about to lose its post, and before it goes it does something strange: it "
+ "calls in everything that owes and writes the debts down. Even what was never truly ours can be used to make "
  "friends.\n\n"
- "No one can serve two masters. Part of us, fond of silver, hears that and turns up its nose.\n\n"
- "Then two lives, side by side. One is dressed in purple and feasts every day. The other lies at its gate, "
- "covered in sores, longing for what falls from the table, and the dogs come and lick him. Both die. Now one "
- "sees the other, far off, across a chasm that no one can cross.\n\n"
- "The one in the flame asks for a messenger from the dead, to warn the five still at home. The answer is that "
- "they already have every warning they need.\n\n"
- "Someone rising from the dead will not move a soul that does not listen."
+ "Nothing serves two masters, and the part of us that loves silver hears that and turns up its nose.\n\n"
+ "Then two lives, side by side. One dressed in purple and feasting every day. The other at its gate, in sores, "
+ "longing for crumbs, with only the dogs for company. When both are gone, one of them looks up out of the flame "
+ "and sees the other far off, across a distance nothing can cross.\n\n"
+ "It asks for someone to go back and warn the rest of the house. It is told they already have all they need to "
+ "hear."
 )
 
 NOTES = [

@@ -59,15 +59,14 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Something in us has been held fast for eighteen years by what binds it. On the day set apart for rest, it is "
- "loosed.\n\n"
- "What keeps the order of our worship is indignant. There are six days for work; healing should keep to them. "
- "But every one of us unties an ox on that day and leads it to water. Why not this?\n\n"
- "The kingdom, meanwhile, starts very small: a seed thrown into our own garden that becomes a tree with birds in"
- " its branches, a little leaven hidden in three measures of flour until the whole of it rises.\n\n"
- "And there is a door. One day the master of the house gets up and shuts it, and some of us are left outside, "
- "knocking. We remind him that we ate and drank with him, and that he taught in our streets.\n\n"
- "He does not know where we are from."
+ "Something in us has been held fast for so long that it has forgotten what it was to be free. On the day set "
+ "apart for rest, it is loosed.\n\n"
+ "Whatever keeps the order of our worship is indignant. There are other days for that. And yet every one of us "
+ "unties an animal on that same day and leads it to water.\n\n"
+ "What grows in us starts smaller than anything: a seed thrown into our own garden that ends up with birds in "
+ "its branches, a little leaven hidden in the whole of the dough until all of it rises.\n\n"
+ "And there is a door. One day it is shut, and some of us are outside, knocking, reminding the master that we "
+ "ate and drank with him. He does not know where we are from."
 )
 
 NOTES = [

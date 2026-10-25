@@ -38,15 +38,17 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Something in us keeps a whole flock, a hundred, and loses one. No one says it strayed. It was lost, and the "
- "one who lost it is the one who goes after it.\n\n"
- "The ninety-nine are left where they are, in the desert. The lost one is followed until it is found, and then "
- "it is not driven home but carried, on the shoulders, with joy, into the house. Friends and neighbours are "
- "called in to rejoice.\n\n"
- "The second loss happens indoors, and it is not a living thing but silver: one coin out of a full ten. Whatever"
- " keeps the house lights a lamp and sweeps every corner until it turns up.\n\n"
- "Neither of them is scolded. Neither is asked where it has been.\n\n"
- "There is more joy over one that turns than over ninety-nine that see no need to."
+ "We can keep a great deal and still feel poor. Usually it is because something is missing that we cannot name, "
+ "and it is never something at the edge of us. When it goes, everything else we keep falls quiet, like a flock "
+ "left standing in a desert.\n\n"
+ "What we love most does not wait for it to come back. It goes looking. And what it brings home is not driven in"
+ " but carried, close, the way we carry what we cannot bear to lose twice, until the whole house is warm with "
+ "it.\n\n"
+ "There is another kind of losing that never leaves the house. Something bright is in here, somewhere, and we "
+ "cannot see it. Rummaging only scatters things further. It takes a light, and a patient ordering of every room,"
+ " before it shows itself.\n\n"
+ "Neither is lost for good. And somewhere above us there is more joy over what turns than over all that never "
+ "needed to."
 )
 
 NOTES = [

@@ -121,16 +121,16 @@ OMITTED = [
 ]
 
 PREAMBLE = (
- "Every power in us that rules from outside now has truth in its hands. The prince of the edges has wanted to "
- "see it for a long time, hopes for a sign, and gets silence. The governor asks a third time what evil it has "
- "done: he has found no cause. But the voices are louder, and the voices win.\n\n"
- "They ask instead for what was locked up for uprising and murder, and it is set free.\n\n"
- "At the place of the skull, between two who did evil, truth is put to death. At midday the sun fails, darkness "
- "covers the whole land, and the curtain at the centre is torn down the middle. The last words are not a cry of "
- "defeat: into your hands.\n\n"
- "Then one member of the very council that condemned it, who never agreed, comes forward and asks for the body. "
- "It is laid in rock where nothing has lain before.\n\n"
- "The women who came from the edge watch where it is laid, make ready the spices, and rest."
+ "Every power in us that rules from outside now has truth in its hands. The one from the edges has wanted to see"
+ " it for a long time and hopes for a sign. It gets silence. The one at the centre asks again what wrong it has "
+ "done, and finds none. But the voices are louder, and the voices win.\n\n"
+ "What was locked up for uprising and murder is set free instead.\n\n"
+ "At the place of the skull, among those who did evil, truth is put to death. In the middle of the day the sun "
+ "fails, and the curtain at the very centre tears down the middle. The last words are not a cry of defeat. They "
+ "are a handing over.\n\n"
+ "Then someone from the very council that condemned it, who never agreed, asks for the body and lays it in stone"
+ " where nothing has lain before. Those who came from the edge watch where it is laid, make ready the spices, "
+ "and rest."
 )
 
 NOTES = [
